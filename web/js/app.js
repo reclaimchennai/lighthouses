@@ -2,7 +2,7 @@
 // sheet under 821px and a sidebar above it.
 import * as THREE from 'three';
 // ?v= on every module: Cloudflare caches .js for ~4 h, and a fresh app.js must never meet a stale layer3d.js
-import { LighthouseLayer, COLOURS, lightLevel, morsePhases } from './layer3d.js?v=10';
+import { LighthouseLayer, COLOURS, lightLevel, morsePhases } from './layer3d.js?v=11';
 import { createCapture } from './record.js?v=8';
 import { openRecord } from './dossier.js?v=1';
 import { mountScene } from './scenes.js?v=2';
@@ -164,6 +164,8 @@ map.once('style.load', () => {
   } });
   loadStep('Lighting the lamps…', 94);
   map.addLayer(layer);
+  styleReady = true;
+  addWarningLayers();
   // light for the 3D buildings: a low, cool moon from the south-west
   map.setLight({ anchor: 'map', position: [1.4, 210, 35], color: '#c9d6ea', intensity: 0.5 });
   // done after the first frame with the lights drawn (shaders compiled), so the bar reaches 100% on screen
@@ -192,7 +194,7 @@ map.once('style.load', () => {
 const SCENE_OPTS = {
   towerSpec,
   clock: () => layer.clock.value,
-  level: (st, t) => (st.phases ? lightLevel(st.phases, t) : 0),
+  level: (st, t) => (st.phases && !layer.unlit.has(st.id) ? lightLevel(st.phases, t) : 0),
 };
 {
   const hero = byId.get('chennai-lighthouse') || lights[0];
@@ -365,6 +367,7 @@ function setYear(y) {
   layer.setYear(y);
   $('#year').value = y;
   $('#wm-year').textContent = y;
+  applyWarningVisibility();
   $('#year-label').textContent = y >= YEAR_MAX ? 'today' : y;
   const n = lights.filter(s => layer.bornBy(s, y)).length;
   const dated = lights.filter(s => yearOf(s) && yearOf(s) <= y).sort((a, b) => yearOf(a) - yearOf(b));
@@ -558,8 +561,13 @@ function nearest(pt) {
   }
   return best;
 }
-map.on('click', e => { const s = nearest(e.point); if (s) select(s.id, true); else closeCard(); });
-map.on('mousemove', e => { map.getCanvas().style.cursor = nearest(e.point) ? 'pointer' : ''; });
+map.on('click', e => {
+  const s = nearest(e.point);
+  if (s) return select(s.id, true);
+  const w = warningAt(e.point);
+  if (w) openWarning(w); else closeCard();
+});
+map.on('mousemove', e => { map.getCanvas().style.cursor = nearest(e.point) || warningAt(e.point) ? 'pointer' : ''; });
 $('#search').addEventListener('change', e => {
   const q = e.target.value.trim().toLowerCase();
   const s = S.find(x => x.name.toLowerCase() === q) || S.find(x => x.name.toLowerCase().includes(q));
@@ -649,7 +657,7 @@ function charText(s) {
   return `<span title="Ledger text: ${esc(s.char || '')}"><b>${abbr}</b> · ${words}</span>`;
 }
 function lightSpec(s) {
-  if (!s.phases) return `<section class="spec"><h4 class="spec-h">${icon('bulb')}Light</h4><p class="note">No light characteristic: radio / DGNSS station.</p></section>`;
+  if (!s.phases) return `<section class="spec"><h3 class="spec-h">${icon('bulb')}Light</h3><p class="note">No light characteristic: radio / DGNSS station.</p></section>`;
   const base = s.no_ledger ? 'directory' : 'ledger';
   const sim = s.sim || {};
   const seq = s.phases.map((v, i) => `${fmt(v, 2)} s ${i % 2 ? 'dark' : 'lit'}`).join(' · ');
@@ -672,7 +680,7 @@ function lightSpec(s) {
     rows.push(['Optic', 'Not stated; drawn flashing in place', 'derived']);
   }
   if (s.sectored) rows.push(['Sectors', esc(s.sectors_text || 'White and red sectors; bearings not in the ledger, drawn white'), 'ledger']);
-  return `<section class="spec"><h4 class="spec-h">${icon('bulb')}Light</h4><dl class="facts">${rows.map(([k, v, src]) => `<dt>${k}</dt><dd>${v}${chip(src)}</dd>`).join('')}</dl>${footnotes(rows.map(r => r[2]))}</section>`;
+  return `<section class="spec"><h3 class="spec-h">${icon('bulb')}Light</h3><dl class="facts">${rows.map(([k, v, src]) => `<dt>${k}</dt><dd>${v}${chip(src)}</dd>`).join('')}</dl>${footnotes(rows.map(r => r[2]))}</section>`;
 }
 
 // Brightness on a log scale against every DGLL light that states an intensity, a candle
@@ -681,7 +689,7 @@ const HIGH_BEAM_CD = 140000;
 const INTENSITIES = lights.map(x => x.intensity_cd).filter(v => v > 0).sort((a, b) => a - b);
 function brightnessViz(s) {
   const I = s.intensity_cd;
-  if (!I) return `<section class="spec"><h4 class="spec-h">${icon('brightness')}Brightness</h4><p class="note">The ledger states no beam intensity.</p></section>`;
+  if (!I) return `<section class="spec"><h3 class="spec-h">${icon('brightness')}Brightness</h3><p class="note">The ledger states no beam intensity.</p></section>`;
   const W = 320, lo = 0, hi = 8;                       // 10^0 … 10^8 cd
   const x = v => 8 + (Math.log10(Math.max(1, v)) - lo) / (hi - lo) * (W - 16);
   const rank = INTENSITIES.filter(v => v < I).length / INTENSITIES.length;
@@ -691,7 +699,7 @@ function brightnessViz(s) {
     : `${fmt(1 / ratio, 0)}× dimmer than one car high-beam lamp`;
   const ticks = INTENSITIES.map(v => `<line x1="${x(v)}" x2="${x(v)}" y1="22" y2="34" class="t-all"/>`).join('');
   const axis = [1, 100, 1e4, 1e6, 1e8].map(v => `<text x="${x(v)}" y="50" class="t-ax" text-anchor="middle">${v >= 1e6 ? fmt(v / 1e6) + 'M' : v >= 1e3 ? fmt(v / 1e3) + 'k' : v}</text>`).join('');
-  return `<section class="spec"><h4 class="spec-h">${icon('brightness')}Brightness ${chip(s.no_ledger ? 'directory' : 'ledger')}</h4>
+  return `<section class="spec"><h3 class="spec-h">${icon('brightness')}Brightness ${chip(s.no_ledger ? 'directory' : 'ledger')}</h3>
     <p class="big">${fmt(I)} <small>candela</small></p>
     <p class="note">${compare}; brighter than ${fmt(rank * 100)}% of the ${INTENSITIES.length} DGLL lights that state an intensity.</p>
     ${s.iala_nm && s.lum_nm ? `<p class="note">At night in clear weather this carries <b>${fmt(s.iala_nm, 1)} NM</b> (IALA formula)${
@@ -719,7 +727,7 @@ function reachViz(s) {
   const bar = (y, nm, label, cls, src) => nm ? `<text x="0" y="${y + 9}" class="t-lab2">${label}</text>
       <rect x="${L}" y="${y}" width="${Math.max(2, x(nm) - L)}" height="12" rx="0" class="${cls}"/><text x="${x(nm) + 4}" y="${y + 10}" class="t-val">${fmt(nm, 1)} NM</text>` : '';
   const ticks = [0, max / 2, max].map(v => `<text x="${x(v)}" y="70" class="t-ax" text-anchor="middle">${fmt(v)} NM</text>`).join('');
-  return `<section class="spec"><h4 class="spec-h">${icon('ruler')}Reach ${chip(s.no_ledger ? 'directory' : 'ledger')}</h4>
+  return `<section class="spec"><h3 class="spec-h">${icon('ruler')}Reach ${chip(s.no_ledger ? 'directory' : 'ledger')}</h3>
     <p class="big">${fmt(s.reach_nm, 1)} <small>NM · ${fmt(s.reach_nm * 1.852, 0)} km out to sea</small></p>
     ${limit ? `<p class="note">Limited by ${limit}. India's median light reaches ${fmt(med, 1)} NM.</p>` : ''}
     <svg viewBox="0 0 ${W} 76" class="viz" role="img" aria-label="Luminous range ${fmt(s.lum_nm, 1)} NM, geographical range ${fmt(s.geo_nm, 1)} NM">
@@ -781,18 +789,19 @@ function renderCard(s) {
     <button class="close" aria-label="Close">${icon('close')}</button>
     <canvas class="scene card-scene" role="img" aria-label="Pixel scene of ${esc(nice(s.name))} flashing its rhythm"></canvas>
     <div class="body">
-      <h3>${esc(nice(s.name))}</h3>
+      <h2 id="card-title" tabindex="-1">${esc(nice(s.name))}</h2>
       <div class="region">${esc(s.region || '')} directorate · ${s.lat.toFixed(4)}° N, ${s.lon.toFixed(4)}° E</div>
       ${photo ? `<button type="button" class="photo-thumb" aria-label="Open the photo of ${esc(nice(s.name))}" style="background-image:url('${esc(s.photo_local ? `photos/thumb/${s.id}.jpg` : photo)}')"><span>${icon('camera')}${s.photo.includes('dgll') ? 'Photo · DGLL' : 'Photo · Wikimedia Commons'}</span></button>` : ''}
       ${SCANS[s.id] ? `<button type="button" class="btn wide scan-open">${icon('cube')}3D scan · ${SCANS[s.id].photos} photos</button>` : ''}
       ${s.phases ? `<div class="signature"><canvas width="300" height="26" aria-label="Flash signature"></canvas></div>` : ''}
       <div class="badges">${kit.join('')}</div>
+      ${stationWarnings(s)}
       ${lightSpec(s)}
       ${brightnessViz(s)}
       ${reachViz(s)}
       ${ledgerChecks(s)}
       ${s.record ? `<button class="btn wide rec-open">${icon('doc')}Full ledger record</button>` : ''}
-      <section class="spec"><h4 class="spec-h">${icon('lighthouse')}Station</h4>
+      <section class="spec"><h3 class="spec-h">${icon('lighthouse')}Station</h3>
       <dl class="facts">
         ${s.tower_type ? `<dt>Tower</dt><dd>${esc(nice(s.tower_type))}${s.tower_h_m && !/\d+(\.\d+)? m/.test(s.tower_type) ? `, ${fmt(s.tower_h_m, 1)} m` : ''}</dd>` : ''}
         ${s.tower_colour && !s.no_ledger ? `<dt>Colours</dt><dd>${esc(nice(s.tower_colour))}</dd>` : ''}
@@ -818,6 +827,7 @@ function renderCard(s) {
   card.scrollTop = 0;
   card.querySelector('.close').onclick = closeCard;
   card.querySelector('.rec-open')?.addEventListener('click', () => openRecord(s, { icon, esc }));
+  card.querySelectorAll('.warn-open').forEach(b => { b.onclick = () => openWarning(b.dataset.key); });
   card.querySelector('.photo-thumb')?.addEventListener('click', () => {
     const m = s.photo_meta || {};
     const dgll = s.photo.includes('dgll');
@@ -841,7 +851,7 @@ function renderCard(s) {
       const t = layer.clock.value;
       g.clearRect(0, 0, cv.width, cv.height);
       for (let x = 0; x < cv.width; x++) {
-        const v = lightLevel(s.phases, t - win + (x / cv.width) * win);
+        const v = layer.unlit.has(s.id) ? 0 : lightLevel(s.phases, t - win + (x / cv.width) * win);   // unlit per a warning
         if (v > 0.02) { g.globalAlpha = v; g.fillStyle = col; g.fillRect(x, 3, 1, cv.height - 6); }
       }
       g.globalAlpha = 1; g.fillStyle = '#fff'; g.fillRect(cv.width - 2, 0, 2, cv.height);
@@ -855,13 +865,13 @@ const inr = v => v >= 1e7 ? `₹${fmt(v / 1e7, 2)} crore` : v >= 1e5 ? `₹${fmt
 function tendersSection(s) {
   const list = s.tenders || [];
   const dirLink = `<a class="btn wide" href="tenders.html?dir=${encodeURIComponent(s.region || '')}">${icon('list')}All ${esc(s.region || '')} tenders</a>`;
-  if (!list.length) return `<section class="spec"><h4 class="spec-h">${icon('rupee')}Tenders</h4><p class="note">No DGLL tender names this station.</p>${dirLink}</section>`;
+  if (!list.length) return `<section class="spec"><h3 class="spec-h">${icon('rupee')}Tenders</h3><p class="note">No DGLL tender names this station.</p>${dirLink}</section>`;
   const rows = list.map(t => `<li><a href="tenders.html#t-${t.nid}">
       <span class="t-date">${esc((t.end || '').slice(0, 7) || '–')}</span>
       <span class="t-title">${esc(t.title)}</span>
       ${t.work ? `<span class="t-work">${esc(t.work)}</span>` : ''}
       ${t.cost ? `<span class="t-cost">${inr(t.cost)}</span>` : ''}</a></li>`).join('');
-  return `<section class="spec"><h4 class="spec-h">${icon('rupee')}Tenders <span class="hint">${list.length}</span></h4>
+  return `<section class="spec"><h3 class="spec-h">${icon('rupee')}Tenders <span class="hint">${list.length}</span></h3>
     <ul class="tender-list">${rows}</ul>${dirLink}</section>`;
 }
 function morseText(l) {
@@ -895,7 +905,7 @@ addEventListener('keydown', e => { if (e.key === 'Escape') closeCard(); });
       g.fillStyle = '#000'; g.fillRect(cv.width - colW, 0, colW, cv.height);
       const rh = cv.height / rows.length, t = layer.clock.value;
       rows.forEach((s, i) => {
-        const v = layer.bornBy(s, layer.year) ? lightLevel(s.phases, t) : 0;
+        const v = layer.bornBy(s, layer.year) && !layer.unlit.has(s.id) ? lightLevel(s.phases, t) : 0;
         if (v < 0.03) return;
         const c = COLOUR_MODES[colourMode].fn(s);
         g.fillStyle = `rgba(${c.r * 255 | 0},${c.g * 255 | 0},${c.b * 255 | 0},${v})`;
@@ -962,6 +972,174 @@ $('#tour').onclick = () => {
 };
 map.on('dragstart', stopVoyage);
 
+/* ------------------------------------------------------ navigational warnings */
+// NHO's warnings in force (scripts/fetch_warnings.py reads India WINS every 2 h): danger areas hatched,
+// point warnings as dots, coloured by hazard. A warning reporting a light unlit or a RACON off switches that
+// aid off on the map, and its station card says so. `var`: setYear() runs before this block is reached.
+var WARN = { active: [], meta: {}, byKey: new Map(), features: [], opened: false };
+var styleReady = false;
+const WCAT = {
+  firing: ['Firing / danger area', '#ff5a4f'], operations: ['Survey, rig or cable work', '#ffb03a'],
+  danger: ['Wreck or danger', '#ff6ad5'], aton: ['Light, buoy or RACON', '#ffd84a'],
+  notice: ['Notice to mariners', '#a99bff'], misc: ['Other warning', '#5fc8ff'],
+};
+const WKIND = { NAVTEX: 'NAVTEX', NAVAREA: 'NAVAREA VIII', 'T&P': 'T&P notice' };
+const EFFECT_TEXT = { unlit: 'light reported unlit', racon_off: 'RACON off air', dgnss_off: 'DGNSS off air', ais_off: 'AIS off air', racon_new: 'new RACON on trial' };
+const WARN_LAYERS = ['warn-fill', 'warn-line', 'warn-point'];
+
+function warnBBox(g) {
+  const pts = g.type === 'Point' ? [g.coordinates] : g.type === 'MultiPoint' ? g.coordinates : g.coordinates.flat();
+  const xs = pts.map(p => p[0]), ys = pts.map(p => p[1]);
+  return [Math.min(...xs), Math.min(...ys), Math.max(...xs), Math.max(...ys)];
+}
+async function loadWarnings() {
+  try {
+    const d = await fetch(`data/warnings.json?t=${Math.floor(Date.now() / 600000)}`).then(r => r.json());
+    WARN.active = d.active || [];
+    WARN.meta = d.meta || {};
+    WARN.byKey = new Map(WARN.active.map(w => [w.key, w]));
+    // one map feature per event: NHO usually issues the same warning as NAVTEX and as NAVAREA VIII
+    const rank = { NAVTEX: 0, NAVAREA: 1, 'T&P': 2 }, groups = new Map();
+    for (const w of WARN.active) {
+      if (!w.geometry) continue;
+      const g = groups.get(w.group);
+      if (!g || rank[w.kind] < rank[g.kind]) groups.set(w.group, w);
+    }
+    WARN.features = [...groups.values()].map(w => ({ type: 'Feature', geometry: w.geometry, bbox: warnBBox(w.geometry),
+      properties: { key: w.key, category: w.category, tp: w.kind === 'T&P' ? 1 : 0 } }));
+    const o = WARN.meta.outages || {};
+    layer.setOutages({ unlit: o.unlit || [], racon: o.racon_off || [] });
+    const f = WARN.meta.in_force || {};
+    const checked = WARN.meta.last_live_fetch ? `, checked ${WARN.meta.last_live_fetch.slice(11, 16)} UTC` : '';
+    $('#warn-count').textContent = (f.NAVTEX || 0) + (f.NAVAREA || 0);
+    $('#warn-note').textContent = `${f.NAVTEX || 0} NAVTEX · ${f.NAVAREA || 0} NAVAREA in force${checked}`;
+    $('#tp-note').textContent = `${f['T&P'] || 0} in force`;
+    const counts = {};
+    for (const ft of WARN.features) if (!ft.properties.tp) counts[ft.properties.category] = (counts[ft.properties.category] || 0) + 1;
+    $('#warn-legend').innerHTML = Object.entries(WCAT).filter(([k]) => counts[k])
+      .map(([k, [l, c]]) => `<span><i style="background:${c}"></i>${l} ${counts[k]}</span>`).join('');
+    addWarningLayers();
+    if (!WARN.opened && location.hash.startsWith('#warning=')) { WARN.opened = true; openWarning(decodeURIComponent(location.hash.slice(9))); }
+  } catch (e) {
+    $('#warn-note').textContent = 'warnings unavailable right now';
+  }
+}
+function hatchImage(color) {
+  const n = 8, cv = document.createElement('canvas');
+  cv.width = cv.height = n;
+  const g = cv.getContext('2d');
+  g.fillStyle = color;
+  g.globalAlpha = 0.14; g.fillRect(0, 0, n, n);
+  g.globalAlpha = 0.95; for (let i = 0; i < n; i++) g.fillRect(i, n - 1 - i, 1, 1);   // one pixel diagonal per tile
+  return g.getImageData(0, 0, n, n);
+}
+function addWarningLayers() {
+  if (!styleReady) return;
+  const data = { type: 'FeatureCollection', features: WARN.features };
+  if (map.getSource('warnings')) { map.getSource('warnings').setData(data); applyWarningVisibility(); return; }
+  for (const [k, [, c]] of Object.entries(WCAT)) if (!map.hasImage(`hatch-${k}`)) map.addImage(`hatch-${k}`, hatchImage(c));
+  map.addSource('warnings', { type: 'geojson', data });
+  const colour = ['match', ['get', 'category'], ...Object.entries(WCAT).flatMap(([k, [, c]]) => [k, c]), '#5fc8ff'];
+  const before = map.getLayer('lighthouses-3d') ? 'lighthouses-3d' : undefined;     // beams draw over warnings
+  map.addLayer({ id: 'warn-fill', type: 'fill', source: 'warnings', paint: { 'fill-pattern': ['concat', 'hatch-', ['get', 'category']] } }, before);
+  map.addLayer({ id: 'warn-line', type: 'line', source: 'warnings',
+    paint: { 'line-color': colour, 'line-width': ['interpolate', ['linear'], ['zoom'], 4, 1, 10, 2.5] } }, before);
+  map.addLayer({ id: 'warn-point', type: 'circle', source: 'warnings',
+    paint: { 'circle-color': colour, 'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3, 10, 6],
+             'circle-stroke-color': '#05060a', 'circle-stroke-width': 2, 'circle-pitch-alignment': 'map' } }, before);
+  applyWarningVisibility();
+}
+function applyWarningVisibility() {
+  if (!styleReady || !map.getLayer('warn-fill')) return;
+  const nav = $('#l-warn').checked, tp = $('#l-tp').checked;
+  const kinds = ['in', ['get', 'tp'], ['literal', [...(nav ? [0] : []), ...(tp ? [1] : [])]]];
+  const poly = ['==', ['geometry-type'], 'Polygon'];
+  const pt = ['any', ['==', ['geometry-type'], 'Point'], ['==', ['geometry-type'], 'MultiPoint']];
+  map.setFilter('warn-fill', ['all', poly, kinds]);
+  map.setFilter('warn-line', ['all', poly, kinds]);
+  map.setFilter('warn-point', ['all', pt, kinds]);
+  // warnings in force belong to today, not to a year picked on the history slider
+  const on = (nav || tp) && layer.year >= new Date().getFullYear();
+  for (const id of WARN_LAYERS) map.setLayoutProperty(id, 'visibility', on ? 'visible' : 'none');
+}
+$('#l-warn').addEventListener('change', applyWarningVisibility);
+$('#l-tp').addEventListener('change', applyWarningVisibility);
+function warningAt(pt) {
+  if (!map.getLayer('warn-fill') || map.getLayoutProperty('warn-fill', 'visibility') === 'none') return null;
+  const f = map.queryRenderedFeatures([[pt.x - 6, pt.y - 6], [pt.x + 6, pt.y + 6]], { layers: WARN_LAYERS });
+  const hit = f.find(x => x.layer.id === 'warn-point') || f[0];
+  return hit ? hit.properties.key : null;
+}
+function openWarning(key) {
+  const w = WARN.byKey.get(key);
+  if (!w) return;
+  stopVoyage();
+  layer.setSelected(null);
+  if (!desktop) setSheet(false);
+  if ($('#card').hidden) lastFocus = document.activeElement;
+  renderWarningCard(w);
+  if (w.geometry) {
+    const b = warnBBox(w.geometry), card = $('#card');
+    const padding = desktop ? { left: 360, right: (card.offsetWidth || 384) + 40, top: 70, bottom: 70 }
+      : { left: 24, right: 24, top: 90, bottom: Math.round(card.offsetHeight || innerHeight * 0.58) + 16 };
+    const duration = reduceMotion ? 0 : 2000;
+    if (b[0] === b[2] && b[1] === b[3]) map.flyTo({ center: [b[0], b[1]], zoom: Math.max(map.getZoom(), 9.5), padding, duration, essential: true });
+    else map.fitBounds([[b[0], b[1]], [b[2], b[3]]], { padding, maxZoom: 11, duration, essential: true });
+  }
+  emit('warning:view', { key });
+}
+function renderWarningCard(w) {
+  const card = $('#card');
+  cancelAnimationFrame(cardAnim);
+  const [label, colour] = WCAT[w.category] || WCAT.misc;
+  const related = WARN.active.filter(x => x.group === w.group && x.key !== w.key);
+  const passed = w.cancel_at && w.cancel_at < new Date().toISOString();
+  const row = (k, v) => (v ? `<dt>${k}</dt><dd>${v}</dd>` : '');
+  const short = id => nice(byId.get(id)?.name || id).replace(/\s+(Lighthouse|Light House).*$/i, '');
+  card.innerHTML = `
+    <button class="close" aria-label="Close">${icon('close')}</button>
+    <div class="body">
+      <h2 id="card-title" tabindex="-1">${esc(WKIND[w.kind] || w.kind)} ${esc(w.identifier)}</h2>
+      <div class="region">${esc([w.area, w.place].filter(Boolean).join(' · ') || label)}</div>
+      <div class="badges">
+        <span class="badge warn-cat" style="--c:${colour}">${icon('alert')}${esc(label)}</span>
+        <span class="badge">${passed ? 'Cancel time passed' : 'In force'}</span>
+      </div>
+      <section class="spec"><h3 class="spec-h">${icon('doc')}Message</h3><p class="warn-msg">${esc(w.message)}</p></section>
+      <section class="spec"><h3 class="spec-h">${icon('info')}Details</h3><dl class="facts">
+        ${row('Issued', esc(w.dtg || w.issued))}
+        ${row('Broadcast', w.b_char ? `${esc(w.b_char)}${(w.navtex_stations || []).length ? ` · ${esc(w.navtex_stations.map(short).join(', '))}` : ''}` : '')}
+        ${row('Also issued as', related.map(r => `<button type="button" class="linkish warn-open" data-key="${esc(r.key)}">${esc(WKIND[r.kind])} ${esc(r.identifier)}</button>`).join(', '))}
+        ${row('Cancels itself', w.cancel_at ? esc(`${w.cancel_at.slice(0, 16).replace('T', ' ')} UTC`) : '')}
+        ${row('Charts', esc((w.charts || []).join(' ')))}
+        ${row('Effect', esc((w.effects || []).map(e => EFFECT_TEXT[e] || e).join(', ')))}
+        ${row('Lighthouse', (w.stations || []).map(id => `<button type="button" class="linkish st-open" data-id="${esc(id)}">${esc(nice(byId.get(id)?.name || id))}</button>`).join(', '))}
+        ${row('First listed here', esc((w.first_seen || '').slice(0, 10)))}
+      </dl></section>
+      <div class="links">
+        <a href="${esc(w.link)}" target="_blank" rel="noopener">NHO India WINS</a>
+        <a href="warnings.html#w-${esc(w.key.replace(/[^\w-]/g, '_'))}">Warning archive</a>
+      </div>
+      <p class="note fine">Not for navigation. Use the official broadcast and Notices to Mariners.</p>
+    </div>`;
+  card.hidden = false;
+  card.scrollTop = 0;
+  card.querySelector('.close').onclick = closeCard;
+  card.querySelectorAll('.warn-open').forEach(b => { b.onclick = () => openWarning(b.dataset.key); });
+  card.querySelectorAll('.st-open').forEach(b => { b.onclick = () => select(b.dataset.id, true); });
+}
+// on a station card: the warnings in force that concern it, one line per event
+function stationWarnings(s) {
+  const seen = new Set();
+  const list = WARN.active.filter(w => (w.stations || []).includes(s.id) && !seen.has(w.group) && seen.add(w.group));
+  if (!list.length) return '';
+  return `<div class="check warn-check" role="note">${icon('alert')}<div><b>Navigational warning in force</b><ul>${list.map(w =>
+    `<li><button type="button" class="linkish warn-open" data-key="${esc(w.key)}">${esc(WKIND[w.kind])} ${esc(w.identifier)}</button>: ${
+      esc((w.effects || []).map(e => EFFECT_TEXT[e]).filter(Boolean).join(', ') || `${w.message.slice(0, 90)}…`)}${w.issued ? `, since ${esc(w.issued)}` : ''}</li>`).join('')}</ul></div></div>`;
+}
+loadWarnings();
+setInterval(loadWarnings, 10 * 60 * 1000);
+
 /* ------------------------------------------------------- picture & video */
 // The legend a saved picture or video carries: only what is switched on, in view, and visible at this
 // zoom and year. record.js draws it and fades rows in and out as the scene changes during a take.
@@ -1008,6 +1186,13 @@ function mediaLegend() {
     items.push({ id: 'racon', type: 'ring', color: hex(COLOURS.racon), label: 'RACON radar beacon, Morse ID' });
   if (z >= 5 && P.planned.sites.some(s => inView(s.lon, s.lat))) items.push({ id: 'planned', type: 'ring', color: '#d9a066', label: 'Planned light (Brahmaputra)' });
   if ($('#l-base').checked && z >= 14) items.push({ id: 'buildings', type: 'block', color: '#52627a', label: 'Buildings, OpenStreetMap heights' });
+  if (shown.some(s => layer.unlit.has(s.id))) items.push({ id: 'unlit', type: 'swatch', color: '#454b57', label: 'Light reported unlit (warning)' });
+  if (styleReady && map.getLayer('warn-fill') && map.getLayoutProperty('warn-fill', 'visibility') !== 'none') {
+    const nav = $('#l-warn').checked, tp = $('#l-tp').checked;
+    const cats = new Set(WARN.features.filter(f => (f.properties.tp ? tp : nav) && f.bbox[2] >= b.getWest() && f.bbox[0] <= b.getEast()
+      && f.bbox[3] >= b.getSouth() && f.bbox[1] <= b.getNorth()).map(f => f.properties.category));
+    for (const [k, [l, c]] of Object.entries(WCAT)) if (cats.has(k)) items.push({ id: `w-${k}`, type: 'swatch', color: c, label: `Warning: ${l}` });
+  }
   return items;
 }
 {

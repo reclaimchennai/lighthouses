@@ -1,0 +1,11 @@
+[Unit]
+Description=Ingest NHO navigational warnings every 2 hours
+
+[Timer]
+OnBootSec=5min
+OnCalendar=*-*-* 00/2:17:00
+RandomizedDelaySec=300
+Persistent=true
+
+[Install]
+WantedBy=timers.target

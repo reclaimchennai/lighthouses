@@ -397,6 +397,48 @@ Prince of Persia.
     - `publish.sh` then runs `manifest.py`.
   - Candidates on Commons: Mahabalipuram (65 photos ≥ 1000 px), Chennai (38), Tangasseri.
 
+### Navigational warnings (2026-09-15)
+- **Source.** NHO's India WINS map (hydrobharat.gov.in/india-wins) loads every warning in force from
+  `/o/nho-headless/map/combined`, which returns NavTex, NavArea (VIII), NAVTP (T&P notices), OCCharts,
+  ENCCharts and Ports. The public page gets a client-credentials token first. `scripts/fetch_warnings.py`
+  does the same, reading the page key from the live bundle (`main.<hash>.js`, embedded on
+  /navtex-warnings) on every run, so the key is never stored in this repo.
+  - The "warnings in force" PDFs linked on NHO's pages are stale (7 July 2025); they seed the archive
+    only (`--pdf`, `--seed-nho`).
+- **Archive.** The API lists only what is in force.
+  - `build/warnings_archive.json` keeps every warning: first_seen, last_seen, status, and `ended` (the
+    first run that no longer lists it).
+  - Each changed response is kept gzipped in `raw/warnings/api/`.
+  - Keys are `NAVTEX:<INW>/<yy>`, `NAVAREA:<n>/<yy>` and `T&P:<notice>`.
+  - `group` hashes the message text, because NHO issues most events as both NAVTEX and NAVAREA.
+- **Geometry.**
+  - Coordinates arrive as `"DD,MM.mm"` strings, or `"DD°MM'.mm"` in T&P.
+  - Polygon corners follow the message text, because the API order can be scrambled (INW 783).
+  - `circle` and `arc` become polygons from `radius` (NM); an arc is a sector centred on its first point.
+  - "WITHIN a TO b AND c TO d" becomes a box.
+- **Understanding.**
+  - `category`: firing, operations, danger, aton, notice or misc.
+  - `effects`: unlit, racon_off, dgnss_off, ais_off, racon_new.
+  - Positions are blanked before the sentence regexes run, because their decimal points stopped them.
+  - `stations`: only for aton warnings that name a light or radio aid within 3 km (or by name within
+    15 km), shared across the group.
+  - `meta.outages` drives `layer.setOutages()`: unlit lights lose beam, glow, shaft, halo, scene and
+    rhythm row; RACON-off lights lose their Morse rings.
+- **App.**
+  - Map layers:
+    - `warnings` GeoJSON source, one feature per group (NAVTEX copy preferred)
+    - `warn-fill` with 8×8 pixel hatch images per category (`map.addImage`), `warn-line` and `warn-point`
+    - drawn below `lighthouses-3d`, and hidden unless the History slider is at the current year
+  - Tapping a warning opens a warning card and fits the camera to its area; station cards list the
+    warnings in force that concern them.
+  - `mediaLegend()` adds warning categories in view; `#warning=<key>` deep-links a warning.
+  - Data is polled every 10 min.
+- **Live.** The `deploy/lighthouses-warnings.{service,timer}` systemd user units run
+  `fetch_warnings.py --deploy` every 2 h at :17 (±5 min), copying `warnings*.json` into maps-site.
+  If the fetch fails, the script raises before writing, so the last good files stay live.
+- **Archive page.** `web/warnings.html` + `js/warnings.js` provide stats, search and filters (kind,
+  category, status, year), each entry lazily expanded, with a link to the map and to NHO.
+
 ### Handoff: next steps (for a future session or Fable)
 1. **Measured building heights near lighthouses.**
    - For each station, take tiles at z 15–16 covering a radius of `reach_nm × 1.1` (cap ~40 km).

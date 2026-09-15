@@ -1,0 +1,10 @@
+[Unit]
+Description=Lighthouses of India: ingest NHO navigational warnings (NAVTEX, NAVAREA VIII, T&P notices)
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/projects/lighthouses
+ExecStart=/usr/bin/python3 scripts/fetch_warnings.py --deploy
+Nice=10
+TimeoutStartSec=300

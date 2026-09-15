@@ -292,6 +292,9 @@ export class LighthouseLayer {
     this.data = data;
     this.reach = reach;
     this.visible = { beams: true, navtex: true, racon: true, towers: true };
+    // outages reported by navigational warnings in force (app.js, data/warnings.json)
+    this.unlit = new Set();
+    this.raconOff = new Set();
     this.year = 9999;
     this.selected = null;
     this.colourFn = s => COLOURS[s.colour] || COLOURS.W;
@@ -514,6 +517,7 @@ export class LighthouseLayer {
   setVisible(v) { Object.assign(this.visible, v); this.map?.triggerRepaint(); }
   setYear(y) { this.year = y; }
   setSelected(id) { this.selected = id; }
+  setOutages({ unlit = [], racon = [] } = {}) { this.unlit = new Set(unlit); this.raconOff = new Set(racon); }
   setColour(fn) {
     this.colourFn = fn;
     if (!this.glow) return;
@@ -569,21 +573,22 @@ export class LighthouseLayer {
       const on = this.bornBy(st, year);
       e.alpha = (e.alpha ?? 1) + ((on ? 1 : 0) - (e.alpha ?? 1)) * 0.12;
       const rot = st.sim?.mode === 'revolving';
+      const lamp = this.unlit.has(st.id) ? 0 : 1;          // a warning in force reports this light unlit
       const L = lightLevel(st.phases, t);
-      e.level = st.phases ? (rot ? 0.35 + 0.65 * L : L) * e.alpha : 0.15 * e.alpha;
+      e.level = (st.phases ? (rot ? 0.35 + 0.65 * L : L) * e.alpha : 0.15 * e.alpha) * lamp;
       lvl.setX(i, showTowers ? 0 : e.level);
       const sel = this.selected === st.id ? 1 : 0;
       const cell = cellM * Math.cos(st.lat * Math.PI / 180);
       if (e.raconMat) e.raconMat.uniforms.uCell.value = cell;
       if (e.beamMat) {
         e.beamMat.uniforms.uCell.value = cell;
-        e.beamMat.uniforms.uAlpha.value = e.alpha;
+        e.beamMat.uniforms.uAlpha.value = e.alpha * lamp;
         e.beamMat.uniforms.uSel.value += (sel - e.beamMat.uniforms.uSel.value) * 0.15;
       }
       // no radar beacon before the ledger's installation year
       const raconYear = st.equip_since?.racon?.year;
       // Morse rings read at coast scale; close up they smear into bands over the sea, so fade them out by z 12
-      if (e.raconMat) e.raconMat.uniforms.uAlpha.value = e.alpha * (raconYear && year < raconYear ? 0 : 1)
+      if (e.raconMat) e.raconMat.uniforms.uAlpha.value = e.alpha * (raconYear && year < raconYear ? 0 : 1) * (this.raconOff.has(st.id) ? 0 : 1)
         * Math.max(0, Math.min(1, (12 - zoom) / 2.5));
       if (e.tower) {
         e.tower.visible = e.alpha > 0.05;
@@ -599,7 +604,7 @@ export class LighthouseLayer {
         if (e.halo) {
           // flashers pulse the whole lantern; a revolving lens keeps a steady glow inside
           const h = rot ? 0.45 : e.level;
-          e.halo.material.opacity = Math.min(1, (0.1 + 0.9 * h) * e.alpha);
+          e.halo.material.opacity = Math.min(1, (0.1 + 0.9 * h) * e.alpha) * lamp;
           e.halo.scale.setScalar(e.halo.userData.base * (0.7 + (rot ? 1.0 : 1.9) * h));
         }
         const showShafts = this.visible.beams && e.alpha > 0.05;
@@ -609,7 +614,7 @@ export class LighthouseLayer {
           const bearing = ((((tStep - sh.center) / e.rev) % 1) + 1) % 1;
           sh.obj.rotation.y = bearing * Math.PI * 2;
           // shafts turn a full circle; they go dark only across arcs the ledger screens (screen_mask)
-          sh.mat.uniforms.uAlpha.value = e.alpha * seaAt(st.screen_mask, bearing);
+          sh.mat.uniforms.uAlpha.value = e.alpha * lamp * seaAt(st.screen_mask, bearing);
         }
         if (e.swell) {
           // moored light vessel: heave ~7 s, roll ~5.5 s, pitch ~8 s, slow swing on the cable

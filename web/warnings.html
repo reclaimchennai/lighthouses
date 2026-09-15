@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Warning Archive · Lighthouses of India</title>
+<meta name="description" content="Every NAVTEX, NAVAREA VIII and T&amp;P notice issued by India's National Hydrographic Office, in force and past, archived and linked to the lighthouses they concern.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="favicon.svg">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&family=Silkscreen:wght@400;700&display=swap">
+<link rel="stylesheet" href="css/style.css?v=13">
+<style>
+  body{overflow:auto}
+  .doc{max-width:960px;margin:0 auto;padding:calc(20px + env(safe-area-inset-top,0px)) 16px 60px}
+  .doc h1{font-size:34px;margin:18px 0 6px;text-shadow:3px 3px 0 #000}
+  .doc .lede{font-size:18px;color:var(--text-2);line-height:1.45;margin:0 0 14px}
+  .back{display:inline-flex;align-items:center;gap:6px;font-family:var(--label);font-size:12px;min-height:44px;padding:0 12px;border:3px solid var(--edge);
+    background:var(--stone);color:#fff;text-shadow:2px 2px 0 #2b2b2b;box-shadow:inset 3px 3px 0 var(--stone-hi),inset -3px -3px 0 var(--stone-lo);text-decoration:none}
+  .tstats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:8px;margin:14px 0}
+  .tstats div{background:var(--panel);border:3px solid var(--edge);box-shadow:var(--bevel);padding:8px 10px}
+  .tstats b{display:block;font-family:var(--num);font-size:22px;color:var(--gold);font-weight:400;line-height:1.1}
+  .tstats span{font-family:var(--label);font-size:11px;color:var(--text-2)}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;position:sticky;top:0;z-index:2;background:var(--bg);padding:8px 0}
+  .filters input,.filters select{font:inherit;font-size:16px;min-height:44px;background:var(--cell);color:var(--text);border:3px solid var(--edge);padding:0 10px}
+  .filters input{flex:1 1 220px}
+  .count{font-family:var(--label);font-size:11px;color:var(--text-2);margin:4px 0 10px}
+  .warn{background:var(--panel);border:3px solid var(--edge);box-shadow:var(--bevel);margin:0 0 10px;border-left-width:8px}
+  .warn>summary{list-style:none;cursor:pointer;padding:12px 14px;display:grid;grid-template-columns:auto 1fr;gap:6px 12px;align-items:start}
+  .warn>summary::-webkit-details-marker{display:none}
+  .warn[open]>summary{border-bottom:3px solid var(--edge)}
+  .warn .d{font-family:var(--num);font-size:13px;color:var(--gold);line-height:1.6;min-width:92px}
+  .warn .h{font-size:16px;line-height:1.35;color:var(--text)}
+  .warn .sub{grid-column:2;display:flex;flex-wrap:wrap;gap:6px}
+  .chipx{font-family:var(--label);font-size:11px;padding:3px 6px;border:2px solid var(--edge);background:var(--cell);color:var(--text-2)}
+  .chipx.on{color:#8ff08a}
+  .chipx.site{color:var(--gold)}
+  .chipx.warnc{color:#ffb86b}
+  .tb{padding:10px 14px 14px}
+  .tb .msg{font-family:var(--font);font-size:15px;line-height:1.55;color:var(--text);background:var(--cell);border:2px solid var(--edge);padding:10px 12px;margin:0 0 10px;white-space:pre-wrap;overflow-wrap:anywhere}
+  .tb dl{display:grid;grid-template-columns:minmax(120px,28%) 1fr;gap:6px 14px;margin:0}
+  .tb dt{color:var(--gold);font-size:14px}.tb dd{margin:0;color:var(--text);font-size:14px;line-height:1.4;overflow-wrap:anywhere}
+  .warn:target{border-color:var(--gold)}
+  @media (max-width:560px){.warn>summary{grid-template-columns:1fr}.warn .sub{grid-column:1}.tb dl{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<main class="doc">
+  <a class="back" href="./"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#back"/></svg>Map</a>
+  <h1>Warning Archive</h1>
+  <p class="lede">Every navigational warning India's National Hydrographic Office has in force (NAVTEX, NAVAREA VIII and Temporary &amp; Preliminary Notices to Mariners) and every one that has ended since this archive began, with when it was first and last listed.</p>
+  <div class="tstats" id="tstats"></div>
+  <div class="filters">
+    <input id="q" type="search" placeholder="Search place, text, INW number" aria-label="Search warnings">
+    <select id="kind" aria-label="Kind"><option value="">All kinds</option></select>
+    <select id="cat" aria-label="Category"><option value="">All categories</option></select>
+    <select id="status" aria-label="Status"><option value="">In force and ended</option><option value="active">In force</option><option value="ended">Ended</option></select>
+    <select id="yr" aria-label="Year issued"><option value="">All years</option></select>
+  </div>
+  <p class="count" id="count"></p>
+  <div id="list"></div>
+  <section class="cells sources" style="padding:12px 14px;margin-top:24px">
+    <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#book"/></svg>Sources</h2>
+    <p class="note">Warnings in force: <a href="https://hydrobharat.gov.in/india-wins">India WINS</a>, National Hydrographic Office, read every two hours. Earlier warnings: NHO's "warnings in force" lists (<a href="https://hydrobharat.gov.in/navtex-warnings">NAVTEX</a>, <a href="https://hydrobharat.gov.in/navarea-warnings">NAVAREA VIII</a>). "Ended" is the first check that no longer listed the warning. <b>Not for navigation:</b> always use the official broadcast, NAVTEX receiver and Notices to Mariners.</p>
+  </section>
+</main>
+<script type="module" src="js/warnings.js?v=2"></script>
+</body>
+</html>

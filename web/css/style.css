@@ -177,6 +177,13 @@ sup.fn{color:var(--gold);font-family:var(--font);font-size:12px;margin-left:2px;
   text-shadow:2px 2px 0 #2b2b2b;cursor:pointer}
 .view-ctrl .v-dim{font-size:13px;letter-spacing:.02em}
 .warn-text{color:#ffb86b}
+/* navigational warnings */
+.t-warn{color:#ff5a4f} .t-tp{color:var(--violet)}
+.badge.warn-cat{border-color:var(--c);color:var(--c)}
+.warn-msg{margin:0;font-size:15px;line-height:1.55;white-space:pre-wrap;overflow-wrap:anywhere}
+.linkish{appearance:none;background:none;border:0;padding:2px 0;min-height:24px;font:inherit;color:var(--sky);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+.warn-check ul{margin:6px 0 0;padding-left:18px}
+.warn-check li{margin:3px 0;font-size:14px;line-height:1.4}
 .visually-hidden{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 /* phone: the card is a half sheet so the camera's close-up stays in view above it */
 .card{max-height:58dvh}
@@ -221,7 +228,7 @@ sup.fn{color:var(--gold);font-family:var(--font);font-size:12px;margin-left:2px;
 .card .close{position:sticky;top:8px;float:right;margin:8px 8px -52px 0;width:44px;height:44px;border:3px solid var(--edge);background:var(--stone);color:#fff;cursor:pointer;
   display:grid;place-items:center;z-index:2;box-shadow:inset 3px 3px 0 var(--stone-hi),inset -3px -3px 0 var(--stone-lo)}
 .card .body{padding:12px 14px 20px}
-.card h3{margin:0;font-size:24px;line-height:1.1;font-weight:700;text-shadow:3px 3px 0 #000}
+.card #card-title{margin:0;font-size:24px;line-height:1.1;font-weight:700;text-shadow:3px 3px 0 #000}
 .card .region{font-family:var(--label);font-size:9px;color:var(--text-2);margin-top:6px;line-height:1.5}
 .card .photo-thumb{display:flex;align-items:flex-end;height:120px;margin-top:10px;background:#111 center/cover;border:3px solid var(--edge);box-shadow:var(--shadow);image-rendering:auto}
 .card .photo-thumb span{display:inline-flex;align-items:center;gap:6px;background:rgba(0,0,0,.72);color:#fff;font-family:var(--label);font-size:11px;padding:5px 8px}

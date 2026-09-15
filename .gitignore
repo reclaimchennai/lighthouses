@@ -25,3 +25,6 @@ CLAUDE.md
 release/
 build/tender_pages/
 build/tender_text/
+# warning API snapshots (kept on disk, re-fetchable) and the ingest state
+raw/warnings/api/
+build/warnings_state.json

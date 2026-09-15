@@ -12,7 +12,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&family=Silkscreen:wght@400;700&display=swap">
-<link rel="stylesheet" href="css/style.css?v=11">
+<link rel="stylesheet" href="css/style.css?v=13">
 <!-- MapLibre 5 UMD: inlines its worker (the v6 ESM build loads a cross-origin module worker, which browsers block from a CDN) -->
 <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
 <!-- mp4-muxer, vendored as in pol.reclaimchennai.city: WebCodecs H.264 into a real MP4 -->
@@ -96,6 +96,16 @@
       </div>
     </section>
 
+    <section class="group" aria-labelledby="warn-h">
+      <h2 id="warn-h"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#alert"/></svg>Navigational warnings <span class="hint" id="warn-count"></span></h2>
+      <div class="cells">
+        <label class="row"><svg class="i lead t-warn" aria-hidden="true"><use href="icons.svg?v=2#alert"/></svg><span class="lbl">NAVTEX &amp; NAVAREA VIII<small id="warn-note">loading…</small></span><input type="checkbox" class="switch" role="switch" id="l-warn" checked></label>
+        <label class="row"><svg class="i lead t-tp" aria-hidden="true"><use href="icons.svg?v=2#doc"/></svg><span class="lbl">Notices to mariners (T&amp;P)<small id="tp-note"></small></span><input type="checkbox" class="switch" role="switch" id="l-tp"></label>
+      </div>
+      <div class="legend" id="warn-legend"></div>
+      <a class="btn wide" href="warnings.html"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#list"/></svg>Warning archive</a>
+    </section>
+
     <section class="group">
       <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#palette"/></svg>Colour lights by</h2>
       <div class="seg" id="colour-by" role="radiogroup">
@@ -172,6 +182,6 @@
 <section id="card" class="card" hidden role="dialog" aria-modal="false" aria-labelledby="card-title"></section>
 <div id="record" hidden></div>
 
-<script type="module" src="js/app.js?v=12"></script>
+<script type="module" src="js/app.js?v=14"></script>
 </body>
 </html>

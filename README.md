@@ -148,6 +148,11 @@ lights[lights.visit == "open"][["name", "lat", "lon", "established", "tower_h_m"
   `corrigenda`, `sites` (stations the work is for), `confidence` and `notes` (transcription quality), `listing_url`, `docs`.
 - **`budget.csv`**: `year`, `allocation`, `utilisation` (₹ crore), `note`, `source` (Lok Sabha question).
 - **`photos.csv`**: `station`, `src` (original URL), `credit`, `width`, `height`, `bytes`, `sha256`.
+- **Navigational warnings** (`web/data/warnings.json` in force, `web/data/warnings_archive.json` all): NHO's NAVTEX, NAVAREA
+  VIII and T&P notices, refreshed every 2 h by `scripts/fetch_warnings.py`. Each warning has `key`, `kind`, `identifier`,
+  `category` (firing, operations, danger, aton, notice, misc), `issued` / `dtg`, `b_char` and `navtex_stations`, `place`,
+  `area`, `charts`, `message`, `geometry` (GeoJSON), `cancel_at`, `effects` (unlit, racon_off, dgnss_off, ais_off, racon_new),
+  `stations` (linked lighthouses), `group` (same event across kinds), `first_seen`, `last_seen`, `status`, `ended`, `link`.
 
 ## Releases
 
