@@ -11,8 +11,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&family=Silkscreen:wght@400;700&family=VT323&display=swap">
-<link rel="stylesheet" href="css/style.css?v=9">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&family=Silkscreen:wght@400;700&display=swap">
+<link rel="stylesheet" href="css/style.css?v=10">
 <!-- MapLibre 5 UMD: inlines its worker (the v6 ESM build loads a cross-origin module worker, which browsers block from a CDN) -->
 <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
 <!-- mp4-muxer, vendored as in pol.reclaimchennai.city: WebCodecs H.264 into a real MP4 -->
@@ -32,7 +32,21 @@
 <div id="labels" aria-hidden="true"></div>
 <div id="watermark" aria-hidden="true"><b id="wm-year">2026</b><span>Lighthouses of India · maps.reclaimchennai.city</span></div>
 
-<div id="loading" role="status" aria-live="polite"><div class="lamp" aria-hidden="true"></div><span id="loading-text">Loading lighthouse data…</span><div class="load-bar" aria-hidden="true"><i></i></div></div>
+<div id="history-caption" hidden aria-live="polite"></div>
+<div id="loading" role="status" aria-live="polite"><div class="lamp" aria-hidden="true"></div><span id="loading-text">Loading the map…</span><div class="load-bar" role="progressbar" aria-label="Loading" aria-valuemin="0" aria-valuemax="100" aria-valuenow="4"><i></i></div><span class="load-pct" aria-hidden="true">4%</span></div>
+<script>
+// Loading progress. Runs before the modules: the bar creeps toward the next milestone so it never looks
+// stuck while MapLibre, three.js and the data download; app.js reports real milestones and bytes
+// through window.__lhLoad(percent, text).
+(function () {
+  var bar = document.querySelector('#loading .load-bar'), pct = document.querySelector('#loading .load-pct'),
+      txt = document.getElementById('loading-text'), p = 4, target = 30;
+  function paint() { bar.style.setProperty('--p', p.toFixed(1) + '%'); bar.setAttribute('aria-valuenow', Math.round(p)); pct.textContent = Math.round(p) + '%'; }
+  window.__lhLoad = function (v, t) { if (t) txt.textContent = t; target = Math.max(target, Math.min(100, v)); if (v >= 100) { p = 100; paint(); } };
+  (function tick() { if (p < 100) { var gap = target - p; if (gap > 0) { p += Math.max(0.08, gap * 0.06); if (p > target) p = target; paint(); } setTimeout(tick, 70); } })();
+  paint();
+})();
+</script>
 
 <a id="home" href="https://maps.reclaimchennai.city/" title="All maps" aria-label="All maps">
   <svg class="i" aria-hidden="true"><use href="icons.svg?v=2#back"/></svg>Maps
@@ -67,15 +81,6 @@
       <label class="visually-hidden" for="search">Lighthouse name</label>
       <input id="search" type="search" placeholder="Lighthouse name" list="names" autocomplete="off">
       <datalist id="names"></datalist>
-      <div class="grid2">
-        <button class="btn" data-fly="west">West coast</button>
-        <button class="btn" data-fly="east">East coast</button>
-        <button class="btn" data-fly="lakshadweep">Lakshadweep</button>
-        <button class="btn" data-fly="andaman">Andaman &amp; Nicobar</button>
-        <button class="btn" data-fly="chennai">Chennai</button>
-        <button class="btn" id="lightship"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#anchor"/></svg>Light vessel</button>
-        <button class="btn wide2" id="tour"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#route"/></svg>Night voyage</button>
-      </div>
     </section>
 
     <section class="group">
@@ -108,12 +113,21 @@
         <input type="range" id="year" min="1790" max="2026" step="1" value="2026" aria-label="Year">
       </div>
       <p class="note" id="year-note"></p>
+      <p class="note fine">Colour by Age, then play: the camera follows each light as it is lit.</p>
+      <div class="grid2">
+        <button class="btn" data-fly="west">West coast</button>
+        <button class="btn" data-fly="east">East coast</button>
+        <button class="btn" data-fly="lakshadweep">Lakshadweep</button>
+        <button class="btn" data-fly="andaman">Andaman &amp; Nicobar</button>
+        <button class="btn" data-fly="chennai">Chennai</button>
+        <button class="btn" id="lightship"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#anchor"/></svg>Light vessel</button>
+        <button class="btn wide2" id="tour"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#route"/></svg>Night voyage</button>
+      </div>
     </section>
 
     <section class="group">
       <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#access"/></svg>Public access</h2>
       <p class="note" id="visit-note"></p>
-      <button class="btn wide" id="show-visit"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#palette"/></svg>Colour by access</button>
     </section>
 
     <section class="group">
@@ -146,7 +160,7 @@
         <li><a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors (ODbL) via <a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> / <a href="https://www.openmaptiles.org/" target="_blank" rel="noopener">OpenMapTiles</a>; <a href="https://www.openseamap.org/" target="_blank" rel="noopener">OpenSeaMap</a> seamarks.</li>
         <li><a href="https://www.wikidata.org/" target="_blank" rel="noopener">Wikidata</a> (CC0), <a href="https://commons.wikimedia.org/wiki/Category:Lighthouses_in_India" target="_blank" rel="noopener">Wikimedia Commons</a>; <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a>; India outline and states from <a href="https://github.com/datameet/maps" target="_blank" rel="noopener">DataMeet</a> (CC BY 4.0).</li>
         <li>Car high-beam reference: <a href="https://hdl.handle.net/2027.42/49438" target="_blank" rel="noopener">UMTRI, “Relative merits of the U.S. and ECE high-beam maximum intensities”</a>.</li>
-        <li>Built with <a href="https://maplibre.org/" target="_blank" rel="noopener">MapLibre GL JS</a>, <a href="https://threejs.org/" target="_blank" rel="noopener">three.js</a>, <a href="https://github.com/Vanilagy/mp4-muxer" target="_blank" rel="noopener">mp4-muxer</a> and <a href="https://pixelarticons.com" target="_blank" rel="noopener">pixelarticons</a> (MIT); fonts Pixelify Sans, Silkscreen and VT323 (OFL). Inspired by <a href="https://mapped.earth/lighthouses/new-england" target="_blank" rel="noopener">mapped.earth</a> and Raj Bhagat Palanichamy's map.</li>
+        <li>Built with <a href="https://maplibre.org/" target="_blank" rel="noopener">MapLibre GL JS</a>, <a href="https://threejs.org/" target="_blank" rel="noopener">three.js</a>, <a href="https://github.com/Vanilagy/mp4-muxer" target="_blank" rel="noopener">mp4-muxer</a> and <a href="https://pixelarticons.com" target="_blank" rel="noopener">pixelarticons</a> (MIT); fonts Pixelify Sans and Silkscreen (OFL). Inspired by <a href="https://mapped.earth/lighthouses/new-england" target="_blank" rel="noopener">mapped.earth</a> and Raj Bhagat Palanichamy's map.</li>
       </ul>
       <p class="method">Visual reach is the shorter of luminous range and geographical range (the horizon for a 5 m eye height), cast as sight lines that stop at the first landfall. NAVTEX coverage is DGLL's stated 250 NM, over connected sea only. Hand-typed ledger positions with digit slips or seconds typed as decimal minutes were corrected against OSM, Wikidata or the Lighthouse Directory. <span id="built"></span></p>
       <p class="method">Not for navigation. Always use official charts and Notices to Mariners.</p>
@@ -157,6 +171,6 @@
 <section id="card" class="card" hidden role="dialog" aria-modal="false" aria-labelledby="card-title"></section>
 <div id="record" hidden></div>
 
-<script type="module" src="js/app.js?v=10"></script>
+<script type="module" src="js/app.js?v=11"></script>
 </body>
 </html>

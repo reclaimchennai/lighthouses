@@ -2,8 +2,8 @@
 // sheet under 821px and a sidebar above it.
 import * as THREE from 'three';
 // ?v= on every module: Cloudflare caches .js for ~4 h, and a fresh app.js must never meet a stale layer3d.js
-import { LighthouseLayer, COLOURS, lightLevel, morsePhases } from './layer3d.js?v=9';
-import { createCapture } from './record.js?v=6';
+import { LighthouseLayer, COLOURS, lightLevel, morsePhases } from './layer3d.js?v=10';
+import { createCapture } from './record.js?v=7';
 import { openRecord } from './dossier.js?v=1';
 import { mountScene } from './scenes.js?v=2';
 import { towerSpec } from './models.js?v=3';
@@ -30,7 +30,10 @@ const VIEWS = {
 };
 const VOYAGE = [
   { center: [69.1, 22.6], zoom: 7.2, bearing: 40 }, { center: [72.8, 18.9], zoom: 8.2, bearing: 10 },
-  { center: [73.8, 15.5], zoom: 8.0, bearing: -10 }, { center: [76.2, 9.9], zoom: 8.0, bearing: -25 },
+  { center: [73.8, 15.5], zoom: 8.0, bearing: -10 },
+  // off Mangalore the radio aids switch on: NAVTEX broadcasts and RACON Morse appear mid-voyage
+  { center: [74.75, 12.9], zoom: 8.2, bearing: -15, radio: true },
+  { center: [76.2, 9.9], zoom: 8.0, bearing: -25 },
   { center: [77.5, 8.1], zoom: 8.6, bearing: -60 }, { center: [80.3, 13.0], zoom: 9.2, bearing: -30 },
   { center: [83.3, 17.7], zoom: 8.3, bearing: -35 }, { center: [86.7, 20.3], zoom: 8.0, bearing: -45 },
   { center: [92.7, 11.6], zoom: 7.6, bearing: 10 }, { center: [73.0, 8.3], zoom: 8.4, bearing: 0 },
@@ -42,13 +45,31 @@ const SLOT = { a: '#3987e5', b: '#d95926', rest: '#5d6873' };
 const C3 = Object.fromEntries(Object.entries(SLOT).map(([k, v]) => [k, new THREE.Color(v)]));
 
 /* ------------------------------------------------------------------ data */
+// The three data files stream into the loading bar (30 → 80%). Cloudflare compresses them, so there is
+// often no Content-Length: bytes are counted against a rough expected size instead.
+window.__lhLoad?.(30, 'Loading lighthouse data…');
+const dl = { got: 0, want: 0 };
+async function fetchJSON(url, expected) {
+  const r = await fetch(url);
+  const size = +r.headers.get('content-length') || expected;
+  dl.want += size;
+  if (!r.body) return r.json();
+  const reader = r.body.getReader(), parts = [];
+  for (;;) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    parts.push(value); dl.got += value.length;
+    window.__lhLoad?.(30 + 50 * Math.min(1, dl.got / dl.want));
+  }
+  return JSON.parse(await new Blob(parts).text());
+}
 const [data, reach, base] = await Promise.all([
-  fetch('data/lighthouses.json').then(r => r.json()),
-  fetch('data/reach.json').then(r => r.json()),
-  fetch('data/basemap.json').then(r => r.json()),
+  fetchJSON('data/lighthouses.json', 680e3),
+  fetchJSON('data/reach.json', 320e3),
+  fetchJSON('data/basemap.json', 1.2e6),
 ]);
-const loadStep = (text, pct) => { $('#loading-text').textContent = text; $('#loading .load-bar').style.setProperty('--p', pct + '%'); };
-loadStep('Drawing the coast…', 55);
+const loadStep = (text, pct) => window.__lhLoad ? window.__lhLoad(pct, text) : ($('#loading-text').textContent = text);
+loadStep('Drawing the coast…', 86);
 const S = data.stations;
 const P = data.parliament;
 const lights = S.filter(s => s.kind === 'lighthouse' || s.kind === 'lightvessel');
@@ -136,9 +157,15 @@ map.once('style.load', () => {
     'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3.5, 10, 8],
     'circle-color': 'rgba(0,0,0,0)', 'circle-stroke-color': '#d9a066', 'circle-stroke-width': 1.6,
   } });
-  loadStep('Lighting the lamps…', 90);
+  loadStep('Lighting the lamps…', 94);
   map.addLayer(layer);
-  requestAnimationFrame(() => { loadStep('Ready', 100); $('#loading').classList.add('done'); $('#loading').setAttribute('aria-hidden', 'true'); });
+  // light for the 3D buildings: a low, cool moon from the south-west
+  map.setLight({ anchor: 'map', position: [1.4, 210, 35], color: '#c9d6ea', intensity: 0.5 });
+  // done after the first frame with the lights drawn (shaders compiled), so the bar reaches 100% on screen
+  map.once('render', () => requestAnimationFrame(() => {
+    loadStep('Ready', 100);
+    setTimeout(() => { $('#loading').classList.add('done'); $('#loading').setAttribute('aria-hidden', 'true'); }, 220);
+  }));
   // the lights paint first; places, roads and rivers stream in after the first settled frame
   map.once('idle', () => {
     if ($('#l-base').checked) loadBasemap();
@@ -190,12 +217,25 @@ function loadBasemap() {
   add({ id: 'omt-river', type: 'line', 'source-layer': 'waterway', minzoom: 7,
     filter: ['match', ['get', 'class'], ['river', 'canal'], true, false],
     paint: { 'line-color': '#1b3347', 'line-width': ['interpolate', ['linear'], ['zoom'], 7, 0.5, 12, 1.6] } }, below);
+  // close up (the fly-in camera sits at z 15.8) the town around a lighthouse has to read: parks, local
+  // streets and brighter roads fade in from z 12
+  add({ id: 'omt-green', type: 'fill', 'source-layer': 'park', minzoom: 11,
+    paint: { 'fill-color': '#13241c', 'fill-opacity': ['interpolate', ['linear'], ['zoom'], 11, 0, 13, 0.85] } }, below);
+  add({ id: 'omt-cover', type: 'fill', 'source-layer': 'landcover', minzoom: 11,
+    filter: ['match', ['get', 'class'], ['wood', 'grass', 'farmland', 'wetland', 'sand'], true, false],
+    paint: { 'fill-color': ['match', ['get', 'class'], 'sand', '#2a2a22', 'wetland', '#12201f', '#132019'],
+             'fill-opacity': ['interpolate', ['linear'], ['zoom'], 11, 0, 13, 0.7] } }, below);
+  add({ id: 'omt-road-local', type: 'line', 'source-layer': 'transportation', minzoom: 13,
+    filter: ['match', ['get', 'class'], ['minor', 'service', 'track'], true, false],
+    paint: { 'line-color': '#2c3744', 'line-width': ['interpolate', ['linear'], ['zoom'], 13, 0.5, 16, 2.4] } }, below);
   add({ id: 'omt-road-minor', type: 'line', 'source-layer': 'transportation', minzoom: 10,
     filter: ['match', ['get', 'class'], ['secondary', 'tertiary'], true, false],
-    paint: { 'line-color': '#222c36', 'line-width': ['interpolate', ['linear'], ['zoom'], 10, 0.4, 14, 1.8] } }, below);
+    paint: { 'line-color': ['interpolate', ['linear'], ['zoom'], 10, '#222c36', 14, '#3b4a5a'],
+             'line-width': ['interpolate', ['linear'], ['zoom'], 10, 0.4, 14, 1.8, 16, 3.4] } }, below);
   add({ id: 'omt-road-major', type: 'line', 'source-layer': 'transportation', minzoom: 6,
     filter: ['match', ['get', 'class'], ['motorway', 'trunk', 'primary'], true, false],
-    paint: { 'line-color': '#2d3a47', 'line-width': ['interpolate', ['linear'], ['zoom'], 6, 0.3, 10, 1, 14, 2.6] } }, below);
+    paint: { 'line-color': ['interpolate', ['linear'], ['zoom'], 6, '#2d3a47', 13, '#4d5f72'],
+             'line-width': ['interpolate', ['linear'], ['zoom'], 6, 0.3, 10, 1, 14, 2.6, 16, 4.6] } }, below);
   const labelPaint = { 'text-color': '#b9c6d2', 'text-halo-color': '#05080c', 'text-halo-width': 1.4 };
   add({ id: 'omt-sea', type: 'symbol', 'source-layer': 'water_name', minzoom: 3.5,
     layout: { 'text-field': name, 'text-font': ['Noto Sans Italic'], 'text-size': ['interpolate', ['linear'], ['zoom'], 4, 11, 9, 14],
@@ -224,10 +264,12 @@ function loadBasemap() {
   // lighthouses (e.g. satellite-derived 2.5D buildings) can replace this source without touching the rest.
   add({ id: 'omt-buildings', type: 'fill-extrusion', 'source-layer': 'building', minzoom: 14,
     paint: {
-      'fill-extrusion-color': '#222b37',
+      // lighter as they rise, lit by the map's moon light (setLight), so blocks stand out from the dark land
+      'fill-extrusion-color': ['interpolate', ['linear'], ['coalesce', ['get', 'render_height'], 6], 3, '#3a4758', 20, '#52627a', 60, '#6d7f99'],
       'fill-extrusion-height': ['coalesce', ['get', 'render_height'], 6],
       'fill-extrusion-base': ['coalesce', ['get', 'render_min_height'], 0],
-      'fill-extrusion-opacity': ['interpolate', ['linear'], ['zoom'], 14, 0, 14.6, 0.92],
+      'fill-extrusion-vertical-gradient': true,
+      'fill-extrusion-opacity': ['interpolate', ['linear'], ['zoom'], 14, 0, 14.5, 1],
     } }, below);
   map.once('idle', () => { $('#base-status').textContent = ''; });
 }
@@ -326,19 +368,57 @@ function setYear(y) {
     : `${n} lights by ${y}.${dated.length ? ' Newest by then: ' + nice(dated[dated.length - 1].name).replace(/ Lighthouse.*/i, '') + '.' : ''}`;
 }
 $('#year').addEventListener('input', e => { stopPlay(); setYear(+e.target.value); });
-let playing = null;
-function stopPlay() { if (playing) { cancelAnimationFrame(playing); playing = null; $('#play').innerHTML = icon('play'); } }
+let playing = null, historyCam = null;
+const HISTORY = lights.filter(yearOf).sort((a, b) => yearOf(a) - yearOf(b));
+function endHistoryCam() {
+  if (!historyCam) return;
+  historyCam = null;
+  $('#history-caption').hidden = true;
+  layer.setSelected(null);
+}
+function stopPlay() {
+  if (playing) { cancelAnimationFrame(playing); playing = null; $('#play').innerHTML = icon('play'); $('#play').setAttribute('aria-label', 'Play the history of India\'s lights'); }
+  endHistoryCam();
+}
+// Coloured by age, Play becomes a history voyage: years run slower and the camera flies to each light as
+// it is lit, close up and facing it from the sea, with the year and name under the watermark.
+function historyFollow(y0, y1, now) {
+  const born = HISTORY.filter(s => yearOf(s) > y0 && yearOf(s) <= y1);
+  if (born.length) historyCam.pending = born[born.length - 1];
+  const s = historyCam.pending;
+  if (!s || now < historyCam.busyUntil) return;
+  historyCam.pending = null;
+  historyCam.busyUntil = now + 4300;
+  const cam = { center: [s.lon, s.lat], zoom: 12.2, pitch: 66, roll: 0, bearing: (seaBearing(s) + 180) % 360, padding: BASE_PADDING };
+  if (reduceMotion) map.jumpTo(cam); else map.flyTo({ ...cam, duration: 3400, curve: 1.3, essential: true });
+  layer.setSelected(s.id);
+  const c = $('#history-caption');
+  c.textContent = `Lit ${yearOf(s)} · ${nice(s.name).replace(/\s+(Lighthouse|Light House).*$/i, '')}`;
+  c.hidden = false;
+  // under the year watermark wherever it sits (beside the panel on desktop, top left on phones)
+  const wm = $('#watermark').getBoundingClientRect();
+  c.style.left = Math.round(wm.left) + 'px';
+  c.style.top = Math.round(wm.bottom + 8) + 'px';
+}
 $('#play').onclick = () => {
   if (playing) return stopPlay();
+  const tour = colourMode === 'age';
+  const rate = tour ? 2.2 : 11;                          // years per second
   const start = performance.now(), from = +$('#year').value >= YEAR_MAX ? YEAR_MIN : +$('#year').value;
   $('#play').innerHTML = icon('pause');
+  $('#play').setAttribute('aria-label', 'Pause');
+  if (tour) { closeCard(); stopVoyage(); if (!desktop) setSheet(false); historyCam = { busyUntil: 0, pending: null }; }
+  let prev = from - 1;
   const step = now => {
-    const y = Math.round(from + (now - start) / 1000 * 11);
-    setYear(Math.min(YEAR_MAX, y));
-    if (y < YEAR_MAX) playing = requestAnimationFrame(step); else stopPlay();
+    const y = Math.min(YEAR_MAX, Math.round(from + (now - start) / 1000 * rate));
+    setYear(y);
+    if (historyCam && y > prev) { historyFollow(prev, y, now); prev = y; }
+    if (y < YEAR_MAX) playing = requestAnimationFrame(step);
+    else { cancelAnimationFrame(playing); playing = null; $('#play').innerHTML = icon('play'); setTimeout(endHistoryCam, 4000); }
   };
   playing = requestAnimationFrame(step);
 };
+map.on('dragstart', endHistoryCam);                      // grabbing the map hands the camera back
 setYear(YEAR_MAX);
 
 /* ------------------------------------------------------------------ NAVTEX */
@@ -407,7 +487,6 @@ const hideTip = () => { tip.hidden = true; };
   const t = P.tourism;
   const museums = t.museums.map(id => byId.get(id)).filter(Boolean).map(s => nice(s.name).replace(/ (Point )?Lighthouse.*$/i, ''));
   $('#visit-note').innerHTML = `<b>${t.count}</b> lighthouses open to the public; <b>${museums.length}</b> with museums: ${esc(museums.join(', '))}. <a href="${esc(t.url)}" target="_blank" rel="noopener">Lok Sabha Q3233</a>`;
-  $('#show-visit').onclick = () => { setColourMode('visit'); if (!desktop) setSheet(false); map.flyTo({ ...VIEWS.india, duration: 1800 }); };
 
   const p = P.planned;
   $('#planned-note').innerHTML = `Work orders issued for ${p.sites.length} lights on NW-2. Rings mark the river ports; exact sites unpublished. <a href="${esc(p.url)}" target="_blank" rel="noopener">Lok Sabha Q3233</a>`;
@@ -712,6 +791,7 @@ function renderCard(s) {
         ${s.tower_type ? `<dt>Tower</dt><dd>${esc(nice(s.tower_type))}${s.tower_h_m && !/\d+(\.\d+)? m/.test(s.tower_type) ? `, ${fmt(s.tower_h_m, 1)} m` : ''}</dd>` : ''}
         ${s.tower_colour && !s.no_ledger ? `<dt>Colours</dt><dd>${esc(nice(s.tower_colour))}</dd>` : ''}
         <dt>Established</dt><dd>${esc(yr)}</dd>
+        ${s.address ? `<dt>Address</dt><dd>${esc(s.address)}</dd>` : ''}
         ${equipSince(s)}
         ${s.alol ? `<dt>Admiralty</dt><dd>${esc(s.alol)}${s.arlhs ? ` · ARLHS ${esc(s.arlhs)}` : ''}</dd>` : ''}
         ${nx ? `<dt>NAVTEX slots</dt><dd>${nx.slots_518.map(x => x.slice(0, 2) + ':' + x.slice(2)).join(', ')} UTC</dd>` : ''}
@@ -832,18 +912,32 @@ $('#lightship').onclick = () => {
   select(lv.id, false);
   map.flyTo({ center: [lv.lon, lv.lat], zoom: 13.2, pitch: 64, bearing: -40, duration: 2600, essential: true });
 };
-let voyage = null;
-function stopVoyage() { if (voyage) { clearTimeout(voyage); voyage = null; $('#tour').innerHTML = `${icon('route')}Night voyage`; } }
+let voyage = null, voyageRestore = null;
+// flip a layer switch from code and keep the checkbox in step
+function setLayerOn(sel, key, on) { const el = $(sel); if (el.checked !== on) { el.checked = on; layer.setVisible({ [key]: on }); } }
+function radioAids(on) { setLayerOn('#l-navtex', 'navtex', on); setLayerOn('#l-racon', 'racon', on); }
+function stopVoyage() {
+  if (!voyage) return;
+  clearTimeout(voyage); voyage = null;
+  $('#tour').innerHTML = `${icon('route')}Night voyage`;
+  if (voyageRestore) { setLayerOn('#l-navtex', 'navtex', voyageRestore.navtex); setLayerOn('#l-racon', 'racon', voyageRestore.racon); voyageRestore = null; }
+}
 $('#tour').onclick = () => {
   if (voyage) return stopVoyage();
   closeCard();
   if (!desktop) setSheet(false);
+  // the voyage starts with lights only; the radio aids come on off Mangalore
+  voyageRestore = { navtex: $('#l-navtex').checked, racon: $('#l-racon').checked };
+  radioAids(false);
   let i = 0;
   $('#tour').innerHTML = `${icon('stop')}Stop voyage`;
   const hop = () => {
-    const v = VOYAGE[i % VOYAGE.length]; i++;
-    map.flyTo({ ...v, pitch: 64, duration: 5200, curve: 1.2, essential: true });
+    const { radio, ...cam } = VOYAGE[i % VOYAGE.length];
+    if (i % VOYAGE.length === 0) radioAids(false);            // every lap starts dark
+    i++;
+    map.flyTo({ ...cam, pitch: 64, duration: 5200, curve: 1.2, essential: true });
     voyage = setTimeout(hop, 7600);
+    if (radio) setTimeout(() => { if (voyage) radioAids(true); }, 4200);   // as the camera arrives
   };
   hop();
 };
@@ -855,7 +949,7 @@ map.on('dragstart', stopVoyage);
     map,
     cropLeft: () => (desktop ? 340 : 0),                  // the desktop panel covers the map's left edge
     year: () => $('#wm-year').textContent,
-    subtitle: () => 'Lighthouses of India',
+    subtitle: () => (!$('#history-caption').hidden && $('#history-caption').textContent) || 'Lighthouses of India',
     onState: st => {
       if ('recording' in st) {
         $('#rec-badge').hidden = !st.recording;

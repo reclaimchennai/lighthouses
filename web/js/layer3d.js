@@ -108,7 +108,7 @@ const PIXEL = /* glsl */`
 
 const BEAM_FRAG = /* glsl */`
   ${PIXEL}
-  uniform float uTime, uPeriod, uRev, uReach, uRot, uAlpha, uSel, uInner, uGain, uLand;
+  uniform float uTime, uPeriod, uRev, uReach, uRot, uAlpha, uSel, uInner, uGain, uLand, uTint;
   uniform float uStart[8]; uniform float uDur[8]; uniform int uN;
   uniform vec3 uColor;
   varying vec2 vLocal;
@@ -143,15 +143,18 @@ const BEAM_FRAG = /* glsl */`
     // A revolving beam is a narrow bright wedge; a flasher lights every bearing at once, so its
     // pulse must be a soft glow that fades fast with distance, or one flash floods a whole gulf.
     float fall = uRot > 0.5 ? pow(1.0 - r, 1.35) : pow(1.0 - r, 4.0);
-    float halo = exp(-d / (uReach * 0.06)) * (uRot > 0.5 ? 0.25 : 0.35);
-    float gain = (uRot > 0.5 ? 0.62 : 0.16) * uGain;
-    float rim = smoothstep(0.975, 1.0, r) * (0.18 + 0.4 * uSel);
+    // uTint (1 far out → 0 close up): the reach tint, rim and a flasher's lit disc are map encodings of
+    // range. From a ship the sea is not lit; you see the lantern and a revolving beam's sweep. So close up
+    // only the sweep and a small glow at the lantern remain.
+    float halo = exp(-d / min(uReach * 0.06, 700.0 + 9000.0 * uTint)) * (uRot > 0.5 ? 0.25 : 0.35);
+    float gain = (uRot > 0.5 ? 0.62 : 0.16 * uTint) * uGain;
+    float rim = smoothstep(0.975, 1.0, r) * (0.18 + 0.4 * uSel) * uTint;
     // Over land the same beam still sweeps (only ledger-screened arcs are dark: those are cut out of
     // the mesh at build time), but nothing reflects it back and buildings and trees block it low down:
     // a fainter sweep that fades sooner, with no reach rim or sea tint.
     float a = uLand > 0.5
       ? posterize(L * (pow(1.0 - r, 2.4) * gain * 0.42 + halo * 0.8) * uAlpha, cell)
-      : posterize((L * (fall * gain + halo) + rim + 0.028 * (1.0 - r) + 0.06 * uSel * (1.0 - r)) * uAlpha, cell);
+      : posterize((L * (fall * gain + halo) + rim + (0.028 + 0.06 * uSel) * (1.0 - r) * uTint) * uAlpha, cell);
     gl_FragColor = vec4(uColor * a, a);
   }`;
 
@@ -294,6 +297,7 @@ export class LighthouseLayer {
     this.colourFn = s => COLOURS[s.colour] || COLOURS.W;
     this.clock = { value: 0 };
     this.beamGain = { value: 1 };          // shared by every beam material
+    this.beamTint = { value: 1 };          // reach tint / rim / flasher disc: 1 far out, 0 close up
     this.t0 = performance.now();
   }
 
@@ -372,7 +376,7 @@ export class LighthouseLayer {
           vertexShader: VERT, fragmentShader: BEAM_FRAG, ...additive,
           uniforms: {
             uTime: this.clock, uPeriod: { value: sd.period }, uRev: { value: e.rev }, uReach: { value: st.reach_nm * NM * 1.0 },
-            uRot: { value: rot }, uAlpha: { value: 1 }, uSel: { value: 0 }, uInner: { value: 0 }, uGain: this.beamGain, uCell: { value: 1000 }, uLand: { value: 0 },
+            uRot: { value: rot }, uAlpha: { value: 1 }, uSel: { value: 0 }, uInner: { value: 0 }, uGain: this.beamGain, uTint: this.beamTint, uCell: { value: 1000 }, uLand: { value: 0 },
             uStart: { value: sd.starts }, uDur: { value: sd.durs }, uN: { value: sd.n },
             uColor: { value: this.colourFn(st).clone() },
           },
@@ -584,7 +588,8 @@ export class LighthouseLayer {
       if (e.tower) {
         e.tower.visible = e.alpha > 0.05;
         const mpp = mpp0 * Math.cos(st.lat * Math.PI / 180);
-        const ex = Math.max(1, (64 * mpp) / e.tower.userData.h) * e.k * (sel ? 1.35 : 1);
+        // the light vessel is a ~30 m hull: at true size it vanishes close up, so it keeps a larger minimum
+        const ex = Math.max(1, ((st.kind === 'lightvessel' ? 130 : 64) * mpp) / e.tower.userData.h) * e.k * (sel ? 1.35 : 1);
         e.tower.scale.setScalar(ex);
         if (e.lamp) {
           e.lamp.material.opacity = 0.15 + 0.85 * e.level;
@@ -624,9 +629,10 @@ export class LighthouseLayer {
     // Up close the camera sits inside 20-30 NM beams; dim the sea sweep so towers and the
     // light vessel stay readable (the shafts from the lantern keep full strength).
     this.beamGain.value = Math.max(0.4, Math.min(1, 1.3 - (zoom - 8) * 0.18));
+    this.beamTint.value = Math.max(0, Math.min(1, (11.5 - zoom) / 2.5));
     // 34 km wavefronts read as rings at country scale but as heavy bands up close,
     // where the beams are the story: fade the broadcast as the camera comes down.
-    const navFade = Math.max(0.28, Math.min(1, 1.25 - (zoom - 6) * 0.2));
+    const navFade = Math.max(0, Math.min(1, 1.25 - (zoom - 6) * 0.2));     // gone by z 12
     for (const x of this.navtex || []) {
       const u = x.mat.uniforms.uLive;
       u.value += ((x.target || 0) - u.value) * 0.05;

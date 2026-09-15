@@ -965,6 +965,10 @@ def main():
         full = full_all.get(slug)
         s["record"] = bool(full)
         s["equip_years"] = equipment_years(full) if full else {}
+        if full:                                     # the ledger's postal address, shown on the card
+            addr = next((v for l, v in _fields(full) if re.search(r"postal\s*address", l, re.I) and v.strip(" -–—.")), None)
+            if addr:
+                s["address"] = re.sub(r"\s+", " ", addr).strip()
         for k, y in s["equip_years"].items():
             years_by_key.setdefault(k, []).append(y)
         if full:

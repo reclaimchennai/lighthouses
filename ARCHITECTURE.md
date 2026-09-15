@@ -334,6 +334,30 @@ Prince of Persia.
 - **Points network (provision only).** `web/js/network.js` `emit()` dispatches `lh:action` DOM
   events (`station:view` today). There is no login, storage or network call. See below for the plan.
 
+### Follow-up (2026-09-15, same day)
+- **One numeral face.** `web/fonts/silkscreen-{400,700}.woff2` (OFL, self-hosted) is declared as
+  "LH Digits" with `unicode-range` digits, ° and %. It leads `--font` and `--num`, so every digit
+  anywhere (sentences, stats, charts, tender pages, canvas text in record.js) is Silkscreen.
+  VT323 was removed, and number sizes were retuned for the wider face.
+- **Loading bar.** An inline script in index.html creeps the bar toward the next milestone
+  (`window.__lhLoad(pct, text)`). app.js streams the three data files and counts bytes against rough
+  expected sizes, because Cloudflare compression drops Content-Length. The bar finishes after the
+  first rendered frame. Throttled test: 13 → 26 → 38 → 54 → 69 → 100%.
+- **Close-up sea.** `uTint` (1 at z ≤ 9, 0 at z ≥ 11.5) scales the reach tint, rim, flasher disc and
+  halo radius. Up close only the revolving sweep and a small lantern glow remain, because the sea
+  isn't lit from a ship. NAVTEX rings are gone by z 12. The light vessel keeps a 130 px minimum
+  size (a ~30 m hull vanished at true scale).
+- **Close-up basemap.** Parks and landcover, local streets and brighter roads from z 11–13. The
+  buildings get a height ramp, a vertical gradient and `map.setLight` moonlight.
+- **Night voyage.** It starts with NAVTEX and RACON off and switches them on at the Mangalore stop
+  (`radio: true` in VOYAGE). Every lap starts dark, and the user's switches are restored on stop.
+- **History tour.** Colour by Age plus Play runs at 2.2 years/s. `historyFollow` flies (z 12.2,
+  pitch 66, facing from the sea) to the newest light lit since the last flight, at most one flight
+  per 4.3 s. It sets `#history-caption` under the watermark, which also becomes the recording
+  subtitle. Dragging the map ends the camera follow.
+- **Panel.** The fly-to buttons and Night voyage now sit under the History slider; "Colour by
+  access" was removed. Cards show the ledger's postal address (91 stations).
+
 ### Handoff: next steps (for a future session or Fable)
 1. **Measured building heights near lighthouses.**
    - For each station, take tiles at z 15–16 covering a radius of `reach_nm × 1.1` (cap ~40 km).
