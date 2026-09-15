@@ -289,6 +289,70 @@ Prince of Persia.
   - Don't redeclare a uniform as a local of the same name in GLSL (`float uTime = f(uTime)`);
     use a new name.
 
+## Realism, camera and accessibility pass (2026-09-15)
+
+- **Git.** The project is now a git repo (`main`). Large binaries stay out (`.gitignore`): tender PDFs,
+  photos, ledger PDFs, page renders, and the site's mirrors of them. They stay backed up on disk under `raw/`.
+- **Light over land.** A lighthouse also lights the land behind it; the old sea-only sweep was wrong.
+  - `Sea.land_reach` (the reach circle ∩ land) becomes `reach.land[id]`, drawn by the same beam
+    shader with `uLand = 1`: fainter, faster falloff, no rim.
+  - The 3D shafts turn a full circle.
+  - Darkness comes only from the ledger:
+    - `light_screen()` reads "Visibility sector" (bearings from seaward, flipped 180° to the
+      direction shown) and panes "blanked … land side".
+    - That gives `screen_mask`, and `screened_wedges()` cuts those arcs out of both meshes.
+    - 8 stations: 6 landward screens (Kaup, Mahabalipuram, Ratnagiri, Santapalli, Surathkal,
+      Thangasseri), 2 sectors (Sacramento, Samiyani Island).
+  - Blanked *lens panels* with no direction are optic panels (active_panels), not screens.
+- **Range check.** `iala_range()` computes the IALA E-200-2 luminous range of the ledger intensity
+  (night, T = 0.74). The card states it and flags a >30% disagreement with the ledger's range
+  (17 stations, listed in build_notes). The median light matches (ratio 1.05), which is why candela
+  sit near headlamp values.
+- **Source marks.** Tag chips are gone: † = derived (or a network equipment year), ‡ = Lighthouse
+  Directory, each explained in a footnote under its section. Ledger values carry no mark.
+- **Camera.**
+  - `ViewControl` replaces MapLibre's NavigationControl: +, −, and a 2D / 3D button that names the
+    view it switches to (easeTo pitch 0 / pitch 60 back to the last bearing).
+  - Map options: `maxPitch: 85`, `rollEnabled: true`.
+  - Selecting a light flies (3.2 s, or jumpTo under prefers-reduced-motion) to z 15.8, pitch 72,
+    bearing = seaward bearing (mean of `sea_mask` bins) + 180. The camera sits offshore looking at
+    the tower, padded clear of the card (right on desktop, bottom half-sheet on phones).
+- **3D buildings.** `omt-buildings` fill-extrusion from OpenFreeMap's `building` layer
+  (`render_height`), z ≥ 14 only. Swap the source for measured heights near lighthouses later.
+- **RACON.** On by default; rings fade out between z 9.5 and 12, where they smeared into bands.
+- **Rhythm wall.** It is sized by a ResizeObserver from a fixed CSS height. Measuring once on a phone
+  (collapsed sheet, 0 px wide) made a 2×600 buffer that stretched into a 100,000 px strip.
+- **Towers.** Built a few per idle slice after first paint. Building all ~200 on the first zoom-in
+  froze the page and dropped recording frames. Recorder: 960 px wide on phones, encoder queue 30.
+- **Accessibility.**
+  - Skip link, labelled regions, a dialog role on the card with focus return on close, `role=switch`
+    on toggles, a roving-tabindex radio group, a labelled search input, and map labels removed from
+    the tab order (Find is the keyboard route).
+  - A loading screen with status text and a stepped bar.
+  - Text floor of 11 px; `--text-3` raised to ≥ 6:1.
+  - axe-core audit: `scratchpad/axe.mjs` pattern (index, guide, tenders at 390 and 1440 px).
+- **Points network (provision only).** `web/js/network.js` `emit()` dispatches `lh:action` DOM
+  events (`station:view` today). There is no login, storage or network call. See below for the plan.
+
+### Handoff: next steps (for a future session or Fable)
+1. **Measured building heights near lighthouses.**
+   - For each station, take tiles at z 15–16 covering a radius of `reach_nm × 1.1` (cap ~40 km).
+   - Candidate data: Google Open Buildings 2.5D Temporal (India, CC BY 4.0, heights), exported from
+     Earth Engine per lighthouse bbox to PMTiles.
+   - Serve the result from `web/buildings/<id>.pmtiles` (the pmtiles protocol from
+     cdn.jsdelivr.net), loaded when the camera is within that radius.
+   - Replace `omt-buildings`' source only; keep its paint.
+2. **Beams lighting buildings.**
+   - Draw buildings in the three.js layer instead: the same meshes with a shader that adds the
+     beam term from BEAM_FRAG (bearing and period from the station uniforms).
+   - The lit face then flashes as the beam passes; faces behind a screened arc stay dark.
+3. **Points and rewards.** Only when the user asks.
+   - Reuse the trees stack: Google/social login and the civic-sentinel ledger
+     (`playerKey`, `action`, `points`, `status`, `externalRef`), plus the pixel coin assets in
+     ~/projects/trees/assets.
+   - Subscribe to `lh:action` and map events to the `externalRef` shapes documented in network.js.
+   - A GPS-verified visit to a public-access lighthouse (75 stations) is the natural first action.
+
 ## Gotchas
 
 - **three.js inside MapLibre: do not mirror the scene with a negative scale.** MapLibre's

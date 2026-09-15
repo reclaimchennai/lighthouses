@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Lighthouses of India · Active lights, NAVTEX & RACON</title>
-<meta name="description" content="Every active lighthouse maintained by India's Directorate General of Lighthouses & Lightships, flashing its real characteristic from its Master Ledger, with sea-only reach, NAVTEX radio coverage, RACON radar beacons and each station's full record.">
+<meta name="description" content="Every active lighthouse maintained by India's Directorate General of Lighthouses & Lightships, flashing its real characteristic from its Master Ledger, with its reach over sea and land, NAVTEX radio coverage, RACON radar beacons and each station's full record.">
 <meta name="theme-color" content="#000000">
 <meta name="color-scheme" content="dark">
 <link rel="icon" href="favicon.svg">
@@ -12,7 +12,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&family=Silkscreen:wght@400;700&family=VT323&display=swap">
-<link rel="stylesheet" href="css/style.css?v=8">
+<link rel="stylesheet" href="css/style.css?v=9">
 <!-- MapLibre 5 UMD: inlines its worker (the v6 ESM build loads a cross-origin module worker, which browsers block from a CDN) -->
 <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
 <!-- mp4-muxer, vendored as in pol.reclaimchennai.city: WebCodecs H.264 into a real MP4 -->
@@ -27,11 +27,12 @@
 </script>
 </head>
 <body>
-<div id="map" aria-label="Map of India's lighthouses"></div>
+<a class="skip" href="#panel-body">Skip to map controls</a>
+<div id="map" role="region" aria-label="Map of India's lighthouses. Use the Find box to open a lighthouse by name."></div>
 <div id="labels" aria-hidden="true"></div>
 <div id="watermark" aria-hidden="true"><b id="wm-year">2026</b><span>Lighthouses of India · maps.reclaimchennai.city</span></div>
 
-<div id="loading"><div class="lamp"></div><span>Lighting the coast…</span></div>
+<div id="loading" role="status" aria-live="polite"><div class="lamp" aria-hidden="true"></div><span id="loading-text">Loading lighthouse data…</span><div class="load-bar" aria-hidden="true"><i></i></div></div>
 
 <a id="home" href="https://maps.reclaimchennai.city/" title="All maps" aria-label="All maps">
   <svg class="i" aria-hidden="true"><use href="icons.svg?v=2#back"/></svg>Maps
@@ -44,7 +45,7 @@
 <div id="rec-badge" hidden><i></i><span id="rec-time">REC 0:00</span></div>
 <div id="cap-note" role="status" hidden></div>
 
-<aside id="panel" class="panel">
+<aside id="panel" class="panel" aria-label="Layers, data and search">
   <header>
     <button id="panel-toggle" class="panel-toggle" aria-expanded="true" aria-controls="panel-body" title="Hide panel">
       <svg class="i" aria-hidden="true"><use href="icons.svg?v=2#down"/></svg>
@@ -60,15 +61,32 @@
     <canvas class="scene hero" id="hero-scene" aria-hidden="true"></canvas>
     <div class="stats" id="stats"></div>
 
+    <!-- Find first: the quickest way to a lighthouse, for touch, keyboard and screen-reader users alike -->
+    <section class="group" aria-labelledby="find-h">
+      <h2 id="find-h"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#search"/></svg>Find</h2>
+      <label class="visually-hidden" for="search">Lighthouse name</label>
+      <input id="search" type="search" placeholder="Lighthouse name" list="names" autocomplete="off">
+      <datalist id="names"></datalist>
+      <div class="grid2">
+        <button class="btn" data-fly="west">West coast</button>
+        <button class="btn" data-fly="east">East coast</button>
+        <button class="btn" data-fly="lakshadweep">Lakshadweep</button>
+        <button class="btn" data-fly="andaman">Andaman &amp; Nicobar</button>
+        <button class="btn" data-fly="chennai">Chennai</button>
+        <button class="btn" id="lightship"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#anchor"/></svg>Light vessel</button>
+        <button class="btn wide2" id="tour"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#route"/></svg>Night voyage</button>
+      </div>
+    </section>
+
     <section class="group">
       <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#layers"/></svg>Show</h2>
       <div class="cells">
-        <label class="row"><svg class="i lead t-beam" aria-hidden="true"><use href="icons.svg?v=2#lighthouse"/></svg><span class="lbl">Beams &amp; reach<small id="optic-note"></small></span><input type="checkbox" class="switch" id="l-beams" checked></label>
-        <label class="row"><svg class="i lead t-navtex" aria-hidden="true"><use href="icons.svg?v=2#navtex"/></svg><span class="lbl">NAVTEX radio<small id="navtex-live"></small></span><input type="checkbox" class="switch" id="l-navtex" checked></label>
-        <label class="row"><svg class="i lead t-racon" aria-hidden="true"><use href="icons.svg?v=2#racon"/></svg><span class="lbl">RACON radar beacons<small>Morse identifier</small></span><input type="checkbox" class="switch" id="l-racon"></label>
-        <label class="row"><svg class="i lead" aria-hidden="true"><use href="icons.svg?v=2#cube"/></svg><span class="lbl">3D towers</span><input type="checkbox" class="switch" id="l-towers" checked></label>
-        <label class="row"><svg class="i lead" aria-hidden="true"><use href="icons.svg?v=2#tag"/></svg><span class="lbl">Lighthouse names</span><input type="checkbox" class="switch" id="l-labels" checked></label>
-        <label class="row"><svg class="i lead" aria-hidden="true"><use href="icons.svg?v=2#places"/></svg><span class="lbl">Places, roads &amp; rivers<small id="base-status"></small></span><input type="checkbox" class="switch" id="l-base" checked></label>
+        <label class="row"><svg class="i lead t-beam" aria-hidden="true"><use href="icons.svg?v=2#bulb"/></svg><span class="lbl">Beams &amp; reach<small id="optic-note"></small></span><input type="checkbox" class="switch" role="switch" id="l-beams" checked></label>
+        <label class="row"><svg class="i lead t-navtex" aria-hidden="true"><use href="icons.svg?v=2#navtex"/></svg><span class="lbl">NAVTEX radio<small id="navtex-live"></small></span><input type="checkbox" class="switch" role="switch" id="l-navtex" checked></label>
+        <label class="row"><svg class="i lead t-racon" aria-hidden="true"><use href="icons.svg?v=2#racon"/></svg><span class="lbl">RACON radar beacons<small>Morse identifier</small></span><input type="checkbox" class="switch" role="switch" id="l-racon" checked></label>
+        <label class="row"><svg class="i lead" aria-hidden="true"><use href="icons.svg?v=2#lighthouse"/></svg><span class="lbl">3D towers</span><input type="checkbox" class="switch" role="switch" id="l-towers" checked></label>
+        <label class="row"><svg class="i lead" aria-hidden="true"><use href="icons.svg?v=2#tag"/></svg><span class="lbl">Lighthouse names</span><input type="checkbox" class="switch" role="switch" id="l-labels" checked></label>
+        <label class="row"><svg class="i lead" aria-hidden="true"><use href="icons.svg?v=2#places"/></svg><span class="lbl">Places, roads &amp; rivers<small id="base-status"></small></span><input type="checkbox" class="switch" role="switch" id="l-base" checked></label>
       </div>
     </section>
 
@@ -114,23 +132,9 @@
     <section class="group">
       <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#wave"/></svg>Every light's rhythm</h2>
       <p class="note">One row per light, Kutch → Bengal → islands.</p>
-      <canvas id="rhythm" height="300" aria-label="Flash rhythm of each lighthouse"></canvas>
+      <canvas id="rhythm" role="img" aria-label="Scrolling chart of every light's flashes, one row per light from Kutch to Bengal then the islands. Tap a row to open that light."></canvas>
     </section>
 
-    <section class="group">
-      <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#search"/></svg>Find</h2>
-      <input id="search" type="search" placeholder="Lighthouse name" list="names" autocomplete="off">
-      <datalist id="names"></datalist>
-      <div class="grid2">
-        <button class="btn" data-fly="west">West coast</button>
-        <button class="btn" data-fly="east">East coast</button>
-        <button class="btn" data-fly="lakshadweep">Lakshadweep</button>
-        <button class="btn" data-fly="andaman">Andaman &amp; Nicobar</button>
-        <button class="btn" data-fly="chennai">Chennai</button>
-        <button class="btn" id="lightship"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#anchor"/></svg>Light vessel</button>
-        <button class="btn wide2" id="tour"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#route"/></svg>Night voyage</button>
-      </div>
-    </section>
 
     <footer class="sources">
       <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#book"/></svg>Sources</h2>
@@ -150,9 +154,9 @@
   </div>
 </aside>
 
-<section id="card" class="card" hidden aria-live="polite"></section>
+<section id="card" class="card" hidden role="dialog" aria-modal="false" aria-labelledby="card-title"></section>
 <div id="record" hidden></div>
 
-<script type="module" src="js/app.js?v=9"></script>
+<script type="module" src="js/app.js?v=10"></script>
 </body>
 </html>

@@ -12,7 +12,8 @@ import { fixWebmDuration } from './webm.js?v=5';
 
 const OUT_FPS = 30;
 const MAX_SECONDS = 90;                  // a take is capped so a phone doesn't encode for minutes
-const MAX_WIDTH = 1280;
+// phones read back and encode a smaller frame, so camera moves (zoom, fly-in) keep their frames
+const MAX_WIDTH = matchMedia('(min-width:821px)').matches ? 1280 : 960;
 const CODECS = ['avc1.640028', 'avc1.4d0028', 'avc1.42003c', 'avc1.42E01E'];
 const CREDIT = 'maps.reclaimchennai.city/lighthouses · DGLL Master Ledgers · Lok Sabha · © OpenStreetMap, OpenFreeMap · Natural Earth · DataMeet';
 
@@ -141,7 +142,7 @@ export function createCapture({ map, cropLeft, year, subtitle, onState }) {
     const encoder = new VideoEncoder({ output: (chunk, meta) => muxer.addVideoChunk(chunk, meta), error: e => { failure = e; } });
     encoder.configure(config);
     const ms = await loop((c, t) => {
-      if (failure || encoder.encodeQueueSize > 12) return;          // drop a frame rather than stall the map
+      if (failure || encoder.encodeQueueSize > 30) return;          // drop a frame rather than stall the map
       const frame = new VideoFrame(c, { timestamp: Math.round(t * 1000), duration: Math.round(1e6 / OUT_FPS) });
       encoder.encode(frame, { keyFrame: frames % (OUT_FPS * 2) === 0 });
       frame.close();

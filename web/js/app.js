@@ -2,11 +2,12 @@
 // sheet under 821px and a sidebar above it.
 import * as THREE from 'three';
 // ?v= on every module: Cloudflare caches .js for ~4 h, and a fresh app.js must never meet a stale layer3d.js
-import { LighthouseLayer, COLOURS, lightLevel, morsePhases } from './layer3d.js?v=8';
-import { createCapture } from './record.js?v=5';
+import { LighthouseLayer, COLOURS, lightLevel, morsePhases } from './layer3d.js?v=9';
+import { createCapture } from './record.js?v=6';
 import { openRecord } from './dossier.js?v=1';
-import { mountScene } from './scenes.js?v=1';
+import { mountScene } from './scenes.js?v=2';
 import { towerSpec } from './models.js?v=3';
+import { emit } from './network.js?v=1';
 
 const maplibregl = window.maplibregl;
 const $ = s => document.querySelector(s);
@@ -15,6 +16,7 @@ const icon = (name, cls = '') => `<svg class="i ${cls}" aria-hidden="true"><use 
 const esc = s =>String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const fmt = (v, d = 0) => v == null ? '–' : Number(v).toLocaleString('en-IN', { maximumFractionDigits: d });
 const desktop = matchMedia('(min-width:821px)').matches;
+const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;   // camera jumps instead of flying
 const SHEET_PEEK = 88;                     // collapsed bottom-sheet height on phones
 const PIXEL_RATIO = 0.5;                   // map buffer pixels per CSS pixel: every map pixel is a 2×2 block
 
@@ -45,6 +47,8 @@ const [data, reach, base] = await Promise.all([
   fetch('data/reach.json').then(r => r.json()),
   fetch('data/basemap.json').then(r => r.json()),
 ]);
+const loadStep = (text, pct) => { $('#loading-text').textContent = text; $('#loading .load-bar').style.setProperty('--p', pct + '%'); };
+loadStep('Drawing the coast…', 55);
 const S = data.stations;
 const P = data.parliament;
 const lights = S.filter(s => s.kind === 'lighthouse' || s.kind === 'lightvessel');
@@ -57,7 +61,8 @@ const map = new maplibregl.Map({
   // glyphs are only fetched once the lazy place-name layers are added
   style: { version: 8, glyphs: 'https://tiles.openfreemap.org/fonts/{fontstack}/{range}.pbf', sources: {},
            layers: [{ id: 'bg', type: 'background', paint: { 'background-color': '#05080c' } }] },
-  ...VIEWS.india, minZoom: 2.8, maxZoom: 16.5, maxPitch: 72,
+  // free 3D exploration: tilt almost to the horizon, rotate, and roll (Ctrl + drag)
+  ...VIEWS.india, minZoom: 2.8, maxZoom: 16.5, maxPitch: 85, rollEnabled: true,
   maxBounds: [[52, -8], [108, 34]], renderWorldCopies: false, attributionControl: false,
   // Pixel art: the whole map (coast, beams, waves, voxel towers) renders at half resolution and
   // is scaled up without smoothing (.maplibregl-canvas { image-rendering: pixelated }).
@@ -69,8 +74,41 @@ map.addControl(new maplibregl.AttributionControl({
   compact: true,
   customAttribution: 'DGLL · Lok Sabha · © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> · Natural Earth · DataMeet',
 }), desktop ? 'bottom-right' : 'top-left');
-map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), desktop ? 'bottom-right' : 'top-right');
-map.setPadding(desktop ? { left: 340, top: 0, right: 0, bottom: 0 } : { left: 0, top: 0, right: 0, bottom: SHEET_PEEK });
+// Zoom in, zoom out and one 2D / 3D button. The button names the view it switches to; going flat
+// eases pitch and bearing back to zero, going 3D runs the same ease in reverse.
+class ViewControl {
+  onAdd(m) {
+    this.m = m;
+    const el = this.el = document.createElement('div');
+    el.className = 'maplibregl-ctrl maplibregl-ctrl-group view-ctrl';
+    el.innerHTML = `<button type="button" class="z-in" aria-label="Zoom in" title="Zoom in">+</button>
+      <button type="button" class="z-out" aria-label="Zoom out" title="Zoom out">−</button>
+      <button type="button" class="v-dim"></button>`;
+    el.querySelector('.z-in').onclick = () => m.zoomIn({ duration: reduceMotion ? 0 : 400 });
+    el.querySelector('.z-out').onclick = () => m.zoomOut({ duration: reduceMotion ? 0 : 400 });
+    this.dim = el.querySelector('.v-dim');
+    this.dim.onclick = () => {
+      const flat = m.getPitch() < 5;
+      if (!flat) this.lastBearing = m.getBearing();
+      m.easeTo(flat ? { pitch: 60, bearing: this.lastBearing ?? -20, roll: 0, duration: reduceMotion ? 0 : 1000 }
+                    : { pitch: 0, bearing: 0, roll: 0, duration: reduceMotion ? 0 : 1000 });
+    };
+    this.sync = () => {
+      const flat = m.getPitch() < 5, next = flat ? '3D' : '2D';
+      if (this.dim.textContent !== next) {
+        this.dim.textContent = next;
+        this.dim.setAttribute('aria-label', `Switch to ${next} view`);
+        this.dim.title = `Switch to ${next} view`;
+      }
+    };
+    m.on('pitchend', this.sync); m.on('moveend', this.sync); this.sync();
+    return el;
+  }
+  onRemove() { this.el.remove(); }
+}
+map.addControl(new ViewControl(), desktop ? 'bottom-right' : 'top-right');
+const BASE_PADDING = desktop ? { left: 340, top: 0, right: 0, bottom: 0 } : { left: 0, top: 0, right: 0, bottom: SHEET_PEEK };
+map.setPadding(BASE_PADDING);
 
 const layer = new LighthouseLayer(maplibregl, data, reach);
 window.__lh = { map, layer };          // console / headless-verification hook
@@ -98,10 +136,21 @@ map.once('style.load', () => {
     'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3.5, 10, 8],
     'circle-color': 'rgba(0,0,0,0)', 'circle-stroke-color': '#d9a066', 'circle-stroke-width': 1.6,
   } });
+  loadStep('Lighting the lamps…', 90);
   map.addLayer(layer);
-  requestAnimationFrame(() => $('#loading').classList.add('done'));
+  requestAnimationFrame(() => { loadStep('Ready', 100); $('#loading').classList.add('done'); $('#loading').setAttribute('aria-hidden', 'true'); });
   // the lights paint first; places, roads and rivers stream in after the first settled frame
-  map.once('idle', () => { if ($('#l-base').checked) loadBasemap(); });
+  map.once('idle', () => {
+    if ($('#l-base').checked) loadBasemap();
+    // prebuild the voxel towers in small idle slices so the first zoom-in doesn't stall
+    const idle = window.requestIdleCallback || (cb => setTimeout(() => cb({ timeRemaining: () => 8 }), 60));
+    const step = deadline => {
+      if (layer.towersBuilt || !layer.entries) return;
+      layer.buildTowers(deadline.timeRemaining() > 12 ? 4 : 2);
+      if (!layer.towersBuilt) idle(step);
+    };
+    idle(step);
+  });
   // compact attribution opens expanded; on a phone that covers the top of the map
   if (!desktop) setTimeout(() => document.querySelector('.maplibregl-ctrl-attrib')?.classList.remove('maplibregl-compact-show'), 50);
 });
@@ -170,6 +219,16 @@ function loadBasemap() {
     filter: ['match', ['get', 'class'], ['village', 'suburb'], true, false],
     layout: { 'text-field': name, 'text-font': ['Noto Sans Regular'], 'text-size': 11 },
     paint: { ...labelPaint, 'text-color': '#7d8b98' } });
+  // 3D buildings from OpenStreetMap heights (render_height: height tag, else levels × 3 m, else a default),
+  // only fetched once the camera is close (z ≥ 14 tiles). A future dataset with measured heights near the
+  // lighthouses (e.g. satellite-derived 2.5D buildings) can replace this source without touching the rest.
+  add({ id: 'omt-buildings', type: 'fill-extrusion', 'source-layer': 'building', minzoom: 14,
+    paint: {
+      'fill-extrusion-color': '#222b37',
+      'fill-extrusion-height': ['coalesce', ['get', 'render_height'], 6],
+      'fill-extrusion-base': ['coalesce', ['get', 'render_min_height'], 0],
+      'fill-extrusion-opacity': ['interpolate', ['linear'], ['zoom'], 14, 0, 14.6, 0.92],
+    } }, below);
   map.once('idle', () => { $('#base-status').textContent = ''; });
 }
 function setBasemap(on) {
@@ -222,11 +281,21 @@ const COLOUR_MODES = {
 let colourMode = 'light';
 function setColourMode(m) {
   colourMode = m;
-  document.querySelectorAll('#colour-by button').forEach(b => { const on = b.dataset.v === m; b.classList.toggle('on', on); b.setAttribute('aria-checked', on); });
+  document.querySelectorAll('#colour-by button').forEach(b => { const on = b.dataset.v === m; b.classList.toggle('on', on); b.setAttribute('aria-checked', on); b.tabIndex = on ? 0 : -1; });
   layer.setColour(COLOUR_MODES[m].fn);
   $('#legend').innerHTML = COLOUR_MODES[m].legend();
 }
 document.querySelectorAll('#colour-by button').forEach(b => b.onclick = () => setColourMode(b.dataset.v));
+// radio group keyboard pattern: arrow keys move the choice, Tab leaves the group
+$('#colour-by').addEventListener('keydown', e => {
+  const btns = [...document.querySelectorAll('#colour-by button')];
+  const i = btns.findIndex(b => b.classList.contains('on'));
+  const d = { ArrowRight: 1, ArrowDown: 1, ArrowLeft: -1, ArrowUp: -1 }[e.key];
+  if (!d) return;
+  e.preventDefault();
+  const next = btns[(i + d + btns.length) % btns.length];
+  setColourMode(next.dataset.v); next.focus();
+});
 setColourMode('light');
 
 /* --------------------------------------------------------------- toggles */
@@ -383,7 +452,8 @@ function placeLabels() {
       el = document.createElement(s.planned ? 'div' : 'button');
       el.className = 'lab' + (MAJOR.has(s.id) ? ' major' : '') + (s.navtex ? ' nav' : '') + (s.planned ? ' planned' : '');
       el.textContent = name;
-      if (!s.planned) { el.type = 'button'; el.onclick = () => select(s.id, true); }
+      // map labels are pointer shortcuts (their layer is aria-hidden); keyboard users use Find
+      if (!s.planned) { el.type = 'button'; el.tabIndex = -1; el.onclick = () => select(s.id, true); }
       labelsEl.appendChild(el); labelEls.set(s.id, el);
     }
     el.style.left = p.x + 'px'; el.style.top = y + 'px';
@@ -404,7 +474,7 @@ function nearest(pt) {
   }
   return best;
 }
-map.on('click', e => { const s = nearest(e.point); if (s) select(s.id, false); else closeCard(); });
+map.on('click', e => { const s = nearest(e.point); if (s) select(s.id, true); else closeCard(); });
 map.on('mousemove', e => { map.getCanvas().style.cursor = nearest(e.point) ? 'pointer' : ''; });
 $('#search').addEventListener('change', e => {
   const q = e.target.value.trim().toLowerCase();
@@ -414,18 +484,47 @@ $('#search').addEventListener('change', e => {
 
 /* -------------------------------------------------------------------- card */
 let cardAnim = null;
+// Seaward bearing: the mean direction of the open-sea sight lines (sea_mask, one bin per 5°).
+function seaBearing(s) {
+  const m = s.sea_mask;
+  let x = 0, y = 0;
+  for (let i = 0; m && i < m.length; i++) if (m[i] === '1') { const a = (i + 0.5) * 5 * Math.PI / 180; x += Math.sin(a); y += Math.cos(a); }
+  return x || y ? (Math.atan2(x, y) * 180 / Math.PI + 360) % 360 : 180;
+}
+// Close-up camera: out at sea, low, looking back at the tower (map bearing = the way the camera faces),
+// with the tower framed in the part of the map the card doesn't cover.
+function cameraFor(s) {
+  const card = $('#card');
+  const padding = desktop
+    ? { left: 340, right: (card.offsetWidth || 384) + 28, top: 40, bottom: 40 }
+    : { left: 0, right: 0, top: 70, bottom: Math.round(card.offsetHeight || innerHeight * 0.58) };
+  return { center: [s.lon, s.lat], zoom: s.kind === 'lightvessel' ? 15.4 : 15.8, pitch: 72, roll: 0,
+           bearing: (seaBearing(s) + 180) % 360, padding };
+}
+let lastFocus = null;
 function select(id, fly) {
   const s = byId.get(id);
   if (!s) return;
+  stopVoyage();
   layer.setSelected(id);
   if (!desktop) setSheet(false);
-  if (fly) map.flyTo({ center: [s.lon, s.lat], zoom: Math.max(map.getZoom(), 9.2), pitch: 60, duration: 2200, essential: true });
+  if ($('#card').hidden) lastFocus = document.activeElement;       // focus returns here when the card closes
   renderCard(s);
+  if (fly) {
+    const cam = cameraFor(s);
+    if (reduceMotion) map.jumpTo(cam);
+    else map.flyTo({ ...cam, duration: 3200, curve: 1.42, essential: true });
+  }
+  emit('station:view', { id });
 }
 function closeCard() {
+  if ($('#card').hidden) return;
   layer.setSelected(null);
   $('#card').hidden = true;
   cancelAnimationFrame(cardAnim);
+  map.easeTo({ padding: BASE_PADDING, duration: reduceMotion ? 0 : 600 });
+  if (lastFocus && document.contains(lastFocus)) lastFocus.focus({ preventScroll: true });
+  lastFocus = null;
 }
 function opticText(s) {
   if (s.kind === 'lightvessel') return 'Light vessel: a ship moored at sea as a floating lighthouse, where no tower can stand. DGLL\'s only one in service. Its LED lantern sits on a trestle above the deck, flashes in place and rides the swell.';
@@ -446,7 +545,12 @@ function opticText(s) {
 const SRC = { ledger: ['Ledger', 'DGLL Master Ledger'], derived: ['Derived', 'Computed from other ledger values'],
               directory: ['Directory', 'Lighthouse Directory (Rowlett)'] };
 // ledger values are the default and cited in the footer, so only other sources get a tag
-const chip = k => k === 'ledger' ? '' : `<span class="src src-${k}" title="Source: ${SRC[k][1]}">${SRC[k][0]}</span>`;
+const MARK = { derived: '†', directory: '‡' };
+const chip = k => MARK[k] ? `<sup class="fn" title="${SRC[k][1]}" aria-label="(${SRC[k][0].toLowerCase()})">${MARK[k]}</sup>` : '';
+const footnotes = keys => {
+  const used = [...new Set(keys)].filter(k => MARK[k]);
+  return used.length ? `<p class="fnote">${used.map(k => `${MARK[k]} ${SRC[k][1]}`).join(' · ')}</p>` : '';
+};
 const COLOUR_NAME = { W: 'White', R: 'Red', G: 'Green', Y: 'Yellow' };
 const KIND_NAME = { Fl: ['flash', 'flashes'], LFl: ['long flash', 'long flashes'], Q: ['quick flash', 'quick flashes'],
                     Oc: ['occulting', 'occultations'], Iso: ['isophase', 'isophase'], F: ['fixed', 'fixed'] };
@@ -484,7 +588,7 @@ function lightSpec(s) {
     rows.push(['Optic', 'Not stated; drawn flashing in place', 'derived']);
   }
   if (s.sectored) rows.push(['Sectors', esc(s.sectors_text || 'White and red sectors; bearings not in the ledger, drawn white'), 'ledger']);
-  return `<section class="spec"><h4 class="spec-h">${icon('bulb')}Light</h4><dl class="facts">${rows.map(([k, v, src]) => `<dt>${k}</dt><dd>${v} ${chip(src)}</dd>`).join('')}</dl></section>`;
+  return `<section class="spec"><h4 class="spec-h">${icon('bulb')}Light</h4><dl class="facts">${rows.map(([k, v, src]) => `<dt>${k}</dt><dd>${v}${chip(src)}</dd>`).join('')}</dl>${footnotes(rows.map(r => r[2]))}</section>`;
 }
 
 // Brightness on a log scale against every DGLL light that states an intensity, a candle
@@ -506,13 +610,17 @@ function brightnessViz(s) {
   return `<section class="spec"><h4 class="spec-h">${icon('brightness')}Brightness ${chip(s.no_ledger ? 'directory' : 'ledger')}</h4>
     <p class="big">${fmt(I)} <small>candela</small></p>
     <p class="note">${compare}; brighter than ${fmt(rank * 100)}% of the ${INTENSITIES.length} DGLL lights that state an intensity.</p>
+    ${s.iala_nm && s.lum_nm ? `<p class="note">At night in clear weather this carries <b>${fmt(s.iala_nm, 1)} NM</b> (IALA formula)${
+      Math.abs(s.iala_nm - s.lum_nm) / s.lum_nm > 0.3
+        ? `, but the ledger states ${fmt(s.lum_nm, 1)} NM: <span class="warn-text">${s.iala_nm < s.lum_nm ? 'the intensity is too low for that range' : 'the range undersells the intensity'}</span>.`
+        : `, matching the ledger's ${fmt(s.lum_nm, 1)} NM.`}</p>` : ''}
     <svg viewBox="0 0 ${W} 56" class="viz" role="img" aria-label="${fmt(I)} candela on a log scale of all DGLL lights">
       <line x1="8" x2="${W - 8}" y1="28" y2="28" class="t-base"/>${ticks}
       <line x1="${x(1)}" x2="${x(1)}" y1="16" y2="40" class="t-ref"/><text x="${x(1) + 3}" y="14" class="t-lab">candle</text>
       <line x1="${x(HIGH_BEAM_CD)}" x2="${x(HIGH_BEAM_CD)}" y1="16" y2="40" class="t-ref"/><text x="${x(HIGH_BEAM_CD)}" y="14" class="t-lab" text-anchor="middle">car high beam</text>
       <circle cx="${x(I)}" cy="28" r="5.5" class="t-me"><title>${esc(nice(s.name))}: ${fmt(I)} cd</title></circle>${axis}
     </svg>
-    <p class="note fine">Each tick is one lighthouse. Log scale: every step is 100× brighter.</p></section>`;
+    <p class="note fine">Each tick is one lighthouse. Log scale: every step is 100× brighter. A lighthouse only has to reach a sailor's eye across a dark sea (0.2 millionths of a lux), not light a road, so its candela sit near a headlamp's.</p></section>`;
 }
 
 // How far out the light is seen: the shorter of its luminous range (brightness, at the IALA
@@ -543,8 +651,9 @@ function reachViz(s) {
 function equipSince(s) {
   const names = { navtex: 'NAVTEX', racon: 'RACON', ais: 'AIS', dgps: 'DGNSS' };
   const parts = Object.entries(s.equip_since || {}).filter(([, v]) => v && v.year)
-    .map(([k, v]) => `${names[k]} ${v.year}${v.src === 'network' ? ' <span class="src src-derived" title="Station ledger prints no date: earliest year any ledger records for this network">network</span>' : ''}`);
-  return parts.length ? `<dt>Equipment since</dt><dd>${parts.join(' · ')}</dd>` : '';
+    .map(([k, v]) => `${names[k]} ${v.year}${v.src === 'network' ? '<sup class="fn" aria-label="(network year)">†</sup>' : ''}`);
+  const net = Object.values(s.equip_since || {}).some(v => v?.year && v.src === 'network');
+  return parts.length ? `<dt>Equipment since</dt><dd>${parts.join(' · ')}${net ? '<small class="fnote">† No date in this ledger: the first year any ledger records that equipment.</small>' : ''}</dd>` : '';
 }
 
 function ledgerDetail(s) {
@@ -666,14 +775,20 @@ addEventListener('keydown', e => { if (e.key === 'Escape') closeCard(); });
   const cv = $('#rhythm'), g = cv.getContext('2d');
   const rows = lights.filter(s => s.phases);
   const dpr = Math.min(2, window.devicePixelRatio || 1);
-  const size = () => { cv.width = Math.max(1, cv.clientWidth * dpr); cv.height = 300 * dpr; };
-  size(); addEventListener('resize', size);
+  // Size the drawing buffer from the canvas's CSS box whenever it changes. On phones the sheet starts
+  // collapsed, so the first measure is 0 px wide; a 2 × 600 buffer then stretched into a 100,000 px tall
+  // strip. The CSS gives the canvas a fixed height; this only follows it.
+  const size = () => {
+    const W = Math.round(cv.clientWidth * dpr), H = Math.round(cv.clientHeight * dpr);
+    if (W > 0 && H > 0 && (cv.width !== W || cv.height !== H)) { cv.width = W; cv.height = H; }
+  };
+  new ResizeObserver(size).observe(cv);
   let last = 0, acc = 0;
   const tick = now => {
     const dt = (now - last) / 1000; last = now; acc += dt;
     const colW = Math.max(1, Math.round(dpr));
     // skip drawing while the sheet is collapsed: nobody can see it, the phone keeps the battery
-    if (acc >= 1 / 22 && cv.offsetParent !== null) {
+    if (acc >= 1 / 22 && cv.offsetParent !== null && cv.width > 2) {
       acc = 0;
       g.globalCompositeOperation = 'copy';
       g.drawImage(cv, -colW, 0);

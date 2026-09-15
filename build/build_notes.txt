@@ -44,3 +44,28 @@ full ledger records published: 200
 navtex stations: [('Veraval', 'veraval-lighthouse'), ('Vengurla Point', 'vengurla-point-lighthouse'), ('Muttam Point', 'muttom-point-lighthouse-and-navtex-station'), ('Porto Novo', 'portonovo-lighthouse-and-navtex-station'), ('Vakalpudi', 'vakalapudi-lighthouse'), ('Balasore', None), ('Keating Point', 'keating-point-lighthouse-and-dgps-station')]
 racon unmatched: ['BLQ II (Bassein Field) BE 19 °07.39’ N 72°06.44’ E', 'Neelam (Heera Field) NLM-11 18 °48.41’ N 72°20.04’ E', 'SHQ (South Field) WI – 10 . 19 °17’33.41” N 71°16’54.7” E', 'WIN (North Field) WI-219 °37.84’ N 71°17.77’ E']
 equipment network first years: {'navtex': 2015, 'racon': 2004, 'ais': 2012, 'dgps': 2003}
+range check androth-east-lighthouse: 20000 cd carries 15.8 NM (IALA), ledger states 28 NM
+range check bampoka-lighthouse: 1500 cd carries 10.1 NM (IALA), ledger states 16 NM
+range check bural-reef-lighthouse: 10000 cd carries 14.2 NM (IALA), ledger states 9 NM
+range check ghogha-lighthouse: 32230 cd carries 16.9 NM (IALA), ledger states 11 NM
+range check kabra-island-lighthouse: 1500 cd carries 10.1 NM (IALA), ledger states 20 NM
+screen kaup-lighthouse: landward · No. of panes: 20 + 12 Nos. Blanked with G.I. Sheet on the landward side. · shown 175°
+range check keating-point-lighthouse-and-dgps-station: 1500 cd carries 10.1 NM (IALA), ledger states 26 NM
+range check krishnapatnam-lighthouse: 939500 cd carries 25.4 NM (IALA), ledger states 18 NM
+range check little-andaman-lighthouse: 1500 cd carries 10.1 NM (IALA), ledger states 20 NM
+screen mahabalipuram-lighthouse: landward · No. of panes: 32 Nos, 12 No’s Blanked with metal sheet at land side · shown 175°
+range check mahabalipuram-lighthouse: 750644 cd carries 24.8 NM (IALA), ledger states 18.9 NM
+range check manakkodam-lighthouse: 233050 cd carries 21.8 NM (IALA), ledger states 16.6 NM
+range check mawadi-point-beacon: 500 cd carries 8.0 NM (IALA), ledger states 5 NM
+range check north-cinque-lighthouse: 4470 cd carries 12.4 NM (IALA), ledger states 20 NM
+range check pentakota-lighthouse: 438480 cd carries 23.4 NM (IALA), ledger states 15 NM
+screen ratnagiri-town-and-dgps-station: landward · No. of panles: 6 Nos., Plus 2 Nos. land ward side blanked · shown 150°
+screen sacramento-lighthouse: sector · 225⁰--045⁰ (180⁰) · shown 180°
+screen samiyani-island-lighthouse-station: sector · W160° (057-217) W 13° (247-260) R 30° (217-247) R 30°(260-290) W 79° (290-009) · shown 315°
+screen santapalli-lighthouse: landward · iii) No. of panes: 32 Nos. (12 panes blanked on Landside) · shown 180°
+range check sir-hugh-rose-lighthouse: 1500 cd carries 10.1 NM (IALA), ledger states 20 NM
+range check strait-island-lighthouse: 2950 cd carries 11.5 NM (IALA), ledger states 8 NM
+screen surathkal-lighthouse-and-dgps-station: landward · No. of panes: 24 (8 panes blanked on the Landward side) · shown 160°
+range check tajpur-lighthouse: 3344 cd carries 11.8 NM (IALA), ledger states 20 NM
+screen thangasseripoint-lighthouse: landward · No. of panes: 32 Nos (in two tier), (24 Nos as glass panes, 8 Nos as M.S blanksheetonthelandside) · shown 215°
+range check tillanchang-lighthouse: 1500 cd carries 10.1 NM (IALA), ledger states 25 NM

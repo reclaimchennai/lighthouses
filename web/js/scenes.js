@@ -140,10 +140,11 @@ function draw(s, t) {
   // RACON: Morse identifier as blips on a radar line across the sea
   if (st.racon) {
     const code = MORSE[st.racon] || '.';
-    const unit = 0.28, seq = [];
-    [...code].forEach((c, i) => { seq.push(c === '-' ? 3 : 1); seq.push(i === code.length - 1 ? 7 : 1); });
-    const cycle = seq.reduce((p, q) => p + q, 0) * unit;
-    let x = W - 4 - ((t % cycle) / cycle) * 60;
+    const seq = [];
+    [...code].forEach((c, i) => { seq.push(c === '-' ? 3 : 1); seq.push(i === code.length - 1 ? 0 : 1); });
+    // the whole code enters at the right edge and leaves past the left before the next one enters
+    const codeW = seq.reduce((p, q) => p + q, 0) * 2, speed = 20;       // px per second
+    let x = W - ((t * speed) % (W + codeW));
     const y = H - 5;
     for (let i = 0; i < seq.length; i += 2) {
       rect(ctx, x, y, seq[i] * 2, 2, PAL.racon);

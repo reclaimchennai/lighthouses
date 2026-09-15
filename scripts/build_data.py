@@ -331,6 +331,84 @@ EQUIP = {
 ANCILLARY = r"batter|charger|\bups\b|inverter|solar|monitor|receiver|fire|stabili|a/?c\b|air.?condition"
 
 
+def _fields(o):
+    """Every {label, value} pair anywhere in a full ledger record."""
+    if isinstance(o, dict):
+        if "label" in o and isinstance(o.get("value"), str):
+            yield o["label"], o["value"]
+        for v in o.values():
+            yield from _fields(v)
+    elif isinstance(o, list):
+        for v in o:
+            yield from _fields(v)
+
+
+SECTOR_RE = re.compile(r"(?:\b([WRG])\s*\d+\s*[°º⁰]?\s*)?\(?\s*(\d{1,3})\s*[°º⁰]?\s*[-–—]+\s*(\d{1,3})\s*[°º⁰]?\s*\)?")
+# "12 Nos. Blanked with G.I. Sheet on the landward side", "8 Nos as M.S blanksheetonthelandside"
+LANDWARD_RE = re.compile(r"blank.{0,60}?land\s*-?\s*(ward|side)|land\s*-?\s*(ward|side).{0,40}?blank", re.I)
+
+
+def light_screen(full):
+    """Where the ledger says the light is NOT shown.
+
+    * 'Visibility sector' narrower than 360°. Sector limits are bearings from seaward (Admiralty
+      convention: the bearing a ship sees the light on), so the light shines the opposite way.
+    * Lantern panes blanked on the land side ('12 panes blanked with metal sheet at land side').
+    Blanked lens panels without a direction are optic panels (active_panels), not screens."""
+    if not full:
+        return None
+    arcs, sector_text, landward_text = [], None, None
+    for label, value in _fields(full):
+        if "visibility sector" in label.lower() and value.strip():
+            for colour, a, b in SECTOR_RE.findall(value):
+                a, b = int(a) % 360, int(b) % 360
+                if a != b:
+                    arcs.append([(a + 180) % 360, (b + 180) % 360, colour or "W"])
+            if arcs:
+                sector_text = value.strip()
+        if LANDWARD_RE.search(value):
+            landward_text = f"{label}: {value.strip()}"
+    if arcs:
+        return {"kind": "sector", "arcs": arcs, "text": sector_text}
+    if landward_text:
+        return {"kind": "landward", "text": landward_text}
+    return None
+
+
+def screen_mask(scr, sea_mask_str, bins=72):
+    """72 chars like sea_mask: '1' where the light is shown, '0' where the ledger screens it."""
+    if scr["kind"] == "landward":
+        return sea_mask_str                       # blanked on the land side: dark where no sea opens up
+    out = []
+    for i in range(bins):
+        c = (i + 0.5) * 360 / bins
+        shown = any((c - a) % 360 <= (b - a) % 360 for a, b, _ in scr["arcs"])
+        out.append("1" if shown else "0")
+    return "".join(out)
+
+
+def screened_wedges(lat, lon, radius_m, shown, bins=72):
+    """Union of the wedges the light is screened across, to cut out of the reach meshes."""
+    polys = []
+    for i, ch in enumerate(shown):
+        if ch == "0":
+            b0 = i * 360 / bins
+            ring = [(lon, lat)] + [dest(lat, lon, b, radius_m * 1.1)[::-1] for b in np.linspace(b0, b0 + 360 / bins, 4)]
+            polys.append(Polygon(ring + [(lon, lat)]).buffer(0))
+    return unary_union(polys) if polys else None
+
+
+def iala_range(intensity_cd):
+    """Luminous range (NM) of an intensity at night in 10 NM meteorological visibility (IALA
+    E-200-2: I = 3.43e6 × E × d² × T^-d, E = 2e-7 lux, T = 0.74)."""
+    f = lambda d: 3.43e6 * 2e-7 * d * d * 0.74 ** (-d)
+    lo, hi = 0.1, 80.0
+    for _ in range(60):
+        mid = (lo + hi) / 2
+        lo, hi = (mid, hi) if f(mid) < intensity_cd else (lo, mid)
+    return round(lo, 1)
+
+
 def equipment_years(full):
     """Earliest installation/commissioning year per equipment from its own ledger section."""
     found = {}
@@ -528,6 +606,14 @@ class Sea:
 
     def open_circle(self, rays=240):
         return sea_mask([1.0] * rays, 1.0)
+
+    def land_reach(self, lat, lon, radius_m):
+        """Land inside the light's reach: where the sweep passes over the shore, towns and fields."""
+        land, _ = self.local_land(lat, lon, radius_m * 1.05)
+        if land is None or land.is_empty:
+            return None
+        circle = Polygon([dest(lat, lon, b, radius_m)[::-1] for b in np.linspace(0, 360, 180, endpoint=False)])
+        return circle.intersection(land).buffer(0)
 
     def radio_reach(self, lat, lon, radius_m):
         """MF ground-wave coverage over sea: the circle minus land, keeping only the
@@ -1005,13 +1091,34 @@ def main():
 
     # ---- reach geometry
     sea = Sea()
-    reach = {"lights": {}, "navtex": {}}
+    reach = {"lights": {}, "land": {}, "navtex": {}}
     for s in stations:
         if s["kind"] in ("lighthouse", "lightvessel") and s["reach_nm"]:
-            g, s["sea_mask"] = sea.light_reach(s["lat"], s["lon"], s["reach_nm"] * NM)
+            R = s["reach_nm"] * NM
+            g, s["sea_mask"] = sea.light_reach(s["lat"], s["lon"], R)
+            scr = light_screen(STATION_FULL.get(slug_of.get(s["id"], s["id"])))
+            cut = None
+            if scr:
+                s["screen_mask"] = screen_mask(scr, s["sea_mask"])
+                s["screen"] = scr
+                cut = screened_wedges(s["lat"], s["lon"], R, s["screen_mask"])
+                notes.append(f"screen {s['id']}: {scr['kind']} · {scr['text']} · shown {s['screen_mask'].count('1') * 5}°")
+            if cut is not None:
+                g = g.difference(cut).buffer(0)
             m = mesh(g, tol=0.003)
             if m:
                 reach["lights"][s["id"]] = m
+            lg = sea.land_reach(s["lat"], s["lon"], R)
+            if lg is not None and not lg.is_empty:
+                if cut is not None:
+                    lg = lg.difference(cut).buffer(0)
+                ml = mesh(lg, tol=0.006, nd=4)
+                if ml:
+                    reach["land"][s["id"]] = ml
+        if s.get("intensity_cd") and s.get("lum_nm"):
+            s["iala_nm"] = iala_range(s["intensity_cd"])
+            if abs(s["iala_nm"] - s["lum_nm"]) / s["lum_nm"] > 0.3:
+                notes.append(f"range check {s['id']}: {s['intensity_cd']} cd carries {s['iala_nm']} NM (IALA), ledger states {s['lum_nm']} NM")
     for n in navtex:
         g = sea.radio_reach(n["lat"], n["lon"], NAVTEX_NM * NM)
         m = mesh(g, tol=0.01, nd=4)

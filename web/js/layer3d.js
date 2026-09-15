@@ -108,7 +108,7 @@ const PIXEL = /* glsl */`
 
 const BEAM_FRAG = /* glsl */`
   ${PIXEL}
-  uniform float uTime, uPeriod, uRev, uReach, uRot, uAlpha, uSel, uInner, uGain;
+  uniform float uTime, uPeriod, uRev, uReach, uRot, uAlpha, uSel, uInner, uGain, uLand;
   uniform float uStart[8]; uniform float uDur[8]; uniform int uN;
   uniform vec3 uColor;
   varying vec2 vLocal;
@@ -146,7 +146,12 @@ const BEAM_FRAG = /* glsl */`
     float halo = exp(-d / (uReach * 0.06)) * (uRot > 0.5 ? 0.25 : 0.35);
     float gain = (uRot > 0.5 ? 0.62 : 0.16) * uGain;
     float rim = smoothstep(0.975, 1.0, r) * (0.18 + 0.4 * uSel);
-    float a = posterize((L * (fall * gain + halo) + rim + 0.028 * (1.0 - r) + 0.06 * uSel * (1.0 - r)) * uAlpha, cell);
+    // Over land the same beam still sweeps (only ledger-screened arcs are dark: those are cut out of
+    // the mesh at build time), but nothing reflects it back and buildings and trees block it low down:
+    // a fainter sweep that fades sooner, with no reach rim or sea tint.
+    float a = uLand > 0.5
+      ? posterize(L * (pow(1.0 - r, 2.4) * gain * 0.42 + halo * 0.8) * uAlpha, cell)
+      : posterize((L * (fall * gain + halo) + rim + 0.028 * (1.0 - r) + 0.06 * uSel * (1.0 - r)) * uAlpha, cell);
     gl_FragColor = vec4(uColor * a, a);
   }`;
 
@@ -283,7 +288,7 @@ export class LighthouseLayer {
     this.ml = maplibregl;
     this.data = data;
     this.reach = reach;
-    this.visible = { beams: true, navtex: true, racon: false, towers: true };
+    this.visible = { beams: true, navtex: true, racon: true, towers: true };
     this.year = 9999;
     this.selected = null;
     this.colourFn = s => COLOURS[s.colour] || COLOURS.W;
@@ -367,13 +372,20 @@ export class LighthouseLayer {
           vertexShader: VERT, fragmentShader: BEAM_FRAG, ...additive,
           uniforms: {
             uTime: this.clock, uPeriod: { value: sd.period }, uRev: { value: e.rev }, uReach: { value: st.reach_nm * NM * 1.0 },
-            uRot: { value: rot }, uAlpha: { value: 1 }, uSel: { value: 0 }, uInner: { value: 0 }, uGain: this.beamGain, uCell: { value: 1000 },
+            uRot: { value: rot }, uAlpha: { value: 1 }, uSel: { value: 0 }, uInner: { value: 0 }, uGain: this.beamGain, uCell: { value: 1000 }, uLand: { value: 0 },
             uStart: { value: sd.starts }, uDur: { value: sd.durs }, uN: { value: sd.n },
             uColor: { value: this.colourFn(st).clone() },
           },
         });
         e.beam = this.polyMesh(this.reach.lights[st.id], st, e.beamMat);
         if (e.beam) this.beams.add(e.beam);
+        // the sweep over land: same uniform objects (clock, colour, alpha, cell), land shading
+        const landMat = new THREE.ShaderMaterial({
+          vertexShader: VERT, fragmentShader: BEAM_FRAG, ...additive,
+          uniforms: { ...e.beamMat.uniforms, uLand: { value: 1 } },
+        });
+        e.landBeam = this.polyMesh(this.reach.land?.[st.id], st, landMat);
+        if (e.landBeam) { e.landBeam.renderOrder = -1; this.beams.add(e.landBeam); }
       }
       if (st.racon && this.reach.lights[st.id]) {
         const sd = toStartsDurs(morsePhases(st.racon));
@@ -431,9 +443,14 @@ export class LighthouseLayer {
     this.towersBuilt = false;
   }
 
-  buildTowers() {
-    // deferred: only when first zoomed in, keeps first paint fast
+  // Voxel towers, built a few at a time: in the background after first paint (app.js, idle callbacks)
+  // and a few per frame if the camera zooms in first. Building all ~200 at once froze the first
+  // zoom-in for seconds, which also stalled any video being recorded.
+  buildTowers(limit = Infinity) {
+    let built = 0;
     for (const e of this.entries) {
+      if (e.tower) continue;
+      if (built++ >= limit) return;
       const holder = new THREE.Group();
       const vessel = e.st.kind === 'lightvessel';
       const model = vessel ? buildLightVessel(e.st) : buildLighthouse(e.st);
@@ -533,7 +550,7 @@ export class LighthouseLayer {
     this.waves.visible = this.visible.navtex;
 
     const showTowers = this.visible.towers && zoom >= 6.2;
-    if (showTowers && !this.towersBuilt) this.buildTowers();
+    if (showTowers && !this.towersBuilt) this.buildTowers(6);
     this.towers.visible = showTowers;
 
     // towers stay readable at any zoom: target ~64 px tall, never below true scale
@@ -561,7 +578,9 @@ export class LighthouseLayer {
       }
       // no radar beacon before the ledger's installation year
       const raconYear = st.equip_since?.racon?.year;
-      if (e.raconMat) e.raconMat.uniforms.uAlpha.value = e.alpha * (raconYear && year < raconYear ? 0 : 1);
+      // Morse rings read at coast scale; close up they smear into bands over the sea, so fade them out by z 12
+      if (e.raconMat) e.raconMat.uniforms.uAlpha.value = e.alpha * (raconYear && year < raconYear ? 0 : 1)
+        * Math.max(0, Math.min(1, (12 - zoom) / 2.5));
       if (e.tower) {
         e.tower.visible = e.alpha > 0.05;
         const mpp = mpp0 * Math.cos(st.lat * Math.PI / 180);
@@ -584,7 +603,8 @@ export class LighthouseLayer {
           // same clock as the sea sweep: bearing = (t - flash centre) / seconds per turn
           const bearing = ((((tStep - sh.center) / e.rev) % 1) + 1) % 1;
           sh.obj.rotation.y = bearing * Math.PI * 2;
-          sh.mat.uniforms.uAlpha.value = e.alpha * seaAt(st.sea_mask, bearing);
+          // shafts turn a full circle; they go dark only across arcs the ledger screens (screen_mask)
+          sh.mat.uniforms.uAlpha.value = e.alpha * seaAt(st.screen_mask, bearing);
         }
         if (e.swell) {
           // moored light vessel: heave ~7 s, roll ~5.5 s, pitch ~8 s, slow swing on the cable

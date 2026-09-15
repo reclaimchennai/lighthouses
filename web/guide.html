@@ -8,7 +8,7 @@
 <meta name="color-scheme" content="dark">
 <link rel="icon" href="favicon.svg">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&family=Silkscreen:wght@400;700&family=VT323&display=swap">
-<link rel="stylesheet" href="css/style.css?v=8">
+<link rel="stylesheet" href="css/style.css?v=9">
 <style>
   body{overflow:auto}
   .doc{max-width:760px;margin:0 auto;padding:calc(20px + env(safe-area-inset-top,0px)) 16px 60px}
@@ -45,9 +45,13 @@
   <div class="cells"><dl>
     <dt>Lights</dt><dd>Every active light in DGLL's Master Ledgers, plus the Perigee light vessel and three public-access lighthouses DGLL publishes no ledger for (Kannur's ledger is filed on DGLL's Mahe page; Kelshi, Rawal Pir and Mahe come from the Lighthouse Directory). Each flashes its ledger rhythm.</dd>
     <dt>Beams</dt><dd>Revolving optics sweep 360° at the ledger rotation speed, with the ledger's beam count and width. LED flashers and fixed drum optics blink in place. A shaft leaves the lantern and hands over to the sweep on the water.</dd>
-    <dt>Reach</dt><dd>The lit sea around each light: the shorter of luminous and geographical range, cast as sight lines that stop at the first landfall. It never spills over land.</dd>
+    <dt>Over land</dt><dd>A lighthouse lights the land behind it too, so the sweep crosses the shore and towns, fainter (nothing reflects it back, and buildings and trees block it low down). It goes dark only where a ledger records a screen: 8 lanterns have panes blanked on the land side, and 2 lights state a narrower visibility sector.</dd>
+    <dt>Reach</dt><dd>The lit sea around each light: the shorter of luminous and geographical range, cast as sight lines that stop at the first landfall (headlands and islands shadow the beam).</dd>
     <dt>NAVTEX</dt><dd>Wavefronts over the 250 NM DGLL states for its seven transmitters, on connected sea only. They brighten during each station's real 10-minute UTC broadcast slot. Hidden before the year the ledgers record NAVTEX equipment.</dd>
-    <dt>RACON</dt><dd>Radar beacons pulse their Morse identifier outward. Off by default. Hidden before their installation year.</dd>
+    <dt>RACON</dt><dd>Radar beacons pulse their Morse identifier outward. On by default, fading out close up. Hidden before their installation year.</dd>
+    <dt>3D buildings</dt><dd>Close up (zoom 14 and nearer), OpenStreetMap buildings rise to their mapped height.</dd>
+    <dt>Moving around</dt><dd>+ and − zoom. The 2D / 3D button flattens the map or tilts it back. Drag to pan; right-drag (or two fingers) to rotate and tilt; Ctrl + drag to roll. Keyboard: arrows pan, + and − zoom, Shift + arrows rotate and tilt.</dd>
+    <dt>Opening a light</dt><dd>Tap a light or its name: the camera flies out to sea and turns to face the tower, and the card opens beside it (below it on a phone).</dd>
     <dt>3D towers</dt><dd>Built from each ledger's tower type, height and colours; the light vessel from DGLL's photograph. Towers are drawn taller than life when zoomed out so they stay visible.</dd>
     <dt>Places, roads &amp; rivers</dt><dd>OpenStreetMap data via OpenFreeMap, loaded after the lights. India's outline and state lines are DataMeet's Survey of India composite.</dd>
     <dt>Planned rings</dt><dd>Four lighthouses ordered on the Brahmaputra (National Waterway-2). Rings mark the named river ports; exact sites are not published.</dd>
@@ -66,9 +70,9 @@
   </dl></div>
 
   <h2 id="card"><svg class="i"><use href="icons.svg?v=2#info"/></svg>Lighthouse card</h2>
-  <p>Tap any light. Values come from DGLL's Master Ledger unless tagged
-    <span class="src src-derived">Derived</span> (computed from other ledger values) or
-    <span class="src src-directory">Directory</span> (from the Lighthouse Directory).</p>
+  <p>Tap any light. Values come from DGLL's Master Ledger unless marked
+    <b>†</b> (computed from other ledger values, or a network year where the station's ledger gives none) or
+    <b>‡</b> (from the Lighthouse Directory). Each mark is explained under its section.</p>
   <h3>Light</h3>
   <div class="cells"><dl>
     <dt>Characteristic</dt><dd>The light's signature in one wording for every light: the international abbreviation, then plain words (<code>Fl(2) W 10s</code> · White, 2 flashes every 10 s). Hover for the ledger's own text.</dd>
@@ -82,7 +86,7 @@
   </dl></div>
   <h3>Brightness, reach, station</h3>
   <div class="cells"><dl>
-    <dt>Brightness</dt><dd>Effective beam intensity in candela, on a log scale against every DGLL light that states one, a candle (≈1 cd) and one car high-beam lamp (140,000 cd, the ECE maximum per lamp).</dd>
+    <dt>Brightness</dt><dd>Effective beam intensity in candela, on a log scale against every DGLL light that states one, a candle (≈1 cd) and one car high-beam lamp (140,000 cd, the ECE maximum per lamp). Lighthouse candela sit near a headlamp's because a light at sea only has to reach a sailor's eye across a dark sea. The card also runs the IALA formula (night, 10 NM visibility) to show how far the stated intensity carries, and flags ledgers whose range and intensity disagree by more than 30%.</dd>
     <dt>Reach</dt><dd>Luminous range (how far the intensity carries in clear weather) and geographical range (the horizon from the lantern's height to a 5 m eye). The light is seen out to the shorter one.</dd>
     <dt>Equipment pills</dt><dd>NAVTEX with its transmitter IDs, RACON with its Morse letter, AIS base station, DGNSS, VTS radar, museum, public access, solar power.</dd>
     <dt>Station</dt><dd>Tower type, height and colours; established and tower years; Admiralty List of Lights and ARLHS numbers; NAVTEX broadcast slots.</dd>
