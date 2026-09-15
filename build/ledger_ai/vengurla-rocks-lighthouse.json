@@ -1,0 +1,46 @@
+{
+  "slug": "vengurla-rocks-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Vengurla Rock Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F0598",
+  "position": {"lat_text": "15°53.4' N", "lon_text": "73°27.7' E", "lat": 15.89, "lon": 73.461667},
+  "elevation_m": 49,
+  "characteristic_text": "Fl (2)W 20S",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.18
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 26, "geographical_nm": null, "text": "26NM (unlabelled range)"},
+  "tower": {"type": "Circular Cast Iron", "height_m": 20, "colour_scheme": "Red & White Bands"},
+  "optic": {
+    "make": "BBT Paris", "model": null, "type": "Revolving", "size": "920mm", "order": "First Order",
+    "panels": 2,
+    "rotation_device": "Dual stepper Motor",
+    "rpm": 1.5,
+    "rotates": true,
+    "rotates_evidence": "Optic: Revolving; Rotation Device: Dual stepper Motor; R.P.M. 1.5",
+    "divergence_horizontal_deg": 1.5,
+    "divergence_vertical_deg": 2.42,
+    "divergence_text": "Horizontal – 1.5°, Vertical – 2.42°",
+    "illuminant": "50W 12vdc"
+  },
+  "intensity_cd": 113665,
+  "racon": {"present": true, "code": "D", "text": "Sr. No 6295; Tideland Signal Corp.; Model FAZSBCN2 SY56A; Code D; Band X+S"},
+  "ais": {"present": false, "text": "NAIS base station/model/MMSI blank; only VSAT 2.4m dia EX-C with Datum system M7LT satellite terminal listed"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": true, "text": "Engine 1 Birla Yamaha 2.35kva (230vac & 12vdc); Solar plant 4.2KW Tata Bo Solar, 66 batteries; RACON solar 75W; Mains/Standby blank"},
+  "issues": [
+    "Position and divergence printed with '*' in place of degree signs",
+    "Date of commissioning not stated ('-')",
+    "RACON Sr. No 6295 is the same serial printed in other ledgers (Anjengo, Minicoy)",
+    "NAIS section lists only VSAT/modem, no AIS base station details"
+  ]
+}

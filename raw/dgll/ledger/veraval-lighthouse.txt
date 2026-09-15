@@ -1,0 +1,199 @@
+                       मास्टर लेजर/MASTER LEDGER
+
+        वेरावल दीपस्तंभ और आर सी एस स्टे शन / Veraval Lighthouse and RCS Station
+
+क्रमसंख्या/             नाम /Name
+                                                                   वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.        F 0410
+     2        स्थान/Position            Lat : 20º 54.6’N           Long : 70º 21.2’E
+    3         ऊंचाई/Elevation           33 M
+    4         अभिलक्षण/Characteristic   F l W15 Sec. (10+5=15 Sec)
+    5         नॉटिकलमाइलमेदरू ी         15 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower    Type                             Square Masonry Tower with Semi
+                                                                         Circular Front
+                                        Height                           34 M
+                                        Colour Scheme                    Black and White bands – 5 Nos.
+    7         ऑप्टिकलउपकरण              Optic
+              Optical equipment         Make                             BBT France
+                                        Type                             -
+                                        Size                             1000 mm drum optic with
+                                                                         catadioptric
+                                        No. of lens                      -
+                                        Area of dioptric portion         275 sq.mm (corrected area 205
+                                                                         sq.mm)
+                                        Area of catadioptric portion     342 sq.mm (corrected area 164
+                                                                         sq.mm)
+                                        Divergence                       11º27.27’ (Vertical)
+                                        Main/Emergency
+                                        Duration of Flash                10 Sec
+                                        Main /Standby/Emergency
+                                        Pedestal                         Fixed Large Size
+                                        Rotation Device                  N/A
+                                        R.P.M.                           N/A
+                                        Illumining                       Cluster of 230 V/500 W Halogen
+                                                                         lamps 3 nos. in each tier (both in
+                                                                         upper & lower tier)
+                                        Main                             230V/500 W Halogen Lamp
+                                        Standby                          -
+                                        Emergency:                       -
+                                        Date of Installation             03/10/2003
+    8                                   Main                             20,902 candela
+     प्रिािीबीमतीव्रता/Effective beam       Emergency                         -
+     intensity
+9    लेंिनन/Lantern                         Diameter                          2.0m
+                                            Height of glazing                 1.6 m
+                                            No. of panes                      16 (in each tier) 0.8 m high
+                                            Ventilators                       15 nos.
+10   RACON                                       Sr. No                          11-X-201607-06
+     Make                 Model             Code                              Band                  Date of
+                                                                                                    Installation
+     Pharos Marine                               K                            x- band               02/09/2016
+11   NAIS –                                                                                          22/06/2012
+     Base Station
+
+     Model                Type              Power                             MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna         Band              Modem
+     VHF & GPS                              CISCO Router 2900
+     Antenna
+     DGPS                 -                 -                                 -                          -
+     Transmitter Make     Frequency         Power Output RS 1 ID              RS -II         Beacon      Date of     Date
+                                                                              ID             ID          commis      of
+                                                                                                                     Reca
+                                                                                                         sioning     pitali
+                                                                                                                     zatio
+                                                                                                                     n
+     -                    -                 -                    -            -              -           -           -
+
+12   ऊर्ानकेसाधन/Sour     Mains                                               440V/3-phase/50 Hz
+     ce of energy         Power Source                                        DG Set 15 KVA make Kirloskar
+                          Engine 1
+                          Make/Type                    Qty       Rating       No of              RPM           Cooling
+                                                                              Cylinder
+                          Kirloskar                    1         19 BHP       2                  1500          Air
+                          Alternator
+                          Make/Type                    Qty       Rating   Voltage/Amp            Frequency     Phase
+                          Kirloskar                    1         15 KVA   230V/63A               50Hz          Single
+                          Solar Plant (Off Grid System)
+                          Capacity PV                  Numbers            Type           Battery               Bank
+                          7.5 KWp                      40 Nos             Mono-          90 Nos                04 No.
+                                                                          Crystalline    2V/1000AH
+                          Solar Plant (On Grid System)
+                          10 KWp                       30 Nos.            Mono-          -
+                                                                          Crystalline
+                          Solar Plant for Main RACON
+                          Capacity PV                  Numbers            Type           Battery               Bank
+                          12 V/ 70 Watt                01                 -              01 Nos,
+                                                                                         12 V/100 Ah
+                          Solar Plant for Dhum
+                          Ketu Flasher Unit
+                               36.6 V / 250 Watt             01                        -                  01 Nos,                   -
+                                                                                                          12 V/100 Ah
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make                Model    Capa                  Input                             Output                Phase          Qty
+          AE                  AY110    10 KVA                180 To 250V                       230                   Single         1
+
+
+14        बैिरर
+          Batteries
+          Equipment           Type            Make             Volt              Amp/Hr                   Qty
+          DG Set - 1          Sealed Lead     Exide            12 V              200 AH                   1
+                              Acid-XP2000
+          Racon               Sealed Lead     Exide            12 V              100 AH                   1
+                              Acid
+          Dhum ketu           Sealed Lead     Exide            12 V              100 AH                   1
+          flasher system      Acid
+          Main Light 7.5      Tubular         Exide            2V                1000 AH                  90
+          KW (off grid)
+          Solar Street          Sealed Lead   HBL              12 V              40 AH                    10
+          Light                 Acid
+          PSS NAIS                   -             -                  -                    -                         -
+          Automation            Sealed Lead   Rocket           12 V              42 AH                    6
+                                Acid
+          DGPS                  -             -                -                 -                        -
+     15   बैिररचार्नर/ Battery charger
+
+          Equipment           Make            Mode Type                                        Rating          Qty
+                                              l
+          General Purpose     Aplab                                                            0 - 32V/        01
+                                                                                               20 Amp.
+          Automation
+     16   इंवटट रInverter /UPS
+          Equipmen Nos Make Model                                         Type                 Rating          Qty input                outp
+          t                                                                                                                             ut
+          Main            02   UTL                 ---                       ---                10 KW          02        AC 120V        220 V
+          Light                                                                                                          to 265 V       +/-1%
+          RCS             01 Liebert                   -                      -                 3 KW           01                       230V
+                               GXT                                                                                                       AC
+          NAIS PSS
+          DGPS
+
+     17   स्वचलनउपकरण
+          Automation Equipment
+          MAKE       PLC              HMI                  Power Supply              VSAT                 Modem           Band
+     RDS,          Allen bradely   Renu        230 V             Helical           Robustel
+     Pune                                                        Antenna
+18   आप्ननशमनउपकरण                        Type of Extinguisher   Capacity              Nos      Make
+                                          ABC Type               4 kg                  6
+     Fire Fighting Equipment
+                                          Water Co2              -                     -
+                                          Foam Type              -                     -
+19   संचार                                P & T Telephone No. 02876-244131
+     Communication
+20   र्लपूर्तन                                (i)       Municipal mains fitted to each of the quarter.
+                                              (ii)      Semi underground water tank of capacity 60000 Ltr
+     Water Supply
+                                                        inside the compound.
+                                              (iii)     Semi underground water tank of capacity 20000 Ltr
+                                                        inside the compound.
+                                              (iv)      Semi underground water tank of capacity 5000 Ltr
+                                                        inside the compound.
+                                             (v)        750 Ltr overhead tank fitted on IQ.
+                                             (vi)       750 Ltr overhead tank fitted on each quarter and office.
+21   िभू म                                Area                                      0.6533 hectares
+     Land                                 Demarcation                             Compound wall on all the
+                                                                                  four sides
+22   इमारतें                              LH tower, Inspection Qtr., Power House, NA-1 Qtr -- 01 Nos.
+                                          NA-II Qtr. ---02 Nos., NA-III Qtr.—01 No., One twin unit of LHA
+     Buildings
+                                          Qurts.
+
+                                          Timber Construction above plint          -
+                                          Level
+23   कंपाउं डलाइि                             (i)     10 Nos. G.I. Poles solar street Light 9 Watt
+     Compound Lights                                    lamp with 12 V/40 AH HBL make
+                                                        Battery
+                                              (ii)      08 Nos G.I. Poles Electric street Light fitted with
+                                                        230V/25Watt LED Lamp
+                                              (iii)                                         Gate
+                                                        Light-02
+
+24   सीसीिीिीकमेरा                        -
+      CCTV CAMERA                         -
+25   स्िाफ                                Sl. No         Designations
+     Staff                                1           Navigational Assistant –I - 1 No.
+                                          2           Navigational Assistant –III - 2 Nos.
+                                          3           Lighthouse Attendant         - 2 Nos.
+26   पहुँचनेकामाध्यम                      By Train up to Varaval , Then 3Km by road up to Lighthouse
+     Mode of approach
+27   उपलब्धसविधाए                    Police Station, Dispensary, Post office and High school etc.
+                                     are available at Veraval Town 2 KM from Lighthouse
+     Facilities available
+
+
+
+
+28   डाक पताPostal address           Veraval Lighthouse & RCS Station, Rajendra Bhavan Road, P.O.
+                                     Veraval, Dist. Gir – Somnath, Pin- 362265
+29   मूल्यकाब्योराCost details          i)       Construction - Rs. 5,52,000/-
+                                        ii)      Equipment - Rs. 2,14,825/-
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          01/07/1967
+     Date of commissioning
+

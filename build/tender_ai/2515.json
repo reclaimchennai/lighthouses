@@ -1,0 +1,43 @@
+{
+  "nid": 2515,
+  "title": "Plantation under the \"EK PED MAA KE NAAM\" Campaign at Balasore Nevtex Station for the year 2026-27 under Kolkata Directorate.",
+  "summary": "E-tender for tree plantation under the 'Ek Ped Maa Ke Naam' campaign at the Balasore NAVTEX station, Odisha, for 2026-27, issued by the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Kol-01002/1/2026-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Balasore Nevtex Station, Balasore, Odisha", "station_id": null, "kind": "NAVTEX", "work": "Plantation under Ek Ped Maa Ke Naam campaign, 2026-27"}
+  ],
+  "scope": [
+    {"item": "Plantation under the EK PED MAA KE NAAM Campaign for the year 2026-27", "qty": null, "unit": null, "site": "Balasore Navtex Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 455000.0,
+    "emd_inr": 9100.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata; valid three months from technical bid opening; exemption not allowed; original EMD to reach office by last date of bid submission."
+  },
+  "period": {"completion": "60 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2026-07-27", "pre_bid": "2026-08-10", "bid_submission_end": "2026-08-17", "bid_opening": "2026-08-18"},
+  "eligibility": [
+    "Valid registration of appropriate class in appropriate category (Building civil work) with Central Govt department/undertaking/autonomous body or State Govt",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two works each >= 50%, or one work >= 80%; value brought to current level at 7% simple per annum",
+    "Similar works: gardening works at Central Govt/State Govt/other reputed private organization/NGO firm, supported by client certificates",
+    "Valid PAN card and GST registration",
+    "Notarized affidavit (2026) that bidder is not blacklisted or debarred by any Central/State government organization",
+    "Undertaking on letter pad that price bid is unconditional; signed Tender Acceptance Letter; other documents as in Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITBLS.pdf", "pages": 4, "read": "mixed", "language": "bilingual", "unreadable": ["Hindi text layer largely missing; pages 1-2 rendered and read visually"]}
+  ],
+  "confidence": "high",
+  "notes": "Document is the NIT only (printed pages 3-6); no BOQ or schedule of plantation quantities. Bid document download 27.07.2026 15:00 to 17.08.2026 15:00; technical bid opening 18.08.2026 16:00, whereas the listing shows bid opening 2026-08-17. 'Navtex' is misspelt 'Nevtex' in the notice. Balasore NAVTEX station is not in station_names.tsv."
+}

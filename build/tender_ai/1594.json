@@ -1,0 +1,48 @@
+{
+  "nid": 1594,
+  "title": "Conducting Technical cum Commercial Feasibility Study for installation of Lift at Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai Lighthouses.",
+  "summary": "Two-cover e-tender for a technical-cum-commercial feasibility study for installing lifts at Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai Lighthouses under the Chennai Directorate.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(29)/1/2024-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Poompuhar Lighthouse", "station_id": "poompuhar-lighthouse", "kind": "lighthouse", "work": "Feasibility study for lift installation"},
+    {"name": "Kodikkarai Lighthouse", "station_id": "kodikkarai-lighthouse", "kind": "lighthouse", "work": "Feasibility study for lift installation"},
+    {"name": "Nagapattinam Lighthouse", "station_id": "nagapattinam-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Feasibility study for lift installation"},
+    {"name": "Mallipattinam Lighthouse", "station_id": "mallipattinam-lighthouse", "kind": "lighthouse", "work": "Feasibility study for lift installation"},
+    {"name": "Kilakkarai Lighthouse", "station_id": "kilakkarai-lighthouse", "kind": "lighthouse", "work": "Feasibility study for lift installation"}
+  ],
+  "scope": [
+    {"item": "Conducting Technical cum Commercial Feasibility Study for installation of Lift", "qty": null, "unit": null, "site": "Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai Lighthouses"}
+  ],
+  "money": {
+    "estimated_cost_inr": 731000.0,
+    "emd_inr": 14620.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. Tender fee NIL. EMD by DD/FDR of any scheduled/nationalised bank in favour of Director of Lighthouses and Lightships, Chennai, payable at Chennai, valid three months from technical bid opening."
+  },
+  "period": {"completion": "60 days from the date of award of contract", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-05-28", "pre_bid": "2024-06-13", "bid_submission_end": "2024-06-20", "bid_opening": "2024-06-21"},
+  "eligibility": [
+    "Valid registration, experience and expertise in similar works with State/Central Govt/PSU/autonomous bodies, and valid CEIG registration certificate",
+    "Average annual financial turnover at least 40% of estimated cost",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two >= 50%, or one >= 80%; similar work = technical cum commercial feasibility study for installation of elevators/lifts for multi-storeyed buildings/towers",
+    "OR reputed lift/elevator OEMs or their authorised agencies with experience installing lifts in multi-storeyed buildings/towers for government/autonomous bodies/PSUs: one work >= Rs 35.00 lakh, or two works each >= Rs 22.00 lakh, or three works each >= Rs 18.00 lakh",
+    "Only fully completed works with completion certificate; certificates below Executive Engineer rank not considered",
+    "PAN/ITCC/GST registration; details of qualified technical personnel",
+    "Unconditional tender undertaking (Annexure III); tender acceptance letter (Annexure II); affidavit/self-attestation of not being blacklisted; list of relatives serving in MoPSW/DGLL"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITFeasibilitystudylift.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled (font mojibake); English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "Section-I NIT only; no scope of work or BOQ. Location printed as 'Chennai Directorate, Tamilnadu - 600 001'. Download/submission 30.05.2024 10:00 to 20.06.2024 15:00; pre-bid 13.06.2024 15:00; opening 21.06.2024 15:00. The deadline was later extended to 23.07.2024 (nid 1661)."
+}

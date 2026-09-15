@@ -1,0 +1,61 @@
+{
+  "nid": 2004,
+  "title": "Improvement of garden and front yard of Deep Bhavan , Mumbai",
+  "summary": "Civil and horticulture works to improve the garden and front yard of the Deep Bhavan office building of the Mumbai Directorate at Ghatkopar (East): lawn turfing, relaying and new paver blocks, concrete pavement, PU floor coating and repainting of the main and wicket gates.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-MUM-01001(03)/1/2021-M&D",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, M.G. Road, Ghatkopar (East), Mumbai - 400 077", "station_id": null, "kind": "office", "work": "Improvement of garden and front yard: brickwork, plaster, exterior paint, lawn, paver blocks, CC pavement, PU floor coat, gate painting"}
+  ],
+  "scope": [
+    {"item": "Brick work with common burnt clay F.P.S. (non modular) bricks of class designation 7.5 in superstructure, cement mortar 1:4", "qty": "2.000", "unit": "cum", "site": "Deep Bhavan, Mumbai"},
+    {"item": "15 mm thick cement plaster in cement mortar 1:4 on rough side of single or half brick thick wall", "qty": "13.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Finishing walls with 1st quality Premium Acrylic Smooth exterior paint with Silicone additives (Asian/ Snowcem/ Berger) on new work", "qty": "29.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Anti termite treatment of lawn area with premise 30.50% (two application)", "qty": "191.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Supplying and stacking screened dump manure at site (sieve 4.75 mm), carriage up to 5 km", "qty": "20.000", "unit": "cum", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Mixing earth and sludge or manure and spreading in required thickness", "qty": "20.000", "unit": "cum", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Providing and laying Neelgiri/Mexican grass turf with earth 50-60 mm, rolling, watering and maintenance for 30 days or more", "qty": "191.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Taking out existing CC interlocking paver blocks from footpath/ central verge, disposal and stacking", "qty": "410.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Providing and laying cement concrete 1:2:4 (40 mm aggregate) in pavements", "qty": "15.000", "unit": "cum", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Laying old cement concrete interlocking paver blocks over 50 mm compacted bed of coarse sand", "qty": "350.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Providing and laying 60 mm thick M-35 cement concrete paver block, factory made chamfered edge, over 50 mm sand bed with plate vibrator compaction", "qty": "60.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Providing and applying Polyurethane (PU) floor paint/coat over old paver block surfaces - internal pathway/road (Asian/Indigo/Dulux)", "qty": "760.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Removal of synthetic enamel paint by brushing, scrapping, sand papering and surface preparation", "qty": "25.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Painting two or more coats with primer and 1st quality synthetic enamel paint (Asian/ Berger/ Shalimar) over previously painted Main gate and Wicket Gate", "qty": "25.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"}
+  ],
+  "money": {
+    "estimated_cost_inr": 660371.0,
+    "emd_inr": 13210.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "5% of contract value (FDR or bank guarantee) plus 5% security deposit deducted from each RA bill",
+    "notes": "Estimated cost inclusive of GST (BOQ total Rs 6,60,371.00). Percentage rate BOQ. EMD by DD/FDR in favour of Director of Lighthouses and Lightships - Mumbai, valid three months from technical bid opening; MSME/NSIC registered bidders must also pay EMD. Tender fee Nil. Security deposit released after 6 months defect liability period. Labour cess 1% deducted from RA bills. LD 0.5% per week, max 10%."
+  },
+  "period": {"completion": "30 days from the date of award of contract", "bid_validity": "90 days from the date of opening of technical bid", "warranty": "6 months maintenance / defect liability period from completion"},
+  "dates": {"published": "2025-09-10", "pre_bid": "2025-09-13", "bid_submission_end": "2025-09-18", "bid_opening": "2025-09-19"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with Central Govt/State Govt/Municipal Corporation etc. having tender limits equal to or more than the estimated cost",
+    "Similar works (development of gardens, civil works and similar) completed in last 7 years in Central/State/PSU/reputed firms: three works each >= 40% (Rs 2.64 lakh), or two works each >= 60% (Rs 3.96 lakh), or one work >= 80% (Rs 5.28 lakh) of estimated cost; certificate from officer not below Executive Engineer; sub-contractor experience not considered",
+    "Average annual turnover at least 30% of estimated cost (Rs 1,98,111) over last 3 financial years, CA certified",
+    "PAN, GST registration, income tax returns for last three years",
+    "Tender acceptance letter, unconditional bid undertaking, bid securing declaration, non-blacklisting affidavit, no-relatives declaration, Make in India self-certification",
+    "Technical evaluation by marks (statutory 30, financial 20, experience 20, performance 20, key personnel 10); minimum 70% to qualify; lowest rate among qualified bidders wins"
+  ],
+  "specs": [
+    "Work per CPWD specifications including CPWD Horticulture & Landscaping specifications",
+    "53 grade OPC/sulphate resisting cement from approved manufacturers with ISI mark",
+    "Paint shades: snow white/brilliant white and black for main gate/wicket gate; brick red for paver block; yellow oxide",
+    "Paint makes as per BOQ: Asian/Snowcem/Berger exterior acrylic; Asian/Indigo/Dulux PU floor coat; Asian/Berger/Shalimar synthetic enamel"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "tendergarden.pdf", "pages": 70, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Hindi NIT dated 09.09.2025; English NIT page dated August 04, 2025; tender acceptance letter cites reference dated 10/09/2025. Listing end date 2025-09-19 matches technical bid opening; bid submission closes 18/09/2025 16:00 and original EMD due 19/09/2025 15:00. Turnover criterion inconsistently cites years ending 31/03/2024 and 31/03/2025. Index lists Drawings (pp 64-67) and Specifications (pp 68-113), but the PDF has 70 pages and its last two pages (scanned, numbered 68 and 69) are blank; no drawings are included. BOQ carries estimated rates and total."
+}

@@ -1,0 +1,186 @@
+                         मास्टर लेज़र/MASTER LEDGER
+
+                         कड़ापक्कम दीपस्तंभ/Kadapakkam Lighthouse
+
+क्रम संख्या/              नाम/Name                                     वििरण/Description
+   Sr. No
+     1         ए.एल.ओ.एल/A.L.O.L.               F 0929
+     2         स्थान/Position                   Lat.12° 16’ 31.4” N, long 80° 0’ 39.5” E
+     3         ऊंचाई/Elevation                  --
+     4         अभभलक्षण/Characteristic          White, Group 3 Flash Every 20 Second
+
+     5         नॉटिकल माइल मे दरू ी/            20 NM
+               Range in miles
+     6         दीपस्तंभ िािर/L.H. Tower         Type                        RCC Round Tower
+                                                Height                      30 M
+                                                Colour Scheme               Red and White Spiral Band
+     7         ऑप्टिकल उपकरण/                   Optic                       APRB-288
+               Optical equipment                Make                        M/s Pharos Marine Automatic
+                                                                            Power, Houston, TX
+                                                Type
+                                                Size                     Height- 470 mm, Diameter-536
+                                                                         mm
+                                                No. of lens              3
+                                                No. of Panels            8 (Octagonal Type)
+                                                Area of dioptric portion -
+                                                Area of catadioptric -
+                                                portion
+                                                Divergence               -
+                                                Main/Emergency
+                                                Duration of Flash        (0.45+4.55+0.45+4.55+0.45+9.5
+                                                Main                     5=20Sec)
+                                                /Standby/Emergency
+                                                Pedestal                 Square Type Main Light
+                                                                         Pedestal
+                                                Rotation Device          Inbuilt stepper motor with drive
+                                                R.P.M.                   3 RPM
+                                                Illumining               9000 lm
+                                                Main                     230V/150W Single ended Metal
+                                                                         Halide Lamp
+                                                Standby                  -
+                                                Emergency:               -
+                                                Date of Installation        30.11.2013
+     8         प्रभािी बीम तीव्रता/ Effective   Main                        20,000 candelas
+               beam intensity                   Emergency                   -
+     9         लेंिनन/Lantern                   Diameter                    2.4 m
+                                                Height of glazing           2.286 m
+                                      No. of panes               12 Nos Toughened glass
+                                      Ventilators                6 Nos
+10   रे कोन/RACON                          Sr. No
+     Make                Model        Code                       Band                Date of
+                                                                                     Installation
+     -                   -            -                          -                   -
+11   एनएआईएस/NAIS
+     Base Station
+
+     Model               Type         Power                      MMSI
+     -                   -            -                          -                   -
+     Communication                    -                          -                   -
+     Equipment
+     VSAT Antenna        Band         Modem
+     -                   -            -                          -                   -
+     DGPS
+     Transmitter         Frequenc     Power           RS 1 ID    RS -II     Beaco    Date of   Dat
+     Make                y            Output                     ID         n ID     commi     e
+                                                                                     ssioni    of
+                                                                                     ng        Re
+                                                                                               ca
+                                                                                               pit
+                                                                                               aliz
+                                                                                               ati
+                                                                                               on
+     -                   -          -                 -          -        -          -         -
+12   ऊर्ान के            Mains                                   Tamilnadu Electricity Board
+                         Power Source                            3 phase /440V AC supply
+     साधन/Source of
+                         Engine 1                                                    (NIL)
+     Energy              Make/Type            Qty      Rating    No of       RPM           Cooli
+                                                                 Cylinder                  ng
+                         -                    -        -         -           -             -
+                         Alternator
+                         Make/Type            Qty      Rating    Voltage/A    Frequency Phas
+                                                                 mp                      e
+                         -                    -        -         -            -          -
+                         Engine 2                                                  (NIL)
+                         Make/Type            Qty      Rating    No of        RPM        Cooli
+                                                                 Cylinder                ng
+                         -                  -       -            -            -          -
+                         Solar Plant for Main light
+                         Capacity PV        Numbers                 Type   Battery            Bank
+                         1.5 KW (38 V/250 6 Nos                     TATA 12 Nos               01
+                         W)                                         POW    2 V/ 600 AH        No.
+                                                                    ER
+                              Solar Plant for 2KW off grid (used in automation, street light and
+                              etc
+                              Capacity PV        Numbers            Type   Battery            Bank
+                              2 KW (38 V/ 250    08 No.             HBL    12 Nos              01
+                              W)                                    make   12V/200AH          No.
+13   स्िचाभलत िोल्िे र् स्िे बलाइर्र/
+     Automatic Voltage Stabilizers
+
+     Make                 Model           Cap     Input                Output               Phase       Qty
+                                          acity
+     Glow-bus             Servo           5       170-250 V            230 V                1 phase     1 No
+                          controlled      KVA
+14   बैिरी/Batteries
+     Equipment            Type            Make        Volt             Amp/      Qty
+                                                                       Hr
+     PSS NAIS             -               -           -                -         -
+     Genset               -               -           -                -         -
+     Automation           -               -           -                -         -
+     DGPS                 -               -           -                -         -
+15   बैिरी चार्नर/Battery Charger
+
+     Equipment            Make            Mod     Type                 Rating    Qty
+                                          el
+     General              Associate       -       -                    0-30      2 No
+     Purpose              engineer                                     V/ 30
+                                                                       A
+
+16   इंवटट र/यप
+              ू ीएस/Inverter/UPS
+     Equipme Nos Make               Model                    Type      Rating         Qt     input       out
+     nt                                                                               y                  put
+     Main          1        Ever    ---                      Pure      1000 VA        2N     24 V/ DC    230
+     Light         No       Power                            sine                     o      & 230 V     VA
+                                                             wave                            AC          C
+     2 KW off     1  Glow   --                               Pure      2000 VA        1N     48 V/ DC    230
+     grid         No power                                   sine                     o      & 230 V     VA
+                     techn                                   wave                            AC          C
+                     ologie
+                     s
+17   स्वचालन उपकरण/Automation Equipment
+
+     MAKE         PLC        HMI         Power Supply               VSAT         Modem        Band
+     RDS          Allen Bradley
+                             Renu        24 V DC                    1.8 m dia    Hughes       EX.C
+                             electroni                              Parabolic
+                             cs                                     reflector
+18   अग्निशमन उपकरण/                Type of                         Capacity          Nos      Make
+                                    Extinguisher
+     Fire Fighting Equipment
+                                    DCP Type                        6 kg           4      Ronak
+                                    Co2                             4.5 Kg         3      Intime
+                                    Foam Type                       -              -      -
+19   संचार/                         BSNL telephone                               044-29991520
+     Communication
+20   र्लपर्ू तन/                    Borewell water
+     Water Supply
+21   भभू म/                               Area                                   --
+     Land                                 Demarcation                            Not Available
+22   इमारतें /                       RCC Structure: 04 Nos              Power House-cum
+                                                                        Office room, Inspection
+     Buildings
+                                                                        quarters, NA-II quarter
+                                                                        and NA-III quarter
+23   कंपाउं ड लाइि/                  LED Light fitted on G.I Pole-06
+                                     Nos
+     Compound Lights
+                                     Garden light-1 No
+                                     Gate light- 2 Nos
+
+24   सीसीिीिी कैमरा/                 NIL
+     CCTV CAMERA
+25   स्िाफ/                          Sl. No       Designations
+     Staff                           1            Navigational Assistant Gr-II – 1 No
+                                     2            Navigational Assistant Gr-III- 1 No
+                                     3            Outsourced staff for Housekeeping- 1 No
+26   पहुँचने का माध्यम/              Nearby Railway station is Pondicherry,
+                                     Nearest Airport is Pondicherry Airport,
+     Mode of approach
+                                     from Kadapakam ECR to Pondicherry by road about 50
+                                     KM
+27   उपलब्ध सवु िधाएं/               The nearest Post office local panchayat office, High School
+                                     and Dispensary at Kadapakkam ECR, and Police Station
+     Facilities available
+                                     are available at Chunamedu.
+
+28   डाक पता/Postal address          The Navigational Assistant Gr-I
+                                     Kadapakakm Lighthouse,
+                                     Cheyyur Taluk
+                                     Kadapakkam, Tamilnadu-603304
+29   मल्ू य का ब्योरा/Cost details   2.0 crores
+     (At the time of Construction)
+30   प्रितनन मे लाने का दििांक       30th November 2013
+     Date of commissioning
+

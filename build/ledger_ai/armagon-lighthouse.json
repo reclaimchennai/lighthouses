@@ -1,0 +1,41 @@
+{
+  "slug": "armagon-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Armagon Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1853,
+  "alol": "F 0951",
+  "position": {"lat_text": "13° 53.30' N", "lon_text": "80° 12.18' E", "lat": 13.888333, "lon": 80.203},
+  "elevation_m": 34.64,
+  "characteristic_text": "FL W 15Seconds (Fl 0.38. EC 14.62)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "Fl 0.38, Ec 14.62",
+    "sequence_s": [0.38, 14.62],
+    "flash_duration_s": 0.38
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 26, "geographical_nm": 16.4, "text": "Luminous 26 NM, Geographical 16.4 NM"},
+  "tower": {"type": "Circular RCC Tower", "height_m": 30, "colour_scheme": "Red and White bands"},
+  "optic": {
+    "make": "MBR-300", "model": null, "type": null, "size": "105mm Focal Distance", "order": null,
+    "panels": 6,
+    "rotation_device": "Brushless DC direct-drive motor (step by step)",
+    "rpm": 0.667,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: Brushless DC direct-drive motor (step by step); Rotation Speed 0.667 RPM",
+    "divergence_horizontal_deg": 3,
+    "divergence_vertical_deg": 3,
+    "divergence_text": "Horizontal 3°, Vertical 3°",
+    "illuminant": "150W/230V Metal halide lamp"
+  },
+  "intensity_cd": 166000,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "M/s SAAB AIS R40 Base Stations Sl.No.5338 and Sl.No 5305, commissioned 10/02/2012"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APSPDCL mains 3 phase 440V; 0.48KW off-grid solar for main light and for NAIS; 1 standby diesel generator (Kirloskar, 15 KVA alternator)"},
+  "issues": []
+}

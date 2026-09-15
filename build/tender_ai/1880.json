@@ -1,0 +1,43 @@
+{
+  "nid": 1880,
+  "title": "Provision of Internal Elevator at Kannur Lighthouse in Kochi Dte",
+  "summary": "E-tender for providing an internal elevator (lift, including structural steel tower) at Kannur Lighthouse, Kerala, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-03029/1/2024-Admin; I/73969/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kannur Lighthouse, Kannur District, Pin-670013", "station_id": "kannur-lighthouse", "kind": "lighthouse", "work": "Provision of internal elevator"}
+  ],
+  "scope": [
+    {"item": "Provision of Internal Elevator at Kannur Lighthouse", "qty": null, "unit": null, "site": "Kannur Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 7671532.0,
+    "emd_inr": 153440.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals (or MSME/UDYAM/NSIC certificate) with technical documents by post/hand by 07.04.2025 15:00. Tender fee Nil."
+  },
+  "period": {"completion": "210 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-03-17", "pre_bid": "2025-03-25", "bid_submission_end": "2025-04-08", "bid_opening": "2025-04-09"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Lift manufacturing agency with valid licence/registration from State CEIG or other licensing authority, with experience in fabrication and erection of structural steel tower for lift and lift installation; OR registered contractor in Joint Venture Consortium with lift manufacturer",
+    "Similar works completed in last 7 years: three each >= 40% of estimated cost, or two >= 50%, or one >= 80%; only fully completed works",
+    "Similar work: supply, installation, testing and commissioning of elevator; for JV, civil engineering works (RCC tower, steel structures, multi-storeyed building, bridge, water tank) by first party plus lift manufacturer experience of second party; CEIG manufacturing licence of second party",
+    "A JV member may not bid individually or in another JV in the same tender",
+    "PAN and GST registration; CA-certified annual turnover of last three years"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (4).pdf", "pages": 4, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section-I NIT only; no BOQ or elevator specification. Bid query last date 24.03.2025 15:00; download/submission 18.03.2025 10:00 to 08.04.2025 15:00; technical opening subject to internet availability. Category chosen as heritage & tourism is uncertain; elevator appears intended for visitor access but document does not say so. See also nid 2096 (power supply/DG set for this elevator)."
+}

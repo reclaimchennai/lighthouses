@@ -1,0 +1,38 @@
+{
+  "nid": 1434,
+  "title": "Restoration of Musical Fountain at Vizhinjam Lighthouse",
+  "summary": "Restoration of the musical fountain at Vizhinjam Lighthouse (Kochi Directorate), a tourism facility.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-04001/1/2019-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Vizhinjam Lighthouse", "station_id": "vizhinjam-lighthouse", "kind": "lighthouse", "work": "Restoration of musical fountain"}
+  ],
+  "scope": [
+    {"item": "Restoration of Musical Fountain", "qty": null, "unit": null, "site": "Vizhinjam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2582784.0,
+    "emd_inr": 51656.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of any nationalised/RBI approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam; to reach tender inviting authority one day before last day of bid submission. Small scale industries with valid NSIC/MSME certificate exempted from EMD. Tender fee mentioned in table heading but no amount printed."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2023-12-23", "pre_bid": "2023-12-27", "bid_submission_end": "2024-01-04", "bid_opening": "2024-01-05"},
+  "eligibility": [
+    "Reputed fountain work OEMs or their authorised suppliers, parties or Government undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_0.pdf", "pages": 2, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned NIT with OCR text layer; page 1 rendered and read visually to confirm amounts. Printed date 23.12.2023 is hand-corrected to 22.12.2023. Download/submission 23.12.2023 09:00 to 04.01.2024 15:00; EMD in original by 03.01.2024 15:00; technical bid opening 05.01.2024 16:00. Listing gives bid opening 2024-01-03, which is the EMD deadline. Section I short notice only; no BOQ or completion period."
+}

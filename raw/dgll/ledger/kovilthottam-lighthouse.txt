@@ -1,0 +1,139 @@
+                            मास्टर लेजर/MASER LEDGER
+क्रमसं                 नाम /Name
+ ख्या/                                                                         वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.                     F 0710
+   2     स्थान/Position                         Lat.8° 59.8’ N , long 76°32.2’ E
+   3     ऊंचाई/Elevation                        20M (Above MSL)
+   4     अविलक्षण/Characteristic                Fl (1) W 5 sec (FL.1 dfark 4sec)
+
+  5      नॉविकल माइल मे दू री                   13.8 NM
+         Range in miles
+  6      दीपस्तं ि िािर/L.H.Tower               Type                              Square Masonry Tower
+                                                Height                            15.24M
+                                                Colour Scheme                     Black and White Band
+  7      ऑविकल उपकरण                            Optic
+         Optical equipment                      Make                              BBT
+                                                Type
+                                                Size                              250mm 4th order Fixed
+                                                No. of lens                       1
+                                                Area of dioptric portion           Sq. cm
+                                                Area of catadioptric portion       Sq. cm
+                                                Divergence                         (Horizontal)
+                                                Main/Emergency                    .2° 58’ (Vertical)
+                                                Duration of Flash                 1 Sec
+                                                Main /Standby/Emergency
+                                                Pedestal                          Fixed
+                                                Rotation Device
+                                                R.P.M.
+                                                Illumining
+                                                Main                              230V/500W Double end halogen Lamp
+                                                Standby
+                                                Emergency:
+                                                Date of Installation              14-02-2003
+  8      प्रिािी बीम तीव्रता/Effective beam     Main                              14500 cds
+         intensity                              Emergency
+  9      लें िनन /Lantern                       Diameter                          2.16m
+                                                Height of glazing                 0.8m
+                                                No. of panes                      8
+                                                Ventilators                       7
+ 10      RACON                                       Sr. No                       NIL
+         Make                    Model          Code                              Band                    Date of
+                                                                                                          Installation
+
+ 11      NAIS - NA
+ 12                              Mains                                            KSEB 440 Volt 3 Phase supply
+                                 Power Source                                     DG set 15 KVAMake:Perfect
+          ऊर्ान के साधन/          Engine 1
+          Source of energy        Make/Type                    Qty      Rating     No of Cylinder        RPM               Cooling
+                                  Eicher                       1        18.5KW     2                     1500              Air
+                                  Alternator
+                                  Make/Type                    Qty      Rating     Voltage/Amp           Frequency         Phase
+                                  Stamford                     1        15 KVA     230V/65.2A            50Hz              Single
+                                  Solar Plant ON GRID
+                                  Capacity PV                  Numbers             Type         Battery                    Bank
+                                  5KWp                         20 Nos              Mono         Connected to KSEB
+                                                                                   Crystallin   grid
+                                                                                   e 250W
+                                  Solar Plant for Main LIGHT BACK UP
+                                  Capacity PV                  Numbers             Type         Battery                    Bank
+                                  100 W/18V                    02 No.              TBP          02 Nos                     01 No.
+                                                                                   1275         12V/180AH
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र Automatic Voltage Stabilizers
+          Make                     Model            Capacity Input                  Output                  Phase          Qty
+          Delta                    AVR-14-1/1AC 12.5KVA 150-280V                    220V                    1 Phase        1
+14        बैिरर Batteries
+          Equipment                Type             Make      Volt                  Amp/Hr      Qty
+          Main light back up Lead acid               Exide 12V                      150AH       2
+                                   tubular-
+          Genset                   Lead acid        Exide     12V                   88AH        1
+          Automation               SMF              Exide     12V                   7AH         2
+          Office computer          SMF              Exide     12V                   7 AH        2
+     15   बैिरर चार्न र/ Battery charger
+          Equipment                Make             Model       Type                Rating      Qty
+          Lantern room             DELTA                                            15A         01
+          Mainlight backup
+          Power house              DELTA                                               15A      01
+     16   इं वर्ट र Inverter /UPS
+          Equipment Nos            Make      Model                     Type         Rating           Qty        input            Output
+          Main Light         01    Vguard        Nextogen1250          Pure sine       1 KVA          1         12V DC &         230VAC
+                                                                          wave                                    230 AC
+          AUTOMATI 01              APC            BR 1000G-IN          Pure sine 1 KVA               1          12V DC &         230VAC
+          ON                                                           wave                                     230 AC
+          SECURITY 01              vguard          Sesto1000           Pure sine 1 KVA               1          12V DC &         230VAC
+          CAMERA                                                       wave                                     230 AC
+                           01      INTEX             Gamma             Pure sine 1KVA                1          12V DC &         230VAC
+                                                                       wave                                     230 AC
+     17   स्वचलन उपकरण Automation Equipment
+          MAKE             PLC              HMI          Power Supply          VSAT             Modem            Band
+          RDS Pune RENU                     Schneider 24 V DC                  1.2m dia         HUGHES           EX.C
+                                                                               Parabolic
+                                                                               reflector
+     18   आवि शमन उपकरण                             Type of Extinguisher       Capacity              Nos          Make
+          Fire Fighting Equipment                   DCP  Stored  pressure      1 kg                  1            Flame Blitzz
+                                                    Type Co2 gas               2Kg                   4            “
+                                                                               4Kg                   2
+     19   संचार                                     BSNL LAND LINE WITH INTERNET
+          Communication                             0476-2680150
+20   र्ल पूवतन                       01 Nos Water sump ,with 4 NOS syntex 500litres tank provided on quarters
+     Water Supply                    roof top .water suplly from IREL Co.and Panchayath (Water comming
+                                     rarely)
+21   िू वम                           Area                                      0.854hectres
+     Land                            Demarcation                              Sea side rcc wall and other
+                                                                              three sides Brick masonary
+                                                                              compound wall
+22   इमारतें                         Masonarystructure : 05 Nos               1.Power House-,office cum
+     Buildings                                                                store(Office room collapsed
+                                                                              due to sea erosion)
+                                                                              2.NA1 Qtrs-14No
+                                                                              3.NA 2 Qtrs-1No
+                                                                              4.IQ-1No
+                                                                              5.Pump house-1No
+
+
+23   कंपाउं ड लाइि                   LED Light fitted on G.I Pole-16 Nos
+     Compound Lights                 LED Bulk head lamp fitted on sea side
+                                     compound wall 24nos
+
+24   सीसीिीिी कमे रा                 Camera                                   CP Plus -08 Nos
+      CCTV CAMERA                    DVR                                      01 Nos
+25   स्टाफ                           Sl. No        Designations
+     Staff
+                                     1             Navigational Assistant Gr.1
+                                     2             LHA
+26   पहुँ चने का माध्यम              By rail uptoKollam and then by road 17 km to light house.
+     Mode of approach
+27   उपलब्ध सुविधाए                  Post office ,Police station ,Dispensary,high school within 5 KM
+     Facilities available
+
+
+28   डाक पता Postal address          Navigatuional assistant Gr.I
+                                     Kovilthottam Lighthouse
+                                     Chavra.P O
+                                     Kollam
+                                     Pin: 6915863.
+29   मू ल्य का ब्योराCost details    N/A
+     (At the time of Construction)
+30   प्रितननमे लाने का दे नां क      01.01.1962
+     Date of commissioning
+

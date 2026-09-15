@@ -1,0 +1,36 @@
+{
+  "nid": 1575,
+  "title": "Supply of Battery Charger for various Lighthouse under Chennai Directorate",
+  "summary": "E-tender for supplying battery chargers to various lighthouses under the Chennai Directorate, open to OEMs, authorised dealers, licensed contractors and government undertakings.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01002(14)/4/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, 5/20 Jaffar Syrang Street, Chennai"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Supply of Battery Charger for various Lighthouses under Chennai Directorate (quantities not given in this notice)", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 444300.0,
+    "emd_inr": 8886.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": null,
+    "notes": "EMD by FDR/DD and non-refundable tender fee by DD in favour of Director, Directorate of Lighthouses and Lightships, Chennai, payable at Chennai; originals by 02.05.2024 15:00. Small Scale Industries with valid NSIC certificate exempt from tender fee and EMD."
+  },
+  "period": {"completion": "30 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-04-16", "pre_bid": "2024-04-25", "bid_submission_end": "2024-05-02", "bid_opening": "2024-05-03"},
+  "eligibility": [
+    "Reputed Original Equipment Manufacturers (OEM) or authorized dealers of OEMs, licensed contractors, parties or Government Undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "BatteryChargerNIT.pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only; no specifications, quantities or list of lighthouses. Bid download/submission 17.04.2024 17:00 to 02.05.2024 15:00; technical bid opening 03.05.2024 15:00."
+}

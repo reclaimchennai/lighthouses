@@ -1,0 +1,187 @@
+                                 मास्टर लेज़र/MASTER LEDGER
+                     किलाक्िरै दीपस्तंभ/Kilakkarai Lighthouse
+क्रमसंख्या/
+   Sr.No                    नाम /Name                                       वििरण/Description
+
+    1         ए.एल.ओ.एल/A.L.O.L.                 F 0738
+    2         स्थान/Position                     Lat.09° 13.5’ N, long 78° 47.0’ E
+    3         ऊंचाई/Elevation                    35.198M (Above MSL)
+    4         अविलक्षण/Characteristic            Single white flash every 15 sec (0.1+14.9)
+
+    5         नॉविकलमाइलमे दूरी                  20 NM
+              Range in miles
+    6         दीपस्तं ििािर/L.H.Tower            Type                            Hexagonal concrete tower
+                                                 Height                          30 M
+                                                 Colour Scheme                   Red and White Bands
+    7         ऑविकलउपकरण                         Optic                           TRB 220
+              Optical equipment                  Make                            Tideland Signal Corporation-Maxlumina
+                                                 Type
+                                                 Size                            Height: 915, mm Dia: 415 mm,
+                                                                                 Wight: 20Kg
+                                                 No. of lens                     6 (5 Nos Blanking with aluminum sheet)
+                                                 Area of dioptric portion        -
+                                                 Area of catadioptric portion    -
+                                                 Divergence                      2.40º (Horizontal)
+                                                 Main/Emergency
+                                                 Duration of Flash               0.1 Second
+                                                 Main/standby/Emergency
+                                                 Pedestal                        -
+                                                 Rotation Device                 Brushless DC motor gearless direct
+                                                                                 drive
+                                                 R.P.M.                          4.0
+                                                 Illumining                      -
+                                                 Main                            230V / 70W Metal Halide Lamp
+                                                 Standby                         -
+                                                 Emergency:                      -
+                                                 Date of Installation            08-02-2009
+    8         प्रिािीबीमतीव्रता/Effective beam
+              intensity                          Main                            68881 cds
+
+                                                 Emergency
+
+    9         लें िनन /Lantern                   Diameter                        2.0 m
+
+                                                 Height of glazing               3.9 m
+                                           No. of panes                          12 Nos
+
+                                           Ventilators                           6 Nos
+10   RACON                                      N/A                              -
+     Make                  Model           Code                                  Band                           Date of
+                                                                                                                Installation
+               -                  -                            -                               -                        -
+11   NAIS
+     Base Station                             2 Nos-AIS1 & AIS2
+
+
+     Model                 Type            Power                                 MMSI
+     R40                   Class A         AC-230V & DC-12V                      004194417
+     Communication
+     Equipment
+     VSAT Antenna          Band            Modem
+       2.4m dia            EX-C            Datum system M7LT
+       Parabolic                           Satellite Terminal
+       reflector
+     DGPS
+     Transmitter Make      Frequency       Power Output                RS 1 ID   RS -II ID         Beacon       Date of        Dat
+                                                                                                   ID           commis         e of
+                                                                                                                sioning        Re
+                                                                                                                               cap
+                                                                                                                               itali
+                                                                                                                               zati
+                                                                                                                               on
+              -                   -                 -                      -          -                -             -           -
+
+12   ऊर्ान केसाधन/         Mains                                                 Tamilnadu Electricity Board mains
+     Source of energy                                                            supply available
+                           Power Source                                          Solar Energy 5 KW Off grid
+                           Engine 1
+                           Make/Type                     Qty       Rating        No of Cylinder        RPM                Coolin
+                                                                                                                          g
+                           -                             -         -             -                     -                  -
+                           Alternator
+                           Make/Type                     Qty       Rating        Voltage/Amp           Frequency          Phase
+                           -                             -         -             -                     -                  -
+                           Solar Plant
+                           Capacity PV                   Numbers                 Type              Battery                Bank
+                           5 KW                          21 Nos                  Mono              12 Nos                 02 Nos
+                                                                                 Crystalline       2V/6000AH &
+                                                                                                   16 Nos 12V/150 AH
+                           Solar Plant for Main RACON
+                           Capacity PV                   Numbers                 Type              Battery                Bank
+                           -                             -                       -                 -                      -
+
+
+13   स्वचावलतिोल्टे र्स्टे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                   Model          Capacit       Input                   Output                      Phase        Qty
+                                           y
+     Soundary power            Globus 170        5 KVA       170 V – 270 V        230 V             Single       1 No
+     system                    V-270 V                                                              phase
+14   बैिरर
+     Batteries
+
+     Equipment                      Type             Make          Volt            Amp /             Qty
+                                                                                    Hr
+     Main Light                  Lead Acid           Exide          2V            600 AH            12 Nos
+     NAIS & Street light         Lead Acid           Exide         12 V           150 AH            16 Nos
+     Automation                      -                 -             -               -                 -
+     DGPS                            -                 -             -               -                 -
+15   बैिररचार्न र/ Battery charger
+
+     Equipment                   Make             Model           Type             Rating            Qty
+     Main Light                Jagath jothi       DC 80          80A/24V            80 A             1 No
+                                                  A/ 24V
+     General Purpose                 Geevi       40V 25      40V / 25A DCPS         25A              1 No
+                                    control      A DCPS
+                                    system
+16   इं वर्ट रInverter /UPS
+
+     Equipment        Nos      Make           Model                Type           Rating      Qty     input          Out
+                                                                                                                     put
+     Main Light         1      Exide           Exide 1450DSP        Pure sine      1450 VA     1       24 V DC       230
+                                                  PST UPS             wave                                             V
+                                                                                                                      AC
+     Spares             2       Hidel           1450VA/24V          Pure sine     1450 VA      1      24 V DC        230
+                                                                      wave                                             V
+                               Geevi           1 KVA SINE INV       Pure sine     1 KVA        1      24 V DC         AC
+                               control                                wave                                           230
+                                                                                                                       V
+                                                                                                                      AC
+     NAIS &             1      Hykon             SPP 5000           Inverter      5 KW /       1      96 V DC        230
+     Street light                                                  cum power       96 V DC                             V
+                                                                   control unit                                       AC
+17   स्वचलनउपकरण
+     Automation Equipment
+
+     MAKE             PLC               HMI             Power Supply         VSAT            Modem            Band
+     Racktronic       Allen-            Renu            24 V DC              1.8m dia        Hughes           EX.C
+     Devices &        Bradley           Electronic                           Parabolic
+     Systems          Micro Logix       Pvt.Ltd                              reflector
+     (RDS)
+
+18   आविशमनउपकरण                                 Type of Extinguisher   Capacity             Nos            Make
+     Fire Fighting Equipment                     DCP Type               6 kg                 2
+                                                 Water Co2              2 Kg                 2
+                                                 Foam Type              9 Ltr                -
+19   संचार                                       BSNL Telephone No: 04567-299115           Hlkkilakkarailighthouse@
+     Communication                                                                         gmail.com
+20   र्लपूवतन                                    Municipal water connection 3 nos pumped to overhead tank 1 no and
+     Water Supply                                concrete water tank 2 nos.
+21   िू वम                           Area                                           1.067 hectare
+     Land                            Demarcation                                    N-Road, S-Sea,
+                                                                                    E-Sea , W–Road.
+22   इमारतें                         RCC Structure: 08 Nos                          Inspection Qtrs – 1no
+     Buildings                                                                      Office cum Power
+                                                                                    House - 1No, NAG I Qtr
+                                                                                    – 1 No
+                                                                                    NAG II – 1 No
+                                                                                    NAG III – 1 No
+                                                                                    LHA Qtrs – 2 Nos
+                                                                                    Pump House -1 No
+                                     Timber Construction above plinth                -
+                                     level
+23   कंपाउं डलाइि                    Street Light fitting LED Light fitted on G.I
+     Compound Lights                 Pole - 8 Nos.
+                                     Gate Light fitting – 2 Nos
+
+24   सीसीिीिीकमे रा                  -
+      CCTV CAMERA                    -
+25   स्टाफ                           Sl. No          Designations
+     Staff
+                                     1              Navigational Assistant Grade II
+                                     2              Lighthouse Attendant
+26   पहुँ चने कामाध्यम               By rail up to Ramanathapuram and then by road 20 Kms up to
+     Mode of approach                Kilakkarai Lighthouse.
+27   उपलब्धसुविधाए                   The nearest Post office, Dispensary, High School, Police Station
+     Facilities available            are available within 3 Km.
+
+28   डाकपताPostal address            Navigational Assistant Grade I,
+                                     Kilakkarai Lighthouse,
+                                     Kilakkarai Post. Ramanathapuram Dist.
+                                     Pin: 623517.
+29   मू ल्यकाब्योराCost details      Rs.9,42,500/- (Civil construction)
+     (At the time of Construction)   Rs.2,38,900/-(Equipments)
+30   प्रितननमे लाने कादे नां क       First commissioned on 02.10.1979.
+     Date of commissioning           Renovation in the year 2003.
+

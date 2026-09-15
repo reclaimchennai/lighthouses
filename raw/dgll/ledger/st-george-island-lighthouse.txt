@@ -1,0 +1,166 @@
+                  मास्टर लेजर/MASTER LEDGER
+
+क्रमसं         नाम /Name
+ ख्या/                                                     वििरण/Description
+Sr.No
+   1       ए.एल.ओ.एल/A.L.O.L.                                    F 0628
+   2          स्थान/Position                                Lat. 150 21.1’N
+                                                            Long. 730 45.8’E
+  3         ऊंचाई/Elevation                                       93m
+  4      अविलक्षण/Characteristic   Fl. WR (4) ev 20Sec. (fl. 0.5, ec 1.5, fl. 0.5, ec 1.5 fl. 0.5, ec 1.5
+                                   fl. 0.5, L.ec 13.5) (R 1850 to 2250= 400, W 2250 to 1850=3200)
+  5        नॉविकलमाइलमेदूरी                             W - 5.6 NM, R – 6.3 NM
+             Range in miles
+  6      दीपस्तंििािर/L.H.Tower              Type                    Circular RCC Tower with external spiral
+
+                                            Height                                   16m
+                                        Colour Scheme                   Black & White bands (3)
+  7          ऑविकलउपकरण                     Optic
+           Optical equipment
+                                            Make                            Sealite SL-125/3
+                                            Type                          Ultra bright 108 LEDs
+                                             Size                                200 mm
+                                          No. of lens                               ---
+
+                                   Area of dioptric portion                             -
+                                     Area of catadioptric                               -
+                                           portion
+                                         Divergence                 Horizontal - 3600, Vertical - 90
+                                      Main/Emergency
+                                      Duration of Flash                            0.5 sec.
+                                            Main
+                                    /Standby/Emergency
+
+                                          Pedestal                                Cast iron
+                                       Rotation Device
+                                            R.P.M.
+                                         illumining
+                                             Main                         Ultra bright 108 LEDs
+
+                                          Standby
+                                        Emergency:
+                                     Date of Installation
+  8                                   Main & Standby                  Red - 176, White - 121 cd
+       प्रिािीबीमतीव्रता/Effective                 Emergency
+             beam intensity
+9             लेंिनन /Lantern                      Diameter                                        500mm
+                                                Height of glazing
+                                                 No. of panes
+                                                  Ventilators
+10            RACON                                  Sr. No                                         6295
+          Make              Model                    Code                                Band                   Date of
+                                                                                                              Installation
+            ---
+11                                                          NAIS
+             Base Station
+
+         Model              Type                      Power                             MMSI
+           --
+     Communication
+       Equipment
+      VSAT Antenna          Band                     Modem
+
+          DGPS
+       Transmitter       Frequency            Power             RS 1 ID            RS -II      Beacon   Date of Date of
+          Make                                Output                                ID           ID     commi Recapi
+                                                                                                                talizati
+                                                                                                        ssionin   on
+                                                                                                           g
+            --
+
+12   ऊर्ान केसाधन/Sour                        Mains                                                 -NA-
+      ce of energy                           Standby
+                                                                        Engine 1
+                              Make/Type               Qty            Rating          No of           RPM            Cooling
+                                                                                    Cylinder
+                                 -NA-
+                                                                       Alternator
+                              Make/Type               Qty            Rating    Voltage/Am         Frequency          Phase
+                                                                                    p
+                                 -NA-
+                                                                        Engine 2
+                              Make/Type               Qty            Rating          No of           RPM            Cooling
+                                                                                    Cylinder
+                                 -NA-
+                                                                       Alternator
+                              Make/Type               Qty          Rating     Voltage/Amp         Frequency          Phase
+
+
+
+
+                                            Solar Plant
+                              Capacity PV                   Numbers                  Type           Battery          Bank
+                               140Watt                       2x70w            Monocrystallin      12V/75AH:2N          1
+                                                                                   e                  os.
+                                  Solar Plant for Main RACON
+                             Capacity PV               Numbers                 Type          Battery       Bank
+                                  --
+13                                      स्वचावलतिोल्टे र्स्टे बलाइर्र
+                                       Automatic Voltage Stabilizers
+
+         Make           Model           Capa             Input                 Output         Phase        Qty
+                                         city
+           ---
+14                                                    बैिरर
+                                                    Batteries
+      Equipment          Type           Make             Volt             Amp/Hr              Qty
+       PSS NAIS           --
+        Genset            --
+      Automation          --
+         DGPS             --
+15                                         बैिररचार्नर/ Battery charger
+
+       Equipment         Make           Mod              Type              Rating             Qty
+                                         el
+     General Purpose         --
+       Automation            --
+16                                           इं वर्ट रInverter /UPS
+     Equipme     Nos   Make                Model              Type        Rating        Qt      input      output
+         nt                                                                             y
+       Main             --
+       Light
+     NAIS PSS           --
+      DGPS              --
+17                                             स्वचलनउपकरण
+                                            Automation Equipment
+      MAKE           PLC        HMI           Power Supply     VSAT                   Modem             Band
+      NELCO           --
+18         आविशमनउपकरण                          Type of               Capacity          Nos             Make
+        Fire Fighting Equipment               Extinguisher
+                                             DCP Type(u/s)                --
+                                             DCP Type(u/s)                --
+                                            Foam Type(u/s)                --
+                                            Water Type(u/s)               --
+                                               DCP Type                   --
+
+
+19             संचार                                           --
+           Communication
+20            र्लपूवतन                                                         --
+            Water Supply
+21             िूवम                                      Area                               Land owned by M/o
+               Land                                                                              Defence
+                                                   Demarcation
+22             इमारतें                Nil, except Lighthouse tower (other available
+                                       buildings are under control of Indian Navy
+              Buildings
+23          कंपाउं डलाइि                                   --
+          Compound Lights
+24         सीसीिीिीकमेरा                               Camera
+           CCTV CAMERA                                  DVR
+25              स्टाफ                  Sl. No                               Designations
+                Staff                    1                                            ---
+                                                                                      ---
+26          पहुँ चनेकामाध्यम
+          Mode of approach
+27          उपलब्धसुविधाए              Marine Police                                        --
+          Facilities available            Station
+                                        Dispensary                                          --
+                                        High School                                         ---
+                                         Post office                          --
+28      डाकपताPostal address         C/o Assistant Engineer (E), Aguada Lighthouse & DGPS station.
+29     मूल्यकाब्योराCost details                                    --
+     (At the time of Construction)
+30        प्रितननमेलानेकादे नां क                               29th December 1977
+        Date of commissioning
+

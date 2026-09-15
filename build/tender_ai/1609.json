@@ -1,0 +1,42 @@
+{
+  "nid": 1609,
+  "title": "Special Repairs and civil maintenance to the Lighthouse tower, allied buildings and compound wall and increasing the height of compound wall at Passipattinam Lighthouse.",
+  "summary": "E-tender for special repairs and civil maintenance of the tower, allied buildings and compound wall, and raising the compound wall, at Passipattinam Lighthouse, Ramanathapuram District, Tamil Nadu, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(16)/1/2020-Civil Maintenance; I/59109/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Passipattinam Lighthouse, Ramanathapuram District, Tamilnadu", "station_id": "passipattinam-lighthouse", "kind": "lighthouse", "work": "Special repairs and civil maintenance; increasing compound wall height"}
+  ],
+  "scope": [
+    {"item": "Special repairs and civil maintenance to lighthouse tower, allied buildings and compound wall and increasing the height of compound wall", "qty": null, "unit": null, "site": "Passipattinam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3016693.0,
+    "emd_inr": 60334.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of any scheduled/nationalized bank in favour of Director of Lighthouses and Lightships, Chennai, valid three months from technical bid opening; originals up to 09.07.2024 15:00."
+  },
+  "period": {"completion": "06 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-06-14", "pre_bid": "2024-07-02", "bid_submission_end": "2024-07-09", "bid_opening": "2024-07-10"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous body",
+    "Similar works in last seven years: three each >= 40%, or two each >= 50%, or one >= 80% of estimated cost; completed works only; value enhanced at 7% per annum; certificates from officers not below Executive Engineer",
+    "Similar works: repairs and civil maintenance of building or construction of any type of building/compound wall/retaining wall/RCC work",
+    "PAN/ITCC/GST registration; key technical personnel with qualifications and experience",
+    "Unconditional tender undertaking (Annexure III), tender acceptance letter (Annexure II), non-blacklisting affidavit, list of relatives in MoPSW/DGLL, Make in India self-certification (Annexure VI)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITPassipattinamCM24.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only; no BOQ. Download/bid submission 14.06.2024 17:00 to 09.07.2024 15:00; opening 10.07.2024 15:00. A later date-extension corrigendum for Tender ID 2024_DGLL_811901_2 (a re-tender, to 19.08.2024) is nid 1711."
+}

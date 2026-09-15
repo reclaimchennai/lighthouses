@@ -1,0 +1,133 @@
+{
+  "slug": "mount-dilli-lighthouse",
+  "page_count": 4,
+  "title_as_printed": "मास्टर लेजर/ MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1, "fields": [{"label": "A.L.O.L.", "value": "0669.5"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1, "fields": [{"label": "Position", "value": "Lat.12° 0.40’ N , long 75° 12.2’ E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1, "fields": [{"label": "Elevation", "value": "62M (Above MSL)"}], "tables": [], "text": null},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1, "fields": [{"label": "Characteristic", "value": "Fl (2) W 20 sec (fl 0.53) (0.53+1.97+0.53+16.97=20Seconds)"}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in miles", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1, "fields": [
+      {"label": "(i) Luminous", "value": "19.6 NM"},
+      {"label": "(ii) Geographical", "value": "20.5NM"}
+    ], "tables": [], "text": null},
+    {"no": "6", "title": "L.H.Tower", "title_hi": "दीपस्तंभ टावर", "page": 1, "fields": [
+      {"label": "Type", "value": "Hexagonal Masonry Tower"},
+      {"label": "Height", "value": "18 M"},
+      {"label": "Colour Scheme", "value": "Red and White Band"}
+    ], "tables": [], "text": null},
+    {"no": "7", "title": "Optical equipment", "title_hi": "ऑप्टिकल उपकरण", "page": 1, "fields": [
+      {"label": "Optic", "value": ""},
+      {"label": "Make", "value": "J.Stone & Co, Kolkata"},
+      {"label": "Type", "value": "Revolving Beacon"},
+      {"label": "Size", "value": "300 mm (IVth Order large) Revolving"},
+      {"label": "No. of lens Panels", "value": "2"},
+      {"label": "Area of dioptric portion", "value": "405 cm²"},
+      {"label": "Area of catadioptric portion", "value": "1520 cm²"},
+      {"label": "Divergence Main/Emergency", "value": "07º 38’ 24’’(Horizontal) 11º 27’ 14’’(Vertical)"},
+      {"label": "Duration of Flash Main /Standby/Emergency", "value": "0.6 Sec"},
+      {"label": "Pedestal", "value": "Ball bearing type"},
+      {"label": "Rotation Device", "value": "Stepper motor"},
+      {"label": "R.P.M.", "value": "3 RPM (one revolution in 45 Sec)"},
+      {"label": "Illumining", "value": ""},
+      {"label": "Main", "value": "Cluster of 3 Nos of MH lamp 150W/230V"},
+      {"label": "Standby", "value": "-"},
+      {"label": "Emergency:", "value": "-"},
+      {"label": "Date of Installation", "value": "21.12.2003"}
+    ], "tables": [], "text": null},
+    {"no": "8", "title": "Effective beam intensity", "title_hi": "प्रभावी बीम तीव्रता", "page": 1, "fields": [
+      {"label": "Main", "value": "93000 Candela"},
+      {"label": "Emergency", "value": ""}
+    ], "tables": [], "text": null},
+    {"no": "9", "title": "Lantern", "title_hi": "लेंटर्न", "page": 1, "fields": [
+      {"label": "Diameter", "value": "2.40 m"},
+      {"label": "Height of glazing", "value": "1300 m"},
+      {"label": "No. of panes", "value": "12"},
+      {"label": "Ventilators", "value": "11"}
+    ], "tables": [], "text": null},
+    {"no": "10", "title": "RACON", "title_hi": null, "page": 1, "fields": [{"label": "Sr. No", "value": "20180765 SJP"}], "tables": [
+      {"caption": null, "columns": ["Make", "Model", "Code", "Band", "Date of Installation"], "rows": [["Pharas Marine Automatic power", "PMAPI RACON-2", "K", "X", "25-12-2018"]]}
+    ], "text": "Header on page 1; data row on page 2."},
+    {"no": "11", "title": "NAIS", "title_hi": null, "page": 2, "fields": [{"label": "Base Station", "value": "2 Nos-AIS1 & AIS2"}], "tables": [
+      {"caption": "Base Station", "columns": ["Model", "Type", "Power", "MMSI", ""], "rows": [["SAAB,R40", "Class A", "AC-230V & DC-12V", "", ""]]},
+      {"caption": "Communication Equipment", "columns": ["VSAT Antenna", "Band", "Modem", "", ""], "rows": [["2.4m dia Parabolic Reflector", "EX-C", "HUGUES system", "", ""]]}
+    ], "text": null},
+    {"no": "12", "title": "Source of energy", "title_hi": "ऊर्जा के साधन", "page": 2, "fields": [
+      {"label": "Mains", "value": "Local Mains 440 V, 3 Ø, 50 Hz, AC"},
+      {"label": "Power Source", "value": "DG Set 7.5 KVA make Kirlosker"}
+    ], "tables": [
+      {"caption": "Engine 1", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"], "rows": [["Kirloskar Green/EA16 Serial No.D8.1612.92/1200273", "1", "16 BHP", "3", "1500", "Air"]]},
+      {"caption": "Engine 1 - Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"], "rows": [["Kirloskar Serial No.BS1H012A19324-H", "1", "7.5 KVA", "230V", "50Hz", "Single"]]},
+      {"caption": "Engine 2", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"], "rows": [["", "N/A", "N/A", "N/A", "N/A", "N/A"]]},
+      {"caption": "Engine 2 - Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"], "rows": [["", "N/A", "N/A", "N/A", "N/A", "N/A"]]},
+      {"caption": "Engine 3", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"], "rows": [["", "N/A", "N/A", "N/A", "N/A", "N/A"]]},
+      {"caption": "Engine 3 - Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"], "rows": [["", "N/A", "N/A", "N/A", "N/A", "N/A"]]},
+      {"caption": "Solar Plant", "columns": ["Capacity PV", "Numbers", "Type", "Battery", "Bank"], "rows": [["5 KWp", "250W x 20 Nos", "Mono Crystalline", "N/A", "N/A."]]},
+      {"caption": "Solar Plant for Main RACON", "columns": ["Capacity PV", "Numbers", "Type", "Battery", "Bank"], "rows": [["70 W/12V", "01 No.", "Mono Crystalline", "01 Nos 12V/100AH", "N/A."]]}
+    ], "text": null},
+    {"no": "13", "title": "Automatic Voltage Stabilizers", "title_hi": "स्वचालित वोल्टेज स्टेबलाइजर", "page": 2, "fields": [], "tables": [
+      {"caption": null, "columns": ["Make", "Model", "Capacity", "Input", "Output", "Phase", "Qty"], "rows": [["HYKON", "SAN115", "15KVA", "160-260V", "230-235V", "SINGLE", "3"]]}
+    ], "text": null},
+    {"no": "14", "title": "Batteries", "title_hi": "बैटरि", "page": 2, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Type", "Make", "Volt", "Amp/Hr", "Qty"], "rows": [
+        ["PSS NAIS", "SMF", "Exide", "12V", "150 AH", "2"],
+        ["Genset", "Lead acid", "Exide", "12V", "100 AH", "1"],
+        ["MAIN LIGHT", "SMF", "Exide", "12V", "150AH", "4"],
+        ["RACON", "SMF", "HBL", "12V", "100 AH", "1"]
+      ]}
+    ], "text": null},
+    {"no": "15", "title": "Battery charger", "title_hi": "बैटरि चार्जर", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Make", "Model", "Type", "Rating", "Qty"], "rows": [
+        ["General Purpose", "", "", "", "", ""],
+        ["", "SHARP", "Blue line", "----", "12/24/48V /20 Amps", "01"]
+      ]}
+    ], "text": null},
+    {"no": "16", "title": "Inverter /UPS", "title_hi": "इंवर्टर", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Nos", "Make", "Model", "Type", "Rating", "Qty", "input", "Output"], "rows": [
+        ["Main Light", "04", "Su-Kam", "SHINY900", "Pure sine wave", "900VA", "04", "12V/DC", "230VAC"],
+        ["NAIS PSS", "01", "Su-Kam", "Falcon-eco", "Pure sine wave", "1000VA", "01", "12V DC & 230 AC", "230VAC"],
+        ["", "01", "Microtech", "1000EB", "Pure sine wave", "1000VA", "01", "12V DC & 230 AC", "230VAC"],
+        ["", "", "", "", "", "", "", "", ""]
+      ]}
+    ], "text": null},
+    {"no": "17", "title": "Automation Equipment", "title_hi": "स्वचलन उपकरण", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["MAKE", "PLC", "HMI", "Power Supply", "VSAT", "Modem", "Band"], "rows": [["Renu Electronics Pvt. Ltd", "Allen Bradley Micro Logix 1400", "HMI Display- FP5070T", "I/P-230AC O/P- 24VDC/5A", "1.2m dia Parabolic reflector", "Hughes", "EX.C"]]}
+    ], "text": null},
+    {"no": "18", "title": "Fire Fighting Equipment", "title_hi": "आग्निशमन उपकरण", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Type of Extinguisher", "Capacity", "Nos", "Make"], "rows": [
+        ["DCP Type", "4 kg+2kg", "4+2", "Andex/Kanex"],
+        ["Co2", "4.5kg", "5", "FLAMEBLITZZ"],
+        ["Foam Type", "9 Ltr", "3", "FLAMEBLITZZ"]
+      ]}
+    ], "text": null},
+    {"no": "19", "title": "Communication", "title_hi": "संचार", "page": 3, "fields": [{"label": "BSNL LAND LINE", "value": "04985230232"}], "tables": [], "text": null},
+    {"no": "20", "title": "Water Supply", "title_hi": "जलपूर्ति", "page": 3, "fields": [], "tables": [], "text": "Open well at the foot of the Hill with an electric pump 12.5 HP, 440 V pumped to an overhead tank of RCC 6500 liters. Running water available in all quarters"},
+    {"no": "21", "title": "Land", "title_hi": "भूमि", "page": 3, "fields": [
+      {"label": "Area", "value": "2.519 Hectre"},
+      {"label": "Demarcation", "value": "Masonry Compound Wall(front side) and Partially consisting of RCC panels fixed in grooves of RCC posts"}
+    ], "tables": [], "text": null},
+    {"no": "22", "title": "Buildings", "title_hi": "इमारतें", "page": 3, "fields": [
+      {"label": "RCC Structure: 05 Nos", "value": "1.Power House-cum Office,Stores& Recreation Room ,2.HLK Qtrs One Unit 3.ALK Qtrsof Twin units, 4.Gr.D Qtrs of Twin units 5.Inspection Qtr.,"},
+      {"label": "Compound Wall (कंपाउंडदीवार)", "value": "Brick masonry & RCC panels"}
+    ], "tables": [], "text": null},
+    {"no": "23", "title": "Compound Lights", "title_hi": "कंपाउंड लाइट", "page": 3, "fields": [
+      {"label": "Compound Lights", "value": "LED Light fitted on G.I Pole-20W LED-21 Nos"},
+      {"label": "", "value": ""}
+    ], "tables": [], "text": null},
+    {"no": "24", "title": "CCTV CAMERA", "title_hi": "सीसीटीवी कमेरा", "page": 3, "fields": [
+      {"label": "", "value": "N/A"},
+      {"label": "", "value": "N/A"},
+      {"label": "", "value": "N/A"},
+      {"label": "", "value": "N/A"}
+    ], "tables": [], "text": "Two rows, each with two cells reading N/A; no Camera/DVR labels printed."},
+    {"no": "25", "title": "Staff", "title_hi": "स्टाफ", "page": 4, "fields": [], "tables": [
+      {"caption": null, "columns": ["Sl. No", "Designations"], "rows": [["1", "Navigational Assistant Gr.I &Navigational Assistant Gr.II"], ["2", "HOUSE KEEPING(By Out sourcing)"]]}
+    ], "text": null},
+    {"no": "26", "title": "Mode of approach", "title_hi": "पहुँचने का माध्यम", "page": 4, "fields": [{"label": "Mode of approach", "value": "By Rail up to Payyanur & by road 15 Km by bus"}], "tables": [], "text": null},
+    {"no": "27", "title": "Facilities available", "title_hi": "उपलब्ध सुविधाए", "page": 4, "fields": [{"label": "Facilities available", "value": "Police Station-18 Km, High School- 12 Km, Post office & Dispensary 10 Km from L.H."}], "tables": [], "text": null},
+    {"no": "28", "title": "Postal address", "title_hi": "डाक पता", "page": 4, "fields": [{"label": "Postal address", "value": "Head Light Keeper(SS)/Navigational Assistant Gr.I, Mount Dilly Lighthouse, Naval Academy (PO) Kannur-Dist, Pin 670310"}], "tables": [], "text": null},
+    {"no": "29", "title": "Cost details (At the time of Construction)", "title_hi": "मूल्य का ब्योरा", "page": 4, "fields": [{"label": "Cost details", "value": "N/A"}], "tables": [], "text": null},
+    {"no": "30", "title": "Date of commissioning", "title_hi": "प्रवर्तनमे लाने का देनांक", "page": 4, "fields": [{"label": "Date of commissioning", "value": "23.06.1979"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

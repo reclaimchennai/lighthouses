@@ -1,0 +1,44 @@
+{
+  "nid": 1788,
+  "title": "Construction of Gabion wall for protection of LH tower and premises at Kovilthottam Lighthouse.",
+  "summary": "Two-cover e-tender for construction of a gabion wall to protect the lighthouse tower and premises at Kovilthottam Lighthouse, Kollam District, Kerala.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-07002(01)/1/2019-MS; I/67611/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kovilthottam Lighthouse, Kovilthottam, District: Kollam, Kerala - 691583", "station_id": "kovilthottam-lighthouse", "kind": "lighthouse", "work": "Construction of gabion wall for protection of LH tower and premises"}
+  ],
+  "scope": [
+    {"item": "Construction of Gabion wall for protection of LH tower and premises", "qty": null, "unit": null, "site": "Kovilthottam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 14768650.0,
+    "emd_inr": 296000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals (or MSME/UDYAM/NSIC certificate) with technical documents by 18.12.2024 15:00."
+  },
+  "period": {"completion": "180 Days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-11-27", "pre_bid": "2024-12-04", "bid_submission_end": "2024-12-19", "bid_opening": "2024-12-20"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Government/PSU/autonomous bodies",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two works each >= 50%, or one work >= 80% (only fully completed works with completion certificate)",
+    "Similar work: construction of sea protection work by groins/gabion wall/tetrapod etc.",
+    "Permanent Account Number",
+    "GST registration",
+    "Annual turnover of last three years certified by Chartered Accountant",
+    "Bidders whose near relatives are accountants or officers of Junior Engineer grade or higher in DGLL not permitted"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (1).pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (NIT) only; no BOQ. NIT dated 25.11.2024; bid download/submission 27.11.2024 10:00 to 19.12.2024 15:00; bid query last date 03.12.2024 15:00; technical bid opening 20.12.2024 15:00."
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "bhatkal-lighthouse",
+  "page_count": 4,
+  "title_as_printed": "मास्टर लेजर/MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1, "fields": [{"label": "A.L.O.L.", "value": "F 0648"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1, "fields": [{"label": "Position", "value": "Lat. 13° 57.9’N , Long. 74° 32.0’E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1, "fields": [{"label": "Elevation", "value": "56 m"}], "tables": [], "text": null},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1, "fields": [{"label": "Characteristic", "value": "fl (2) W 20 Sec. (fl 0.23, Oc 4.77, fl 0.23, ec. 14.77) absurd by Hog Island 1298 to 132° x 3’"}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in miles", "title_hi": "नॉटिकलमाइलमेदूरी", "page": 1, "fields": [
+      {"label": "i) Luminous", "value": "20 NM"},
+      {"label": "ii) Geographical", "value": "19 NM"}
+    ], "tables": [], "text": null},
+    {"no": "6", "title": "L.H.Tower", "title_hi": "दीपस्तंभटावर", "page": 1, "fields": [
+      {"label": "Type", "value": "Square Masonry Tower"},
+      {"label": "Height", "value": "14m"},
+      {"label": "Colour Scheme", "value": "White"}
+    ], "tables": [], "text": null},
+    {"no": "7", "title": "Optical equipment", "title_hi": "ऑप्टिकलउपकरण", "page": 1, "fields": [
+      {"label": "Optic", "value": "Fresnel Lens"},
+      {"label": "Make", "value": "B.B.T."},
+      {"label": "Type", "value": "Revolving"},
+      {"label": "Size", "value": "250 mm (4th order)"},
+      {"label": "No. of lens", "value": "2 (each 135°)"},
+      {"label": "Area of dioptric portion", "value": "755 sq. cm.(corrected area 536 sq.cm)"},
+      {"label": "Area of catadioptric portion", "value": "3222 sq. cm. (corrected area 1772sq.cm)"},
+      {"label": "Divergence Main/Emergency", "value": "Horizontal – 12.54°, Vertical – 9.12°"},
+      {"label": "Duration of Flash Main /Standby/Emergency", "value": "0.70 Sec."},
+      {"label": "Pedestal", "value": "Mercury Float (21.75 Kg in use)"},
+      {"label": "Rotation Device", "value": "Dual Stepper Motor 40 Kgcm with auto change over"},
+      {"label": "R.P.M.", "value": "3"},
+      {"label": "illumining", "value": ""},
+      {"label": "Main", "value": "3 x 150W Metal Halide Lamp cluster"},
+      {"label": "Standby", "value": ""},
+      {"label": "Emergency:", "value": "220V, 1000 W electric lamp"},
+      {"label": "Date of Installation", "value": "18.03.1954"}
+    ], "tables": [], "text": "Continues on top of page 2 (Standby, Emergency, Date of Installation)."},
+    {"no": "8", "title": "Effective beam intensity", "title_hi": "प्रभावीबीमतीव्रता", "page": 2, "fields": [
+      {"label": "Main & Standby", "value": "123505 cd"},
+      {"label": "Emergency", "value": "26000 cd"}
+    ], "tables": [], "text": null},
+    {"no": "9", "title": "Lantern", "title_hi": "लेंटर्न", "page": 2, "fields": [
+      {"label": "Diameter", "value": "1.80 m"},
+      {"label": "Height of glazing", "value": "1.05 m"},
+      {"label": "No. of panels", "value": "6"},
+      {"label": "Ventilators", "value": "7"}
+    ], "tables": [], "text": null},
+    {"no": "10", "title": "RACON", "title_hi": null, "page": 2, "fields": [
+      {"label": "RACON", "value": "n/a"},
+      {"label": "Sr. No", "value": "6295"}
+    ], "tables": [
+      {"caption": null, "columns": ["Make", "Model", "Code", "Band", "Date of Installation"], "rows": [["--", "--", "--", "--", "--"]]}
+    ], "text": null},
+    {"no": "11", "title": "NAIS", "title_hi": null, "page": 2, "fields": [{"label": "DGPS", "value": "N/A"}], "tables": [
+      {"caption": "Base Station", "columns": ["Model", "Type", "Power", "MMSI", ""], "rows": [["R40", "SAAB", "230V", "4192237", ""]]},
+      {"caption": "Communication Equipment", "columns": ["VSAT Antenna", "Band", "Modem", "", ""], "rows": [["2.4m dia Parabolic Reflector", "EX-C", "Datum system M7LT Satellite Terminal", "-", "-"]]},
+      {"caption": "DGPS", "columns": ["Transmitter Make", "Frequency", "Power Output", "RS 1 ID", "RS -II ID", "Beacon ID", "Date of commissioning", "Date of Recapitalization"], "rows": [
+        ["-", "-", "-", "-", "-", "-", "-", "-"],
+        ["-", "-", "-", "", "-", "", "-", ""]
+      ]}
+    ], "text": null},
+    {"no": "12", "title": "Source of energy", "title_hi": "ऊर्जाकेसाधन", "page": 2, "fields": [
+      {"label": "Mains", "value": "-"},
+      {"label": "Standby", "value": "-"}
+    ], "tables": [
+      {"caption": "Engine 1", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"], "rows": [["KIRLOSKAR/ EA-16", "01", "11.8kw 16bhp", "2", "1500", "AIR"]]},
+      {"caption": "Engine 1 - Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"], "rows": [["KIRLOSKAR", "01", "7.5KVa", "240V/ 31.2A", "50HZ", "1"]]},
+      {"caption": "Engine 2", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"], "rows": [["", "", "", "", "", ""]]},
+      {"caption": "Engine 2 - Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"], "rows": [["", "", "", "", "", ""]]},
+      {"caption": "Solar Plant", "columns": ["Capacity PV", "Numbers", "Type", "Battery", "Bank"], "rows": [["Power max 200Wp Voltage at pmpp 17.5V, Current at pmpp 11.42A", "3", "Monocrystalline", "Exide 150 AH/12V", "1"]]},
+      {"caption": "Solar Plant for Main RACON", "columns": ["Capacity PV", "Numbers", "Type", "Battery", "Bank"], "rows": [["---", "---", "---", "---", "---"]]}
+    ], "text": "Engine 2 / Alternator header on page 2; empty row and Solar Plant tables on page 3."},
+    {"no": "13", "title": "Automatic Voltage Stabilizers", "title_hi": "स्वचालितवोल्टेजस्टेबलाइजर", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Make", "Model", "Capacity", "Input", "Output", "Phase", "Qty"], "rows": [["V S POWER SYSTEMS", "VSP/SERVO/AIR - INDIA 22001069", "5kva", "160-260", "240", "1", "01"]]}
+    ], "text": null},
+    {"no": "14", "title": "Batteries", "title_hi": "बैटरि", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Type", "Make", "Volt", "Amp/Hr", "Qty"], "rows": [
+        ["PSS NAIS", "MF", "HBL", "12V", "150ah", "02"],
+        ["Genset", "MF", "LUMINOUS", "12V", "150AH", "01"],
+        ["Automation", "", "", "", "", ""],
+        ["DGPS", "", "", "", "", ""]
+      ]}
+    ], "text": null},
+    {"no": "15", "title": "Battery charger", "title_hi": "बैटरिचार्जर", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Make", "Model", "Type", "Rating", "Qty"], "rows": [
+        ["General Purpose", "KDB", "", "EXTERNAL", "12V/7A", "01"],
+        ["Automation", "", "", "", "", ""]
+      ]}
+    ], "text": null},
+    {"no": "16", "title": "Inverter /UPS", "title_hi": "इंवर्टर", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Nos", "Make", "Model", "Type", "Rating", "Qty", "input", "output"], "rows": [
+        ["Main Light", "03", "EXIDE", "EXIDEP850", "12V", "850VA/680W", "3", "220VAC 5A", "220V"],
+        ["NAIS PSS", "01", "EXIDE", "EXIDE 1450 DSP PST UPS", "24V", "", "1", "", ""],
+        ["DGPS", "", "", "", "", "", "", "", ""]
+      ]}
+    ], "text": null},
+    {"no": "17", "title": "Automation Equipment", "title_hi": "स्वचलनउपकरण", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["MAKE", "PLC", "HMI", "Power Supply", "VSAT", "Modem", "Band"], "rows": [["NELCO", "Telemecanique 4 PORT SWITCH", "SCHNEIDER ELECTRIC", "24V DC", "--", "SKY EDGE", ""]]}
+    ], "text": null},
+    {"no": "18", "title": "Fire Fighting Equipment", "title_hi": "आग्निशमनउपकरण", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Type of Extinguisher", "Capacity", "Nos", "Make"], "rows": [
+        ["DCP Type(u/s)", "-NA-", "-", "-"],
+        ["DCP Type(u/s)", "-NA-", "-", "-"],
+        ["Foam Type(u/s)", "-NA-", "-", "-"],
+        ["Water Type(u/s)", "-NA-", "-", "-"],
+        ["DCP Type", "-NA-", "-", "-"],
+        ["", "", "", ""],
+        ["", "", "", ""]
+      ]}
+    ], "text": "Header on page 3, rows on page 4."},
+    {"no": "19", "title": "Communication", "title_hi": "संचार", "page": 4, "fields": [
+      {"label": "BSNL Tel. No", "value": "08385- 295007"},
+      {"label": "", "value": "-"}
+    ], "tables": [], "text": null},
+    {"no": "20", "title": "Water Supply", "title_hi": "जलपूर्ति", "page": 4, "fields": [], "tables": [], "text": "Natural Spring Source pumped by Centrifugal Pump coupled to 1 HP Single Stage Electric Motor."},
+    {"no": "21", "title": "Land", "title_hi": "भूमि", "page": 4, "fields": [
+      {"label": "Area", "value": "0.678 Hectare"},
+      {"label": "Demarcation", "value": "Boundary wall"}
+    ], "tables": [], "text": null},
+    {"no": "22", "title": "Buildings", "title_hi": "इमारतें", "page": 4, "fields": [], "tables": [], "text": "One unit of power house, pump house, one unit of Insp. Qtrs 3 rooms attached to Tower, one Unit of HLK quarters, Twin unit of ALK quarters, one unit of ALK Qr., one twin unit of LHA &Safaiwala quarters."},
+    {"no": "23", "title": "Compound Lights", "title_hi": "कंपाउंडलाइट", "page": 4, "fields": [{"label": "Compound Lights", "value": "11 nos."}], "tables": [], "text": null},
+    {"no": "24", "title": "CCTV CAMERA", "title_hi": "सीसीटीवीकमेरा", "page": 4, "fields": [
+      {"label": "Camera", "value": "-"},
+      {"label": "DVR", "value": "-"}
+    ], "tables": [], "text": null},
+    {"no": "25", "title": "Staff", "title_hi": "स्टाफ", "page": 4, "fields": [], "tables": [
+      {"caption": null, "columns": ["Sl. No", "Designations"], "rows": [["1", "NAVIGATIONAL ASSISTANT GRADE II"], ["2", "NAVIGATIONAL ASSISTANT GRADE III"]]}
+    ], "text": null},
+    {"no": "26", "title": "Mode of approach", "title_hi": "पहुँचनेकामाध्यम", "page": 4, "fields": [{"label": "Mode of approach", "value": "By rail upto Bhatkal and 10 Km by road uptoMavinKurve village and by road on hill upto lighthouse."}], "tables": [], "text": null},
+    {"no": "27", "title": "Facilities available", "title_hi": "उपलब्धसुविधाए", "page": 4, "fields": [
+      {"label": "Marine Police Station", "value": "Coastal Police 42km, Town Police 6 km"},
+      {"label": "Dispensary", "value": "7 km"},
+      {"label": "High School", "value": "6 km"},
+      {"label": "Post office", "value": "6 km"}
+    ], "tables": [], "text": null},
+    {"no": "28", "title": "Postal address", "title_hi": "डाकपता", "page": 4, "fields": [{"label": "Postal address", "value": "STATION IN CHARGE Bhatkal Lighthouse, P.O. Marvinkurve Via Bhatkal Dist. Uttara Kannada PIN – 581320"}], "tables": [], "text": null},
+    {"no": "29", "title": "Cost details (At the time of Construction)", "title_hi": "मूल्यकाब्योरा", "page": 4, "fields": [{"label": "Cost details", "value": "--"}], "tables": [], "text": null},
+    {"no": "30", "title": "Date of commissioning", "title_hi": "प्रवर्तनमेलानेकादेनांक", "page": 4, "fields": [{"label": "Date of commissioning", "value": "15.04.1959"}], "tables": [], "text": null}
+  ],
+  "unreadable": [
+    {"page": 2, "where": "Section 12, Engine 1, Rating cell", "note": "Cell text is clipped in the rendered page (shows \"11.8k\" / \"16\"); full value \"11.8kw 16bhp\" taken from the PDF text layer."}
+  ]
+}

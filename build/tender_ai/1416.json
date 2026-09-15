@@ -1,0 +1,38 @@
+{
+  "nid": 1416,
+  "title": "Provision of heritage Streetlights and Landscaping Lights for Tourism at Anjengo Lighthouse",
+  "summary": "Provision of heritage-style streetlights and landscaping lights as part of tourism development at Anjengo Lighthouse, Kochi Directorate.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-05001/1/2019-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Anjengo Lighthouse", "station_id": "anjengo-lighthouse", "kind": "lighthouse", "work": "Provision of heritage streetlights and landscaping lights for tourism"}
+  ],
+  "scope": [
+    {"item": "Provision of heritage Streetlights and Landscaping Lights for Tourism", "qty": null, "unit": null, "site": "Anjengo Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 836235.0,
+    "emd_inr": 16725.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of any nationalised/RBI approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam; to reach tender inviting authority one day before last day of bid submission. Small scale industries with valid NSIC/MSME certificate exempted from EMD. Tender fee mentioned in table heading but no amount printed."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2023-11-30", "pre_bid": "2023-12-05", "bid_submission_end": "2023-12-14", "bid_opening": "2023-12-15"},
+  "eligibility": [
+    "Reputed OEMs or their authorised suppliers, licensed electrical contractors, parties or Government undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (10) (1) (1).pdf", "pages": 2, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned NIT (NIT dated 28.11.2023) with OCR text layer; page 1 rendered and read visually to confirm amounts. Download/submission 30.11.2023 09:00 to 14.12.2023 15:00; EMD in original by 13.12.2023 15:00; technical bid opening 15.12.2023 16:00. Listing end date 2023-12-13 is the EMD deadline. Section I short notice only; no BOQ or completion period."
+}

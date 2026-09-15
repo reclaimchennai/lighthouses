@@ -1,0 +1,45 @@
+{
+  "slug": "kundapur-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Kundapur Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2007,
+  "alol": "F 0651",
+  "position": {"lat_text": "13° 39.6'N", "lon_text": "74° 39.5'E", "lat": 13.66, "lon": 74.658333},
+  "elevation_m": 34.5,
+  "characteristic_text": "fl (2)W 10 Sec.",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": 19, "text": "Luminous :18 NM, Geographical :19 NM"},
+  "tower": {"type": "Round R.C.C. Tower", "height_m": 31.5, "colour_scheme": "Red & White bands (3 Red & 2 White bands)"},
+  "optic": {
+    "make": "Wealth Marine Pvt. Ltd., Singapore", "model": "WM – RB 500 Marine Rotating Beacon", "type": null, "size": "200mm", "order": null,
+    "panels": 6,
+    "rotation_device": "Dual Stepper Motor 40 Kg/cm with auto change over",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "WM – RB 500 Marine Rotating Beacon; Rotation Device: Dual Stepper Motor 40 Kg/cm; R.P.M. 3",
+    "divergence_horizontal_deg": 1.65,
+    "divergence_vertical_deg": 2.42,
+    "divergence_text": "Horizontal - 1.65°, Vertical 2.42°",
+    "illuminant": "MH 70W"
+  },
+  "intensity_cd": 70408,
+  "racon": {"present": false, "code": null, "text": "RACON n/a (Sr. No 6295 listed; make/model/code/band --)"},
+  "ais": {"present": false, "text": "Base Station -NA-"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": true, "text": "Mains/Standby blank; Kirloskar EA-16 16bhp engine with 7.5KVA alternator; solar plant 12V/70W x5 and 12V/80W x16, Exide 600AH VRLA"},
+  "issues": [
+    "Optic Make and Type values appear swapped (Make: 'WM – RB 500 Marine Rotating Beacon', Type: 'Wealth Marine Pvt. Ltd., Singapore')",
+    "No. of lens '6 (4 Fresnellens + 2 blanks)': 6 panel positions, only 4 lenses",
+    "RACON marked n/a but Sr. No 6295 listed"
+  ]
+}

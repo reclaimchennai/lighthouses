@@ -1,0 +1,45 @@
+{
+  "nid": 2571,
+  "title": "Civil repairs and maintenance of Kadalur point Lighthouse Tower",
+  "summary": "Civil repairs and maintenance of the lighthouse tower at Kadalur Point Lighthouse, Koyilandy, Kerala, under the Kochi Directorate.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-15002/1/2020-MS; I/106098/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kadalur point Lighthouse, Koyilandy, Kerala 673529", "station_id": "kadalur-point-lighthouse", "kind": "lighthouse", "work": "Civil repairs and maintenance of lighthouse tower"}
+  ],
+  "scope": [
+    {"item": "Civil repairs and maintenance of Kadalur point Lighthouse Tower", "qty": null, "unit": null, "site": "Kadalur point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 494521.0,
+    "emd_inr": 9890.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin payable at Ernakulam; originals of EMD or MSME/UDYAM/NSIC certificate and technical documents to be submitted physically before deadline. Bid Securing Declaration also listed among required documents."
+  },
+  "period": {"completion": "120 days", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2026-08-31", "pre_bid": "2026-09-09", "bid_submission_end": "2026-09-22", "bid_opening": "2026-09-23"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous body",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two >= 50%, or one >= 80%",
+    "Similar works: erection of trestle/lighthouse/communication tower or construction/maintenance of residential/institutional/office buildings, roads or related civil works",
+    "PAN and GST registration",
+    "CA-certified annual turnover for last three years",
+    "Declaration that bid is unconditional; affidavit on Rs 100 stamp paper of not being blacklisted",
+    "Undertaking listing relatives serving as Gazetted/Account officers in MoPSW or DGLL",
+    "EPF / labour registration certificate; tender acceptance letter; bid securing declaration"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Kadalu.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only Section-I NIT published; BOQ is in CPPP tender document. Bid query last date 07.09.2026 15:00; last date of EMD 21.09.2026 15:00. Hindi text layer is partly garbled but English values are clear."
+}

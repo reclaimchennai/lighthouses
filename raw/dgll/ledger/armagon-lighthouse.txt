@@ -1,0 +1,229 @@
+                        Armagon Lighthouse
+                            Estd.1853
+                              MASTER LEDGER
+
+1. Name                     : ARMAGON LIGHTHOUSE
+     Sr.No.
+2.                          : F 0951
+     (as per A.L.O.L)
+                              Lat: 13o 53.30’ N
+3. Position                 :
+                              Long: 80o 12.18’ E
+4. Elevation                : 34.64 Mtr above MSL
+
+5. Characteristic           : FL W 15Seconds (Fl 0.38. EC 14.62)
+
+
+6. Range in nautical miles
+        i)     Luminous        : 26 NM
+      ii)   Geographical : 16.4 NM
+7. Lighthouse Tower
+      i)    Type         : Circular RCC Tower
+        ii)    Height          : 30 Mtr
+        iii)   Colour
+                               : Red and White bands
+               Scheme
+
+8. Optical Equipment
+a)   i)     Make              : MBR-300
+        ii)   Size            : 105mm Focal Distance
+        iii)  No. of
+                              : 6 Panels
+              Panels
+        iv)   Divergence
+           Main               : Horizontal 30, Vertical 30
+        v)    Duration of
+                              : 0.38 Second
+              Main flash
+
+b) Pedestal                    : GI Pedestal
+c) Rotation Device             : Brushless DC direct –drive motor (step by step)
+
+
+                                                                       Page 1 of 6
+d) Rotation Speed                  : 0.667 RPM
+
+      Illuminant
+e)
+                                       150W/230V Metal halide lamp
+         i)        Main/Service :
+                                       (Conversion on 22-06-2015)
+
+f)    Effective Beam Intensity
+        i)    Main/Service                : 1, 66,000 cds.
+9.    Lantern
+         i)        Diameter                 : 3.5 Mtr
+         ii)       Height of glazing        : 2.9 Mtr
+         iii)      No. of panes             : 36 Nos.
+         iv)       Ventilators              : 11 Nos.
+
+
+10. Energy Source
+        A) APSPDCL Mains                        : 3 Phase 440V, 50Hz
+        B) Green Energy                      : 0.48KW off grid for main light
+                                               6 Nos. 12V/80W( TATA B.P make)
+          i) Solar panels                    :
+                                               05-02-11
+                                               6 Nos. 2V /900Ah (TATA B.P Tubular)
+          ii)       Battery Bank             :
+                                               29-09-2019
+                                               800VA /12V UPS ( UTL make)
+          iii)      PCU                      :
+                                               24-12-2021
+         C) Green Energy                     : 0.48KW off grid for NAIS
+                                               2 Nos. 24V/250W( CASA make)
+                 i) Solar panels             :
+                                               24-02-2018
+                                               4 Nos. 12V /150Ah (Exide SMF)
+                ii) Battery Bank             :
+                                               18-07-2022
+                iii) PCU                     : 01 No., 2KVA /24V UPS (hykon make)
+                                            23-01-2018
+
+       No. of Standby Diesel
+11.                                         :       1 No.
+       Generators
+       Details of Diesel Engine
+
+
+                                                                         Page 2 of 6
+        Make                             :    Kirloskar Oil Engines ltd
+
+        Frame                            :    HA2945RIII
+
+        Engine No.                       :    02.2145/1422480
+
+        Model No.                        : KG15AS4 (Canopy)
+        H.P.                             : 20.5
+        No. of Cylinder                  : 2 Nos.
+        RPM                              : 1500
+        Cooling                          : Air Cooling
+       Date of installation      : 25-06-2015
+
+
+12.   Diesel Engine Alternator
+        Make                             :    Kirloskar Oil Engines ltd
+
+        Frame                            : 184B, CSIB014F6510-H
+        KVA                              : 15
+        Voltage                          : 230 V
+        Frequency                    : 50 Hz
+        Phase                        : Single
+        RPM                          : 1500
+       Date of installation      :           25-06-2015
+
+
+      Automatic Voltage
+13.                                  : 1 No.
+      Stabilizer
+        Make                         : Supra-hi-tech
+        Model                        :       SH-3120
+
+        Capacity                     : 12 KVA
+        Input                        : 330 - 470 V
+        Output                       : 400 ± 1% V
+        Date of Installation         : 29/05/2018
+14.   AMF Panel
+        Make                         : Elect India
+        Model                        : EMF15KM3G1-ICFTDM02
+
+
+
+                                                                          Page 3 of 6
+           Capacity                             : 15 KVA, 3 phase 25A
+      Date of installation                     : 25-06-2015
+
+
+15.   NAIS Equipment
+           Make                                : M/s SAAB
+           AIS R40 Base Station                : Sl.No.5338
+           AIS R40 Base Station                : Sl.No 5305
+                 (Connected with Cisco switch and PSM-500LSatilite modem.)
+           V- SAT Dish Size                    : 2.4 Mtr. Dia
+           VHF Antenna                         : 2 Nos.
+           GPS Antenna                         : 2 Nos.
+           Date of Commissioning               : 10/02/2012
+
+
+16.   Automation of Lighthouse.
+       Make                                :     M/s Recktronic Devices & Systems, Pune.
+       RDS Panel                           :     1No. in power house.
+       RDS Panel                           :     1No. Service room.
+       VSAT Antenna                        :     1.2 Mtr. Dia
+       Date of commissioning               :  28-10-2013
+                                             6 Nos. G.I. poles with 25W LED fittings,
+17.   Street Lights                        :
+                                             2 Nos. CFL 18W Gate Lights
+18.   Firefighting equipment
+           i)        D.C.P. type      :         9 kg – 1 no., 6 kg – 1 no. & 4 kg -1no.
+           ii)       Foam type        :         1 Nos.
+                (9 litres Capacity)
+           iii)      CO2 ( 3 KG )      :        1 Nos.
+       8         Fire Buckets         :         4 Nos.
+                                                Open well provided with electric pump of 1HP with
+19.   Water Supply                    :         Over Head Tank on old LH and Water supply to
+                                                buildings through pipe line.
+20.   Land
+           i)       Area              :         2.084 Hectares
+           ii)      Demarcation       :         Masonry Compound wall
+
+                                                                                         Page 4 of 6
+          iii)       No. of fruit
+                                         :    9 Nos.
+                     trees
+          iv)        No.of non
+                     fruit bearing       :    144 Nos.
+                     Trees
+                                             Lighthouse Tower, Powerhouse, Store
+                                             room, Recreation room, Office room –
+21.   Buildings                          : 1 unit, Inspection quarter, NA-I quarter
+                                             - 1unit, NA-II quarter – twin unit and
+                                             LHA & LHS quarter - twin unit.
+                                             i)NA-I - 1 No.
+22.   Staff                              : ii) NA-II - 1 No.
+                                              iii) LHA - 1 No. (Vacant)
+                                           By Rail up to Naidupeta and then by road
+23.   Mode of approach                   :
+                                           to Lighthouse about 50 km.
+24.   Facilities available               :     a) Post Office within 8 km (Nedigurthi)
+                                               b) Govt. Hospital within 50 km
+                                                  (Naidupeta)
+                                               c) Govt. School within 22 km (Mallam)
+                                               d) Nationalized Bank within 50 km
+                                                  (Kotta)
+                                               e) Police Station – 45 Kms. (Vaakkadu)
+25.   Postal Address                     : The Navigational Assistant Gr-I,
+                                             Armagon Lighthouse, Nidugurthy Post,
+                                             Via Mallam, Nellore District.
+                                             Andhra Pradesh, Pin: 524 403.
+
+                                           Office small Jio phone - 9025340565
+                                           NA-I mobile No: 9894821298
+26.   Communication Facility             :
+                                           e-mail : armlighthouse@gmail.com
+                                                   Armagoan-vizag@dgll.nic.in
+27.   Cost Details
+
+      i) Construction                :   Rs. 24,92,293/-
+      ii)Cost of equipment           :   Rs. 6,14,826/-
+
+
+
+
+                                                                               Page 5 of 6
+      Year of first Light
+28.                         :   1853
+      Commissioned
+
+
+29.   Date of Commissioning :   20-03-1983
+
+
+30.   Subsequent Innovation :   1902, 1928, 1983, 1999, 2015
+      (1st)
+
+
+
+
+                                                               Page 6 of 6
+

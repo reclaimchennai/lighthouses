@@ -1,0 +1,43 @@
+{
+  "slug": "pamban-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Pamban Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1846,
+  "alol": "F 0900",
+  "position": {"lat_text": "09° 17.2' N", "lon_text": "79° 13.3' E", "lat": 9.286667, "lon": 79.221667},
+  "elevation_m": 29,
+  "characteristic_text": "Single White Flash in every 5 Seconds (0.9+4.1)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": "0.9+4.1",
+    "sequence_s": [0.9, 4.1],
+    "flash_duration_s": 0.9
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 15, "geographical_nm": null, "text": "15 NM (unlabelled range)"},
+  "tower": {"type": "Circular Masonry tower", "height_m": 15, "colour_scheme": "Black and White Bands"},
+  "optic": {
+    "make": "SABIK", "model": null, "type": "LED FLASHER", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED FLASHER; Rotation Device N/A; R.P.M. N/A",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 2.5,
+    "divergence_text": "N/A (Horizontal), 2.5° (Vertical)",
+    "illuminant": "LED FLASHER"
+  },
+  "intensity_cd": 4300,
+  "racon": {"present": false, "code": null, "text": "Sr. No N/A; details blank"},
+  "ais": {"present": true, "text": "Base Station 2 Nos-AIS1 & AIS2; R40, Class A, AC-230V; MMSI ----; BSNL Lease Line modem"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "TNEB mains 3 Ø 440 v 50Hz; standby solar 170 W/24 V x 3 panels; single phase 15 KVA Kirloskar DG set; off-grid solar plant 500 Wp x 3"},
+  "issues": [
+    "First commissioned 21.04.1846; renovated 1901, 1923, 1987 & 2004"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "bural-reef-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Bural Reef Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1978,
+  "alol": "0386.5",
+  "position": {"lat_text": "22º 32.7' N", "lon_text": "69º 16.2' E", "lat": 22.545, "lon": 69.27},
+  "elevation_m": 15,
+  "characteristic_text": "Fl (W) 1.1Sec. (0.5 + 0.6 = 1.1Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 1.1,
+    "sequence_text": "0.5 + 0.6 = 1.1Sec",
+    "sequence_s": [0.5, 0.6],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 9, "geographical_nm": 10, "text": "Luminous 9NM at T=0.74, Geographical 10NM; lantern electrical parameter range 11-14NM @ AT 0.74"},
+  "tower": {"type": "White round tower", "height_m": 12, "colour_scheme": "White"},
+  "optic": {
+    "make": "NavAids Pvt Ltd, Delhi", "model": "NE-9A (Three-Tier Lantern)", "type": "Marine LED Lantern (LED Flasher)", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type of Light (LED Flasher): Marine LED Lantern; Operation: Flashing",
+    "divergence_horizontal_deg": 360,
+    "divergence_vertical_deg": 8,
+    "divergence_text": "Horizontal Divergence 360°, Vertical Divergence 8°",
+    "illuminant": "High Intensity LEDs"
+  },
+  "intensity_cd": 10000,
+  "racon": {"present": true, "code": "D", "text": "X Band Racon installed 25.04.2017; Pharos Marine Automatic Power, Singapore; PMAPI Racon-2, X-band; 9.3 to 9.5GHZ; Code 'D'"},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": false, "solar": true, "generator": false, "text": "Solar power light: 125W LOOM and 35W BHEL panels, SMF 12V/100AH x2 Exide batteries; separate 12V/125W solar panel for RACON"},
+  "issues": [
+    "Station name not printed in ledger; taken from file slug",
+    "Luminous range 9NM conflicts with lantern electrical parameter range 11-14NM",
+    "Year of commissioning 1978, with new light & trestle 05.02.2022"
+  ]
+}

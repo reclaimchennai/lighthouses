@@ -1,0 +1,39 @@
+{
+  "nid": 1469,
+  "title": "Hiring of 02 No LFD panels size 7' x 4' wall in the NDC and Automation Room including installation, transportation, and other fixtures as required during the IMO Audit scheduled on 28.02.2024",
+  "summary": "Notice inviting sealed quotations for hiring two 7' x 4' LFD display wall panels, with installation and a service engineer, for the National Data Centre and Automation Room at Deep Bhavan, Mumbai during the IMO audit of 28.02.2024.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "EM-Mum-01001/2/2020-Electrical",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, M.G. Road, Ghatkopar (East), Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Directorate of Lighthouses and Lightships, Mumbai (NDC and Automation Room)", "station_id": null, "kind": "office", "work": "Hiring and installation of 2 LFD wall panels for IMO audit"}
+  ],
+  "scope": [
+    {"item": "Hiring of LFD panels size 7' x 4' wall in the NDC and Automation Room including installation, transportation, and other fixtures as required during the IMO Audit scheduled on 28.02.2024", "qty": "02", "unit": "No", "site": "Directorate of Lighthouses and Lightships, Mumbai"},
+    {"item": "Positioning of a service engineer during the days of trials and scheduled audit", "qty": null, "unit": null, "site": "Directorate of Lighthouses and Lightships, Mumbai"}
+  ],
+  "money": {
+    "estimated_cost_inr": 193250.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No EMD or tender fee printed. Rates to include installation, wiring from nearest point, installation materials and to-and-fro transport; no payment beyond quoted amount. GST to be shown; no advance payment; TDS on GST and IT deducted."
+  },
+  "period": {"completion": "28.02.2024; system ready at least 02 days before for trial run (T&C also says within 05 days from work order)", "bid_validity": "Not less than 30 days", "warranty": null},
+  "dates": {"published": "2024-02-16", "pre_bid": null, "bid_submission_end": "2024-02-21", "bid_opening": "2024-02-21"},
+  "eligibility": [
+    "Agency must have valid registration"
+  ],
+  "specs": ["LFD (large format display) wall panels, 7' x 4', 2 Nos"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Hiring of LFD Panel.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned 3-page NIQ: notice, Annexure-I terms and conditions, Annexure-II commercial bid form (rates blank). Sealed quotations by post/courier/hand, due 21.02.2024 15:00, opened 16:00. Notice table numbering jumps from 3 to 6. Signed by Director (I/C). Legal jurisdiction Mumbai."
+}

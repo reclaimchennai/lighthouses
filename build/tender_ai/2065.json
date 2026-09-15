@@ -1,0 +1,51 @@
+{
+  "nid": 2065,
+  "title": "Supply Installation Testing and Commissioning of Solar Street Lights at Kanhoji Angre Lighthouse under Mumbai Directorate.",
+  "summary": "E-tender for supply, installation, testing and commissioning of 20 all-in-one integrated solar street lights on GI poles with foundations, and removal of old street lights, at Kanhoji Angre Lighthouse on Khanderi Island, Raigad, Maharashtra, issued by the Directorate of Lighthouses and Lightships, Mumbai.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-Mum-10016/1/2020-Electrical",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kanhoji Angre Island Lighthouse Station, Khanderi Island, Raigad, Maharashtra", "station_id": "kanhoji-angre-lighthouse", "kind": "lighthouse", "work": "SITC of 20 all-in-one solar street lights with GI poles and foundations; removal of old street lights"}
+  ],
+  "scope": [
+    {"item": "Supply, installation, testing and commissioning of 20W all-in-one integrated solar street light with 20W mono PERC panel, PWM/MPPT controller, LiFePO4 3.2V 24AH battery, on 80mm dia Class C GI pole (3 m) with 32mm GI single arm (1 m), CC 1:3:6 foundation with 4 J-type SS studs", "qty": "20", "unit": "Nos", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Removal of old street lights with pole and foundation and handover to station in-charge", "qty": null, "unit": null, "site": "Kanhoji Angre Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 764300.0,
+    "emd_inr": 15286.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "5% of contract value (FDR from nationalized bank or BG), valid 3 months beyond warranty period",
+    "notes": "Estimated cost inclusive of GST. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid three months from technical bid opening; EMD mandatory for all bidders including MSME/NSIC registered firms. Percentage rate tender. Quantities may vary +/-25%. LD 1.5% per month of contract value, max 10%. Labour cess 1% deducted from RA bills. Water and electricity if provided by owner recovered at 1% each. Bank solvency certificate of Rs 3,05,720 scored in technical evaluation."
+  },
+  "period": {"completion": "01 month from date of issue of work order", "bid_validity": "90 days from date of opening of technical bid", "warranty": "02 years or OEM standard warranty whichever is higher, after completion of work"},
+  "dates": {"published": "2025-10-10", "pre_bid": "2025-10-13", "bid_submission_end": "2025-10-15", "bid_opening": "2025-10-16"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with Central/State Govt/Municipal Corporation etc. having tender limits equal to or more than estimated cost",
+    "Similar works (supply, installation of electrical works/solar street lights) in last 7 years: three works each >= Rs 2.30 lakh (40%), or two each >= Rs 3.82 lakh (50%), or one >= Rs 6.11 lakh (80%); completion certificates from Executive Engineer rank or above; sub-contractor experience not considered",
+    "Average annual turnover at least 30% of estimated cost (Rs 2,29,290) in last 3 financial years ending 31.03.2025, CA certified",
+    "PAN, GST registration, income tax returns for FY 2022-23 to 2024-25",
+    "Datasheet for offered product; tender acceptance letter; unconditional bid undertaking; bid securing declaration; notarised non-blacklisting affidavit; no-relatives declaration; Make in India self-certification",
+    "Technical evaluation: minimum 70% aggregate score (financial standing 40, experience 40, performance 20)"
+  ],
+  "specs": [
+    "20W all-in-one integrated solar street light, 20W 6V mono PERC panel with minimum 21% efficiency, PWM/MPPT charge controller, LiFePO4 3.2V 24AH battery, 6-8 h charging, minimum 12 h backup",
+    "Wiring with 1.5 sq mm FRLS PVC insulated copper single core cable and earthing",
+    "GI pole 80mm dia heavy duty Class C, 3 m; GI single arm 32mm dia Class C, 1 m; wind storm withstand capacity as per zone",
+    "Foundation CC 1:3:6, 350x350x450mm above ground and 450x450x600mm below ground, 4 Nos 14mm x 30 in J-type SS studs with washers",
+    "Approved makes: Havells/Crompton/Orient/Bajaj/Tata/Adani/Wipro; materials to BIS; make and model to be approved by Director",
+    "Layout plan drawing MUM/KANHOJI/552/2025 dated 20.08.2025 shows 20 street light positions"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Tender for street light.pdf", "pages": 57, "read": "mixed", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled; English portions read", "Page 57 (layout plan drawing) read visually"]}
+  ],
+  "confidence": "high",
+  "notes": "Full tender document: NIT, instructions, detailed tender notice, GCC (boilerplate, including labour regulations), SCC, scope and specs, approved makes, technical evaluation criteria, annexures and layout drawing. BOQ (Section VIII) was uploaded separately and is not in this PDF. Site is on an island reachable only by boat from Thal (Alibag) or Gateway of India jetty. Listing title says 'Kanhoji Angre Island Lighthouse'. Performance guarantee validity inconsistent: 3 months beyond warranty (Section III) vs 1 month after satisfactory completion (Annexure II). Turnover period stated as ending 31.03.2024 in one place and 31.03.2025 in another."
+}

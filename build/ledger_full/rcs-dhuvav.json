@@ -1,0 +1,103 @@
+{
+  "slug": "rcs-dhuvav",
+  "page_count": 3,
+  "title_as_printed": "मास्टर लेजर/ MASTER LEDGER",
+  "sections": [
+    {"no": "1.", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1, "fields": [{"label": "A.L.O.L.", "value": "---------NA-----"}], "tables": [], "text": null},
+    {"no": "2.", "title": "Position", "title_hi": "स्थान", "page": 1, "fields": [{"label": "Position", "value": "Lat. 22°28'55.0\"N Long 70°07'38.0\"E"}], "tables": [], "text": null},
+    {"no": "3.", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1, "fields": [{"label": "Elevation", "value": "41M Meter"}], "tables": [], "text": null},
+    {"no": "4.", "title": "Repeater Tower for automation", "title_hi": null, "page": 1, "fields": [
+      {"label": "Type", "value": ": GI trestle tower"},
+      {"label": "Height", "value": ": 30M."},
+      {"label": "Colour scheme", "value": "3 Red and 2 White bands"}
+    ], "tables": [], "text": null},
+    {"no": "5.", "title": "Energy source", "title_hi": null, "page": 1, "fields": [], "tables": [], "text": "Main supply voltage 230V,3 phase,50Hz\nDiesel Engine Generator Kirloskar"},
+    {"no": "6.", "title": "Structure", "title_hi": null, "page": 1, "fields": [
+      {"label": "Type", "value": ": Circular RCC tower"},
+      {"label": "Height", "value": ": 30 M."},
+      {"label": "Colour scheme", "value": ": White and red Alternate Horizontal bands"}
+    ], "tables": [], "text": null},
+    {"no": "7.", "title": "Gen-Set Details", "title_hi": null, "page": 1, "fields": [], "tables": [
+      {"caption": "Gen-Set Details", "columns": ["Parameter", "Sub-parameter", "Unit", "Value"], "rows": [
+        ["Prime Rating at rated rpm (as per ISO8528)¹", "", "kVA", "20"],
+        ["Prime Rating at rated rpm (as per ISO8528)¹", "", "kW", "16"],
+        ["Genset Model", "", "", "KG1-20AS"],
+        ["Frequency", "", "Hz", "50"],
+        ["Power factor", "", "lagging", "0.8"],
+        ["Voltage", "", "V", "230 (1Ø)"],
+        ["Governing Class (As per ISO 8528 Part-V)", "", "", "G2"],
+        ["Noise Level", "", "dBA", "< 75"],
+        ["Fuel Consumption*.", "At 100 % Load", "Ltrs/hr", "6.4"],
+        ["Fuel Consumption*.", "At 75 % Load", "", "5"],
+        ["Fuel Consumption*.", "At 50 % Load", "", "4"],
+        ["Fuel tank capacity", "", "Ltrs", "65"],
+        ["Weight of Genset with canopy(approx.) ^", "Dry", "Kg", "1130"],
+        ["Weight of Genset with canopy(approx.) ^", "Wet", "Kg", "1180"],
+        ["Overall dimensions of Genset^", "Length", "mm", "2130"],
+        ["Overall dimensions of Genset^", "Width", "mm", "1050"],
+        ["Overall dimensions of Genset^", "Height", "mm", "1520"],
+        ["Electrical Battery starting voltage", "", "Volts-DC", "12"]
+      ]},
+      {"caption": "ENGINE", "columns": ["Parameter", "Unit", "Value"], "rows": [
+        ["Engine Model", "", "HA394TCIG1"],
+        ["Rated output (Prime Continuous rating as per ISO 8528-1)", "kW", "23.5"],
+        ["Rated output (Prime Continuous rating as per ISO 8528-1)", "HP", "32"],
+        ["No. of Cylinder", "Number", "3"],
+        ["Cubic Capacity²", "Ltrs", "2.89"],
+        ["Bore x Stroke", "mm", "100 x 120"],
+        ["Rated Speed", "RPM", "1500"],
+        ["Lube Oil change period", "hrs", "500"],
+        ["Lube Oil sump capacity", "Ltrs", "8"],
+        ["Coolant Capacity", "Ltrs", "NA"]
+      ]},
+      {"caption": "ALTERNATOR", "columns": ["Parameter", "Unit", "Value"], "rows": [
+        ["Insulation Class", "", "Class H"],
+        ["Ingression Protection", "", "IP 23"],
+        ["Alternator Efficiency (at 100 % load) 0.8 p.f.**", "", "88.8"],
+        ["Max. Voltage Dip at Full Load 0.8 p.f. lag", "", "≤ 16%"],
+        ["Max. Time to build up rated voltage at rated RPM", "", "< 5 sec provided engine reach the rated speed"]
+      ]},
+      {"caption": "Details of Old Engine", "columns": ["Sr No", "Engine Sr No", "Make/Type", "HP", "No. of Cylinders", "R.P.M", "Cooling"], "rows": [
+        ["i.", "66810500", "Kirloskar electric", "6", "1", "1500", "Air Cool"],
+        ["ii.", "RA4 36.1044/773B", "Kirloskar electric /AMF IIP", "26", "4", "1500", "Air Cool"],
+        ["iii.", "RA4 36.1044/772B", "Kirloskar electric /AMF IIP", "26", "4", "1500", "Air Cool"]
+      ]},
+      {"caption": "Details of Old Alternators", "columns": ["Sr No", "Frame", "Make/Type", "KVA", "Volts", "Amp", "Freq.", "Phase", "RPM"], "rows": [
+        ["i.", "40S5/1", "Kirloskar electric", "5", "240", "21.8", "50", "1", "1500"],
+        ["ii.", "S0A620", "Kirloskar electric /AMF IIP", "25", "400", "36.2", "50", "3", "1500"],
+        ["iii", "S0A620", "Kirloskar electric /AMF IIP", "25", "iii.", "36.2", "50", "3", "1500"]
+      ]}
+    ], "text": "In the Gen-Set table the \"Ltrs/hr\" unit cell is merged across the three Fuel Consumption rows; the Parameter cells of multi-row items (Prime Rating, Fuel Consumption, Weight, Overall dimensions, Rated output) are merged cells repeated here on each row."},
+    {"no": "8.", "title": "Stabilizer", "title_hi": null, "page": 2, "fields": [
+      {"label": "AVR-Servo Voltage Stabilizer", "value": ": 01 Nos"},
+      {"label": "Make", "value": ": Delta electric"},
+      {"label": "Capacity", "value": ": 12.5KVA"},
+      {"label": "Input", "value": ": 140V-280V,1 phase"},
+      {"label": "Output", "value": ": 230v AC,1 phase"}
+    ], "tables": [], "text": null},
+    {"no": "9.", "title": "H.S.D storage tank (Not in use)", "title_hi": null, "page": 3, "fields": [{"label": "H.S.D storage tank (Not in use)", "value": ": 01, Capacity : 12000 Ltrs"}], "tables": [], "text": null},
+    {"no": "10.", "title": "Fire-fighting Equipment", "title_hi": null, "page": 3, "fields": [
+      {"label": "ABC HALON 1211 Extinguisher (5 Kg)", "value": ": 4 Nos"},
+      {"label": "Fire buckets", "value": ": 2Nos"}
+    ], "tables": [], "text": null},
+    {"no": "11.", "title": "Water supply", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "Water supply – Running water supply 24*7 from water board\n10,000 Ltrs underground storage tank – Nos 08\n500 Ltrsoverhead storage tank (syntax) – Nos 10"},
+    {"no": "12.", "title": "Land", "title_hi": null, "page": 3, "fields": [
+      {"label": "Area", "value": ": 11.37 Hectares"},
+      {"label": "Demarcation", "value": ": Compound wall"}
+    ], "tables": [], "text": null},
+    {"no": "13.", "title": "Structures", "title_hi": null, "page": 3, "fields": [
+      {"label": "Inspection Quarter", "value": ":01 unit"},
+      {"label": "Powerhouse cum Office Building", "value": ": 01unit"},
+      {"label": "Store", "value": "02 unit"},
+      {"label": "Staff Quarters", "value": ": ALK-2, LHA-3, Driver-1"},
+      {"label": "LMV Garage", "value": ": 01 unit"}
+    ], "tables": [], "text": null},
+    {"no": "14.", "title": "Compound Street Lights", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "12 nos. G.I.Poles with LED Light\n02 Nos. Gate Light with LED Light\n06 Nos. Technical Building Light withLED Lamp"},
+    {"no": "15.", "title": "Mode of approach", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "By Rail up to HAPA and then 3km by road on Jamnagar-Rajkot highway"},
+    {"no": "16.", "title": "Facilities available", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "School, Police Station, Hospital at Jamnagar and Post office at 5 km from Station"},
+    {"no": "17.", "title": "Address", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "Assistant Engineer€,MCS Dhuvav\nDirectorate of Lighthouse and Lightships\nP.O. Dhuvav, Jamnagar, Gujarat – 361120\nEmail: dhuvavmcs@gmail.com"},
+    {"no": "18.", "title": "Year of Establishment", "title_hi": null, "page": 3, "fields": [{"label": "Year of Establishment", "value": "1978"}], "tables": [], "text": null},
+    {"no": "19.", "title": "Subsequent Innovation", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "2002, 2004, Re-capitalisation of automation of lighthouses is in progress in 2022, in which Dhuvav is one of the RCS under VTS Directorate Gandhidham"}
+  ],
+  "unreadable": []
+}

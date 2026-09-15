@@ -1,0 +1,41 @@
+{
+  "nid": 1761,
+  "title": "Periodical repairs and maintenance of DGNSS Aerial Mast towers at Minicoy Lighthouse & DGNSS station.",
+  "summary": "Periodical repairs and maintenance of the DGNSS aerial mast towers at Minicoy Lighthouse and DGNSS station, Minicoy Island, Lakshadweep, tendered by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-26002/1/2019-MS; I/65608/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Minicoy Lighthouse & DGNSS station, Minicoy Island, UT of Lakshadweep", "station_id": "minicoy-south-lighthouse-dgps-station", "kind": "DGNSS", "work": "Periodical repairs and maintenance of DGNSS aerial mast towers"}
+  ],
+  "scope": [
+    {"item": "Periodical repairs and maintenance of DGNSS Aerial Mast towers (no BOQ in this notice)", "qty": null, "unit": null, "site": "Minicoy Lighthouse & DGNSS station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 537009.0,
+    "emd_inr": 11000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by Demand Draft/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents by post or in person by 11.11.2024 15:00."
+  },
+  "period": {"completion": "180 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-10-08", "pre_bid": "2024-10-29", "bid_submission_end": "2024-11-12", "bid_opening": "2024-11-13"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Government/PSU/autonomous bodies; OR, for contractors from Lakshadweep, work experience with any Government department during last 05 years in island works",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%",
+    "PAN and GST registration",
+    "Annual turnover of last three years certified by Chartered Accountant"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITMinicoy.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Notice only (Section I); no BOQ or specification of the masts. Bid download/submission 15.10.2024 10:00 to 12.11.2024 15:00; bid query last date 28.10.2024. Station matched to Minicoy South (the Minicoy DGNSS station per station list); notice itself says only 'Minicoy Lighthouse & DGNSS station'."
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "ramayapatnam-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Ramayapatnam Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1982,
+  "alol": "0952.5",
+  "position": {"lat_text": "15° 02.45\" N", "lon_text": "80° 03.00' E", "lat": 15.040833, "lon": 80.05},
+  "elevation_m": 35.29,
+  "characteristic_text": "Single Flash every 10 Sec.",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": [],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 21.7, "geographical_nm": 16.5, "text": "Luminous 21.7 NM (T 0.74), Geographical 16.5 NM"},
+  "tower": {"type": "Hexagonal Concrete Tower", "height_m": 30, "colour_scheme": "Red and White bands"},
+  "optic": {
+    "make": "Mediterraneo Senalels Maritimas, Spain", "model": "MBR- 300", "type": "MBR- 300 Marine Rotating Beacon", "size": "105 mm focal length", "order": null,
+    "panels": 6,
+    "rotation_device": null,
+    "rpm": 1,
+    "rotates": true,
+    "rotates_evidence": "Type: MBR-300 Marine Rotating Beacon; Rotation Speed 1 RPM",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "150 W, 220V MH Lamp"
+  },
+  "intensity_cd": 221000,
+  "racon": {"present": true, "code": "K", "text": "Tideland signal Corp., U.S.A.; Sl.No. 6166; Morse Code K; commissioned 09-12-2004"},
+  "ais": {"present": true, "text": "M/s SAAB AIS R40 Base Stations Sl.No.5308 and 5295; 2.4 m VSAT; commissioned 20/12/2012"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APCPDCL mains 3phase 440V; 0.48KW off-grid solar plant for main light (6 x 12V/80W); Kirloskar 20.5 HP DG with 15 KVA alternator"},
+  "issues": [
+    "Latitude printed with seconds sign after decimal minutes (15° 02.45\"); converted as decimal minutes",
+    "Characteristic does not state light colour"
+  ]
+}

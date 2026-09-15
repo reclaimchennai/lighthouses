@@ -1,0 +1,108 @@
+{
+  "slug": "bitra-lighthouse",
+  "page_count": 2,
+  "title_as_printed": "मास्टर लेजर/MASTER LEDGER",
+  "column_headers_as_printed": ["क्रमसंख्या/Sr.No", "नाम /Name", "विवरण/Description"],
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1,
+     "fields": [{"label": "A.L.O.L.", "value": "F-0750"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1,
+     "fields": [{"label": "Position", "value": "Latitude 11° 35.8˝N, Longitude72° 11.4˝ E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1,
+     "fields": [{"label": "Elevation", "value": "33 M (Above MSL)"}], "tables": [], "text": null},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1,
+     "fields": [{"label": "Characteristic", "value": "Fl (2) White 10 Sec"}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in miles", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1,
+     "fields": [{"label": "Range in miles", "value": "16.62 Nm"}], "tables": [], "text": null},
+    {"no": "6", "title": "L.H.Tower", "title_hi": "दीपस्तंभ टावर", "page": 1,
+     "fields": [
+       {"label": "Type", "value": "G I trestle tower"},
+       {"label": "Height", "value": "30 M"},
+       {"label": "Colour Scheme", "value": "Red and White Band"}
+     ], "tables": [], "text": null},
+    {"no": "7", "title": "Optical equipment", "title_hi": "ऑप्टिकल उपकरण", "page": 1,
+     "fields": [
+       {"label": "Optic", "value": "MBL-160"},
+       {"label": "Make", "value": "MSM, Spain"},
+       {"label": "Type", "value": "LED Flasher"},
+       {"label": "Illumining", "value": ""},
+       {"label": "Main", "value": "High-intensity power LED"},
+       {"label": "Standby", "value": "Nil"},
+       {"label": "Date of Installation", "value": ""}
+     ], "tables": [], "text": null},
+    {"no": "8", "title": "Effective beam intensity", "title_hi": "प्रभावी बीम तीव्रता", "page": 1,
+     "fields": [{"label": "Main", "value": ""}, {"label": "Emergency", "value": ""}], "tables": [], "text": null},
+    {"no": "9", "title": "Lantern", "title_hi": "लेंटर्न", "page": 1,
+     "fields": [{"label": "Lantern", "value": "NIL"}], "tables": [], "text": null},
+    {"no": "10", "title": "RACON", "title_hi": null, "page": 1,
+     "fields": [{"label": "RACON", "value": "NIL"}], "tables": [], "text": null},
+    {"no": "11", "title": "NAIS", "title_hi": null, "page": 1,
+     "fields": [{"label": "NAIS", "value": "NIL"}, {"label": "DGPS", "value": "NIL"}], "tables": [], "text": null},
+    {"no": "12", "title": "Source of energy", "title_hi": "ऊर्जा के साधन", "page": 1,
+     "fields": [
+       {"label": "Mains", "value": "230V, AC Supply"},
+       {"label": "Emergency Power Source", "value": "NIL"},
+       {"label": "Solar Plant", "value": "NIL"}
+     ],
+     "tables": [
+       {"caption": null, "columns": ["", "Capacity PV", "Numbers", "Type", "Battery"],
+        "rows": [
+          ["Solar panel for Main light", "70 W/12V", "01 Nos", "TBP", "02 Nos, 12V/100Ah"],
+          ["Solar panel for automation", "250W/ 24V", "02Nos", "", "02Nos, 12V/ 200Ah"]
+        ]}
+     ], "text": null},
+    {"no": "13", "title": "Automatic Voltage Stabilizers", "title_hi": "स्वचालित वोल्टेज स्टेबलाइजर", "page": 1,
+     "fields": [{"label": "Automatic Voltage Stabilizers", "value": "NIL"}], "tables": [], "text": null},
+    {"no": "14", "title": "Batteries", "title_hi": "बैटरि", "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Type", "Make", "Volt", "Amp/Hr", "Qty", ""],
+        "rows": [
+          ["Main Light", "Gel type", "Exide", "12V", "100 Ah", "2", ""],
+          ["Automation panel", "SMF", "Exide", "12V", "200Ah", "2", ""]
+        ]}
+     ], "text": null},
+    {"no": "15", "title": "Battery chargers", "title_hi": "बैटरि चार्जर", "page": 1,
+     "fields": [{"label": "Battery chargers", "value": "NIL"}], "tables": [], "text": null},
+    {"no": "16", "title": "Inverter /UPS", "title_hi": "इंवर्टर", "page": 1,
+     "fields": [{"label": "Inverter /UPS", "value": "NIL"}], "tables": [], "text": null},
+    {"no": "17", "title": "Automation Equipment", "title_hi": "स्वचलन उपकरण", "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": "Header row on page 1, data row on page 2", "columns": ["MAKE", "PLC", "HMI", "Power Supply", "VSAT", "Modem", "Band", ""],
+        "rows": [["RDS", "Micrologix", "Renu Electronics PVT LTD", "24 V DC", "1.2m dia Parabolic reflector", "Hughes", "", ""]]}
+     ], "text": null},
+    {"no": "18", "title": "Fire Fighting Equipment", "title_hi": "आग्नि शमन उपकरण", "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Type of Extinguisher", "Capacity", "Nos", "Make"],
+        "rows": [["Map 90", "2 kg", "3", ""]]}
+     ], "text": null},
+    {"no": "19", "title": "Communication", "title_hi": "संचार", "page": 2,
+     "fields": [{"label": "Communication", "value": "BSNL landline : 04890-275231"}], "tables": [], "text": null},
+    {"no": "20", "title": "Water Supply", "title_hi": "जल पूर्ति", "page": 2,
+     "fields": [{"label": "Water Supply", "value": "01 No Open well, and rainwater collection sump provided."}], "tables": [], "text": null},
+    {"no": "21", "title": "Land", "title_hi": "भूमि", "page": 2,
+     "fields": [{"label": "Area", "value": ""}, {"label": "Demarcation", "value": ""}], "tables": [], "text": null},
+    {"no": "22", "title": "Buildings", "title_hi": "इमारतें", "page": 2,
+     "fields": [], "tables": [],
+     "text": "1. Two storied buildings consisting of the LHA quarter and Inspection quarter\n2. Equipment room at tower bottom"},
+    {"no": "23", "title": "Compound Lights", "title_hi": "कंपाउंड लाइट", "page": 2,
+     "fields": [{"label": "Compound Lights", "value": "Nil"}], "tables": [], "text": null},
+    {"no": "24", "title": "CCTV CAMERA", "title_hi": "सीसीटीवी कमेरा", "page": 2,
+     "fields": [{"label": "CCTV CAMERA", "value": "Nil"}], "tables": [], "text": null},
+    {"no": "25", "title": "Staff", "title_hi": "स्टाफ", "page": 2,
+     "fields": [{"label": "Staff", "value": "One outsourced LHA"}], "tables": [], "text": null},
+    {"no": "26", "title": "Mode of approach", "title_hi": "पहुँचने का माध्यम", "page": 2,
+     "fields": [{"label": "Mode of approach", "value": "By Ship from Kochi"}], "tables": [], "text": null},
+    {"no": "27", "title": "Facilities available", "title_hi": "उपलब्ध सुविधाए", "page": 2,
+     "fields": [{"label": "Facilities available", "value": "Post office, Primary health center, Upper Primary school, and Police Station are available on Bitra Island."}], "tables": [], "text": null},
+    {"no": "28", "title": "Postal address", "title_hi": "डाक पता", "page": 2,
+     "fields": [{"label": "Postal address", "value": "Lighthouse Attendant, Bitra Lighthouse, Bitra island, UT of Lakshadweep, 680 554"}], "tables": [], "text": null},
+    {"no": "29", "title": "Cost details", "title_hi": "मूल्य का ब्योरा", "page": 2,
+     "fields": [{"label": "Cost details", "value": ""}], "tables": [], "text": null},
+    {"no": "30", "title": "Date of commissioning", "title_hi": "प्रवर्तन मे लाने का देनांक", "page": 2,
+     "fields": [{"label": "Date of commissioning", "value": "07.05.1984"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

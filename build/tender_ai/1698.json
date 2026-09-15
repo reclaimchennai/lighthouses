@@ -1,0 +1,40 @@
+{
+  "nid": 1698,
+  "title": "Fabrication, Supply, Installation and Commissioning of LTCT Panel, Fuse Panel and Distribution Panel for Augmentation of power supply to Static Sensors phase II at Pulicat, Portonova and Nagapatinam lighthouses under Chennai Directorate.",
+  "summary": "Fabrication, supply, installation and commissioning of LTCT, fuse and distribution panels to augment power supply for phase II static sensors at Pulicat, Portonova and Nagapattinam lighthouses (Chennai Directorate).",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-02005(27)/1/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Pulicat", "station_id": "pulicat-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "LTCT panel, fuse panel and distribution panel for static sensor power supply augmentation"},
+    {"name": "Portonova", "station_id": "portonovo-lighthouse-and-navtex-station", "kind": "lighthouse", "work": "LTCT panel, fuse panel and distribution panel for static sensor power supply augmentation"},
+    {"name": "Nagapatinam", "station_id": "nagapattinam-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "LTCT panel, fuse panel and distribution panel for static sensor power supply augmentation"}
+  ],
+  "scope": [
+    {"item": "Fabrication, Supply, Installation and Commissioning of LTCT Panel, Fuse Panel and Distribution Panel for augmentation of power supply to Static Sensors phase II", "qty": null, "unit": null, "site": "Pulicat, Portonova and Nagapatinam lighthouses"}
+  ],
+  "money": {
+    "estimated_cost_inr": 562440.0,
+    "emd_inr": 11248.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR of any nationalised bank in favour of The Director of Lighthouses and Lightships, Chennai; tender fee and EMD exempted for valid MSME/NSIC certificate. Tender fee by DD is mentioned but its amount is not printed. EMD validity: English text says 30 days, Hindi text says 90 days from technical bid opening."
+  },
+  "period": {"completion": "60 Days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-07-22", "pre_bid": "2024-07-25", "bid_submission_end": "2024-08-05", "bid_opening": "2024-08-06"},
+  "eligibility": [
+    "OEMs or their authorised agents, or appropriate class contractors registered with CPWD, State PWD, Railways, MES, BSNL etc or other State/Central Govt/PSU/autonomous bodies, having experience in the works"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_1.pdf", "pages": 3, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 18/07/2024; two-cover online bids. Download/submission 22/07/2024 15:00 to 05/08/2024 14:00; technical bid opening 06/08/2024 15:30. Listing gives bid opening 2024-07-22, which is actually the start of the bid period. Page 3 is blank apart from header and page number (checked by rendering). NIT only; no BOQ, specifications or detailed eligibility. Related earlier tender for similar panels at Deep Bhavan Chennai is nid 1452."
+}

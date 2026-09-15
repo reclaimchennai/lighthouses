@@ -1,0 +1,172 @@
+                            मास्टर लेजर/ MASTER LEDGER
+
+ क्रम
+संख्या                नाम /Name                                               वििरण/Description
+   /
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.                    0669.5
+   2     स्थान/Position                        Lat.12° 0.40’ N , long 75° 12.2’ E
+   3     ऊंचाई/Elevation                       62M (Above MSL)
+   4     अविलक्षण/Characteristic               Fl (2) W 20 sec (fl 0.53)
+                                               (0.53+1.97+0.53+16.97=20Seconds)
+  5      नॉविकल माइल मे दू री                  (i)      Luminous        :        19.6 NM
+         Range in miles                        (ii)     Geographical    :        20.5NM
+  6      दीपस्तं ि िािर/L.H.Tower              Type                          Hexagonal Masonry Tower
+                                               Height                          18 M
+                                               Colour Scheme                   Red and White Band
+  7              ऑप्टिकल उपकरण                 Optic
+                 Optical equipment             Make                            J.Stone & Co, Kolkata
+                                               Type                            Revolving Beacon
+                                               Size                            300 mm (IVth Order large) Revolving
+                                               No. of lens Panels              2
+                                               Area of dioptric portion        405 cm2
+                                               Area of catadioptric portion    1520 cm2
+                                               Divergence                      07o 38’ 24’’(Horizontal)
+                                               Main/Emergency                  11o 27’ 14’’(Vertical)
+                                               Duration of Flash               0.6 Sec
+                                               Main /Standby/Emergency
+                                               Pedestal                        Ball bearing type
+                                               Rotation Device                 Stepper motor
+                                               R.P.M.                          3 RPM (one revolution in 45 Sec)
+                                               Illumining
+                                               Main                            Cluster of 3 Nos of MH lamp
+                                                                               150W/230V
+                                               Standby                           -
+                                               Emergency:                        -
+                                               Date of Installation            21.12.2003
+  8      प्रिािी बीम तीव्रता/ Effective beam   Main                            93000 Candela
+         intensity                             Emergency
+  9      लें िनन /Lantern                      Diameter                        2.40 m
+                                               Height of glazing               1300 m
+                                               No. of panes                    12
+                                               Ventilators                     11
+
+ 10      RACON                                     Sr. No                      20180765 SJP
+         Make                 Model            Code                            Band                     Date of Installation
+      Pharas Marine        PMAPI                          K                                    X                25-12-2018
+      Automatic power      RACON-2
+ 11   NAIS
+      Base Station                               2 Nos-AIS1 & AIS2
+
+      Model                Type               Power                               MMSI
+      SAAB,R40             Class A            AC-230V & DC-12V
+      Communication
+      Equipment
+      VSAT Antenna         Band               Modem
+      2.4m dia Parabolic   EX-C               HUGUES system
+      Reflector
+
+
+ 12   ऊर्ान के साधन/       Mains                                                  Local Mains 440 V, 3 ø, 50 Hz, AC
+      Source of energy     Power Source                                           DG Set 7.5 KVA make Kirlosker
+                           Engine 1
+                           Make/Type                          Qty      Rating     No of Cylinder      RPM               Cooling
+                           Kirloskar Green/EA16               1        16 BHP     3                   1500              Air
+                           Serial No.D8.1612.92/1200273
+                           Alternator
+                           Make/Type                          Qty      Rating     Voltage/Amp         Frequency         Phase
+                           Kirloskar                          1        7.5 KVA    230V                50Hz              Single
+                           Serial No.BS1H012A19324-H
+                           Engine 2
+                           Make/Type                          Qty      Rating     No of Cylinder      RPM               Cooling
+                                                              N/A         N/A            N/A                   N/A            N/A
+                           Alternator
+                           Make/Type                          Qty      Rating     Voltage/Amp         Frequency         Phase
+                                                              N/A         N/A            N/A                   N/A            N/A
+                           Engine 3
+                           Make/Type                          Qty      Rating     No of Cylinder      RPM               Cooling
+                                                              N/A         N/A            N/A                   N/A            N/A
+                           Alternator
+                           Make/Type                          Qty      Rating     Voltage/Amp         Frequency         Phase
+                                                              N/A         N/A            N/A                   N/A            N/A
+                           Solar Plant
+                           Capacity PV                        Numbers             Type               Battery            Bank
+                           5 KWp                                  250W x 20 Nos   Mono Crystalline           N/A              N/A.
+                           Solar Plant for Main RACON
+                           Capacity PV                        Numbers             Type               Battery            Bank
+                           70 W/12V                           01 No.              Mono Crystalline   01 Nos                   N/A.
+                                                                                                     12V/100AH
+ 13   स्वचावलत िोल्टे र् स्टे बलाइर्र Automatic Voltage Stabilizers
+      Make                     Model        Capacity Input                        Output                  Phase         Qty
+      HYKON                    SAN115       15KVA       160-260V                  230-235V                SINGLE        3
+14    बैिरर Batteries
+      Equipment                   Type        Make            Volt                    Amp/Hr                 Qty
+      PSS NAIS                    SMF         Exide           12V                     150 AH                  2
+      Genset                    Lead acid     Exide           12V                     100 AH                  1
+      MAIN LIGHT                  SMF         Exide           12V                     150AH                   4
+      RACON                       SMF         HBL             12V                     100 AH                  1
+15   बैिरर चार्न र/ Battery charger
+     Equipment                Make       Model       Type                Rating        Qty
+     General Purpose
+                                SHARP    Blue line          ----           12/24/48V         01
+                                                                           /20 Amps
+
+16   इं वर्ट र Inverter /UPS
+     Equipment          Nos Make        Model               Type         Rating        Qty   input        Output
+     Main Light          04 Su-Kam         SHINY900         Pure sine    900VA          04   12V/DC       230VAC
+                                                              wave
+     NAIS PSS       01     Su-Kam          Falcon-eco       Pure sine    1000VA        01    12V DC &     230VAC
+                                                            wave                             230 AC
+                    01     Microtech        1000EB          Pure sine    1000VA         01   12V DC &     230VAC
+                                                            wave                             230 AC
+
+
+17   स्वचलन उपकरण
+     Automation Equipment
+     MAKE         PLC                   HMI          Power Supply       VSAT           Modem      Band
+     Renu         Allen Bradley         HMI          I/P-230AC          1.2m dia       Hughes     EX.C
+     Electronic Micro Logix             Display-     O/P-               Parabolic
+     s Pvt. Ltd   1400                  FP5070T      24VDC/5A           reflector
+
+
+18   आविशमन उपकरण                        Type of Extinguisher           Capacity       Nos        Make
+     Fire Fighting Equipment             DCP Type                       4 kg+2kg       4+2        Andex/Kanex
+                                         Co2                            4.5kg          5          FLAMEBLITZZ
+                                         Foam Type                      9 Ltr          3          FLAMEBLITZZ
+
+19   संचार                               BSNL LAND LINE
+     Communication                       04985230232
+
+20   र्लपूवतन                            Open well at the foot of the Hill with an electric pump 12.5 HP,
+     Water Supply                        440 V pumped to an overhead tank of RCC 6500 liters. Running
+                                         water available in all quarters
+21   िू वम                               Area                                        2.519 Hectre
+     Land                                Demarcation                                   Masonry Compound
+                                                                                       Wall(front side) and
+                                                                                       Partially consisting of RCC
+                                                                                       panels fixed in grooves of
+                                                                                       RCC posts
+22   इमारतें                             RCC Structure: 05 Nos                         1.Power House-cum
+     Buildings                                                                         Office,Stores&
+                                                                                       Recreation Room
+                                                                                       ,2.HLK Qtrs One Unit
+                                                                                       3.ALK Qtrsof Twin units,
+                                                                                       4.Gr.D Qtrs of Twin
+                                                                                       units 5.Inspection Qtr.,
+     कंपाउं डदीिार                       Brick masonry & RCC panels
+     Compound Wall
+23   कंपाउं ड लाइि                       LED Light fitted on G.I Pole-20W LED-21 Nos
+     Compound Lights
+24   सीसीिीिी कमे रा                                            N/A                                N/A
+     CCTV CAMERA                                                N/A                                N/A
+25   स्टाफ                           Sl. No            Designations
+     Staff
+                                     1              Navigational Assistant Gr.I &Navigational Assistant Gr.II
+                                     2              HOUSE KEEPING(By Out sourcing)
+26   पहुँ चने का माध्यम              By Rail up to Payyanur & by road 15 Km by bus
+     Mode of approach
+27   उपलब्ध सुविधाए                  Police Station-18 Km, High School- 12 Km, Post office &
+     Facilities available            Dispensary 10 Km from L.H.
+
+
+
+28   डाक पताPostal address           Head Light Keeper(SS)/Navigational Assistant Gr.I,
+                                     Mount Dilly Lighthouse,
+                                     Naval Academy (PO)
+                                     Kannur-Dist,
+                                     Pin 670310
+29   मू ल्य का ब्योराCost details             N/A
+     (At the time of Construction)
+30   प्रितननमे लाने का दे नां क               23.06.1979
+     Date of commissioning
+

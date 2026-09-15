@@ -1,0 +1,46 @@
+{
+  "nid": 2026,
+  "title": "Provision of Generator shed at Beypore Lighthouse",
+  "summary": "Two-cover e-tender for construction of a generator shed at Beypore Lighthouse, Chaliyam, Kerala, under the Cochin Directorate.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "2025_DGLL_878707_1; MS-Coc-03030/1/2024-Admin; I/85023/2025; I/87263/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Beypore Lighthouse, Chaliyam, Pin-673301", "station_id": "beypore-lighthouse", "kind": "lighthouse", "work": "Provision of generator shed"}
+  ],
+  "scope": [
+    {"item": "Provision of generator shed", "qty": null, "unit": null, "site": "Beypore Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 455653.0,
+    "emd_inr": 9113.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents to be submitted physically. Bid Securing Declaration also required."
+  },
+  "period": {"completion": "90 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-09-23", "pre_bid": "2025-09-30", "bid_submission_end": "2025-11-11", "bid_opening": "2025-11-12"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Similar works completed in last 7 years: three >= 40%, two >= 50% or one >= 80% of estimated cost",
+    "Similar works: construction of generator shed with truss work, concrete foundation and aluminium work / construction or maintenance of residential/institutional/office buildings, road/lighthouse tower or related civil construction",
+    "PAN and GST registration; CA-certified turnover of last three years",
+    "Declaration that bid is unconditional; affidavit on Rs 100 stamp paper of not being blacklisted; undertaking listing relatives serving in MoPSW/DGLL",
+    "EPF/labour registration certificate; tender acceptance letter; bid securing declaration"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2025-10-28", "change": "Corrigendum-III: bid submission extended to 11.11.2025 15:00, submission of EMD/technical documents in original to 10.11.2025 15:00, technical bid opening to 12.11.2025 15:00. Other terms unchanged."}
+  ],
+  "documents": [
+    {"file": "NIT (1).pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []},
+    {"file": "CORRIGENDUM-III Provision of Generator Shed at Beypore Lighthouse.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "NIT is Section I only; no BOQ or shed specification. Original NIT dates: download/submission 24.09.2025 (10:00) to 08.10.2025 (15:00), bid query last date 29.09.2025, EMD original by 07.10.2025, opening 09.10.2025; dates above reflect Corrigendum-III. Corrigenda I and II are not among the documents."
+}

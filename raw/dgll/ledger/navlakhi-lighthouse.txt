@@ -1,0 +1,59 @@
+                 मास्टर लेजर/ MASTER LEDGER
+ क्रम                         नाम /Name:
+संख्या/                                                                     वििरण/ Discription
+Sr.No
+  1.         ए.एल.ओ.एल/A.L.O.L.                          : F 0370
+  2.         स्थान/Position                              : Lat 22.961°N ,
+                                                         Long 70.4439° E
+
+  3.         ऊंचाई/Elevation                              : 31 Meter
+  4.      अविलक्षण/Characteristic                        : Fl (W) 10Sec. (1 + 9 = 10Sec)
+  5.      नॉविकल माइल मे दू री                           a) Luminous : 12NM
+          Range in miles
+  6.         Visibility sector                           : 360º
+
+  7.
+                                                         Type       : Circular RCC tower
+             Structure                                   Height      : 30 M.
+                                                         Colour scheme : White and red Alternate
+                                                         Horizontalbands
+
+  8.            ऑप्टिकल उपकरण                            Lantern         :12NM MLB-200-13 marine
+          Optical Equipment: -                           LED lantern
+          Type of Light (LED Flasher)                    Light Source :High intensity LED.
+                                                         Make            : Advance
+                                                         Navigation and Solar
+                                                         Technologies, New Delhi
+                                                         Character       :3fl (W) every 10Sec.
+                                                         {(0.5+1.5)2+0.5+5.5=10Sec.}
+                                                         Date of Installation                    :
+                                                         15/06/2015
+  9.      Solar Panel                                    02nos of 12V/75W solar modules, Make:
+                                                         JJ PV Solar, Rajkot Installed on 27/07/2015
+                                                         on GI bracket
+
+  10.        Battery                                     SMF 12V/100AH, Exide Power Safe,
+                                                         Battery voltage: 14.5V
+                                                         S.No. 4WF0417223007005 installed
+                                                         in2017
+  11.     Charge controller                              01no.Sukam make, 12V-14VDC/20A
+                                                         Rated.
+
+  12.     RACON
+                   Model                   Page 1 of 8    :Seabeacon2 system 6 Tideland Racon
+                   Make                                   :Tideland Signal, Texas
+                   Racon S.No.                              6269
+                   Chassis No.                             263
+            Code                                :“B” (As per advertised in ALOL)
+13.   Address & Communication
+
+      VTS Station Navlakhi port, Dist.
+      Morbi, Pin-363680 (Gujarat)
+      e-mail ID: navlakhivtms@gmail.com
+14.   Year of Establishment                   1910 and re-established in 2012
+
+
+
+
+                                Page 2 of 8
+

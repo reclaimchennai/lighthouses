@@ -1,0 +1,46 @@
+{
+  "slug": "vizhinjam-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5, 6],
+  "name": "Vizhinjam Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1972,
+  "alol": "F-0718",
+  "position": {"lat_text": "08° 22.8' N", "lon_text": "93° 58.9' E", "lat": 8.38, "lon": 93.981667},
+  "elevation_m": 57,
+  "characteristic_text": "Fl(White)- 15 seconds (FL- 0.55 + ec-14.5 sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "FL- 0.55 + ec-14.5 sec",
+    "sequence_s": [0.55, 14.5],
+    "flash_duration_s": 0.55
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 31, "geographical_nm": null, "text": "31 NM (single unlabelled range)"},
+  "tower": {"type": "Circular Masonry Tower", "height_m": 36, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "BBT", "model": null, "type": "Revolving Beacon", "size": "500mm / 3rd Order Large", "order": "3rd Order Large",
+    "panels": 3,
+    "rotation_device": "Dual Stepper motor (20 Kg/cm2)",
+    "rpm": 1.333,
+    "rotates": true,
+    "rotates_evidence": "Optic: Revolving Beacon; Rotation Device: Dual Stepper motor; R.P.M. 4/3 RPM",
+    "divergence_horizontal_deg": 4.45,
+    "divergence_vertical_deg": 1.483333,
+    "divergence_text": "4° 27' (Horizontal), 1° 29' (Vertical)",
+    "illuminant": "Metal Halide Lamps, Cluster of 3 Nos 150W/230V"
+  },
+  "intensity_cd": 6838000,
+  "racon": {"present": true, "code": "O", "text": "Tideland, Sea Beacon-2 System-6 (X+S Band), Model WM-RB-II, Sr. No 6548, Code O, Band X+S, installed 25-12-2007"},
+  "ais": {"present": true, "text": "2 Nos AIS1 & AIS2, R40, Class B, AC-230V & DC-12V, MMSI ------"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V 3 Phase 50Hz AC; 2 Kirloskar Green DG sets (15 KVA, 25 KVA); 5 KW on-grid solar; 70 W/12VDC solar for RACON"},
+  "issues": [
+    "Printed longitude 93° 58.9' E is inconsistent with Vizhinjam, Kerala (about 77° E); transcribed as printed",
+    "Sequence FL 0.55 + ec 14.5 sums to 15.05 s, not the stated 15 s",
+    "RACON make given as Tideland Sea Beacon-2 but model as WM-RB-II",
+    "Effective beam intensity 68,38,000 cd is unusually high"
+  ]
+}

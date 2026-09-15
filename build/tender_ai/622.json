@@ -1,0 +1,43 @@
+{
+  "nid": 622,
+  "title": "Procurement of Various Consumables, Crane hire charges, hiring charges of cylinder and transportation charges of buoy materials for 19th Narmada and 43rd Salaya channel Annual Buoy maintenance.",
+  "summary": "Short e-tender by the Directorate of Lighthouses and Lightships, Jamnagar for consumables, crane hire, cylinder hire and transport of buoy materials for annual maintenance of the 19th Narmada and 43rd Salaya channel buoys, delivered at Okha Lighthouse.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "6-JWS(01)/2014-V",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Jamnagar"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "19th Narmada channel buoy", "station_id": null, "kind": "other", "work": "Annual buoy maintenance"},
+    {"name": "43rd Salaya channel buoy", "station_id": null, "kind": "other", "work": "Annual buoy maintenance"},
+    {"name": "The Assistant Engineer(E), Okha Lighthouse, P.O. Okha - 361 350", "station_id": "okha-lighthouse-dgps-and-vts-station", "kind": "lighthouse", "work": "Location / delivery point for buoy maintenance materials"}
+  ],
+  "scope": [
+    {"item": "Procurement of various consumables for annual buoy maintenance", "qty": null, "unit": null, "site": "Okha Lighthouse"},
+    {"item": "Crane hire charges", "qty": null, "unit": null, "site": null},
+    {"item": "Hiring charges of cylinder (oxygen and acetylene per listing title)", "qty": null, "unit": null, "site": null},
+    {"item": "Transportation charges of buoy materials", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 1758840.0,
+    "emd_inr": 35200.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": null,
+    "notes": "Tender fee by DD and EMD by FDR (original, valid one year) from any nationalised/RBI-approved bank in favour of The Director of Lighthouses & Lightships, Jamnagar; to reach the office by 12/12/2022 15:00. Tender fee and EMD exempted for firms registered with NSIC/MSME."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2022-11-22", "pre_bid": null, "bid_submission_end": "2022-12-12", "bid_opening": "2022-12-13"},
+  "eligibility": [
+    "Registered manufacturing company or authorised dealers"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "15c00a62-a1ef-4ae1-8c67-1f527293d06b.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled; English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "One-page short bid notice only; no item list or quantities. Listing directorate is DGLL but the issuing office is Jamnagar. Listing shows bid opening 2022-11-22, which is the publication date; the notice gives technical bid opening 13/12/2022 16:00. Download/submission 22/11/2022 18:00 to 12/12/2022 15:00. Digitally signed on eProcure (signature not verified)."
+}

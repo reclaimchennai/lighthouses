@@ -1,0 +1,77 @@
+{
+  "nid": 2568,
+  "title": "Replacement of defective DC solar cables, ACDB, procurement of DCDB and other Electrical items for Navinal Lighthouse and VTS station",
+  "summary": "GeM bid (BOQ) for refurbishing the 30 kW on-grid solar power system at Navinal Lighthouse and VTS Station, Mundra, Kutch: new DC cabling, DCDBs, ACDB, Delta inverter, replacement PV panels, IoT monitoring, trenching, painting and solar aviation obstruction lights on the 60 m tower.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2026/B/7981690; EMDVTS-08014/1/2020-Maintenance; I/106121/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, VTS Directorate, Gandhidham"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Navinal VTS & Lighthouse Station, Adani Port Mundra, Dist. Kutch, Gujarat-370421", "station_id": "navinal-lighthouse-and-vts-station", "kind": "lighthouse", "work": "Replacement of solar DC cables, DCDB/ACDB, 30 kW inverter, defective PV panels; IoT monitoring; cable trench, HDPE pipe, markers; painting of solar structure; solar aviation obstruction lights on 60 m tower"}
+  ],
+  "scope": [
+    {"item": "SITC of 2 in 2 out 1000V DCDB, 32A DC fuse, 1000V SPD, 30A DC MCB, IP67 or better (4 + 2 spare)", "qty": "6", "unit": "Nos.", "site": "Navinal"},
+    {"item": "SITC of 30KW 3PH ACDB with inbuilt AC MCB 63A, AC SPD 320V, R/Y/B phase indicator, IP65 or better (1 + 1 spare)", "qty": "2", "unit": "Nos.", "site": "Navinal"},
+    {"item": "SITC of solar DC cables IS 17293:2020, XLPO, TUV, 6 sq.mm red and black, 1.5(1.8) kV DC (6 strings x 300 m + 200 m interconnection + 200 m spare)", "qty": "2200", "unit": "meter", "site": "Navinal"},
+    {"item": "SITC of 30KW solar grid inverter (Delta M30A_230 to replace existing Delta RPI M30A_121), 32 kW max DC input, 1100V max DC, 2 MPPT, IP65", "qty": "1", "unit": "No.", "site": "Navinal"},
+    {"item": "Supply of MC4 male/female solar connectors for 6 sq.mm cable, PPO+PA (8 sets of 50 pairs, 400 Nos.)", "qty": "8", "unit": "Set", "site": "Navinal"},
+    {"item": "SITC of solar PV module 250W or more, Class-A, polycrystalline (3 replacement + 3 spare)", "qty": "6", "unit": "Nos.", "site": "Navinal"},
+    {"item": "Supply of solar MC4 professional crimping tool with MC4 wrench spanner", "qty": "2", "unit": "Nos.", "site": "Navinal"},
+    {"item": "Supply of AC/DC clamp meter (AC 600V, DC 1000V, AC/DC 1000A or better)", "qty": "1", "unit": "No.", "site": "Navinal"},
+    {"item": "IoT device for monitoring solar generation, compatible with Delta M30A, RS-485/GSM/Wi-Fi, with SIM and 3 years recharge", "qty": "1", "unit": "No.", "site": "Navinal"},
+    {"item": "Supply and laying of 63mm DWC HDPE pipe, ISI marked, IS 14930 Part II, in existing trench", "qty": "115", "unit": "Meter", "site": "Navinal"},
+    {"item": "Supply of 63mm UPVC pipe with bends for routing cables to inverter and interconnecting strings", "qty": "20", "unit": "Meter", "site": "Navinal"},
+    {"item": "Excavation of cable trenches in soft soil 120m x 0.3m x 0.3m incl. refilling", "qty": "11", "unit": "cum", "site": "Navinal"},
+    {"item": "SITC of solar powered aviation obstruction light, 360 deg high intensity red LED, 12VDC solar input, IP66, SS casing (3 on tower + 1 spare)", "qty": "4", "unit": "Nos.", "site": "Navinal"},
+    {"item": "SITC of commercial high-pressure washer 2200W, 200-300 bar, min 16L, trolley", "qty": "2", "unit": "Nos.", "site": "Navinal"},
+    {"item": "Supply of silver grey exterior metallic paint for solar structure frames", "qty": "LS", "unit": "LS", "site": "Navinal"},
+    {"item": "Painter hire for painting frames of solar structure", "qty": "1", "unit": "Job", "site": "Navinal"},
+    {"item": "Breaking of RCC road crossing (approx. 3 m) for laying HDPE pipe and reinstatement", "qty": "L.S", "unit": "Job", "site": "Navinal"},
+    {"item": "Connecting 120 existing solar panels into 6 strings, replacing 3 to 6 defective panels, connecting DC cables to inverter, cable tray", "qty": "L.S", "unit": "Job", "site": "Navinal"},
+    {"item": "Fixing 4 DCDBs at strings, mounting ACDB, tagging/labelling, sealing pipe openings, 2 painting brushes, any other work", "qty": "L.S", "unit": "Job", "site": "Navinal"},
+    {"item": "Supply and laying of yellow/red painted RCC cable trench markers 0.3 m, at 2 m spacing (min 50 Nos.)", "qty": "L.S", "unit": "Job", "site": "Navinal"},
+    {"item": "Fixing of 3 aviation obstruction lights with solar module on top of 60 m tower incl. SS fixing accessories", "qty": "L.S", "unit": "Job", "site": "Navinal"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1279550.0,
+    "emd_inr": 25600.0,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value (ePBG/FDR), valid 63 months from installation & commissioning",
+    "notes": "Estimated cost including GST and all taxes. Original EMD to be submitted at Deep Bhavan, Gandhidham before bid end; EMD exemption only for OEMs (not resellers/traders). Payment 40% on supply, 60% after installation, testing and commissioning. Delay penalty 0.5% per day up to 5%. MII purchase preference 20% (L1+20%), MSE purchase preference L1+15% for 25% quantity."
+  },
+  "period": {"completion": "60 days from contract generation", "bid_validity": "180 days from bid end date", "warranty": "5 years for all supplied items and complete 30 kW on-grid solar system including earlier installed panels"},
+  "dates": {"published": "2026-09-01", "pre_bid": "2026-09-10", "bid_submission_end": "2026-09-22", "bid_opening": "2026-09-22"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 4 lakh; OEM average turnover (3 years): Rs 25 lakh",
+    "3 years past experience for same/similar service; past performance 80% of bid quantity; no MSE/startup relaxation",
+    "Similar works in last 7 years: three works >= 40%, or two >= 50%, or one >= 80% of estimated cost (supply/installation/commissioning/maintenance of solar PV systems/inverters/DC cabling) for Central/State Govt/PSU",
+    "Not blacklisted (Annexure-III); technical compliance declaration (Annexure-I); brochure with make and model",
+    "GST registration",
+    "Local office in Kutch region or within 320 km of Gandhidham",
+    "Tender Acceptance Letter (Annexure-II) and site-assessment undertaking (Annexure-IV)",
+    "Only Class-I / Class-II local suppliers under Make in India order"
+  ],
+  "specs": [
+    "Inverter: Delta make model M30A_230 replacing existing Delta RPI M30A_121",
+    "Solar DC cable IS 17293:2020 / EN 50618, 6 sq.mm, tin-plated copper, XLPO, 1.5 kV DC; preferred Polycab/KEI/Finolex/RR Kabel",
+    "DCDB 1000V, 32A DC fuse, Type-II SPD, 30A DC MCB, IP67; preferred Kenbrook/Kampsol/Accu-Panels/Hensel/Rittal",
+    "ACDB 30 kW 3-phase, 63A MCB/MCCB, 320V SPD, MFM, IP65; preferred Kenbrook/Schneider/L&T/ABB/Siemens",
+    "PV modules 250W+ Class-A polycrystalline; preferred Adani/Waaree/Vikram/Tata Power Solar",
+    "MC4 connectors IP67 PPO+PA; preferred Staubli/Amphenol/Kenbrook/Weidmuller etc.",
+    "Clamp meter True-RMS CAT IV 600V/CAT III 1000V; preferred Fluke/Kyoritsu/Hioki",
+    "63mm DWC HDPE pipe IS 14930 Part II",
+    "Solar aviation obstruction light: red LED 360 deg, IP66, SS-304 housing, min 2 nights autonomy, LED life 50,000 h",
+    "High-pressure washer 2200 W, 200-300 bar, 16 L/min, 10 m hose; preferred Karcher/Bosch/Nilfisk etc.",
+    "Existing array: 120 panels x 250W in 6 strings of 20, 30 kW Delta inverter, 3-phase ACDB, bi-directional meter (Annexure-V)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM bid and ATC.pdf", "pages": 40, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "GeM bid document (18 pages) followed by buyer ATC with specifications, BoQ and Annexures I-VI; pages 39-40 are a cable layout diagram and a satellite cable-route measurement (109.58 m). GeM consignee name and station staff mobile numbers omitted. GeM total quantity 2386. BoQ item 13 lists 4 obstruction lights; GeM notes 'Category not available on GeM' for the search string."
+}

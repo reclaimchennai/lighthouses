@@ -1,0 +1,47 @@
+{
+  "nid": 2158,
+  "title": "Procurement of double door refrigerator and smart LED TV at MNTI Deep Bhavan Kolkata",
+  "summary": "GeM two-packet bid for supply, installation and commissioning of one frost-free side-by-side refrigerator and two smart TVs for the Directorate of Lighthouses and Lightships, Deep Bhavan, Kolkata.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/6996374",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Directorate of Lighthouses and Lightships, Deep Bhavan, D-372/2, Taratala Road, Kolkata-700088", "station_id": null, "kind": "office", "work": "Consignee for refrigerator and TVs"}
+  ],
+  "scope": [
+    {"item": "Household refrigerating appliance as per IS 17550: frost-free, side-by-side door, 601-650 L, plain design, shades of grey", "qty": "1", "unit": "piece", "site": "Deep Bhavan, Kolkata"},
+    {"item": "Television (TV) (V2): Smart TV, LED/OLED/QLED, more than 46 inch up to 54 inch, 4K UHD or higher", "qty": "2", "unit": "set", "site": "Deep Bhavan, Kolkata"}
+  ],
+  "money": {
+    "estimated_cost_inr": 303490.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 14 months",
+    "notes": "GeM estimated bid value Rs 3,03,490. EMD not required. MII purchase preference: No. MSE purchase preference L1+15% up to 25% of quantity. ICT: 90% of product cost on delivery, minimum 10% allocated to installation/commissioning/testing within 10 days of site readiness."
+  },
+  "period": {"completion": "15 days delivery", "bid_validity": "90 days from bid end date", "warranty": "1 year from final acceptance (GeM ATC); refrigerator compressor 10 years or higher; TV comprehensive warranty 1 year or higher, display 3 years or higher"},
+  "dates": {"published": "2025-12-15", "pre_bid": null, "bid_submission_end": "2025-12-25", "bid_opening": "2025-12-25"},
+  "eligibility": [
+    "Bidder minimum average annual turnover Rs 1 lakh (3 years); OEM average turnover Rs 12 lakh",
+    "3 years past experience in same/similar category; past performance 70% of bid quantity in one of last three financial years",
+    "No MSE or startup relaxation for experience and turnover",
+    "Documents: experience, past performance, bidder turnover, OEM authorization, OEM turnover, certificates requested in ATC; BIS licence and type test certificates",
+    "Bidder/OEM must have dedicated/toll-free service number and functional service centre in consignee state (carry-in warranty)"
+  ],
+  "specs": [
+    "Refrigerator: IS 17550, frost-free, side-by-side, total volume 601-650 L, BEE star rating NA for side-by-side, 1 year product warranty, 10 year compressor warranty; BIS Scheme-I mark",
+    "TV: smart TV, LED/OLED/QLED, >46 to 54 inch, audio 10W x 2 or higher, 4K UHD 3840x2160 or higher, brightness 300 nits or higher, BEE 1 star or higher; IS 616:2017 BIS registration (Scheme-II)",
+    "Scope: supply, installation, testing and commissioning; option clause +/-25% quantity"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM-Bidding-TV.pdf", "pages": 10, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is the 10-page GeM bid only; buyer-uploaded ATC referenced ('Click here to view the file') is not included. Listing title says 'double door refrigerator' at 'MNTI', but the GeM specification is a side-by-side refrigerator and the consignee is the Directorate office at Deep Bhavan, Kolkata (MNTI not mentioned). Bid end 25-12-2025 13:00, opening 13:30. Consignee is a named officer (name omitted)."
+}

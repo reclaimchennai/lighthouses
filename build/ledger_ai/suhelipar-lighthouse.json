@@ -1,0 +1,46 @@
+{
+  "slug": "suhelipar-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Suhelipar Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1975,
+  "alol": "F-0756",
+  "position": {"lat_text": "10° 02.30\" N", "lon_text": "72° 17.00\" E", "lat": 10.038333, "lon": 72.283333},
+  "elevation_m": 38,
+  "characteristic_text": "Fl (2) White 20Sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 19.0, "geographical_nm": 17.5, "text": "Luminous 19.0 Nm, Geographical 17.5 Nm"},
+  "tower": {"type": "Cast iron circular tower", "height_m": 30, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "Sealite, Australia", "model": null, "type": "LED flasher", "size": "300mm lens dia", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED flasher",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High-intensity LEDs (65W)"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": "O", "text": "Wealth marine WM-RB-II, Code O, X band, installed 21.10.2011; found defective, removed and sent to DLL Cochin for repair on 24.01.2014"},
+  "ais": {"present": true, "text": "2 Nos AIS1 & AIS2; R40, Class A; AC-230V & DC-24V; MMSI not given"},
+  "dgps": {"present": false},
+  "power": {"mains": false, "solar": true, "generator": false, "text": "Mains Nil; Engine Nil; solar plant 5KVA for NAIS PSS (16 x 100W/12V, 96 V bank); main light 2 x 100 W/12V solar panels"},
+  "issues": [
+    "Position printed with seconds marks after decimal values (10° 02.30\", 72° 17.00\"); converted as decimal minutes",
+    "RACON listed (Wealth marine WM-RB-II, code O) but removed as defective on 24.01.2014",
+    "Effective beam intensity left blank",
+    "Only year of commissioning given (1975)"
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "nid": 366,
+  "title": "Re-wiring of Lighthouse tower, Power house, Staff Quarters, Inspection Quarter, Supply and installation of Street lights poles and ESE Lightning Arrester at Bhatkal Lighthouse under Goa Directorate.",
+  "summary": "Complete electrical rewiring of the lighthouse tower, power house, staff quarters and inspection quarter at Bhatkal Lighthouse (Karnataka, Goa Directorate), with new LT panels, street light poles, a submersible pump set and an ESE lightning arrester with copper plate earthing.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-Goa-01001(13)/1/2022-Electrical Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Goa"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {
+      "name": "Bhatkal Lighthouse",
+      "station_id": "bhatkal-lighthouse",
+      "kind": "lighthouse",
+      "work": "Rewiring of LH tower, power house, NA-1/NA-2/LHA staff quarters, inspection quarter and office; LT panels; street lights; submersible pump; ESE lightning arrester and earthing"
+    }
+  ],
+  "scope": [
+    {
+      "item": "1.011 FRLS PVC insulated copper single core cable drawn in conduit, 3 x 1.5 sq mm (fan and light points in service room and tower bottom)",
+      "qty": "20",
+      "unit": "meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.012 FRLS PVC copper cable 3 x 2.5 sq mm (DB to switch board)",
+      "qty": "35",
+      "unit": "meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.013 FRLS PVC copper cable 4 x 1.5 sq mm (staircase wiring LH tower bottom to service room)",
+      "qty": "25",
+      "unit": "meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.021 Modular 5/6 A switch",
+      "qty": "18",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.022 Modular 2 way 5/6 A switch",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.023 Modular 15/16 A switch",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.024 3 pin 5/6 A socket outlet",
+      "qty": "8",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.025 6 pin 15/16 A socket outlet",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.031 GI/PVC modular box 1 or 2 module (75x75 mm) for wall mounted fan",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.032 Modular box 3 module (100x75 mm) (PVC)",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.033 Modular box 12 module (200x150 mm) (PVC)",
+      "qty": "3",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.034 3 pin 5 A ceiling rose",
+      "qty": "8",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.035 Installation, testing and commissioning of ceiling/wall mounting fan incl. down rod wiring",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.036 PVC batten/angle holder (1 for lantern room)",
+      "qty": "3",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.042 MCB single pole 6A (4 service room, 2 LH bottom)",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.043 MCB single pole 16A (LH bottom)",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.044 MCB double pole 6A (LH service room)",
+      "qty": "4",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.046 Double pole isolator 40 A (service room, LH bottom staircase)",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.048 Double pole RCCB 30 mA, 40A (service room, LH bottom staircase)",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.050 MCB distribution board 8 way double door (2 LH tower service room, 1 LH bottom)",
+      "qty": "3",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.051 Earthing with G.I. earth pipe 4.5 m long, 40 mm dia, with masonry enclosure",
+      "qty": "1",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.052 Supply of indoor industrial LED tube light batten 4 ft 22W",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.053 Supply of 10W LED bulk head luminaire IP65/66/67",
+      "qty": "5",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.054 Supply of LED lamp 12W B22 dimmable glass bulb",
+      "qty": "3",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.055 Supply of wall mounting fan 400 mm bracket, hi-speed",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.056 Supply of PVC cable management duct 60x80 mm, 2 m lengths, tower bottom to top",
+      "qty": "20",
+      "unit": "Nos.",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.057 Supply of 1 inch (25x16 mm) U-PVC mini trunking, 2 m lengths, staircase light wiring",
+      "qty": "15",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.058 Supply and laying 3C x 2.5 sq mm copper armoured XLPE cable (PH to LH service room 80 m, staircase light 55 m, NAIS 55 m)",
+      "qty": "190",
+      "unit": "meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.059 Supply of bare copper wire 8 SWG earth wire",
+      "qty": "4",
+      "unit": "Kg",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.060 Laying 8 SWG copper wire in cable duct from earth pit to service room DB and LH tower bottom DB",
+      "qty": "30",
+      "unit": "meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.061 Laying/fixing vertical cable duct and re-routing old NAIS and other cables, tower bottom to service room (20 m tower)",
+      "qty": "1",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.062 Additional earth pit charges for item 1.051 (hill and rocky area)",
+      "qty": "1",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "1.063 Miscellaneous items (SS screws, washers, drill bits, wall plugs, cable ties, SS U clamps, flexible pipes)",
+      "qty": "1",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.012 Modular GI box with base and cover plate, 1 or 2 module (75x75 mm)",
+      "qty": "7",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.013 Modular box 3 module (100x75 mm)",
+      "qty": "27",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.014 Modular box 6 module (125x125 mm)",
+      "qty": "12",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.015 Modular box 8 module (125x125 mm)",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.016 Modular box 12 module (200x150 mm)",
+      "qty": "18",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.021 Modular 5/6 A switch",
+      "qty": "192",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.022 Modular 15/16 A switch",
+      "qty": "23",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.023 3 pin 5/6 A socket outlet",
+      "qty": "63",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.024 6 pin 15/16 A socket outlet",
+      "qty": "23",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.03 Bell push",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.031 Call bell/buzzer, single phase 230 V",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.032 PVC batten/angle holder (fancy type)",
+      "qty": "32",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.033 3 pin 5 A ceiling rose",
+      "qty": "93",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.034 Two module stepped electronic fan regulator",
+      "qty": "18",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.035 Installation, testing and commissioning of ceiling fan incl. down rod wiring",
+      "qty": "18",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "2.036 Installation, testing and commissioning of pre-wired fluorescent/CFL fittings of all types",
+      "qty": "104",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "3.012 Medium class PVC conduit 25 mm, surface/recess",
+      "qty": "808",
+      "unit": "meters",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "3.014 FRLS PVC copper cable 2 x 1.5 sq mm (lamp holder)",
+      "qty": "350",
+      "unit": "meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "3.015 FRLS PVC copper cable 3 x 1.5 sq mm",
+      "qty": "916.5",
+      "unit": "meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "3.016 FRLS PVC copper cable 3 x 2.5 sq mm",
+      "qty": "798",
+      "unit": "meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "3.017 FRLS PVC copper cable 3 x 4 sq mm",
+      "qty": "212",
+      "unit": "meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.012 Sheet steel MCB distribution board 6 way double door (without MCB/RCCB/isolator)",
+      "qty": "3",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.013 Sheet steel MCB distribution board 12 way double door",
+      "qty": "5",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.015 MCB single pole 10A",
+      "qty": "21",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.016 MCB single pole 16A",
+      "qty": "29",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.018 Double pole isolator 40 A",
+      "qty": "8",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.02 Double pole RCCB 30 mA, 40 A",
+      "qty": "4",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.021 20 A 240 V SPN industrial socket outlet with 20 A C-curve SP MCB in sheet steel enclosure",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.022 Earthing with copper earth plate 600x600x3 mm with masonry enclosure (power house, genset body and neutral)",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.023 25 mm x 3 mm copper strip for genset body and neutral earthing",
+      "qty": "30",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.024 Earthing with G.I. earth pipe 4.5 m, 40 mm dia (NA-1, NA-2, IQ, LHA qtrs x2, office, power house)",
+      "qty": "7",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.03 Supply of indoor industrial LED tube light batten 4 ft 22W",
+      "qty": "37",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.031 Supply of bulk head LED luminaire IP65/66/67 IK09/10",
+      "qty": "13",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.032 Supply of LED lamp 12W B22 dimmable glass bulb",
+      "qty": "32",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.033 Supply of wall mounting luminaire 7W full glass LED lamp B22/E27",
+      "qty": "12",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.034 Supply of ceiling fan 1200 mm sweep, high speed, anti-rust",
+      "qty": "18",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.035 Supply of outdoor 25W LED COB street light fitting IP65/66",
+      "qty": "3",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.036 Street light bend pipe 1 inch GI class C with clamps",
+      "qty": "3",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.037 Supply of 250 mm PVC exhaust fan (window)",
+      "qty": "5",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.038 Supply of bare copper wire 8 SWG earth wire (all quarters)",
+      "qty": "15",
+      "unit": "Kg",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.039 Labour for laying 8 SWG wire from ground level to distribution box in PVC pipe",
+      "qty": "90",
+      "unit": "Mtr",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.04 Supply and laying 3C x 4 sq mm copper armoured XLPE cable (PH to office 90 m, PH to auxiliary light room 175 m)",
+      "qty": "265",
+      "unit": "Mtr",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.041 Supply and laying 3C x 6 sq mm copper armoured XLPE cable (PH to IQ, NA-1 110 m, NA-2 95 m, LHA twin qtrs 190 m)",
+      "qty": "470",
+      "unit": "Mtr",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.042 Supply and laying 4C x 16 sq mm copper armoured XLPE cable (electric pole to power house, 45 m LH + 45 m staff quarters)",
+      "qty": "90",
+      "unit": "Mtr",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.043 Supply and laying 2C x 16 sq mm copper armoured XLPE cable (genset room output to power house)",
+      "qty": "80",
+      "unit": "Mtr",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.044 40 mm 6 m GI class C bend pipe on electric pole for 16 sq mm cable to power house",
+      "qty": "1",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.045 Cable trench in rocky area incl. excavation, sand cushioning, protective cover, refilling (street light and staff quarter cables)",
+      "qty": "250",
+      "unit": "Mtr",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.046 Wall white putty and painting wherever plastering done in all quarters",
+      "qty": "1",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.047 Labour for dismantling old wiring, cables, fans, switch boards, fittings and old panel board (NA-1, NA-2, LHA x2, IQ, power house)",
+      "qty": "1",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.048 Miscellaneous items (screws, bolts, cable ties, PVC bends/tees, junction boxes, fan hooks/rods, putty and paints)",
+      "qty": "6",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.049 Additional earth pit charges for plate earthing (hill and rocky area)",
+      "qty": "2",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.05 Additional earth pit charges for pipe earthing (hill and rocky area)",
+      "qty": "7",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.051 Black stone cutting for concealed wiring and 600 mm wall holes for cable entry",
+      "qty": "713",
+      "unit": "Mtr",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.056 LT distribution panel, 16 SWG CRCA, 1 incomer (100A 4P MCCB) and 8 outgoing (4 single phase metering feeders with 32A kit-kat fuses, 16A neutral links, 4 x 32A 2P 10kA MCB), Siemens grey",
+      "qty": "1",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "4.057 LT distribution panel, wall mounted, 1 incomer and 3 outgoing (3 x 100A kit-kat fuse, 200A neutral link, 100A 4P MCCB, digital VAF meter with CT/PT, 63A 2P changeover switch, 63A selector switch, 25kA 4P SPD; outgoing 4 x 10A, 4 x 16A, 4 x 20A SP MCB)",
+      "qty": "1",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.01 Supply of 16 sq mm 4 core PVC copper flexible cable (power house loop wiring)",
+      "qty": "20",
+      "unit": "Meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.014 MCB double pole 6A (street lights)",
+      "qty": "12",
+      "unit": "Nos",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.015 80 mm dia GI medium class pipe laid in ground with 75 cm trenching (RCC road crossing)",
+      "qty": "20",
+      "unit": "meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.016 Supply of outdoor 25W LED COB street light fitting IP65/66",
+      "qty": "10",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.017 Supply of outdoor IP65 wall mounting gate light luminaire 20W LED",
+      "qty": "4",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.018 Supply and laying 3C x 2.5 sq mm copper armoured XLPE cable",
+      "qty": "200",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.019 Supply of 2.5 sq mm cable gland",
+      "qty": "24",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.02 Supply and installation 3 inch dia class C GI pipe 4 m pole with primer and 2 coats aluminium paint",
+      "qty": "10",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.021 Supply and installation 1 inch threaded 45 degree bend pipe 1 m, painted",
+      "qty": "10",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.022 Supply and installation 3 inch to 1 inch GI reducer, painted",
+      "qty": "10",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.023 SMC pole mounted junction box 200x140x95 mm IP55",
+      "qty": "12",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.024 Supply and laying 3 core 1.5 sq mm PVC copper cable (fitting to junction box)",
+      "qty": "45",
+      "unit": "Mtr",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.025 Supply and fixing 1-1/2 inch HDPE hard pipe approx 3 mm thick (underground to junction box)",
+      "qty": "30",
+      "unit": "Meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.026 Supply of 1 phase street light timer 16 A",
+      "qty": "1",
+      "unit": "Nos",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.027 Supply of PVC enclosure for street light timer",
+      "qty": "1",
+      "unit": "Nos",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.028 Electrician labour for street light wiring, fitting luminaires and timer",
+      "qty": "1",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.031 Street light base: excavation 0.6x0.6x0.5 m, 1:2:4 concrete, brick post base 0.45 m, plastering and red enamel painting",
+      "qty": "10",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.032 Labour for dismantling old street lights",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.034 Supply of submersible pump set single phase 1.5 kW 30 stage with control panel, starter, ISI MCB, ammeter, voltmeter",
+      "qty": "1",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.035 Supply and laying 3C x 2.5 sq mm copper submersible flat cable",
+      "qty": "250",
+      "unit": "Meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.036 Supply and fixing 50 mm GI class C pipe 6 m in ground with concrete foundation to carry submersible cable overhead",
+      "qty": "6",
+      "unit": "Nos",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.037 Supply and fixing 50 mm GI dummy",
+      "qty": "6",
+      "unit": "Nos",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.038 Labour for installation of 2 phase motor and starter",
+      "qty": "1",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "5.039 Miscellaneous (GI elbow, nipple, joints, waterproof and teflon tape)",
+      "qty": "1",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "6.012 25 mm x 3 mm copper strip for lightning arrester",
+      "qty": "40",
+      "unit": "meter",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "6.013 Copper plate earthing 600x600x3 mm with masonry enclosure for lightning arrester (two earthings, IS 2309)",
+      "qty": "2",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "6.014 Supply of Early Streamer Emission (ESE) lightning conductor, stainless central rod, autonomous, 60 m radius coverage, CPRI requirements",
+      "qty": "1",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "6.015 Supply of 6 m single length GI class C 40 mm dia lightning arrester mast with M20 thread, 300x300x10 mm base plate, 6 mm SS304 stay wires (150 km/h wind)",
+      "qty": "1",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "6.016 Additional 6 ft triangle GI support to mast with 40 mm GI C class pipe to handrail",
+      "qty": "1",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "6.017 Supply of lightning flash counter",
+      "qty": "1",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "6.018 Supply of 40 mm insulator pipe for mast base",
+      "qty": "2",
+      "unit": "feet",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "6.019 Supply of GI test link box with copper strip test link",
+      "qty": "1",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "6.02 Installation of ESE lightning arrester, insulator pipe, mast, flash counter, test link",
+      "qty": "1",
+      "unit": "Each",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "6.021 Additional earth pit charges for lightning arrester plate earthing (hill and rocky area)",
+      "qty": "2",
+      "unit": "Nos.",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "6.022 Laying 25x3 mm copper strip vertically outside LH tower from top to bottom earth pit on insulators every 2 ft (additional + risk charge)",
+      "qty": "1",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    },
+    {
+      "item": "6.023 Miscellaneous (SS screws, washers, bolts, 80 ceramic strip insulators, insulation tape and sleeves, wall plugs)",
+      "qty": "1",
+      "unit": "LS",
+      "site": "Bhatkal Lighthouse"
+    }
+  ],
+  "money": {
+    "estimated_cost_inr": 2061811.0,
+    "emd_inr": 41236.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": "3% of contract value as Bank Guarantee/FDR within 15 days of Letter of Intent, valid 3 months after expiry of the 2 year warranty/guarantee period",
+    "notes": "Estimated cost including all taxes. EMD by DD/FDR of any nationalised bank in favour of The Director of Lighthouses and Lightships, Goa, by 21/09/2022 16:00, valid 90 days from publishing of tender; technical evaluation also refers to 'EMD/Bid Securing Declaration (form 9.7)'. Tender fee Rs 500 non-refundable DD. Rates quoted in the BoQ xls only; GST paid extra as per actual; no advance payment; payment after satisfactory execution; quantities approximate, paid on measurement."
+  },
+  "period": {
+    "completion": "90 days from the date of award of contract (Section 6.9: lightning protection system within 60 days from commencement)",
+    "bid_validity": "90 days from the date of opening of bid",
+    "warranty": "2 years from completion/acceptance for all work; ESE lightning protection system guaranteed 2 years (24 months) from acceptance"
+  },
+  "dates": {
+    "published": "2022-09-06",
+    "pre_bid": "2022-09-13",
+    "bid_submission_end": "2022-09-21",
+    "bid_opening": "2022-09-22"
+  },
+  "eligibility": [
+    "At least one similar work >= Rs 16,49,449, or two >= Rs 10,30,906 each, or three >= Rs 8,24,724 each in last seven years for Central/State Govt, PSU or private firm; similar work = electrification works, ESE lightning arrester, electrical UG cable works",
+    "Minimum 3 years experience in similar work",
+    "Valid electrical contractor licence for all electrical works; company registration; PAN and GST",
+    "Financial standing: turnover, P&L and auditor's report for past three years; ITRs for AY 2019-20, 2020-21, 2021-22; bank solvency certificate from scheduled bank; check-up list asks average turnover of last 3 years not less than 50% of estimated cost",
+    "Lists of works in hand, similar works completed, technical and administrative staff with EPF details; litigation/blacklisting disclosure; make and model of proposed LED lights, cables, switches, MCBs/RCCBs, fans",
+    "Tender acceptance letter (9.4), undertaking (9.5), non-blacklist affidavit (9.6), bid security declaration (9.7), technical bid check-up list (9.8)",
+    "Technical evaluation scored out of 100 (statutory 25, financial 15, experience 40, declarations 15, makes 5); minimum 70% to open commercial bid; lowest-priced technically qualified bidder wins"
+  ],
+  "specs": [
+    "Light fittings Philips/Luker/Havells/Crompton; cables Polycab/Havells/Finolex; switches Legrand/Havells Fabio/GM/Anchor Roma",
+    "Concealed wiring except lighthouse tower; copper FRLS wiring; CPWD General Specifications for Electrical Works 2013 Part I (Internal) and Part VII (DG sets); Indian Electricity Act 2003 and Rules 1956; MESCOM meter and service connection norms",
+    "UG cable in trench 30-45 cm wide, 0.5 m deep with sand cushioning and brick/tile cover",
+    "ESE air terminal per NF C 17-102, installation per BS 6651:1999; SS304 shell; capture rod 20-25 mm; triggering distance 50-60 m; min 80 m radius protection at level III with tip 2 m above lantern house (BoQ item 6.014 says 60 m radius); CPRI 8/20 microsecond 40 kA impulse test; weight 4-6 kg",
+    "Lightning mast 6 m single length GI C class (spec says min 60 mm dia, BoQ says 40 mm dia) with 300x300x10 mm base plate, 6 mm SS304 stay wires, M20 concrete foundation, 40 mm GI triangle support",
+    "Down conductor 25x3 mm 99.9% electrolytic copper, PVC/heat-shrink insulated, on insulators every 2 ft, approx 40 m (17 m tower + 8 m mast and bend + 15 m earth run); IP67 flash counter 3-100 kA, 3 year battery; test point box",
+    "Copper plate earthing 600x600x3 mm with 25x3 mm strip at 10 ft depth, two pits min 10 ft apart in parallel, earth resistance below 1 ohm, IS 3043 / IS 2309, 450 mm inspection chamber with CI/FRP cover",
+    "LT panels 16 SWG CRCA powder coated Siemens grey; 25kA 4P SPD; 1.5 kW 30 stage single phase submersible pump"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {
+      "file": "tender 3.pdf",
+      "pages": 79,
+      "read": "mixed",
+      "language": "bilingual",
+      "unreadable": [
+        "Scanned document; OCR text layer garbles all Hindi text and many numbers (e.g. BoQ quantities); NIT, eligibility, evaluation and all BoQ pages 37-55 were rendered and read visually",
+        "Drawings pages 57-68 (street light pole, earthing schematics, lighthouse tower, NA-1/NA-2/LHA quarter circuit plans, street light layout, ESE diagram) only identified, not transcribed"
+      ]
+    }
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 05/09/2022; two-cover online bids; download/submission 06/09/2022 16:00 to 21/09/2022 16:00; queries by 13.09.2022 12:00; technical opening 22/09/2022 16:00. Sections 2, 4, 5 and 9 proformas are standard DLL e-tender instructions/GCC/SCC boilerplate. Inconsistencies: Section 7 experience thresholds (Rs 6,81,968 / 4,26,230 / 3,40,984) differ from Section 3.1.1 (Rs 16,49,449 / 10,30,906 / 8,24,724); BoQ item 5.018 cable measured in 'Each'; 4.023 copper strip in 'Each'. Listing directorate is 'DGLL' but the issuing office is DLL Goa."
+}

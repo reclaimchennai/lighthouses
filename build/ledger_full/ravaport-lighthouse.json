@@ -1,0 +1,158 @@
+{
+  "slug": "ravaport-lighthouse",
+  "page_count": 5,
+  "title_as_printed": "Ravaport Lighthouse Estd.2013 VISAKHAPATNAM DIRECTORATE MASTER LEDGER",
+  "sections": [
+    {"no": null, "title": "Header", "title_hi": null, "page": 1,
+     "fields": [], "tables": [], "text": "[photo: tall white cylindrical lighthouse tower beside compound, top right of page 1]"},
+    {"no": "1.", "title": "Name", "title_hi": null, "page": 1,
+     "fields": [{"label": "Name", "value": "RAVA PORT LIGHTHOUSE"}], "tables": [], "text": null},
+    {"no": "2.", "title": "Sr.No. (as per A.L.O.L)", "title_hi": null, "page": 1,
+     "fields": [{"label": "Sr.No. (as per A.L.O.L)", "value": "0952.5"}], "tables": [], "text": null},
+    {"no": "3.", "title": "Position", "title_hi": null, "page": 1,
+     "fields": [{"label": "Position", "value": "Lat: 16ᴼ 29' 60” N Long: 82ᴼ 16' 05” E"}], "tables": [], "text": null},
+    {"no": "4.", "title": "Elevation", "title_hi": null, "page": 1,
+     "fields": [{"label": "Elevation", "value": "32.5 Mtr"}], "tables": [], "text": null},
+    {"no": "5.", "title": "Characteristic", "title_hi": null, "page": 1,
+     "fields": [{"label": "Characteristic", "value": "4 FL (W) every 20Seconds (Fl 1sec+2sec ec+ Fl 1sec+2sec ec+ Fl 1sec+2s ec + Fl 1sec+10sec ec)"}], "tables": [], "text": null},
+    {"no": "6.", "title": "Range in nautical miles", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "i) Luminous", "value": "15 NM"},
+       {"label": "ii) Geographical", "value": "12 NM"}
+     ], "tables": [], "text": null},
+    {"no": "7.", "title": "Lighthouse Tower", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "i) Type", "value": "Circular FRP Tower"},
+       {"label": "ii) Height", "value": "30 Mtr"},
+       {"label": "iii) Colour Scheme", "value": "White"}
+     ], "tables": [], "text": null},
+    {"no": "8.", "title": "Light Beacon (flashing)", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "a) i) Make", "value": "M/s. Aero marine"},
+       {"label": "a) ii) Model", "value": "SL-155"},
+       {"label": "a) iii) Type", "value": "LED Light Beacon"},
+       {"label": "b) Pedestal", "value": "1.2m height G.I"},
+       {"label": "c) Illuminant i) Main/Service", "value": "18 W LED Light (Sea lite make SL155)"},
+       {"label": "c) Illuminant ii) Standby", "value": "Nil"},
+       {"label": "c) Illuminant iii) Emergency", "value": "Nil"},
+       {"label": "d) Effective Beam Intensity i) Main/Service", "value": "9,000 cds."}
+     ], "tables": [], "text": "Continues on page 2 (iii) Emergency and d) Effective Beam Intensity)."},
+    {"no": "9.", "title": "Energy Source", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "A) APEPDCL Mains", "value": "single phase 220 V AC, 50Hz."},
+       {"label": "B) Green Energy", "value": "3KW off grid solar power plant for Main Light"},
+       {"label": "i) Solar panels", "value": "12 Nos. 24V/250W(Vikram make)"},
+       {"label": "ii) Battery Bank", "value": "12 Nos. 12V /150Ah (Exide SMF)"},
+       {"label": "iii) PCU", "value": "HBL Make 3KVA /48V PCU."},
+       {"label": "iv) Date of installation", "value": "18/01/2017"}
+     ], "tables": [], "text": null},
+    {"no": "10.", "title": "Details of Diesel Engine", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "Generators", "value": "One Canopy type"},
+       {"label": "Model No", "value": "KG10AS1-EA16"},
+       {"label": "Make/Type", "value": "Kirloskar"},
+       {"label": "H.P.", "value": "10 KVA"},
+       {"label": "No. of Cylinder", "value": "2 Nos."},
+       {"label": "RPM", "value": "1500"}
+     ], "tables": [], "text": null},
+    {"no": "11.", "title": "Details of Alternator", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "Make", "value": "Kirloskar"},
+       {"label": "Model No", "value": "BS1J010D864-H"},
+       {"label": "KVA", "value": "12.5"},
+       {"label": "Voltage", "value": "230 V"},
+       {"label": "Frequency", "value": "50 Hz"},
+       {"label": "Phase", "value": "Single"},
+       {"label": "RPM", "value": "1500"}
+     ], "tables": [], "text": null},
+    {"no": "12.", "title": "Automatic Voltage Stabilizers", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "Automatic Voltage Stabilizers", "value": "1 No."},
+       {"label": "Make", "value": "supra- hitech"},
+       {"label": "Model", "value": "SH-1100"},
+       {"label": "Capacity", "value": "10 KVA"},
+       {"label": "Input", "value": "170-270 V"},
+       {"label": "Output", "value": "230 V"}
+     ], "tables": [], "text": "Input and Output on page 3."},
+    {"no": "13.", "title": "AMF Panel", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "Make", "value": "Elect India"},
+       {"label": "Model", "value": "EMF-15M3G1-ICFTDM02"},
+       {"label": "Capacity", "value": "15 KVA, 3 phase"}
+     ], "tables": [], "text": null},
+    {"no": "14.", "title": "Automation of Lighthouse.", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "i) Make", "value": "M/s Recktronic Devices & Systems, Pune."},
+       {"label": "ii) RDS Panel", "value": "1No in power house.( s.no.1607)"},
+       {"label": "iii) V-SAT Dish Size", "value": "1.2Mtr dia"},
+       {"label": "iv) Date of commissioning", "value": "26/01/2017"}
+     ], "tables": [], "text": null},
+    {"no": "15.", "title": "Street Lights", "title_hi": null, "page": 3,
+     "fields": [{"label": "Street Lights", "value": "19 Nos. Solar Street lights with LED"}], "tables": [], "text": null},
+    {"no": "16.", "title": "Inverters / UPS", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "Inverters / UPS", "value": "1 No."},
+       {"label": "Make", "value": "Hykon"},
+       {"label": "Capacity", "value": "2 KVA"},
+       {"label": "Input", "value": "24 V DC"},
+       {"label": "Output", "value": "230 V AC"}
+     ], "tables": [], "text": null},
+    {"no": "17.", "title": "No. of Batteries", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "No. of Batteries", "value": "2 Nos."},
+       {"label": "Make", "value": "Exide"},
+       {"label": "Capacity", "value": "12 V – 150 AH"}
+     ], "tables": [], "text": null},
+    {"no": "18.", "title": "Battery charger", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "Battery charger", "value": "12V DC 10A"},
+       {"label": "Make", "value": "Kirloskar"}
+     ], "tables": [], "text": null},
+    {"no": "19.", "title": "Firefighting equipment", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "Fire Extinguishers i) D.C.P. type (3.2kg Capacity)", "value": "Nil"},
+       {"label": "ii) Foam type (9 litres capacity)", "value": "Nil"},
+       {"label": "iii) Fire Buckets", "value": "Nil"}
+     ], "tables": [], "text": null},
+    {"no": "20.", "title": "Communication Facility", "title_hi": null, "page": 4,
+     "fields": [{"label": "Communication Facility", "value": "NA-II Mobile No:[personal number removed] e-mail : Ravaport-vizag@dgll.nic.in"}], "tables": [], "text": "Mobile number printed against the NA-II post has been removed as a personal staff mobile number."},
+    {"no": "21.", "title": "Water Supply", "title_hi": null, "page": 4,
+     "fields": [
+       {"label": "i)", "value": "Rain Tank-3 Nos."},
+       {"label": "ii)", "value": "Ground Water"},
+       {"label": "iii)", "value": "connection from Rural Scheme"}
+     ], "tables": [], "text": null},
+    {"no": "22.", "title": "Land", "title_hi": null, "page": 4,
+     "fields": [
+       {"label": "i) Area", "value": "1.3Acres"},
+       {"label": "ii) Demarcation", "value": "Masonry Compound wall of 8 ft. height"},
+       {"label": "iii) No. of fruit trees", "value": "Nil"},
+       {"label": "iv) No.of non fruit bearing Trees", "value": "5 Nos."}
+     ], "tables": [], "text": null},
+    {"no": "23.", "title": "Buildings", "title_hi": null, "page": 4,
+     "fields": [{"label": "Buildings", "value": "Power house, Store & Office Room, Inspection quarter, NA II quarter, LHA quarter, Pump house with Under Ground Sump"}], "tables": [], "text": null},
+    {"no": "24.", "title": "Staff", "title_hi": null, "page": 4,
+     "fields": [{"label": "Staff", "value": "NA-II – 1 No., LHA – 1 No. (Vacant)"}], "tables": [], "text": null},
+    {"no": "25.", "title": "Mode of approach", "title_hi": null, "page": 4,
+     "fields": [{"label": "Mode of approach", "value": "By Rail up to Rajahmundry and then by bus up to Amalapuram and then by Taxi/auto up to Lighthouse 29km."}], "tables": [], "text": null},
+    {"no": "26.", "title": "Facilities available", "title_hi": null, "page": 4,
+     "fields": [
+       {"label": "a)", "value": "Post Office within 4 km (S. Yanam)"},
+       {"label": "b)", "value": "Govt. Hospital within 29 km (Amalapuram)"},
+       {"label": "c)", "value": "Govt. School within 3 km (S. Yanam)"},
+       {"label": "d)", "value": "Nationalized Bank within 27 km (Amalapuram)"}
+     ], "tables": [], "text": null},
+    {"no": "27.", "title": "Postal Address", "title_hi": null, "page": 4,
+     "fields": [{"label": "Postal Address", "value": "The Navigational Assistant Gr-II, Rava Port Lighthouse, S.Yanam P.O, Uppalaguptham (M), EAST Godavari District Andhra Pradesh, Pin: 533 213."}], "tables": [], "text": "Address continues on page 5."},
+    {"no": "28.", "title": "Cost Details", "title_hi": null, "page": 5,
+     "fields": [
+       {"label": "i) Construction", "value": "Rs. 1,46,71,976/-"},
+       {"label": "ii) Cost of equipment", "value": "2,47,100/-"}
+     ], "tables": [], "text": null},
+    {"no": "29.", "title": "Year of first Light Commissioned", "title_hi": null, "page": 5,
+     "fields": [{"label": "Year of first Light Commissioned", "value": "27-12-2014"}], "tables": [], "text": null},
+    {"no": "30.", "title": "Subsequent Innovation (2nd)", "title_hi": null, "page": 5,
+     "fields": [{"label": "Subsequent Innovation (2nd)", "value": "08-11-2017"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

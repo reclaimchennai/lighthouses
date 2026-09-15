@@ -1,0 +1,198 @@
+                               मास्टर लेजर/MASTER LEDGER
+
+
+
+
+                                      तारापरु दीपस्तंभ/Tarapur Light House
+क्रमसंख्या/ Sr.No              नाम /Name
+                                                                                   वििरण/Discription
+       1            ए.एल.ओ.एल/A.L.O.L.              F0491.5
+       2            स्थान/Position                  Lat.19` 50’ 7”N
+                                                    Long.72`39’ 5”E
+       3            ऊंचाई/Elevation                 25 m
+       4            अभिलक्षण/Characteristic         Fl (3)W 30 Sec.(fl.0.4,ec 5.6,fl 0.4, ec.5.6, fl. 0.4, ec.17.6)
+       5            नॉटिकलमाइलमेदरू ी               23 NM
+                    Range in miles
+       6            दीपस्तंििािर/L.H.Tower          Type                                 Square Masonry Tower
+                                                    Height                               23 m
+                                                    Colour Scheme                        Black & White bands (5 Bands 4.45
+                                                                                         each)
+       7            ऑप्टिकलउपकरण                    Optic
+                    Optical equipment
+                                                    Make                                 B.B.T.
+                                                    Type                                 Cut and polished revolving
+                                                    Size                                 187.5 mm (5th order)
+                                                    No. of lens                          3 (each of 72`)
+
+                                                    Area of dioptric portion             1032 sq.cm.(Corrected area 547sq.cm.)
+                                                    Area of catadioptric portion         Nil
+                                                    Divergence                           Horizontal-16.72`, Vertical-12.16`
+                                                    Main/Emergency
+                                                    Duration of Flash                    1.39 sec.
+                                                    Main /Standby/Emergency
+
+                                                    Lamp changer                         Nil
+                                                    Pedestal                             Mercury Float (23 Kg. In use)
+                                                    Rotation Device                      Dual Stepper Motor 40 Kgcm operated
+                                                                                         on 12 V DC with auto change
+                                                                                         over.(Clock mechine is also provided
+                                                                                         and kept as stand by)
+                                                    R.P.M.                               2
+                                                    illumining                           150 W X 3 Nos. Cluster M.H.Lamp
+                                                                                         Blast 150 w Kwiklite
+                                                    Main                                 03 Phase MSEDCL Supply
+                                                Standby / Auxiliary                     M/S- B.B.T. Paris, 300 mm dia drum
+                                                                                        optic
+                                                                                        100 V/ 375 W L/8, Thorn B7E Lamp
+                                                Emergency:                                  -
+                                                Date of Installation                    21/06/1961
+8    प्रिािीबीमतीव्रता/Effective beam           Main & Standby                          32116 cd
+     intensity
+                                                Emergency                               -
+9    लेंिनन/Lantern                             Diameter                                2.0 m
+                                                Height of glazing                       0.80 m
+                                                No. of panes                            8
+                                                Ventilators                             7
+10   RACON          - NA-
+     Make                   Model               Code                                    Band                        Date of
+                                                                                                                    Installation
+               -                   -                              -                                -                          -
+11   NAIS
+     Base Station                               SAAB
+
+
+     Model                  Type                Power                                   MMSI
+     R40 AIS base station   Class A             12.5 Watts                              4192225
+     Communication
+     Equipment
+     VSAT Antenna           Band- Ex C          Modem – Datum PSM 500L
+     Prodelin 2.4 meter     band
+     DGPS                       -NA-                    -                                          -                          -
+     Trasmitter Make        Frequency           Power Output              RS 1 ID       RS -II         Beacon       Date of        Date
+                                                                                        ID             ID           commis         of
+                                                                                                                    sioning        Reca
+                                                                                                                                   pitali
+                                                                                                                                   zatio
+                                                                                                                                   n
+               -                -                      -                        -         -         -                   -                 -
+              -                 -                                     -                          -                            -
+12   ऊर्ानकेसाधन/Source     Mains                                                       230 V,3 Phase,50 Hz
+     of energy              Standby                                                     D.G.Set
+                            Engine 1
+                            Make/Type                      Qty            Rating        No of            RPM                Cooling
+                                                                                        Cylinder
+                            Kirloskar ,EA-16               01 No          16            02               1500               Air
+                            Alternator
+                            Make/Type                      Qty            Rating        Voltage/Amp      Frequency          Phase
+                            Kirloskar                      01 No          7.5           240/31.2         50                 Single
+                            Engine 2
+                            Make/Type                      Qty            Rating        No of            RPM                Cooling
+                                                                                        Cylinder
+                                            -                 -                 -            -                  -                 -
+                            Alternator
+                            Make/Type                      Qty            Rating        Voltage/Amp      Frequency          Phase
+                                        -                    -                      -         -                 -                     -
+                                Solar Plant
+                                Capacity PV                  Numbers                      Type           Battery                Bank
+                                20 kWp                       64 Panels’                   On Grid              -                  -
+                                Solar Plant for Main Light
+                                Capacity PV                  Numbers                      Type           Battery                Bank
+                                200Wp/17.5 V                 03 Panels                    Mono           03 Nos                   -
+                                                                                          Crystalline
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                   Model                 Capa Input                              Output         Phase                  Qty
+                                                  city
+     i)old-A.E.Ltd          A.E.                  5.0KV 160-260                           240            Single                 01 No
+                                                  A                                                                             ,U/S
+     II)new-Servo           Servo                 10kva 120-280                           240            Single
+                                                                                                                                01No
+
+14   बैिरर
+     Batteries
+     Equpment               Type                  Make       Volt                         Amp/Hr         Qty
+     PSS NAIS                   -                    -                 -                      -              -
+     Main Light             SMF                   Exide      12 V                         100 AH         03 Nos.
+     Genset                 Lead Acid             Exide      12 V                         100 AH         01 No.
+     Automation             SMF                   Rock       12 V                         26 AH          02 Nos.
+                                                  et
+     DGPS                   -                         -                   -                      -                 -
+15   बैिररचार्नर/ Battery charger
+
+     Equipment              Make                  Model Type                              Rating         Qty
+     General Purpose        Aplab                   -        -                            32 V/ 20 A     01No.                  Send to
+                                                                                                                                Satpati
+                                                                                                                                L.H.
+     Automation              Powerex                  -                -                  26.5 V DC      01No.                    -
+                            engineering
+16   इंवटट रInverter /UPS
+     Equipment Nos          Make          Model           Type             Rating         Qty            input                  output
+     Main Light             Exide                                          850 VA         03 Nos         220 V                  220 V
+
+     NAIS PSS               APS                           SR-1000          1 KVA          01 No                    -              -
+                                                                                          working
+                                                                                          1 No U/S
+     DGPS              -         -            -              -                -                -               -                       -
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE        PLC                     HMI        Power Supply                    VSAT             Modem             Band
+     Nelco       02 Nos.                 01 No      12V / 26 AH                     1.8 m dia old    01 No
+                 Telemecaniqu            Schneide                                   1.2 m dia        Sk Edge
+                 e                       r                                          new
+18                                               Type of Extinguisher               Capacity            Nos              Make
+     आप्ननशमनउपकरण                   DCP                       3.2 Kg             03 Nos      DCP
+     Fire Fighting Equipment         DCP                       1 Kg               02 Nos      DCP
+                                     Foam                      9 Liter            01 No       Foam
+                                     Co2                       9 Liter            01 No       Co2
+                                     Fire bucket                                  04 Nos
+
+
+19   संचार                           NA
+     Communication
+20   र्लपर्ू तन                      One no. Open well inside lighthouse compound
+                                     Mono block water pump 0.50 hp
+     Water Supply
+                                     Bore well, Submersible pump 0.50 hp
+21   िभू म                           Area                                         2.35 Hectares
+     Land
+                                     Demarcation                                    Masonry Compound wall
+22   इमारतें                         Quarters                                       Power house ,I/Q ,Office
+                                                                                    Room, Store Room, HLK
+     Buildings
+                                                                                    Qtr.01 No, ALK Qtr 02
+                                                                                    Nos., LHA&LHS Qtr 0ne
+                                                                                    twin unit all Attached to
+                                                                                    L.H. Tower
+23   कंपाउं डलाइि                                                                   10 Nos
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera                                         NA
+      CCTV CAMERA                    DVR                                            NA
+25   स्िाफ                           Sl. No         Designations
+     Staff                           1              NA-I
+                                     2              NA-II (Vacant)
+                                     3              LHA
+                                     4
+                                     5
+
+
+
+                                     6
+                                     7
+26   पहुँचनेकामाध्यम                 By rail up to Boisar then 15 kms. By S.T. Busdepo to Ghivali & then 1 Km
+                                     by walk up to Light House
+     Mode of approach
+27   उपलब्धसविधाए                    Marine Police Station     Panchamarg 8 Km
+     Facilities available            Dispensary                Tarapur 5 Km
+                                     High School               Tarapur 4 Km
+                                     Post office               Ghivali 2 Km
+28   डाकपताPostal address            Head Light Keeper
+                                     Tarapur Light House
+                                     P.O. Ghivali, Sub. P.O. Tarapur
+                                     Tal & Dist – Palghar,Pin-401502
+29   मल्
+       ू यकाब्योराCost details       Rs-2,50,742.90
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक   21/06/1961
+     Date of commissioning
+

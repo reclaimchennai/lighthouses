@@ -1,0 +1,45 @@
+{
+  "nid": 1885,
+  "title": "Providing Roofing sheet & construction of base for NAIS Antenna at Deep Bhavan, Kochi",
+  "summary": "E-tender for providing roofing sheets and constructing a base for the National AIS (NAIS) antenna at the Deep Bhavan office building of the Cochin Directorate, Kadavanthra, Kochi.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-03022/1/2020-MS; I/75101/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, Gandhinagar, Kadavanthra P.O. Cochin 682 020", "station_id": null, "kind": "office", "work": "Roofing sheet and construction of base for NAIS antenna"}
+  ],
+  "scope": [
+    {"item": "Providing Roofing sheet & construction of base for NAIS Antenna", "qty": null, "unit": null, "site": "Deep Bhavan, Kochi"}
+  ],
+  "money": {
+    "estimated_cost_inr": 6042537.0,
+    "emd_inr": 120851.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals (or MSME/UDYAM/NSIC certificate) with technical documents to reach office by 22.04.2025 1500 hrs. Bid Securing Declaration also listed."
+  },
+  "period": {"completion": "150 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-04-01", "pre_bid": "2025-04-09", "bid_submission_end": "2025-04-23", "bid_opening": "2025-04-24"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous body",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%",
+    "Similar works: roof sheet truss work of multistorey building, solar frame truss work, waterproofing, construction of residential/institutional/office buildings/lighthouse tower or related civil construction",
+    "PAN and GST registration",
+    "Annual turnover of last three years certified by Chartered Accountant",
+    "Declaration that bid is unconditional; affidavit on Rs 100 stamp paper that bidder is not blacklisted",
+    "Undertaking listing relatives serving as Gazetted/Account officers in MoPSW or DGLL",
+    "Copy of EPF / labour registration certificate; Tender Acceptance Letter; Bid Securing Declaration"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_0.pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I (NIT) only; no BOQ. Bid download/submission 03.04.2025 10:00 to 23.04.2025 15:00; bid query last date 08.04.2025 15:00. Site is the directorate office, not a lighthouse station."
+}

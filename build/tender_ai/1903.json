@@ -1,0 +1,40 @@
+{
+  "nid": 1903,
+  "title": "Conducting Topography survey and sub-soil investigation at identified sites at Atlanta point and Shore Point in A&N Island for Establishment of VTMS.",
+  "summary": "E-tender (percentage rate) for topographic survey and sub-soil investigation at Atlanta Point and Shore Point, Sri Vijaya Puram, Andaman and Nicobar Islands, for establishing a Vessel Traffic Management System, issued by the Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair).",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-01/1/2024-M",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Atlanta point, Sri Vijapuram, A&N Island", "station_id": null, "kind": "VTS", "work": "Topography survey and sub-soil investigation for proposed VTMS"},
+    {"name": "Shore Point, Sri Vijapuram, A&N Island", "station_id": null, "kind": "VTS", "work": "Topography survey and sub-soil investigation for proposed VTMS"}
+  ],
+  "scope": [
+    {"item": "Conducting topography survey and sub-soil investigation at identified sites for establishment of VTMS", "qty": null, "unit": null, "site": "Atlanta Point and Shore Point"}
+  ],
+  "money": {
+    "estimated_cost_inr": 377204.0,
+    "emd_inr": 7600.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by deposit at call receipt/FDR of any RBI approved nationalized/scheduled bank in favour of Director of Lighthouses and Lightships - Sri Vijaya Puram, valid six months from technical bid opening; originals with all technical documents to reach office by submission deadline. MSME/NSIC registered bidders for similar work eligible for EMD exemption. Bid document free of cost."
+  },
+  "period": {"completion": "45 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-05-08", "pre_bid": "2025-05-16", "bid_submission_end": "2025-06-02", "bid_opening": "2025-06-03"},
+  "eligibility": [
+    "Eligible experienced contractors with successful completion of similar work of 'Conducting Topography survey & Sub-soil Investigation in Andaman & Nicobar Island' with Government organizations and no adverse remarks",
+    "Detailed eligibility as per Section III clause 3.1 of tender document (not included in this notice)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "nit1.pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": ["Text layer is unusable (Type 3 font garbage); all 3 pages rendered and read visually"]}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only (printed pages 4-6); no scope of survey, BOQ or clause 3.1 eligibility. Download/bid submission 09.05.2025 18:00 to 02.06.2025 15:00; original EMD by 02.06.2025 15:00; technical bid opening 03.06.2025 15:00 subject to internet availability. Atlanta Point and Shore Point are not in station_names.tsv."
+}

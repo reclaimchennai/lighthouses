@@ -1,0 +1,85 @@
+                                   मास्टर ले जर/MASTER LEDGER
+
+
+ क्रमसं
+  ख्या/                  नाम /Name                                                 वििरण/Description
+Sr.No
+  1       ए.एल.ओ.एल/A.L.O.L.                               F-0750
+  2       स्थान/Position                                   Latitude 11o 35.8˝N, Longitude72o 11.4˝ E
+  3       ऊंचाई/Elevation                                  33 M (Above MSL)
+  4       अविलक्षण/Characteristic                          Fl (2) White 10 Sec
+  5       नॉविकल माइल मे दू री
+                                                           16.62 Nm
+          Range in miles
+                                                           Type                        G I trestle tower
+     6    दीपस्तं ि िािर/L.H.Tower
+                                                           Height                     30 M
+
+                                                           Colour Scheme              Red and White Band
+                                                           Optic                      MBL-160
+                                                           Make                       MSM, Spain
+     7    ऑविकल उपकरण                                      Type                       LED Flasher
+          Optical equipment                                Illumining
+                                                           Main                       High-intensity power LED
+                                                           Standby                    Nil
+                                                           Date of Installation
+     8    प्रिािी बीम तीव्रता/Effective beam               Main
+          intensity                                        Emergency
+      9   लें िनन /Lantern                                 NIL
+     10   RACON : NIL
+     11   NAIS: NIL
+          DGPS: NIL
+                                          Mains                                       230V, AC Supply
+                                         Emergency Power Source                       NIL
+     12   ऊर्ान के साधन/ Source         Solar Plant: NIL
+          of energy                     Capacity PV                 Numbers           Type         Battery
+          Solar panel for Main light    70 W/12V                    01 Nos            TBP          02 Nos, 12V/100Ah
+          Solar panel for automation    250W/ 24V                   02Nos                          02Nos, 12V/ 200Ah
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र
+          Automatic Voltage Stabilizers: NIL
+          बैिरर Batteries
+          Equipment                 Type                   Make      Volt             Amp/Hr                 Qty
+          Main Light                   Gel type            Exide     12V              100 Ah                  2
+14        Automation panel             SMF                 Exide     12V              200Ah                   2
+     15   बैिरर चार्न र/ Battery chargers: NIL
+     16   इं वर्ट र Inverter /UPS: NIL
+          स्वचलन उपकरण/ Automation Equipment
+
+     17   MAKE               PLC          HMI                   Power Supply      VSAT             Modem               Band
+                                                                             1.2m dia
+                                     Renu
+     RDS            Micrologix                            24 V DC            Parabolic         Hughes
+                                     Electronics
+                                                                             reflector
+                                     PVT LTD
+     आवि शमन उपकरण                                 Type of Extinguisher      Capacity          Nos         Make
+18   Fire Fighting Equipment                       Map 90                    2 kg                    3
+     संचार
+19                                                 BSNL landline : 04890-275231
+     Communication
+20   र्ल पूवतन
+                                                   01 No Open well, and rainwater collection sump provided.
+     Water Supply
+21   िू वम                                         Area
+     Land                                          Demarcation
+
+     इमारतें                                       1. Two storied buildings consisting of the LHA quarter and Inspection
+22   Buildings                                     quarter
+                                                   2. Equipment room at tower bottom
+23   कंपाउं ड लाइि                                 Nil
+     Compound Lights
+24   सीसीिीिी कमे रा/ CCTV CAMERA                  Nil
+25   स्टाफ/ Staff                                  One outsourced LHA
+26   पहुँ च ने का माध्यम                           By Ship from Kochi
+     Mode of approach
+
+27   उपलब्ध सुविधाए                                Post office, Primary health center, Upper Primary school, and
+     Facilities available                          Police Station are available on Bitra Island.
+
+                                                   Lighthouse Attendant,
+28   डाक पताPostal address                         Bitra Lighthouse, Bitra island,
+                                                   UT of Lakshadweep, 680 554
+29   मू ल्य का ब्योरा Cost details
+30   प्रितनन मे लाने का दे नां क
+     Date of commissioning                         07.05.1984
+

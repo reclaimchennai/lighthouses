@@ -1,0 +1,38 @@
+{
+  "nid": 1794,
+  "title": "Rewiring of Powerhouse, Lighthouse Tower & Staff Quarters at Chetwai Lighthouse.",
+  "summary": "Electrical rewiring of the powerhouse, lighthouse tower and staff quarters at Chetwai Lighthouse, Kerala, under the Cochin Directorate.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-13001/1/2019-MS; I/68338/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chetwai Lighthouse", "station_id": "chetwai-lighthouse", "kind": "lighthouse", "work": "Rewiring of powerhouse, lighthouse tower and staff quarters"}
+  ],
+  "scope": [
+    {"item": "Rewiring of Powerhouse, Lighthouse Tower & Staff Quarters", "qty": null, "unit": null, "site": "Chetwai Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3651238.0,
+    "emd_inr": 73025.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR from any nationalised/RBI approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam; original EMD due 18.12.2024 15:00. Small scale industries with valid NSIC/MSME certificate for the relevant stores/service exempt from EMD."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-12-06", "pre_bid": "2024-12-12", "bid_submission_end": "2024-12-19", "bid_opening": "2024-12-20"},
+  "eligibility": [
+    "Reputed OEM or their authorized suppliers, licensed Electrical Contractors, parties or Government Undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITC.pdf", "pages": 2, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 04.12.2024; Section 1 only, no BOQ, completion period or detailed eligibility. Bid download/submission 06.12.2024 11:00 to 19.12.2024 15:00; technical bid opening 20.12.2024 16:00."
+}

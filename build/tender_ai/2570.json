@@ -1,0 +1,39 @@
+{
+  "nid": 2570,
+  "title": "Procurement of Geyser, Refrigerator, Air Conditioner and Washing Machine for Different Lighthouses Under Kolkata Directorate.",
+  "summary": "Supply and installation of geysers, refrigerators, air conditioners and washing machines for various lighthouses under the Kolkata Directorate.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Kol-01008/1/2019-MAINTENANCE",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Geyser", "qty": null, "unit": null, "site": null},
+    {"item": "Refrigerator", "qty": null, "unit": null, "site": null},
+    {"item": "Air Conditioner", "qty": null, "unit": null, "site": null},
+    {"item": "Washing Machine", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 608868.0,
+    "emd_inr": 12200.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR from any commercial bank; exemption for valid MSME/NSIC registration. Original EMD/MSME/NSIC certificate to reach office on or before technical bid opening. Tender fee not applicable."
+  },
+  "period": {"completion": "45 days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2026-09-03", "pre_bid": "2026-09-09", "bid_submission_end": "2026-09-14", "bid_opening": "2026-09-15"},
+  "eligibility": [
+    "Reputed firms with experience in supply & installation of geyser, refrigerator, air conditioner and washing machine in Central Govt/State Govt/PSU/Autonomous bodies"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_2.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Document is only the NIT section (pages numbered 3-5); no quantities, lighthouse list or specifications included. Bid submission 03.09.2026 17:00 to 14.09.2026 15:00; technical bid opening 15.09.2026 16:00."
+}

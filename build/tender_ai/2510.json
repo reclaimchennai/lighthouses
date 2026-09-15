@@ -1,0 +1,59 @@
+{
+  "nid": 2510,
+  "title": "Design, Development and Maintenance of Website and Mobile Application (Android/IOS) for IALA Conference 2027",
+  "summary": "Request for proposal to engage an agency to design, develop, host and maintain the IALA Conference 2027 website and Android/iOS mobile app (with AI chatbot, registration and payment gateways) for DGLL; the conference is to be held at Jio World Convention Centre, Mumbai, 8-12 November 2027.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "P-27/1/2024-DP",
+    "issuing_office": "Directorate General of Lighthouses and Lightships, Noida"
+  },
+  "scope_level": "national",
+  "sites": [],
+  "scope": [
+    {"item": "Design, Development of the web & mobile application for IALA Conference 2027", "qty": "1", "unit": "Job", "site": null},
+    {"item": "Quarterly Security Audit Certification(s) for web & mobile application", "qty": "6", "unit": "Nos", "site": null},
+    {"item": "STQC Certification (GIGW 3.0)", "qty": "1", "unit": "Nos", "site": null},
+    {"item": "Annual Maintenance Contract (AMC) of the platform post Go-Live", "qty": "2", "unit": "Years", "site": null},
+    {"item": "One dedicated onsite resource after go-live and 2 months after completion of the event (monthly basis)", "qty": "18", "unit": "Month", "site": null},
+    {"item": "Cloud Hosting annual charges (on a MeITY empanelled CSP) post Go-Live", "qty": "2", "unit": "Years", "site": null},
+    {"item": "02-minute invitation video to be developed and hosted on website", "qty": "1", "unit": null, "site": null},
+    {"item": "One laptop and one mobile each Android and iOS with necessary tools (non-returnable)", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 21800000.0,
+    "emd_inr": 436000.0,
+    "tender_fee_inr": null,
+    "performance_security": "PBG of 5% of contract value within 10 days of work order, valid 60 days beyond completion of all contractual obligations",
+    "notes": "Estimated cost Rs 2.18 crore inclusive of GST. EMD by DD/BG in favour of Pay and Accounts Officer, LHLS, payable at Noida; original to reach by 29.07.2026 14:00. MSEs registered for similar works exempt with Bid Security Declaration (medium enterprises >Rs 50 crore turnover excluded). Payment milestones 5% SRS, 25% design/development/UAT, 10% international payment gateway, 30% go-live, 30% 60 days after event. LD 0.5% per week, max 10%. Selection by QCBS 70:30; minimum 70 technical marks."
+  },
+  "period": {"completion": "03 months (NIT); project timeline ~6 months development followed by 2 years O&M", "bid_validity": "90 days from the date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2026-07-15", "pre_bid": "2026-07-22", "bid_submission_end": "2026-07-29", "bid_opening": "2026-07-30"},
+  "eligibility": [
+    "Company/partnership/LLP/society registered in India, with Income Tax and GST registration",
+    "At least 5 years in design, development and maintenance of website/mobile application business",
+    "Average annual turnover of last three years (2023-24 to 2025-26) at least 30% of estimated value, i.e. Rs 65.40 lakh; positive net worth in last financial year",
+    "Similar works in last seven years ending 31.03.2026: three works each >= Rs 87.20 lakh, or two each >= Rs 1.09 crore, or one >= Rs 1.74 crore",
+    "Similar work: design, development and maintenance of website and mobile application for national/international conference/workshop for Govt/PSU/State Govt/autonomous body",
+    "Developed at least one national/international conference website during last 7 years",
+    "Not blacklisted by Central/State Govt; EMD as per tender",
+    "Technical presentation (10-15 minutes) before evaluation committee is mandatory"
+  ],
+  "specs": [
+    "AI-powered Gen AI (LLM-based) chatbot, 24x7, English and Portuguese NLU; optional WhatsApp/Telegram and voice",
+    "English and Hindi versions; translation facility; discussion forum",
+    "API integration with IALA Oxford software for abstracts/papers; minimum 2 foreign and Indian payment gateways",
+    "Native Android/iOS app on Play Store and App Store with QR check-in, push notifications, offline mode, live telecast",
+    "Bootstrap 5 mobile-first design, WCAG 2.1, GIGW 3.0 compliance; Google Maps API, GA4, reCAPTCHA v3",
+    "Hosting on MeitY-empanelled cloud in India for 2 years; CERT-In security audit; STQC certification (optional in scope text, priced in BOQ)",
+    "Page load <=3 s; 99.5% uptime SLA; downtime not more than 60 minutes/month after go-live",
+    "Go-live at least one year before event; all bugs resolved by end of July 2027; one full-time onsite developer with 3-5 years experience"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Tender for website.pdf", "pages": 45, "read": "mixed", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "RFP date printed as '15..07.2026'. Title in listing refers to IALA Conference 2027; RFP cover says 'for IALA Conference 2027'. Notice says tender forms downloadable from GeM, but Section III refers to uploading on the CPP portal (inconsistent). Period of completion given as 03 months in NIT but project timeline table gives ~6 months plus 18 months/2 years O&M. Page 33 (scanned) is only a 'Director General' signature block. Tender acceptance letter referred to as Annexure-VI in one place and Annexure-III elsewhere."
+}

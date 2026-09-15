@@ -1,0 +1,52 @@
+{
+  "nid": 1920,
+  "title": "Outsourcing services of VTS Manager and VTS Supervisor for operation of VTS GoK at Master Control Centre, Kandla (Gujarat) from 01/08/2025 to 31/07/2026.",
+  "summary": "GeM custom bid for outsourcing one VTS Manager and VTS Supervisors (one per shift, three shifts plus one reliever) to operate the Vessel Traffic Service Gulf of Kachchh Master Control Centre at Kandla, Gujarat, for one year from 1 August 2025.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/6307754; ESTVTS-04004(01)/1/2020-Estb",
+    "issuing_office": "VTS Directorate, Directorate of Lighthouses and Lightships, Gandhidham (Dy. Director General)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Master Control Centre, Kandla (VTS Gulf of Kachchh)", "station_id": null, "kind": "VTS", "work": "Manning MCC round the clock with VTS Manager (general shift) and VTS Supervisors (one per 8-hour shift)"}
+  ],
+  "scope": [
+    {"item": "Outsourcing services of VTS Manager for one year (01 VTS Manager, general shift, Monday to Saturday; rate includes wages, transportation, logistics, uniform, relieving, service charge)", "qty": "12", "unit": "per month", "site": "Master Control Centre, Kandla"},
+    {"item": "Outsourcing services of VTS Supervisors for one year (manning 3 shifts per day with 01 supervisor in each shift and 01 reliever)", "qty": "12", "unit": "per month", "site": "Master Control Centre, Kandla"}
+  ],
+  "money": {
+    "estimated_cost_inr": 12446700.0,
+    "emd_inr": 250000.0,
+    "tender_fee_inr": null,
+    "performance_security": "10% of contract value (or as per GeM, whichever is lower) as FDR/Bank Guarantee valid 15 months, within 15 days of award",
+    "notes": "EMD by DD/FDR/Bank Guarantee from Nationalized/RBI approved bank in favour of Dy. Director General, Directorate of Lighthouses and Lightships, payable at Gandhidham, valid 60 days or more from bid submission; original EMD to reach DDG-VTS by bid submission deadline. BOQ rates per month exclusive of GST, GST @18% shown separately. Penalty for delay in providing manpower 0.5% of monthly invoice per hour, capped at 10%. Payment monthly within 30 days of bills with attendance sheets."
+  },
+  "period": {"completion": "One year, 01/08/2025 to 31/07/2026 (extendable by one year on same terms)", "bid_validity": "180 days from date of submission", "warranty": null},
+  "dates": {"published": "2025-06-04", "pre_bid": "2025-06-16", "bid_submission_end": "2025-06-25", "bid_opening": "2025-06-25"},
+  "eligibility": [
+    "Similar services (providing VTS Manager/Supervisor to any VTS/VTMS/PMS in India) completed in last seven years: three >= 40%, two >= 50% or one >= 80% of estimated cost",
+    "Registered as Ship Manning and Management Agency / VTS Manpower Supply agency with regulatory agency of India",
+    "Average annual turnover over last three years (ending 31 March 2024) not less than 30% of estimated cost i.e. Rs 38 lakh, CA certified",
+    "Bank solvency certificate of Rs 38 lakh or more, not older than three months",
+    "Registered office in Gujarat; GST registration",
+    "Litigation disclosure and notarized non-blacklisting affidavit on Rs 100 stamp paper; tender acceptance letter (Annexure I); undertaking of unconditional price bid (Annexure II)",
+    "Technical evaluation score minimum 80% (experience 60, turnover 15, solvency 15, ITR 10 marks); L1 on total price"
+  ],
+  "specs": [
+    "VTS Manager (1): CoC Master Foreign Going + 5 years sea service (corrigendum: at least one tenure in command), or retired Naval/Coast Guard officer with command tenure; IALA C0103-1 and C0103-2 at joining, C0103-3 within three months",
+    "VTS Supervisor (03 + 01 reliever): per corrigendum CoC Chief Mate FG or Master NCV/FG with 3 years sea service; IALA C0103-1/2/3 modules",
+    "Personnel physically fit, up to 65 years; residence within Gandhidham/Adipur to reach site within 45 minutes; biometric attendance",
+    "Manpower +/-25% variation at accepted rates; VTS Operators (four per shift) provided through a separate agency"
+  ],
+  "corrigenda": [
+    {"date": "2025-06-13", "change": "Clause 6.1(A) and 6.1(B) essential qualifications revised: VTS Manager needs CoC Master FGM with at least one tenure in command of foreign-going ship, or retired Naval/Coast Guard officer with one command tenure; one-year VTS Manager experience moved to desirable. VTS Supervisor count stated as 03 + 01 reliever, CoC Chief Mate FG or Master NCV/FG; VTS operation experience made desirable."}
+  ],
+  "documents": [
+    {"file": "ATC.pdf", "pages": 29, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is the buyer ATC/tender document (Sections I-VIII, Annexures I-II) followed by the 13.06.2025 corrigendum; the GeM system bid document itself is not included. GeM bid number and date (04-06-2025) come from the corrigendum. Pre-bid 16/06/2025 11:30 at Deep Bhavan, Gandhidham; bid submission and EMD by 25/06/2025 16:00; technical opening 25/06/2025 16:30. Rs 38 lakh stated as 30% of estimated cost although 30% of Rs 1,24,46,700 is about Rs 37.3 lakh. Custom bid under 'Non-IT professional services'."
+}

@@ -1,0 +1,137 @@
+                                  मास्टर लेज़र/MASTER LEDGER
+                           ओलाकुडा दीपस्तंभ/Olakuda Lighthouse
+क्रम संख्या/                 नाम /Name
+   Sr.No                                                                     वििरण/Description
+     1         ए.एल.ओ.एल/A.L.O.L.                 F 0906
+     2         स्थान/Position                     Lat. 09° 19.056’ N, Long. 079° 19.84’ E
+     3         ऊंचाई/Elevation                    18.5 M (Above MSL)
+     4         अविलक्षण/Characteristic            Group Flash (2) White every 20 Seconds
+                                                  (0.75+2.0+0.75+16.5)
+     5         नॉविकलमाइलमे दूरी                  Luminous Range           – 15 NM
+               Range in miles                     Geographical Range       – 12.7 NM
+     6         दीपस्तं ििािर/L.H.Tower            Type                            C.C Block Masonry Rectangular
+                                                                                    Tower
+                                                  Height                            15 M
+                                                  Colour Scheme                     Red and White Spiral Bands
+     7         ऑविकलउपकरण                         Optic
+               Optical equipment                  Make                              Make: LMV Spain, Model: BDL 250.
+                                                  Type                              LED FLASHER
+                                                  Size                              2 Tier Arrangement
+                                                  No. of lens                       ---
+                                                  Area of dioptric portion
+                                                  Area of catadioptric portion
+                                                  Divergence                        N/A (Horizontal)
+                                                  Main/Emergency                    4º (Vertical)
+                                                  Duration of Flash                 0.75 Sec
+                                                  Main /Standby/Emergency
+                                                  Pedestal                          N/A
+                                                  Rotation Device                   N/A
+                                                  R.P.M.                            N/A
+                                                  Illuminant
+                                                  Main                              LED FLASHER (2 Tier Illuminant)
+                                                  Standby                           ---
+                                                  Emergency:                        ---
+                                                  Date of Installation              28-07-2017 (Present Illuminant)
+     8         प्रिािीबीमतीव्रता/Effective beam   Main                              5900 cds
+               intensity                          Emergency
+     9         लें िनन /Lantern                   Diameter                          ---
+                                                  Height of glazing                 ---
+                                                  No. of panes                      ---
+                                                  Ventilators                       ---
+    10         RACON                                   Sr. No                       N/A
+     Make                     Model              Code                                    Band                      Date of
+                                                                                                                   Installation
+
+11   NAIS
+     Base Station                                N/A
+
+     Model                    Type               Power                                   MMSI
+                              N/A                N/A                                     N/A
+     Communication
+     Equipment
+                              Band               Modem
+                              N/A                N/A
+
+     DGPS
+     Transmitter Make         Frequency          Power Output           RS 1 ID          RS -II     Beacon         Date of        Da
+                                                                                         ID         ID             commis         te
+                                                                                                                   sioning        of
+                                                                                                                                  Re
+                                                                                                                                  ca
+                                                                                                                                  pit
+                                                                                                                                  ali
+                                                                                                                                  zat
+                                                                                                                                  io
+                                                                                                                                  n
+     N/A                      N/A                N/A                    N/A              N/A        N/A            N/A            N/
+                                                                                                                                  A
+
+12   ऊर्ान केसाधन             Main Supply                                                TNEB Electric Main Supply 3 Ø 440
+     Source of energy                                                                    v,50Hz
+                              Stand By                                                   Solar Power 150 W/24 V × 3 Panels
+                              Power Source                                               ---
+                              Solar Plant (Off Grid)
+                              Capacity PV          Number of Solar Panels      Type               Battery                 Bank
+                              1.5 KWp              260W/24 V - 7 Nos.          Mono-Crystalline   2 V/600 AH – 12 Nos.    24 V / 600
+                                                                                                                          AH
+13   स्वचावलतिोल्टे र्स्टे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model                  Capacity      Input                     Output                Phase        Qty
+     SOUNDRY POWER GLOBUS-                       5 KVA         170 V-270 V               230 V                 Single       1 No.
+     SYSTEMS              170 V-270 V
+14   बैिरर / Batteries
+     Equipment         Type                      Make          Volt           Amp. Hr.       Qty            Remarks
+     Main Light        Tubular Lead acid         Exide         2V             600 AH         12 Nos.        Main Light run on 24
+                                                                                                            Volt DC Supply
+15   बैिररचार्न र/ Battery charger
+
+     Equipment                 Make        Model Type                         Rating                                Qty
+     General Purpose             Velsine    ---       ---                           80 Amps / 0 – 40 V                1 No.
+     Automation/Street Light    AE Make     ---      ----                           40 Amps / 0 – 40 V                1 No.
+16   इं वर्ट रInverter /UPS
+     Equipment Nos          Make     Model                              Type             Rating        Qty      input          Out
+                                                                                                                               put
+     Main Light ---    ---     ---                                ---              ---          ---      ---               ---
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE PLC              HMI                     Power Supply         VSAT                                   Modem       Ban
+                                                                                                                           d
+     RDS       Allen-Bradley    Renu Electronics   230 V AC             1.25 m dia Parabolic reflector         Huges       EX.
+                                                                                                                           C
+18   आविशमनउपकरण                             Type of                    Capacity                Nos            Make
+     Fire Fighting Equipment                 Extinguisher
+                                             DCP Type                   5 kg                    1              Bharat
+                                             CO2                        4.5 Kg                  1              Excellent
+                                             Foam Type                  9 Ltr                   1              Bharat
+19   संचार                                   N/A
+     Communication
+20   र्लपूवतन / Water Supply                 Rain water Harvesting Plant fitted with 1 HP water pump – 1 No.
+21   िू वम                                   Area                                        0.525 hectare
+     Land                                    Demarcation                                     Masonry Brick wall
+22   इमारतें                                 Power House, one unit of IQ and Store Room – 1 No.
+     Buildings                               LHA Quarters – 1 No.
+23   कंपाउं डलाइि                            Solar Powered LED Street Lights – 1 No.
+     Compound Lights                          LED Street Lights – 5 Nos.
+
+24   सीसीिीिीकमे रा                          Camera                                          05 Nos.
+      CCTV CAMERA                            DVR                                             1 No.
+25   स्टाफ                                   Sl. No           Designations
+     Staff
+                                             1               Light House Attendant
+26   पहुँ चने कामाध्यम                       By rail up to Rameswaram and then by road for 9 Kms up to
+     Mode of approach                        Lighthouse.
+27   उपलब्धसुविधाए                           Post Office, Dispensary, High School, Police Station all are within
+     Facilities available                    9 Kms.
+28   डाकपताPostal address                    Olakuda Lighthouse,
+                                             Olakuda Village,
+                                             Ramanathapuram District,
+                                             Tamil Nadu State
+                                             Pin: 623 526.
+29   मू ल्यकाब्योराCost details
+                                             ₹ 31 Lakhs
+     (At the time of Construction)
+30   प्रितननमे लाने कादे नां क
+                                             09.10.2005
+     Date of commissioning
+

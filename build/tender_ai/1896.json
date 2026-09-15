@@ -1,0 +1,42 @@
+{
+  "nid": 1896,
+  "title": "Special repair and maintenance (Civil and Electrical Work) of departmental quarter and I.Q. at B-14 Himgiri Apartment Sector-34, Noida",
+  "summary": "Special civil and electrical repair and maintenance of the DGLL departmental quarter and inspection quarter at B-14 Himgiri Apartment, Sector-34, Noida.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "N-14001/1/2024-NC",
+    "issuing_office": "Directorate General of Lighthouses and Lightships, Noida"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "B-14 Himgiri Apartment Sector-34, Noida", "station_id": null, "kind": "other", "work": "Special repair and maintenance (civil and electrical) of departmental quarter and inspection quarter"}
+  ],
+  "scope": [
+    {"item": "Special repair and maintenance (Civil and Electrical Work) of departmental quarter and I.Q.", "qty": null, "unit": null, "site": "B-14 Himgiri Apartment Sector-34, Noida"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3240218.0,
+    "emd_inr": 64804.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost inclusive of 18% GST. EMD by DD of any nationalized bank in favour of Pay & Accounts Officer of Lighthouses & Lightships, Noida, or bank guarantee (Annex-II format) in favour of the Director General of Lighthouses & Lightships, Noida. Tender fee Nil."
+  },
+  "period": {"completion": "Three months", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-05-06", "pre_bid": "2025-05-15", "bid_submission_end": "2025-05-26", "bid_opening": "2025-05-27"},
+  "eligibility": [
+    "Enlisted contractor with CPWD, State PWD, Railways, MES, NOIDA authority, other Central and State organizations under appropriate classification of bid amount",
+    "Satisfactory completion of similar works during last 7 years: three works each >= 40%, or two works each >= 60%, or one work >= 80% of estimated cost",
+    "Valid registration certificate",
+    "Documentary evidence of adequate financial standing: annual financial turnover not less than 30% of estimated cost",
+    "Permanent Account Number"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Himgiri  NIT HINDI and  English.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 05/05/2025, Section I only (Hindi and English); no BOQ. Bid download/submission 06/05/2025 11:00 to 26/05/2025 15:00; pre-bid 15/05/2025 11:30; technical bid opening 27/05/2025 16:00. Hindi version prints the opening date as 27/05/2024 (typo). Last date for original EMD is 26/05/2025 15:00 in Hindi but 11:30 AM in English. English eligibility list is numbered 6-10. Issued by DGLL headquarters, Noida; the work is at a departmental residential building, not a lighthouse."
+}

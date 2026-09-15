@@ -1,0 +1,157 @@
+                        मास्टर लेजर/MASTER LEDGER
+                                नबीबंदर दीपस्तंभ / Navibandar Lighthouse
+
+
+क्रमसंख्या/             नाम /Name
+                                                                     वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.              F 0404
+     2        स्थान/Position                  Lat : 21º 27.0' N        Long : 69º 47.2' E
+    3         ऊंचाई/Elevation                 18 M (Above MSL)
+    4         अभिलक्षण/Characteristic         Fl(1)W10 Sec. (1+9=10 Sec)
+    5         नॉटिकलमाइलमेदरू ी               13 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower          Type                    Round concrete Tower
+                                              Height                  15M
+                                              Colour Scheme           White
+    7         ऑप्टिकलउपकरण                    Optic
+              Optical equipment               Make                     Sealite
+                                              Type                     LED lantern
+                                              Size
+                                              No. of lens
+                                              Area of dioptric portion
+                                              Area of catadioptric
+                                              portion
+                                              Divergence
+                                              Main/Emergency           5º (Vertical)
+                                              Duration of Flash       10 Sec
+                                              Main
+                                              /Standby/Emergency
+                                              Pedestal                MS Angle
+                                              Rotation Device         NIL
+                                              R.P.M.                  NIL
+                                              Illumining              LED
+                                              Main
+                                              Standby
+                                              Emergency:
+                                              Date of Installation    01/08/2008
+    8         प्रिािीबीमतीव्रता/Effective     Main
+              beam intensity                  Emergency
+    9         लेंिनन/Lantern                  Diameter                2.0M
+                                              Height of glazing       1.0M
+                                              No. of panes            8
+                                          Ventilators                      7
+10   RACON                                     Sr. No
+     Make               Model             Code                             Band                           Date of
+                                                                                                          Installation
+     NIL                NIL                          NIL                   NIL
+11   NAIS
+     Base Station
+
+     Model              Type              Power                            MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna       Band              Modem
+
+     DGPS
+     Transmitter Make Frequency           Power             RS 1 ID        RS -II ID Beacon               Date of       Date
+                                          Output                                     ID                   commis        of
+                                                                                                                        Recap
+                                                                                                          sioning       italizat
+                                                                                                                        ion
+     NIL                NIL               NIL               NIL            NIL           NIL              NIL           NIL
+
+12   ऊर्ानकेसाधन/       Mains                                              230V/1-phase/50 Hz
+     Source of energy   Diesel Generators                                  NIL
+                        Engine
+                        Make/Type                     Qty         Rating   No of Cylinder           RPM             Cooling
+                        NIL                           NIL         NIL      NIL                      NIL             NIL
+                        Alternator
+                        Make/Type                     Qty         Rating   Voltage/Amp              Frequency       Phase
+                        NIL                           NIL         NIL      NIL                      NIL             NIL
+                        Solar Plant
+                        Capacity PV                   Numbers of           Type of       Battery                    Bank
+                                                      Panels               Panels
+                        24 Nos                        60 Nos               Mono          2V/600Ah , 48 Nos          1
+                                                                           Crystalline
+                        Solar Plant for RACON
+                        Capacity PV                   Numbers              Type          Battery                    Bank
+                        NIL                           NIL                  NIL           NIL                        NIL
+                        Solar Plant for Main Light
+                        Capacity PV                   Numbers              Type          Battery                    Bank
+                        70 Watt                       02                                 2V/200Ah                   NIL
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make               Model             Capa        Input                Output                         Phase     Qty
+     V-Guard            VGMW300           3KV         170-290 VAC          230 Volt + 10%                 1         1
+                                          A
+14        बैिरर
+          Batteries
+          Equipment                Type               Make             Volt   Amp/Hr                Qty
+          PSS NAIS                  NIL                NIL             NIL      NIL                 NIL
+          Genset                    NIL                NIL             NIL      NIL                 NIL
+          Automation               SMF                Exide            12V     100Ah                 2
+          DGPS                      NIL                NIL             NIL      NIL                 NIL
+     15   बैिररचार्नर/ Battery charger
+
+          Equipment            Make            Model      Type                Rating                Qty
+          General Purpose        Aplab         L3220                            0 to                 1
+                                                                               20Amp
+          Automation               NIL  NIL                      NIL            NIL                 NIL
+     16   इंवटट रInverter /UPS
+          Equipmen Nos Make Model                                  Type       Rating            Qty input          outp
+          t                                                                                                        ut
+          Main           NIL    NIL      NIL                           NIL           NIL        NIL         NIL     NIL
+          Light
+          NAIS PSS 1           Lumin   LD1000IN                    On         1KVA              2         230V     230V
+                               ous                                 Line
+          DGPS          NIL    NIL       NIL                       NIL        NIL               NIL       NIL      NIL
+
+
+     17   स्वचलनउपकरण
+          Automation Equipment
+          MAKE          PLC             HMI          Power Supply             VSAT            Modem        Band
+          RDS           Allen Bradley   Renu         AC                       NIL             Robust       NIL
+     18   आप्ननशमनउपकरण                        Type of Extinguisher           Capacity          Nos         Make
+          Fire Fighting Equipment              ABC Type                       4 kg              4
+                                               Water Co2                      NIL               NIL         NIL
+                                               Foam Type                      NIL               NIL         NIL
+     19   संचार                                NIL
+          Communication
+     20   र्लपूर्तन                            ½ inch water connection from Gram Panchayat
+          Water Supply
+     21   िूभम                                 Area                                        200 sq meter(20x10)
+          Land                                 Demarcation                                 Masonary compound wall on
+                                                                                           all the four sides
+     22   इमारतें                              Structure: 1                                Powerhouse
+          Buildings
+     23   कंपाउं डलाइि                          1
+          Compound Lights
+     24   सीसीिीिीकमेरा                        NIL
+          CCTV CAMERA                          NIL
+25   स्िाफ                           Sl. No     Designations
+     Staff                           1          Light House Attendant
+
+
+
+26   पहुँचनेकामाध्यम                 Porbandar to 43 Km by road on Veraval Highway
+     Mode of approach
+27   उपलब्धसविधाए                    Sub Post Office, High School, Dharmashala.
+     Facilities available
+
+
+
+
+28   डाकपताPostal address            Navibandar lighthouse
+                                     Directorate of lighthouses & lightships
+                                     P.O Navibandar, Tal & Dist: Porbandar,
+                                     Pin Code: 360 577.
+29   मल्
+       ू यकाब्योराCost details       Construction: Rs.70,000/-
+     (At the time of Construction)   Cost of equipment: Rs. 4,74,000/-
+
+30   प्रितननमेलानेकादे नांक                                    1986
+     Date of commissioning
+

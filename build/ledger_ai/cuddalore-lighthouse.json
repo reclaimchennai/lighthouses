@@ -1,0 +1,41 @@
+{
+  "slug": "cuddalore-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Cuddalore Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1991,
+  "alol": "F 0910",
+  "position": {"lat_text": "11° 42.21' N", "lon_text": "79° 46.36' E", "lat": 11.7035, "lon": 79.772667},
+  "elevation_m": 19,
+  "characteristic_text": "WHITE FLASH EVERY 5 SECS (FL 2.0 + EC 3.0)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": "FL 2.0 + EC 3.0",
+    "sequence_s": [2.0, 3.0],
+    "flash_duration_s": 2.0
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 12, "geographical_nm": null, "text": "12 NM (unlabelled range)"},
+  "tower": {"type": "CIRCULAR RCC Tower", "height_m": 19, "colour_scheme": "White"},
+  "optic": {
+    "make": "LMV, SPAIN", "model": null, "type": "LED FLASHER", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED FLASHER; Rotation Device '-'; R.P.M. '-'",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "LED FLASHER"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "NA"},
+  "ais": {"present": false, "text": "NAIS Make '-', Base Station '-'"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "Mains: State Electricity Board, Tamilnadu; Stand by UPS; Diesel Generator all '-'; Solar plant 400 w, 4 panels, off-grid, 4 x 12 V 150 AH batteries"},
+  "issues": []
+}

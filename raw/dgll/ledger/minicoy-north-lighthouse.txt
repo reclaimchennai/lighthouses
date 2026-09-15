@@ -1,0 +1,63 @@
+              मास्टर लेजर/MASTER LEDGER
+क्रमसं            नाम /Name
+ ख्या/                                                 वििरण/Description
+Sr.N
+   o
+   1     ए.एल.ओ.एल/A.L.O.L.            F0758.1
+   2     स्थान/Position                Lat08o 17.74´ N, Long 73o 03.95´ E
+   3     ऊंचाई/Elevation               1m above sea level + 22m
+   4     अविलक्षण/Characteristic       Flash (2) white every 10 seconds.
+   5     नॉविकल माइल मे दू री          Luminous: 10Nm
+         Range in miles                Geographical: 14Nm
+    6    दीपस्तंि िािर/L.H.Tower       Type                17m BMT Square + 5m trestle
+                                                           tower
+                                       Height              22M
+                                       Colour Scheme       Black and white Band
+    7    ऑविकल उपकरण                   Optic
+         Optical equipment             Make                MBL-160 Marine Flasher
+                                       Type                LED
+                                       Divergence          360º (Horizontal)
+                                       Main/Emergency      <30º (Vertical)
+
+                                       Duration of Flash   Flash (2) white every 10
+                                       Main                seconds.
+                                       Illuminant          LED
+                                       Date of             31-01-2018
+                                       Installation
+    8    ऊर्ाा के साधन/     Mains                          Lakshadweep Electricity Dept.
+         Source of                                         Power supply 230V single
+         energy                                            phase 50Hz
+                            Power Source                   Solar Panel 12V, 70W for main
+                                                           light 2Nos.12V100AH batteries
+9        बैिरर Batteries
+         Equipment         Type        Make Volt           Amp/Hr      Qty
+         Mainlight         Sealed      Exide 12V           100 AH      2
+         Automation        Lead acid   Exide 12V           150 AH      2
+    10   आवि शमन उपकरण                 Type of             Capacity      Nos      Make
+         Fire Fighting Equipment       Extinguisher
+                                       DCP Type            2 kg          1        Flamebli
+                                                                                  tzz
+    11   संचार                         04892 – 222264(Office Broadband).
+         Communication                 Email ID- minicoydgps@gmail.com
+    12   र्ल पूवता                     N/A
+         Water Supply
+13   िूवम                            Area                              620Sq. Mt.
+     Land                            Demarcation                    Masonry Brick
+                                                                    compound wall
+14   स्टाफ                           Maintained by Minicoy RCS staff.
+     Staff
+
+15   पहुँ चने का माध्यम              Passenger ship from Kochi.
+     Mode of approach
+16   उपलब्ध सुविधाए                  Govt. Hospital, Police station, Post office, Govt.
+     Facilities available            Higher Secondary School, Jawahar Navodaya
+                                     Vidyalaya, etc within 5km from Light house
+17   डाक पताPostal address           The Assistant Engineer(El),
+                                     Minicoy south Lighthouse
+                                     Minicoy, UT of Lakshadweep-682559
+
+18   मूल्यका ब्योराCost details      N/A
+     (At the time of Construction)
+19   प्रितानमे लाने का दे नां क      19/11/2008
+     Date of commissioning
+

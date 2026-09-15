@@ -1,0 +1,133 @@
+                                 मास्टर लेज़र/MASTER LEDGER
+                     कुथनकुली दीपस्तंभ/Kuthenkuli Lighthouse
+क्रम संख्या/               नाम /Name
+    Sr.No                                                                           वििरण/Discription
+      1        ए.एल.ओ.एल/A.L.O.L.                    F 0728
+     2         स्थान/Position                        Lat .08° 13.39’ N , long 77° 46.98’ E
+     3         ऊंचाई/Elevation                       51M (Above MSL)
+     4         अभिलक्षण/Characteristic               Fl (3) W 20 sec (fl 1.5)
+                                                     (1.5+2+1.5+2+1.5+11.5=20Sec)
+     5         नॉटिकलमाइलमेदरू ी                     20NM
+               Range in miles
+     6         दीपस्तंििािर/L.H.Tower                Type                               RCC Circular Structure
+                                                     Height                             45 M
+                                                     Colour Scheme                      Red and Yellow Chequered Band
+     7                 ऑप्टिकलउपकरण                  Optic                              6th Order
+                                                     Make                               Aga
+                       Optical equipment
+                                                     Type
+                                                     Size                               150mm
+                                                     No. of lens                        6 Panels
+                                                     Area of dioptric portion
+                                                     Area of catadioptric portion
+                                                     Divergence                         7.6º (Horizontal)
+                                                     Main/Emergency
+                                                                                        7.6º (Vertical)
+                                                     Duration of Flash
+                                                     Main /Standby/Emergency
+                                                     Pedestal                           -
+                                                     Rotation Device                     20KG Stepper motor with Drive Controller
+                                                     R.P.M.                             1.5
+                                                     illumining
+                                                     Main                               90W LED Main Light (12X5 Array) Warm
+                                                                                        White Colour
+                                                     Standby                            -
+                                                     Emergency:                         -
+                                                     Date of Installation               29-10-2020
+     8         प्रिािीबीमतीव्रता/Effective beam      Main                               124937 candela
+               intensity                             Emergency                          -
+     9         लेंिनन/Lantern                        Diameter                           2.0 m
+                                                     Height of glazing                  0.85 m
+                                                     No. of panes                       12 No’s
+                                                     Ventilators                        6 No’s
+    10         ऊर्ानकेसाधन/Source     Mains                                             Tamilnadu Electricity Board
+               of energy              Power Source                                      3 phase /440V AC supply 10KW
+                                      Engine 1                                                      3 Phase Generator
+                               Make/Type                       Qty         Rating        No of           RPM                   Cooling
+                                                                                         Cylinder
+                               Kirloskar                       1           32 BHP              3         1500                  Air
+                               Alternator
+                               Make/Type                       Qty         Rating        Voltage/Amp     Frequency             Phase
+                               Kirloskar                       1           20 KVA        415V/27.8A      50Hz                  Three
+                               Capacity PV                     Numbers                   Type       Battery                    Bank
+                               2 KW                            6 No’s                    Goldi      8 No’s                     01 No.
+                                                                                         solar      12 V/ 200 AH
+                                                                                         make
+                               Solar Plant for Street light
+                               Capacity PV                     Numbers                   Type       Battery                    Bank
+                               2 KW                            06 No’s                   Goldi      08 No’s                    01 No.
+                                                                                         solar      12V/200AH
+                                                                                         make
+11   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                    Model                Capa         Input                     Output               Phase            Qty
+                                                  city
+     Globus                  Servo                5            170-270 V                 230 V                1 phase          4 No
+                             controlled           KVA
+12   बैिरर
+     Batteries
+     Equipment               Type                 Make                   Volt            Amp/                 Qty
+                                                                                         Hr
+     Genset                  Lead acid              KOEL                 12V             75AH                  1
+13   इंवर्ट रInverter /UPS
+     Equipment Nos           Make             Model                        Type          Rating        Qty         input             output
+     Main Light 1 No         Powerone                    ---               -              5K VA        1No          96 VDC /         230VAC
+                             Micro                                                                                  230 VAC
+                             Systems
+     Street         1 No     Powerone                    --                -               5K VA       1No         96 VDC /          230VAC
+     Light                   Micro                                                                                 230 VAC
+                             Systems
+     Spare          1No      Powerone                    --                -               5K VA       1No         96 VDC /          230VAC
+                             Micro                                                                                 230 VAC
+                             Systems
+14   आप्ननशमनउपकरण                                Type of Extinguisher              Capacity          Nos      Make
+     Fire Fighting Equipment                      DCP Type                          6 kg              4        Res Guardo
+                                                  Co2                               2 Kg, 9Kg         4, 1     Res Guardo
+                                                  Foam Type                         --                --       --
+15   संचार                                        BSNL telephone                                    04637-293290
+     Communication
+16   र्लपर्ू तन                                   Panchayat water supply & Local Purchase of Water Load from Private
+                                                  Firm
+     Water Supply
+17   िभू म                                        Area
+     Land                                         Demarcation
+
+18   इमारतें                                                  04 Nos                                (i)Tower- 1 No
+     Buildings
+                                                                            (ii)Power House-cum Office
+                                                                           room - with 2 No’s of Duty
+                                                                           staff rooms- (in PH building)
+                                                                            (iii)Pump house – 2 No’s
+                                                                           (iv)Inspection quarters- 1 No
+19   कंपाउं डलाइि                                                          LED Light fitted on G.I Pole-02
+                                                                           Nos
+     Compound Lights
+                                                                           Garden light-1 No
+                                                                           Gate light- 2 Nos
+
+20   स्िाफ                           Sl. No       Designations
+     Staff                           1             Navigational Assistant Gr-II – 2 No’s
+                                     2             Outsorced staff (Security)- 1 No
+                                                   Outsorced staff (Housekeeping)- 1 No
+21   पहुँचनेकामाध्यम                 Nearby Railway station is Kanyakumari,
+     Mode of approach                Nearest airport is Trivandrum International airport & domestic
+                                     Tuticorin airport,
+                                     From Kanyakumari to Kuthenkuli by road about 35 KM
+                                     From Tirunelveli to Kuthenkuli by road about 83 KM
+22   उपलब्धसविधाए                    The nearest Post office and Dispensary at Idinthakarai and Police
+     Facilities available            Station are available at Koodankulam.
+
+
+23   डाकपताPostal address            The Navigational Assistant Gr-I
+                                                            Kuthenkuli Lighthouse
+                                                              Ideinthakarai post
+                                                             Radahapuram Taluk
+                                                              Tirunelveli District
+                                                             Tamilnadu-627104
+
+24   मल्ू यकाब्योराCost details                                       --
+     (At the time of Construction)
+25   प्रितननमेलानेकादे नांक                                   29th October 2020
+     Date of commissioning
+

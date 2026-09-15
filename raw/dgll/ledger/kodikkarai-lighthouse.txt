@@ -1,0 +1,176 @@
+                           मास्टर लेज़र/MASTER LEDGER
+                       कोडिकरै दीपस्तंभ/Kodikkarai Lighthouse
+क्रमसंख्या/               नाम /Name
+   Sr.No                                                                    वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0902
+    2         स्थान/Position                     Lat.10° 16’.74” N , long 79° 49’59” E
+    3         ऊंचाई/Elevation                    48M (Above MSL)
+    4         अभिलक्षण/Characteristic            Fl (1) W 10 sec (fl 0.22(F)+9.8)
+
+    5         नॉटिकलमाइलमेदरू ी                  19 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                             Round & Concrete
+                                                 Height                           48 M
+                                                 Colour Scheme                    Red and White Band (circular)
+    7         ऑप्टिकलउपकरण                       Optic                            Revolving Beacon
+                                                 Make                             LMV BGC 500HI
+              Optical equipment
+                                                 Type
+                                                 Size                             22cm x 50cm
+                                                 No. of lens                      6
+                                                 Area of dioptric portion
+                                                 Area of catadioptric portion
+                                                 Divergence
+                                                 Main/Emergency
+                                                 Duration of Flash                0.22 sec
+                                                 Main /Standby/Emergency
+                                                 Pedestal                         Revolving
+                                                 Rotation Device                  stepper motor
+                                                 R.P.M.                           1 r.p.m
+                                                 illumining                       70W Metal Halide lamp
+                                                 Main                             230V/70W Single ended Metal Halide
+                                                                                  Lamp
+                                                 Standby                          -
+                                                 Emergency:                       -
+                                                 Date of Installation             12.04.2016
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                             11000 cds
+              intensity                          Emergency                        -
+    9         लेंिनन/Lantern                     Diameter                         2m
+                                                 Height of glazing                1.5 m
+                                                 No. of panes                     6 Nos Toughened glass
+                                                 Ventilators                      9 Nos
+    10        RACON                                   Sr. No
+              Make                   Model       Code                             Band                 Date of
+                                                                                                       Installation
+11   NAIS
+     Base Station
+     Base stations 2 Nos Sl.NO 5342,
+     5363
+     Model                   Type                Power                             MMSI
+     R40
+     Communication
+     Equipment
+     VSAT Antenna            Band                Modem
+       2.4m dia                                  HUGHES HT2300
+       Parabolic
+       reflector
+     DGPS
+     Transmitter Make        Frequency           Power Output      RS 1 ID         RS -II        Beacon        Date of     Dat
+                                                                                   ID            ID            commis      e of
+                                                                                                               sioning     Re
+                                                                                                                           cap
+                                                                                                                           itali
+                                                                                                                           zati
+                                                                                                                           on
+
+
+
+12   ऊर्ानकेसाधन/Source     Mains                                                  Tamilnadu electricity board
+     of energy              Power Source                                           3 phase /440V AC supply &
+                                                                                   25KW On-Grid solar powerplant
+                                                                                   commissioned on 19.12.2016 by
+                                                                                   Access solar Ltd., 25 Kw Delta
+                                                                                   Invereter.
+                            Engine 1                                                                (NIL)
+                            Make/Type                    Qty       Rating          No of             RPM             Cooling
+                                                                                   Cylinder
+                            Kirloskar/TA2 SRII           1 No      12HP            2 Nos             1500            Air
+                            Alternator
+                            Make/Type                    Qty       Rating          Voltage/Amp       Frequency       Phase
+                            Kirloskar                    1 No      5KVA            230V / 20A        50HZ            1
+                                                                                                                     PHASE
+                            Engine 2                                                                (NIL)
+                            Make/Type                    Qty       Rating          No of             RPM             Cooling
+                                                                                   Cylinder
+                            NIL                          NIL       NIL             NIL               NIL             NIL
+                            Solar Plant for Main light
+                            Capacity PV                  Numbers                   Type         Battery              Bank
+                            1.25 KW (31.2 V/250 W)       5 Nos                      SSL-        12 Nos               01 No.
+                                                                                    60P         2 V/ 600 AH
+                            Solar Plant for 3.5KW off grid (used in Automation and NAIS)
+                            Capacity PV                  Numbers                   Type         Battery              Bank
+                             3.5KW (31.3 V/ 250          14 Nos.                   SSL-         24 Nos                   01 No.
+                             W)                                                    60P          2V/500AH
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model                  Capa    Input                     Output                   Phase    Qty
+                                                 city
+          Globus                  Servo               5             0V-300 V                230 V              1 phase       1 No
+                                  controlled          KVA
+14        बैिरर
+          Batteries
+          Equipment               Type                Make           Volt                   Amp/      Qty
+                                                                                            Hr
+          PSS NAIS                       -                 -                   -               -               -
+          Genset                         -                 -                   -               -               -
+          Automation                     -                 -                   -               -               -
+          DGPS                           -                 -                   -               -               -
+     15   बैिररचार्नर/ Battery charger
+
+          Equipment               Make                Model Type                            Rating Qty
+          General Purpose         AE make             -     -                               0-30   4 No
+                                                                                            V/ 30
+                                                                                            A
+
+     16   इंवर्ट रInverter /UPS
+          Equipment Nos           Make          Model                          Type         Rating       Qty       input     output
+          Main Light 1 No         Microtek                     --              Pure sine    1.5 KVA      1No         24 V/   230VA
+                                                                               wave                                  DC &    C
+                                                                                                                    230 V
+                                                                                                                      AC
+          3.5 KW off     1 No     Luminous                     --              Pure sine     3KW         1No       48 V/     230VA
+          grid                                                                 wave                                DC &      C
+                                                                                                                   230 V
+                                                                                                                   AC
+     17   स्वचलनउपकरण
+          Automation Equipment
+          MAKE        PLC                    HMI               Power Supply           VSAT            Modem          Band
+          RDS         Allen Bradley          Renu              24 V DC                1.2 m dia       Hughes         -
+                                             electronics                              Parabolic
+                                                                                      reflector
+     18   आप्ननशमनउपकरण                               Type of Extinguisher            Capacity           Nos        Make
+          Fire Fighting Equipment                     DCP Type                        2 kg               4          Queenfire
+                                                      Co2                             2 Kg               1          Intime
+                                                      Foam Type                       9 Ltr              2          Excellent
+     19   संचार                                       BSNL telephone                                  04369-272415
+                                                      E-mail                                          kodikkarailighthouse@gmail.
+          Communication
+                                                                                                      com
+     20   र्लपर्ू तन                                  Rain water collection tank
+          Water Supply
+     21   िभू म                                       Area                                            2.29.5 Hectares
+          Land                                        Demarcation                                     Not Available
+
+     22   इमारतें                                     RCC Structure: 06 Nos                           Power House-cum Office
+          Buildings                                                                                   room, Inspection
+                                                                                                      quarters, NA-I quarters
+                                                                                                      and NA-II quarters,
+                                                                              Transit quarters, LHA &
+                                                                              LHS quarters
+23   कंपाउं डलाइि                    LED Light fitted on G.I Pole-10 Nos(
+                                     Street Lights)
+     Compound Lights
+                                     Gate Light fitting 2 Nos
+24   सीसीिीिीकमेरा                   NIL
+      CCTV CAMERA
+25   स्िाफ                           Sl. No         Designations
+     Staff                           1             Navigational Assistant Gr-I – 1 No
+                                     2             Navigational Assistant Gr-II- 1 No
+26   पहुँचनेकामाध्यम                 Connected by Road and Bus service available from Vedaranyam.
+                                     Nearest Railway station is Nagapattinam 58 Kms from the Lighthouse.
+     Mode of approach
+27   उपलब्धसविधाए                    The nearest Post office, local panchayat office, High School and
+     Facilities available            primary Health centre at Kodikkarai, Police Station is available at
+                                     Vedaranyam.
+
+28   डाकपताPostal address            The Navigational Assistant Gr-I
+                                     Kodikkarai Lighthouse,
+                                     Kodikkarai Post,
+                                     Vedaranyam Taluk
+                                     Nagapattinam District, Tamilnadu-614807
+29   मल्ू यकाब्योराCost details      Construction cost Rs.77 Lakhs
+     (At the time of Construction)   Equipment cost Rs. 25 Lakhs
+30   प्रितननमेलानेकादे नांक          09.03. 1998.
+     Date of commissioning
+

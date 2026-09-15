@@ -1,0 +1,195 @@
+                                  मास्टर लेजर/MASTER LEDGER
+
+
+
+
+                                जयगड दीपस्तंभ/Jaigad Lighthouse
+क्रमसंख्या/             नाम /Name
+                                                                       वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.            F 0578
+     2        स्थान/Position                Lat. 170 17. 8’N
+                                            Long. 730 11. 6’E
+    3         ऊंचाई/Elevation               41 m
+    4         अभिलक्षण/Characteristic       GP fl (4) W every 20 Sec.
+                                            (fl.0.25 ec.2.6, fl.0.25 ec.2.6, fl.0.25 ec.2.6, fl.0.25 ec.11.2)
+    5         नॉटिकलमाइलमेदरू ी             25 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower        Type                              C.I. Circular Tapered Tower
+                                            Height                            21 m
+                                            Colour Scheme                     2Red and 1White bands
+    7         ऑप्टिकलउपकरण                  Optic
+              Optical equipment
+                                            Make                              Chance Bros. & Co. Ltd. England
+                                            Type                              2nd order revolving
+                                            Size                              700 mm
+                                            No. of lens                       4
+
+                                            Area of dioptric portion     8630 Sq.cm. (corrected area 6300
+                                                                         Sq.cm.)
+                                            Area of catadioptric portion 15600 Sq.cm. (corrected area
+                                                                         13250 Sq.cm.)
+                                            Divergence                   Horizontal – 4.480,
+                                            Main/Emergency               Vertical – 3.260
+                                            Duration of Flash            0.25 Sec.
+                                            Main /Standby/Emergency
+
+                                            Lamp changer                      N.A.
+                                            Pedestal                          Mercury float (137 Kg. in use)
+                                            Rotation Device                   Dual Stepper Motor 40 Kgcm with
+                                                                              auto
+                                                                              changeover
+                                            R.P.M.                            3
+                                            illumining
+                                            Main                              SL- LED-324, SEALITE, 360W
+                                                                              (under repair)
+                                                                      3x150 MH Lamp cluster in use
+                                                                      temporarily
+                                        Standby                       N.A.
+                                        Emergency                     N.A.
+                                        Date of Installation          1932
+8    प्रिािीबीमतीव्रता/Effective beam   Main & Standby                1,00,000 cd
+     intensity
+                                        Emergency                     -
+9    लेंिनन/Lantern                     Diameter                      3m
+                                        Height of glazing             2.48 m
+                                        No. of panes                  30 (in 3 tiers) 6 Nos. land side
+                                                                      blackened
+                                        Ventilators                   23 No.s
+10   RACON                              (Not available)
+     Make                 Model         Code                          Band                  Date of
+                                                                                            Installation
+     N.A.                 ---           ---                           ---                   ---
+11   NAIS (Not available)
+     Base Station
+
+
+     Model                Type          Power                         MMSI
+     ---                  ---           ---                           ---
+     Communication        ---           ---                           ---
+     Equipment
+     VSAT Antenna         Band          Modem                         ---                   ---
+     DGPS                 (not          ---                           ---                   ---
+                          available)
+     Trasmitter Make      Frequency     Power Output RS 1 ID          RS -II     Beacon     Date of        Dat
+                                                                      ID         ID         commis         e of
+                                                                                                           Re
+                                                                                            sioning        cap
+                                                                                                           itali
+                                                                                                           zati
+                                                                                                           on
+     ---                  ---           ---                 ---       ---        ---    ---                ---
+12   ऊर्ानकेसाधन/Sour     Mains                                       440 V, 3 Phase M.S.E.B.
+                                                                      Electricity
+     ce of energy
+                          Standby                                     Genset
+                          Engine 1
+                          Make/Type             Qty         Rating    No of         RPM             Cooling
+                                                                      Cylinder
+                          Kirloskar EA16        1           16 bhp    2             1500            Air
+                          Alternator
+                          Make/Type             Qty         Rating    Voltage/Amp   Frequency       Phase
+                          BS1,H007E11602        1           7.5 KVA   240/31.2      50 Hz           1
+                          KG-164H Kirloskar
+                          Engine 2
+                          Make/Type             Qty         Rating    No of         RPM             Cooling
+                                                                      Cylinder
+                          N.A.                  N.A.        N.A.      N.A.          N.A.            N.A.
+                           Alternator
+                           Make/Type                    Qty       Rating       Voltage/Amp   Frequency        Phase
+                           N.A.                         N.A.      N.A.         N.A.          N.A.             N.A.
+                           Solar Plant
+                           Capacity PV                  Numbers                Type          Battery          Bank
+                           200 W                        40                     Zytech        Exide, VRLA      7 No.s
+                                                                                             12V, 1000Ah
+                           Solar Plant for Main RACON
+                           Capacity PV                  Numbers                Type          Battery          Bank
+                            N.A.                        N.A.                   N.A.          N.A.             N.A.
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                Model                  Capa    Input                  Output        Phase            Qty
+                                                city
+     V S Power system VSP SERO                  10      160V TO 260V           230V ±        1                1
+                           AIR                  KVA                            1%
+14   बैिरी
+     Batteries
+     Equpment              Type                 Make    Volt                   Amp/Hr        Qty
+     PSS NAIS              N.A.                 N.A.    N.A.                   N.A.          N.A.
+     Genset                SMF                  Exide   12                     100           1
+     Automation            N.A.                 N.A.    N.A.                   N.A.          N.A.
+     DGPS                  N.A.                 N.A.    N.A.                   N.A.          N.A.
+15   बैिररचार्नर/ Battery charger
+
+     Equipment           Make                   Mode Type                      Rating        Qty
+                                                l
+     General Purpose     N.A.                   N.A. N.A.                      N.A.          N.A.
+     Automation          Mean well              DRP- SMPS                      24V DC ,      1
+                                                480-                           20A
+                                                24
+16   इंवटट रInverter /UPS
+     Equipmen Nos Make                  Model       Type          Rating       Qty           input            outpu
+     t                                                                                                        t
+     Main          3      Exide         EXIDE       DSP           850 VA       3             12 V DC          230V
+     Light                              850DSP      PST                                                       AC
+                                        PST         UPS
+                                        UPS (M)
+     NAIS PSS N.A. N.A.                 N.A.        N.A.          N.A.         N.A.          N.A.             N.A.
+     DGPS        N.A. N.A.              N.A.        N.A.          N.A.         N.A.          N.A.             N.A.
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE     PLC                  HMI        Power Supply                 VSAT         Modem          Band
+     Nelco    Telemechanics        Scheide 24 to 24 V DC                   Sky Edge     Sky            VHF
+              , momentum           r Electric 24 to 12 V DC                             Edge
+              171CBB97030          Magelis                                              VSAT
+                                     XBT GT
+                                     2130
+18   आप्ननशमनउपकरण                         Type of Extinguisher        Capacity        Nos        Make
+                                           D.C.P.                      1 Kg            2          --
+     Fire Fighting Equipment
+                                           Foam                        9 Litres        3          --
+
+19   संचार                                  BSNL Tel. No. 02357 – 264002 (WLL)
+                                            (Not working WLL signal withdrawal by
+     Communication
+                                            BSNL)Station have only internet facility
+                                            (Jio Router)
+
+20   र्लपूर्तन                              Pumped by Electric driven pump 5 HP
+     Water Supply
+21   िभू म                                  Area                  1.8 Hectares, 1.0 Hect. Without compound
+                                                                  (compound wall work in progress on 1.0
+     Land
+                                                                  Hect.area)
+                                            Demarcation           Compound Wall
+22   इमारतें                                Quarters              One unit of Inspection Qrs. (Abandoned)
+                                                                  one unit of HLK Qrs.,
+     Buildings
+                                                                  two Unit of ALK & one unit of LHA quarters,
+                                                                  one unit of Safaiwala Qrs.
+
+23   कंपाउं डलाइि                           LED Lights              11 Nos., 2No’s gate dome lights
+     Compound Lights
+24   सीसीिीिीकमेरा                          Camera                N.A.
+      CCTV CAMERA                           DVR                   N.A.
+25   स्िाफ                                  Sl. No        Designations
+     Staff                                  1             N.A.-II (1)              -     -
+                                            2             N.A.-III (1 No.Outsourced)
+                                            3             LHA - 1
+                                            4             Security Guard (1 No.Outsourced)
+26   पहुँचनेकामाध्यम                        By Konkan Railways upto Ratnagiri and then by road about 60
+                                            kms. to Lighthouse.
+     Mode of approach
+27   उपलब्धसविधाए                           Marine Police Station     5 km from Lighthouse
+     Facilities available                   Dispensary                15 km at Khandala from Lighthouse
+                                            High School               6 km from Lighthouse
+                                            Post office              5 km from Lighthouse
+28   डाकपताPostal address                   Head LightKeepr,
+                                            Jaigad Lighthouse,
+                                            P.O. Jaigad, Tal. & Dist. Ratnagiri,
+                                            PIN 415 614
+29   मूल्यकाब्योराCost details              N.A.
+     (At the time of Construction)
+30   प्रितननमेलानेकाटदनांक                  1932
+     Date of commissioning
+

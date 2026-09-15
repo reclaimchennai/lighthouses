@@ -1,0 +1,43 @@
+{
+  "slug": "kadalur-point-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Kadalur Point Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1909,
+  "alol": "F 0682",
+  "position": {"lat_text": "11° 28.0' N", "lon_text": "75° 38.3' E", "lat": 11.466667, "lon": 75.638333},
+  "elevation_m": 57,
+  "characteristic_text": "Fl (1) W 5 sec (fl 0.27)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": "fl 0.27",
+    "sequence_s": null,
+    "flash_duration_s": 0.27
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20NM (unlabelled range)"},
+  "tower": {"type": "Circular stone masonry tower on RCC Base", "height_m": 34, "colour_scheme": "Black and White Band"},
+  "optic": {
+    "make": "M/s Chance Bros, UK", "model": null, "type": "Revolving Type", "size": "700mm", "order": "Second order",
+    "panels": 4,
+    "rotation_device": "Stepper motor",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving Type; Rotation Device: Stepper motor; R.P.M. 3",
+    "divergence_horizontal_deg": 4.3,
+    "divergence_vertical_deg": 4.41,
+    "divergence_text": "4.30° (Horizontal), 4.41° (Vertical)",
+    "illuminant": "230V/150W Metal Halide Lamp"
+  },
+  "intensity_cd": 340000,
+  "racon": {"present": false, "code": null, "text": "RACON NIL"},
+  "ais": {"present": true, "text": "2 Nos AIS1 & AIS2; R40, Class A; AC-230V & DC-12V; MMSI ---"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains Kerala State Electricity Board; DG Set 7.5 KVA Kirloskar; 20 KWp solar (78 panels); main light 4x100W/12V solar panels"},
+  "issues": [
+    "NAIS MMSI not given ('---')"
+  ]
+}

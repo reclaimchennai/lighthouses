@@ -1,0 +1,43 @@
+{
+  "nid": 2068,
+  "title": "Renovation and interior design of dining hall at MNTI, Deep Bhavan, Kolkata",
+  "summary": "Two-cover e-tender for renovation and interior design of the dining hall at the Marine Navigation Training Institute (MNTI), Deep Bhavan, Kolkata.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, D-372/2 Taratala Road, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "MNTI, Deep Bhavan, Kolkata, West Bengal", "station_id": null, "kind": "office", "work": "Renovation and interior design of dining hall"}
+  ],
+  "scope": [
+    {"item": "Renovation and interior design of dining hall at MNTI, Deep Bhavan, Kolkata", "qty": null, "unit": null, "site": "MNTI, Deep Bhavan, Kolkata"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1702455.0,
+    "emd_inr": 34100.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/BG of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata; valid three months from technical bid opening; exemption not allowed. Tender fee Nil."
+  },
+  "period": {"completion": "45 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": null, "pre_bid": "2025-10-22", "bid_submission_end": "2025-10-17", "bid_opening": "2025-10-07"},
+  "eligibility": [
+    "Valid registration of appropriate class in building civil work category with Central/State Govt department/undertaking/autonomous body",
+    "Similar works completed in last 7 years: three >= 40%, two >= 50% or one >= 80% of estimated cost; values updated at 7% simple interest per annum; client certificates required",
+    "Similar works: renovation and interior designing works",
+    "Valid PAN and GST registration",
+    "Notarized affidavit (2025) of not being blacklisted/debarred",
+    "Undertaking that price bid is unconditional; ITRs for 2021-22, 2022-23, 2023-24; tender acceptance letter; other documents per Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITdeep.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only the NIT (printed pages 3-6) is included; no BOQ or file number. Dates printed are mutually inconsistent: download period 17/10/2025 (11:00) to 06/11/2025 (15:00), bid submission 'up to 17/10/2025 (11:00)', original EMD 'within 06/10/2025', technical bid opening 07/10/2025 (16:00), pre-bid 22/10/2025. Values recorded as printed; the listing (end 2025-11-06, opening 2025-11-07) suggests the October dates for submission/opening/EMD are typos for November. Hindi text layer is partly garbled; English values complete."
+}

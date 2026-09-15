@@ -1,0 +1,38 @@
+{
+  "nid": 1983,
+  "title": "Consultancy services of comprehensive Architectural and Structural Design (2D, 3D plan and elevation) of 20-25m RCC Lighthouse Tower for proposed New Lighthouse at Biswanath Ghat, Assam.",
+  "summary": "Corrigendum No-1 to a Kolkata Directorate consultancy tender for architectural and structural design of a 20-25 m RCC lighthouse tower at Biswanath Ghat, Assam, withdrawing the EMD exemption.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "Tender ID 2025_DGLL_868620_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhawan, D-372/2 Taratala Road, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Proposed New Lighthouse at Biswanath Ghat, Assam", "station_id": null, "kind": "lighthouse", "work": "Architectural and structural design (2D, 3D plan and elevation) of 20-25 m RCC lighthouse tower"}
+  ],
+  "scope": [
+    {"item": "Consultancy services of comprehensive architectural and structural design (2D, 3D plan and elevation) of 20-25 m RCC lighthouse tower", "qty": "1", "unit": "tower", "site": "Biswanath Ghat, Assam"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "After corrigendum: EMD through BG/ST, EMD exemption not allowed; bidder disqualified if EMD not submitted as per NIT."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": null, "bid_opening": null},
+  "eligibility": [],
+  "specs": ["20-25 m RCC lighthouse tower"],
+  "corrigenda": [
+    {"date": "2025-07-29", "change": "Corrigendum No-1: e-procurement BOQ item 'EMD through BG/ST or EMD Exemption Allowed: Yes' changed to 'No' (exemption not allowed)"}
+  ],
+  "documents": [
+    {"file": "corrigenendum.pdf", "pages": 1, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only the corrigendum is attached (page scanned rotated 90 degrees); no NIT, cost or dates. Corrigendum date taken from the Director's handwritten signature date 29/7/25. Biswanath Ghat is a proposed new (riverine) lighthouse not in the station list. Letterhead gives DLL Kolkata GST No 19AAAGD1014Q1ZF."
+}

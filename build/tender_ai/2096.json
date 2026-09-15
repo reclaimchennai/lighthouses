@@ -1,0 +1,38 @@
+{
+  "nid": 2096,
+  "title": "Provision of Power Supply, DG set and Servo Stabilizer for Elevator at Kannur Lighthouse",
+  "summary": "E-tender for providing power supply, a DG set and a servo stabilizer for the elevator at Kannur (Cannanore) Lighthouse, Kerala.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-02077/1/2024-Admin; I/87391/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Cannanore Lighthouse", "station_id": "kannur-lighthouse", "kind": "lighthouse", "work": "Provision of power supply, DG set and servo stabilizer for elevator"}
+  ],
+  "scope": [
+    {"item": "Provision of Power Supply, DG set and Servo Stabilizer for Elevator", "qty": null, "unit": null, "site": "Kannur Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2666091.0,
+    "emd_inr": 53322.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam, in original by 17.11.2025 1500 hrs. Small Scale Industries with valid NSIC/MSME certificate exempted from EMD."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-10-27", "pre_bid": "2025-11-06", "bid_submission_end": "2025-11-18", "bid_opening": "2025-11-19"},
+  "eligibility": [
+    "Bids invited from reputed OEMs or their authorized suppliers, licensed electrical contractors, parties or Government Undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITKannur.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Short NIT only; BOQ, DG set/stabilizer ratings and completion period are in the CPPP tender document, not included. Bid download/submission 04.11.2025 11:00 to 18.11.2025 15:00."
+}

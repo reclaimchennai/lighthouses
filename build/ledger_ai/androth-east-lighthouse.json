@@ -1,0 +1,44 @@
+{
+  "slug": "androth-east-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Androth East Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1967,
+  "alol": "F-0755",
+  "position": {"lat_text": "10° 48.8' N", "lon_text": "73° 42.1' E", "lat": 10.813333, "lon": 73.701667},
+  "elevation_m": 43.7,
+  "characteristic_text": "Fl (2) W 10 sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 28, "geographical_nm": null, "text": "28NM (unlabelled range)"},
+  "tower": {"type": "Square Masonry Tower", "height_m": 43.7, "colour_scheme": "Black and White Band"},
+  "optic": {
+    "make": "LMV", "model": "BGA 850 HI/8", "type": "rotating light beacon", "size": "500 mm", "order": null,
+    "panels": 4,
+    "rotation_device": "02 nos MGM ,150 Electronic gearless & brushless motor",
+    "rpm": null,
+    "rotates": true,
+    "rotates_evidence": "Type: rotating light beacon; Rotation Device: 02 nos MGM 150 electronic gearless & brushless motor (R.P.M. blank)",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "35W/230V Metal Halide Lamp"
+  },
+  "intensity_cd": 20000,
+  "racon": {"present": true, "code": "D", "text": "Pharos PMAPI, Code D, Band X, Sr. No II-X-201607-02, installed 08.12.2016"},
+  "ais": {"present": true, "text": "Base Station 2 Nos-AIS1 & AIS2; Model R40, Class A, AC-230V & DC-12V; MMSI blank"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440v 3phase 50Hz; DG Set 7.5KVA Kirlosker; 70 W/12V solar plant for RACON"},
+  "issues": [
+    "Divergence field contains lens description ('360 mm focal distance acrylic modlded lens, 720 mm hight') instead of divergence angles",
+    "R.P.M. field left blank"
+  ]
+}

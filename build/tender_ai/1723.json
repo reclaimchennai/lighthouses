@@ -1,0 +1,45 @@
+{
+  "nid": 1723,
+  "title": "Replacement of existing Storm Signal Mast by new one at Puri Storm Signal Centre, Odisha.",
+  "summary": "Online two-bid e-tender for replacing the existing storm signal mast with a new one at the Puri Storm Signal Centre in Odisha, issued by the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Kol-07007(01)/1/2019-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Puri Storm Signal Centre, Odisha", "station_id": null, "kind": "other", "work": "Replacement of existing storm signal mast by new one"}
+  ],
+  "scope": [
+    {"item": "Replacement of existing Storm Signal Mast by new one", "qty": null, "unit": null, "site": "Puri Storm Signal Centre"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1533284.37,
+    "emd_inr": 30700.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by Demand Draft / FDR / bank guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata, valid three months from technical bid opening; EMD exemption not allowed; original EMD to reach office by 05/09/2024. Tender fee Nil."
+  },
+  "period": {"completion": "60 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-08-21", "pre_bid": "2024-09-02", "bid_submission_end": "2024-09-05", "bid_opening": "2024-09-06"},
+  "eligibility": [
+    "Valid registration of appropriate class in Building civil work category with Central Govt. department/undertaking/autonomous body or State Govt.",
+    "Similar works completed in last 7 years: three works each >= 40%, or two >= 50%, or one >= 80% of estimated cost; similar works = repairs & maintenance or construction of any type of building works (RCC or masonry); values updated at 7% simple per annum",
+    "Valid PAN card",
+    "Valid GST registration",
+    "Notarized affidavit (2024) of not being blacklisted/debarred by any Central/State government organization",
+    "Undertaking on letter pad that price bid is unconditional",
+    "Income tax returns for FY 2020-21, 2021-22, 2022-23",
+    "Tender acceptance letter on bidder's letter pad as per format; other documents as per Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT puri strom signal.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only the 4-page bilingual NIT (printed page numbers 3-6); no BOQ, drawings or mast specification. Hindi location field reads 'Paradip, Odisha' while the English reads 'Puri, Odisha' (title and work name say Puri). Bid download/submission 21/08/2024 10:00 to 05/09/2024 15:00; technical bid opening 06/09/2024 16:00; pre-bid meeting 02/09/2024 15:00. Bidders requested to visit site. Storm Signal Centre is not matched to Puri Lighthouse station id."
+}

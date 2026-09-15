@@ -1,0 +1,41 @@
+{
+  "slug": "mount-dilli-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Mount Dilly Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1979,
+  "alol": "0669.5",
+  "position": {"lat_text": "12° 0.40' N", "lon_text": "75° 12.2' E", "lat": 12.006667, "lon": 75.203333},
+  "elevation_m": 62,
+  "characteristic_text": "Fl (2) W 20 sec (fl 0.53) (0.53+1.97+0.53+16.97=20Seconds)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "0.53+1.97+0.53+16.97=20Seconds",
+    "sequence_s": [0.53, 1.97, 0.53, 16.97],
+    "flash_duration_s": 0.53
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 19.6, "geographical_nm": 20.5, "text": "Luminous 19.6 NM, Geographical 20.5NM"},
+  "tower": {"type": "Hexagonal Masonry Tower", "height_m": 18, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "J.Stone & Co, Kolkata", "model": null, "type": "Revolving Beacon", "size": "300 mm (IVth Order large) Revolving", "order": "IVth Order large",
+    "panels": 2,
+    "rotation_device": "Stepper motor",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving Beacon; Rotation Device: Stepper motor; R.P.M. 3 RPM (one revolution in 45 Sec)",
+    "divergence_horizontal_deg": 7.64,
+    "divergence_vertical_deg": 11.453889,
+    "divergence_text": "07° 38' 24'' (Horizontal), 11° 27' 14'' (Vertical)",
+    "illuminant": "Cluster of 3 Nos of MH lamp 150W/230V"
+  },
+  "intensity_cd": 93000,
+  "racon": {"present": true, "code": "K", "text": "Pharas Marine Automatic power PMAPI RACON-2, Sr. No 20180765 SJP, Code K, Band X, installed 25-12-2018"},
+  "ais": {"present": true, "text": "NAIS 2 Nos AIS1 & AIS2, Model SAAB R40, Class A; MMSI blank"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Local Mains 440 V, 3 ø, 50 Hz; DG Set 7.5 KVA Kirloskar; Solar Plant 5 KWp (250W x 20); 70 W/12V solar for RACON"},
+  "issues": ["R.P.M. '3 RPM (one revolution in 45 Sec)' is self-contradictory (45 s per revolution = 1.33 RPM)", "Duration of Flash 0.6 Sec differs from characteristic fl 0.53", "ALOL printed '0669.5' without letter prefix", "NAIS MMSI blank"]
+}

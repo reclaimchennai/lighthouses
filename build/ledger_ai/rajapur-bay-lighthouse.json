@@ -1,0 +1,46 @@
+{
+  "slug": "rajapur-bay-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Rajapur Bay (Wagapur Point) Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1958,
+  "alol": "F0586",
+  "position": {"lat_text": "16° 36' 21.27\" N", "lon_text": "73° 19' 16.99\" E", "lat": 16.605908, "lon": 73.321386},
+  "elevation_m": 46,
+  "characteristic_text": "F1 W 15 Sec. (FL 0.4, sec. 14.6)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "FL 0.4, sec. 14.6",
+    "sequence_s": [0.4, 14.6],
+    "flash_duration_s": 0.4
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 29, "geographical_nm": null, "text": "29Nm (unlabelled range)"},
+  "tower": {"type": "R.C.C. Square tower", "height_m": 19.8, "colour_scheme": "Black and White Bands (Band width 3.84m, Bottom band Black, No. of bands 5)"},
+  "optic": {
+    "make": "B.B.T.", "model": null, "type": "revolving", "size": "300 mm (4th order large) revolving", "order": "4th order large",
+    "panels": 2,
+    "rotation_device": "Stepper motor 1 in use, 2nd in standby",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "300 mm (4th order large) revolving; Rotation Device: Stepper motor; R.P.M. 2",
+    "divergence_horizontal_deg": 4.966667,
+    "divergence_vertical_deg": 2.483333,
+    "divergence_text": "Main: 4° 58' (Horizontal), 2° 29' (Vertical)",
+    "illuminant": "3*150 watt MH Lamp in cluster unit"
+  },
+  "intensity_cd": 403597,
+  "racon": {"present": false, "code": null, "text": "RACON ---"},
+  "ais": {"present": true, "text": "R-40, Class-A; AC 100-240VAC, DC +24V 2.5A; MMSI 4192231; 161.975 MHz and 162.025 MHz"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440 V 3 phase 50Hz; standby Diesel Generator Set (Kirloskar EA-16, 7.5 KVA) and 8KW off grid solar (40 x 200w)"},
+  "issues": [
+    "Characteristic printed 'F1 W' (read as Fl W)",
+    "Optic duration of flash 0.41 sec vs characteristic FL 0.4",
+    "No. of lens '2 to 180° each'",
+    "Date of commissioning given only as year 1958"
+  ]
+}

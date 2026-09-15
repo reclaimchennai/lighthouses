@@ -1,0 +1,41 @@
+{
+  "slug": "mandvi-break-water-station",
+  "pages_read": [1, 2],
+  "name": null,
+  "station_type": "lighthouse",
+  "established_year": 1890,
+  "alol": "F-0358",
+  "position": {"lat_text": "22° 49.1' N", "lon_text": "69° 20.9' E", "lat": 22.818333, "lon": 69.348333},
+  "elevation_m": 9.2,
+  "characteristic_text": "RED Flash 1 every 3 Sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["R"],
+    "period_s": 3,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 10, "geographical_nm": null, "text": "10 NM (single unlabelled range)"},
+  "tower": {"type": "Masonry square Tower", "height_m": 8, "colour_scheme": "1 Red and 1 white bands. Horizontal"},
+  "optic": {
+    "make": "Wealth marine beacon", "model": null, "type": "LED lantern (LED Flasher)", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Optical Equipment: Wealth marine beacon LED lantern, Type of Light (LED Flasher); Type of Light structure: LED flashing light",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "LED flasher input 12 V DC from 100 AH SMF Power safe Exide battery charged by solar panel 70w/12V"},
+  "issues": ["No station name printed; address given as 'C/o Station In-Charge, Mandvi Lighthouse & VTS Station'", "Effective beam intensity given as '-'", "Page footers say 'Page 1 of 8'/'Page 2 of 8' but PDF has only 2 pages"]
+}

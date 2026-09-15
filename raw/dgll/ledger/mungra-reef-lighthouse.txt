@@ -1,0 +1,85 @@
+                 मास्टर लेजर/ MASTER LEDGER
+क्रमसं                       नाम /Name
+ ख्या/                                                             वििरण/ Discription
+Sr.No
+    1.      ए.एल.ओ.एल/A.L.O.L.                 : 0367.8
+
+
+
+
+   2.       स्थान/Position                     Lat    22º 45.59' N
+                                               Long 70º 11.01' E
+
+   3.       ऊंचाई/Elevation                    7 Meter
+
+
+   4.    अविलक्षण/Characteristic               : Fl (2) W15Sec. 0.75 +1+0.75+12.5
+                                               =15Sec.
+   5.    Visibility sector                     360º
+   6.    नॉविकल माइल मे दू री                  a) Luminous       : 12NM at T=0.74
+         Range in miles                        b) Geographical: 8NM
+   7.    दीपस्तं ि िािर/L.H.Tower              a) Type           : White round concrete tower,
+                                               red bands
+                                               b) Height                   : 10 Meter
+                                               c) Colour Scheme            : White – red band
+   8.           ऑप्टिकल उपकरण                  a) Optic :
+         Optical Equipment:-                   i)       Make : Navaid NE-9 LED Light
+          Type of Light (LED Flasher)
+                                               Beacon
+                                               ii)      Size               : drum optic
+                                               iii) Colour filter if any          : N/A
+                                               iv)      Type of flasher           : Auto-flash
+                                               v)       Duration of flash         : 0.75 Second
+                                               vi)      Divergence (Vertical): 2º 17.45'
+                                               b) Pedestal                                : N/A
+                                               c) Illuminant     : 12V/24W LED Light
+                                               d) Effective Beam Intensity        : Candela
+   9.           Lantern                        a)       Make                      : Navaid NE-9
+                                               b)       Diameter                  : drum optic
+
+   10.          Energy Source                  Solar power light
+
+
+   11.   Automation Equipment            : OLD a) Master Deep Niyantrak           : 1No. Make:-
+                                               SAMEER Mumbai                       (Housing
+                             CPU and other PCBS)
+                             b) UHF Trans-receiver                     : 1No
+                             Make:-SAMEER, Mumbai
+                             (Housing UHF Trans-receiver, DC-DC
+                             converter, sensors PCBs etc.
+                             c) UHF Helical Antenna                    : 1No.
+                             Make:-SAMEER, Mumbai
+
+
+                             (Towards Jodiya lighthouse)
+
+
+12.   Automation Equipment    a) Remote Transceiver Unit (RTU) Control
+         :(NEW)              Panel make RDS
+                             Sr.No                   : 3760
+                              b) Light Sensor make            : ABLE
+                              c) Battery for automation       : SMF battery,
+                             12V/100AH – 2No.
+                              (EP 100 make EXIDE
+                             S/N (1) 4YL042214020398
+                              (2) 4YL042216020460
+13.   Other equipment        a) Battery for flasher unit               : SMF
+                             battery, 12V/100AH – 2Nos.
+                             (make AMARON Quanta)
+                             b) Solar panel for L.H. battery: KAUMO
+                             make 100W – 2Nos.
+                             S/N (1) KPS10020283072
+                             (2) KPS10020283088
+                             c) Solar panel for automation : make
+                             VIKRAM SOLAR 335W– 2Nos.
+                             Model- ELDORA
+                             S/N (1) 20864246
+                             (2) 20863400
+14.   Mode of approach       By boat from Jodiya lighthouse.
+
+
+15.   Postal address         Directorate of lighthouses & lightships c/o.
+                             Dhuvav RCS/MCS, P.O Dhuvav
+                             Jamnagar – 361 008
+16.   Year of commissioning   1999, Renovated in 2020-21
+

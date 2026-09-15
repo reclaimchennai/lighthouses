@@ -1,0 +1,41 @@
+{
+  "slug": "jhanjhmer-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Zhanjhmer Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1870,
+  "alol": "0442",
+  "position": {"lat_text": "21° 10.8' N", "lon_text": "72° 03.7' E", "lat": 21.18, "lon": 72.061667},
+  "elevation_m": 45,
+  "characteristic_text": "Fl(1)W10 Sec. (1+9=10 Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "1+9=10 Sec",
+    "sequence_s": [1, 9],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 16, "geographical_nm": null, "text": "16 NM (single unlabelled range)"},
+  "tower": {"type": "Masonary square room with RCC slab.", "height_m": 4.7, "colour_scheme": "White"},
+  "optic": {
+    "make": "Sealite", "model": "SL155 LED (Ever on)", "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Sealite make SL155 LED lantern on G.I. pedestal; Rotation Device '--', R.P.M. '--'",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 2.290833,
+    "divergence_text": "2° 17.45' (Vertical)",
+    "illuminant": "12V/60W led lamp"
+  },
+  "intensity_cd": 20000,
+  "racon": {"present": false, "code": null, "text": null},
+  "ais": {"present": false, "text": "NAIS - NA"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": null, "text": "Mains 230V/1-phase/50 Hz; Solar Plant 12V/70W x 02 TATA BP with Okaya make (smf) battery"},
+  "issues": ["Name printed 'ZHANJHMER Lighthouse' (postal address 'Zanzmer')", "ALOL printed '0442' without letter prefix"]
+}

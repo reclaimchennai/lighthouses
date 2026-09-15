@@ -1,0 +1,86 @@
+                    मास्टर लेजर/ MASTER LEDGER
+ क्रम                         नाम /Name:
+संख्या/                                                                    वििरण/ Discription
+Sr.No
+   1.        ए.एल.ओ.एल/A.L.O.L.                          : 0368
+  2.         स्थान/Position                              : Lat 22º 43.5'N
+                                                         Long 70º 16.8' E
+  3.         ऊंचाई/Elevation                              : 31 Meter
+  4.      अविलक्षण/Characteristic                        : Fl (W) 10Sec. (1 + 9 = 10Sec)
+  5.      नॉविकल माइल मे दू री                                a) Luminous : 11NM at T=0.74
+          Range in miles                                      b) b) Geographical : 14NM
+  6.      Visibility sector                              : 360 º
+  7.                                                     a) Type: Frame work tower (Trestle tower)
+             Structure                                   b) Height : 30 Meter
+                                                         c) Colour Scheme : White
+
+  8.             ऑप्टिकल उपकरण                           : Marine LED Lantern
+          Optical Equipment: -                           i)Make: NavAids Pvt Ltd, Delhi
+          Type of Light (LED Flasher)
+                                                         ii)     Model : NE-9A is a Three-Tier
+                                                                Lantern
+                                                         iii)    Colour filter if any  : N/A
+                                                         iv)     Type of flasher: High Intensity LED
+                                                                Lantern, NE-9
+                                                         v)      Duration of flash : 1 Second
+          Solar Panel                                    Solar panel 70W, TATA BP – 3Nos installed on
+  9.
+                                                         separate frame for charging 2Nos
+                                                         SMF12V/100AH Battery
+
+  10.     Battery                                        : SMF 12V/100AH – 2Nos Exide Power Safe
+                                                         connected in parallel
+
+  11.     Charge controller                              MPPT charge controller 12V/20A, Make;-
+                                                         NavAid Energy Pvt Ltd. Delhi.
+
+
+  12.        A) Electrical Parameters of Light
+
+          a. Operating Voltage- 12VDC
+          b. Range-11-14NM @ AT 0.74
+          b. Lamp Source- High Power LED
+          c. Power- 15W-18W                Page 1 of 8
+          d. Operation- Flashing
+          e. LED Life- upto 100000 Hours
+      f. Horizontal Divergence- 360°
+      g. Vertical Divergence- 8°
+      h. Sun Switch- Provided
+      i. Flasher- Programmable 256 Flash Character as per IALA Standard
+      j. Color- White
+
+13.   B) Mechanical Parameters of Lantern
+      Body- Aluminum Alloy Cast Body LM6 Marine Grade
+      Lens Type/Dome- UV Stabilized Polycarbonate
+      Weight- 10Kg approx.
+      Mounting- 4/3 x 200mm PCD with M 12
+      IP66/67/68 Standard
+
+14.   Energy Source                                  : Solar power light
+
+15.   Fire Fighting Equipment                        : Not provided
+
+16.   Communication                                  : By Road
+
+17.   Water supply                                   : Not provided
+
+18.   Land                                           : Lighthouse located at creek of Jodiya bander
+
+19.   Buildings                                      : One Technical building
+
+20.   Whether attended or unattended                 : Unattended
+
+21.   Mode of approach                               : By Road
+
+22.   Facility available                             : Nil
+
+23.   Postal address                                 Directorate of Lighthouses and Lightships, C/o
+                                                     RCS Dhuvav
+                                                     P.O. Jodiya, Jamnagar, Gujarat
+24.   Date of commissioning                          : 15th March 1903
+
+
+
+
+                                       Page 2 of 8
+

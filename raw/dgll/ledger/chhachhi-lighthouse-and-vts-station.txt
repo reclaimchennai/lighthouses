@@ -1,0 +1,308 @@
+                   मास्टर लेजर/ MASTER LEDGER
+ क्रम
+संख्या/                  नाम /Name
+                                                                वििरण/ Discription
+Sr.No
+    1.       ए.एल.ओ.एल/A.L.O.L.                           : F-0356
+    2.       स्थान/Position                               : Lat 22° 57.2' N
+                                                            Long 69° 00.1' E
+   3.        दीपस्तंभ ऊंचाई/ Lighthouse                   : 27.43+4.57=32 M
+             Elevation                                    : Square masonry stone
+              दीपस्तंभ टािर/L.H.Tower                     tower
+                                                          : 3 Black and 2 white bands
+   4.         अवभलक्षण/Characteristic                      : FI (3)W 15 sec.
+                                                  [(0.35+2.15+0.35+2.15+0.35+9.65
+                                                  =15 sec.)]
+   5.         नॉवटकल माइल मे दू री/Range in miles            Luminous : 19 N. Mile
+                                                             Geographical : 14 N. Mile
+   6.         िी टी एस टािर/VTS Tower                     : RCC Circular concrete
+                                                          Tower
+                                                  Height : 60 Mtrs
+                                                            : 4 black and 3 white
+                                                          bands. (Bottom band
+                                                          black)
+   7.           ऑप्टिकल उपकरण / Optical                    : Cluster of three CDM-TD
+                     Equipment                            lamps of 230V/150W.
+                                                           : B.B.T. France make 250
+                                                           mm(4th order
+                                                           large)revolving type
+                                                           : Duration of flash : 2.1 sec
+   8.      प्रभािी बीम तीव्रता/ Effective beam               : 85383 Cds
+          intensity
+   9.         Lamp Input Voltage                           : 230 V AC
+   10.        Peak Power                                   :450W (In Continuous
+                                                  Light)
+   11.       Colour of Light                               : White
+   12.       Horizontal Output                                : 360°
+   13.       Divergence                                    : 25° 11.99' (Horizontal.),
+                                                             16° 29.67' (Vertical.)
+             Physical Characteristic:-
+             Lantern                               i) Diameter : 2m
+                                                  ii) Height of glazing: 1.30 m
+                                              iii) No. of panes : 8
+                                              iv) Ventilators : 7
+
+                                              i) Area of dioptric portion : 396 sq.cm
+          Optical Details-
+                                              (corrected area 285 sq.cm)
+                                              ii) Area of catadioptric portion:1[ 82 sq
+                                              cm (corrected area 98] sq.cm)
+
+ 14.      Date of Installation                        : 15/06/1964
+ 15.      Make                                        : B.B.T. France
+ 16.      Type of Light structure                     : 250 mm(4th order
+                                                      large)revolving type
+
+
+  वी टी एस उपकरण/ VTS EQUIPMENTS:
+
+क्रमसं                   वििरण/ Discription                   Qty       Location
+ख्या/
+Sr.No
+       i. X- Band RADAR                                  02           Equipme
+          Transceiver S.No:3015                                       nt Room
+          Scanter 2001,9375MHz
+          Type 262001-024 Rev F
+          S.No. : 3019
+          Type 262001-017 Rev G
+          D.O.I: 16/03/2011
+      ii. Scanter ACU                                    01           Equipment
+          Type : 262382-001 Rev H SNo:3017                            Room
+          D.O.I: 16/03/2011
+    iii. Radar Data Processor                            02           Equipment
+         C-SET-1, Make- Kongsberg                                     Room
+         S.No. 3462640920
+         D.O.I: 13/07/2020
+         C-SET-2 , Make- Kongsberg
+         S.No. 3053212216
+         D.O.I: 01/01/2020
+    iv. RSD (Radar Service                               01           Equipment
+         Display)MAKE:                                                Room
+         TERMA
+         SNo:4602
+         D.O.I: 14/02/2020
+     v. 15 KVA UPS, On line,                             01           Equipment
+         3 Phase, MAKE:                                               Room
+         SCHINDER
+    D.O.I: 20/08/2019
+
+
+ vi. 12v, 26AH Battery, make: APC              32   Equipment
+      SMF BatteryD.O.I: 20/08/2019                  Room
+vii. Microwave Antenna                         04    On Tower
+      Make –Faini Tele communication System,         wall
+      (Kathrein)
+      SNo: 08KIMWA0000120032
+      SNo:
+      08KIMWA0000120
+      031
+      SNo: 08KIMWA0000120036
+      SNo:
+      08KIMWA0000120
+      037
+      D.O.I: 16/03/2011
+viii. Radio unit ODU                           04   With
+      S.No: R9N958686,                              Antenna
+      S.No: R9N958646,
+      D.O.I: 20/08/2019
+      S.No: R9Q240426,
+      S.No: R9Q240423
+      D.O.I: 13/07/2020
+ ix. KVM (Key Board                            01   Equipment
+      Video& Mouse) S/W                             Room
+      SNo:
+      F3A65005MEH0036
+      D.O.I: 16/03/2011
+  x. Rack Manager make:                        01   Equipment
+      Austinhuges                                   Room
+      Model: N117e
+      SNo:215108083862-
+      U46Z
+      D.O.I: 16/03/2011
+ xi. CISCO Switch                              01   Equipment
+      Catalyst 2960 Series                          Room
+      SNo:FOC1345YIAJ
+      D.O.I: 16/03/2011
+xii. 6KVA UPS, Make                            01   Equipment
+      NGBPS,SNo.                                    Room
+      JH1026
+      D.O.I:
+      16/03/20
+      11
+ xiii. 12v,26AH                                         20   Equipment
+       Battery, MAKE                                         Room
+       AMRON
+       (Quanta)
+       D.O.I:
+       08/08/2018
+xiv. 1.DG SET 40 KVA 415 V 3ɸ                           02   Power
+       Mod.KG40AS                                            house
+       Engine Type HA494T. Battery12V.
+       Engine S.No: 042421/1020198
+       Alternator-M/C No::CS3E010B22526-H
+       D.O.I: 16/03/2011
+       2. DG SET 40 KVA 415 V 3ɸ
+       Mod.KG40AS
+       Engine Type HA494T. Battery12V.
+       Engine S.No: 042421/1020199
+       Alternator-M/C No:: CS3E010B22535-H
+       D.O.I: 16/03/2011
+ xv. AIS BS-610                                         01   Equipment
+       Make: Kongsberg                                       Room
+       Sr.No. 109177, D.O.I: 01/01/2020
+xvi. VHF TR 775OC                                       03   Equipment
+       Make: Jotron                                          Room
+       Sr.No. 952,953,871,
+       D.O.I: 01/01/2020
+xvii. 40 KVA AMF Control Panel SNo:04-10/05/06          01   Power
+       Sterling Generators Pvt. Ltd D.O.I: 16/03/2011        house
+
+
+xviii. 40 KVA LVDB Panel                                01   Power
+       Make – Sterling Generators Pvt. Ltd SNo:03-           house
+       10/187/03
+       D.O.I: 16/03/2011
+ xix. Split A/C- 01 N0s.Bluestar 1.5Ton                 03   Equipme
+        No: GLIDU181YC09032672                               nt Room
+       D.O.I: 26/07/2019
+       LG 01Nos1.5 Ton SNo:402PAQE036476 1
+       D.O.I: 28/02/2015
+       Split A/C- 01. Videocon 1.5Ton
+       SNo.11081574200268
+       D.O.I: 27/09/2015
+ xx. Exhaust Fan (Bajaj)D.O.I: 16/03/2011               03    Lift room,
+                                                              Power
+                                                              house
+ xxi. 42 U Val Rack for Radar Equipment                 01   Equipment
+      D.O.I: 16/03/2011                                      Room
+    xxii. Comtel Rack                                    01   Equipment
+          D.O.I: 16/03/2011                                   Room
+   xxiii. 1 Phase Isolation                              01   Equipment
+          Transformer 6 KVA ,                                 Room
+          D.O.I: 17/06/2015
+   xxiv. 3 Phase Isolation                               01   Power
+          Transformer 40                                      house
+          KVA
+          D.O.I: 30/06/2016
+   xxv. Lightening Arrester                              01   Top
+          D.O.I: 18/03/2020                                   tower
+
+
+Energy source
+
+         Main supply voltage 415 V, 3 Phase, 50HZ from        Power
+         PGVCL                                                house
+         Diesel Engine
+         Generator Kirloskar
+         – 02 Nos. 40 KVA,
+         HA494TC.
+
+On Grid 30 KW Solar Systems:
+
+         120 nos. of solar panel make: Solgen.           02   Power
+         Date of Installation: 27 FEB 2017                    house
+         Inverter-01 No., Sr no:F01163022627 make:
+         Solgen
+         D.O.I: 29/11/2020
+         Inverter-01 No., Sr no: 01Y18604544W8
+         make: Delta
+         D.O.I: 11/01/2021
+
+Automatic Voltage Stabilizers-
+
+         Automatic Voltage stabilizer                    03   Power
+         Make: Atandra (Krykard)                              house
+         Model: SP7070
+         S.No: S20K167070007, S20K167070008
+         D.O.I: 27/01/2021
+         Make: Alfa
+         S.No: UA-16020013
+         D.O.I: 13/09/2017
+Lift:
+
+        Inside the 60M high RCC VTS Radar tower lift has
+        been installed as per below specification
+            Make - Trio Elevators
+            Motor - 3-ɸ induction motor 5.5KW
+            Capacity – 6 passengers
+            Speed – 1m/sec
+            Sl. No. – 00006300
+            D.O.I: 16/03/2011
+        The License valid up to 04/12/2022.
+
+
+CCTV:
+
+        CCTV cameras have been installed on dated
+        24/08/2015.
+        Bullet cameras (Small) : 07 nos.
+        Bullet cameras (Big) : 01 nos.
+        PTZ camera : 01 no.
+        DVR           : 01 no.
+
+COMPOUND STREET LIGHTS:
+        Total 13 number 25-Watt LED Street lights (13 Nos
+        fitting on G.I poles), 02 Nos 10 watts on wall, Two
+        fitted on entrance gate and one 25 watts at power
+        house cum office are provided at station & One
+        number 40 watt fitted on Departmental name
+        Board.
+
+Fire-extinguishers:
+
+        The Following firefighting equipment are
+        provided. And Date of Installation:
+        08/07/2011
+        Cease fire ABC dry powder (5 Kg. capacities) : 04
+        Nos.
+               (2 in power house, 1 in base room, 1 in lift
+        room)
+        Cease fire Clean Agent (4 Kg. capacities : 02 Nos.
+               (2 in VTS equipment room) Page 6 of 8
+        Fire buckets : 04 Nos.
+LAND:
+
+              i)     Area : 6712.44 Sq. m.
+              ii)    Demarcation : Compound wall
+              iii)   Fruit bearing tree :15
+              iv)    Non-fruit bearing trees:70
+
+FACILITIES AVAILABLE :
+             Police station- Kothara , Primary school-
+            Chhachhi, Primary Health Centre - Dumra
+                              Village.
+
+STRUCTURE:
+        a. Radar tower: - 60m high RCC circular
+           tower with internal liftfacility and staircase.
+        b. Technical Building: - 01 Unit
+        c. Inspection Quarter: - 02 Unit.
+        d. LHA quarter: - 2 Nos.
+        e. R/T Quarters: 2 Nos.
+        f. Security Cabin: 01 Nos.
+        g. Compound wall: Masonry compound wall.
+        h. Main gate: - M. S. gate has been provided on
+           the entrance.
+
+ WATER SUPPLY:
+
+           60,000 litres capacity water storage tanks
+            are provided with water pumpmotor.
+           500 litres capacity 7 Nos. Sintex tanks
+            are also provided on TechnicalBuilding,
+            Inspection Quarters, Group-D quarter and
+            R/T Quarter.
+           10,000 litres capacity RCC overhead water
+            tank.
+
+ADDRESS& COMMUNICATION                                       Station In-Charge
+                                                             Chhachhi VTS/Lighthouse
+                                                             Station, Village – Chhachhi, Post-
+                                                             Lathedi Via Dumra, Taluka-
+                                                             Abdasa, Kutch-370490
+DATE OF COMMISSIONING                                        15.06.1964 Lighthouse
+                                                             13.02.2012 VTS
+
+
+                                          Page 7 of 8
+

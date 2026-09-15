@@ -1,0 +1,49 @@
+{
+  "nid": 2243,
+  "title": "Supply of Furniture items for the inspection quarters of Kanyakumari Lighthouse under Chennai directorate",
+  "summary": "Notice inviting sealed quotations for supply of four teak wood single cots and four coir mattresses for the inspection quarters of Kanyakumari Lighthouse, Tamil Nadu.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-01002(25)/3/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kanyakumari Lighthouse (staff quarters, Kanyakumari main road, Kanyakumari-629702)", "station_id": "kanyakumari-lighthouse", "kind": "lighthouse", "work": "Supply of furniture items for inspection quarters"}
+  ],
+  "scope": [
+    {"item": "Supply of Teak Wood Single Cot, size 6¼' x 3', inclusive of loading, unloading, packing, forwarding, freight up to Kanyakumari Lighthouse", "qty": "4", "unit": "Nos", "site": "Kanyakumari Lighthouse"},
+    {"item": "Supply of Coir Mattress (reputed make), size 6¼' x 3' x 4\" thickness, for single cot, inclusive of loading, unloading, packing, forwarding, freight up to Kanyakumari Lighthouse", "qty": "4", "unit": "Nos", "site": "Kanyakumari Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value as PBG/FDR, valid 60 days beyond warranty period; released after 1-year warranty",
+    "notes": "Payment on final account basis after satisfactory supply; no extra payment beyond quoted rate."
+  },
+  "period": {"completion": "Supply within 15 days from date of supply order", "bid_validity": null, "warranty": "1 year against manufacturing defects for all wooden items"},
+  "dates": {"published": "2026-02-10", "pre_bid": null, "bid_submission_end": "2026-02-17", "bid_opening": "2026-02-18"},
+  "eligibility": [
+    "At least one similar work of not less than Rs 1,59,600, or two of Rs 99,750 each, or three of Rs 79,800 each, during last seven years ending 31 March 2025",
+    "Similar work: supply of office furniture items in Central Govt./State Govt./public listed/PSUs/reputed firms",
+    "GST registration certificate and PAN",
+    "Non-blacklisting affidavit on firm's letter head for last 3 years",
+    "Valid registration and office address in Tamil Nadu / Puducherry (MSME certificate, business registration)",
+    "Detailed technical specifications of items per Annexure A",
+    "Completion certificates from clients (not below Manager/AEE/Administrative Officer) with purchase order / GeM CRAC"
+  ],
+  "specs": [
+    "Teak wood single cot 6.25' x 3'",
+    "Coir mattress (reputed make) 6¼' x 3' x 4\" thickness",
+    "Design as per photo in Annexure C; stage inspection by DLL Chennai representative before polishing/varnishing"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Furn KL.pdf", "pages": 5, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Offline sealed quotation; submission by 17/02/2026 15:00, opening 18/02/2026 10:00. No estimated cost or EMD printed. Eligibility thresholds (Rs 1,59,600 etc.) imply an estimate of about Rs 1.995 lakh but no estimate is printed. Listing title says 'Supply of Furniture Items to the inspection quarters'."
+}

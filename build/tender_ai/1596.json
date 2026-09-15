@@ -1,0 +1,48 @@
+{
+  "nid": 1596,
+  "title": "CAMC for the Air Conditioner units installed at Chennai Lighthouse & Museum under Chennai Directorate- Reg.",
+  "summary": "Sealed quotations for a one-year comprehensive annual maintenance contract for eight air conditioner units in the inspection quarters and ground floor museum at Chennai Lighthouse.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-02001(01)/2/2020-MNT-MD; I/58209/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chennai Lighthouse & Museum", "station_id": "chennai-lighthouse", "kind": "lighthouse", "work": "CAMC of air conditioner units in inspection quarters and museum"}
+  ],
+  "scope": [
+    {"item": "CAMC - 1st Floor, I.Q., Hall, Voltas make, 1.5 Ton Split A/C", "qty": "1", "unit": "No.", "site": "Chennai Lighthouse & Museum"},
+    {"item": "CAMC - 1st Floor, I.Q., Bed Room, Blue Star make, 1.5 Ton Inverter A/C", "qty": "1", "unit": "No.", "site": "Chennai Lighthouse & Museum"},
+    {"item": "CAMC - 2nd Floor, I.Q., Hall, Blue Star make, 1.5 Ton Inverter A/C", "qty": "1", "unit": "No.", "site": "Chennai Lighthouse & Museum"},
+    {"item": "CAMC - 2nd Floor, I.Q., Bed Room, Hitachi make, 1.5 Ton Split A/C", "qty": "1", "unit": "No.", "site": "Chennai Lighthouse & Museum"},
+    {"item": "CAMC - 2nd Floor, I.Q., Mini Bed Room, Voltas make, 1.5 Ton Split A/C", "qty": "1", "unit": "No.", "site": "Chennai Lighthouse & Museum"},
+    {"item": "CAMC - Ground Floor Museum, Voltas make 2 Ton Cassette A/C", "qty": "3", "unit": "Nos.", "site": "Chennai Lighthouse & Museum"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimated cost or EMD printed. Payment quarterly (25% of order value) after successful completion of quarterly services; bills to Navigational Assistant Grade-1, Chennai Lighthouse. Rates inclusive of labour, materials, T&P, transport."
+  },
+  "period": {"completion": "One year CAMC from work order, renewable for a further 2 years on annual basis subject to performance", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-05-30", "pre_bid": null, "bid_submission_end": "2024-06-10", "bid_opening": null},
+  "eligibility": [
+    "Reputed firms or authorized dealer or agent"
+  ],
+  "specs": [
+    "Monthly maintenance service in first week of every month",
+    "CAMC covers replacement of all parts except condensing coil, compressor and AC enclosure; includes gas recharging and troubleshooting",
+    "Breakdown calls to be attended immediately; service reports to be submitted",
+    "Makes: Voltas, Blue Star, Hitachi (existing units)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "CAMC of AC at Chennai Lighthouse_0.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIQ dated 30/05/2024; sealed quotations to reach office by 10.06.2024 15:00. Quantity of AC units may increase/decrease at authority's discretion. Bidders may visit site. Office contact printed is a gmail address on the directorate letterhead."
+}

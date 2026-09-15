@@ -1,0 +1,153 @@
+                         मास्टर लेजर/MASTER LEDGER
+
+                                  नावद्रा दीपस्तंभ / NAVDRA Lighthouse
+
+क्रमसंख्या/              नाम /Name
+                                                                      वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.               F 0398
+     2        स्थान/Position                   Lat : 21º 56.5’N        Long : 69º 13.9’E
+    3         ऊंचाई/Elevation                  55 M (Above MSL)
+    4         अभिलक्षण/Characteristic          Fl(3)W15 Sec. (0.4+1.5)2+0.4+10.8=15 Sec)
+    5         नॉटिकल माइल मे दरू ी             18 NM
+              Range in miles
+    6         दीपस्तंि िािर/L.H.Tower          Type                           Circular concrete Tower
+                                               Height                         35M
+                                               Colour Scheme                  3 Red and 2 White bands
+    7         ऑप्टिकलउपकरण                     Optic
+              Optical equipment                Make                           MSM
+                                               Type                           MBR-300
+                                               Size
+                                               No. of lens                    3
+                                               Area of dioptric portion
+                                               Area of catadioptric portion
+                                               Divergence                     9º (Horizontal)
+                                               Main/Emergency                 9º (Vertical)
+                                               Duration of Flash              0.4Sec
+                                               Main /Standby/Emergency
+                                               Pedestal                       2- Tyre MS
+                                               Rotation Device                Stepper motor
+                                               R.P.M.                         4
+                                               Illumining                     CDMT-150 Watt-01
+                                               Main                           230V/150W CDMT
+                                               Standby
+                                               Emergency:
+                                               Date of Installation           07/09/2010
+    8         प्रिािी बीम तीव्रता/Effective    Main
+              beam intensity                   Emergency
+    9         लेंिनन/Lantern                   Diameter                       3.0m
+                                               Height of glazing              2.0m
+                                               No. of panes                   12
+                                               Ventilators                    09
+    10        NAIS –NA
+     Base Station
+
+     Model                 Type                 Power                          MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna          Band                 Modem
+
+11   ऊर्ान के              Mains                                               440V/3-phase/50 Hz
+                           Power Source                                        DG Set 15 KVA make Kirloskar
+     साधन/Source of        Engine 1
+     energy                Make/Type                     Qty       Rating      No of         RPM                  Coolin
+                                                                               Cylinder                           g
+                           Kirloskar                     1         20.5 HP     2             1500                 Air
+                           Alternator
+                           Make/Type                     Qty       Rating      Voltage/Amp   Frequency            Phase
+                           Kirloskar                     1         15 KVA      230V/65.2A    50Hz                 Single
+                           Solar Plant
+                           Capacity PV                   Numbers               Type          Battery              Bank
+                           9 KWP                         36 Nos                Mono          48 Nos               01 No.
+                                                                               Crystalline   2V/900AH
+12   स्िचाभलत िोल्िे र् स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model                 Capa Input                     Output               Phase         Qty
+     SERVO                VSP/8/160/1           8KVA 160 To 260V                    240              Single       1
+13   बैिरर
+     Batteries
+     Equipment            Type                  Make     Volt                  Amp/Hr        Qty
+     PSS NAIS                   -                  -               -               -                   -
+     Genset               Lead acid             SF       12V                   150AH         1
+                                                Sonic
+     Automation
+     DGPS
+14   बैिरर चार्नर/ Battery charger
+
+     Equipment            Make                  Model    Type                  Rating        Qty
+     General Purpose        ARGO                                               0-80V/10              02
+                                                                               A
+     Automation                                   ---             ----
+15   इंवटट र Inverter /UPS
+     Equipme Nos Make                   Model                      Type        Rating        Qty input               ou
+     nt                                                                                                              tp
+                                                                                                                     ut
+     Main           ---    UTL                     ---                   UPS    1KVA/12       2            12V       23
+     Light                                                                         V                                 0V
+     NAIS PSS     01      APC                                            UPS                  1            230V      23
+                                                                                                                     0V
+                 02      LUMIN                             UPS               1     230V      23
+                         AS                                                                  0V
+16   स्वचलन उपकरण
+     Automation Equipment
+     MAKE       PLC              HMI       Power Supply          VSAT        Mode Band
+                                                                             m
+     RDS         Allen bradley             220V                  -           Robu X-BAND
+                                                                             stel
+17   आप्ननशमन उपकरण                    Type of Extinguisher      Capacity   Nos    Make
+     Fire Fighting Equipment           DCP Type                  4 kg       8
+                                       Water Co2                 -          -
+                                       Foam Type                 -          -
+18   संचार                             Not Available
+     Communication
+19   र्लपूर्तन                         Well is provided Outside the Lighthouse, 3 HP
+                                       Submersible pump provided for water pumping. Running
+     Water Supply
+                                       water provided from 500 ltr sintex make tank fitted on
+                                       powerhouse, HLK, LHA and IQ..
+20   िूभम                              Area                                  1.470 hectares
+     Land                              Demarcation                          Compound wall on all
+                                                                            the four sides
+21   इमारतें                           RCC Structure: 06 Nos                Inspection Quarter,
+     Buildings                                                              Powerhouse, HLK
+                                                                            Quarter, One twin
+                                                                            unit of LHA
+                                                                            Quarters,Store.
+
+                                       Timber Construction above plinth
+                                       level
+22   कंपाउं ड लाइि                     8 Nos. G.I. Poles with LED
+     Compound Lights                   lamp fitted
+                                       Gate Light-02
+                                       10 Nos Solar LED street
+                                       Light
+
+
+                                                      Gate lights –
+                                       2 Nos. 10 Nos Solar LED
+                                       street Light
+23   सीसीिीिीकमेरा                     Camera
+      CCTV CAMERA                      DVR
+24   स्िाफ                             Sl. No         Designations
+     Staff                           1           Navigational Assistant -III
+                                     2
+25   पहुँचने का माध्यम               By Train up to Bhatiya , Then 20Km by road up to
+                                     Navadra and then 4kms rough road up to Lighthouse.
+     Mode of approach
+26   उपलब्ध सविधाए                   Post office at 4 KM from lighthouse at Navadra
+                                     village.Police Station, Dispensary and Highschool at
+     Facilities available
+                                     Bhatiya 24 km from Lighthouse.Hospital at Dwarka 65
+                                     KM from Lighthouse.
+
+
+27   डाकपताPostal address            Station Incharge, Navadra Lighthouse, P.O.
+                                     Bhatiya,Taluka- Kalyanpur, Dist- Devbhumi Dwarka Pin-
+                                     361315.
+28   मूल्य का ब्योराCost details     15,56,198/-
+     (At the time of Construction)
+29   प्रितनन मे लाने का टदनांक       04/07/1986
+     Date of commissioning
+

@@ -1,0 +1,768 @@
+// Lighthouses of India — map, UI and linked views. Mobile first: the panel is a bottom
+// sheet under 821px and a sidebar above it.
+import * as THREE from 'three';
+// ?v= on every module: Cloudflare caches .js for ~4 h, and a fresh app.js must never meet a stale layer3d.js
+import { LighthouseLayer, COLOURS, lightLevel, morsePhases } from './layer3d.js?v=8';
+import { createCapture } from './record.js?v=5';
+import { openRecord } from './dossier.js?v=1';
+import { mountScene } from './scenes.js?v=1';
+import { towerSpec } from './models.js?v=3';
+
+const maplibregl = window.maplibregl;
+const $ = s => document.querySelector(s);
+// one icon set (Tabler, web/icons.svg, built by scripts/build_icons.py)
+const icon = (name, cls = '') => `<svg class="i ${cls}" aria-hidden="true"><use href="icons.svg?v=2#${name}"/></svg>`;
+const esc = s =>String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const fmt = (v, d = 0) => v == null ? '–' : Number(v).toLocaleString('en-IN', { maximumFractionDigits: d });
+const desktop = matchMedia('(min-width:821px)').matches;
+const SHEET_PEEK = 88;                     // collapsed bottom-sheet height on phones
+const PIXEL_RATIO = 0.5;                   // map buffer pixels per CSS pixel: every map pixel is a 2×2 block
+
+const VIEWS = {
+  india:       { center: [80.8, desktop ? 14.2 : 12.2], zoom: desktop ? 4.35 : 3.35, pitch: desktop ? 38 : 20, bearing: 0 },
+  west:        { center: [72.4, 17.5], zoom: 5.6, pitch: 55, bearing: 18 },
+  east:        { center: [83.2, 15.6], zoom: 5.5, pitch: 55, bearing: -22 },
+  lakshadweep: { center: [72.9, 10.6], zoom: 6.8, pitch: 55, bearing: 0 },
+  andaman:     { center: [92.9, 10.4], zoom: 5.7, pitch: 55, bearing: 12 },
+  chennai:     { center: [80.28, 13.03], zoom: 9.4, pitch: 62, bearing: -30 },
+};
+const VOYAGE = [
+  { center: [69.1, 22.6], zoom: 7.2, bearing: 40 }, { center: [72.8, 18.9], zoom: 8.2, bearing: 10 },
+  { center: [73.8, 15.5], zoom: 8.0, bearing: -10 }, { center: [76.2, 9.9], zoom: 8.0, bearing: -25 },
+  { center: [77.5, 8.1], zoom: 8.6, bearing: -60 }, { center: [80.3, 13.0], zoom: 9.2, bearing: -30 },
+  { center: [83.3, 17.7], zoom: 8.3, bearing: -35 }, { center: [86.7, 20.3], zoom: 8.0, bearing: -45 },
+  { center: [92.7, 11.6], zoom: 7.6, bearing: 10 }, { center: [73.0, 8.3], zoom: 8.4, bearing: 0 },
+];
+
+// Identity colours for the Technology / Visit modes: reference-palette dark slots 1-2,
+// validated on this surface (all pairs, CVD ΔE 26.8). Everything else stays neutral.
+const SLOT = { a: '#3987e5', b: '#d95926', rest: '#5d6873' };
+const C3 = Object.fromEntries(Object.entries(SLOT).map(([k, v]) => [k, new THREE.Color(v)]));
+
+/* ------------------------------------------------------------------ data */
+const [data, reach, base] = await Promise.all([
+  fetch('data/lighthouses.json').then(r => r.json()),
+  fetch('data/reach.json').then(r => r.json()),
+  fetch('data/basemap.json').then(r => r.json()),
+]);
+const S = data.stations;
+const P = data.parliament;
+const lights = S.filter(s => s.kind === 'lighthouse' || s.kind === 'lightvessel');
+const byId = new Map(S.map(s => [s.id, s]));
+const yearOf = s => s.established || s.tower_year;
+
+/* ------------------------------------------------------------------- map */
+const map = new maplibregl.Map({
+  container: 'map',
+  // glyphs are only fetched once the lazy place-name layers are added
+  style: { version: 8, glyphs: 'https://tiles.openfreemap.org/fonts/{fontstack}/{range}.pbf', sources: {},
+           layers: [{ id: 'bg', type: 'background', paint: { 'background-color': '#05080c' } }] },
+  ...VIEWS.india, minZoom: 2.8, maxZoom: 16.5, maxPitch: 72,
+  maxBounds: [[52, -8], [108, 34]], renderWorldCopies: false, attributionControl: false,
+  // Pixel art: the whole map (coast, beams, waves, voxel towers) renders at half resolution and
+  // is scaled up without smoothing (.maplibregl-canvas { image-rendering: pixelated }).
+  pixelRatio: PIXEL_RATIO,
+  // preserveDrawingBuffer: pictures and videos read the WebGL canvas back (record.js)
+  canvasContextAttributes: { antialias: true, preserveDrawingBuffer: true },
+});
+map.addControl(new maplibregl.AttributionControl({
+  compact: true,
+  customAttribution: 'DGLL · Lok Sabha · © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> · Natural Earth · DataMeet',
+}), desktop ? 'bottom-right' : 'top-left');
+map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), desktop ? 'bottom-right' : 'top-right');
+map.setPadding(desktop ? { left: 340, top: 0, right: 0, bottom: 0 } : { left: 0, top: 0, right: 0, bottom: SHEET_PEEK });
+
+const layer = new LighthouseLayer(maplibregl, data, reach);
+window.__lh = { map, layer };          // console / headless-verification hook
+
+// "style.load", not "load": on this host tiles-settled "load" can fail to fire (maps-site ARCHITECTURE.md)
+map.once('style.load', () => {
+  map.addSource('land', { type: 'geojson', data: base.land });
+  map.addSource('india', { type: 'geojson', data: base.india });
+  map.addSource('states', { type: 'geojson', data: base.states });
+  map.addSource('lakes', { type: 'geojson', data: base.lakes });
+  map.addSource('planned', { type: 'geojson', data: {
+    type: 'FeatureCollection',
+    features: P.planned.sites.map(s => ({ type: 'Feature', properties: { name: s.name }, geometry: { type: 'Point', coordinates: [s.lon, s.lat] } })),
+  } });
+  map.addLayer({ id: 'land', type: 'fill', source: 'land', paint: { 'fill-color': '#0c1117' } });
+  map.addLayer({ id: 'india', type: 'fill', source: 'india', paint: { 'fill-color': '#10171f' } });
+  map.addLayer({ id: 'lakes', type: 'fill', source: 'lakes', paint: { 'fill-color': '#070b10' } });
+  map.addLayer({ id: 'states', type: 'line', source: 'states',
+    paint: { 'line-color': '#9fb4c8', 'line-opacity': 0.13, 'line-width': ['interpolate', ['linear'], ['zoom'], 4, 0.4, 9, 1.1] } });
+  map.addLayer({ id: 'coast-glow', type: 'line', source: 'land',
+    paint: { 'line-color': '#3a5a78', 'line-opacity': 0.35, 'line-blur': 3, 'line-width': ['interpolate', ['linear'], ['zoom'], 4, 2, 10, 6] } });
+  map.addLayer({ id: 'coast', type: 'line', source: 'land',
+    paint: { 'line-color': '#6d8aa6', 'line-opacity': 0.55, 'line-width': ['interpolate', ['linear'], ['zoom'], 4, 0.5, 10, 1.2] } });
+  map.addLayer({ id: 'planned', type: 'circle', source: 'planned', paint: {
+    'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3.5, 10, 8],
+    'circle-color': 'rgba(0,0,0,0)', 'circle-stroke-color': '#d9a066', 'circle-stroke-width': 1.6,
+  } });
+  map.addLayer(layer);
+  requestAnimationFrame(() => $('#loading').classList.add('done'));
+  // the lights paint first; places, roads and rivers stream in after the first settled frame
+  map.once('idle', () => { if ($('#l-base').checked) loadBasemap(); });
+  // compact attribution opens expanded; on a phone that covers the top of the map
+  if (!desktop) setTimeout(() => document.querySelector('.maplibregl-ctrl-attrib')?.classList.remove('maplibregl-compact-show'), 50);
+});
+
+/* ---------------------------------------------------------- pixel scenes */
+// Card and header scenes run on the map's clock, so a scene's flashes match the beam on the map.
+const SCENE_OPTS = {
+  towerSpec,
+  clock: () => layer.clock.value,
+  level: (st, t) => (st.phases ? lightLevel(st.phases, t) : 0),
+};
+{
+  const hero = byId.get('chennai-lighthouse') || lights[0];
+  if (hero) mountScene($('#hero-scene'), hero, SCENE_OPTS);
+}
+
+/* --------------------------------------------------------- lazy basemap */
+// OpenFreeMap vector tiles (OpenMapTiles schema, OSM data; no key). Only orientation layers are used:
+// water bodies, main roads, rivers, place and sea names. Country/state lines stay DataMeet's
+// Survey-of-India outline from basemap.json, so OSM boundary layers are deliberately not drawn.
+const BASE_LAYERS = [];
+function loadBasemap() {
+  if (map.getSource('omt')) return setBasemap(true);
+  $('#base-status').textContent = 'loading…';
+  map.addSource('omt', {
+    type: 'vector', url: 'https://tiles.openfreemap.org/planet',
+    attribution: '<a href="https://openfreemap.org" target="_blank">OpenFreeMap</a> © <a href="https://www.openmaptiles.org/" target="_blank">OpenMapTiles</a>',
+  });
+  const name = ['coalesce', ['get', 'name:en'], ['get', 'name_en'], ['get', 'name']];
+  const below = 'coast-glow';
+  const add = (def, before) => { map.addLayer({ source: 'omt', ...def }, before); BASE_LAYERS.push(def.id); };
+  add({ id: 'omt-urban', type: 'fill', 'source-layer': 'landuse', minzoom: 8,
+    filter: ['match', ['get', 'class'], ['residential', 'suburb', 'neighbourhood', 'commercial', 'industrial', 'retail'], true, false],
+    paint: { 'fill-color': '#18212b', 'fill-opacity': ['interpolate', ['linear'], ['zoom'], 8, 0.25, 12, 0.7] } }, below);
+  add({ id: 'omt-water', type: 'fill', 'source-layer': 'water', minzoom: 5,
+    filter: ['!=', ['get', 'class'], 'ocean'], paint: { 'fill-color': '#08111a' } }, below);
+  add({ id: 'omt-river', type: 'line', 'source-layer': 'waterway', minzoom: 7,
+    filter: ['match', ['get', 'class'], ['river', 'canal'], true, false],
+    paint: { 'line-color': '#1b3347', 'line-width': ['interpolate', ['linear'], ['zoom'], 7, 0.5, 12, 1.6] } }, below);
+  add({ id: 'omt-road-minor', type: 'line', 'source-layer': 'transportation', minzoom: 10,
+    filter: ['match', ['get', 'class'], ['secondary', 'tertiary'], true, false],
+    paint: { 'line-color': '#222c36', 'line-width': ['interpolate', ['linear'], ['zoom'], 10, 0.4, 14, 1.8] } }, below);
+  add({ id: 'omt-road-major', type: 'line', 'source-layer': 'transportation', minzoom: 6,
+    filter: ['match', ['get', 'class'], ['motorway', 'trunk', 'primary'], true, false],
+    paint: { 'line-color': '#2d3a47', 'line-width': ['interpolate', ['linear'], ['zoom'], 6, 0.3, 10, 1, 14, 2.6] } }, below);
+  const labelPaint = { 'text-color': '#b9c6d2', 'text-halo-color': '#05080c', 'text-halo-width': 1.4 };
+  add({ id: 'omt-sea', type: 'symbol', 'source-layer': 'water_name', minzoom: 3.5,
+    layout: { 'text-field': name, 'text-font': ['Noto Sans Italic'], 'text-size': ['interpolate', ['linear'], ['zoom'], 4, 11, 9, 14],
+              'text-letter-spacing': 0.2, 'symbol-placement': 'point', 'text-max-width': 8 },
+    paint: { 'text-color': '#4f7392', 'text-halo-color': '#05080c', 'text-halo-width': 1 } });
+  add({ id: 'omt-state', type: 'symbol', 'source-layer': 'place', minzoom: 4.5, maxzoom: 8,
+    filter: ['==', ['get', 'class'], 'state'],
+    layout: { 'text-field': name, 'text-font': ['Noto Sans Regular'], 'text-size': 10.5, 'text-transform': 'uppercase', 'text-letter-spacing': 0.15 },
+    paint: { 'text-color': '#6f8396', 'text-halo-color': '#05080c', 'text-halo-width': 1 } });
+  add({ id: 'omt-city', type: 'symbol', 'source-layer': 'place', minzoom: 4,
+    filter: ['==', ['get', 'class'], 'city'],
+    layout: { 'text-field': name, 'text-font': ['Noto Sans Bold'], 'text-size': ['interpolate', ['linear'], ['zoom'], 4, 10.5, 10, 14],
+              'symbol-sort-key': ['coalesce', ['get', 'rank'], 99] },
+    paint: labelPaint });
+  // the map renders at half resolution (pixel art), so place names are sparser and a size larger
+  add({ id: 'omt-town', type: 'symbol', 'source-layer': 'place', minzoom: 8,
+    filter: ['==', ['get', 'class'], 'town'],
+    layout: { 'text-field': name, 'text-font': ['Noto Sans Regular'], 'text-size': ['interpolate', ['linear'], ['zoom'], 8, 12, 12, 15], 'text-padding': 6 },
+    paint: { ...labelPaint, 'text-color': '#94a3b1' } });
+  add({ id: 'omt-village', type: 'symbol', 'source-layer': 'place', minzoom: 11,
+    filter: ['match', ['get', 'class'], ['village', 'suburb'], true, false],
+    layout: { 'text-field': name, 'text-font': ['Noto Sans Regular'], 'text-size': 11 },
+    paint: { ...labelPaint, 'text-color': '#7d8b98' } });
+  map.once('idle', () => { $('#base-status').textContent = ''; });
+}
+function setBasemap(on) {
+  for (const id of BASE_LAYERS) if (map.getLayer(id)) map.setLayoutProperty(id, 'visibility', on ? 'visible' : 'none');
+}
+$('#l-base').addEventListener('change', e => { if (e.target.checked) loadBasemap(); else setBasemap(false); });
+
+/* ----------------------------------------------------------------- stats */
+{
+  const years = lights.map(yearOf).filter(Boolean);
+  const c = data.meta.counts;
+  $('#stats').innerHTML = [
+    ['beam', lights.length, 'active lights'],
+    ['navtex', data.navtex.length, 'NAVTEX stations'],
+    ['racon', data.racons.length, 'RACON beacons'],
+    ['', c.tourism, 'public access'],
+    ['', c.museums, 'museums'],
+    ['', Math.min(...years), 'oldest station'],
+  ].map(([k, v, l]) => `<div class="stat ${k}"><b>${v}</b><span>${l}</span></div>`).join('');
+  $('#built').textContent = `Data fetched ${data.meta.built.slice(0, 10)}.`;
+  $('#names').innerHTML = S.map(s => `<option value="${esc(s.name)}">`).join('');
+  const rev = lights.filter(s => s.sim?.mode === 'revolving').length;
+  $('#optic-note').textContent = `${rev} revolve · ${c.flasher} flash in place · ${lights.length - rev - c.flasher} not stated`;
+}
+
+/* ------------------------------------------------------------ colour by */
+const YEAR_MIN = 1790, YEAR_MAX = 2026;
+const ageRamp = y => {
+  if (!y) return new THREE.Color('#8e99a4');
+  const f = Math.max(0, Math.min(1, (y - 1840) / (2020 - 1840)));
+  return new THREE.Color().setHSL(0.02 + f * 0.5, 0.9, 0.62 - f * 0.08);
+};
+const count = f => lights.filter(f).length;
+const swatch = (c, label, n) => `<span><i style="background:${c}"></i>${label} ${n}</span>`;
+const COLOUR_MODES = {
+  light: { fn: s => COLOURS[s.colour] || COLOURS.W,
+    legend: () => swatch('#ffd27a', 'White', count(s => s.colour === 'W')) + swatch('#ff5a4f', 'Red', count(s => s.colour === 'R'))
+      + swatch('#3fe08a', 'Green', count(s => s.colour === 'G')) },
+  tech: { fn: s => s.navtex ? C3.a : s.racon ? C3.b : C3.rest,
+    legend: () => swatch(SLOT.a, 'NAVTEX', count(s => s.navtex)) + swatch(SLOT.b, 'RACON', count(s => !s.navtex && s.racon))
+      + swatch(SLOT.rest, 'Light only', count(s => !s.navtex && !s.racon))
+      + `<span class="full">Also ${data.meta.counts.ais} AIS · ${data.meta.counts.dgps} DGNSS stations</span>` },
+  age: { fn: s => ageRamp(yearOf(s)),
+    legend: () => `<div class="ramp" style="background:linear-gradient(90deg,${[1840, 1885, 1930, 1975, 2020].map(y => '#' + ageRamp(y).getHexString()).join(',')})"></div>
+                   <div class="ends"><span>1840 and older</span><span>2020</span></div>` },
+  visit: { fn: s => s.museum ? C3.a : s.tourism ? C3.b : C3.rest,
+    legend: () => swatch(SLOT.a, 'Museum', count(s => s.museum)) + swatch(SLOT.b, 'Public access', count(s => s.tourism && !s.museum))
+      + swatch(SLOT.rest, 'No public access', count(s => !s.tourism)) },
+};
+let colourMode = 'light';
+function setColourMode(m) {
+  colourMode = m;
+  document.querySelectorAll('#colour-by button').forEach(b => { const on = b.dataset.v === m; b.classList.toggle('on', on); b.setAttribute('aria-checked', on); });
+  layer.setColour(COLOUR_MODES[m].fn);
+  $('#legend').innerHTML = COLOUR_MODES[m].legend();
+}
+document.querySelectorAll('#colour-by button').forEach(b => b.onclick = () => setColourMode(b.dataset.v));
+setColourMode('light');
+
+/* --------------------------------------------------------------- toggles */
+const bindToggle = (id, key) => $(id).addEventListener('change', e => layer.setVisible({ [key]: e.target.checked }));
+bindToggle('#l-beams', 'beams'); bindToggle('#l-navtex', 'navtex'); bindToggle('#l-racon', 'racon'); bindToggle('#l-towers', 'towers');
+$('#l-labels').addEventListener('change', placeLabels);
+function setSheet(open) {
+  const p = $('#panel');
+  p.classList.toggle('collapsed', !open);
+  document.body.classList.toggle('sheet-open', open && !desktop);   // phone: the open sheet hides the floating camera/record
+  $('#panel-toggle').setAttribute('aria-expanded', open);
+  $('#panel-toggle').title = open ? 'Hide panel' : 'Show panel';
+}
+$('#panel-toggle').onclick = () => setSheet($('#panel').classList.contains('collapsed'));
+$('#panel header').addEventListener('click', e => { if (!desktop && e.target.closest('header') && !e.target.closest('button')) setSheet($('#panel').classList.contains('collapsed')); });
+if (!desktop) setSheet(false);
+
+/* ---------------------------------------------------------------- history */
+function setYear(y) {
+  layer.setYear(y);
+  $('#year').value = y;
+  $('#wm-year').textContent = y;
+  $('#year-label').textContent = y >= YEAR_MAX ? 'today' : y;
+  const n = lights.filter(s => layer.bornBy(s, y)).length;
+  const dated = lights.filter(s => yearOf(s) && yearOf(s) <= y).sort((a, b) => yearOf(a) - yearOf(b));
+  $('#year-note').textContent = y >= YEAR_MAX
+    ? `All ${lights.length} lights. ${lights.filter(s => !yearOf(s)).length} have no recorded date and stay lit.`
+    : `${n} lights by ${y}.${dated.length ? ' Newest by then: ' + nice(dated[dated.length - 1].name).replace(/ Lighthouse.*/i, '') + '.' : ''}`;
+}
+$('#year').addEventListener('input', e => { stopPlay(); setYear(+e.target.value); });
+let playing = null;
+function stopPlay() { if (playing) { cancelAnimationFrame(playing); playing = null; $('#play').innerHTML = icon('play'); } }
+$('#play').onclick = () => {
+  if (playing) return stopPlay();
+  const start = performance.now(), from = +$('#year').value >= YEAR_MAX ? YEAR_MIN : +$('#year').value;
+  $('#play').innerHTML = icon('pause');
+  const step = now => {
+    const y = Math.round(from + (now - start) / 1000 * 11);
+    setYear(Math.min(YEAR_MAX, y));
+    if (y < YEAR_MAX) playing = requestAnimationFrame(step); else stopPlay();
+  };
+  playing = requestAnimationFrame(step);
+};
+setYear(YEAR_MAX);
+
+/* ------------------------------------------------------------------ NAVTEX */
+// DGLL lists the transmission slots as UTC HHMM; each NAVTEX slot is 10 minutes.
+function navtexStatus(date = new Date()) {
+  const mins = date.getUTCHours() * 60 + date.getUTCMinutes() + date.getUTCSeconds() / 60;
+  const live = new Set(), liveNames = [];
+  let next = null;
+  for (const n of data.navtex) {
+    for (const [slots, freq] of [[n.slots_518, 518], [n.slots_490, 490]]) {
+      for (const sl of slots) {
+        const m = +sl.slice(0, 2) * 60 + +sl.slice(2, 4);
+        if (mins >= m && mins < m + 10) { live.add(n.id_518); liveNames.push(`${n.name} (${freq} kHz, ${freq === 518 ? n.id_518 : n.id_490})`); }
+        let d = m - mins; if (d < 0) d += 1440;
+        if (freq === 518 && (!next || d < next.d)) next = { d, n };
+      }
+    }
+  }
+  return { live, liveNames, next };
+}
+function updateNavtex() {
+  const st = navtexStatus();
+  layer.setNavtexLive(st.live);
+  $('#navtex-live').textContent = st.liveNames.length ? `● on air: ${st.liveNames[0].split(' (')[0]}`
+    : st.next ? `next ${st.next.n.name} in ${Math.ceil(st.next.d)} min` : '';
+  $('#navtex-live').title = st.liveNames.join('\n');
+}
+updateNavtex(); setInterval(updateNavtex, 15000);
+
+/* ----------------------------------------------------------------- tooltip */
+const tip = document.createElement('div');
+tip.className = 'tip'; tip.hidden = true; tip.setAttribute('role', 'tooltip');
+document.body.appendChild(tip);
+function showTip(html, x, y) {
+  tip.innerHTML = html; tip.hidden = false;
+  const w = tip.offsetWidth, h = tip.offsetHeight;
+  tip.style.left = Math.max(8, Math.min(x + 14, innerWidth - w - 8)) + 'px';
+  tip.style.top = Math.max(8, Math.min(y + 14, innerHeight - h - 8)) + 'px';
+}
+const hideTip = () => { tip.hidden = true; };
+
+/* ------------------------------------------------------------------ funding */
+{
+  const b = P.budget, max = Math.max(...b.rows.map(r => r.allocation));
+  const el = $('#budget');
+  el.innerHTML = b.rows.map((r, i) => `
+    <div class="row" tabindex="0" data-i="${i}" aria-label="${r.year}: ₹${r.utilisation} crore used of ₹${r.allocation} crore allocated">
+      <span class="yr">${r.year}</span>
+      <div class="track" style="width:${(r.allocation / max) * 100}%"><div class="fill" style="width:${(r.utilisation / r.allocation) * 100}%"></div></div>
+      <div class="val">₹${fmt(r.utilisation, 2)} cr used <span>of ₹${fmt(r.allocation)} cr · ${fmt((r.utilisation / r.allocation) * 100, 1)}%</span></div>
+    </div>`).join('') +
+    `<div class="row axisrow" aria-hidden="true"><span></span><div class="axis"><span>₹0</span><span>₹${fmt(max)} cr</span></div></div>`;
+  const tipFor = r => `<b>${r.year}</b><span class="k">Allocated</span> ₹${fmt(r.allocation, 2)} cr<br><span class="k">Used</span> ₹${fmt(r.utilisation, 2)} cr<br><span class="k">Unspent</span> ₹${fmt(r.allocation - r.utilisation, 2)} cr`;
+  el.querySelectorAll('.row[data-i]').forEach(row => {
+    const r = b.rows[+row.dataset.i];
+    row.addEventListener('pointermove', e => showTip(tipFor(r), e.clientX, e.clientY));
+    row.addEventListener('pointerleave', hideTip);
+    row.addEventListener('focus', () => { const rc = row.getBoundingClientRect(); showTip(tipFor(r), rc.left + 40, rc.bottom - 8); });
+    row.addEventListener('blur', hideTip);
+  });
+  $('#budget-src').innerHTML = `<a href="${esc(b.url)}" target="_blank" rel="noopener">Lok Sabha Q949</a>, 24 Jul 2026`;
+}
+
+/* ------------------------------------------------------------ visit + planned */
+{
+  const t = P.tourism;
+  const museums = t.museums.map(id => byId.get(id)).filter(Boolean).map(s => nice(s.name).replace(/ (Point )?Lighthouse.*$/i, ''));
+  $('#visit-note').innerHTML = `<b>${t.count}</b> lighthouses open to the public; <b>${museums.length}</b> with museums: ${esc(museums.join(', '))}. <a href="${esc(t.url)}" target="_blank" rel="noopener">Lok Sabha Q3233</a>`;
+  $('#show-visit').onclick = () => { setColourMode('visit'); if (!desktop) setSheet(false); map.flyTo({ ...VIEWS.india, duration: 1800 }); };
+
+  const p = P.planned;
+  $('#planned-note').innerHTML = `Work orders issued for ${p.sites.length} lights on NW-2. Rings mark the river ports; exact sites unpublished. <a href="${esc(p.url)}" target="_blank" rel="noopener">Lok Sabha Q3233</a>`;
+  $('#planned-list').innerHTML = p.sites.map((s, i) => `<button class="btn" data-planned="${i}">${esc(s.name)}</button>`).join('');
+  document.querySelectorAll('[data-planned]').forEach(btn => btn.onclick = () => {
+    const s = p.sites[+btn.dataset.planned];
+    if (!desktop) setSheet(false);
+    map.flyTo({ center: [s.lon, s.lat], zoom: 8.5, pitch: 45, bearing: 0, duration: 2400, essential: true });
+  });
+}
+
+/* ------------------------------------------------------------------ labels */
+const labelsEl = $('#labels');
+const labelEls = new Map();
+const MAJOR = new Set(S.filter(s => s.navtex || s.museum || s.kind === 'lightvessel' || (s.intensity_cd || 0) > 900000 || /kanyakumari|minicoy-south|aguada|prongs/.test(s.id)).map(s => s.id));
+const PLANNED_LABELS = P.planned.sites.map((s, i) => ({ id: 'planned-' + i, name: `${s.name} (planned)`, lat: s.lat, lon: s.lon, planned: true }));
+function nice(s) { return s ? s.replace(/\b([A-Z])([A-Z]+)\b/g, (m, a, b) => a + b.toLowerCase()) : s; }
+function placeLabels() {
+  const on = $('#l-labels').checked;
+  const z = map.getZoom();
+  const W = labelsEl.clientWidth, H = labelsEl.clientHeight;
+  const occupied = [];
+  const minMajor = desktop ? 4.6 : 5.2, minAll = desktop ? 6.6 : 7.2;
+  const cands = on ? [
+    ...S.filter(s => z >= minAll || (MAJOR.has(s.id) && z >= minMajor)),
+    ...(z >= 5 ? PLANNED_LABELS : []),
+  ] : [];
+  cands.sort((a, b) => (MAJOR.has(b.id) - MAJOR.has(a.id)) || ((b.reach_nm || 0) - (a.reach_nm || 0)));
+  const keep = new Set();
+  const lift = z >= 6.2 && $('#l-towers').checked ? 58 : 0;
+  for (const s of cands) {
+    const p = map.project([s.lon, s.lat]);
+    if (p.x < 0 || p.y < 0 || p.x > W || p.y > H) continue;
+    const name = s.planned ? s.name : nice(s.name).replace(/\s+(Lighthouse|Light House|Station).*$/i, '');
+    const y = p.y - (s.planned ? 0 : lift);
+    const w = name.length * 6.2 + 8, box = [p.x - w / 2, y - 34, p.x + w / 2, y - 16];
+    if (occupied.some(o => !(box[2] < o[0] || box[0] > o[2] || box[3] < o[1] || box[1] > o[3]))) continue;
+    occupied.push(box);
+    keep.add(s.id);
+    let el = labelEls.get(s.id);
+    if (!el) {
+      el = document.createElement(s.planned ? 'div' : 'button');
+      el.className = 'lab' + (MAJOR.has(s.id) ? ' major' : '') + (s.navtex ? ' nav' : '') + (s.planned ? ' planned' : '');
+      el.textContent = name;
+      if (!s.planned) { el.type = 'button'; el.onclick = () => select(s.id, true); }
+      labelsEl.appendChild(el); labelEls.set(s.id, el);
+    }
+    el.style.left = p.x + 'px'; el.style.top = y + 'px';
+  }
+  for (const [id, el] of labelEls) if (!keep.has(id)) { el.remove(); labelEls.delete(id); }
+}
+map.on('move', placeLabels); map.on('resize', placeLabels); map.once('idle', placeLabels);
+setTimeout(placeLabels, 800);
+
+/* ----------------------------------------------------------------- picking */
+const HIT = desktop ? 22 : 30;              // fingers need a bigger target than a cursor
+function nearest(pt) {
+  let best = null, bd = HIT;
+  for (const s of S) {
+    const p = map.project([s.lon, s.lat]);
+    const d = Math.hypot(p.x - pt.x, p.y - pt.y);
+    if (d < bd) { bd = d; best = s; }
+  }
+  return best;
+}
+map.on('click', e => { const s = nearest(e.point); if (s) select(s.id, false); else closeCard(); });
+map.on('mousemove', e => { map.getCanvas().style.cursor = nearest(e.point) ? 'pointer' : ''; });
+$('#search').addEventListener('change', e => {
+  const q = e.target.value.trim().toLowerCase();
+  const s = S.find(x => x.name.toLowerCase() === q) || S.find(x => x.name.toLowerCase().includes(q));
+  if (s) { if (!desktop) setSheet(false); select(s.id, true); }
+});
+
+/* -------------------------------------------------------------------- card */
+let cardAnim = null;
+function select(id, fly) {
+  const s = byId.get(id);
+  if (!s) return;
+  layer.setSelected(id);
+  if (!desktop) setSheet(false);
+  if (fly) map.flyTo({ center: [s.lon, s.lat], zoom: Math.max(map.getZoom(), 9.2), pitch: 60, duration: 2200, essential: true });
+  renderCard(s);
+}
+function closeCard() {
+  layer.setSelected(null);
+  $('#card').hidden = true;
+  cancelAnimationFrame(cardAnim);
+}
+function opticText(s) {
+  if (s.kind === 'lightvessel') return 'Light vessel: a ship moored at sea as a floating lighthouse, where no tower can stand. DGLL\'s only one in service. Its LED lantern sits on a trestle above the deck, flashes in place and rides the swell.';
+  const sim = s.sim;
+  const sector = s.sectored ? ' The ledger gives white and red sectors but not their bearings, so the light is drawn white.' : '';
+  if (s.no_ledger) return 'DGLL has no ledger online for this light, so its optic type is unknown and it is drawn flashing in place. Its light and tower details come from the Lighthouse Directory.';
+  if (!sim) return '';
+  if (sim.mode === 'revolving') {
+    const beams = sim.beams.length * sim.groups_per_turn;
+    return `Revolving optic, simulated from its Master Ledger: ${beams} beam${beams > 1 ? 's' : ''} ${fmt(sim.width_deg, 1)}° wide (${sim.width_src}), one full turn every ${fmt(sim.rev_s, 1)} s (${sim.rev_src}).${sector}`;
+  }
+  if (sim.mode === 'fixed') return 'Fixed light: steady, no flashes.' + sector;
+  if (s.optic === 'flasher') return `LED flasher or fixed optic (${s.optic_evidence || 'per ledger'}): it flashes in place with the ledger timings and does not rotate.${sector}`;
+  return 'The ledger does not say whether the optic rotates, so it is drawn flashing in place with the ledger timings.' + sector;
+}
+/* Standard light specification: the same rows in the same order for every station, each
+   value tagged with where it comes from. */
+const SRC = { ledger: ['Ledger', 'DGLL Master Ledger'], derived: ['Derived', 'Computed from other ledger values'],
+              directory: ['Directory', 'Lighthouse Directory (Rowlett)'] };
+// ledger values are the default and cited in the footer, so only other sources get a tag
+const chip = k => k === 'ledger' ? '' : `<span class="src src-${k}" title="Source: ${SRC[k][1]}">${SRC[k][0]}</span>`;
+const COLOUR_NAME = { W: 'White', R: 'Red', G: 'Green', Y: 'Yellow' };
+const KIND_NAME = { Fl: ['flash', 'flashes'], LFl: ['long flash', 'long flashes'], Q: ['quick flash', 'quick flashes'],
+                    Oc: ['occulting', 'occultations'], Iso: ['isophase', 'isophase'], F: ['fixed', 'fixed'] };
+// one wording for every light, built from the parsed fields: "Fl(2) W 15s · White, 2 flashes every 15 s"
+function charText(s) {
+  if (!s.ckind) return esc(s.char || '–');
+  const n = s.group || 1, [one, many] = KIND_NAME[s.ckind] || [s.ckind, s.ckind];
+  const abbr = `${s.ckind}${n > 1 ? `(${n})` : ''} ${s.colour || ''} ${fmt(s.period, 2)}s`;
+  const colour = COLOUR_NAME[s.colour] || s.colour || '';
+  const words = s.ckind === 'F' ? `${colour}, steady`
+    : `${colour}, ${n > 1 ? `${n} ${many}` : one} every ${fmt(s.period, 2)} s`;
+  return `<span title="Ledger text: ${esc(s.char || '')}"><b>${abbr}</b> · ${words}</span>`;
+}
+function lightSpec(s) {
+  if (!s.phases) return `<section class="spec"><h4 class="spec-h">${icon('bulb')}Light</h4><p class="note">No light characteristic: radio / DGNSS station.</p></section>`;
+  const base = s.no_ledger ? 'directory' : 'ledger';
+  const sim = s.sim || {};
+  const seq = s.phases.map((v, i) => `${fmt(v, 2)} s ${i % 2 ? 'dark' : 'lit'}`).join(' · ');
+  const rows = [
+    ['Characteristic', charText(s), base],
+    ['Period', `${fmt(s.period, 2)} s`, base],
+    ['Sequence', seq, s.phases_src === 'ledger' ? base : 'derived'],
+  ];
+  if (sim.mode === 'revolving') {
+    rows.push(['Optic', 'Revolving lens, sweeps 360°', 'ledger']);
+    rows.push(['Rotation', `1 turn every ${fmt(sim.rev_s, 1)} s${sim.rpm ? ` (${fmt(sim.rpm, 3)} rpm)` : ''}`, /^ledger/.test(sim.rev_src || '') ? 'ledger' : 'derived']);
+    rows.push(['Beams', `${sim.beams.length * sim.groups_per_turn} beam${sim.beams.length * sim.groups_per_turn > 1 ? 's' : ''}, each ${fmt(sim.width_deg, 1)}° wide`,
+               sim.width_src === 'ledger horizontal divergence' ? 'ledger' : 'derived']);
+    if (s.panels) rows.push(['Lens panels', s.panels_total ? `${s.panels} lit of ${s.panels_total}` : `${s.panels}`, 'ledger']);
+  } else if (sim.mode === 'fixed') {
+    rows.push(['Optic', 'Fixed, steady light', base]);
+  } else if (s.optic === 'flasher') {
+    rows.push(['Optic', 'Flashes in place, does not rotate', 'ledger']);
+  } else {
+    rows.push(['Optic', 'Not stated; drawn flashing in place', 'derived']);
+  }
+  if (s.sectored) rows.push(['Sectors', esc(s.sectors_text || 'White and red sectors; bearings not in the ledger, drawn white'), 'ledger']);
+  return `<section class="spec"><h4 class="spec-h">${icon('bulb')}Light</h4><dl class="facts">${rows.map(([k, v, src]) => `<dt>${k}</dt><dd>${v} ${chip(src)}</dd>`).join('')}</dl></section>`;
+}
+
+// Brightness on a log scale against every DGLL light that states an intensity, a candle
+// (≈1 cd) and one car high-beam lamp (ECE maximum 140,000 cd per lamp).
+const HIGH_BEAM_CD = 140000;
+const INTENSITIES = lights.map(x => x.intensity_cd).filter(v => v > 0).sort((a, b) => a - b);
+function brightnessViz(s) {
+  const I = s.intensity_cd;
+  if (!I) return `<section class="spec"><h4 class="spec-h">${icon('brightness')}Brightness</h4><p class="note">The ledger states no beam intensity.</p></section>`;
+  const W = 320, lo = 0, hi = 8;                       // 10^0 … 10^8 cd
+  const x = v => 8 + (Math.log10(Math.max(1, v)) - lo) / (hi - lo) * (W - 16);
+  const rank = INTENSITIES.filter(v => v < I).length / INTENSITIES.length;
+  const ratio = I / HIGH_BEAM_CD;
+  const compare = ratio >= 1.5 ? `as bright as ${fmt(ratio, 0)} car high-beam lamps`
+    : ratio >= 0.67 ? 'about as bright as one car high-beam lamp'
+    : `${fmt(1 / ratio, 0)}× dimmer than one car high-beam lamp`;
+  const ticks = INTENSITIES.map(v => `<line x1="${x(v)}" x2="${x(v)}" y1="22" y2="34" class="t-all"/>`).join('');
+  const axis = [1, 100, 1e4, 1e6, 1e8].map(v => `<text x="${x(v)}" y="50" class="t-ax" text-anchor="middle">${v >= 1e6 ? fmt(v / 1e6) + 'M' : v >= 1e3 ? fmt(v / 1e3) + 'k' : v}</text>`).join('');
+  return `<section class="spec"><h4 class="spec-h">${icon('brightness')}Brightness ${chip(s.no_ledger ? 'directory' : 'ledger')}</h4>
+    <p class="big">${fmt(I)} <small>candela</small></p>
+    <p class="note">${compare}; brighter than ${fmt(rank * 100)}% of the ${INTENSITIES.length} DGLL lights that state an intensity.</p>
+    <svg viewBox="0 0 ${W} 56" class="viz" role="img" aria-label="${fmt(I)} candela on a log scale of all DGLL lights">
+      <line x1="8" x2="${W - 8}" y1="28" y2="28" class="t-base"/>${ticks}
+      <line x1="${x(1)}" x2="${x(1)}" y1="16" y2="40" class="t-ref"/><text x="${x(1) + 3}" y="14" class="t-lab">candle</text>
+      <line x1="${x(HIGH_BEAM_CD)}" x2="${x(HIGH_BEAM_CD)}" y1="16" y2="40" class="t-ref"/><text x="${x(HIGH_BEAM_CD)}" y="14" class="t-lab" text-anchor="middle">car high beam</text>
+      <circle cx="${x(I)}" cy="28" r="5.5" class="t-me"><title>${esc(nice(s.name))}: ${fmt(I)} cd</title></circle>${axis}
+    </svg>
+    <p class="note fine">Each tick is one lighthouse. Log scale: every step is 100× brighter.</p></section>`;
+}
+
+// How far out the light is seen: the shorter of its luminous range (brightness, at the IALA
+// reference visibility) and its geographical range (the horizon from its height to a 5 m eye).
+const REACHES = lights.map(x => x.reach_nm).filter(Boolean).sort((a, b) => a - b);
+function reachViz(s) {
+  if (!s.lum_nm && !s.geo_nm) return '';
+  const max = Math.max(35, Math.ceil(Math.max(s.lum_nm || 0, s.geo_nm || 0) / 5) * 5);
+  const W = 320, L = 92, x = nm => L + (nm / max) * (W - L - 10);
+  const med = REACHES[Math.floor(REACHES.length / 2)];
+  const limit = s.lum_nm && s.geo_nm ? (s.geo_nm < s.lum_nm ? 'the horizon (the curve of the Earth)' : 'its brightness') : null;
+  const bar = (y, nm, label, cls, src) => nm ? `<text x="0" y="${y + 9}" class="t-lab2">${label}</text>
+      <rect x="${L}" y="${y}" width="${Math.max(2, x(nm) - L)}" height="12" rx="0" class="${cls}"/><text x="${x(nm) + 4}" y="${y + 10}" class="t-val">${fmt(nm, 1)} NM</text>` : '';
+  const ticks = [0, max / 2, max].map(v => `<text x="${x(v)}" y="70" class="t-ax" text-anchor="middle">${fmt(v)} NM</text>`).join('');
+  return `<section class="spec"><h4 class="spec-h">${icon('ruler')}Reach ${chip(s.no_ledger ? 'directory' : 'ledger')}</h4>
+    <p class="big">${fmt(s.reach_nm, 1)} <small>NM · ${fmt(s.reach_nm * 1.852, 0)} km out to sea</small></p>
+    ${limit ? `<p class="note">Limited by ${limit}. India's median light reaches ${fmt(med, 1)} NM.</p>` : ''}
+    <svg viewBox="0 0 ${W} 76" class="viz" role="img" aria-label="Luminous range ${fmt(s.lum_nm, 1)} NM, geographical range ${fmt(s.geo_nm, 1)} NM">
+      ${bar(4, s.lum_nm, 'Brightness', 'r-lum')}${bar(26, s.geo_nm, `Horizon (${fmt(s.elev_m, 0)} m)`, 'r-geo')}
+      <line x1="${x(s.reach_nm)}" x2="${x(s.reach_nm)}" y1="0" y2="46" class="r-eff"/>
+      <line x1="${x(med)}" x2="${x(med)}" y1="44" y2="52" class="t-ref"/>
+      <line x1="${L}" x2="${W - 10}" y1="52" y2="52" class="t-base"/>${ticks}
+    </svg>
+    <p class="note fine">Brightness range: how far this intensity carries in clear weather (luminous range). Horizon: how far a 5 m eye on a ship can see the lantern over the Earth's curve (geographical range). The light is seen out to the shorter of the two.</p></section>`;
+}
+
+// installation years per equipment: the station's own ledger, else the network's first ledger year
+function equipSince(s) {
+  const names = { navtex: 'NAVTEX', racon: 'RACON', ais: 'AIS', dgps: 'DGNSS' };
+  const parts = Object.entries(s.equip_since || {}).filter(([, v]) => v && v.year)
+    .map(([k, v]) => `${names[k]} ${v.year}${v.src === 'network' ? ' <span class="src src-derived" title="Station ledger prints no date: earliest year any ledger records for this network">network</span>' : ''}`);
+  return parts.length ? `<dt>Equipment since</dt><dd>${parts.join(' · ')}</dd>` : '';
+}
+
+function ledgerDetail(s) {
+  const o = s.optic_detail || {};
+  const rows = [
+    ['Optic', [o.make, o.model, o.type, o.size].filter(Boolean).join(' · ')],
+    ['Rotation', o.rotation_device], ['Speed', s.rpm ? `${fmt(s.rpm, 3)} rpm` : null],
+    ['Panels', s.panels_total ? `${s.panels} active of ${s.panels_total} (ledger: “${s.panels_note}”)` : s.panels], ['Divergence', o.divergence_text], ['Illuminant', o.illuminant],
+    ['Sectors', s.sectors_text],
+  ].filter(([, v]) => v != null && v !== '');
+  if (!rows.length) return '';
+  return `<details class="story" open><summary>${icon('doc')}Optic details</summary><dl class="facts">${rows.map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join('')}</dl></details>`;
+}
+// Two kinds of note, kept apart so a routine one never reads like an error:
+// sim flags = the ledger's own figures disagree (rpm vs rhythm, panels vs beams, divergence vs flash);
+// transcription notes = how an awkward field was read (formats, blanks, misfiled pages).
+function ledgerChecks(s) {
+  const flags = s.sim?.flags || [], notes = s.ledger_issues || [];
+  return (flags.length ? `<div class="check">${icon('alert')}<span>${esc(flags.join('; '))}</span></div>` : '')
+    + (notes.length ? `<details class="story"><summary>${icon('list')}Transcription notes (${notes.length})</summary><ul class="tnotes">${notes.map(n => `<li>${esc(n)}</li>`).join('')}</ul></details>` : '');
+}
+function renderCard(s) {
+  const card = $('#card');
+  const pill = (cls, ic, label, sub, title) => `<span class="badge ${cls}" title="${esc(title)}">${icon(ic)}${label}${sub ? ` <small>${sub}</small>` : ''}</span>`;
+  const kit = [];
+  if (s.navtex) kit.push(pill('navtex', 'navtex', 'NAVTEX', `${esc(s.navtex.id_518)} · ${esc(s.navtex.id_490)}`, 'NAVTEX transmitter: ID on 518 kHz · ID on 490 kHz'));
+  if (s.racon) kit.push(pill('racon', 'racon', 'RACON', `${esc(s.racon)} ${morseText(s.racon)}`, 'Radar beacon: Morse identifier'));
+  if (s.ais) kit.push(pill('ais', 'ais', 'AIS', 'base station', 'National AIS (NAIS) base station'));
+  if (s.dgps) kit.push(pill('dgps', 'dgnss', 'DGNSS', '', 'Differential GNSS reference station'));
+  if (s.vts) kit.push(pill('vts', 'vts', 'VTS', 'radar', 'Vessel Traffic Service radar, Gulf of Kutch'));
+  if (s.museum) kit.push(pill('museum', 'museum', 'Museum', '', 'Lighthouse museum (Lok Sabha Q3233)'));
+  if (s.tourism) kit.push(pill('open', 'access', 'Public access', '', 'Developed for public visits (Lok Sabha Q3233)'));
+  else if (s.visit === 'open') kit.push(pill('open', 'access', 'Tower open', '', 'Lighthouse Directory: tower open to visitors'));
+  if (s.solar) kit.push(pill('solar', 'solar', 'Solar', '', 'Solar power listed in the Master Ledger'));
+  const maxR = Math.max(s.lum_nm || 0, s.geo_nm || 0, 1);
+  const nx = data.navtex.find(n => n.station === s.id);
+  const yr = s.established && s.tower_year && s.established !== s.tower_year
+    ? `${s.established} (tower ${s.tower_year})` : (yearOf(s) || '–');
+  const photo = s.photo ? (s.photo.includes('commons.wikimedia') ? s.photo.replace(/^http:/, 'https:') + '?width=720' : s.photo) : null;
+  card.innerHTML = `
+    <button class="close" aria-label="Close">${icon('close')}</button>
+    <canvas class="scene card-scene" role="img" aria-label="Pixel scene of ${esc(nice(s.name))} flashing its rhythm"></canvas>
+    <div class="body">
+      <h3>${esc(nice(s.name))}</h3>
+      <div class="region">${esc(s.region || '')} directorate · ${s.lat.toFixed(4)}° N, ${s.lon.toFixed(4)}° E</div>
+      ${photo ? `<a class="photo-thumb" href="${esc(photo)}" target="_blank" rel="noopener" style="background-image:url('${esc(s.photo_local || photo)}')"><span>${s.photo.includes('dgll') ? 'Photo · DGLL' : 'Photo · Wikimedia Commons'}</span></a>` : ''}
+      ${s.phases ? `<div class="signature"><canvas width="300" height="26" aria-label="Flash signature"></canvas></div>` : ''}
+      <div class="badges">${kit.join('')}</div>
+      ${lightSpec(s)}
+      ${brightnessViz(s)}
+      ${reachViz(s)}
+      ${ledgerChecks(s)}
+      ${s.record ? `<button class="btn wide rec-open">${icon('doc')}Full ledger record</button>` : ''}
+      <section class="spec"><h4 class="spec-h">${icon('lighthouse')}Station</h4>
+      <dl class="facts">
+        ${s.tower_type ? `<dt>Tower</dt><dd>${esc(nice(s.tower_type))}${s.tower_h_m && !/\d+(\.\d+)? m/.test(s.tower_type) ? `, ${fmt(s.tower_h_m, 1)} m` : ''}</dd>` : ''}
+        ${s.tower_colour && !s.no_ledger ? `<dt>Colours</dt><dd>${esc(nice(s.tower_colour))}</dd>` : ''}
+        <dt>Established</dt><dd>${esc(yr)}</dd>
+        ${equipSince(s)}
+        ${s.alol ? `<dt>Admiralty</dt><dd>${esc(s.alol)}${s.arlhs ? ` · ARLHS ${esc(s.arlhs)}` : ''}</dd>` : ''}
+        ${nx ? `<dt>NAVTEX slots</dt><dd>${nx.slots_518.map(x => x.slice(0, 2) + ':' + x.slice(2)).join(', ')} UTC</dd>` : ''}
+      </dl></section>
+      ${tendersSection(s)}
+      ${ledgerDetail(s)}
+      ${s.rowlett ? `<details class="story"><summary>${icon('book')}History (Lighthouse Directory)</summary><p>${esc(s.rowlett.replace(/[^.]*\bphoto\b[^.]*\.\s*/gi, ''))}</p></details>` : ''}
+      <div class="links">
+        ${s.page_url ? `<a href="${esc(s.page_url)}" target="_blank" rel="noopener">DGLL page</a>` : ''}
+        ${s.ledger_url ? `<a href="${esc(s.ledger_url)}" target="_blank" rel="noopener">Master Ledger (PDF)</a>` : ''}
+        ${s.tourism ? `<a href="${esc(P.tourism.url)}" target="_blank" rel="noopener">Lok Sabha Q3233</a>` : ''}
+        ${s.wikidata ? `<a href="https://www.wikidata.org/wiki/${esc(s.wikidata)}" target="_blank" rel="noopener">Wikidata</a>` : ''}
+        <a href="https://www.openstreetmap.org/?mlat=${s.lat}&mlon=${s.lon}#map=16/${s.lat}/${s.lon}" target="_blank" rel="noopener">OSM</a>
+      </div>
+      <p class="note">Position: ${esc(s.pos_src)}.</p>
+    </div>`;
+  card.hidden = false;
+  card.scrollTop = 0;
+  card.querySelector('.close').onclick = closeCard;
+  card.querySelector('.rec-open')?.addEventListener('click', () => openRecord(s, { icon, esc }));
+  mountScene(card.querySelector('.card-scene'), s, SCENE_OPTS);
+  cancelAnimationFrame(cardAnim);
+  const cv = card.querySelector('.signature canvas');
+  if (cv && s.phases) {
+    const g = cv.getContext('2d'), per = s.phases.reduce((a, b) => a + b, 0), win = Math.max(per * 2, 8);
+    const col = '#' + COLOUR_MODES.light.fn(s).getHexString();
+    const draw = () => {
+      const t = layer.clock.value;
+      g.clearRect(0, 0, cv.width, cv.height);
+      for (let x = 0; x < cv.width; x++) {
+        const v = lightLevel(s.phases, t - win + (x / cv.width) * win);
+        if (v > 0.02) { g.globalAlpha = v; g.fillStyle = col; g.fillRect(x, 3, 1, cv.height - 6); }
+      }
+      g.globalAlpha = 1; g.fillStyle = '#fff'; g.fillRect(cv.width - 2, 0, 2, cv.height);
+      cardAnim = requestAnimationFrame(draw);
+    };
+    draw();
+  }
+}
+// DGLL tenders that name this station, newest first, each linking into the tender archive
+const inr = v => v >= 1e7 ? `₹${fmt(v / 1e7, 2)} crore` : v >= 1e5 ? `₹${fmt(v / 1e5, 2)} lakh` : `₹${fmt(v)}`;
+function tendersSection(s) {
+  const list = s.tenders || [];
+  const dirLink = `<a class="btn wide" href="tenders.html?dir=${encodeURIComponent(s.region || '')}">${icon('list')}All ${esc(s.region || '')} tenders</a>`;
+  if (!list.length) return `<section class="spec"><h4 class="spec-h">${icon('rupee')}Tenders</h4><p class="note">No DGLL tender names this station.</p>${dirLink}</section>`;
+  const rows = list.map(t => `<li><a href="tenders.html#t-${t.nid}">
+      <span class="t-date">${esc((t.end || '').slice(0, 7) || '–')}</span>
+      <span class="t-title">${esc(t.title)}</span>
+      ${t.work ? `<span class="t-work">${esc(t.work)}</span>` : ''}
+      ${t.cost ? `<span class="t-cost">${inr(t.cost)}</span>` : ''}</a></li>`).join('');
+  return `<section class="spec"><h4 class="spec-h">${icon('rupee')}Tenders <span class="hint">${list.length}</span></h4>
+    <ul class="tender-list">${rows}</ul>${dirLink}</section>`;
+}
+function morseText(l) {
+  return morsePhases(l).filter((_, i) => i % 2 === 0).map(d => d > 0.5 ? '—' : '•').join('');
+}
+addEventListener('keydown', e => { if (e.key === 'Escape') closeCard(); });
+
+/* -------------------------------------------------------------- rhythm wall */
+{
+  const cv = $('#rhythm'), g = cv.getContext('2d');
+  const rows = lights.filter(s => s.phases);
+  const dpr = Math.min(2, window.devicePixelRatio || 1);
+  const size = () => { cv.width = Math.max(1, cv.clientWidth * dpr); cv.height = 300 * dpr; };
+  size(); addEventListener('resize', size);
+  let last = 0, acc = 0;
+  const tick = now => {
+    const dt = (now - last) / 1000; last = now; acc += dt;
+    const colW = Math.max(1, Math.round(dpr));
+    // skip drawing while the sheet is collapsed: nobody can see it, the phone keeps the battery
+    if (acc >= 1 / 22 && cv.offsetParent !== null) {
+      acc = 0;
+      g.globalCompositeOperation = 'copy';
+      g.drawImage(cv, -colW, 0);
+      g.globalCompositeOperation = 'source-over';
+      g.fillStyle = '#000'; g.fillRect(cv.width - colW, 0, colW, cv.height);
+      const rh = cv.height / rows.length, t = layer.clock.value;
+      rows.forEach((s, i) => {
+        const v = layer.bornBy(s, layer.year) ? lightLevel(s.phases, t) : 0;
+        if (v < 0.03) return;
+        const c = COLOUR_MODES[colourMode].fn(s);
+        g.fillStyle = `rgba(${c.r * 255 | 0},${c.g * 255 | 0},${c.b * 255 | 0},${v})`;
+        g.fillRect(cv.width - colW, i * rh, colW, Math.max(1, rh - (rh > 2 ? 0.5 : 0)));
+      });
+      if (layer.selected) {
+        const i = rows.findIndex(s => s.id === layer.selected);
+        if (i >= 0) { g.fillStyle = '#ffffff55'; g.fillRect(cv.width - colW, i * rh - 1, colW, 1); }
+      }
+    }
+    requestAnimationFrame(tick);
+  };
+  requestAnimationFrame(tick);
+  const rowAt = e => { const r = cv.getBoundingClientRect(); return rows[Math.floor(((e.clientY - r.top) / r.height) * rows.length)]; };
+  cv.addEventListener('click', e => { const s = rowAt(e); if (s) select(s.id, true); });
+  cv.addEventListener('pointermove', e => {
+    const s = rowAt(e);
+    if (s) showTip(`<b>${esc(nice(s.name))}</b>${esc(s.char || '')}`, e.clientX, e.clientY); else hideTip();
+  });
+  cv.addEventListener('pointerleave', hideTip);
+}
+
+/* ----------------------------------------------------------------- flights */
+document.querySelectorAll('[data-fly]').forEach(b => b.onclick = () => {
+  stopVoyage();
+  if (!desktop) setSheet(false);
+  map.flyTo({ ...VIEWS[b.dataset.fly], duration: 2600, essential: true });
+});
+$('#lightship').onclick = () => {
+  stopVoyage();
+  const lv = S.find(s => s.kind === 'lightvessel');
+  if (!lv) return;
+  select(lv.id, false);
+  map.flyTo({ center: [lv.lon, lv.lat], zoom: 13.2, pitch: 64, bearing: -40, duration: 2600, essential: true });
+};
+let voyage = null;
+function stopVoyage() { if (voyage) { clearTimeout(voyage); voyage = null; $('#tour').innerHTML = `${icon('route')}Night voyage`; } }
+$('#tour').onclick = () => {
+  if (voyage) return stopVoyage();
+  closeCard();
+  if (!desktop) setSheet(false);
+  let i = 0;
+  $('#tour').innerHTML = `${icon('stop')}Stop voyage`;
+  const hop = () => {
+    const v = VOYAGE[i % VOYAGE.length]; i++;
+    map.flyTo({ ...v, pitch: 64, duration: 5200, curve: 1.2, essential: true });
+    voyage = setTimeout(hop, 7600);
+  };
+  hop();
+};
+map.on('dragstart', stopVoyage);
+
+/* ------------------------------------------------------- picture & video */
+{
+  const capture = createCapture({
+    map,
+    cropLeft: () => (desktop ? 340 : 0),                  // the desktop panel covers the map's left edge
+    year: () => $('#wm-year').textContent,
+    subtitle: () => 'Lighthouses of India',
+    onState: st => {
+      if ('recording' in st) {
+        $('#rec-badge').hidden = !st.recording;
+        $('#cap-rec').setAttribute('aria-pressed', String(!!st.recording));
+        $('#cap-rec').classList.toggle('on', !!st.recording);
+        $('#cap-rec').innerHTML = icon(st.recording ? 'stop' : 'record');
+        $('#cap-rec').title = st.recording ? 'Stop recording' : 'Record a video of the map';
+        if (st.recording) {
+          const s = Math.floor(st.seconds || 0);
+          $('#rec-time').textContent = `REC ${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')} / ${Math.floor(capture.maxSeconds / 60)}:${String(capture.maxSeconds % 60).padStart(2, '0')}`;
+        }
+      }
+      if (st.note) {
+        const n = $('#cap-note');
+        n.textContent = st.note; n.classList.toggle('warn', !!st.warn); n.hidden = false;
+        clearTimeout(n._t); n._t = setTimeout(() => { n.hidden = true; }, 6000);
+      }
+    },
+  });
+  $('#cap-shot').onclick = () => capture.snapshot();
+  $('#cap-rec').onclick = () => { if (!desktop) setSheet(false); capture.toggleRecording(); };
+}
+
+// deep links: #station-slug
+if (location.hash.length > 1 && byId.has(location.hash.slice(1))) setTimeout(() => select(location.hash.slice(1), true), 600);

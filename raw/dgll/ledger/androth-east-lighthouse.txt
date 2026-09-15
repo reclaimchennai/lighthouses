@@ -1,0 +1,137 @@
+                              मास्टर ले जर/MASTER LEDGER
+क्रमसं               नाम /Name
+ ख्या/                                                               वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.               F-0755
+   2     स्थान/Position                   Lat.10° 48.8’ N , long 73° 42.1’ E
+   3     ऊंचाई/Elevation                  43.7MAbove MSL
+   4     अविलक्षण/Characteristic          Fl (2) W 10 sec
+
+  5      नॉविकल माइल मे दूरी              28NM
+         Range in miles
+  6      दीपस्तं ि िािर/L.H.Tower         Type                           Square Masonry Tower
+                                          Height                         43.7M
+                                          Colour Scheme                  Black and White Band
+  7      ऑविकल उपकरण                      Optic                          BGA 850 HI/8
+         Optical equipment                Make                           LMV
+                                          Type                           rotating light beacon
+                                          Size                           500 mm
+                                          No. of lens                    04
+                                          Area of dioptric portion
+                                          Area of catadioptric portion
+                                          Divergence                     360 mm focal distance acrylic modlded
+                                          Main/Emergency                 lens, 720 mm hight
+                                          Duration of Flash
+                                          Main /Standby/Emergency
+                                          Pedestal                       Rotating Light Beacon is fitted on top of
+                                                                         the pedestal stand
+                                          Rotation Device                02 nos MGM ,150 Electronic gearless &
+                                                                         brushless motor
+                                          R.P.M.
+                                          Illumining                     BGA – 850H-1/8(LMV)
+                                          Main                           35W/230V Metal Halide Lamp
+                                          Standby
+                                          Emergency:
+                                          Date of Installation           18-11-2013
+  8      प्रिािी बीम तीव्रता/Effective    Main                           20000 cds
+         beam intensity                   Emergency
+  9      लें िनन /Lantern                 Diameter                       2.4m
+                                          Height of glazing              1.386m (width - 60cm botton side and
+                                                                         67cm top side)
+                                          No. of panes                   12
+                                          Ventilators                    06
+ 10      RACON                                 Sr. No                    II-X-201607-02
+         Make                     Model   Code                           Band                      Date of
+                                                                                                   Installation
+         Pharos                   PMAPI   D                              X                         08.12.2016
+ 11      NAIS
+          Base Station                              2 Nos-AIS1 & AIS2
+
+
+          Model                    Type           Power                              MMSI
+          R40                      Class A        AC-230V & DC-12V
+          Communication
+          Equipment
+          VSAT Antenna             Band           Modem
+            2.4m dia               EX-C           Datum system
+           Parabolic                                  M7LT
+            Reflector                             Satellite Terminal
+     12   ऊर्ान के                 Mains                                             440v, 3phase, 50Hz(Electricity Supply)
+          साधन/Source of           Power Source                                      DG Set 7.5KVA,make:Kirlosker
+          energy                   Engine 1
+                                   Make/Type                Qty        Rating            No of Cylinder       RPM             Cooling
+                                   Kirlosker                1          16 BHP            2                    1500            Air
+                                   Alternator
+                                   Make/Type                Qty        Rating            Voltage/Amp          Frequency       Phase
+                                   Kirlosker                1          7.5KVA            240V/31.25A          50Hz            Single
+                                   Solar Plant for Main RACON
+                                   Capacity PV              Numbers                  Type           Battery                   Bank
+                                   70 W/12V                 01 No.                                  01 Nos                     01 No.
+                                                                                                    12V/100AH
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र
+          Automatic Voltage Stabilizers
+          Make                     Model          Capacity         Input             Output                      Phase        Qty
+          Supra                    SSH            05 KVA                                                         Single       01
+14        बैिरर/ Batteries
+          Equipment                Type           Make                     Volt      Amp/Hr         Qty
+          Main Light               Solar Gel      Exide                    12 v      150 AH         02 Nos
+          PSS NAIS                 Solar Gel      Exide                    12 v      150 AH         02 Nos
+          Genset                   Lead acid      SF sonic                 12V       100 AH         01 No
+          Automation               SMF            Exide                    12V       42 AH          02 Nos
+          RACON                    Solar Gel      Exide                    12 v      100 AH         01 no
+     15   बैिरर चार्न र/ Battery charger
+          Equipment                Make           Model            Type              Rating         Qty
+          General Purpose          ELNIX          Delta                              10A            01
+          Automation               NHP                ---                   ----                    01
+     16   इं वर्ट र Inverter /UPS
+          Equipment Nos            Make          Model             Type              Rating         Qt    input           Output
+                                                                                                    y
+          Main Light     01       Su- Kam        Shiny             Pure sine wave    900VA          01    12V DC              230 AC
+                                                                                                          &230 AC
+          NAIS PSS       02       Su- Kam        Shiny             Pure sine wave    1.5 VA         01    12V DC              230 AC
+                                                                                                          &230 AC
+          DGPS                                      ----           -                 -              -     -               -
+                                                      -            -                 -              -     -               -
+     17   स्वचलन उपकरण
+          Automation Equipment
+          MAKE        PLC                  HMI                  Power Supply        VSAT            Modem            Band
+                                                                230v AC             1.8m dia
+                                                                   Parabolic
+18   आवि शमन उपकरण                   Type of Extinguisher          Capacity    Nos           Make
+     Fire Fighting Equipment         MAP (90,02kg)                 02 kg       02            FlameBiltzz
+                                     MAP (90,04kg)                 02kg        02            FlameBiltzz
+                                     AFFF (09 L)                   09 L        02            FlameBiltzz
+                                     CO2                           4.5 Kg      03            FlameBiltzz
+19   संचार                           Telephone with internet broad band
+     Communication                   connection
+20   र्लपूवतन                        01 No well
+     Water Supply
+21   िू वम                           Area                                      2980 Sqm
+     Land                            Demarcation
+22   इमारतें                         RCC Structure: 01 Nos                     Tower with office room
+     Buildings                       Timber Construction above plinth          A littile away from the
+                                                                               lighthouse compound is a
+                                     level
+                                                                               single building containing
+                                                                               IQ, store and safaiwala
+                                                                               quarter
+23   कंपाउं ड लाइि                   LED Light fitted on G.I Pole- 01 no
+     Compound Lights
+24   सीसीिीिी कमे रा                 Camera
+      CCTV CAMERA
+25   स्टाफ                           Sl. No             Designations
+     Staff
+                                     1                01 Navigational Assistant Gr- III
+                                     2                01 LHA
+26   पहुँ चने का माध्यम               Near by main ring road infornt of main gate of Lighthouse and a
+     Mode of approach                small distance from sea shore to lighthouse is aproximately 200m
+27   उपलब्ध सुविधाए                  The nearest Police station, and helibase available from Lighthouse
+     Facilities available            to Androth port in nearly 04 km distance
+28   डाक पता Postal address          Postmaster office
+                                     Androth Island
+                                     Lakshadweep - 682551
+29   मू ल्य का ब्योरा Cost details   N/A
+     (At the time of Construction)
+30   प्रितनन मे लाने का दे नां क     01.05.1967
+     Date of commissioning
+

@@ -1,0 +1,53 @@
+{
+  "nid": 1816,
+  "title": "SITC of pedestal based token/coin operated all weather binoculars",
+  "summary": "GeM two-packet bid for supply, installation, testing and commissioning of seven pedestal-based token/coin-operated all-weather tourist binoculars at lighthouses under the Goa Directorate (Karnataka, Goa and Maharashtra coast).",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/5807203",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Goa (Deep Bhavan, Near GMC Stadium, Bambolim)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Bhatkal Lighthouse, Bandar Road, Mavinkurve, Bhatkal, Uttar Kannada", "station_id": "bhatkal-lighthouse", "kind": "lighthouse", "work": "SITC of 1 coin/token operated binocular"},
+    {"name": "Kaup Lighthouse, Kaup, Udupi", "station_id": "kaup-lighthouse", "kind": "lighthouse", "work": "SITC of 1 coin/token operated binocular"},
+    {"name": "Kundapur Lighthouse, Post Kodi, Kundapur, Udupi", "station_id": "kundapur-lighthouse", "kind": "lighthouse", "work": "SITC of 1 coin/token operated binocular"},
+    {"name": "Surathkal Lighthouse and DGPS Station, Mangaluru, Dakshina Kannada", "station_id": "surathkal-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "SITC of 1 coin/token operated binocular"},
+    {"name": "Oyster Rock Lighthouse, R.T. Station, Kaju Baug, Karwar", "station_id": "oyster-rocks-lighthouse", "kind": "lighthouse", "work": "SITC of 1 coin/token operated binocular (consignee at Karwar R.T. station)"},
+    {"name": "At Post Vengurla, Taluka Vengurla, Dist. Sindhudurg", "station_id": null, "kind": "lighthouse", "work": "SITC of 1 coin/token operated binocular"},
+    {"name": "Aguada Lighthouse & DGPS Station, Candolim, Sinquerim", "station_id": "aguada-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "SITC of 1 coin/token operated binocular"}
+  ],
+  "scope": [
+    {"item": "Pedestal-based, token/coin operated all weather binoculars, supply, installation, testing and commissioning", "qty": "7", "unit": "Nos", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": 111708.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 14 months",
+    "notes": "EMD advisory bank SBI; beneficiary Director of Lighthouses and Lightships, Goa. MII and MSE purchase preference enabled (MSE L1+15% up to 25%). ICT: 90% of product cost on delivery, minimum 10% for installation/commissioning/testing within 18 days of site readiness. Estimated bid value not printed."
+  },
+  "period": {"completion": "60 days delivery", "bid_validity": "90 days from bid end date", "warranty": "1 year from final acceptance/installation"},
+  "dates": {"published": "2025-01-10", "pre_bid": "2025-01-21", "bid_submission_end": "2025-01-31", "bid_opening": "2025-01-31"},
+  "eligibility": [
+    "Bidder minimum average annual turnover Rs 28 lakh (3 years)",
+    "3 years past experience; past performance 30% of bid quantity",
+    "MSE and startup exemption for experience and turnover",
+    "Documents: experience, past performance, turnover, certificates requested in ATC, OEM authorization, BoQ specification compliance",
+    "Imported products: OEM or authorized seller must have registered office in India for after-sales service",
+    "Functional service centre in consignee state (carry-in warranty), dedicated/toll-free service number and escalation matrix"
+  ],
+  "specs": [
+    "Minimum 50% (Class 1) / 20% (Class 2) local content",
+    "Detailed buyer specification document referenced ('Download') but not included",
+    "Option clause +/-25% quantity"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Binocular GeM-Bidding-7362293.pdf", "pages": 7, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only the 7-page GeM bid document is included; buyer specification and ATC files are referenced but absent. File name suggests bid 7362293 but the document is GEM/2025/B/5807203. Vengurla consignee address does not say which Vengurla light (Vengurla Point or Vengurla Rocks), so station_id left null. Consignees are named individuals with personal mobile numbers: [personal contact removed]. Buyer e-mail is a personal official ID: [personal contact removed]."
+}

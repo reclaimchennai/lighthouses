@@ -1,0 +1,43 @@
+{
+  "slug": "mangrol-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Mangrol Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1986,
+  "alol": "F 0406",
+  "position": {"lat_text": "21° 06.30' N", "lon_text": "70° 06.20' E", "lat": 21.105, "lon": 70.103333},
+  "elevation_m": 37.335,
+  "characteristic_text": "FL 2 (W) every (0.5+2+0.5+17=20s) 20Sec.",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "0.5+2+0.5+17=20s",
+    "sequence_s": [0.5, 2, 0.5, 17],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": null, "text": "18NM (single unlabelled range)"},
+  "tower": {"type": "Hexagonal Concrete Tower", "height_m": 35, "colour_scheme": "Red and White bands."},
+  "optic": {
+    "make": "Mediterraneo Senales Maritimas (MSM)", "model": null, "type": "MBR-300", "size": null, "order": null,
+    "panels": 4,
+    "rotation_device": "Stepper motor",
+    "rpm": 1.5,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: Stepper motor; R.P.M. 1.5",
+    "divergence_horizontal_deg": 9,
+    "divergence_vertical_deg": 9,
+    "divergence_text": "9° (Horizontal), 9° (Vertical)",
+    "illuminant": "230V/150W Single CDM-T Lamp"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "-----"},
+  "ais": {"present": true, "text": "Base Station 02 Nos; P/N:7000 100-971, R-40 AIS Base Station (IEC 62320-1), AC Supply, MMSI 004192215; VSAT 2.4 Meter C band, Hughes HT2300"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V/3-phase/50 Hz; DG Set 15 KVA make Kirloskar; solar plant 9 KWp, 36 Nos, 48 Nos 2V/900AH"},
+  "issues": [
+    "Effective beam intensity not stated ('----')"
+  ]
+}

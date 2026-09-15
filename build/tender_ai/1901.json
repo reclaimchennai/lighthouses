@@ -1,0 +1,41 @@
+{
+  "nid": 1901,
+  "title": "Dismantling of Port Control Tower Building and pump house Building and Area Development at Atlanta Point, Sri Vijayapuram for Establishment of VTMS.",
+  "summary": "E-tender for dismantling the old Port Control Tower building and pump house and developing the area at Atlanta Point, Sri Vijaya Puram (Andaman), to make way for a Vessel Traffic Management System.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-01/1/2024-M",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Atlanta Point, Sri Vijayapuram", "station_id": null, "kind": "VTS", "work": "Dismantling of Port Control Tower building and pump house building; area development for VTMS"}
+  ],
+  "scope": [
+    {"item": "Dismantling of Port Control Tower Building and pump house Building and Area Development for Establishment of VTMS", "qty": null, "unit": null, "site": "Atlanta Point, Sri Vijayapuram"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1172633.0,
+    "emd_inr": 23500.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Bid document free of cost. EMD as Deposit at call receipt/FDR of nationalized/scheduled bank in favour of Director of Lighthouses and Lightships, Sri Vijaya Puram, valid 6 months from technical bid opening; originals with technical documents to reach office by 19/05/2025 15:30. MSME/NSIC registered bidders for similar work eligible for EMD exemption."
+  },
+  "period": {"completion": "5 months", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-05-10", "pre_bid": "2025-05-13", "bid_submission_end": "2025-05-19", "bid_opening": "2025-05-20"},
+  "eligibility": [
+    "Experienced civil contractors with successful completion of similar work of 'Civil Maintenance, Construction work in A & N Island' with Government organizations and no adverse remarks",
+    "Detailed eligibility as per Section-III clause 3.1 of tender document (not included in this file)",
+    "Bidders whose near relatives are accountants or gazetted officers in DGLL not permitted",
+    "Retired gazetted officers may not work as contractor within two years without Govt permission"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITDismantling.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": ["text layer entirely garbled (font mojibake); all 3 pages rendered and read from images"]}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (NIT) only, printed pages 4-6; no BOQ. Item rate tender. Bid download/submission 10/05/2025 18:00 to 19/05/2025 15:30; technical bid opening 20/05/2025 15:30 subject to internet availability."
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "kanhoji-angre-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Kanhoji Angre Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1887,
+  "alol": "F 0556",
+  "position": {"lat_text": "18° 42’ 11.43’’ N", "lon_text": "72° 48’ 47.35’’ E", "lat": 18.703175, "lon": 72.813153},
+  "elevation_m": 47,
+  "characteristic_text": "fl (2) WR 10 Sec.",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 2,
+    "colours": ["W", "R"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 25, "geographical_nm": null, "text": "Luminous- W – 25, R – 22; Geographical- --"},
+  "tower": {"type": "Octagonal masonry tower", "height_m": 17, "colour_scheme": null},
+  "optic": {
+    "make": "Wealth Marine", "model": "WM-RB 500", "type": "Marine rotating beacon", "size": "200mm", "order": null,
+    "panels": 6,
+    "rotation_device": null,
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Make: Wealth Marine WM-RB 500 Marine rotating beacon; R.P.M. 3 (Rotation Device field '---')",
+    "divergence_horizontal_deg": 4.48,
+    "divergence_vertical_deg": 3.26,
+    "divergence_text": "Horizontal – 4.48°, Vertical – 3.26°; Main 5° 03’ (Horizontal), 4° 59’ (Vertical)",
+    "illuminant": "WM FL 1006 place automatic 12V, C8, pre-focused 6 nos. 12V/50W Marine Halogen Lamps"
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": null, "solar": true, "generator": true, "text": "Solar panels Tata BP 16 nos. 74W and MONO crystalline 12 nos. 200W; standby Kirloskar DG 20.5 HP (Engines 2 & 3 U/S); 06 Nos. 12V 600 AH VRLA battery bank"},
+  "issues": [
+    "Two divergence sets given: 4.48°/3.26° and 'Main 5° 03’ (Horizontal) 4° 59’ (Vertical)'; first set used",
+    "Duration of Flash 'Main 3 sec.' is inconsistent with fl (2) 10 Sec character",
+    "Rotation Device '---' although R.P.M. 3 and rotating beacon listed",
+    "Colours W and R given but no sector bearings stated",
+    "Effective beam intensity '---'"
+  ]
+}

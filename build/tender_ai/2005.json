@@ -1,0 +1,873 @@
+{
+  "nid": 2005,
+  "title": "Re-construction of Power House and special repair & maintenance at Ratnagiri Lighthouse & DGPS Station",
+  "summary": "E-tender for demolition and re-construction of the power house (with DGPS room, office and store), a new RCC rain water tank and toilet block, and special repair and maintenance of quarters, lighthouse tower painting, plumbing and paver-block roads at Ratnagiri Lighthouse & DGPS Station, Maharashtra, issued by the Directorate of Lighthouses and Lightships, Mumbai.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-MUM-03020(03)/1/2021-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {
+      "name": "Ratnagiri Lighthouse & DGPS Stn., Ratnagiri (Killa), Post Ratnagiri, Dist. Ratnagiri, Maharashtra 415 612",
+      "station_id": "ratnagiri-town-and-dgps-station",
+      "kind": "lighthouse",
+      "work": "Demolition of old power house, RCC water tank, NA-III quarters and LHA/LHS twin quarters (to plinth); new power house, RCC rain water tank and toilet block; special maintenance of SRT quarters and other buildings; lighthouse tower painting; plumbing, sanitary and paver block works"
+    }
+  ],
+  "scope": [
+    {
+      "item": "1. Dismantling existing wooden/steel doors, windows, ventilators, cupboards incl. frames (area 3 sqm and below)",
+      "qty": "114",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "2. Dismantling unserviceable/damaged wash basins",
+      "qty": "8",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "3. Dismantling unserviceable/damaged IWC/EWC pans",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "4. Dismantling G.I. pipes (external work, 15-40 mm bore) incl. excavation and refilling",
+      "qty": "131",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "5. Dismantling aluminium/gypsum false ceiling",
+      "qty": "20",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "6. Demolishing cement concrete 1:3:6 or richer",
+      "qty": "33",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "7. Dismantling tile work 10-25 mm in floors, walls and roofs",
+      "qty": "490",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "8. Dismantling old plaster or skirting",
+      "qty": "223",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "9. Demolishing R.C.C. work incl. stacking steel bars",
+      "qty": "82",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "10. Demolishing laterite stone rubble masonry in cement mortar",
+      "qty": "272",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "11. Anti-termite treatment of existing masonry with chemical emulsion (Chlorpyriphos/Lindane E.C. 20%) at 300 mm intervals",
+      "qty": "320",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "12. Excavation in foundation trenches or drains, ordinary rock",
+      "qty": "130.1",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "13. Filling recovered stones/malba in trenches, plinth, sides of foundations",
+      "qty": "81",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "14. PCC 1:3:6 up to plinth level",
+      "qty": "38.2",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "15. Coursed laterite stone masonry (first sort) in CM 1:6 in foundation and plinth",
+      "qty": "52",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "16. RCC 1:1.5:3 up to plinth level (excluding centering, shuttering, reinforcement)",
+      "qty": "17",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "17. 20 mm cement plaster CM 1:4 on rough side of plinth",
+      "qty": "200",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "18. Coursed laterite stone masonry (first sort) in CM 1:6 in superstructure",
+      "qty": "34",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "19.01. RCC 1:1.5:3 above plinth: columns, pillars, piers, posts, struts",
+      "qty": "3",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "19.02. RCC 1:1.5:3 above plinth: lintels, beams, plinth beams, roof beams",
+      "qty": "11",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "19.03. RCC 1:1.5:3 above plinth: weather shades, chajjas, cupboards, loft slab",
+      "qty": "3.1",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "19.04. RCC 1:1.5:3 above plinth: RCC slab",
+      "qty": "37",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "20.01. Centering and shuttering: foundations, footings, bases of columns",
+      "qty": "47",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "20.02. Centering and shuttering: columns, pillars, piers, posts, struts",
+      "qty": "170",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "20.03. Centering and shuttering: lintels, beams, plinth beams, girders, cantilevers",
+      "qty": "36.2",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "20.04. Centering and shuttering: weather shades, chajjas, corbels",
+      "qty": "21",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "20.05. Centering and shuttering: suspended floors, roofs, landings, balconies, access platform",
+      "qty": "183",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "20.06. Centering and shuttering: walls incl. pilasters, plinth and string courses",
+      "qty": "23",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "21. TMT reinforcement bars Fe-500D or more (SAIL/TATA TISCO/JSW), cut, bent, tied and placed",
+      "qty": "8510",
+      "unit": "Kg",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "22. 18 mm black granite (gang saw cut, mirror polished) for kitchen platforms, vanity counters, window sills",
+      "qty": "110",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "23. 35 mm ISI marked decorative flush door shutters (IS 2202 Part I) with SS butt hinges and vision panel",
+      "qty": "27",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "24. 30 mm FRP flush door shutters (IS 14856)",
+      "qty": "17",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "25. 12 mm frameless toughened glass partition/door shutter with floor spring",
+      "qty": "12",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "26. Brass 100 mm mortice latch and lock with 6 levers and lever handles",
+      "qty": "19",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "27. 75 mm brass cupboard/wardrobe/glass door locks",
+      "qty": "6",
+      "unit": "Set",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "28. 125 mm brass handles",
+      "qty": "10",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "29. 25 mm stainless steel glass door handles",
+      "qty": "2",
+      "unit": "Set",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "30. 250x10 mm brass tower bolts",
+      "qty": "14",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "31. Brass hanging type floor door stopper",
+      "qty": "19",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "32. Aluminium die-cast hydraulic door closer (IS 3564)",
+      "qty": "5",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "33. Rolling shutters of 80x1.25 mm M.S. laths with top cover",
+      "qty": "11",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "34. Factory made uPVC glazed/wire mesh two-track two-panel sliding windows (R4 series, EN 12608)",
+      "qty": "36",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "35. PU sealant over backer rod in gaps between frames and walls",
+      "qty": "235",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "36. M.S. grills in window frames incl. priming",
+      "qty": "1050",
+      "unit": "Kg",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "37. Making chases up to 7.5x7.5 cm for concealed PVC wiring pipe (pipes supplied by department)",
+      "qty": "80",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "38. 15 mm cement plaster CM 1:4 interior",
+      "qty": "360",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "39. 18 mm cement plaster in two coats (12 mm 1:5 + 6 mm 1:3) finished rough with sponge",
+      "qty": "493",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "40. 20 mm cement plaster 1:3 finished with floating coat of neat cement",
+      "qty": "100",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "41. Waterproofing admixture in cement concrete (Roff/Fosroc/Basf)",
+      "qty": "460",
+      "unit": "Cement bag",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "42. 3 mm APP modified prefabricated five-layer waterproofing membrane with bitumen primer",
+      "qty": "540",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "43. 50 mm drip moulding/groove on RCC projections",
+      "qty": "80",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "44. Plinth protection 50 mm CC 1:3:6 over 75 mm brick ballast",
+      "qty": "51",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "45. Vitrified floor tiles 600x600 mm (IS 15622; Johnson/Kajaria/Nelco)",
+      "qty": "172",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "46. Digital printed ceramic glazed wall tiles (IS 15622; Johnson/Kajaria/Nelco) in skirting, risers, dados",
+      "qty": "85",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "47. Openings in granite/marble counters for wash basin/kitchen sink",
+      "qty": "7",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "48.01. CPVC hot and cold water pipes 15 mm, concealed",
+      "qty": "43",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "48.02. CPVC pipes 20 mm, concealed",
+      "qty": "41",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "48.03. CPVC pipes 25 mm, concealed",
+      "qty": "39",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "48.04. CPVC pipes 32 mm, concealed",
+      "qty": "59",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "48.05. CPVC pipes 40 mm, internal exposed on wall",
+      "qty": "71",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "49.01. Wall mounted single-piece syphonic water closet with integrated cistern (Jaquar/Parryware/Hindware), for IQ",
+      "qty": "1",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "49.02. Pedestal type European water closet with 10 litre low level cistern",
+      "qty": "5",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "50. Urinal basin with 5 litre automatic flushing cistern",
+      "qty": "1",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "51. Vitreous china wash basin 550x400 mm with CP brass basin mixer",
+      "qty": "7",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "52. Stainless steel AISI 304 kitchen sink 510x1040 mm with drain board (IS 13983)",
+      "qty": "3",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "53. 600x450 mm bevelled edge mirror",
+      "qty": "7",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "54. PTMT towel rail 600 mm",
+      "qty": "5",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "55. CP brass napkin holder",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "56. PTMT soap dish holder",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "57. 600x120x5 mm glass shelf",
+      "qty": "7",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "58. CP brass curtain rods 25 mm",
+      "qty": "35",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.01. 15 mm CP brass bib cock",
+      "qty": "7",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.02. 15 mm CP brass stop cock (concealed)",
+      "qty": "7",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.03. 15 mm CP brass angle valve",
+      "qty": "7",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.04. 100 mm shower rose",
+      "qty": "3",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.05. PTMT waste coupling for wash basin and sink",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.06. 40 mm semi rigid PVC waste pipe for sink/wash basin",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.07. 25 mm mosquito proof coupling",
+      "qty": "5",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.08. Single lever telephonic wall mixer (heavy duty)",
+      "qty": "3",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.09. 8 mm CP/SS jet with flexible tube",
+      "qty": "7",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.1. Flush cock (heavy duty)",
+      "qty": "9",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.11. PVC 15 mm connection pipe for wash basin",
+      "qty": "7",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.12. 25 mm CPVC valve",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.13. 32 mm CPVC valve",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.14. 40 mm CPVC valve",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "59.15. 15 mm flexible pipe for geyser",
+      "qty": "5",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "60. uPVC rain water pipes 110 mm (IS 13592 Type A)",
+      "qty": "218",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "60.01. 110 mm single pushfit coupler",
+      "qty": "26",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "60.02. 110x110x110 mm single tee with door",
+      "qty": "35",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "60.03. 110 mm bend 87.5 deg",
+      "qty": "39",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "60.04. Inlet mouth of rain water pipe with 15 cm cast iron grating",
+      "qty": "29",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "61. Brick masonry gully chamber 50x45x60 cm with precast RCC grating",
+      "qty": "6",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "62. Masonry septic tank of 5 user capacity (standard drawing B/1831) with RCC top slab",
+      "qty": "5",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "63. Soak pit 1.20x1.20x1.20 m with brickbats",
+      "qty": "5",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "64. 100 mm sand cast iron grating for gully trap",
+      "qty": "7",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "65. 100 mm sand cast iron S&S soil, waste and vent pipes (IS 1729)",
+      "qty": "10",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "66.01. 10 mm plaster of Paris ceiling on kail wood strips: flat surface",
+      "qty": "30",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "66.02. Plaster of Paris ceiling: curved surfaces",
+      "qty": "21",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "66.03. Extra for sunk or raised mouldings in plaster of Paris ceiling",
+      "qty": "18",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "67. G.I. interlocking false ceiling/partition framework",
+      "qty": "30",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "68. Stainless steel grade 304 railing",
+      "qty": "240",
+      "unit": "Kg",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "69. Polyethylene water storage tank (Sintex or National, ISI 12701) on terrace",
+      "qty": "3000",
+      "unit": "Litre",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "70. Chipping unsound/weak concrete from slabs, beams, columns (50 mm avg)",
+      "qty": "68",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "71. Cleaning rust from reinforcement bars with alkaline chemical rust remover",
+      "qty": "952",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "72. Hard drawn steel wire fabric 75x25 mm anchored to concrete surface",
+      "qty": "68",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "73. Epoxy bonding adhesive (Roff/Fosroc/Basf) on chipped RCC/plaster surfaces",
+      "qty": "68",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "74. Patch repair to plaster with polymer modified self curing mortar",
+      "qty": "30",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "75. Factory made 4 mm FRP chajja (RTM technology)",
+      "qty": "10",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "76.01. Replacement fittings: M.S. sliding door bolts 300x16 mm",
+      "qty": "8",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "76.02. Replacement fittings: 125 mm brass door handle",
+      "qty": "10",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "76.03. Replacement fittings: brass hooks and eyes 150 mm",
+      "qty": "8",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "76.04. Replacement fittings: 50 mm brass floor door stopper",
+      "qty": "20",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "76.05. Replacement fittings: aluminium tower bolts 150x10 mm",
+      "qty": "8",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "76.06. Replacement fittings: aluminium tower bolts 100x10 mm",
+      "qty": "8",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "76.07. Replacement fittings: brass butt hinges 75x65x4 mm (heavy)",
+      "qty": "14",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "76.08. Replacement fittings: brass butt hinges 100x70x4 mm (ordinary)",
+      "qty": "14",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "77. Steel work in built-up tubular trusses",
+      "qty": "610",
+      "unit": "Kg",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "78. UV stabilised 2 mm flat FRP sheet roofing (IS 10192, IS 12866)",
+      "qty": "30",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "79. 60 mm M-35 cement concrete paver blocks",
+      "qty": "310",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "80. Painting two coats on exterior and interior surfaces of lighthouse tower with synthetic enamel paint (Asian/Berger/ICI/Indigo)",
+      "qty": "527",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "81. White cement based putty 1 mm",
+      "qty": "330",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "82. Water thinnable cement primer",
+      "qty": "330",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "83. Premium acrylic emulsion interior wall paint (two coats)",
+      "qty": "1460",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "84. Premium acrylic smooth exterior paint with silicone additives (Asian/Snowcem/Berger)",
+      "qty": "730",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "85. Epoxy paint on steel work",
+      "qty": "145",
+      "unit": "Sqm",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "86.01. CPVC 50 mm pipe, external work incl. trenching",
+      "qty": "300",
+      "unit": "Rmt",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "87. 50 mm gun metal gate valve with C.I. wheel (external)",
+      "qty": "20",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "88. 1.5 HP open well submersible pump, ISI marked, min 45 m head (Kirloskar/Crompton Greaves/Texmo)",
+      "qty": "1",
+      "unit": "Job",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "89. 1.5 HP single phase digital control panel/motor starter for submersible pump",
+      "qty": "1",
+      "unit": "Job",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "90.01. Recovery of salvage value: RCC steel (credit Rs 15/kg)",
+      "qty": "1200",
+      "unit": "Kg",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "90.02. Recovery of salvage value: doors (credit Rs 250 each)",
+      "qty": "55",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "90.03. Recovery of salvage value: windows and ventilators (credit Rs 125 each)",
+      "qty": "49",
+      "unit": "Each",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    },
+    {
+      "item": "91. Disposal of building rubbish/malba by mechanical transport to municipal dumping ground, lead up to 10 km",
+      "qty": "114.9",
+      "unit": "Cum",
+      "site": "Ratnagiri Lighthouse & DGPS Station"
+    }
+  ],
+  "money": {
+    "estimated_cost_inr": 9885273.0,
+    "emd_inr": 198000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "Performance guarantee 5% of contract value (FDR or bank guarantee) before work order; plus security deposit 5% deducted from each RA bill and final bill",
+    "notes": "Estimated cost inclusive of GST (BOQ total Rs 98,85,273.51). Tender fee / cost of bid document Nil. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, payable at Mumbai, valid 3 months from technical bid opening; original to reach office by 25/09/2025 1700 hrs; MSME/NSIC registered bidders also required to pay EMD. Percentage-rate BOQ (bidders quote excess/less percentage). Liquidated damages 0.5% per week of contract value. Security deposit released after 6-month maintenance period."
+  },
+  "period": {
+    "completion": "09 months from the date of award of contract",
+    "bid_validity": "90 days from the date of opening of technical bid",
+    "warranty": "Contractor to maintain the work for 6 months from completion (defect liability / maintenance period)"
+  },
+  "dates": {
+    "published": "2025-09-03",
+    "pre_bid": "2025-09-11",
+    "bid_submission_end": "2025-09-25",
+    "bid_opening": "2025-09-26"
+  },
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category registered with Central Govt/State Govt/Municipal Corporation etc. having tender limits equal to or more than the estimated cost",
+    "Similar works (civil construction, repair and maintenance) completed in last 7 years: three works each >= 40% of estimated cost (Rs 39.54 lakh), or two works each >= 60% (Rs 59.21 lakh), or one work >= 80% (Rs 79.08 lakh); sub-contractor experience not considered",
+    "Minimum average annual turnover 30% of estimated cost (Rs 29,65,582) in last 3 consecutive financial years, certified by chartered accountant",
+    "PAN, GST registration certificate, income tax returns for past three years",
+    "Tender acceptance letter, undertaking that bid is unconditional, bid securing declaration, notarised non-blacklisting affidavit, declaration of no near relatives in DGLL/MoPSW, Make in India self-certification",
+    "Technical evaluation by committee: minimum 70% score out of 100 (statutory requirements 30, financial standing 20, experience 20, performance certificates from clients 20, key technical personnel 10 - graduate/diploma civil engineers)"
+  ],
+  "specs": [
+    "Works per CPWD specifications (civil vol. I-VI, electrical vol. I-III, horticulture & landscaping)",
+    "New power house approx. 16.81 x 5.87 m: laterite stone masonry, RCC sloping slab, rooms for two DG sets, AVRs/RTU, DGPS, office, store, verandah and toilet; doors D1 flush x3, glass x1, syntex x1, rolling shutters 2.1x2.4 m x2, uPVC sliding windows 1.5x1.2 m x8 (drawing MUM/487/2025)",
+    "RCC rain water tank approx. 6.1 x 2.7 m internal with 750x750 mm manholes (drawing 473/MUM/2025); proposed toilet block gents/ladies (drawing 474/MUM/2025)",
+    "Layout plan shows demolition of old power house, old RCC water tank, NA-III quarters and LHA/LHS twin quarters to plinth level; paver block roads 223 sqm and 84 sqm (drawing Mum/472/2025)",
+    "Special maintenance of SRT quarters (drawing MUM/490/2025); existing LHA quarters and NA twin quarters drawings included",
+    "TMT Fe-500D (SAIL/TATA TISCO/JSW); vitrified and ceramic tiles IS 15622 (Johnson/Kajaria/Nelco); sanitaryware Jaquar/Parryware/Hindware; waterproofing chemicals Roff/Fosroc/Basf; 3 mm APP membrane",
+    "Paints: synthetic enamel Asian/Berger/ICI/Indigo; exterior acrylic Asian/Snowcem/Berger",
+    "Polyethylene water tank Sintex or National ISI 12701 (3000 litres); 1.5 HP open well submersible pump, 45 m head (Kirloskar/Crompton Greaves/Texmo)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {
+      "file": "TenderRatnagiriapproved.pdf",
+      "pages": 87,
+      "read": "mixed",
+      "language": "bilingual",
+      "unreadable": [
+        "PDF pages 81, 83 and 87 are blank",
+        "Drawings (PDF pages 78-86) read by vision; small dimension text partly illegible",
+        "GCC/labour-welfare/Make-in-India boilerplate (pages 18-40) skimmed, not read line by line"
+      ]
+    }
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 03.09.2025; bid download/submission 04/09/2025 16:00 to 25/09/2025 16:00; EMD original by 25/09/2025 17:00; technical bid opening 26/09/2025 16:00 (listing 'end' 2025-09-26 matches the opening date, not submission end). Two-works threshold printed as 60% (Rs 59.21 lakh, while 60% of estimate is ~Rs 59.31 lakh). Turnover period stated as ending 31/03/2024 in one place and 31/03/2025 in another; ITR years 2021-22 to 2023-24. Contents list BOQ as Section VII but ITB refers to Section VIII. ITB mentions tender fee DD although tender fee is Nil. Drawings bear signatures of departmental engineering staff (names not recorded)."
+}

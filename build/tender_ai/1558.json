@@ -1,0 +1,46 @@
+{
+  "nid": 1558,
+  "title": "Supply, Installation, Testing and Commissioning of E-Invoice and Web E-Sign (API) for DGLL with 03 years validity.",
+  "summary": "GeM two-packet bid by DGLL Noida for enterprise support services (public cloud) to provide e-invoice and web e-sign APIs for three years.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2024/B/4806448",
+    "issuing_office": "Directorate General of Lighthouses and Lightships, Noida"
+  },
+  "scope_level": "national",
+  "sites": [
+    {"name": "Directorate General of Lighthouses and Lightships, Deep Bhawan, A-13, Sector-24, Noida 201301", "station_id": null, "kind": "office", "work": "Consignee for e-invoice and web e-sign (API) service"}
+  ],
+  "scope": [
+    {"item": "Support Services - Enterprise Support Services (Deployment model: Public Cloud; Type of support: Enterprise Support Services)", "qty": "1", "unit": null, "site": "DGLL Noida"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2904000.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 3% for 39 months (advisory bank State Bank of India)",
+    "notes": "Estimated bid value Rs 29,04,000. EMD not required. Beneficiary PAO LHLS Noida. MSE purchase preference and MII compliance apply."
+  },
+  "period": {"completion": "Contract period 3 years 1 month", "bid_validity": "30 days from bid end date", "warranty": null},
+  "dates": {"published": "2024-03-20", "pre_bid": null, "bid_submission_end": "2024-03-25", "bid_opening": "2024-03-25"},
+  "eligibility": [
+    "Minimum average annual turnover (3 years) Rs 11 lakh",
+    "3 years past experience of same/similar service to Central/State Govt organisation/PSU/public listed company",
+    "Similar services in last three years: three >= 40% of estimated cost, or two >= 50%, or one >= 80%",
+    "No MSE or startup exemption for experience and turnover",
+    "Documents: experience criteria, bidder turnover, certificates requested in ATC, OEM authorisation certificate",
+    "Technical evaluation (LCS): technical eligibility criteria as in bid document, 100 marks max, 70 minimum"
+  ],
+  "specs": [
+    "Deployment model: Public Cloud",
+    "E-Invoice and Web E-Sign (API) with 03 years validity (per listing title)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM-Bidding-6250923.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Standard GeM bid document; the words 'E-Invoice' and 'Web E-Sign' do not appear in it (only the generic Enterprise Support Services category), and the buyer SLA/ATC attachment is not included. Filename number 6250923 differs from bid number GEM/2024/B/4806448. Short-duration bid published as emergency procurement; two-packet, no reverse auction, total value wise evaluation; bid end 25-03-2024 19:00, opening 19:30. Named consignee officer omitted."
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "jakhau-lighthouse-and-vts-station",
+  "pages_read": [1, 2, 6, 7, 8],
+  "name": "Jakhau Lighthouse & VTS Station",
+  "station_type": "lighthouse",
+  "established_year": 1957,
+  "alol": "F 0355",
+  "position": {"lat_text": "23°14.36\" N", "lon_text": "68°36.43\" E", "lat": 23.239333, "lon": 68.607167},
+  "elevation_m": 46,
+  "characteristic_text": "Fl W 10 sec. (0.3 flash+9.7eclipse =10 sec.)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "0.3 flash + 9.7 eclipse = 10 sec.",
+    "sequence_s": [0.3, 9.7],
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 17, "geographical_nm": 18, "text": "Luminous 17 NM at T=0.74, Geographical 18 NM"},
+  "tower": {"type": "Double shell RCC Circular tower", "height_m": 41, "colour_scheme": "4 red and 3 white bands (Band width 5.6 mtrs, bottom band red, nos. of bands - 7)"},
+  "optic": {
+    "make": "Stone chance", "model": null, "type": "revolving type", "size": "375mm", "order": "3rd order small",
+    "panels": 3,
+    "rotation_device": "Electrically operated stepper motor for dual drive system",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "375mm (3rd order small) revolving type; Rotation device: electrically operated stepper motor; R.P.M 2",
+    "divergence_horizontal_deg": 16.799833,
+    "divergence_vertical_deg": 10.995,
+    "divergence_text": "16° 47.99' (Horizontal), 10° 59.70' (Vertical)",
+    "illuminant": "Cluster of MH lamp 150 W 230 V with 3 Nos. Electronics Ballast & 3 Nos. 0.65 KVA Inverters"
+  },
+  "intensity_cd": null,
+  "racon": {"present": true, "code": "M", "text": "RACON (X-band) Code 'M', Make Pharos Marine, S/N 20180763SJP, DOI 14.03.2019 (earlier Tideland installed 21 Aug 2004)"},
+  "ais": {"present": true, "text": "AIS Base station Make KONGSBERG Type BS-500/01 SNo:5001105"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "PGVCL mains 415V 3-phase; 2 x 50 KVA Kirloskar DG sets; 30 KW off-grid Su-kam solar system (non-operational, conversion to on-grid in progress)"},
+  "issues": ["Position printed with seconds marks (23°14.36\", 68°36.43\") but values read as decimal minutes", "Year of lighthouse commissioned 1957, but Date of Commissioning given as 1st April 1965 (Lighthouse)", "Off-grid solar system stated as non-operational"]
+}

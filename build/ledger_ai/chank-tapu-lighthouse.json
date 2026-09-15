@@ -1,0 +1,45 @@
+{
+  "slug": "chank-tapu-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Chank Tapu Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2014,
+  "alol": "0386",
+  "position": {"lat_text": "22º 32.8' N", "lon_text": "69º 24.6' E", "lat": 22.546667, "lon": 69.41},
+  "elevation_m": 12,
+  "characteristic_text": "Fl (W) 15Sec. (1 + 14 = 15Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "1 + 14 = 15Sec",
+    "sequence_s": [1, 14],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 11, "geographical_nm": 9, "text": "Luminous: 11NM at T=0.74, Geographical: 9NM"},
+  "tower": {"type": "Frame work tower (M.S. Trestle tower) over masonry structure", "height_m": 6, "colour_scheme": "White - Black three strips"},
+  "optic": {
+    "make": "NavAids Pvt Ltd, Delhi", "model": "NE-9A Three-Tier Lantern", "type": "LED Flasher", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type of Light (LED Flasher); Operation- Flashing; Horizontal Divergence 360°",
+    "divergence_horizontal_deg": 360,
+    "divergence_vertical_deg": 8,
+    "divergence_text": "Horizontal Divergence- 360°, Vertical Divergence- 8°",
+    "illuminant": "High Intensity LEDs"
+  },
+  "intensity_cd": 10000,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar power light: 01 no. 125W LOOM solar panel, Luminous PWM charge controller 12V/20A, 2 Nos SMF 12V/100AH Exide batteries"},
+  "issues": [
+    "Height given as '6 Meter steel trestle above 3mtrs masonry structure'",
+    "Date of commissioning lists '05.02.2022 for New Light and new trestle' and '23.05.2014'; 2014 used as established year",
+    "Intensity given as 'Max. Beam Intensity 10,000 Candela'"
+  ]
+}

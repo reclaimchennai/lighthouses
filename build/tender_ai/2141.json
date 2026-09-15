@@ -1,0 +1,46 @@
+{
+  "nid": 2141,
+  "title": "Arrangements for Technical Visit of 3rd IALA Council meeting at Kanhoji Angre Lighthouse",
+  "summary": "Notice inviting sealed quotations for hiring event arrangements (carpets, tables and chairs, umbrellas, decorative fencing, material transport) for the technical visit of the 3rd IALA Council meeting to Kanhoji Angre Lighthouse on Khanderi Island, off Thal, Alibag, issued by the Directorate of Lighthouses and Lightships, Mumbai.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "CM-MUM-03012(01)/1/2021-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kanhoji Angre Lighthouse, Khanderi Island, Off Thal Fishing Port, 05 NM from Thal, Alibag, Raigad - 402207", "station_id": "kanhoji-angre-lighthouse", "kind": "lighthouse", "work": "Temporary event arrangements for IALA Council technical visit on 11.12.2025"}
+  ],
+  "scope": [
+    {"item": "Hire charges for colour carpet width 05 feet from pathway to biotoilet, incl. transport, laying and removal after event", "qty": "90", "unit": "Rft", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Hire charges for red carpet near the boat house, boat landing area, jetty and around boat house, incl. laying and removal", "qty": "1000", "unit": "Sqft", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Hire charges for red carpet inside the lighthouse campus area incl. table area and pathways, incl. laying and removal", "qty": "2750", "unit": "Sqft", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Hire charges of provision of 01 round table with 06 PVC chairs covered with cloth in gazebo", "qty": "04", "unit": "Nos", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Hire charges of covering existing boat house eaves with blue and white cloth frill work, gazebo from jetty to main gate of lighthouse", "qty": "150", "unit": "Rft", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Hire charges for suitable size beach umbrella with round table and chairs for 06 persons under each umbrella with decorative cloth covering", "qty": "15", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Hire charges for temporary demarcation fencing covered with decorative cloth to restrict delegates from dangerous areas, height 8\" (as printed), incl. poles, cloth, labour", "qty": "300", "unit": "Rft", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Labour charges for transport of materials from local market to Thal Bazzar Jetty, loading/unloading in boat, head-load carriage to lighthouse station uphill before event and back after event", "qty": "01", "unit": "LS", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "GST on all items 1 to 8", "qty": "01", "unit": "%", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 389990.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. Rates to include transportation, GST, erection, dismantling and removal after event. No advance payment; payment per actual work executed; TDS on GST and IT deducted. Boat service Thal jetty to Khanderi Island jetty arranged by the Directorate."
+  },
+  "period": {"completion": "Work to be completed before the event on 11.12.2025; setup dismantled and removed immediately after", "bid_validity": "not less than 30 days", "warranty": null},
+  "dates": {"published": "2025-12-01", "pre_bid": null, "bid_submission_end": "2025-12-04", "bid_opening": "2025-12-04"},
+  "eligibility": [
+    "Valid registration / GST registration"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Notice Inviting Quotation_0001 (1).pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Listing title reads '3\" IALA work Council meeting'; document prints '3rd IALA Council meeting'. Sealed quotations by post/courier/hand to Director of Lighthouses and Lightships, Deep Bhavan, Ghatkopar East, Mumbai; last date 04.12.2025 14:00 hrs, opening 04.12.2025 15:00 hrs. Table serial numbers in the NIQ jump from 3 to 6. Fencing height printed as 8\" (likely 8 ft)."
+}

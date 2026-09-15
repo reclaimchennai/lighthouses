@@ -1,0 +1,356 @@
+ क्रम                         नाम /Name
+संख्या/                                                                             वििरण/ Discription
+Sr.No
+   1.        ए.एल.ओ.एल/A.L.O.L.                                          : F-0354
+   2.        स्थान/Position                                              : Lat 23˚41.06’ N
+                                                                           Long 68˚31.8’E
+   3.        ऊंचाई/Elevation                                             : 46.5+3.8=50.3 M
+   4.     अभिलक्षण/Characteristic                                        : Fl (2)W15 sec
+                                                                         [(fl 1s, ec 3s), fl 1s, ec10s]
+   5.     नॉटिकल माइल मे दरू ी                                           : 18 NM
+          Range in miles
+   6.     दीपस्तंि िािर/L.H.Tower                                        : RCC Circular concrete
+                                                                         Tower
+                                                                         Height : 60 Mtrs
+                                                                         : 4 black and 3 white
+                                                                         bands. (Bottom band
+                                                                         black)
+   7.           ऑप्टिकल उपकरण                                            : SL300-1D5-1-W ( 13 –
+          Optical Equipment:-                                            19NM AT@ 0.74)
+           Type of Light (LED Flasher)
+   8.      प्रिािी बीम तीव्रता/ Effective beam intensity                 : 94400 cds
+
+   9.        LED flasher Input Voltage                                   : 24 V DC (Range 24V – 48V
+                                                                         DC)
+   10.       Load current                                                 : 16A DC at 24V DC
+             Peak Power                                                   : 384W (In Continuous
+                                                               Light)
+   11.       Colour of Light                                             : White
+   12.       Horizontal Output                                             : 360°
+   13.       Vertical Divergence                                         : >1.5°
+             Physical Characteristic:-
+             Body of Material                                            : Marine Grade Two part epoxy
+                                                                           coating to resist the
+             Lens Material                                               elements.
+             Lens Diameter                                               : UV -stabilised acrylic
+             Lens Design                                                 : 373mm
+             Mounting                                                    : Multiple LED Optic
+             Height                                                       : 3 & 4 hole 200mm bolt
+             Width                                             pattern
+             Weight                                                       : 302mm
+                                                                          : 373mm
+             Circuit Protection
+                                                                         : 18.5Kg
+             Water proof
+                                                 Page 1 of 8             : Polarity Protected
+             Product Life Expectancy                                     : Polarity Protected
+                                                        : IP 68
+                                                        : Up to 12 Years
+ 14.         Date of Installation                       : 13/03/2022
+ 15.         Make                                       : Sealite, Australia
+ 16.         Type of Light structure                    : Stationary LED flashing light
+
+
+
+
+   वी िी एस उपकरण/ VTS EQUIPMENTS:
+
+                                 वििरण/ Discription                   Qty
+क्रमसं                                                                      Location
+ख्या/
+Sr.No
+          i. X- Band RADAR Transceiver                              02      Eqpt
+             Scanter 2001,9375MHz Type                                      room
+             262001-024 Rev F
+             S. No.: 3013
+             Type 262001-017 Rev F
+             SNo.: 3017
+             D.O.I: 23/04/2012
+         ii. Scanter ACU                                            01      Eqpt room
+             Type: 262382-001 Rev H
+             SNo:3015, Voltage 3X400V, Freq -47.63Hz , Power
+             4KVA, Make Terma
+             D.O.I: 23/04/2012
+
+     iii. Radar Data Processor                                      02      Eqpt
+          C-SET01                                                           room
+          SNo: 3053272216, D.O.I: 28/12/2019
+
+           C-SET02
+           SNo. 3462630920, D.O.I: 08/07/2020
+
+     iv. RSD (Radar Service Display)                                01      Eqpt
+         MAKE: TERMA                                                        room
+         SNo:4603
+         D.O.I: 10/03/2020
+
+     v. UPS, On line, 3 Phase, 15 KVA                               01      Eqpt
+         MAKE: SCHINDER                                                     room
+         D.O.I: 13/08/2019
+     vi. 12v, 26AH Battery, make: APC SMF Battery                   32      Eqpt
+         D.O.I: 13/08/2019           Page 2 of 8                            room
+vii. Microwave Antenna                                       02   On tower
+     Make –Faini Tele communication System, (Kathrein)SNo:        wall
+     08KIMWA0000120038
+     SNo: 08KIMWA0000120039
+     D.O.I: 23/04/2012
+
+viii. RFU/ODU                                                03   With
+      SNo. R17065436 (INSTALLATED ON 49 MTR)                      antenna
+
+
+
+
+                                Page 3 of 8
+    SNo. R17065408 (INSTALLATED ON 58 MTR)
+    D.O.I: 23/04/2012
+
+     RFU/ODU
+     SNO: CR9Q240398 (NEWLY INSTALLATED ON 58
+     MTR)
+     D.O.I: 08/07/2020
+ ix. SPU-Harries True Point 4040                           02   Eqpt
+     Sl. No: A0114391, (for Harudi SPARE)                       room
+     D.O.I: 23/04/2012
+
+    SPU-ERICSSION ML6691
+    Sl. No: CE8A318089, (for Harudi)
+    D.O.I: 13/08/2019
+
+ x. MUX (PDH MUX)                                          01   Eqpt room
+    D.O.I: 23/04/2012
+
+ xi. KVM (Key Board Video& Mouse) S/W                      01   Eqpt
+     D.O.I: 23/04/2012                                          room
+
+ xii. RM (Rack Manager), Make – Austin Hughes screen -40   01   Eqpt
+      cm                                                        room
+      Model: N117e
+      D.O.I: 23/04/2012
+
+xiii. CISCO Switch                                         01   Eqpt
+      Catalyst 2960 Series                                      room
+      SNo:WS-C2960-24TT-L
+      D.O.I: 23/04/2012
+
+xiv. 6KVA UPS, Make NGBPS,                                 01   Eqpt
+     SNo. JH1020                                                room
+     D.O.I: 14/03/2019
+
+xv. 12v,26AH Battery, MAKE AMRON (Quanta)                  20   Eqpt
+    D.O.I: 08/08/2018                                           room
+
+xvi. Rectifier                                             01   Eqpt
+     SNo: BS350/B/4371                                          room
+     D.O.I: 23/04/2012 (SPARE)
+
+
+xvii. DG SET 40 KVA 415 v 3ɸ                               02   Power
+      Mod.KG40AS                                                house
+      Engine Type HA494T. S.no.04-2445/1020058
+                                 Page 4 of 8
+     Alternator SNo. CS3E010E105206
+     D.O.I : 23/04/2012
+
+     Battery12V, 130Ah, Make- EXIDE SNo. A4B80008392
+     D.O.I : 26/03/2018
+
+     DG SET 40 KVA 415 v 3ɸ
+     Mod.KG40AS
+     Engine Type HA494T. Sno.04-2421/0920697
+     Alternator SNo. CS3E010B22740
+     D.O.I: 23/04/2012
+
+     Battery12V, 130 Ah, Make- EXIDE
+     SNO. A3080016417
+     D.O.I : 07/06/2017
+
+xviii. 40 KVA AMF Control Panel                        01   Power
+       SNo:04-10/05/09,                                     house
+       Sterling Generators Pvt. Ltd
+       D.O.I: 23/04/2012
+
+ xix. 40 KVA LVDB Panel                                01   Power
+      Make – Sterling Generators Pvt. Ltd                   house
+      SNo:100
+      D.O.I: 23/04/2012
+
+ xx. A/C- 1.5Ton Make Blue star                        03   Eqpt
+     SNo. C101229470310524130521                            room
+     SNo. C101229470310524130572
+     D.O.I: 23/04/2012
+
+     A/C- Videocon 1.5 Ton
+     S. No:11081574200273
+     D.O.I: 01/11/2015
+
+ xxi. Exhaust Fan (Bajaj)                              03   Lift room,
+      D.O.I: 23/04/2012                                     Power
+                                                            house
+ xxii. 19-inch Val Rack for Radar Equipment            01   Eqpt
+       D.O.I: 23/04/2012                                    room
+xxiii. Comtel Rack                                     01   Eqpt
+       D.O.I: 23/04/2012                                    room
+xxiv. Isolation Transformer 6 KVA                      01   Eqpt
+       D.O.I: 09/09/2015                                    room
+
+xxv. APC REMOTE PDU                                    01   Eqpt
+                                      Page 5 of 8
+        SN: SA1922E014048                                               room
+  xxvi. Isolation Transformer 40 KVA                               01   Power
+        D.O.I: 03/08/2016                                               house
+  xxvii. Lightening Arrester                                       01   Top
+         D.O.I: 10/03/2019                                              tower
+ xxviii. Radar TxRx change over unit                               01   Eqpt
+         Make: Terma                                                    room
+         D.O.I: 23/04/2012
+ Energy source
+
+
+       Main supply voltage 230 V, 1 Phase, 50HZ from PGVCL
+       Diesel Engine Generator
+       Kirloskar – 02 Nos. 40 KVA,
+       HA494T.
+On Grid 30 KW Solar Systems:
+
+
+                  i)        Date of Installation: FEB 2016
+                  ii)       Inverter-01 No., Sr no:
+                            01Y15901184WG Input 200-1000 V
+                            DC, output230-400 V AC, make: Delta
+                            and 120 nos. of solar panel make:
+                            Navitas.
+
+Automatic Voltage Stabilizers-
+
+
+              Automatic Voltage stabilizer make-
+              Power+, Input: 14-280V, Output: 230V,
+              Capacity-16KVA, Frequency-50Hz, Date
+              of Installation: 08/07/2011
+             SNo.        i). 1105011ii). 1105013iii). 1105015
+HSD oil storage tank:
+
+
+        One number 12000ltrs. Capacity
+        HSD oil storage tank has been
+        provided insidethe campus in the
+        year 2011
+Lift:
+
+
+                  Inside the 60M high RCC radar tower l lift has
+                  been installed as per belowspecification:
+                        •   Make - Trio Elevators
+                                         Page 6 of 8
+                        •   Motor - 3-ɸ induction motor 5.5KW
+                        •   Capacity – 6 passengers
+                    • Speed – 1m/sec
+                    • Sl. No. – 1000096894
+                    • D.O.I: 23/04/2012
+                 The License valid up to 01/05/2024.
+
+CCTV:
+
+
+
+                 CCTV cameras have also been installed on dated
+                 24/08/2015.
+                  1) Bullet cameras                 : 06 nos.
+                  2) Dome cameras                   : 02 nos.
+                  3) PTZ camera                     : 01 no.
+            4) DVR                                  : 01 no.
+COMPOUND STREET LIGHTS:
+
+
+        01No. fluorescent flood light and 5 Nos. of LED street
+        poles are provided in thecompound.
+
+Fire-extinguishers:
+
+
+        The Following firefighting equipment are provided.
+        AndDate of Installation: 08/07/2011
+              a. Cease fire ABC dry powder (5
+                 Kg. capacities)
+
+                 : 4 Nos.(2 in power house, 1
+                 in base room, 1 in lift room)
+
+              b. Cease fire Clean Agent (4 Kg.
+                 capacities)
+
+                 : 2 Nos.(2 in VTS equipment room)
+
+              c. Fire buckets
+
+                 : 2 Nos.
+                 (The fire buckets with stands are provided in front
+                 of power house.)
+
+                                      Page 7 of 8
+LAND:
+
+             i)     Area                  : 10000 Sqm.
+             ii)    Demarcation                  : Masonry
+                    compound wall on all the four sides
+             iii)   No. of fruit trees           :40 trees
+             iv)    No. of non- fruit bearing trees:130
+
+FACILITIES AVAILABLE :
+
+
+             Police station, Primary school, Primary Health
+                   Centreat Narayan Sarovar Village.
+
+STRUCTURE:
+
+
+             a.     LH cum Radar tower: - 60m high
+                    RCC circular tower with internal lift
+                    facility and staircase.
+             b.     Technical Building: - 01 Unit
+             c.     Inspection Quarter: - 01 Unit.
+             d.     LHA quarter: - 2 Nos.
+             e.     R/T Quarters: 2 Nos.
+             f.     Security Cabin: 01 Nos.
+             g.     Compound wall: - The masonry
+                    compound wall with barbed wire coping
+                    on the top has been provided on four
+                    sides for enclosing land buildings with
+                    internal cement concrete pathway.
+             h.     Main gate: - M. S. gate has been provided
+                    on the entrance.
+
+WATER SUPPLY:
+
+
+             •      60,000 litres capacity water storage
+                    tanks are provided with water pump
+                    motor.
+             •      500 litres capacity 6Nos. Sintex tanks
+                    are also provided on Technical
+                    Building, Inspection Quarter, Group-D
+                    quarter and R/T Quarter.
+             •      10,000 litres capacity RCC overhead
+                    water tank is newly constructed nearthe
+                    tower.       Page 8 of 8
+ADDRESS& COMMUNICATION                 Station In-
+                                       Charge
+                                       Koteshwar
+                                       Lighthouse &
+                                       VTS Station
+                                       Near Narayan
+                                       Sarovar Kutch,
+                                       Gujarat
+                                       370 630
+                                       Telephone no.
+                                       02839-266620
+
+DATE OF COMMISSIONING                  13/02/2012
+
+
+
+
+                         Page 9 of 8
+

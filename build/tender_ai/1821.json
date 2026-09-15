@@ -1,0 +1,40 @@
+{
+  "nid": 1821,
+  "title": "Supply, installation, testing and commissioning of CCTV system at Pulicat, Portonova and Nagapattinam Lighthouses under Chennai Directorate.",
+  "summary": "E-tender for supply, installation, testing and commissioning of CCTV surveillance systems at Pulicat, Portonova and Nagapattinam lighthouses in Tamil Nadu (Chennai Directorate).",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01001(03)/5/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Pulicat Lighthouse", "station_id": "pulicat-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Supply, installation, testing and commissioning of CCTV system"},
+    {"name": "Portonova Lighthouse", "station_id": "portonovo-lighthouse-and-navtex-station", "kind": "lighthouse", "work": "Supply, installation, testing and commissioning of CCTV system"},
+    {"name": "Nagapattinam Lighthouse", "station_id": "nagapattinam-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Supply, installation, testing and commissioning of CCTV system"}
+  ],
+  "scope": [
+    {"item": "Supply, installation, testing and commissioning of CCTV system", "qty": null, "unit": null, "site": "Pulicat, Portonova and Nagapattinam Lighthouses"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2495558.0,
+    "emd_inr": 49911.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Tender fee/EMD by DD/FDR (original) in favour of Director, Directorate of Lighthouses and Lightships, Chennai, payable at Chennai, to be submitted within bid submission period. Small Scale Industries with valid NSIC certificate exempted from tender fee and EMD. Tender fee amount not printed."
+  },
+  "period": {"completion": "60 days", "bid_validity": "90 days from the date of commercial bid opening", "warranty": null},
+  "dates": {"published": "2025-01-17", "pre_bid": "2025-01-23", "bid_submission_end": "2025-01-27", "bid_opening": "2025-01-28"},
+  "eligibility": [
+    "Reputed Original Equipment Manufacturers (OEM) or authorized dealers of OEMs, licensed contractors, parties or Government Undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT3LHs.pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly broken (missing conjuncts); English portions complete"]}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only; no BOQ, CCTV specifications or detailed eligibility. Bid download/submission 18/01/2025 10:00 to 27/01/2025 15:00; technical bid opening 28/01/2025 15:00; pre-bid 23/01/2025 15:00."
+}

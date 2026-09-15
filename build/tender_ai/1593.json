@@ -1,0 +1,49 @@
+{
+  "nid": 1593,
+  "title": "Procurement of 3 core x 6 sqmm Copper Armoured Cable for water pump at Oyster Rock Lighthouse",
+  "summary": "E-tender for supply and laying of 3-core 6 sq mm copper armoured XLPE power cable for the water pump at Oyster Rock Lighthouse (island off Karwar, Karnataka), issued by the Directorate of Lighthouses and Lightships, Goa.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-Goa-01001(09)/1/2023-Electrical Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Near GMC Stadium, Bambolim, Goa"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Oyster Rock Lighthouse (Island), R/T Building, Kaju Baug, Post Karwar, Dist. Kanera", "station_id": "oyster-rocks-lighthouse", "kind": "lighthouse", "work": "Supply and laying of 3C x 6 sq mm copper armoured cable for water pump"}
+  ],
+  "scope": [
+    {"item": "Supply of 3 core x 6 sqmm copper armoured LT XLPE power cable", "qty": "220", "unit": "Mtr", "site": "Oyster Rock Lighthouse"},
+    {"item": "Laying of one number PVC insulated and PVC sheathed/XLPE power cable, 1.1 kV grade, direct in ground incl. excavation, sand cushioning, protective covering and refilling (printed '65sqmm x 3core armoured XLPE power cable for water pump')", "qty": "200", "unit": "Mtr", "site": "Oyster Rock Lighthouse"},
+    {"item": "Transportation (road and boat) & labour charges, clamps, SS cable tie, screw etc.", "qty": "1", "unit": "LS", "site": "Oyster Rock Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 268400.0,
+    "emd_inr": 5368.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": "3% of contract value by BG/FDR within 15 days of LoI, valid 3 months after expiry of 2-year warranty",
+    "notes": "Estimate inclusive of GST. EMD by DD/FDR of any nationalised bank in favour of The Director of Lighthouses and Lightships, Goa, valid 90 days from publishing; original EMD and tender fee (DD) by 28.05.2024 12:00. MSME bidders in eligible category may submit Bid Security Declaration (Form 9.6) instead of EMD."
+  },
+  "period": {"completion": "15 days from the date of award of contract (NIT); SCC 5.4 says 90 days from signing of agreement", "bid_validity": null, "warranty": "2 years from completion/acceptance; defects rectified at contractor's cost"},
+  "dates": {"published": "2024-05-16", "pre_bid": "2024-05-21", "bid_submission_end": "2024-05-27", "bid_opening": "2024-05-28"},
+  "eligibility": [
+    "OEMs or authorised agents, or appropriate class contractors registered with CPWD/State PWD/Railways/MES/BSNL or other Government/PSU/autonomous bodies",
+    "Similar works in last 7 years: one >= Rs 2,14,720, or two >= Rs 1,61,040 each, or three >= Rs 1,07,360 each, for Central/State Govt/PSU/private firm; similar work = electrification works, ESE lightning arrester, electrical UG cable works",
+    "Minimum 3 years' experience in similar work",
+    "Company registration; valid electrical works licence; PAN and GST; ITRs for any three assessment years; CA-certified average annual turnover for 3 years (min Rs 2.07 lakh per evaluation table)",
+    "Technical brochures and make/model of proposed cable; tender acceptance letter, undertaking, non-blacklist affidavit (Forms 9.3-9.5)",
+    "Technical evaluation out of 100 (statutory 35, financial 20, experience 20, performance 20, cable make/model 5); minimum 70% to open commercial bid; lowest-priced qualified bidder wins"
+  ],
+  "specs": [
+    "3 core x 6 sq mm copper armoured LT XLPE power cable, 1.1 kV grade",
+    "Conductor per IS:8130:2013; high voltage resistance test report required before supply",
+    "Works per State Electricity Board specs, else CPWD General Specifications for Electrical Works 2013 Part-I"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Tender_oyster_Rock.pdf", "pages": 36, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned 36-page bid document with a poor OCR text layer (garbled Hindi and digits); NIT (p3), eligibility (p9), evaluation (p27) and BOQ (p28) re-rendered and read from images, other sections (instructions, GCC, SCC, forms) confirmed as boilerplate from text. Inconsistencies: completion 15 days in NIT vs 90 days in SCC; BOQ laying item says '65sqmm x 3core' although cable is 6 sq mm; 220 m supplied vs 200 m laid; Form 9.1 footnote reads 'three percent (05%)'; SCC 5.20 refers to laws of the State of Tamil Nadu. Site reached by machine boat from Karwar port. Bid download/submission 17.05.2024 12:00 to 27.05.2024 16:00; technical bids opened 28.05.2024 16:00."
+}

@@ -1,0 +1,48 @@
+{
+  "nid": 1716,
+  "title": "Conducting Technical cum Commercial Feasibility Study for installation of Lift at Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai Lighthouses.",
+  "summary": "Technical-cum-commercial feasibility study for installing lifts in five lighthouse towers under Chennai Directorate: Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(29)/1/2024-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Poompuhar", "station_id": "poompuhar-lighthouse", "kind": "lighthouse", "work": "Feasibility study for installation of lift"},
+    {"name": "Kodikkarai", "station_id": "kodikkarai-lighthouse", "kind": "lighthouse", "work": "Feasibility study for installation of lift"},
+    {"name": "Nagapattinam", "station_id": "nagapattinam-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Feasibility study for installation of lift"},
+    {"name": "Mallipattinam", "station_id": "mallipattinam-lighthouse", "kind": "lighthouse", "work": "Feasibility study for installation of lift"},
+    {"name": "Kilakkarai", "station_id": "kilakkarai-lighthouse", "kind": "lighthouse", "work": "Feasibility study for installation of lift"}
+  ],
+  "scope": [
+    {"item": "Conducting Technical cum Commercial Feasibility Study for installation of Lift at Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai Lighthouses", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 731000.0,
+    "emd_inr": 14620.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of any scheduled/nationalised bank in favour of Director of Lighthouses and Lightships, Chennai, valid three months from technical bid opening. Tender fee NIL."
+  },
+  "period": {"completion": "60 Days from the date of award of contract", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-08-08", "pre_bid": "2024-08-22", "bid_submission_end": "2024-08-29", "bid_opening": "2024-08-30"},
+  "eligibility": [
+    "Valid licence/registration issued by State CEIG or other State/Central Government licensing authority for installation of lifts/elevators, with experience in similar works for Government/PSU/autonomous bodies",
+    "Average annual financial turnover at least 40% of estimated cost",
+    "Similar works completed in last seven years: three works each >= 40%, or two each >= 50%, or one >= 80% of estimated cost; similar work = technical cum commercial feasibility study for installation of elevators/lifts for multi-storeyed buildings/towers",
+    "OR reputed lift/elevator OEMs or authorised agencies with installation experience in multi-storeyed buildings/towers for Government/PSU bodies: one work >= Rs 35.00 lakh, or two works each >= Rs 22.00 lakh, or three works each >= Rs 18.00 lakh",
+    "Only completed works with completion certificate; experience certificate from officer not below Executive Engineer",
+    "PAN/ITCC/GST registration; key technical personnel details",
+    "Unconditional tender undertaking (Annexure III), tender acceptance letter (Annexure II), not-blacklisted affidavit, list of relatives serving in MoPSW/DGLL"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NewNITFeasibilitystudylift.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 07/08/2024; two-cover online bids; download and submission 08.08.2024 18:00 to 29.08.2024 15:00, opening 30.08.2024 15:00. This is a fresh NIT for the same work earlier listed as nids 1674 (retender notice, Tender ID 2024_DGLL_809194_1) and 1704 (corrigendum, Tender ID 2024_DGLL_809194_2); its eligibility text already incorporates the 1704 corrigendum wording. Document is Section I only; no BOQ or scope details."
+}

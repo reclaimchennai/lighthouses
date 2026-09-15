@@ -1,0 +1,167 @@
+                                मास्टर लेज़र/MASTER LEDGER
+              अम्मापट्टिनम लाइटहाउस/Ammapattinam Lighthouse
+क्रमसंख्या/              नाम /Name
+   Sr.No                                                                वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.         F 0901.2
+    2         स्थान/Position             Lat : 10º.00’.65” N
+                                         Long : 79º.13’.74” E
+    3         ऊंचाई/Elevation            49 M (Above MSL)
+    4         अभिलक्षण/Characteristic    Two White Flashes for every 15 Second
+
+    5         नॉटिकलमाइलमेदरू ी          20 NM at 0.74 AFT
+              Range in miles
+    6         दीपस्तंििािर               Type                                  RCC Circular Tower
+              L.H.Tower                  Height                                45 M
+                                         Colour Scheme                         Black and White Horizontal Band
+    7         ऑप्टिकलउपकरण               Optic                                 LED Marine Rotating beacon,
+                                                                               VRB- 25-LED
+              Optical equipment
+                                         Make                                  M/s VEGA, Finland
+                                         Type                                  LED
+                                         Size
+                                         No. of lens
+                                         Area of dioptric portion
+                                         Area of catadioptric portion
+                                         Divergence                            1.5º at 5% Peak Intensity
+                                         Main/Emergency
+                                         Duration of Flash                     0.5 sec
+                                         Main /Standby/Emergency
+                                         Pedestal                              -
+                                         Rotation Device                       Inbuilt stepper motor
+                                         R.P.M.                                2 RPM
+                                         illumining
+                                         Main                                  12V DC LEd Marine Rotating Beacon
+                                         Standby                               -
+                                         Emergency:                            -
+                                         Date of Installation                  13.05.2019
+    8         प्रिािीबीमतीव्रता          Main                                  113000 cds
+              Effective beam intensity   Emergency                             -
+    9         लेंिनन/Lantern             Diameter                              2.4 m ,8mm thick
+                                         Height of glazing                     1385 mm
+                                         No. of panes                          12 Nos Toughened glass
+                                         Ventilators                           6 Nos
+    10        RACON                           Sr. No
+          Make                   Model        Code                              Band                      Date of
+                                                                                                          Installation
+     11   NAIS
+          Base Station
+
+          Model                  Type         Power                             MMSI
+          SAAB                   R40
+          Communication
+          Equipment
+          VSAT Antenna           Band         Modem
+            2.4m dia             Ex-C         HUGHES HT-2300
+            Parabolic
+            reflector
+          DGPS
+          Transmitter Make       Frequen      Power Output         RS 1 ID      RS -II      Beacon        Date of        Date
+                                 cy                                             ID          ID            commis         of
+                                                                                                          sioning        Reca
+                                                                                                                         pitali
+                                                                                                                         zatio
+                                                                                                                         n
+
+     12   ऊर्ानकेसाधन            Mains                                          Tamil Nadu Electricity Board (TNEB)
+          Source of energy       Power Source                                   3 phase /440V AC supply
+                                 Engine 1                                                     (NIL)
+                                 Make/Type              Qty        Rating       No of        RPM                  Cooling
+                                                                                Cylinder
+
+                                 Alternator
+                                 Make/Type              Qty        Rating       Voltage/A    Frequency            Phase
+                                                                                mp
+
+                                 Engine 2                                                     (NIL)
+                                 Make/Type              Qty        Rating       No of        RPM                  Cooling
+                                                                                Cylinder
+
+                                 Solar Plant for Main light
+                                 Capacity PV             Numbers               Type        Battery           Bank
+                                 1.5 KW (24V/250 Wp) 6 Nos                     Access      12 Nos            01 No.
+                                                                               solar       2 V/ 600 AH
+                                  Solar Plant 4Kwp off grid (used in NAIS, Automation, street lights,tower and etc)
+                                  Capacity PV           Numbers                Type        Battery           Bank
+                                  4 KW (24 V/ 250 Wp) 16 No.                   TAPSUN 16 Nos                  01 No.
+                                                                                           12V/150AH
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+          Make           Model                Capacity Input                   Output            Phase       Qty
+          ITL            Servo controlled     5 KVA     170-270 V              230 V             1 phase     1 No
+14        बैिरर
+          Batteries
+          Equipment      Type                 Make        Volt                  Amp/Hr       Qty
+          PSS NAIS               -                -                 -              -                  -
+          Genset                 -                -                 -              -                  -
+          Automation             -                -                 -              -                  -
+     DGPS                      -                     -                      -               -           -
+15   बैिररचार्नर/ Battery charger
+
+     Equipment               Make              Model               Type              Rating             Qty
+          -                Associate             -                   -                0-40 V/          1 No
+                         engineer(AE)                                                  40 A
+             -              Velsine              -                      -             0-40 V/          1 No
+                         Technologies                                                  80 A
+             -          Aplab Regulated          -                      -             0-32V/           1 No
+                         Power Supply                                                  20A
+16   इंवर्ट रInverter /UPS
+     Equip Nos          Make               Model                        Type         Rating     Qty     input        outpu
+     ment                                                                                                            t
+     4Kwp 1 No Hykon                              SPP 5000              Pure Sine      5KVA     1No      96V/DC&     230V
+     Off                                                                Wave                             230 V AC    AC
+     Grid
+     -          -       Data Shield                      --             Pure sine      1 KVA    2No     24V/ DC      230V
+                                                                        wave                                         AC
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE PLC                        HMI                 Power Supply           VSAT            Modem               Band
+     RDS    Allen Bradley            -                   24 V DC                1.8 m dia       Hughes              Ex.C
+                                                                                Parabolic
+                                                                                Reflector
+18   आप्ननशमनउपकरण                         Type of Extinguisher                 Capacity        Nos      Make
+     Fire Fighting Equipment               DCP Type                             2kg & 6Kg       2        Intime Fire
+                                                                                                         Applicants
+                                           Foam Type                            -               -        -
+19   संचार                                 BSNL telephone                                       04371-299260
+     Communication
+20   र्लपर्ू तन                            Local Panchayat water Supply , Bore Well Water & Rain Water Storage
+     Water Supply
+21   िभू म                                 Area                                                 2900 sq. mt
+     Land                                  Demarcation                                          East - Bay of Bengal
+                                                                                                West - Village Gravel Road
+                                                                                                North - Village Land
+                                                                                                South - Village Land
+22   इमारतें                               RCC Structure: 06 Nos                                Lighthouse Tower , Power
+                                                                                                House, Store , Office room
+     Buildings
+                                                                                                cum Recreation Room,
+                                                                                                Inspection quarters, Staff
+                                                                                                Quarter-3Nos and Pump
+                                                                                                House
+23   कंपाउं डलाइि                          LED Light fitted on G.I Pole-06 Nos
+                                           Gate light- 2 Nos
+     Compound Lights
+24   सीसीिीिीकमेरा                         NIL
+      CCTV CAMERA
+25   स्िाफ                                 Sl. No                Designations
+     Staff                                 1                     Navigational Assistant Gr-II – 2 No
+                                     2                   Outsorced staff for Housekeeping- 1 No
+26   पहुँचनेकामाध्यम                 By Bus
+                                     (Nearby Railway station is Pudukkotai 75Km )
+     Mode of approach
+                                     (Nearest airport is Tiruchirapalli airport 120 Km)
+
+27   उपलब्धसविधाए                    The nearest Primary Health Centre ,Post office, Local panchayat office and
+                                     BSNL office at Ammapattinam, Police Station are available at Manamelkudi.
+     Facilities available
+
+
+28   डाकपताPostal address            The Navigational Assistant Gr-I
+                                     Ammapattinam Lighthouse,
+                                     Ammapattinam , Manamelkudi Taluka
+                                     Pudukkottai District, Tamilnadu-614617
+29   मल्ू यकाब्योराCost details      1.02 crores
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          09th October 2005
+     Date of commissioning
+

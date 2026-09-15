@@ -1,0 +1,36 @@
+{
+  "nid": 1453,
+  "title": "Supply and Installation of Router e-office for Deep Bhavan, Chennai",
+  "summary": "E-tender for supply and installation of a router for e-office at Deep Bhavan, the Chennai office of the Directorate of Lighthouses and Lightships.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01001(02)/4/2020-MNT-MD; I/52023/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, 5/20 Jaffar Syrang Street, Chennai", "station_id": null, "kind": "office", "work": "Supply and installation of router for e-office"}
+  ],
+  "scope": [
+    {"item": "Supply and installation of router for e-office", "qty": null, "unit": null, "site": "Deep Bhavan, Chennai"}
+  ],
+  "money": {
+    "estimated_cost_inr": 424801.0,
+    "emd_inr": 8500.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": null,
+    "notes": "Tender fee (non-refundable) and EMD by DD/FDR/bank guarantee of any nationalised/scheduled bank in favour of Director, Directorate of Lighthouses and Lightships, Chennai; originals by end of bid submission period."
+  },
+  "period": {"completion": "45 days", "bid_validity": "90 days from the date of commercial bid opening", "warranty": null},
+  "dates": {"published": "2024-02-01", "pre_bid": "2024-02-13", "bid_submission_end": "2024-02-26", "bid_opening": "2024-02-27"},
+  "eligibility": ["Reputed OEMs or authorized dealers of OEMs, licensed contractors, parties or Government undertakings"],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "router34.pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Section I NIT only (printed pages 3-4); no router specifications or BOQ. The Hindi text (both paragraph and name-of-work row) describes 'supply and installation of CCTV system for Kanyakumari Lighthouse under Chennai Directorate', apparently copied from another tender, while the English text and listing say router for e-office at Deep Bhavan. Download/submission 05.02.2024 17:00 to 26.02.2024 16:00; technical bid opening 27.02.2024 16:00."
+}

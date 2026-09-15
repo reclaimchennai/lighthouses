@@ -1,0 +1,135 @@
+                            मास्टर लेजर/MASER LEDGER
+क्रमसं                 नाम /Name
+ ख्या/                                                                         वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.                     0709
+   2     स्थान/Position                         Lat.9° 8’ 24.498’’ N , long 76° 27’ 43.68’’ E
+   3     ऊंचाई/Elevation                        49m (Above MSL)
+   4     अविलक्षण/Characteristic                Flash (3) White-20 seconds (1+2.5+1+2.5+1+12)
+   5     नॉविकल माइल मे दू री                   22NM
+         Range in miles
+  6      दीपस्तं ि िािर/L.H.Tower               Type                               Pentagon RCC
+                                                Height                             41.26m
+                                                Colour Scheme                      Blue and White Band
+  7      ऑविकल उपकरण                            Optic
+         Optical equipment                      Make                               Marine Navidas and Solar Auto PVT,LTD
+                                                Type                               Revolving beacon
+                                                Size
+                                                No. of LED Panels                  6
+                                                Area of dioptric portion
+                                                Area of catadioptric portion
+                                                Divergence                         Local Mains 440 V, 3 phase,50 Hz
+                                                Main/Emergency                     AC supply
+                                                Duration of Flash                  Back-upSolar Inverter supply from battery.
+                                                Main /Standby/Emergency            Diesel Engine Generator 1 no with Aouto
+                                                Pedestal
+                                                Rotation Device                    24 volt DC motor
+                                                R.P.M.                             1
+                                                Illuminant                         LED panel
+                                                Main
+                                                Standby                            Generatort set 1no (3 phase )
+                                                Emergency:                         Marine Navaidas and solar Auto pvt Ltd
+                                                Date of Installation               03-06-2021
+  8      प्रिािी बीम तीव्रता/Effective beam     Main                               2,00000 cds
+         intensity                              Emergency
+  9      लें िनन /Lantern                       Diameter                           2.5 m
+                                                Height of glazing                  1.4m
+                                                No. of panes                       12
+                                                Ventilators                        6
+ 10      RACON                  NIL                  Sr. No
+         Make                   Model           Code                               Band                  Date of
+                                                                                                         Installation
+
+ 11      NAIS                     NIL
+ 12      ऊर्ान के साधन/          Mains
+         Source of energy        Power Source                                      DG Set 30 KVA make Eicher
+                                 Engine 1
+                                    Make/Type 4 stock           Qty         Rating          No of            RPM                 Cooling
+                                                                                            Cylinder
+                                    Eicher                      1           48.2 BHP        3                1500                Air
+                                    Alternator
+                                    Make/TypeLerroysomer        Qty         Rating          Voltage/Amp      Frequency           Phase
+                                    Stamford                    1           33.64 KVA       240V/ 130.4      50Hz                3
+                                                                                            A
+                                    Solar Plant
+                                    Capacity PV                 Numbers                     Type        Battery                  Bank
+                                    2 KW off Grid               165 W – 10 Nos              Mono        24VDC – 02 Nos           01
+                                                                                            crystalli
+                                                                                            ne
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र Automatic Voltage Stabilizers
+
+          Make                   Model                Capa      Input                       Output                Phase          Qty
+                                                      city
+          Servo Voltage          SAN115               15        160-260. V                  230-235.V             Single         0 3.Nos
+          stabilizer. 03 .nos                         .KVA                                                        phase
+14        बैिरर Batteries
+          Equipment              Type                 Make          Volt                    Amp/ Qty
+                                                                                            Hr
+          Main Lamp                Lead acid           Exide-       12 V                    150Ah 4.nos-
+          Genset                   Lead acid          Amaron        12V                     90 Ah 1
+          Automation               NIL
+          DGPS
+     15   बैिरर चार्न र/ Battery charger
+
+          Equipment              Make                 Model Type                            Rating Qty
+          General Purpose
+          Automation                  SHARP           1032          IN put 0, 230,AC         20                   01
+                                                      0003          Out Put 48 V ,DC        Amps
+                                                      3801
+                                                       0---
+     16   इं वर्ट र Inverter /UPS
+          Equipment Nos           Make           Model                      Type            Rating         Qty      input              Output
+          Main Light         02   Gamm           XGPX7BBLT02KB0025            1 KVA            24           02       45-90 DC            230
+                                      a                 64                                  VDC,45-                                     V,AC
+                                  Solar,P                                                    90VCD
+                                     CA
+          SOLAR            10     Lumino             LUM 12165                              165 watts 10.           P.P-166.58
+          PANNEL           Nos    us                                                                  Nos           PV. 18.65v
+          Elevater         1 .no M/s                                        3 phase         340       1.
+                                  Axis                                      motor,4kw       kgs/5     No
+                                                                                            person
+
+     17   स्वचलन उपकरण
+          Automation Equipment NIL
+          MAKE        PLC          HMI                       Power Supply            VSAT               Modem          Band
+
+     18   आवि शमन उपकरण                               Type of Extinguisher           Capacity              Nos           Make
+          Fire Fighting Equipment                     ABC Type                       2 kg ,                2
+                                                      ABC Type                       4kg                   1
+                                                      ASES Type                      -                     1
+19   संचार                           Telphone .04792999613
+     Communication
+20   र्ल पूवतन                       Kerala water authority and Rain water is collected at sump ,capacity 41
+     Water Supply                    Kilolitresfrom there it pumped to an overhead tank of capacity 5000 liters
+                                     using 1.5 hp, 230 v.motor .
+21   िू वम                           Area                                       0.1456hectre
+     Land                            Masonry Compound wall
+22   इमारतें                         RCC Structure: 05 Nos                      Power House with office cum
+     Buildings                                                                  store,1st floor LHA Qtr 1
+                                                                                LH -Incharge Qtr-1 Inspection
+                                                                                Qtr -1 , LH Tower -1 Security
+                                                                                room -1 and Engine room -1
+23   कंपाउं ड लाइि                   LED Light fitted on G.I Pole-04 Nos
+     Compound Lights                 Small type LED Light fitted on GI 08
+                                     Nos
+24   सीसीिीिी कमे रा                 Camera                                     CP Plus -12 Nos
+      CCTV CAMERA                    DVR
+25   स्टाफ                           Sl. No          Designations
+     Staff
+                                     1             Navigational Assistant Gr 11- 1no
+                                     2             LHA on contract 1 no, Security on contract 1 no, Ticket coun
+                                                   -1 no
+26   पहुँ चने का माध्यम              By Rail upto kayamkulam junction then 10.Km from Light house by
+     Mode of approach                road up to Valiyazhikkal Light house ,Transport bus stand is 10 .Km
+                                     away (Ochirra and Karungappally and Kayamkulam.)
+27   उपलब्ध सुविधाए                  The nearest Post office, Primary health Dispensary, High School,
+     Facilities available            Police Station at Thrikunnapuzha 15 Km are available .
+28   डाक पताPostal address           Light house in- chargr ,
+                                     Valiyazhikkal Light house ,
+                                     Valiyazhikkal -post,
+                                     Kayamkulam, Alapuzha ,Pin: 690515.
+29   मू ल्यका ब्योराCost details
+     (At the time of Construction)
+30   प्रितनन मे लाने का दे नां क     30.10.2021
+     Date of commissioning
+

@@ -1,0 +1,63 @@
+{
+  "nid": 1359,
+  "title": "REQUEST FOR TECHNOCOMMERCIAL PROPOSAL FROM PROSPECTIVE BIDDERS FOR Supply, Installation, Integration, Testing and Commissioning of NavIC based Monitoring system for deep sea Buoys deployed by DGLL in the Indian Ocean Region under Atmanirbhar Bharat, Make in India Initiative.",
+  "summary": "DGLL headquarters request for techno-commercial proposals and budgetary quotes for a NavIC and satellite based real-time position and health monitoring system for its deep-sea channel marking buoys off Gujarat (and one in Andaman & Nicobar), with a central monitoring centre; only EOI respondents may bid in the later GeM tender.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "EOI",
+    "portal": "offline",
+    "reference": null,
+    "issuing_office": "Directorate General of Lighthouses and Lightships, A-13 Deep Bhavan, Sector-24, Noida"
+  },
+  "scope_level": "national",
+  "sites": [
+    {"name": "Gulf of Kutch (Salaya Channel) buoys: Mithapur, Gurur, Chandri, Kachchh, Paga, VLCC, New North Cardinal, Dhani, Tilburn, Narara, Ranwara", "station_id": null, "kind": "other", "work": "Buoy-mounted NavIC monitoring hardware (11 buoys)"},
+    {"name": "Gulf of Khambat (Narmada Channel) buoys 1-9 and Sultanpur", "station_id": null, "kind": "other", "work": "Buoy-mounted NavIC monitoring hardware (10 buoys)"},
+    {"name": "Buoy near Invisible Bank, Andaman & Nicobar Islands", "station_id": null, "kind": "other", "work": "Buoy monitoring hardware"},
+    {"name": "Central monitoring station at Directorate of Lighthouses and Lightships, Jamnagar / DGLL Noida or location designated by DGLL", "station_id": null, "kind": "office", "work": "Monitoring centre with server, software and display"}
+  ],
+  "scope": [
+    {"item": "Marine NavIC receiver for buoy", "qty": "22", "unit": "Nos", "site": null},
+    {"item": "Light sensor with integration board (02 digital + 02 analog in, 02 digital + 02 analog out)", "qty": "22", "unit": "Nos", "site": null},
+    {"item": "Marine satellite transceiver", "qty": "22", "unit": "Nos", "site": null},
+    {"item": "Cables, marine shields, IP68 connectors", "qty": "22", "unit": "sets", "site": null},
+    {"item": "Server with data storage", "qty": "1", "unit": "No", "site": null},
+    {"item": "Monitoring computer with view screen", "qty": "2", "unit": "Nos", "site": null},
+    {"item": "Monitoring software", "qty": "1", "unit": "No", "site": null},
+    {"item": "System installation, cables, wiring", "qty": "2", "unit": null, "site": null},
+    {"item": "Data charges for 60 months", "qty": "60", "unit": "months", "site": null},
+    {"item": "Warranty, AMC for 05 years", "qty": "1", "unit": null, "site": null},
+    {"item": "Spares, 01 set for each of the gulfs", "qty": "2", "unit": "sets", "site": null},
+    {"item": "Training", "qty": "6", "unit": "persons", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Budgetary quote requested in prescribed format; all costs inclusive of GST, customs duty and freight to DGLL-designated locations."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": "5 years for whole system, with quarterly inspections; spares/repair backup for at least 5 years after acceptance"},
+  "dates": {"published": "2023-09-14", "pre_bid": null, "bid_submission_end": "2023-09-18", "bid_opening": null},
+  "eligibility": [
+    "Prospective bidders of repute with exposure to the subject work",
+    "Only firms submitting the EOI will be allowed to participate in the subsequent GeM bid",
+    "Details of legal status, works executed in last seven years and annual turnover of last three years (Appendix 1 and 2)",
+    "Service centre/maintenance office in at least two locations"
+  ],
+  "specs": [
+    "Existing buoys: BS-58 mild steel, 3.6 m dia, 6 m above water, 12V/100AH SMF battery, 2 x 40 W solar panels, SL 125 tier1 LED lantern",
+    "GNSS receiver: IRNSS/NavIC, GPS, GLONASS; 200+ channels; normal (4 reports daily), emergency and instant modes; marine hardened; uses buoy power",
+    "Messages: live position on chart, light status, battery status, tsunami alert by quick height change, drift beyond radius, human interference alert",
+    "Monitoring centre: data server, access computer, minimum 36 inch display, 30 min UPS, rack; web-browser software with track history, zoom, alarms, one-year data log, daily e-mail report",
+    "Environment: indoor 0-55 C, 95% RH; outdoor 0-55 C, 100% RH, wind to 100 km/h; voltage +/-20%, frequency +/-5%",
+    "Compatible with future IMO/IALA/RTCM e-Navigation standards; replacement of defective system within 7 days; training of 06 staff for 2 days",
+    "Sample product to be ready before 10.10.2023 for demonstration at Maritime India Summit 2023"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "EOI.pdf", "pages": 15, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Listing title is only the document heading. No reference number printed. EOI to be submitted in writing by 10:00 on 18.09.2023 to DGLL Noida (office e-mail noida-dgll@nic.in). Inconsistencies: 21 buoys listed in Gujarat plus one in A&N but hardware quantity 22; monitoring centre stated as DLL Jamnagar in one place and DGLL Noida in another; training 2 days in text but 'four days' in budget format. Buoy charted positions are given in the document."
+}

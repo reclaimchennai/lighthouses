@@ -1,0 +1,196 @@
+                       मास्टर लेजर/MASTER LEDGER
+
+                          लह
+                           ु ारा पॉइंट दीपस्तंभ/Luhara point Lighthouse
+
+क्रमसंख्या/             नाम /Name
+                                                                        वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0470
+     2        स्थान/Position                     Lat.21° 39.57’ N , long 72° 32.89’ E
+    3         ऊंचाई/Elevation                    28 M
+    4         अभिलक्षण/Characteristic            fl W 15 Sec.(FL 0.5 Sec+14.5 Sec)
+    5         नॉटिकलमाइलमेदरू ी                  23.5 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                           C.I. Circular tower on RCC Base
+                                                 Height                         24M
+                                                 Colour Scheme                  Red and White Spiral Band
+    7         ऑप्टिकलउपकरण                       Optic                          An Octagonal lens panel assembly
+              Optical equipment
+                                                 Make                           M/S. Ana, New Delhi
+                                                 Type                           GRL-48MK-II gearless rotation
+                                                 Size                           200mm
+                                                 No. of lens                    Acrylic Fresnel lens assembly & 4
+                                                                                lanes +4 Blanks
+
+                                                 Area of dioptric portion
+                                                 Area of catadioptric portion
+
+                                                 Divergence
+                                                 Main/Emergency
+                                                 Duration of Flash              0.5 Sec
+                                                 Main /Standby/Emergency
+
+                                                 Pedestal                       G.I Pipe Stand
+                                                 Rotation Device                12V DC stepper motor
+                                                 R.P.M.                         1
+                                                 illumining
+                                                 Main                           230V/150W Metal Halide Lamp
+                                                 Standby
+                                                 Emergency:
+                                                 Date of Installation           14-02-2003
+    8         प्रिािीबीमतीव्रता/Effective beam   Main & Standby                 468750cds
+              intensity                          Emergency
+    9                                            Diameter                       2.4m
+     लेंिनन/Lantern                    Height of glazing             1.4m
+                                       No. of panes                  12
+                                       Ventilators                   8
+10   RACON                                  Sr. No                      6295
+     Make               Model          Code                          Band                   Date of
+                                                                                            Installation
+     Tideland           Sea                    D                     X+S                    06-10-2005
+                        Beacon 2
+                        System 6
+11   NAIS
+     Base Station                         2 Nos-AIS1 & AIS2
+
+
+     Model              Type           Power                         MMSI
+     R40                Class A        AC-230V & DC-12V              004192221
+     Communication
+     Equipment
+     VSAT Antenna       Band           Modem
+       2.4m dia         EX-C           Datum system
+       Parabolic                           M7LT
+       reflector                       Satellite Terminal
+     DGPS
+     Transmitter Make   Frequency      Power Output RS 1 ID          RS -II       Beacon    Date of      Dat
+                                                                     ID           ID        commis       e of
+                                                                                                         Re
+                                                                                            sioning      cap
+                                                                                                         itali
+                                                                                                         zati
+                                                                                                         on
+
+
+
+12   ऊर्ानकेसाधन/Sour   Mains                                        Torrent Power supply 3
+                                                                     phase,440V,50Hz
+     ce of energy
+                        Standby                                      DG Set 7.5 KVA Kirloskar Green
+                                                                     make
+                        Engine 1
+                        Make/Type              Qty         Rating    No of          RPM            Cooling
+                                                                     Cylinder
+                        KIRLOSKAR/EA 16        1           16 BHP    2              1500           Air
+                        Alternator
+                        Make/Type              Qty         Rating    Voltage/Amp    Frequency      Phase
+                        KISLOSKAR/KG 164 H     1           7.5 KVA   240V/31.2A     50Hz           Single
+                        Engine 2
+                        Make/Type              Qty         Rating    No of          RPM            Cooling
+                                                                     Cylinder
+
+                        Alternator
+                        Make/Type              Qty         Rating    Voltage/Amp    Frequency      Phase
+
+
+
+
+                        Solar Plant
+                                Capacity PV                  Numbers               Type                Battery          Bank
+                                200 Wp/17.5V                 18 Nos                Mono                03 Nos           03 Nos
+                                                                                   Crystalline         12V/1000AH
+                                Solar Plant for Main RACON
+                                Capacity PV                  Numbers               Type                Battery          Bank
+                                75 W/17V                     02 Nos                TBP 1275            01 Nos           01
+                                                                                                       12V/100AH        Nos
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make                 Model             Capa        Input                 Output                  Phase        Qty
+                                                 city
+          VS Power System      vsp/servo/air     10kv        120-280V              240V                    Single       1
+                                                 a
+14        बैिरर
+          Batteries
+          Equipment             Type             Make         Volt                 Amp/Hr              Qty
+          PSS NAIS              SMF              Relicell     12V                  150 AH              2
+          Genset                Lead acid        Exide        12V                  100 AH              1
+          Automation            EP 26-12         Exide        12V                  26 AH               2
+          DGPS
+     15   बैिररचार्नर/ Battery charger
+
+          Equipment            Make              Mode Type                         Rating              Qty
+                                                 l
+          General Purpose
+          Automation           Powerex           ----          ----                15 Amps             1
+                               engg
+     16   इंवटट रInverter /UPS
+          Equipmen Nos Make              Model                         Type        Rating          Qty       input      output
+          t
+          Main          2      Exide     Exide 850 DSP PST             Pure sine   850VA           2         12V        220VA
+          Light                          UPS(M)                        wave                                  DC &       C
+                                                                                                             230 AC
+          NAIS PSS     1       Exide      Exide 850 DSP PST            Pure sine   850VA           1         12V        220VA
+                                         UPS(M)                        wave                                  DC &       C
+                                                                                                             230 AC
+          DGPS       NA
+     17   स्वचलनउपकरण
+          Automation Equipment
+          MAKE       PLC               HMI              Power Supply          VSAT               Modem           Band
+          NELCO      Schneider         Schneider        24 V DC               1.8m dia           SkyEdg          EX.C
+                     &                                                        Parabolic          e
+                     Telemecaniq                                              reflector
+                     ue
+     18   आप्ननशमनउपकरण                          Type of Extinguisher         Capacity            Nos            Make
+                                                 DCP Type(u/s)                3.2 kg              3              Max Engg
+     Fire Fighting Equipment         DCP Type(u/s)           3.2 kg           1          Chandrakant
+                                     Foam Type(u/s)          9 Ltr            1          Kil fire
+                                     Water Type(u/s)         9 Ltr            1          Supremex
+                                     DCP Type                1 Ltr            2          Chandrakant
+                                                                                         & Co
+
+
+19   संचार                           BSNL Telephone(WLL) is provided at the        Tel.No-02641-
+                                     station(Closed by BSNL)                      291055
+     Communication
+                                                                                  luharapointlh@gma
+                                                                                  il.com
+20   र्लपर्ू तन                      3 Nos rain water collection Sintex tank provided
+                                     Total Capacity-3000Ltrs
+     Water Supply
+21   िूभम                            Area                                         4500m²
+     Land                            Demarcation                                  Three side boundary
+                                                                                  & sea
+                                                                                  Side open
+22   इमारतें                         Quarters-2 Nos                               Inspection quarters &
+                                                                                  one LHA quarter
+     Buildings
+23   कंपाउं डलाइि                    LED Light fitted on G.I Pole-09 Nos
+                                     LED gate light-02 Nos
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera                                       CP Plus 2.4mp-04
+                                                                                  Nos
+     CCTV CAMERA
+                                     DVR                                          CP Plus0401E1-HC
+                                                                                  4CH-1
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1             Navigational Assistant Gr-II -01
+
+26   पहुँचनेकामाध्यम                 By rail upto Bharuch then 55Km by state transport bus to Luhara
+                                     village then 5Km by walk or hire Autorickshaw to lighthouse(Road
+     Mode of approach
+                                     Connected)
+27   उपलब्धसविधाए                    Marine Police Station 5 Km from lighthouse
+     Facilities available            Dispensary              14 Km from lighthouse
+                                     High School             07 Km from lighthouse
+                                     Post office            07 Km from lighthouse
+28   डाकपताPostal address            Navigational Assistant
+                                     Luhara Point Lighthouse
+                                     AT-Luhara, PO-Lakhigam, Via-Dahej, Taluka- Wagra
+                                     Dist-Bharuch, PIN-392130 (Gujurat)
+29   मूल्यकाब्योराCost details       Rs-6,46,178
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          25.5.1977
+     Date of commissioning
+

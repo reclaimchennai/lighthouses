@@ -1,0 +1,40 @@
+{
+  "nid": 1726,
+  "title": "Design and installation of Learning Management Software at Marine Navigation Training Institute, Kolkata",
+  "summary": "Two-cover e-tender for design and installation of learning management software at the Marine Navigation Training Institute (MNTI), Kolkata.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MNTI-01/1/2024-MNTI",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Taratala Road, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Marine Navigation Training Institute, Kolkata", "station_id": null, "kind": "office", "work": "Design and installation of learning management software"}
+  ],
+  "scope": [
+    {"item": "Design and installation of learning management software", "qty": null, "unit": null, "site": "Marine Navigation Training Institute, Kolkata"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1294900.0,
+    "emd_inr": 25900.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR from any nationalized commercial bank in favour of Director, Directorate of Lighthouses and Lightships, Kolkata, or valid MSME/NSIC certificate (hard copy) to reach office by 07.09.2024. Tender fee not applicable."
+  },
+  "period": {"completion": "60 days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-08-20", "pre_bid": "2024-08-27", "bid_submission_end": "2024-09-07", "bid_opening": "2024-09-09"},
+  "eligibility": [
+    "Reputed firms with experience in similar works",
+    "Similar works: design and installation of learning management software / management information software at Central Govt/State Govt/PSU/autonomous bodies/reputed private establishments",
+    "EMD exemption only for bidders with valid NSIC/MSME registration for the subject work"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_2.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT Section I only (printed pages 3-5); no software requirement specification, BOQ or bid validity. Bid submission 20.08.2024 to 07.09.2024 15:00; technical bid opening 09.09.2024 16:00."
+}

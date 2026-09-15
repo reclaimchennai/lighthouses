@@ -1,0 +1,50 @@
+{
+  "nid": 2237,
+  "title": "Civil Maintenance of GI trestle tower, store room etc at Thottapally Lighthouse, Thottapally Harbour",
+  "summary": "Notice inviting sealed quotations (percentage rate) for civil maintenance of the 12 m GI trestle tower, store room etc. at Thottappally Lighthouse, Thottappally Harbour, Kerala - jungle clearing, steel replacement, epoxy painting of tower, wall painting, roof tile repairs and greasing (Kochi Directorate).",
+  "category": "civil works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-24/2/2020-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Thottappally Lighthouse, Thottappally Harbour", "station_id": null, "kind": "lighthouse", "work": "Civil maintenance of 12 m GI trestle tower, store room etc."}
+  ],
+  "scope": [
+    {"item": "Clearing jungle incl. uprooting rank vegetation, grass, brush wood, trees and saplings of girth up to 30 cm and removal of rubbish up to 50 m", "qty": "194.00", "unit": "Sqm", "site": "Thottappally Lighthouse"},
+    {"item": "Dismantling steel work in built up sections (angles, tees, flats, channels) incl. gusset plates, bolts, nuts, cutting rivets, welding, stacking within 50 m", "qty": "79.00", "unit": "Kg", "site": "Thottappally Lighthouse"},
+    {"item": "Structural steel work riveted, bolted or welded in built up sections, trusses and framed work incl. cutting, hoisting, fixing and priming coat", "qty": "230.00", "unit": "kg", "site": "Thottappally Lighthouse"},
+    {"item": "Painting previously painted 12 m high GI trestle tower with epoxy paint (two or more coats) incl. priming, surface preparation, rust removal, scaffolding", "qty": "140.00", "unit": "Sqm", "site": "Thottappally Lighthouse"},
+    {"item": "Wall painting two coats acrylic emulsion exterior grade (VOC < 50 g/l)", "qty": "165.00", "unit": "Sqm", "site": "Thottappally Lighthouse"},
+    {"item": "Providing & fixing on roof pressed clay tile (Mangalore tile) 20 mm on steel frame work", "qty": "1.00", "unit": "Sqm", "site": "Thottappally Lighthouse"},
+    {"item": "Providing & laying on roof pressed clay tile ridge (Mangalore tile) 20 mm on steel frame work", "qty": "4.50", "unit": "metre", "site": "Thottappally Lighthouse"},
+    {"item": "Greasing trestle tower bolts and nuts after cleaning and rust removal, covering with tarpaulin", "qty": "1.00", "unit": "Each", "site": "Thottappally Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 128955.06,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "5% of quoted amount, DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships, Cochin, payable at Ernakulam; released after completion",
+    "notes": "Estimate is the schedule total (rates include cost index 24.3%): items Rs 4,244.07; 554.81; 38,223.21; 53,335.86; 28,190.10; 538.77; 542.01; 3,326.24 = Rs 1,28,955.06. Percentage rate (below/above) inclusive of GST, materials, labour, transport, scaffolding. No EMD mentioned. Payment on measured actual quantities; no escalation."
+  },
+  "period": {"completion": "01 month from date of issue of work order", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2026-02-06", "pre_bid": null, "bid_submission_end": "2026-02-25", "bid_opening": null},
+  "eligibility": [
+    "Contractor to submit PAN card, GST registration and bank account details for payment",
+    "Company bidders to name the company as contractor with authorization letter"
+  ],
+  "specs": [
+    "12 m high GI trestle tower: epoxy paint finish (two or more coats) over metal primer",
+    "Exterior acrylic emulsion paint VOC less than 50 g/litre",
+    "Mangalore pressed clay roof tiles and ridge, 20 mm"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQThottapallyHarbour.pdf", "pages": 9, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Submission deadline inconsistent: page 1 Hindi says 26.02.2026 17:00 and English 26.02.2026 15:00; Terms & Conditions clause 2 says 25.02.2026 15:00 (to Station in charge, Alappuzha Lighthouse). Listing gives end 2026-02-25 and opening 2026-02-27. Blank forms issued 10.02.2026 to 25.02.2026 (10:00-16:00) at Deep Bhavan Kochi or Alappuzha Lighthouse; site inspection allowed in same period. Hindi clause 1 has a blank day ('.02.2026'). Thottappally Lighthouse is not in station list."
+}

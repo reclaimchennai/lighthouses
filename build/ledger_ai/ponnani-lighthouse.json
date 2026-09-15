@@ -1,0 +1,41 @@
+{
+  "slug": "ponnani-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Ponnani Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1983,
+  "alol": "0692",
+  "position": {"lat_text": "10° 46.5' N", "lon_text": "75° 55.3' E", "lat": 10.775, "lon": 75.921667},
+  "elevation_m": 34.13,
+  "characteristic_text": "Single Flash White - 15 sec (0.48+14.52=15 sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "0.48+14.52=15 sec",
+    "sequence_s": [0.48, 14.52],
+    "flash_duration_s": 0.48
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20.6, "geographical_nm": 16.82, "text": "Luminous 20.6 NM, Geographical 16.82 NM"},
+  "tower": {"type": "24 Cornered Circular RCC Tower", "height_m": 30, "colour_scheme": "Black and White Band"},
+  "optic": {
+    "make": "J Stone & Co, Kolkata, India", "model": null, "type": "Revolving Beacon", "size": "300mm / Vth order Large revolving", "order": "Vth order Large",
+    "panels": 2,
+    "rotation_device": "Dual Stepper motor (20 kg/cm2)",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Optic: Revolving; Rotation Device: Dual Stepper motor; R.P.M. 2",
+    "divergence_horizontal_deg": 3.8,
+    "divergence_vertical_deg": 7.6,
+    "divergence_text": "3.8° (Horizontal), 7.6° (Vertical)",
+    "illuminant": "Metal Halide Lamp (Main: 230V/50W Metal Halide Lamp)"
+  },
+  "intensity_cd": 141100,
+  "racon": {"present": false, "code": null, "text": "Sr. No 6295; Make NA"},
+  "ais": {"present": true, "text": "NAIS 2 Nos AIS1 & AIS2, Model SAAB R40, Class A; MMSI blank"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": null, "generator": true, "text": "Local Mains 440V 3ϕ 50Hz; DG Set 7.5 KVA Kirloskar EA-16 with KG 164 H alternator"},
+  "issues": ["Page 1 is a cover page; no station name header, name taken from postal address", "RACON section gives Sr. No 6295 but Make 'NA' (same serial appears in other ledgers)", "ALOL printed '0692' without letter prefix"]
+}

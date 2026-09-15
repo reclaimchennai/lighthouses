@@ -1,0 +1,44 @@
+{
+  "slug": "ghogha-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Ghogha Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1943,
+  "alol": "F 0452",
+  "position": {"lat_text": "21° 41.5' N", "lon_text": "72° 16.6' E", "lat": 21.691667, "lon": 72.276667},
+  "elevation_m": 18,
+  "characteristic_text": "Occulting Red 15 Sec. (11 + 4= 15 Sec.)",
+  "light": {
+    "kind": "Oc",
+    "flashes_per_period": 1,
+    "colours": ["R"],
+    "period_s": 15,
+    "sequence_text": "11 + 4 = 15 Sec.",
+    "sequence_s": [11, 4],
+    "flash_duration_s": 11
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 11, "geographical_nm": null, "text": "11 NM (single unlabelled range)"},
+  "tower": {"type": "Square masonry tower with semicircular.", "height_m": 16, "colour_scheme": "2 Red and 1 White bands (Bottom band Red)"},
+  "optic": {
+    "make": "B.B.T, Drum optic (fixed)", "model": null, "type": "1000 mm dia (Provided with red color filter)", "size": "1000 mm diameter", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Make: B.B.T, Drum optic (fixed); Pedestal Fixed",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 4.009,
+    "divergence_text": "4° 0.54' (vertical) / 0°41' (vertical) [Main/Emergency]",
+    "illuminant": "Dhumketu Flasher made by JELs, Jamnagar; Main 240V/1000W Electric Lamp; Emergency 100W/12V Halogen Lamp"
+  },
+  "intensity_cd": 32230,
+  "racon": {"present": false, "code": null, "text": null},
+  "ais": {"present": false, "text": "NAIS –NA"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V/3-phase/50 Hz; DG Set 15 KVA make Kirloskar; solar plant 6 KWp, 24 Nos mono crystalline, 48 Nos 2V/600AH battery"},
+  "issues": [
+    "Divergence gives two values both labelled vertical ('4° 0.54'' and '0°41''), presumably main and emergency; no horizontal value",
+    "RACON section is a blank table"
+  ]
+}

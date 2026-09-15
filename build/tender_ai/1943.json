@@ -1,0 +1,51 @@
+{
+  "nid": 1943,
+  "title": "CALL FOR EXPRESSION OF INTEREST FROM REPUTED SCHOLARS, EXPERTS, INSTITUTIONS, NGOs ETC.",
+  "summary": "Indian Port Rail & Ropeway Corporation Ltd (IPRCL) notification calling expressions of interest and brief proposals from scholars, experts, artistes, institutions and NGOs to collaborate with the National Maritime Heritage Complex (NMHC) Society at Lothal, Gujarat, on education, research, cultural and tourism programmes.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "EOI",
+    "portal": "offline",
+    "reference": "Notification No. 05/2025",
+    "issuing_office": "Indian Port Rail & Ropeway Corporation Ltd. (JV under Ministry of Ports, Shipping & Waterways), for National Maritime Heritage Complex, Lothal"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "National Maritime Heritage Complex, Lothal, Sagarwala, Gujarat - 382230", "station_id": null, "kind": "other", "work": "Collaboration on education, research, skilling, cultural experiences, publications, exhibitions, festivals, tourism promotion and maritime heritage circuits"}
+  ],
+  "scope": [
+    {"item": "Education and Research", "qty": null, "unit": null, "site": "NMHC Lothal"},
+    {"item": "Training and Skilling", "qty": null, "unit": null, "site": "NMHC Lothal"},
+    {"item": "Exposure, sensitisation and awareness generation amongst youth and children", "qty": null, "unit": null, "site": "NMHC Lothal"},
+    {"item": "Immersive cultural experiences", "qty": null, "unit": null, "site": "NMHC Lothal"},
+    {"item": "Summer/winter camps", "qty": null, "unit": null, "site": "NMHC Lothal"},
+    {"item": "Publications", "qty": null, "unit": null, "site": "NMHC Lothal"},
+    {"item": "Artistic productions: films, theatre, operas, dance dramas and the like", "qty": null, "unit": null, "site": "NMHC Lothal"},
+    {"item": "Exhibitions, seminars and workshops", "qty": null, "unit": null, "site": "NMHC Lothal"},
+    {"item": "Maritime heritage festivals and Biennales", "qty": null, "unit": null, "site": "NMHC Lothal"},
+    {"item": "Tourism promotion and employment", "qty": null, "unit": null, "site": "NMHC Lothal"},
+    {"item": "Curating maritime heritage tourist circuits, especially coastal and river cruises in India and ocean cruises in the extended Indosphere", "qty": null, "unit": null, "site": null},
+    {"item": "Regional centres in other cities", "qty": null, "unit": null, "site": null},
+    {"item": "Collaboration with other institutions", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": null
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-06-20", "pre_bid": null, "bid_submission_end": "2025-07-31", "bid_opening": null},
+  "eligibility": [
+    "Renowned scholars, experts, artistes, institutions, NGOs etc. involved in the listed areas",
+    "Submission to include: proposal with details; details of organisation and expertise including earlier similar work (CV for individuals); support required from NMHC"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Call-for-EOI-from-Reputed-Scholars-Experts-Institutions-NGOs-etc.-NMHC-Notification-No.-5-2025-dated-20.06.2025.pdf", "pages": 1, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Not a DGLL tender: issued by IPRCL (Sagarmala) for the NMHC Society, Lothal; hosted on the DGLL tenders listing. Proposals by e-mail to the GM (Marketing) NMHC mailbox gm.mktg.nmhc@gmail.com or by post to GM (Marketing), NMHC Lothal; a clarification mobile number is printed ([personal contact removed]). No monetary values."
+}

@@ -1,0 +1,151 @@
+                                  मास्टर लेजर/MASTER LEDGER
+
+क्रम                      नाम /Name
+ सं                                                                        वििरण/Description
+ख्या
+  /
+ Sr.
+ No
+  1    ए.एल.ओ.एल/A.L.O.L.                   F 0682
+  2    स्थान/Position                       Lat.11° 28.0’ N , long 75° 38.3’ E
+  3    ऊंचाई/Elevation                      57Mtr. (Above MSL)
+  4    अविलक्षण/Characteristic              Fl (1) W 5 sec (fl 0.27)
+
+ 5     नॉविकल माइल मे दू री                 20NM
+       Range in miles
+ 6     दीपस्तं ि िािर/L.H.Tower             Type                                   Circular stone masonry tower on RCC Base
+
+                                            Height                                 34M
+                                            Colour Scheme                          Black and White Band
+ 7     ऑविकल उपकरण                          Optic                                  Second order
+       Optical equipment                    Make                                   M/s Chance Bros, UK
+                                            Type                                   Revolving Type
+                                            Size                                   700mm
+                                            No. of lens                            4
+                                            Area of dioptric portion               -----Sq. cm
+                                            Area of catadioptric portion           -----Sq. cm
+                                            Divergence                             4.30º (Horizontal)
+                                            Main/Emergency                         4.41º (Vertical)
+                                            Duration of Flash                      0.27 Sec
+                                            Main /Standby/Emergency
+                                            Pedestal                               Mercury float
+                                            Rotation Device                        Stepper motor
+                                            R.P.M.                                 3
+                                            Illumining
+                                            Main                                   230V/150W Metal Halide Lamp
+                                            Standby                                ------
+                                            Emergency:                             ------
+                                            Date of Installation                   14-02-2003
+ 8     प्रिािी बीम तीव्रता/Effective beam   Main                                   340000 cds
+       intensity                            Emergency                              ------
+ 9     लें िनन /Lantern                     Diameter                               3.86m
+                                            Height of glazing                      2.7m
+                                            No. of panes                           11Nos.
+                                            Ventilators                            11
+10     RACON                                NIL                                    ------
+     Make                              Model         Code                                      Band                          Date of
+                                                                                                                             Installation
+     ---                               ---           ---                                       ---                           ---
+11   NAIS
+     Base Station                                          2 Nos-AIS1 & AIS2
+
+
+     Model                             Type          Power                                     MMSI
+     R40                               Class A       AC-230V & DC-12V                          ---
+     Communication Equipment           ---
+     VSAT Antenna                      Band          Modem
+     N/A                               ---           ---
+     DGPS
+     Transmitter Make                  Freque        Power Output                  RS 1 ID     RS -II ID        Beaco        Date of   Date of
+                                       ncy                                                                      n ID         commi     Recapit
+                                                                                                                             ssionin   alizatio
+                                                                                                                             g         n
+     N/A                               ---           ---                           ---         ---              ---          ---       ---
+
+12   ऊर्ान के साधन/ Source of          Mains                                                   Kerala State Electricity Board
+     energy                            Power Source                                            DG Set 7.5 KVA Kirloskar
+                                       Engine 1
+                                       Make/Type                        Qty        Rating      No of Cylinder         RPM              Cooling
+                                       Kirloskar / EA16                 1          16 BHP      2                      1500             Air
+                                       Alternator
+                                       Make/Type                        Qty        Rating    Voltage/Amp              Frequency        Phase
+                                       Kirloskar                        1          7.5       240V/31.25A              50Hz             Single
+                                                                                   KVA
+                                       Solar Plant
+                                       Capacity PV                      Numbers              Type           Battery                    Bank
+                                       20 KWp                           78 Nos               Mono           NIL                        NIL
+                                                                                             Crystalline
+                                       Solar Panel for Main Light
+                                       Capacity PV                      Numbers              Type           Battery                    Bank
+                                       100 W/12V                         4Nos.               ---            4Nos                       Individu
+                                                                                                            12V/150AH                  al
+13   स्वचावलत िोल्टे र् स्टे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                               Model        Capacity           Input                  Output                    Phase         Qty
+     SUPRA                              -----        ---                220V                   230V                      Single        01No.
+14   बैिरर Batteries
+     Equipment                          Type         Make                   Volt                   Amp.Hr               Qty
+     PSS NAIS                              -                -                      -                  -                  -
+     Genset                             Lead         SF Sonic               12V                    150AH                 1
+                                        acid
+     Automation                         SMF          Exide                  12V                    47AH                  2
+15   बैिरर चार्न र/ Battery charger
+
+     Equipment                          Make         Model              Type                   Rating       Qty
+     General Purpose                     ---                  ---                                24V                   01No.
+                                                                                                 25A
+     Automation                        N/A              --                 --              --                 NIL
+16   इं वर्ट र Inverter /UPS
+     Equipment                  Nos   Make       Model                          Type    Rating          Qty     input    Output
+     Main Light                  04   Su-kam                 Shiny 900            ---      900W          04     12V DC   230VA
+                                                                                                                &          C
+                                                                                                                230 AC
+     NAIS PSS                   01    APC                       ----            Pure    1 KVA           01      12V DC   230VA
+                                                                                sine                            &        C
+                                                                                wave                            230 AC
+     DGPS                    N/A     ---                ----                    ---  ---       ---              ---
+                                                                                                                 ---
+                             N/A     ---                ----                    ---  ---       ---              ---
+                                                                                                                 ---
+17   स्वचलन उपकरण Automation Equipment
+     MAKE                    PLC            HMI            Power Supply          VSAT       Modem        Band
+     Rectronics Devises and  Schneider      Schneider 24 V DC                    1.8m dia   SkyEdge X.and C
+     Systems                 &                                                   Parabolic
+                             Telemecanique                                       reflector
+18   आवि शमन उपकरण                         Type of Extinguisher                  Capacity      Nos        Make
+     Fire Fighting Equipment               DCP Type                              1, 2, 4 kg    9
+                                           Water Co2                             4.5Kg         1
+                                           Foam Type                             9 Ltr         2
+19   संचार                                 Land phone
+     Communication
+20   र्ल पूवतन                             Water pumped to 1No. O/H RCC Tank from Station Well situated outside of
+     Water Supply                          compound and distributed to all staff Qtrs.
+21   िू वम                                 Area                                             26.32Acre
+     Land                                  Demarcation                                      Not Available
+22   इमारतें                                   RCC Structure:                                     Powerhouse, Office
+     Buildings                                                                                    Room, NA-1 , NA-II,
+                                                                                                  Group-D, and Insspection
+                                                                                                  Qtrs.
+
+                                               Timber Construction above plinth                   N/A
+                                               level
+23   कंपाउं ड लाइि                             LED Light fitted on G.I Pole-19 Nos
+     Compound Lights
+24   सीसीिीिी कमे रा                           N/A                                                ---
+      CCTV CAMERA                              ---                                                ---
+25   स्टाफ                                     Sl. No                    Designations
+     Staff
+                                               1                      Navigational Assistant 1and II
+                                               2                      LHA
+26   पहुँ चने का माध्यम                        To Koilandy or Vadakara by Train or Bus, and to Nandi Bazar by bus and
+     Mode of approach                          1.5Km to Kadalur point Lighthouse.
+27   उपलब्ध सुविधाए                            Post office, Dispensary, High School, Police Station, Market are available
+     Facilities available
+28   डाक पताPostal address                     The Navigational Assistant G-I
+                                               Kadalur Point Lighthouse, P.O. Nandi, Pin: 673529.
+29   मू ल्य का ब्योराCost details              N/A
+     (At the time of Construction)
+30   प्रितनन मे लाने कादे नां क   20.10.1909
+     Date of commissioning
+

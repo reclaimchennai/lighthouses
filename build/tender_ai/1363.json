@@ -1,0 +1,53 @@
+{
+  "nid": 1363,
+  "title": "Design, Erection and Management of DGLL booth at Maritime India Summit-2023 from 17-19 October, 2023 at MMRDA Ground, Bandra Kurla Complex, Mumbai",
+  "summary": "Request for quotation to design, erect, run and dismantle the DGLL exhibition booth, with LED walls, models, holograms, live NAIS/SCADA/NAVTEX demonstrations and publicity material, at Maritime India Summit 2023, Bandra Kurla Complex, Mumbai. Issued by the Directorate General of Lighthouses and Lightships, Noida.",
+  "category": "other",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "P-2302/1/2020-DP",
+    "issuing_office": "Directorate General of Lighthouses and Lightships, Noida"
+  },
+  "scope_level": "national",
+  "sites": [
+    {"name": "MMRDA Ground, Bandra Kurla Complex, Mumbai (Maritime India Summit 2023 venue)", "station_id": null, "kind": "other", "work": "Design, erection and management of DGLL exhibition booth"}
+  ],
+  "scope": [
+    {"item": "Floor platform approx. 900 sq ft (9 m x 10 m), 4 inch raised, synthetic woven carpet 3-4 mm", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"},
+    {"item": "Side pillar fabrication, paint finished MDF ply wooden wall with putty both sides", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"},
+    {"item": "Fascia fabrication with MDF ply board, putty, colour and finishing", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"},
+    {"item": "Poster panel fitting with high pixel digital vinyl prints, vinyl cut letters, LED letters and logos", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"},
+    {"item": "LED wall: P3 wall (20x10) with frame, fitting and technical person, 55 inch TV stand, 3D billboard wall setup", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"},
+    {"item": "Furnishing and fittings: visitor chairs, system tables, spot/LED par/metal/display/halogen/banner/back lights, rope and LED strip lighting, brochure stand", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"},
+    {"item": "Labour: carpenters 10 days, electrician 6 days, painters 6 days (16 h/day), supervisor for whole project", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"},
+    {"item": "3D design of booth, graphics, short/introductory video, vinyl design", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"},
+    {"item": "Digital signage: hologram fan, AI photo booth, hologram portal, standee", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"},
+    {"item": "Virtual video VR setup with high resolution video making and technical equipment", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"},
+    {"item": "3D walkthrough and 3D anamorphic video", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"},
+    {"item": "Plants, hostess, service boys, technicians, water bottles", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"},
+    {"item": "Transportation from factory to venue, 4 loading vehicles up and down", "qty": "One Job", "unit": "Lot", "site": "MMRDA Ground, BKC, Mumbai"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate or EMD printed; Bid Security Declaration (Annexure-1) required with quotation. Rates quoted without GST, GST extra as applicable."
+  },
+  "period": {"completion": "Booth for exhibition 17-19 October 2023 including dismantling afterwards", "bid_validity": "Not less than 90 days", "warranty": null},
+  "dates": {"published": "2023-09-19", "pre_bid": null, "bid_submission_end": "2023-09-20", "bid_opening": "2023-09-21"},
+  "eligibility": ["Reputed firms; bidder should know procedure to liaise with exhibition authorities for approvals"],
+  "specs": [
+    "Booth 9 m x 10 m with Aids to Navigation and satellite theme; stated as '900 Sqm' in scope and 'approx. 900 sq ft' in schedule",
+    "6 Nos 55 inch LED TVs/3D billboard wall with laptops; minimum 4 tablets; P3 LED wall 20x10",
+    "Live demonstration of SCADA, NAIS and NAVTEX data; models of lighthouse, VTS Gulf of Kutch, satellite and V-sat antenna; working lighthouse tower model at least 4 m high",
+    "500 brochures; minimum 600 giveaway souvenirs; minimum 5 display podiums; video and photography; documentation report after exhibition"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "quotation (1).pdf", "pages": 5, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "RFQ with scope (clauses 3.1.1-3.1.33), terms and schedule of work (rates blank). Issued 19.09.2023 with quotations due next day 20.09.2023 15:00; opening 21.09.2023 16:00. Booth area inconsistency: 9 m x 10 m equals 90 sq m, not 900 sq m (scope) or 900 sq ft (schedule). Bid Security Declaration Annexure-1 referenced but not included."
+}

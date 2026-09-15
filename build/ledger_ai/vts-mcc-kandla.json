@@ -1,0 +1,44 @@
+{
+  "slug": "vts-mcc-kandla",
+  "pages_read": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "name": "VTS Master Control Center Kandla",
+  "station_type": "vts station",
+  "established_year": 2012,
+  "alol": null,
+  "position": {"lat_text": "23° 00.965’ N", "lon_text": "70° 12.982’ E", "lat": 23.016083, "lon": 70.216367},
+  "elevation_m": 62.5,
+  "characteristic_text": null,
+  "light": {
+    "kind": null,
+    "flashes_per_period": null,
+    "colours": [],
+    "period_s": null,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": null, "geographical_nm": null, "text": null},
+  "tower": {"type": "RCC (cylindrical) VTS Tower", "height_m": 60, "colour_scheme": "Red & White Alternate Horizontal Bands"},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": null,
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "AIS Kongsberg BS 500/01 (Sl. No. 500112B), transmitter 161.975 MHz"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "415 V 3 phase from DPT; 37 KW on-grid Solgen solar (144 panels) from 25/08/2017; 2 Kirloskar 160 KVA generator sets"},
+  "issues": [
+    "No navigational light listed; station is a VTS master control centre (Terma X Band radar, 20 NM)",
+    "Page footers inconsistent ('Page 1 of 13', 'Page 3 of 8', 'Page 12 of')"
+  ]
+}

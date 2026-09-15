@@ -1,0 +1,45 @@
+{
+  "slug": "gopnath-lighthouse-dgps-station",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Gopnath Lighthouse & DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1983,
+  "alol": "F 0444",
+  "position": {"lat_text": "21° 12.2' N", "lon_text": "72° 06.6' E", "lat": 21.203333, "lon": 72.11},
+  "elevation_m": 41,
+  "characteristic_text": "Fl (3) W 20sec (0.3+3.7)2+0.3+11.7=20Sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "(0.3+3.7)2+0.3+11.7=20Sec",
+    "sequence_s": [0.3, 3.7, 0.3, 3.7, 0.3, 11.7],
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": null, "text": "18 NM (unlabelled range)"},
+  "tower": {"type": "6.71 M Square masonry tower", "height_m": 30.48, "colour_scheme": "Red and White bands"},
+  "optic": {
+    "make": "J. Stone & company Calcutta", "model": null, "type": "revolving type", "size": "300 mm (4th order) revolving type", "order": "4th order",
+    "panels": null,
+    "rotation_device": "i) Electrically operated 40 kgcm² stepper Motor for direct drive; ii) Clockwork machine with hand winding of Standby",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "300 mm (4th order) revolving type; stepper motor direct drive; R.P.M. 3",
+    "divergence_horizontal_deg": 20.999833,
+    "divergence_vertical_deg": 13.745,
+    "divergence_text": "20° 59.99' (Horizontal), 13° 44.7' (Vertical)",
+    "illuminant": "Cluster 150 W/230 V AC MH Lamp - 3 nos."
+  },
+  "intensity_cd": 123258,
+  "racon": {"present": true, "code": "G", "text": "Sr. No 6183; Tide land, Sea Beacon system 6; Code 'G'; 12V100Ah SMF battery charged by 70W solar panel; installed 24/08/2004"},
+  "ais": {"present": false, "text": "NAIS –NA; Base Station R-40 02 Nos"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V/3-phase/50 Hz; 2 standby DG sets (Kirloskar 62.5 KVA); solar 14.4 KWP, 60 Nos"},
+  "issues": [
+    "Ledger header reads 'East Island Lighthouse and DGPS Station' but postal address is Gopnath Lighthouse & DGPS station",
+    "NAIS marked NA but Base Station lists 'R-40 02 Nos' and a NAIS PSS inverter is listed",
+    "Station named DGPS station but ledger has no DGPS section"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nid": 1358,
+  "title": "Development works for Promotion of Tourism at Minicoy (South) Lighthouse",
+  "summary": "E-tender for tourism development works at Minicoy (South) Lighthouse, Minicoy Island, Lakshadweep, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "I/45140/2023",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Minicoy (South) Lighthouse, Minicoy Island, UT of Lakshadweep", "station_id": "minicoy-south-lighthouse-dgps-station", "kind": "lighthouse", "work": "Development works for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Development works for Promotion of Tourism at Minicoy (South) Lighthouse", "qty": null, "unit": null, "site": "Minicoy (South) Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 17775000.0,
+    "emd_inr": 356000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost printed as 177.75 lakhs. EMD by DD/FDR from any commercial bank in favour of Director of Lighthouses and Lightships Cochin, payable at Ernakulam; originals (or MSME/UDYAM certificate) with technical documents by 27.09.2023 15:00. Tender fee Nil."
+  },
+  "period": {"completion": "06 Months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2023-09-14", "pre_bid": "2023-09-22", "bid_submission_end": "2023-09-28", "bid_opening": "2023-09-29"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies; OR for Lakshadweep contractors, work experience with any Government department in island works during last 7 years",
+    "Similar works completed in last 7 years: three each >= 40% of estimated cost, or two >= 50%, or one >= 80%",
+    "PAN and GST registration; key technical personnel for supervision and execution",
+    "Tender acceptance letter (Annexure II); unconditional bid undertaking (Annexure IV); Bid Securing Declaration (Annexure V)",
+    "List of relatives in Ministry of Shipping/DGLL (Annexure VI); non-blacklisting affidavit on Rs 100 stamp paper (Annexure VII)",
+    "Documentary evidence of annual turnover of last three years"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_0.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": ["OCR text layer: file number in header garbled; Hindi portions garbled"]}
+  ],
+  "confidence": "high",
+  "notes": "Section-I NIT only (printed pages 3-6), generated from eOffice; no BOQ or definition of similar works. File number in header illegible in text layer (starts 'MS-Co...'). Bid query last date 21.09.2023 15:00; download/submission 15.09.2023 12:00 to 28.09.2023 15:00; technical opening subject to internet availability."
+}

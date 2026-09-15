@@ -1,0 +1,62 @@
+{
+  "nid": 1409,
+  "title": "Request for Expression of Interest (EOI) from prospective bidders for Integration of Vessel Traffic Management System at all Major Ports on Turn Key Basis",
+  "summary": "Expression of Interest, with budgetary offers, for integrating the Vessel Traffic Management Systems of India's 12 major ports (and a planned VTMS at Port Blair) into DGLL's National Data Centre, Mumbai over the NAIS network, on a turnkey basis.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "EOI",
+    "portal": "offline",
+    "reference": null,
+    "issuing_office": "Directorate General of Lighthouses and Lightships, A-13 Deep Bhavan, Sector-24, Noida"
+  },
+  "scope_level": "national",
+  "sites": [
+    {"name": "Kolkata Port/Haldia, West Bengal", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to RCC Kolkata (Directorate office)"},
+    {"name": "Paradip Port, Orissa", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to NAIS site Paradip LH"},
+    {"name": "Visakhapatnam Port, Andhra Pradesh", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to RCC Visakhapatnam at Dolphin Nose LH"},
+    {"name": "Kamarajar Port, Tamil Nadu", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to RCC Chennai (Directorate office)"},
+    {"name": "Chennai Port, Tamil Nadu", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to RCC Chennai (Directorate office)"},
+    {"name": "Tuticorin Port, Tamil Nadu", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to NAIS site Pandiyanthivu LH"},
+    {"name": "Cochin Port, Kerala", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to NAIS site Vypin LH"},
+    {"name": "New Mangalore Port, Karnataka", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to NAIS site Suratkal LH"},
+    {"name": "Mormugao Port, Goa", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to NAIS site Aguada LH"},
+    {"name": "Mumbai Port, Maharashtra", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to NDC Mumbai (Directorate office)"},
+    {"name": "Jawaharlal Nehru Port, Maharashtra", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to NDC Mumbai (Directorate office)"},
+    {"name": "Kandla Port, Gujarat", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to RCC Jamnagar (Directorate office)"},
+    {"name": "Port Blair Port, Andaman and Nicobar Islands (VTMS to be established)", "station_id": null, "kind": "VTS", "work": "VTMS integration; connect to RCC Port Blair (Directorate office)"},
+    {"name": "National Data Centre (NDC), Mumbai", "station_id": null, "kind": "office", "work": "Central integration point; feed to NMDA Centre and DG Shipping MM-DAC"}
+  ],
+  "scope": [
+    {"item": "Interface units (hardware and software) with IT infrastructure at each of 12 major ports and 01 VTMS at Port Blair to ensure IVEF compatibility", "qty": "13", "unit": "sites", "site": null},
+    {"item": "Uninterrupted, redundant connectivity from port VTMS to DGLL NDC Mumbai via nearest NAIS Physical Shore Station/RCC", "qty": null, "unit": null, "site": null},
+    {"item": "Integrated VTMS feed to NMDA Centre and Mercantile Marine Domain Awareness Center (MM-DAC) of DG Shipping", "qty": null, "unit": null, "site": "NDC Mumbai"},
+    {"item": "Web-based VTMS feed to user agencies", "qty": "at least 30", "unit": "agencies", "site": null},
+    {"item": "Provision for integration of coastal VTMS in Gulf of Khambhat and other VTMSs", "qty": null, "unit": null, "site": null},
+    {"item": "Warranty 3 years and CAMC 7 years for all items/systems (budgetary rates, sites with and without IVEF)", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate, EMD or fee. Bidders to submit budgetary offer in prescribed format (Indian and foreign components, GST, customs duty, communication links, 7-year CAMC)."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": "3 years warranty plus 7 years CAMC; spares and software upgrades from OEM assured for 10 years"},
+  "dates": {"published": "2023-11-06", "pre_bid": "2023-11-17", "bid_submission_end": "2023-11-30", "bid_opening": null},
+  "eligibility": [
+    "Prospective bidders of repute having exposure on the subject work",
+    "Details of VTS developed, supplied, operated and maintained in last seven years (Appendix 2) with annual turnover of last three years",
+    "Organisational structure and legal status (Appendix 1); letter of transmittal on firm letterhead"
+  ],
+  "specs": [
+    "IVEF (Inter VTMS Exchange Format) per IALA; solution per IALA/IMO standards",
+    "VTMS governed by SOLAS Chapter V Regulation 12 and IMO Resolution A.1158(32)",
+    "Data transfer over DGLL NAIS network; bidders to submit network diagram and communication options with pros and cons"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Tendernotice_1 (1).pdf", "pages": 13, "read": "mixed", "language": "en", "unreadable": ["pages 10, 12 and 13 blank"]}
+  ],
+  "confidence": "high",
+  "notes": "Non-binding EOI. Queries by 16.11.2023; pre-bid meeting (physical and virtual) 17.11.2023 15:00 at Deep Bhavan, Noida; EOI submission in writing by 30.11.2023 16:00. Section II says information received from the 12 major ports (existing VTMS equipment, OEMs) is enclosed as Annexure-I, but Annexure-I only lists each port's nearest NAIS site/RCC. Prep listed 12 pages but PDF has 13; pages 10, 12, 13 are blank (page 10 and 12 images confirmed empty). Office landline/e-mail printed (noida-dgll@nic.in)."
+}

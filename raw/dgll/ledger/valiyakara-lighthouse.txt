@@ -1,0 +1,87 @@
+                                 मास्टर ले जर/MASTER LEDGER
+क्रमसं
+ ख्या/                 नाम /Name                                                      वििरण/Description
+Sr.No
+  1      ए.एल.ओ.एल/A.L.O.L.                              F-0755.6
+  2      स्थान/Position                                  Latitude 10o 08.7˝N, Longitude72o 19.7˝ E
+  3      ऊंचाई/Elevation                                 16 M (Above MSL)
+  4      अविलक्षण/Characteristic                         Fl (1) White 15 Sec
+  5      नॉविकल माइल मे दू री
+                                                         Luminous 12.96 Nm, Geographical11.3 Nm
+         Range in miles
+                                                         Type                             Galvanized M S trestle tower
+  6      दीपस्तं ि िािर/L.H.Tower                        Height                           15 M
+                                                         Colour Scheme                     White Band
+                                                         Optic                            MBL-160
+                                                         Make                             MsM, Spain
+  7      ऑविकल उपकरण                                     Type                             LED Flasher
+         Optical equipment                               Illumining
+                                                         Main                             High-intensity power LED 6W
+                                                         Standby                          NIL
+                                                         Year of Installation             2012
+  8      प्रिािी बीम तीव्रता/ Effective beam             Main                              Candelas
+         intensity                                       Emergency
+  9      लें िनन /Lantern: NIL
+ 10      RACON: NIL
+ 11      NAIS: NIL
+                                      Mains                                               NIL
+                                      Emergency Power Source                              NIL
+ 12      ऊर्ान के साधन/ Source        Engine: NIL
+         of energy                    Solar Plant: NIL
+                                      Capacity PV                     Numbers             Type        Battery
+         Solar panel for Main light   70 W/12V                        01 No.              TBP         02 Nos, 12V/100Ah
+         Solar panel for
+         Automation panel
+                                      250W/ 24V                       02 Nos              TBP         02 Nos, 12V/250Ah
+ 13      स्वचावलत िोल्टे र् स्टे बलाइर्र Automatic Voltage Stabilizers: NIL
+         बैिररBatteries
+ 14      Equipment                 Type              Make         Volt                    Amp/Hr                Qty
+         Main Light                   GEL                       HBL             12V       100 Ah                 2
+         Automation panel           Lead Acid                   Exide           12V       150 Ah                 2
+ 15      बैिरर चार्न र/ Battery chargers: NIL
+ 16      इं वर्ट र Inverter /UPS: NIL
+         स्वचलन उपकरण Automation Equipment
+
+ 17      MAKE            PLC              HMI                     Power Supply        VSAT            Modem               Band
+                                                                          1.2m dia
+                                     Renu
+     RDS           Micrologix                          24 V DC            Parabolic     Hughes
+                                     Electronics
+                                                                          reflector
+                                     PVT LTD
+                                               Type of Extinguisher       Capacity      Nos        Make
+18   आवि शमन उपकरण
+     Fire Fighting Equipment                   NIL
+     संचार
+19                                             NIL
+     Communication
+20   र्ल पूवतन
+                                               NIL.
+     Water Supply
+21   िू वम                                     Area
+     Land                                      Demarcation
+
+     इमारतें                                   Equipment room at bottom of the tower
+22   Buildings
+23   कंपाउं ड लाइि                             NIL
+     Compound Lights
+24   सीसीिीिी कमे रा
+                                               Nil
+     CCTV CAMERA
+25   स्टाफ
+                                               Nil
+     Staff
+26   पहुँ चने का माध्यम                        By Ship from the Kerala coast or by private boat from Agatti/
+     Mode of approach                          Kavaratti islands
+27   उपलब्धसुविधाए                             NIL
+     Facilities available
+                                               C/o Navigational Assistant Gr-I,
+                                               Kavaratti Lighthouse,
+28   डाक पता Postal address                    Kavaratti island,
+                                               UT of Lakshadweep
+                                               680 555
+29   मू ल्य का ब्योराCost details
+     (At the time of Construction)
+30   प्रितनन मे लाने का दे नां क
+     Date of commissioning                         26.03.1983
+

@@ -1,0 +1,54 @@
+{
+  "nid": 1597,
+  "title": "CAMC for the Air Conditioner units installed at Museums & Inspection Quarter at Mahabalipuam Lighthouse under Chennai Directorate",
+  "summary": "Notice inviting sealed quotations for a one-year comprehensive annual maintenance contract for 16 air conditioners in the heritage museum, maritime museum, inspection quarter and reception centre at Mahabalipuram Lighthouse, Tamil Nadu, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-02001(01)/2/2020-MNT-MD; I/58211/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mahabalipuram Lighthouse (Heritage Museum, Maritime Museum, Inspection Quarter, Reception centre)", "station_id": "mahabalipuram-lighthouse", "kind": "lighthouse", "work": "CAMC of air conditioner units"}
+  ],
+  "scope": [
+    {"item": "Heritage Museum - front pathway AC, 5 star, 1.5 ton, copper coil, Voltas", "qty": "1", "unit": "No", "site": "Mahabalipuram Lighthouse"},
+    {"item": "Heritage Museum - left side pathway AC, 5 star, 1.5 ton, copper coil, Voltas", "qty": "2", "unit": "Nos", "site": "Mahabalipuram Lighthouse"},
+    {"item": "Heritage Museum - right side pathway AC, 5 star, 1.5 ton, copper coil, Voltas", "qty": "2", "unit": "Nos", "site": "Mahabalipuram Lighthouse"},
+    {"item": "Heritage Museum - back side pathway AC, 5 star, 1.5 ton, copper coil, Voltas", "qty": "1", "unit": "No", "site": "Mahabalipuram Lighthouse"},
+    {"item": "Heritage Museum - centre 2 ton cassette type AC, copper coil, Voltas", "qty": "1", "unit": "No", "site": "Mahabalipuram Lighthouse"},
+    {"item": "Maritime Museum - left side room AC, 1.5 ton, copper coil, Voltas", "qty": "1", "unit": "No", "site": "Mahabalipuram Lighthouse"},
+    {"item": "Maritime Museum - right side room AC, 1.5 ton, copper coil, Voltas", "qty": "1", "unit": "No", "site": "Mahabalipuram Lighthouse"},
+    {"item": "Maritime Museum - centre room AC, 1.5 ton, copper coil, Voltas", "qty": "1", "unit": "No", "site": "Mahabalipuram Lighthouse"},
+    {"item": "Maritime Museum - front pathway AC, 5 star, 1.5 ton, copper coil, Voltas", "qty": "2", "unit": "Nos", "site": "Mahabalipuram Lighthouse"},
+    {"item": "Maritime Museum - back side pathway AC, 5 star, 1.5 ton, copper coil, Voltas", "qty": "1", "unit": "No", "site": "Mahabalipuram Lighthouse"},
+    {"item": "Inspection Quarter - hall AC, 1.5 ton, copper coil, Hitachi", "qty": "1", "unit": "No", "site": "Mahabalipuram Lighthouse"},
+    {"item": "Inspection Quarter - bed room AC, 1.5 ton, copper coil, Hitachi", "qty": "1", "unit": "No", "site": "Mahabalipuram Lighthouse"},
+    {"item": "Reception centre AC, 1.5 ton, copper coil, LG", "qty": "1", "unit": "No", "site": "Mahabalipuram Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate or EMD printed. Payment quarterly (25% of order value) after completion of quarterly services, bills to Navigational Assistant Grade-1, Mahabalipuram Lighthouse. Rates inclusive of labour, materials, transport. Number of units may vary."
+  },
+  "period": {"completion": "One year from work order; renewable for a further 2 years annually subject to performance", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-05-30", "pre_bid": null, "bid_submission_end": "2024-06-10", "bid_opening": null},
+  "eligibility": [
+    "Reputed firms or authorized dealers/agents"
+  ],
+  "specs": [
+    "Monthly maintenance service in first week of each month; breakdown calls attended immediately; service register and reports",
+    "CAMC covers replacement of all parts except condensing coil, compressor and enclosure; includes gas recharging",
+    "Units: Voltas 1.5 ton split (mostly 5 star) and 2 ton cassette, Hitachi 1.5 ton, LG 1.5 ton"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "CAMC of AC at Mahabalipuram Lighthouse.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned NIQ: cover notice, Annexure A schedule (rates blank; 16 units in 13 lines) and Annexure B terms. Quotations due 10.06.2024 15:00; no opening date printed. 'Mahabalipuam' misspelt in notice and listing."
+}

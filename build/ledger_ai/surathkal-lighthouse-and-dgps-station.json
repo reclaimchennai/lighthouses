@@ -1,0 +1,45 @@
+{
+  "slug": "surathkal-lighthouse-and-dgps-station",
+  "pages_read": [1, 2, 3],
+  "name": "Surathkal Lighthouse and DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1972,
+  "alol": "F0660",
+  "position": {"lat_text": "13° 00' 13.15\" N", "lon_text": "74° 47' 25.89\"", "lat": 13.003653, "lon": 74.790525},
+  "elevation_m": 43,
+  "characteristic_text": "Fl W 10 Sec. (Fl. 0.37, Ec. 9.63)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "Fl. 0.37, Ec. 9.63",
+    "sequence_s": [0.37, 9.63],
+    "flash_duration_s": 0.37
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 24, "geographical_nm": 17.5, "text": "Luminous : 24 Nm, Geographical : 17.5 Nm"},
+  "tower": {"type": "Square Masonry Tower", "height_m": 30, "colour_scheme": "Red & White Bands – 5 Nos. (3 Red + 2 White)"},
+  "optic": {
+    "make": "B.B.T.", "model": null, "type": "Revolving", "size": "500 mm", "order": "3rd Order Large",
+    "panels": 3,
+    "rotation_device": "Dual stepper motor 40 kg/cm",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving; Rotation Device: Dual stepper motor 40 kg/cm; R.P.M. 2 RPM",
+    "divergence_horizontal_deg": 6.27,
+    "divergence_vertical_deg": 4.56,
+    "divergence_text": "Horizontal-6.27°, Vertical-4.56°",
+    "illuminant": "3X150 Watt MH Lamp Cluster"
+  },
+  "intensity_cd": 567273,
+  "racon": {"present": true, "code": "C", "text": "Tideland Seabeacon 2 System 5, Code C (_._.), Band X+S, Sr. No. ALORS 6297, installed 07/12/2005"},
+  "ais": {"present": true, "text": "Model PSS, Type R-40, Power 25 WATT, MMSI 4192237; 1.8 Mtr VSAT, S band, DATUM modem"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "MESCOM 3 Phase 440V 50 Hz AC mains; standby D G Sets 3 Phase 25 KVA – 02 Nos. (Kirloskar 32 BHP); solar plant 200 W x 03; 75 W solar for RACON"},
+  "issues": [
+    "Longitude printed without hemisphere letter; taken as E",
+    "NAIS MMSI printed as 4192237 (7 digits, not the usual 9)",
+    "DGPS: NAUTEL, 320, 500, RS IDs 412/413, Beacon ID 106, commissioned 06/05/1998, recapitalised 22/06/2017"
+  ]
+}

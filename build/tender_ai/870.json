@@ -1,0 +1,42 @@
+{
+  "nid": 870,
+  "title": "Special repairs and maintenance of Lighthouse Tower and compound wall etc. at Minicoy North Lighthouse",
+  "summary": "Special repairs and maintenance of the lighthouse tower, compound wall and related structures at Minicoy North Lighthouse, Minicoy Island, Lakshadweep.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-25002/1/2019-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Minicoy North Lighthouse, Minicoy Island, UT of Lakshadweep", "station_id": "minicoy-north-lighthouse", "kind": "lighthouse", "work": "Special repairs and maintenance of lighthouse tower and compound wall etc."}
+  ],
+  "scope": [
+    {"item": "Special repairs and maintenance of Lighthouse Tower and compound wall etc.", "qty": null, "unit": null, "site": "Minicoy North Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1689823.0,
+    "emd_inr": 34000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME certificate) and technical documents to reach the office by post or in person before the deadline. Tender fee Nil."
+  },
+  "period": {"completion": "05 Month", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2023-01-04", "pre_bid": "2023-01-17", "bid_submission_end": "2023-01-24", "bid_opening": "2023-01-25"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies, OR for contractors from Lakshadweep islands, work experience with any Government department in island works during last 7 years",
+    "Similar works completed in last 7 years: three works each >= 40%, or two >= 50%, or one >= 80% of estimated cost",
+    "PAN and GST registration; key technical personnel",
+    "Unconditional bid undertaking (Annexure V), tender acceptance letter (Annexure IV), not-blacklisted affidavit on Rs 100 stamp paper (Annexure VIII), relatives list (Annexure VII)",
+    "CA-certified average annual turnover of last three years"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "d863d674-38af-4b3b-a197-3a2d42900fc3.pdf", "pages": 3, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 02.01.2023; two-cover online bids. Download/submission 04.01.2023 11:00 to 24.01.2023 15:00; queries by 16.01.2023 12:00; EMD original by 23.01.2023 15:00; technical bid opening 25.01.2023 15:00. Section I only (pages numbered 2-4); no BOQ."
+}

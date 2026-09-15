@@ -1,0 +1,32 @@
+{
+  "nid": 1670,
+  "title": "Special repairs and Civil Maintenance to Lighthouse Tower, Technical Buildings Museum and allied buildings, arial mast towers and Compound wall etc., at Muttom Point Lighthouse station",
+  "summary": "Corrigendum from the Directorate of Lighthouses and Lightships, Chennai re-tendering, for administrative reasons, the civil maintenance e-tender for Muttom Point Lighthouse (tower, technical buildings, museum, aerial mast towers, compound wall) as a percentage-rate tender instead of an item-rate tender.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(26)/1/2020-Civil Maintenance; 2024_DGLL_809296_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Muttom Point Lighthouse station", "station_id": "muttom-point-lighthouse-and-navtex-station", "kind": "lighthouse", "work": "Special repairs and civil maintenance to tower, technical buildings, museum, allied buildings, aerial mast towers, compound wall"}
+  ],
+  "scope": [
+    {"item": "Special repairs and Civil Maintenance to Lighthouse Tower, Technical Buildings Museum and allied buildings, arial mast towers and Compound wall etc.", "qty": null, "unit": null, "site": "Muttom Point Lighthouse station"}
+  ],
+  "money": {"estimated_cost_inr": null, "emd_inr": null, "tender_fee_inr": null, "performance_security": null, "notes": "Re-tendered as Percentage Rate Tender (previously Item Rate Tender)."},
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": null, "bid_opening": null},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-07-11", "change": "Due to administrative reasons, the e-tender (Tender ID 2024_DGLL_809296_1) is retendered, changing from Item Rate Tender to Percentage Rate Tender."}
+  ],
+  "documents": [
+    {"file": "RetenderMuttomCM24.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled"]}
+  ],
+  "confidence": "medium",
+  "notes": "Only the retender corrigendum is attached; no dates, cost or EMD printed. Listing gives end 2024-07-23 and bid opening 2024-07-24 (not in document). Earlier extension for the same tender ID is nid 1616."
+}

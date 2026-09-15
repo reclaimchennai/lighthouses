@@ -1,0 +1,161 @@
+                   मास्टर लेजर/MASTER LEDGER
+क्रमसं        नाम /Name
+ ख्या/      Malpe Lighthouse                                वििरण/Description
+Sr.No
+   1        ए.एल.ओ.एल/A.L.O.L.                                        F0655
+   2           स्थान/Position                                   Lat. 130 13 .6’ N
+                                                                Long. 740 41.4’ E
+  3         ऊंचाई/Elevation                                            28m
+  4      अविलक्षण/Characteristic                                 Fl(White)3sec.
+  5        नॉविकलमाइलमेदूरी                                          12 NM
+             Range in miles
+  6      दीपस्तंििािर/L.H.Tower                 Type                   Rectangular Masonary Tower
+                                               Height                               12Meter
+                                           Colour Scheme                          White
+  7           ऑविकलउपकरण                       Optic                            Drum optic
+            Optical equipment
+                                               Make
+                                               Type                                  SL 155
+                                                Size                                 180mm
+                                             No. of lens                                1
+
+                                       Area of dioptric portion                         -
+                                         Area of catadioptric                           -
+                                               portion
+                                             Divergence                                 -
+                                          Main/Emergency
+                                          Duration of Flash                          2.5Sec
+                                                Main
+                                        /Standby/Emergency
+
+                                             Pedestal                               CAST IRON
+                                          Rotation Device                               --
+                                               R.P.M.                                   --
+                                            illumining                                  -
+                                                Main                                 20Watt
+                                              Standby                                  --
+                                            Emergency:                                 --
+                                         Date of Installation                          -
+  8      प्रिािीबीमतीव्रता/Effective      Main & Standby
+               beam intensity               Emergency
+  9            लेंिनन /Lantern               Diameter                                  --
+                                          Height of glazing                            -
+                                            No. of panes                               -
+                                                     Ventilators                                                   -
+10            RACON                                    Sr. No                                                    6295
+          Make              Model                      Code                                         Band                     Date of
+                                                                                                                           Installation
+            ---               -                               -                                       -                          -
+11                                                            NAIS
+             Base Station
+
+          Model             Type                       Power                                    MMSI
+
+     Communication           --                               -                                       -
+       Equipment
+      VSAT Antenna          Band                   Modem                                              -
+        2.4m dia            EX-C               Datum system                                           -
+        Parabolic                                    M7LT
+        reflector                             Satellite Terminal
+          DGPS
+       Transmitter       Frequency           Power                    RS 1 ID           RS -II            Beacon        Date of Date of
+          Make                               Output                                      ID                 ID          commi Recapi
+                                                                                                                                talizati
+                                                                                                                        ssionin   on
+                                                                                                                           g
+            ---               -                  -                       -                 -                -              -        -
+
+12   ऊर्ान केसाधन/Sour                       Mains                                                                  -
+      ce of energy                          Standby                                                                 -
+                                                                             Engine 1
+                             Make/Type                Qty              Rating             No of                   RPM            Cooling
+                                                                                         Cylinder
+                                     -                    -              -                   -                      -               -
+                                                                         Alternator
+                             Make/Type                Qty              Rating       Voltage/Am                  Frequency         Phase
+                                                                                         p
+                                     -                    -              -               -                          -               -
+                                                                             Engine 2
+                             Make/Type                Qty              Rating             No of                   RPM            Cooling
+                                                                                         Cylinder
+                                     -                    -              -                   -                      -               -
+                                                                         Alternator
+                             Make/Type                Qty              Rating       Voltage/Am                  Frequency         Phase
+                                                                                         p
+                                     -                    -              -               -                          -               -
+
+                                            Solar Plant
+                             Capacity PV                      Numbers                          Type               Battery         Bank
+                                  80 Watt                         1                     Monocrystalli           12V/100AH           1
+                                                                                            ne
+                                    Solar Plant for Main RACON
+                             Capacity PV                      Numbers                      Type                  Battery          Bank
+                                    ---                     -                                   -                   -               -
+13                                          स्वचावलतिोल्टे र्स्टे बलाइर्र
+                                   Automatic Voltage Stabilizers
+
+         Make           Model      Capa          Input             Output        Phase                Qty
+                                    city
+           ---               -        -            -                -                 -                -
+14                                             बैिरर
+                                             Batteries
+      Equipment             Type   Make           Volt          Amp/Hr           Qty
+       PSS NAIS              --      -              -             -               -
+        Genset               ---     -              -             -               -
+      Automation             ---     -              -             -               -
+         DGPS                --      -              -             -               -
+15                                 बैिररचार्नर/ Battery charger
+
+       Equipment         Make      Mod             Type          Rating          Qty
+                                    el
+     General Purpose         --     -                -                  -         -
+       Automation            --     -                -                  -         -
+16                                     इं वर्ट रInverter /UPS
+     Equipme     Nos   Make        Model                Type    Rating      Qt    input               output
+         nt                                                                 y
+       Main      --     -              -                   -        -        -            -                -
+       Light
+     NAIS PSS    --     -              -            -         -   -                       -                -
+      DGPS       --     -              -            -         -   -                       -                -
+17                                      स्वचलनउपकरण
+                                    Automation Equipment
+      MAKE           PLC        HMI    Power Supply    VSAT     Modem                         Band
+      NELCO           --         -            -          -        -                             -
+18         आविशमनउपकरण                  Type of       Capacity    Nos                         Make
+        Fire Fighting Equipment       Extinguisher
+                                     DCP Type(u/s)         --       -                             -
+                                     DCP Type(u/s)         --       -                             -
+                                    Foam Type(u/s)         --       -                             -
+                                    Water Type(u/s)        --       -                             -
+                                       DCP Type            --       -                             -
+
+
+19             संचार                                  --                                      -
+           Communication
+20            र्लपूवतन                                             --
+            Water Supply
+21              िूवम                                Area                                      -
+               Land                             Demarcation                                   -
+22             इमारतें                               -                               -
+              Buildings
+23          कंपाउं डलाइि                             --                              -
+          Compound Lights
+24         सीसीिीिीकमेरा                          Camera                             -
+           CCTV CAMERA                             DVR                               -
+25              स्टाफ                 Sl. No                      Designations
+                Staff                   1                               --
+                                                                        -
+26          पहुँ चनेकामाध्यम             By hired motor boat from Malpe Jetty which takes
+          Mode of approach           approximately 20 Minutes (Aerial distance is about 06 Kms.)
+27          उपलब्धसुविधाए             Marine Police                    Within 3km
+          Facilities available           Station
+                                       Dispensary                      Within 3km
+                                       High School                     Within 3km
+                                       Post office                   Within 3km
+28     डाकपताPostal address           C/o HeadLightkeeper, Kaup Lighthouse, Post Kaup Udupi
+                                                             574106
+29     मूल्यकाब्योराCost details                                ..
+     (At the time of Construction)
+30        प्रितननमेलानेकादे नां क                              1901
+        Date of commissioning                    Subsequent innovations 1973,2012
+

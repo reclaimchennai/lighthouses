@@ -1,0 +1,40 @@
+{
+  "nid": 1802,
+  "title": "Supply, Installation and commissioning of CCTV system at Lambaline Officer's Colony under Sri Vijaya Puram Directorate",
+  "summary": "E-tender for supply, installation and commissioning of a CCTV system at the Lambaline officers' colony of the Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair), Andaman & Nicobar Islands.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-PB-08006/1/2022-M",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Lambaline Officer's Colony, Sri Vijaya Puram", "station_id": null, "kind": "office", "work": "Supply, installation and commissioning of CCTV system"}
+  ],
+  "scope": [
+    {"item": "Supply, Installation and commissioning of CCTV system", "qty": null, "unit": null, "site": "Lambaline Officer's Colony"}
+  ],
+  "money": {
+    "estimated_cost_inr": 727000.0,
+    "emd_inr": 14600.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. Cost of bid document Nil. EMD by DD/FDR of any scheduled nationalised bank (Hindi version: FDR or bank guarantee) in favour of Director of Lighthouses and Lightships, Sri Vijaya Puram, valid 06 months from technical bid opening; originals by 28.12.2024 15:00. NSIC/MSME registered bidders considered for exemption of EMD/tender fee/past experience/turnover per Govt norms."
+  },
+  "period": {"completion": "60 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-12-07", "pre_bid": "2024-12-18", "bid_submission_end": "2024-12-28", "bid_opening": "2024-12-30"},
+  "eligibility": [
+    "Reputed firms/contractors with experience in similar works with Central Govt/State Govt/PSU/public listed company in remote island of Andaman & Nicobar",
+    "Similar work: supply, installation, testing and commissioning of CCTV system",
+    "Initial eligibility criteria as per Section 3 (not included)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "nit.pdf", "pages": 5, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Pages 3-7 of a 55-page tender document (Section I NIT, Hindi and English); Section 3 eligibility, specifications and BOQ not included. English page 6 (text layer) garbles 'Central Public Procurement' as 'Central Public Supply, Installation, Testing and Commissioning (CPP) Portal' (find-replace error in original). Technical opening subject to internet connectivity."
+}

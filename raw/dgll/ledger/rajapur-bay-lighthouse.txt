@@ -1,0 +1,225 @@
+                               मास्टर लेजर/MASTER LEDGER
+
+
+
+
+                                   राजापरु बे (वागापरु पॉइंट) दीपस्तंभ
+                   RAJAPUR BAY(WAGAPUR POINT) LIGHTHOUSE
+
+क्रमसंख्या/             नाम /Name
+                                                                          वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.               F0586
+
+    2         स्थान/Position                   Lat. 160 36’ 21.27’’N , Long. 730 19’ 16.99’’E
+
+    3         ऊंचाई/Elevation                  46m
+    4         अभिलक्षण/Characteristic          F1 W 15 Sec. (FL 0.4, sec. 14.6)
+
+    5         नॉटिकलमाइलमेदरू ी                29Nm
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower           Type                             R.C.C. Square tower
+                                               Height                           19.8 m
+                                               Colour Scheme                    Black and White Bands (Band
+                                                                                width 3.84m, Bottom band Black.
+                                                                                No. of bands 5)
+
+    7         ऑप्टिकलउपकरण                     Optic
+              Optical equipment
+                                               Make                             B.B.T.
+                                               Type                             -
+                                               Size                             300 mm (4th order large) revolving
+                                               No. of lens                      2 to 180 0 each
+
+                                               Area of dioptric portion         Total corrected area 7275 sq. cm.
+
+                                               Area of catadioptric portion 2838 sq. cm. (Corrected area 2186
+                                                                            sq. cm.)
+                                               Divergence                   Main : 4 058’ (Horizontal )
+                                               Main/Emergency                       2 029’(Vertical )
+                                               Duration of Flash            Main :0.41sec
+                                               Main /Standby/Emergency
+
+                                               Lamp changer                     Yes
+                                               Pedestal                         Mercury float ( 39.4 Kg Mercury)
+                                        Rotation Device               Stepper motor 1 in use ,2nd in
+                                                                      standby
+                                        R.P.M.                        2
+                                        illumining
+                                        Main                          3*150 watt MH Lamp in cluster
+                                                                      unit
+                                        Standby                                      -
+                                        Emergency:                                   -
+                                        Date of Installation          2006
+8    प्रिािीबीमतीव्रता/Effective beam   Main & Standby                Main: 403597cd
+     intensity
+                                        Emergency                     -
+9    लेंिनन/Lantern                     Diameter                      2m
+                                        Height of glazing             1.3m
+                                        No. of panes                  16(in two tiers of 8 panes each )
+                                        Ventilators                   7
+10   RACON                                          ---                               ---
+     Make                 Model         Code                          Band                  Date of
+                                                                                            Installation
+             ---               ---                    ---                     ---                 ---
+11   NAIS
+     Base Station
+
+
+     Model                Type          Power                         MMSI
+     R-40                 Class -A      AC :100-24 0VAC,50-60Hz       4192231
+                                        DC: +24v,2.5Amp
+     Communication
+     Equipment
+     VSAT Antenna-2.4     Band          Modem-
+     mtr parabolic        161.975MH     Datum System
+     antnna               z and         C band
+                          162.025MH
+                          z
+     DGPS
+     Trasmitter Make      Frequency     Power Output RS 1 ID          RS -II     Beacon    Date of     Dat
+                                                                      ID         ID        commis      e of
+                                                                                                       Re
+                                                                                           sioning     cap
+                                                                                                       itali
+                                                                                                       zati
+                                                                                                       on
+             ---               ---            ---               ---     ---        ---        ---       ---
+
+12   ऊर्ानकेसाधन/Sour     Mains                                       440 V, 3 phase,50Hz
+     ce of energy         Standby                                     Diesel Generator Set,
+                                                                      8KW off grid solar power system
+                          Engine 1
+                          Make/Type             Qty         Rating    No of        RPM              Cooling
+                                                                      Cylinder
+                           KirloskarEA-16                     1                ---          2            1500    Air
+                                                                                                                Coolin
+                                                                                                                  g
+                           Alternator
+                           Make/Type                    Qty               Rating     Voltage/Amp   Frequency    Phase
+                           Kirloskar                    1                 7.5 KVA    240v/31.2     50Hz         1
+                                                                                     Amp
+                           Engine 2
+                           Make/Type                    Qty               Rating     No of         RPM          Cooling
+                                                                                     Cylinder
+                           Kiloskar
+                           Alternator
+                           Make/Type                    Qty               Rating     Voltage/Amp   Frequency    Phase
+                           Kirloskar
+
+
+
+
+                           Solar Plant
+                           Capacity PV                  Numbers                      Type          Battery      Bank
+                           200w                         40                           Monocryst     12V/1000A    7 nos
+                                                                                     alline        h
+                           Solar Plant for Main RACON             -NA-
+                           Capacity PV                  Numbers                      Type          Battery      Bank
+                                         ---                             ---                ---           ---       ---
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model                Capa     Input                        Output        Phase        Qty
+                                               city
+     Automatic Electric     JY-415C               5           160-260V AC             230V AC             1         1
+             ltd                                KVA
+14   बैिरर
+     Batteries
+     Equpment             Type                 Make Volt                             Amp/Hr        Qty
+     PSS NAIS             Maintenece           Exide 12V                             100Ah         2
+                          Free
+     Genset               Maintenece           Exide 12V                             100Ah         1
+                          Free
+     Automation           Maintenece           Rock     12V                          26 Ah         2
+                          Free                 et
+     DGPS
+15   बैिररचार्नर/ Battery charger                -NA-
+
+     Equipment            Make                 Mode Type                             Rating        Qty
+                                               l
+     General Purpose             ---             ---                     ---                ---           ---       ---
+     Automation                  ---             ---                     ---                ---           ---       ---
+16   इंवटट रInverter /UPS
+     Equipmen Nos Make             Model           Type       Rating          Qty             input             outpu
+     t                                                                                                          t
+     Main          03     Exide    Exide           Sine       850VA           03              12V DC            230V
+     Light                         850             wave                                                         AC
+                                   DSP
+                                   PST
+                                   UPS
+     NAIS PSS     01     Exide     Exide           Sine       1450VA          01              24V DC            230V
+                                   1450            wave                                                         AC
+                                   DSP
+                                   PST
+                                   UPS
+     DGPS         ---     ---         ---            ---           ---               ---           ---           ---
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE       PLC               HMI            Power Supply            VSAT              Modem      Band
+     Nelco      Momentum          Magelis        24V DC                  1.8mtr            Sky        C band
+                171CBB9703        Advanced                               parabolic         edge
+                0,processor 4     Panels,                                reflector
+                port              24VDC,
+                switch,24VD       26W
+                C,                Make –
+                Telemecaniq       Schneider
+                e                 Electric
+18   आप्ननशमनउपकरण                         Type of Extinguisher          Capacity           Nos          Make
+     Fire Fighting Equipment               Water type                    9 ltr              1            ---
+                                           DCP type                      2kg                2            ---
+                                           DCP type                      3.5 kg             1            ---
+
+
+
+
+19   संचार                                  Earlier BSNL WLL telephone No.02353 – 263482, provided in the
+                                            station but it is discontinued due to non feasibility. ‘JIO’ dongle is
+     Communication
+                                            using for internet use from mobile for effective communication.
+
+20   र्लपूर्तन                              Borewell with 1 HP submersible pump installed at Lighthouse.
+     Water Supply
+21   िूभम                                   Area                    4.34Hectres
+     Land
+                                            Demarcation             Compound wall is provided at land side
+22   इमारतें                                Quarters                1)HLK Quarter – 1 No.
+     Buildings                                                      2)Twin unit of NA- II/III      Quarters            –
+                                                                    2 Nos
+                                                                    3)Group ‘D’ Quarters (Twin Unit) – 2 Nos.
+                                                             One unit of old store dismantled, jeep
+                                                             garage and pump house dismantled-
+                                                             Except the seaward side, the compound is
+                                                             secured by compound wall of stone
+                                                             masonry
+
+23   कंपाउं डलाइि                                            7 nos
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera                  NA
+      CCTV CAMERA                    DVR                     NA
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1              NA- II
+                                     2              NA- II
+                                     3              LHA
+                                     4
+                                     5
+                                     6
+                                     7
+26   पहुँचनेकामाध्यम                 1) By rail uptoRajapurroad then Rajapur bus stand by road.
+                                     2)From Rajapur to Madban by Bus-appprox 35km
+     Mode of approach
+                                     3) From Madban 7km by walk uptolighthouse .
+
+27   उपलब्धसविधाए                    Marine Police Station    13 kms -Nate
+     Facilities available            Dispensary               11 km Holi stop
+
+                                     High School              Primary school 7 kmsMadban
+                                     Post office            7 kmsMadban
+28   डाकपताPostal address            Headlighthkeeper
+                                     Rajapur Bay Lighthouse
+                                     At post :Madban,Tal:Rajapur,Dist:Ratnagiri -416702
+29   मूल्यकाब्योराCost details       ---
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          1958
+     Date of commissioning
+

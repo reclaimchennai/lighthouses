@@ -1,0 +1,55 @@
+{
+  "nid": 1897,
+  "title": "Vengurla Point, Aguada, Kundapur, Bhatkal & Kaup दीपस्तंभों के लिए lawn mower की खरीद (Procurement of lawn mowers for Vengurla Point, Aguada, Kundapur, Bhatkal & Kaup lighthouses)",
+  "summary": "GeM bid for supply, installation and demonstration of five petrol ride-on lawn mowers, one each for Bhatkal, Kundapur, Kaup, Vengurla Point and Aguada lighthouses, for the Directorate of Lighthouses and Lightships, Goa.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/6182504",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Goa"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Bhatkal Lighthouse, Bandar Road, Post Mavinkurve, Tal. Bhatkal, Dist. Uttar Kannada 581320", "station_id": "bhatkal-lighthouse", "kind": "lighthouse", "work": "Supply of 1 ride-on lawn mower"},
+    {"name": "Kundapur Lighthouse, Post Kodi, Kundapur, Dist. Udupi, Karnataka 576217", "station_id": "kundapur-lighthouse", "kind": "lighthouse", "work": "Supply of 1 ride-on lawn mower"},
+    {"name": "Kaup Lighthouse, Tal. Kaup, Dist. Udupi 574106", "station_id": "kaup-lighthouse", "kind": "lighthouse", "work": "Supply of 1 ride-on lawn mower"},
+    {"name": "Vengurla (At Post Vengurla, Taluka Vengurla, Dist. Sindhudurg 416516)", "station_id": "vengurla-point-lighthouse", "kind": "lighthouse", "work": "Supply of 1 ride-on lawn mower"},
+    {"name": "Aguada Lighthouse & DGPS Station, Post Candolim, Sinquerim, Mapusa 403515", "station_id": "aguada-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Supply of 1 ride-on lawn mower"}
+  ],
+  "scope": [
+    {"item": "Lawn Mowers (Q3) - ride-on, petrol engine, all wheel drive; supply, installation, on-site demo, testing, commissioning and operator training", "qty": "1", "unit": "piece", "site": "Bhatkal Lighthouse"},
+    {"item": "Lawn Mowers (Q3) - ride-on, petrol engine", "qty": "1", "unit": "piece", "site": "Kundapur Lighthouse"},
+    {"item": "Lawn Mowers (Q3) - ride-on, petrol engine", "qty": "1", "unit": "piece", "site": "Kaup Lighthouse"},
+    {"item": "Lawn Mowers (Q3) - ride-on, petrol engine", "qty": "1", "unit": "piece", "site": "Vengurla Point Lighthouse"},
+    {"item": "Lawn Mowers (Q3) - ride-on, petrol engine", "qty": "1", "unit": "piece", "site": "Aguada Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2375000.0,
+    "emd_inr": 47500.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 14 months",
+    "notes": "Estimated bid value Rs 23,75,000 (GeM guidance value). EMD advisory bank SBI; EMD exemption per GeM GTC for MSE manufacturers. Reserved for Make in India Class 1 local suppliers (min 50% local content); MSE purchase preference L1+15% for 25% quantity. Warranty service within 10 days or penalty 0.5% of unit price per week, max 10%."
+  },
+  "period": {"completion": "20 days delivery", "bid_validity": "60 days", "warranty": "Minimum 01 year on-site warranty on equipment, prime mover and battery"},
+  "dates": {"published": "2025-05-05", "pre_bid": null, "bid_submission_end": "2025-05-15", "bid_opening": "2025-05-15"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 12 lakh; OEM average turnover: Rs 94 lakh",
+    "3 years past experience in same/similar category; past performance 30% of bid quantity; MSE and startup exemption from experience and turnover allowed",
+    "OEM authorization certificate; ISO 9001 certification for bidder or OEM",
+    "Dedicated/toll-free service support number and escalation matrix"
+  ],
+  "specs": [
+    "Ride-on lawn mower, petrol engine 12000-12999 W, key start, variable speed, all wheel drive, 5 forward gears plus reverse, max speed 13 km/h",
+    "Rotary type, 2 hardened steel blades, electromagnetic blade engagement, stamped steel deck, cut width 1050-1074 mm, cut height 25-102 mm, single lever adjustment",
+    "4 rubberized wheels (front 300 mm, rear 480 mm), power steering, high back seat, 400 litre grass catcher with manual dumping, no mulching kit",
+    "Mowing area 6000 sq m; fuel tank 5 litre; sound level 84 dB; Li-ion battery 25-50 Ah",
+    "Features: safety start, OPC, tow bar, fuel gauge, head lights, grass-bag-full indicator, hour meter, cast iron front axle, front bumper, anti-scalp deck wheels"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM-Bidding-7786776.pdf", "pages": 9, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "GeM bid document only (9 pages); buyer-uploaded ATC file referenced but not included. Short duration bid published citing emergency procurement. Consignee officers named with mobile numbers and a named buyer e-mail are printed in the document (not recorded). Vengurla consignee address does not say Vengurla Point explicitly; matched per listing title. File name number 7786776 differs from bid number 6182504."
+}

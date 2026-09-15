@@ -1,0 +1,44 @@
+{
+  "nid": 2014,
+  "title": "Design, Development, Construction, Supply, Delivery, Installation, Integration, Testing, Commissioning of 05/06 Passengers Lift at Dariyapur LH and Baruva LH",
+  "summary": "Two-cover e-tender (file named EOI) for design, supply, installation and commissioning of 5/6-passenger lifts at Dariapur Lighthouse (West Bengal) and Baruva Lighthouse (Andhra Pradesh) under the Kolkata Directorate.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Kol-11007(01)/2/2019-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhawan, D-372 Taratala Road, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Dariyapur LH", "station_id": "dariapur-lighthouse", "kind": "lighthouse", "work": "Design, supply, installation, testing and commissioning of 05/06 passenger lift"},
+    {"name": "Baruva LH", "station_id": "baruva-lighthouse", "kind": "lighthouse", "work": "Design, supply, installation, testing and commissioning of 05/06 passenger lift"}
+  ],
+  "scope": [
+    {"item": "Design, development, construction, supply, delivery, installation, integration, testing, commissioning of 05/06 passengers lift", "qty": null, "unit": null, "site": "Dariyapur LH"},
+    {"item": "Design, development, construction, supply, delivery, installation, integration, testing, commissioning of 05/06 passengers lift", "qty": null, "unit": null, "site": "Baruva LH"}
+  ],
+  "money": {
+    "estimated_cost_inr": 15000000.0,
+    "emd_inr": 0.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost Rs 1,50,00,000 including GST and all other taxes. EMD Nil; tender fee Nil."
+  },
+  "period": {"completion": null, "bid_validity": "180 days from date of opening of EOI", "warranty": null},
+  "dates": {"published": "2025-09-15", "pre_bid": "2025-09-26", "bid_submission_end": "2025-10-06", "bid_opening": "2025-10-07"},
+  "eligibility": [
+    "Valid registration of appropriate class in building civil work category with Central/State Govt department/undertaking/autonomous body, valid on last date of submission",
+    "Similar works completed in last 7 years: three >= 40%, two >= 50% or one >= 80% of estimated cost; values updated at 7% simple interest per annum; client certificates required",
+    "Similar works: design, development, construction, supply, delivery, installation, integration, testing, commissioning of lift",
+    "Valid PAN and GST registration; joint ventures and consortia not permitted",
+    "Notarized affidavit (2025) of not being blacklisted/debarred; ITRs for 2021-22, 2022-23, 2023-24"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "EOI.pdf", "pages": 3, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Document is Section I NIT only, digitally signed 15.09.2025; no lift specifications or BOQ. File is named EOI.pdf and bid validity counts from 'opening of EOI', but the notice is titled Notice Inviting e-Tender with a two-cover system. Period of completion printed as NA. Station names printed Dariyapur/Baruva."
+}

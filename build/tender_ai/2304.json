@@ -1,0 +1,46 @@
+{
+  "nid": 2304,
+  "title": "Furnishing of Office Building at Kalingapatnam Lighthouse, Andhra Pradesh.",
+  "summary": "Offline NIQ for supply of office furniture (desk, chairs, steel almirahs, steel rack) for the office building at Kalingapatnam Lighthouse, Andhra Pradesh, under the Kolkata Directorate.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-150H/1/2019-Civil; I/96617/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kalingapatnam Lighthouse, Andhra Pradesh-532406", "station_id": "kalingapatnam-lighthouse", "kind": "lighthouse", "work": "Furnishing of office building"}
+  ],
+  "scope": [
+    {"item": "Providing and supplying May fair desk with ERU with Pedestal office table of approved brand (Godrej/Neelkamal etc.)", "qty": "1.0", "unit": "NOS", "site": "Kalingapatnam Lighthouse"},
+    {"item": "Providing and supplying Pulse Mid back with head rest office chair of approved brand (Godrej/Neelkamal etc.)", "qty": "1.0", "unit": "NOS", "site": "Kalingapatnam Lighthouse"},
+    {"item": "Providing and supplying Chair PCH 7112R visitor chair of approved brand (Godrej/Neelkamal etc.)", "qty": "4.0", "unit": "NOS", "site": "Kalingapatnam Lighthouse"},
+    {"item": "Providing and supplying storwel plain (steel almirah) of approved brand (Godrej/Neelkamal etc.)", "qty": "2.0", "unit": "NOS", "site": "Kalingapatnam Lighthouse"},
+    {"item": "Providing and supplying Steel rack for office of approved brand (Godrej/Neelkamal etc.)", "qty": "1.0", "unit": "NOS", "site": "Kalingapatnam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 177922.8,
+    "emd_inr": 3600.0,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value (FDR/Bank Guarantee), valid 6 months from completion",
+    "notes": "Estimated cost inclusive of GST. Original EMD by DD/FDR from nationalized/RBI approved bank in favour of The Director of Lighthouses and Lightships, Kolkata, by tender opening. L1 decided on total basic amount; GST column must be filled. Penalty 0.5% per week up to 10%."
+  },
+  "period": {"completion": "45 days from date of award of work", "bid_validity": "180 days from date of opening of bid", "warranty": "6 months from date of completion"},
+  "dates": {"published": "2026-03-25", "pre_bid": null, "bid_submission_end": "2026-04-15", "bid_opening": "2026-04-16"},
+  "eligibility": [
+    "Valid PAN and GST registration",
+    "Notarized affidavit that bidder is neither blacklisted nor debarred by any Central/State Govt",
+    "Similar work in last seven years: one work >= 80%, or two works each >= 50%, or three works each >= 40% of estimated value; similar work means any civil works at Central Govt/State Govt/other reputed private organization"
+  ],
+  "specs": [
+    "Makes: Godrej/Neelkamal or approved brand; models May fair desk with ERU and pedestal, Pulse mid-back chair with head rest, PCH 7112R visitor chair, Storwel plain steel almirah"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ_0.pdf", "pages": 18, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIQ dated 25.03.2026; offline sealed two-envelope quotation to Deep Bhavan, Kolkata by 15.04.2026 15:00, opening 16.04.2026 16:00; document downloadable from CPPP epublish and dgll.nic.in. Eligibility and scope sections define 'similar work' as civil works although the job is furniture supply. Contract agreement proforma is dated 2025."
+}

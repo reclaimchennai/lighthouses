@@ -1,0 +1,2200 @@
+{
+ "koteshwar-lighthouse-vts-station": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "of Light (LED Flasher)",
+  "make": null,
+  "size": null
+ },
+ "jakhau-lighthouse-and-vts-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:for dual drive system",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "ii) Size 3 (each 120 degrees)",
+  "make": "375mm(3rd order small) revolving type",
+  "size": "3 (each 120 degrees)"
+ },
+ "navlakhi-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": null,
+  "make": null,
+  "size": null
+ },
+ "chhachhi-lighthouse-and-vts-station": {
+  "cls": "revolving",
+  "rot": [
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Duration of flash : 2.1 sec",
+  "make": "250",
+  "size": null
+ },
+ "bhadreshwar-vts-repeater-and-lighthouse-station": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "of Light (LED Flasher)",
+  "make": "xiv) Type of Light structure : Stationary LED Flashing Light",
+  "size": null
+ },
+ "mandvi-lighthouse-vts-station": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "of Light (LED Flasher)",
+  "make": null,
+  "size": null
+ },
+ "navinal-lighthouse-and-vts-station": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "of Light (LED Flasher)",
+  "make": null,
+  "size": null
+ },
+ "mungra-reef-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "of Light (LED Flasher)",
+  "make": "Navaid NE-9 LED Light",
+  "size": "drum optic"
+ },
+ "jodiya-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "of Light (LED Flasher)",
+  "make": "NavAids Pvt Ltd, Delhi",
+  "size": null
+ },
+ "mawadi-point-beacon": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "of Light (LED Flasher)",
+  "make": "Sealite, Australia",
+  "size": null
+ },
+ "pirotan-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Direct drive by electrica",
+   "rpm:3",
+   "revolving",
+   "pedestal:Mercury float"
+  ],
+  "flash": [],
+  "typ": "No. of panels : 2 (of 180\u00ba)",
+  "make": null,
+  "size": "500 mm (3rd order large)"
+ },
+ "chank-tapu-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "of Light (LED Flasher) Model : NE-9A is a Three-Tier",
+  "make": null,
+  "size": null
+ },
+ "bural-reef-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": null,
+  "make": null,
+  "size": null
+ },
+ "samiyani-north-island-lighthouse-station": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": null,
+  "make": null,
+  "size": null
+ },
+ "samiyani-island-lighthouse-station": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": null,
+  "make": null,
+  "size": null
+ },
+ "okha-lighthouse-dgps-and-vts-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:20 kg.cm stepper motor fo",
+   "rpm:2.4",
+   "revolving",
+   "pedestal:Mercury float ("
+  ],
+  "flash": [],
+  "typ": null,
+  "make": null,
+  "size": "250 mm dia ( 4th order ) revolving"
+ },
+ "kalubhar-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": null,
+  "make": "NavAids Pvt Ltd, Delhi",
+  "size": null
+ },
+ "kachhigadh-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:4",
+   "pedestal:Mercury float"
+  ],
+  "flash": [],
+  "typ": "MBR-300",
+  "make": "BBT",
+  "size": "No. of lens 4"
+ },
+ "dwarka-point-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:3",
+   "pedestal:Mercury float"
+  ],
+  "flash": [],
+  "typ": "Size 500 mm",
+  "make": "Stone Chance",
+  "size": "500 mm"
+ },
+ "navadra-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:4"
+  ],
+  "flash": [],
+  "typ": "MBR-300",
+  "make": "MSM",
+  "size": "No. of lens 3"
+ },
+ "dariapur-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:1.5",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "Chance Brothers, UK",
+  "size": "250 mm ( 4th Order) revolving"
+ },
+ "ruvapari-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": "Size 300 mm",
+  "make": "Chance Brother",
+  "size": "300 mm"
+ },
+ "perigee-light-vesselmain-light": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED",
+  "make": "\u2013 Model No.",
+  "size": null
+ },
+ "ghogha-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "1000 mm dia (Provided with red",
+  "make": "B.B.T, Drum optic (fixed)",
+  "size": "1000 mm diameter"
+ },
+ "luhara-point-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:12V DC stepper motor",
+   "rpm:1"
+  ],
+  "flash": [],
+  "typ": "GRL-48MK-II gearless rotation",
+  "make": "M/S. Ana, New Delhi",
+  "size": "200mm"
+ },
+ "tajpur-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": null,
+  "make": null,
+  "size": "Focal Length F-185 Mm"
+ },
+ "porbandar-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:2"
+  ],
+  "flash": [],
+  "typ": "MBR-300",
+  "make": "M/s.MEDITERRANEO SENALES",
+  "size": "No. of lens 6"
+ },
+ "piram-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:3",
+   "revolving",
+   "pedestal:Mercury float"
+  ],
+  "flash": [],
+  "typ": "300 mm (4th order) revolving",
+  "make": "BBT-France",
+  "size": "No. of lens 4"
+ },
+ "navibandar-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED",
+  "make": "Sealite",
+  "size": null
+ },
+ "alang-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:5",
+   "revolving",
+   "pedestal:Mercury float"
+  ],
+  "flash": [],
+  "typ": "revolving",
+  "make": "BBT-France",
+  "size": "250mm"
+ },
+ "gopnath-lighthouse-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:3",
+   "revolving",
+   "pedestal:Ball bearing ty"
+  ],
+  "flash": [],
+  "typ": "Size 300 mm ( 4th order ) revolving",
+  "make": "J. Stone & company Calcutta",
+  "size": "300 mm ( 4th order ) revolving"
+ },
+ "jhanjhmer-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Size --",
+  "make": "Sealite make SL155 LED(Ever on)",
+  "size": "No. of lens"
+ },
+ "mangrol-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:1.5"
+  ],
+  "flash": [],
+  "typ": "MBR-300",
+  "make": "Mediterraneo Senales Maritimas",
+  "size": "No. of lens 4"
+ },
+ "hazira-lighthouse-and-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper Motor 40 Kgc",
+   "rpm:2",
+   "revolving",
+   "pedestal:Mercury float ("
+  ],
+  "flash": [],
+  "typ": "Revolving",
+  "make": "B.B.T",
+  "size": "250 mm"
+ },
+ "jegri-island-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper Motor",
+   "rpm:1.5",
+   "pedestal:Mercury Floats"
+  ],
+  "flash": [],
+  "typ": "Revolaving",
+  "make": "Stone Chance",
+  "size": "375mm"
+ },
+ "wasi-borsi-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper Motor 40 Kgc",
+   "rpm:2.14 ( one r",
+   "revolving",
+   "pedestal:Mercury float ("
+  ],
+  "flash": [],
+  "typ": "revolving type",
+  "make": "B.B.T.",
+  "size": "187.5 mm (5th order)"
+ },
+ "veraval-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "rotdev:NIL"
+  ],
+  "typ": "Size 1000 mm drum optic with",
+  "make": "BBT France",
+  "size": "1000 mm drum optic with"
+ },
+ "savaibet-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:2",
+   "revolving",
+   "pedestal:Mercury Float"
+  ],
+  "flash": [],
+  "typ": "Revolving",
+  "make": "BBT",
+  "size": "250mm"
+ },
+ "bhirbhanjan-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "rotdev:NIL"
+  ],
+  "typ": "Size",
+  "make": "ANA",
+  "size": "No. of lens -"
+ },
+ "jafrabad-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:2",
+   "revolving",
+   "pedestal:Mercury float"
+  ],
+  "flash": [],
+  "typ": "revolving",
+  "make": "BBT-France",
+  "size": "250mm"
+ },
+ "kanai-creek-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:2 Nos. 12V DC Stepper Mot",
+   "rpm:1.5",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "WM \u2013 RB 500 Marine Rotating",
+  "make": "Wealth Marine Pvt. Ltd. Singapore",
+  "size": "200 MM"
+ },
+ "saiyad-rajpara-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": "Size",
+  "make": "Type",
+  "size": "No. of lens"
+ },
+ "simar-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": "Size",
+  "make": "Type",
+  "size": "No. of lens"
+ },
+ "nawabander-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Size",
+  "make": "Sealite",
+  "size": "No. of lens -"
+ },
+ "diu-head-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:(i) Electrically operated",
+   "rpm:1.5",
+   "revolving",
+   "pedestal:Mercury float ("
+  ],
+  "flash": [],
+  "typ": "Size 700 mm(2nd order large)revolving type",
+  "make": "B.B.T. France",
+  "size": "700 mm(2nd order large)revolving type"
+ },
+ "valsad-khadi-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Inbuilt Direct drive brus",
+   "rpm:3 RPM",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "ZL-LSRB-26 Revolving LED",
+  "make": "Zen Lite Buoy Co. Ltd",
+  "size": "No. of lens 6 Nos (4 in service)"
+ },
+ "false-point-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:3",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "Mls B.B.T, Paris.",
+  "size": "250 mm (4'h order small), revolving."
+ },
+ "paradeep-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:2",
+   "revolving"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": null,
+  "make": "Tideland Signal Corporation, USA.",
+  "size": "915 mm height & 445 mm Dia."
+ },
+ "umergam-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:2 Nos. Stepper Motor,",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "WM-RB500 Marine Rotating Becon",
+  "make": "Welth Marine Pvt Ltd. Singapore",
+  "size": "500 mm"
+ },
+ "dahanu-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "chandrabhaga-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:3",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "Stone Chance, France",
+  "size": "4th order small, revolving"
+ },
+ "tarapur-point-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper Motor 40 Kgc",
+   "rpm:2",
+   "revolving",
+   "pedestal:Mercury Float ("
+  ],
+  "flash": [],
+  "typ": "Cut and polished revolving",
+  "make": "B.B.T.",
+  "size": "187.5 mm (5th order)"
+ },
+ "puri-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:3",
+   "revolving"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": null,
+  "make": "Tideland Signal Corporation, USA",
+  "size": "915 mm height & 445 mm Dia."
+ },
+ "satpati-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper Motor, Tarque 10",
+   "rpm:1.5",
+   "revolving"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Tideland TRB-220 Marine",
+  "make": "Tideland signal",
+  "size": "110 mm focal Length"
+ },
+ "prayagi-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:3"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": null,
+  "make": "Tideland Signal Corporation, USA",
+  "size": "915 mm height & 445 mm Dia."
+ },
+ "arnala-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:motor drive brushless dir",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "VRB-25-LED-8P-2T",
+  "make": "Vega Marine Rotating Beacon",
+  "size": "2Tire LED -8P-2T"
+ },
+ "uttan-point-lighthouse-and-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper Motor 40 Kg ",
+   "rpm:4",
+   "revolving",
+   "pedestal:Mercury Float ("
+  ],
+  "flash": [],
+  "typ": "5th Order",
+  "make": "M/S. Chance Bros.",
+  "size": "187.5 mm (5th Order) revolving"
+ },
+ "gopalpur-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:3",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "BBT Paris",
+  "size": "4th Order (large), revolving"
+ },
+ "prongs-reef-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:2 Nos. Stepper Motors.",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "WM-RB 500 Marine Rotating Beacon",
+  "make": "Wealth Marine Pvt. Ltd., Singapore",
+  "size": "500mm dia.6 clear \u201c Bulls Eye\u201d"
+ },
+ "baruva-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:2",
+   "revolving"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": null,
+  "make": "Tideland Signal Corporation, USA",
+  "size": "915 mm height & 445 mm Dia."
+ },
+ "kanhoji-angre-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "revolving"
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "Wealth Marine WM-RB 500",
+  "size": "200mm"
+ },
+ "chaul-kadu-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Ultra bright 108 LEDs",
+  "make": "Sealite SL-125/3",
+  "size": "200 mm"
+ },
+ "korlai-fort-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper Motor with electr",
+   "rpm:2.5 RPM",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Revolving with acrylic flat Fresnel",
+  "make": "ANA Navaids, New Delhi, GRB \u2013",
+  "size": "200 mm"
+ },
+ "kalingapatnam-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:4",
+   "revolving"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": null,
+  "make": "Tideland Signal Corporation, USA",
+  "size": "915 mm height & 445 mm Dia."
+ },
+ "murud-janjira-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": "Size ---",
+  "make": "Type ---",
+  "size": "No. of lens / No. of panels ----"
+ },
+ "nanwel-point-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper Motor 40 Kgc",
+   "rpm:4",
+   "revolving",
+   "pedestal:Mercury Float ("
+  ],
+  "flash": [],
+  "typ": "Revolving with cut and polished",
+  "make": "Stone Chance",
+  "size": "250 mm (4th order small) revolving"
+ },
+ "santapalli-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:i)Stepper motor :2 No 40K",
+   "revolving",
+   "pedestal:Mercury Float 9"
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "M/s Chance Brothers",
+  "size": "500 mm 3 rd Order Large Revolving"
+ },
+ "bheemlipatnam-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Light Beacon",
+  "make": "M/s. Aero marine",
+  "size": null
+ },
+ "harnai-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": "Size",
+  "make": "MG Nickon, (Finland)",
+  "size": "No. of lens / No. of panels"
+ },
+ "dolphin-nose-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:i)Stepper motor :2 No 40K",
+   "revolving",
+   "pedestal:Mercury float ("
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "BBT",
+  "size": "375 mm (3rd order small) Revolving"
+ },
+ "tolkeshwar-point-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper Motor 40 Kgc",
+   "rpm:4",
+   "revolving",
+   "pedestal:Mercury float p"
+  ],
+  "flash": [],
+  "typ": "Revolving",
+  "make": "Stone Chance",
+  "size": "375 mm (3rd order small)"
+ },
+ "pudimadaka-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Twin Stepper motor Direct",
+   "revolving",
+   "pedestal:Mercury Float ("
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "B.B.T",
+  "size": "300 mm (4th order Large) revolving"
+ },
+ "pentakota-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:i)Stepper motor :2 No 10K",
+   "revolving",
+   "pedestal:Mercury Float ("
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "B.B.T",
+  "size": "150 mm (6th order) revolving"
+ },
+ "jaigarh-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper Motor 40 Kgc",
+   "rpm:3",
+   "revolving",
+   "pedestal:Mercury float ("
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "2nd order revolving",
+  "make": "Chance Bros. & Co. Ltd. England",
+  "size": "700 mm"
+ },
+ "vakalapudi-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Twin stepper motor Direct",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": ")",
+  "make": "M/s BBT",
+  "size": "350 mm (4th order) revolving"
+ },
+ "ratnagiri-town-and-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper Motor 40 Kg/",
+   "rpm:3",
+   "pedestal:Mercury float ("
+  ],
+  "flash": [],
+  "typ": "3rd order small",
+  "make": "M/s. Stone Chance, England",
+  "size": "375mm Focal length"
+ },
+ "rajapur-bay-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor 1 in use ,2",
+   "rpm:2",
+   "revolving",
+   "pedestal:Mercury float ("
+  ],
+  "flash": [],
+  "typ": "Size 300 mm (4th order large) revolving",
+  "make": "B.B.T.",
+  "size": "300 mm (4th order large) revolving"
+ },
+ "sacramento-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:i)Stepper motor :2 No 40K",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "M/s Chance Brothers, U.K.",
+  "size": "500 mm 3rd Order large Revolving"
+ },
+ "ravaport-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": null,
+  "make": null,
+  "size": null
+ },
+ "devgad-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual stepper motor 40kgcm",
+   "rpm:2",
+   "revolving",
+   "pedestal:Mercury float ("
+  ],
+  "flash": [],
+  "typ": "Revolving",
+  "make": "B.B.T. ( Except source changer",
+  "size": "375mm"
+ },
+ "antervedi-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:i) 2 No\u2019s Unique Make Ste",
+   "revolving",
+   "pedestal:Mercury floats "
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "M/s. BBT",
+  "size": "300 mm (4th order) Revolving"
+ },
+ "machilipatnam-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": null,
+  "make": "MBR 300 MSM",
+  "size": "Focal lenth 105 mm,150 W/220 V AC MH Lamp"
+ },
+ "achara-point-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": "Marine Signal",
+  "make": "Automatic power,USA",
+  "size": null
+ },
+ "vengurla-rocks-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual stepper Motor",
+   "rpm:1.5",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "First Order",
+  "make": "BBT Paris",
+  "size": "920mm"
+ },
+ "nizampatnam-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor 7 kg-cm - 1"
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "M/s ANA Navaids Ltd, New Delhi",
+  "size": "(Height 272 mm & width 160 mm)"
+ },
+ "vengurla-point-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper Motor+Controller",
+   "rpm:3",
+   "revolving",
+   "pedestal:Mercury Float"
+  ],
+  "flash": [],
+  "typ": "Revolving",
+  "make": "BBT Paris",
+  "size": "3rd Order 375mm"
+ },
+ "vodarevu-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "revolving"
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "M/S Stone Chance Limited, London",
+  "size": "4TH Order Revolving"
+ },
+ "nagayalanka-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper Motors 40kg/cm2 a",
+   "revolving",
+   "pedestal:Mercury floats "
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "M/s BBT",
+  "size": "700 mm (2nd order) revolving"
+ },
+ "aguada-lighthouse-and-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual stepper motor(40 kg-",
+   "rpm:3",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Revolving with cut & polished",
+  "make": "J. stone calcutta",
+  "size": "375mm(3rd order small)"
+ },
+ "st-george-island-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Ultra bright 108 LEDs",
+  "make": "Sealite SL-125/3",
+  "size": "200 mm"
+ },
+ "betul-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:4 RPM",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Revolving",
+  "make": "3STECHS",
+  "size": "Dia 550 mm Height 900mm"
+ },
+ "ramayapatnam-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "MBR- 300 Marine Rotating Beacon",
+  "make": "Mediterraneo Senalels Maritimas, Spain",
+  "size": null
+ },
+ "oyster-rocks-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper Motor 40 Kgc",
+   "rpm:3",
+   "revolving",
+   "pedestal:Mercury Float ("
+  ],
+  "flash": [],
+  "typ": "Revolving",
+  "make": "B.B.T.",
+  "size": "700 mm (2nd order)"
+ },
+ "isakapalli-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor 20 kg-cm - ",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "M/s Wealth marine",
+  "size": "500mm (Rotating Beacon)"
+ },
+ "belekeri-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "rotdev:NIL"
+  ],
+  "typ": "Optical equipment",
+  "make": "BBT",
+  "size": "500MM GAS Filament"
+ },
+ "tadri-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:2 Nos. Stepper Motors.",
+   "rpm:3",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "WM \u2013 RB 500 Marine Rotating Beacon",
+  "make": "Wealth Marine Pvt. Ltd.,",
+  "size": "6 clear \u201cBulls Eye\u201d Acrylic lense"
+ },
+ "krishnapatnam-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:i) Stepper motor : 2 no 2",
+   "revolving",
+   "pedestal:Ball bearing ty"
+  ],
+  "flash": [],
+  "typ": "Twin stepper motor Direct drive system.",
+  "make": "Stone Chance, India",
+  "size": "300 mm (4th order large) Revolving"
+ },
+ "honnavar-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:2 Nos. Stepper Motors.",
+   "rpm:0.67",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "WM \u2013 RB 500 Marine",
+  "make": "Wealth Marine Pvt. Ltd.,",
+  "size": "200mm"
+ },
+ "bhatkal-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper Motor 40 Kgc",
+   "rpm:3",
+   "revolving",
+   "pedestal:Mercury Float ("
+  ],
+  "flash": [],
+  "typ": "Revolving",
+  "make": "B.B.T.",
+  "size": "250 mm (4th order)"
+ },
+ "armagon-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Brushless DC direct \u2013driv"
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "MBR-300",
+  "size": "105mm Focal Distance"
+ },
+ "kundapur-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper Motor 40 Kg/",
+   "rpm:3",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Wealth Marine Pvt. Ltd., Singapore",
+  "make": "WM \u2013 RB 500 Marine Rotating",
+  "size": "200mm"
+ },
+ "pulicat-lighthouse-and-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Brushless DC Direct-Drive",
+   "rpm:2 RPM",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Rotating Beacon",
+  "make": "M/S Mediterrane Senales",
+  "size": "MBR300"
+ },
+ "malpe-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": "SL 155",
+  "make": "Type SL 155",
+  "size": "180mm"
+ },
+ "kaup-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper Motor 40 Kgc",
+   "rpm:3",
+   "revolving",
+   "pedestal:Mercury Float ("
+  ],
+  "flash": [],
+  "typ": "Cut and Polished Revolving.",
+  "make": "Stone Chance",
+  "size": "700 mm (2nd order)"
+ },
+ "chennai-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper Motor",
+   "rpm:3 R.P.M",
+   "revolving",
+   "pedestal:Mercury Float"
+  ],
+  "flash": [],
+  "typ": "3rd Order Revolving Optic.",
+  "make": "B.B.T",
+  "size": "375 mm (3rd Order Small)"
+ },
+ "surathkal-lighthouse-and-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual stepper motor 40 kg/",
+   "rpm:2 RPM",
+   "revolving",
+   "pedestal:Mercury Float"
+  ],
+  "flash": [],
+  "typ": "Revolving",
+  "make": "Make: B.B.T.",
+  "size": "500 mm"
+ },
+ "mahabalipuram-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual stepper motor assemb",
+   "rpm:2 r.p.m",
+   "revolving",
+   "pedestal:Mercury Float ("
+  ],
+  "flash": [],
+  "typ": "Revolving",
+  "make": "M/s Chance Bros, England.",
+  "size": "700 mm"
+ },
+ "kasargod-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Brushless DC motor (gear ",
+   "rpm:3",
+   "revolving"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "TRB 220",
+  "make": "M/s Tideland",
+  "size": "110mm"
+ },
+ "kadapakkam-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Inbuilt stepper motor wit",
+   "rpm:3 RPM"
+  ],
+  "flash": [],
+  "typ": "Size Height- 470 mm, Diameter-536",
+  "make": "M/s Pharos Marine Automatic",
+  "size": "Height- 470 mm, Diameter-536"
+ },
+ "mount-dilli-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:3 RPM (one r",
+   "revolving",
+   "pedestal:Ball bearing ty"
+  ],
+  "flash": [],
+  "typ": "Revolving Beacon",
+  "make": "J.Stone & Co, Kolkata",
+  "size": "300 mm (IVth Order large) Revolving"
+ },
+ "puducherry-lighthouse-and-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:DC Stepper motor",
+   "rpm:2 RPM",
+   "revolving",
+   "pedestal:Ball Bearing"
+  ],
+  "flash": [],
+  "typ": "Revolving",
+  "make": "J-Stone & Co.,",
+  "size": "300 MM"
+ },
+ "mahe-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:1.5",
+   "pedestal:Ball bearing"
+  ],
+  "flash": [],
+  "typ": "Size 187.5mm/5th order",
+  "make": "BBT,France",
+  "size": "187.5mm/5th order"
+ },
+ "cuddalore-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED FLASHER",
+  "make": "LMV, SPAIN",
+  "size": "No. of panels -"
+ },
+ "chetlat-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "MsM, Spain",
+  "size": null
+ },
+ "bitra-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "MSM, Spain",
+  "size": null
+ },
+ "portonovo-lighthouse-and-navtex-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:In built DC Motor",
+   "rpm:4",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Rotating Beacon",
+  "make": "MBR-300 (Acrylic Fresnel Lancer)",
+  "size": "L - 847 mm / B- 312.8 mm"
+ },
+ "kiltan-lighthouse-north": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": "Electronic Flashing Unit",
+  "make": "Mediterraneo Senales Maritimas",
+  "size": null
+ },
+ "kiltan-lighthouse-south": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:3",
+   "revolving",
+   "pedestal:Ball bearing ty"
+  ],
+  "flash": [],
+  "typ": "Revolving type",
+  "make": "J Stone & Co,Calcutta,India",
+  "size": "300mm,4th order"
+ },
+ "kadalur-point-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:3",
+   "revolving",
+   "pedestal:Mercury float"
+  ],
+  "flash": [],
+  "typ": "Revolving Type",
+  "make": "M/s Chance Bros, UK",
+  "size": "700mm"
+ },
+ "kadamat-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "MsM, Spain",
+  "size": null
+ },
+ "beypore-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper motor(20",
+   "rpm:2",
+   "revolving",
+   "pedestal:Ball bearing ty"
+  ],
+  "flash": [],
+  "typ": "Size 300mm / 4th Order",
+  "make": "J Stone, India",
+  "size": "300mm / 4th Order"
+ },
+ "poompuhar-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Inbuilt stepper motor wit",
+   "rpm:4 r.p.m",
+   "revolving"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Size 210 mm",
+  "make": "M/s Mediterrano senales Maritimes",
+  "size": "210 mm"
+ },
+ "amini-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "MsM, Spain",
+  "size": null
+ },
+ "thinnakara-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Elements arranged in 2",
+  "make": "Maritimas (MsM)",
+  "size": "(Methacrylate material)"
+ },
+ "karaikal-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:12v/DC Stepper motor",
+   "rpm:3",
+   "revolving"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "TRB-220 Maxlumina",
+  "make": "Tideland signal corporation",
+  "size": "110mm"
+ },
+ "agatti-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Elements arranged in 2 levels",
+  "make": "Maritimas (MsM)",
+  "size": "(Methacrylate material)"
+ },
+ "androth-east-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:02 nos MGM ,150 Electroni",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "rotating light beacon",
+  "make": "LMV",
+  "size": "500 mm"
+ },
+ "androth-west-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Fasher unit (LED)",
+  "make": "Sealite",
+  "size": "No. of lens Single assembly"
+ },
+ "ponnani-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper motor (20 kg",
+   "rpm:2",
+   "revolving",
+   "pedestal:Ball Bearing Ty"
+  ],
+  "flash": [],
+  "typ": "Beacon",
+  "make": "J Stone & Co, Kolkata, India",
+  "size": "300mm / Vth order Large revolving"
+ },
+ "nagapattinam-lighthouse-and-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:20kg/cm, Stepper motor co",
+   "rpm:1.5",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Rotating Beacon",
+  "make": "MSM",
+  "size": "140 mm"
+ },
+ "kavaratti-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor (20kg/cm)",
+   "rpm:6",
+   "revolving",
+   "pedestal:Ball bearing ty"
+  ],
+  "flash": [],
+  "typ": "Revolving Beacon",
+  "make": "ANA, Newdelhi, India",
+  "size": "250mm / 4th Order"
+ },
+ "chetwai-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper motor (20kg/",
+   "rpm:3/2",
+   "revolving",
+   "pedestal:Ball bearing"
+  ],
+  "flash": [],
+  "typ": "AGA Revolving Beacon",
+  "make": "M/s AGA",
+  "size": "250mm"
+ },
+ "point-calimere-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "LMV BDL 250",
+  "size": "22cm x 50cm"
+ },
+ "kodikkarai-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:stepper motor",
+   "rpm:1 r.p.m",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Size 22cm x 50cm",
+  "make": "LMV BGC 500HI",
+  "size": "22cm x 50cm"
+ },
+ "mallipattinam-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Inbuilt stepper motor wit",
+   "rpm:2 r.p.m",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Size 210 mm",
+  "make": "M/s Mediterrano senales Maritimes",
+  "size": "210 mm"
+ },
+ "azhikode-lighthouse-and-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper motor (20Kgc",
+   "rpm:3 RPM",
+   "revolving",
+   "pedestal:Ball Bearing ty"
+  ],
+  "flash": [],
+  "typ": "Revolving Beacon",
+  "make": "M/S J Stone& Co. Culcutta,India",
+  "size": "300mm"
+ },
+ "valiyakara-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "MsM, Spain",
+  "size": null
+ },
+ "kalpeni-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:3 RPM",
+   "revolving",
+   "pedestal:Ball bearing ty"
+  ],
+  "flash": [],
+  "typ": "Size 300mm 4th revolving",
+  "make": "J.stone&co",
+  "size": "300mm 4th revolving"
+ },
+ "suhelipar-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED flasher",
+  "make": "Sealite, Australia",
+  "size": "300mm lens dia"
+ },
+ "ammapattinam-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Inbuilt stepper motor",
+   "rpm:2 RPM",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "LED",
+  "make": "M/s VEGA, Finland",
+  "size": "No. of lens"
+ },
+ "vypin-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper motor (20 Kg",
+   "rpm:3",
+   "pedestal:Ball bearing ty"
+  ],
+  "flash": [],
+  "typ": "3rd Order Small",
+  "make": "M/s J. Stone & Co., Calcutta",
+  "size": null
+ },
+ "passipattinam-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:3 r.p.m",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Revolving,",
+  "make": "M/s-VEGA,",
+  "size": "No. of lens 6"
+ },
+ "manakkodam-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:3",
+   "revolving",
+   "pedestal:Ball Bearing Ty"
+  ],
+  "flash": [],
+  "typ": "Size 300mm (4th order large) Revolving.",
+  "make": "J Stone &Co. Koltkata.",
+  "size": "300mm (4th order large) Revolving."
+ },
+ "alappuzha-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper motor(10 Kg/",
+   "rpm:1",
+   "revolving",
+   "pedestal:Floating on Mer"
+  ],
+  "flash": [],
+  "typ": "equipment Size 250mm/4th Order",
+  "make": "BBT Paris",
+  "size": "250mm/4th Order"
+ },
+ "olakuda-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher",
+   "rotdev:NIL"
+  ],
+  "typ": "LED FLASHER",
+  "make": "Make: LMV Spain, Model: BDL 250.",
+  "size": "2 Tier Arrangement"
+ },
+ "pamban-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher",
+   "rotdev:NIL"
+  ],
+  "typ": "LED FLASHER",
+  "make": "SABIK",
+  "size": "No. of lens ---"
+ },
+ "kilakkarai-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Brushless DC motor gearle",
+   "rpm:4.0"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Size Height: 915, mm Dia: 415 mm,",
+  "make": "Tideland Signal Corporation-Maxlumina",
+  "size": "Height: 915, mm Dia: 415 mm,"
+ },
+ "dhanushkodi-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:3 RPM",
+   "revolving",
+   "pedestal:Mercury float"
+  ],
+  "flash": [],
+  "typ": "Revolving",
+  "make": "BBT",
+  "size": "250 mm"
+ },
+ "valiazheekal-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Revolving beacon",
+  "make": "Marine Navidas and Solar Auto PVT,LTD",
+  "size": "No. of LED Panels 6"
+ },
+ "vembar-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Inbuilt stepper motor",
+   "rpm:6",
+   "revolving"
+  ],
+  "flash": [],
+  "typ": "Rotating Beacon",
+  "make": "Pharos Marine",
+  "size": "500mm"
+ },
+ "kovilthottam-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": "Size 250mm 4th order Fixed",
+  "make": "BBT",
+  "size": "250mm 4th order Fixed"
+ },
+ "thangasseripoint-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:2no\u2019s Steppermotor 40Kg -",
+   "rpm:4RPM",
+   "revolving",
+   "pedestal:Mercuryfloat(89"
+  ],
+  "flash": [],
+  "typ": "2rdOrder",
+  "make": "M/S CHANCEBros.&Co.",
+  "size": "700mm"
+ },
+ "pandiyan-tivu-lighthouse-and-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:20 kg/cm Stepper motor",
+   "rpm:3"
+  ],
+  "flash": [],
+  "typ": "3rd order small",
+  "make": "J.Stone & Co.",
+  "size": "375mm"
+ },
+ "anjengo-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor (40 Kg cm)",
+   "rpm:3",
+   "revolving"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Revolving Beacon",
+  "make": "M/s Tideland Signal",
+  "size": "220mm"
+ },
+ "vizhinjam-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Dual Stepper motor(20 Kg ",
+   "rpm:4/3 RPM",
+   "revolving",
+   "pedestal:Mercury float"
+  ],
+  "flash": [],
+  "typ": "Size 500mm / 3rd Order Large",
+  "make": "BBT",
+  "size": "500mm / 3rd Order Large"
+ },
+ "manapad-point-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:40 kg/sq.cm Stepper Motor",
+   "rpm:6 RPM",
+   "revolving",
+   "pedestal:Mercury Float ("
+  ],
+  "flash": [],
+  "typ": "Revolving Optic",
+  "make": "Chance Bros",
+  "size": "500mm"
+ },
+ "minicoy-north-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED",
+  "make": "MBL-160 Marine Flasher",
+  "size": null
+ },
+ "minicoy-south-lighthouse-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:4/3 RPM",
+   "revolving",
+   "pedestal:Mercury float"
+  ],
+  "flash": [],
+  "typ": "Size 920mm (1ST Order) Revolving",
+  "make": "B.B.T, Paris",
+  "size": "920mm (1ST Order) Revolving"
+ },
+ "kuthenkuli-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:20KG Stepper motor with D",
+   "rpm:1.5",
+   "pedestal:Rotation Device"
+  ],
+  "flash": [],
+  "typ": "Size 150mm",
+  "make": "Aga",
+  "size": "150mm"
+ },
+ "muttom-point-lighthouse-and-navtex-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Inbuilt stepper motor wit",
+   "rpm:3 R PM",
+   "pedestal:Mercury Float t"
+  ],
+  "flash": [],
+  "typ": "Size 700 mm",
+  "make": "M/s Chance Brothers",
+  "size": "700 mm"
+ },
+ "kanyakumari-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:stepper motor with drive",
+   "rpm:1.5 r.p.m"
+  ],
+  "flash": [],
+  "typ": "Size 375 mm",
+  "make": "M/s BBT Ltd Paris",
+  "size": "375 mm"
+ },
+ "sagar-island-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rpm:7"
+  ],
+  "flash": [],
+  "typ": null,
+  "make": "Chance Brothers, Birmingham, England",
+  "size": "4'h order (focal length 250mm)"
+ },
+ "east-island-lighthouse-and-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:1.333",
+   "pedestal:Mercury float"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Size 920mm",
+  "make": "BBT",
+  "size": "920mm"
+ },
+ "narcondum-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "port-cornwallis": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "aves-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "interview-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "north-button-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "middle-button-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "south-button-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "strait-island-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "LMV",
+  "size": "250mm"
+ },
+ "wilson-island-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "LMV",
+  "size": "250mm"
+ },
+ "andaman-strait-eastern-entrance-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "petrie-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "sir-hugh-rose-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": null,
+  "make": null,
+  "size": null
+ },
+ "north-point-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Stepper motor",
+   "rpm:2.5",
+   "pedestal:Mercury float"
+  ],
+  "flash": [],
+  "typ": "Size 300 mm",
+  "make": "BBT",
+  "size": "300 mm"
+ },
+ "chidiyatapu-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": null,
+  "make": null,
+  "size": null
+ },
+ "rutland-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "north-cinque-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "sister-island-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "north-brother-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "south-sentinel-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": null,
+  "make": null,
+  "size": null
+ },
+ "little-andaman-lighthouse": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Motor drive- 3Ph, electro",
+   "revolving"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Rotating Beacon",
+  "make": "Vega",
+  "size": "No. of lens -"
+ },
+ "keating-point-lighthouse-and-dgps-station": {
+  "cls": "revolving",
+  "rot": [
+   "rotdev:Motor drive- 3Ph, electro",
+   "revolving"
+  ],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "Rotating Beacon",
+  "make": "Vega",
+  "size": "No. of lens -"
+ },
+ "battimalv-lighthouse": {
+  "cls": "UNKNOWN",
+  "rot": [],
+  "flash": [],
+  "typ": null,
+  "make": null,
+  "size": null
+ },
+ "tillanchang-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "chowra-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "bampoka-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "katchal-east-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sabik Carmanah",
+  "size": "171mm"
+ },
+ "cape-cannaught-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "katchal-west-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "tries-island-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "pulo-milow-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "menchal-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "kabra-island-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "koltapalm-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "rosen-point-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ },
+ "indira-point-lighthouse": {
+  "cls": "flasher",
+  "rot": [],
+  "flash": [
+   "flasher"
+  ],
+  "typ": "LED Flasher",
+  "make": "Sealite",
+  "size": "171mm"
+ }
+}

@@ -1,0 +1,76 @@
+{
+  "nid": 2021,
+  "title": "Intermediate Drydock and Aflaot Repairs of Tender Vessel",
+  "summary": "GeM BOQ bid (BOQ title 'Intermediate refit') for intermediate dry-dock and afloat repairs of a DGLL tender vessel, organised by the Directorate General of Lighthouses and Lightships, Noida, with items grouped as Groups A-D and overboard valves.",
+  "category": "vessels & vehicles",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/6678763",
+    "issuing_office": "Directorate General of Lighthouses and Lightships, Noida"
+  },
+  "scope_level": "national",
+  "sites": [
+    {"name": "Directorate General of Lighthouses and Lightships, Deep Bhawan, A-13, Sector-24, Noida", "station_id": null, "kind": "office", "work": "Consignee/reporting office for all BOQ groups"}
+  ],
+  "scope": [
+    {"item": "Group A 1", "qty": "1", "unit": null, "site": null},
+    {"item": "Group A 2", "qty": "10", "unit": null, "site": null},
+    {"item": "Group A 3", "qty": "5", "unit": null, "site": null},
+    {"item": "Group A 4", "qty": "2", "unit": null, "site": null},
+    {"item": "Group A 5", "qty": "10", "unit": null, "site": null},
+    {"item": "Group A 6", "qty": "1000", "unit": null, "site": null},
+    {"item": "Group A 7", "qty": "10", "unit": null, "site": null},
+    {"item": "Group A 8", "qty": "100", "unit": null, "site": null},
+    {"item": "Group A 9", "qty": "1", "unit": null, "site": null},
+    {"item": "Group A 10", "qty": "1", "unit": null, "site": null},
+    {"item": "Group B 1", "qty": "2000", "unit": null, "site": null},
+    {"item": "Group B 2", "qty": "3500", "unit": null, "site": null},
+    {"item": "Group B 3", "qty": "5", "unit": null, "site": null},
+    {"item": "Group B 4", "qty": "26", "unit": null, "site": null},
+    {"item": "Group B 5", "qty": "4", "unit": null, "site": null},
+    {"item": "Group B 6", "qty": "3", "unit": null, "site": null},
+    {"item": "Group B 7", "qty": "6", "unit": null, "site": null},
+    {"item": "Group B 8", "qty": "300", "unit": null, "site": null},
+    {"item": "Group B 9", "qty": "150", "unit": null, "site": null},
+    {"item": "Group B 10", "qty": "2", "unit": null, "site": null},
+    {"item": "Group B 11", "qty": "2", "unit": null, "site": null},
+    {"item": "Group C1", "qty": "2", "unit": null, "site": null},
+    {"item": "Group C2", "qty": "2", "unit": null, "site": null},
+    {"item": "Group C3", "qty": "1", "unit": null, "site": null},
+    {"item": "Group D1", "qty": "1", "unit": null, "site": null},
+    {"item": "Group D2", "qty": "1", "unit": null, "site": null},
+    {"item": "Group D3", "qty": "2", "unit": null, "site": null},
+    {"item": "Group D4", "qty": "2", "unit": null, "site": null},
+    {"item": "Group D5 to Group D19 (15 groups)", "qty": "1 each", "unit": null, "site": null},
+    {"item": "Overboard Valves 1", "qty": "2", "unit": null, "site": null},
+    {"item": "Overboard Valves 2", "qty": "2", "unit": null, "site": null},
+    {"item": "Overboard Valves 3 to Overboard Valves 14 (12 groups)", "qty": "1 each", "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 9409365.0,
+    "emd_inr": 470000.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 12 months",
+    "notes": "Estimated bid value per GeM (for guidance only). EMD advisory bank SBI; beneficiary PAO, LHLS Noida; MSE manufacturer/service provider EMD exemption per GeM GTC. MII and MSE purchase preference enabled."
+  },
+  "period": {"completion": "16 days delivery period per consignee schedule", "bid_validity": "90 days from bid end date", "warranty": null},
+  "dates": {"published": "2025-09-12", "pre_bid": "2025-09-24", "bid_submission_end": "2025-10-06", "bid_opening": "2025-10-06"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 47 lakh; OEM average turnover: Rs 200 lakh",
+    "3 years past experience for same/similar service",
+    "Past performance: 80% of bid quantity in one of last three financial years",
+    "MSE exemption from experience and turnover: Yes; startup exemption: No",
+    "Documents: experience, past performance, turnover, OEM authorization, OEM turnover, ATC certificates, BoQ specification compliance; financial document required"
+  ],
+  "specs": [
+    "Relevant GeM categories for notification: Out Board Motor for Rescue Boats (Marine propellers); Marine paints; Standard Storage Container or Cargo or Container Ships (V2)",
+    "Detailed BOQ/specification and buyer ATC in attached files (not included in this PDF)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM-Bidding-8345728.pdf", "pages": 37, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "GeM bid dated 12-09-2025; bid end 06-10-2025 18:00, opening 18:30; pre-bid 24-09-2025 15:00 at Deep Bhawan, Noida. The tender vessel is not named, and BOQ group descriptions (Group A1...D19, overboard valves) are not printed in the bid document, so scope is limited to group labels and quantities (total quantity 7180). Two-packet bid, total-value-wise evaluation, no reverse auction. Filename number 8345728 does not match bid number GEM/2025/B/6678763. Consignee officer's personal name omitted. Listing has no bid opening date."
+}

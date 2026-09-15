@@ -1,0 +1,228 @@
+                   मास्टरलेजर /MASTER LEDGER
+
+ हजीरा दीपस्तंभ (सुवाली पॉइंट)Hazira Lighthouse & DGPS station (Suvali Point)
+क्रमसंख्या/
+   Sr.No            नाम /Name                                   वििरण/Discription
+     1         ए.एल.ओ.एल/A.L.O.L.                                    F 0476
+    2             स्थान/Position                                Lat. 210 05.53’ N
+                                                                Long. 720 38.55’ E
+    3             ऊंचाई/Elevation                                      39m
+    4         अभिलक्षण/Characteristic   Fl (3)W 15 Sec. (fl. 0.4, ec. 2.10)(fl. 0.4,ec.2.10) (fl 0.4, ec. 9.60)
+    5           नॉटिकलमाइलमेदरू ी                    24 NM
+                  Range in miles
+    6         दीपस्तंििािर/L.H.Tower               Type                   Circular Stone Masonry Tower
+                                                   Height                               25 m
+                                              Colour Scheme                             White
+    7            ऑप्टिकलउपकरण                     Optic                               4th Order
+                 Optical equipment
+                                                  Make                                  B.B.T
+                                                  Type                                Revolving
+                                                  Size                                 250 mm
+                                                No. of lens              6 (2 Tier of 3 Panels each of 600 )
+
+                                          Area of dioptric portion         402 cm2 (Corrected area 286
+
+                                                                                       sq.cm)
+
+                                            Area of catadioptric          1182 cm2 (Corrected area 981
+                                                  portion                           sq.cm)
+                                               Divergence                  12. 54 (Horizontal) & 9.120
+                                                                                 0
+
+                                             Main/Emergency                        (Vertical)
+                                                                         MH Lamps, Philips 220V/150Wx3
+                                            Duration of Flash
+                                        Main /Standby/Emergency              0.4 Sec.
+                                              Lamp changer                       NA
+                                                 Pedestal        Mercury float ( 22.325 Kg in use)
+                                             Rotation Device    Dual Stepper Motor 40 Kgcm with
+                                                                auto changeover Clock machine
+                                                                with hand Winding is kept as
+                                                                Standby
+                                                  R.P.M.                          2
+                                                Illumining
+                                                         Main                    3x150 W Metal Halide Lamp
+                                                                                          Cluster
+                                                       Standby                              NA
+                                                     Emergency:                             NA
+                                                  Date of Installation                  01-06-1966
+8    प्रिािीबीमतीव्रता/Effective beam              Main & Standby                        72054 cd
+                intensity
+                                                     Emergency                               -
+9              लेंिनन/Lantern                         Diameter                             2 m
+                                                   Height of glazing                      1.07 m
+                                                    No. of panes                             8
+                                                     Ventilators                             7
+
+
+
+10                RACON                                 Sr. No.                       ALORS 78980
+           Make                 Model                   Code                       Band          Date of
+                                                                                               Installation
+           Tideland        Sea beacon                        K                   X+S Band     6th May-2005
+      (frequency Agile)    2 System 6
+11                                                    NAIS
+               Base Station                 R40 Base Station AIS-1, AIS-2 , Satellite Modem & 8 Port
+                                            Network Switch
+
+         Model         Type                       Power                     MMSI
+         R 40         Class A                     12.5 W                   4192222
+     Communication 02Nos GPS Antenna
+       Equipment    02Nos VHF Antenna
+
+     VSAT Antenna           Band                 Modem
+        2.4m dia          Ex-C band          Datum Systems
+        Parabolic                              PSM-500L
+        reflector                            Satellite Modem
+         DGPS
+       Trasmitter         Frequency          Power           RS 1      RS –II   Beacon    Date of  Date of
+         Make                                Output           ID        ID        ID     commissi Recapit
+                                                                                           oning  alization
+         Nautal            314 Khz          500 Watts        408         409     104      March-  25.02.20
+                                                                                           2004       20
+
+12    ऊर्ानकेसाधन/                       Mains                             DGVCL, 415V AC, 3 Phase, 50Hz
+                                        Standby                               Diesel Generator-02 Nos
+       Source of
+        energy                                                     Engine 1
+                                Make/Type             Qty           Rating     No of        RPM       Cooling
+                                                                              Cylinder
+                           Kirloskar /HA494             01          43BHP        04         1500        Air
+                                                                                                      Cooling
+                                                                   Alternator
+                            Make/Type               Qty            Rating     Voltage/A        Frequenc          Phase
+                                                                                 mp                y
+                        Kirloskar/ GIR.F.160         01            35KVA,     415V/49A           50Hz               3ø
+                                                                                 mp
+                                                                   Engine 2
+                            Make/Type               Qty            Rating         No of          RPM             Cooling
+                                                                                 Cylinder
+                         Kirloskar /HA494            01            43BHP            04           1500              Air
+                                                                                                                 Cooling
+                                                                   Alternator
+                            Make/Type               Qty             Rating    Voltage/A        Frequenc          Phase
+                                                                                 mp                y
+                        Kirloskar/ GIR.F.160         01            35KVA,     415V/49A           50Hz               3ø
+                                                                                 mp
+                                     Solar Plant
+                           Capacity PV           Numbers                        Type            Battery            Bank
+                           17.5V/200W              03                           Mono            03Nos                -
+                                                                              Crystalline      12V/150A
+                                                                                                  H
+                             Solar Plant for Main RACON
+                           Capacity PV             Numbers                        Type          Battery            Bank
+                            17V/75W                  01                          TBP1275         01No                -
+                                                                                               12V/100A
+                                                                                                   H
+13                                    स्वचाललतवोल्टे जस्टे बलाइजर
+                                      Automatic Voltage Stabilizers
+
+                Make                 Model          Capacity             Input              Output         Phase     Qty
+     Precious Power technologies
+          Pvt.LtdHyderabad           IS-9815        15KVA             170V -270V          230V AC           1ø       03N
+           Servomax Type                                                 AC                ± 1%                       os
+14                                                 बैिरर
+                                                  Batteries
+        Equpment           Type          Make             Volt                   Amp/Hr              Qty
+        PSS NAIS             -              -               -                       -                 -
+         Genset-I        Lead Acid       Exide            12 V                   180 AH              01
+        Genset-II        Lead Acid       Relicell         12 V                   150 AH              01
+                            MF
+       Automation        Lead Acid          Exide              12 V               26 AH        8+2 = 10
+                            MF
+          DGPS           SMF VRLA        Amaron           12 V                    42 AH        16+6 = 22
+                                         Quanta
+15                                      बैिररचार्नर/ Battery charger
+
+        Equipment           Make      Mode                Type                    Rating             Qty
+                                        l
+     General Purpose    Logic Control  -                       -                 10Amps              01
+       Automation            Powerex          -                   -                15Amps            01
+                              Eng.
+16                                                इंवटट रInverter /UPS
+     Equipme     Nos       Make     Model            Type         Rating             Qty          input       output
+        nt
+       Main       03       Exide   850 DSP           Pure             850 VA          03        12 V DC       230V
+      Light                        PST UPS           Sine                                          &           AC
+                                      (M)            Wave                                       230V AC
+     NAIS PSS     02       APC      1. SRC          On-Line       1000 VA              2        12 V DC      230 AC
+                                    1KI.IN                                                         &
+                                   2. Smart                                                      230 AC
+                                   UPS RC
+                                     1000
+      DGPS        02       APC     SRC10K           On Line           10KVA           01        192V DC/      230V
+                                      UXI                                                       230V AC        AC
+
+                                   SRC3KU           On Line           3KVA            01        72V DC/
+                                   X                                                            230V AC       230V
+                                                                                                               AC
+17                                        स्वचलनउपकरण
+                                      Automation Equipment
+      MAKE             PLC       HMI        Power Supply     VSAT        Modem                              Band
+      Nelco      Telemecanique Schneider       24V DC     1.8 mtrs dia SkyEdg                             Ex-C band
+                                                           Parabolic       e
+                                                            reflector
+18        आप्ननशमनउपकरण              Type of Extinguisher    Capacity       Nos                              Make
+         Fire Fighting Equipment         1.D.C.P Type      3.2 Kg.  Cap.     03                             Bharat
+                                                            1 Kg. Cap.       02                           Chandrakan
+                                                                                                            t & Co.
+                                                                             9 Liters Cap.      01           Zenith
+                                                   2. CO2 Type                5 Kg. Cap.        02           Safex
+
+19              संचार                         BSNL Telephone with fax machine                haziralighthouse@gm
+                                                  Tel.No. 0261- 2870761                              ail.com
+             Communication
+
+
+20               र्लपूर्तन                        (i)        A Submersible pump 2 HP/1 phase Crompton
+                                                             Greaves Installed in Open Well inside Lighthouse
+               Water Supply
+                                                             premises & water is pumped to R.C.C over head tank
+                                                             & running water is provided to all Quarters.
+21                िूभम                                     Area                          1.70 Hectare
+                  Land                                  Demarcation            C.C. Block Masonry Compound Wall
+
+                                             No. of Fruit Trees                                 130
+                                            No. of non-fruit Trees                              155
+22               इमारतें                          Quarters                     Inspection Quarter, One unit of A.E(E)
+                                                                               Qtrs, Fourunit of Navigational
+              Buildings                                           Assistant Qtrs, One unit of LHA and
+                                                                  one unit of Safaiwala Qtrs,
+                                            Other Buildings       Powerhouse, Pump house, Office,
+                                                                  Store Room, ATU Room
+23         कंपाउं डलाइि              10Nos G.I. Pipe poles are fitted with 12Nos LED Street Light
+                                     fitting, 03Nos LED Street Light fitting mounted on wall, 04Nos
+         Compound Lights
+                                     Gate light and 05Nos Dome Light with G.I Pipe
+24         सीसीिीिीकमेरा                                Camera                                -
+           CCTV CAMERA                                   DVR                                  -
+25             स्िाफ                   Sl. No                           Designations
+                Staff                     1                       A.E(E)                           -1
+                                                                          (Vacant)
+                                          2                  Navigational Assistant Gr-I     -1
+                                          3                  Navigational Assistant Gr-II    -1
+                                          4                  Navigational Assistant Gr-III   -2
+                                          5                  LHA                             -1
+                                          6                      Safaiwala                         -1
+                                                                          (Vacant)
+                                         7
+26        पहुँ चनेकामाध्यम             By Rail upto Surat then 35 Kms. By bus upto Lighthouse from
+                                                          Adajan S.T Depot, Surat
+         Mode of approach
+27        उपलब्धसविधाए               Marine Police Station               2 Kms far from LH
+         Facilities available             Dispensary             Hazira Gam (Shell Company) ½ Kms
+                                         High School             Gujarati medium High School ½ Kms
+                                                                    ONGC Central School 30 Kms
+                                         Post office                           ½ Kms
+                                        Police Station           08 Kms far from Lighthouse at Essar
+                                                                             Gate, Hazira
+28    डाकपताPostal address           Assistant Engineer (E)
+                                     Hazira Lighthouse & DGPS Station
+                                     P.O. Hazira, Ta: Choryasi, Dist. Surat, Gujarat, Pin-394270
+29    मूल्यकाब्योराCost details
+                                                             Rs. 2,70,200 F.O.R
+     (At the time of Construction)
+30      प्रितननमेलानेकादे नांक
+                                                                  01.06.1966
+       Date of commissioning
+

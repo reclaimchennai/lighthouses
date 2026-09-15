@@ -1,0 +1,47 @@
+{
+  "slug": "portonovo-lighthouse-and-navtex-station",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Portonovo Lighthouse and NAVTEX Station",
+  "station_type": "lighthouse",
+  "established_year": 1980,
+  "alol": "F 0919",
+  "position": {"lat_text": "11° 30' 15\" N", "lon_text": "79° 46' 12\" E", "lat": 11.504167, "lon": 79.77},
+  "elevation_m": 32.99,
+  "characteristic_text": "Single FL.W. every 15 Sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 25.7, "geographical_nm": null, "text": "25.7 NM (unlabelled range)"},
+  "tower": {"type": "Circular tower", "height_m": 30, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "MBR-300 (Acrylic Fresnel Lancer)", "model": "MBR-300", "type": "Rotating Beacon", "size": "L - 847 mm / B - 312.8 mm", "order": null,
+    "panels": 6,
+    "rotation_device": "In built DC Motor",
+    "rpm": 4,
+    "rotates": true,
+    "rotates_evidence": "Type: Rotating Beacon; Rotation Device: In built DC Motor; R.P.M. 4",
+    "divergence_horizontal_deg": 9.8,
+    "divergence_vertical_deg": 9.4,
+    "divergence_text": "9.8° (Horizontal), 9.4° (Vertical)",
+    "illuminant": "150 Watts / 230 V Single end CDMT Lamp"
+  },
+  "intensity_cd": 103000,
+  "racon": {"present": true, "code": "B", "text": "Sr. No 090069; Tide Land, Sea Beacon 2; Code B; (X+S Band); installed 05-06-2013"},
+  "ais": {"present": true, "text": "2 Nos AIS1 & AIS2; R40, Class A; AC-230V & DC-12V; MMSI 88"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "3Ø Supply/440V; DG Set 20 KVA Pinnacle (2 engines 26 HP); 25 KWp on-grid solar (93 panels); RACON solar 80W"},
+  "issues": [
+    "Duration of Flash given as '15 Sec', same as the period; not transcribed as flash_duration_s",
+    "Intensity printed as '10,3000 Cdls' (irregular digit grouping), read as 103000",
+    "NAIS MMSI printed as '88' (implausible)",
+    "6 lenses at 4 RPM does not match a single flash every 15 s unless panels are blanked; not stated",
+    "Emergency light: Halogen Lamp 100 watts / 12 V DC (Drum Optic)"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "navlakhi-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Navlakhi Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1910,
+  "alol": "F 0370",
+  "position": {"lat_text": "22.961° N", "lon_text": "70.4439° E", "lat": 22.961, "lon": 70.4439},
+  "elevation_m": 31,
+  "characteristic_text": "Fl (W) 10Sec. (1 + 9 = 10Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "1 + 9 = 10Sec",
+    "sequence_s": [1, 9],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 12, "geographical_nm": null, "text": "Luminous 12NM; visibility sector 360º"},
+  "tower": {"type": "Circular RCC tower", "height_m": 30, "colour_scheme": "White and red Alternate Horizontal bands"},
+  "optic": {
+    "make": "Advance Navigation and Solar Technologies, New Delhi", "model": "MLB-200-13", "type": "12NM marine LED lantern (LED Flasher)", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type of Light (LED Flasher); Lantern: 12NM MLB-200-13 marine LED lantern",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High intensity LED"
+  },
+  "intensity_cd": null,
+  "racon": {"present": true, "code": "B", "text": "Seabeacon2 system 6 Tideland Racon; Tideland Signal, Texas; S.No. 6269; Chassis No. 263; Code “B” (As per advertised in ALOL)"},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "02 nos 12V/75W solar modules (JJ PV Solar); SMF 12V/100AH Exide battery; Sukam 20A charge controller"},
+  "issues": [
+    "Characteristic Fl (W) 10Sec (1 + 9) conflicts with lantern character '3fl (W) every 10Sec {(0.5+1.5)2+0.5+5.5=10Sec.}'",
+    "Year of Establishment '1910 and re-established in 2012'",
+    "Page footer reads 'Page 2 of 8' but PDF has only 2 pages"
+  ]
+}

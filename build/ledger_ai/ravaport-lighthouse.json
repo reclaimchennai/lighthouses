@@ -1,0 +1,41 @@
+{
+  "slug": "ravaport-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Rava Port Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2013,
+  "alol": "0952.5",
+  "position": {"lat_text": "16° 29' 60\" N", "lon_text": "82° 16' 05\" E", "lat": 16.5, "lon": 82.268056},
+  "elevation_m": 32.5,
+  "characteristic_text": "4 FL (W) every 20Seconds (Fl 1sec+2sec ec+ Fl 1sec+2sec ec+ Fl 1sec+2s ec + Fl 1sec+10sec ec)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 4,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "Fl 1sec+2sec ec+ Fl 1sec+2sec ec+ Fl 1sec+2s ec + Fl 1sec+10sec ec",
+    "sequence_s": [1, 2, 1, 2, 1, 2, 1, 10],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 15, "geographical_nm": 12, "text": "Luminous 15 NM, Geographical 12 NM"},
+  "tower": {"type": "Circular FRP Tower", "height_m": 30, "colour_scheme": "White"},
+  "optic": {
+    "make": "M/s. Aero marine", "model": "SL-155", "type": "LED Light Beacon", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Light Beacon (flashing): LED Light Beacon SL-155 on 1.2m G.I pedestal; no rotation device listed",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "18 W LED Light (Sea lite make SL155)"
+  },
+  "intensity_cd": 9000,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APEPDCL mains single phase 220 V AC; 3KW off-grid solar for main light; one canopy type Kirloskar DG (10 KVA) with 12.5 KVA alternator"},
+  "issues": ["Latitude printed 16° 29' 60\" N - seconds value 60 is not < 60", "Beacon make given as 'M/s. Aero marine' but illuminant says 'Sea lite make SL155'", "Estd.2013 in header but year of first light commissioned 27-12-2014", "ALOL printed '0952.5' without letter prefix"]
+}

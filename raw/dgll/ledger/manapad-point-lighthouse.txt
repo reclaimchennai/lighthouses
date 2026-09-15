@@ -1,0 +1,185 @@
+                                    मास्टर लेज़र/MASTER LEDGER
+                      मणप्पाड प्वाइटं दीपस्तंभ/Manapad Point Lighthouse
+क्रमसं               नाम /Name
+                                                                             वििरण/Discription
+ख्या/
+Sr.No
+  1      ए.एल.ओ.एल/A.L.O.L.               F 0730
+  2      स्थान/Position                   Lat : 8°22’.3” N
+                                          Lon : 78°03’9” E
+
+  3      ऊंचाई/Elevation                  45M
+  4      अभिलक्षण/Characteristic          Group Flash 2(White)every 10Sec’s
+                                          (F1: 0.187+sec.2.376+F1:0.187+sec.7.250)
+  5      नॉटिकलमाइलमेदरू ी                Luminous : 26 NM
+                                          Luminous : 18 NM
+         Range in miles
+  6      दीपस्तंििािर/L.H.Tower           Type                           Masonary Tower
+                                          Height                         18 M
+                                          Colour Scheme                  Red & White Spiral Bands (diagonal strips)
+  7      ऑप्टिकलउपकरण                     Optic                          3rd Order Large (F.D 500mm)
+                                          Make                           Chance Bros
+         Optical equipment
+                                          Type                           Revolving Optic
+                                          Size                           500mm
+                                          No. of lens                    2
+                                          Area of dioptric portion
+                                          Area of catadioptric portion
+                                          Divergence                     Horizontal : 6o44’
+                                                                         Vertical : 6o16’
+                                          Duration of Flash              (F1: 0.187+sec.2.376+F1:0.187+sec.7.250)
+                                          Main /Standby/Emergency
+                                          Pedestal                       Mercury Float (93.2 Kgs. In use)
+                                          Rotation Device                40 kg/sq.cm Stepper Motor with Drive
+                                                                         controller.
+
+                                          R.P.M.                         6 RPM
+                                          illumining                     Cluster of 3x150w,230v, MH Lamp
+                                          Main                           Cluster/ Single ended (3No’s)
+                                          Standby                        -
+                                          Emergency:                     -
+                                          Date of Installation           Dec - 2013
+         गिट्टी गववरण / Ballast Details
+                                          No. of Ballast & Make          3 No’s & Kwik lite
+                                          Wattage of Ballast             150W
+  8                                       Main                           3,36,294 Cdls
+     प्रिािीबीमतीव्रता/Effective beam         Emergency                         -
+     intensity
+9    लेंिनन/Lantern                           Diameter                          3.65M
+                                              Height of glazing                 1.54M
+                                              No. of panes                      32 Glass panes in 2 tiers
+                                              Ventilators                       14 No’s
+10   RACON                                         Sr. No
+     Make                   Model /           Code                              Band                          Date of Installation
+                            SL.No
+     Pharos Marine          S.No: II-X-       G-Code                            X-Band                        Sep - 2016
+     Automation power       201607-04
+     PMAPI RACON
+11   NAIS
+     Base Station
+
+     Model                  Type              Power                             MMSI
+     SAAB-R-40 AIS Base
+     station
+     Communication
+     Equipment
+     VSAT Antenna           Band              Modem
+       2.4m dia             EX-C              Datum-Psm-Modem
+       Parabolic
+       reflector
+     DGPS
+     Transmitter Make       Frequency         Power Output            RS 1 ID   RS -II     Beacon             Date of  Date of
+                                                                                ID         ID                 commissi Recapitalization
+                                                                                                              oning
+               -                     -                  -                  -        -             -               -              -
+
+12   ऊर्ानकेसाधन/Source     Mains                                               Tamilnadu electricity board
+     of energy              Power Source                                        3 phase /440V AC supply
+                            Engine 1       (S.No 02-8301/1522414 )
+                            Make/Type                 Qty     Rating            No of             RPM                 Cooling
+                                                                                Cylinder
+                            KOEL                            1         20 HP     2                 1500                Air
+                            Alternator ( S.No: CS1S115GPO96644 )
+                            Make/Type                Qty   Rating               Voltage/Amp       Frequency           Phase
+                            KOEL                            1         15 KVA    230 V             50 Hz               3 Phase
+                            Engine 2              Nil                                            (NIL)
+                            Make/Type                       Qty       Rating    No of             RPM                 Cooling
+                                                                                Cylinder
+
+                            ON Grid Solar Plant
+                            Capacity PV                     Numbers             Type          Battery                 Bank
+                            25 KWH (36 V/250 W)             100 Nos             Zytech                    -                          -
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                  Model              Capa          Input               Output                   Phase        Qty
+                                              city
+          ITL                    Servo                 7.5       180-270 V               230 V             1 phase        1 No
+                                 controlled            KVA
+          Globus                 Servo                 7.5       170-270 V               230 V             1 phase        1 No
+                                 controlled            KVA
+14        बैिरर
+          Batteries
+          Equipment              Type                  Make        Volt                  Amp/Hr     Qty
+          Genset                         SMF            Exide             12 V             90                1
+          Light Beacon                   SMF            Exide             12 V            150                4
+          Stepper Motor                  SMF            Exide             12 V            150                1
+          RACON                          SMF            Exide             12 V            100                1
+     15   बैिररचार्नर/ Battery charger
+
+          Equipment              Make                  Model Type                        Rating     Qty
+          General Purpose        Associate             -     -                           0-50 V/    1 No
+                                 engineer                                                50 A
+
+     16   इंििन रInverter /UPS
+          Equipment Nos          Make          Model                          Type       Rating      Qty     input          output
+             UPS            3     UTL                      -                         -   1000/800     3        12V DC            230V AC
+                                                                                             W
+                UPS        1     LUMIN                     -                         -    850W         1         12V DC          230V AC
+                                  OUS
+     17   स्िचलनउपकरण
+          Automation Equipment
+          MAKE        PLC                  HMI                 Power Supply     VSAT                Modem        Band
+          RDS         Allen Bradley        Renu                24 V DC          1.8 m dia           Hughes       EX.C
+                                           electronics                          Parabolic
+                                                                                reflector
+     18   आप्ननशमनउपकरण                                Type of Extinguisher     Capacity             Nos      Make
+          Fire Fighting Equipment                      DCP Type                 6 kg                 1        Intime
+                                                       Co2                      2 Kg                 3        Intime
+                                                       Co2                      4.5 Ltr              4        Intime
+     19   संचार                                        BSNL telephone with Broad Band facility      04639-210629
+          Communication
+     20   र्लपर्ू तन                                   Open Well with 7.5 HP Three phase centrifugal pump. Water is pumped
+                                                       into RCC overhead tank of 7000 litres capacity.
+          Water Supply
+                                                       Water sump available for rain storage :-
+
+                                                       Single phase Mono block pump (1HP) connected for emergency
+                                                       storage in 2 no’s of 1000 Litres PVC O/H Tanks provided in office &
+                                                       Inspection Quarter’s
+     21   िभू म                                        Area                                 3.730 hectares
+          Land                                         Demarcation                                  Not Available
+
+     22   इमारतें                                      RCC Structure: 04 Nos                        Power House-cum Office room,
+          Buildings                                                                                 Inspection quarters, LHA and LHS
+                                                                                                    quarters
+                                                       Lime stone Structure: 03 Nos                  NA-I, NA-II and NA-III quarters
+23   कंपाउं डलाइि                        LED Light fitted on G.I Pole-07 Nos
+                                         Gate light- 2 Nos
+     Compound Lights
+24   सीसीिीिीकमेरा                       NIL
+      CCTV CAMERA
+25   स्िाफ                               Sl. No         Designations
+     Staff                               1            Navigational Assistant Gr-I – 1 No
+                                         2            Navigational Assistant Gr-II – 1 No
+                                         3            Outsorced staff - 6 Nos
+26   पहुँचनेकामाध्यम                     Nearby Railway station is Thiruchendur,
+     Mode of approach                    Nearest airport is Thoothukudi Airport,
+                                         from Thiruchendur to Manapad by road about 18 KM
+                                         From Thoothukudi to Manapad by road about 58 KM
+27   उपलब्धसविधाए                        The nearest Post office local panchayat office, High School and Dispensary at
+     Facilities available                Manapad, Police Station are available at Kulasekarapattinam.
+
+
+28   डाकपताPostal address                The Navigational Assistant Gr-I
+                                         Manapad Lighthouse,
+                                         Manapad post,
+                                         Thiruchendur Taluk
+                                         Thoothukudi District, Tamilnadu-628209
+29   मल्ू यकाब्योराCost details          Not known
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक               1888
+     Date of commissioning
+     कोई अन्य महत्वपण
+                    ू ण जानकारी
+     Any other important information:
+                                        Static sensor equipment’s & RADAR installed in 2012 by M/s.
+                                        BEL of Indian Coast Guard in a separate Trestle tower.
+                                        Separate Power room is constructed by M/s. BEL for keeping the
+                                        Power supply related equipment’s.
+                                        Separate 30 KVA/ 3Phase 440V – Gen-set is provided for
+                                        Standby power supply.
+                                        V SAT Dish and Fiber optic cable leased line with Modem
+                                        facility provided for remote monitoring by the control
+                                        Stations.
+

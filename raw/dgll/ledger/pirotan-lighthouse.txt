@@ -1,0 +1,172 @@
+               मास्टर लेजर/ MASTER LEDGER
+ क्रम                नाम /Name
+संख्या/                                                        वििरण/ Discription
+Sr.No
+    1.    ए.एल.ओ.एल/A.L.O.L.               F 0380
+    2.    स्थान/Position
+                                           Lat 22º 36.2' N,
+                                           Long 69º 57.1' E
+    3.    ऊंचाई/Elevation                  26 M
+          अविलक्षण/Characteristic
+    4.                                     Fl W 20 sec. (0.4+19.6 = 20 sec.)
+          नॉविकल माइल मे दू री
+    5.                                      i) Luminous           : 24NM at T=0.74
+          Range in miles
+                                            ii) Geographical      :12NM
+          दीपस्तं ि िािर/L.H.Tower
+    6.                                     Type : Circular masonry tower
+                                           Height : 24M
+                                           Colour Scheme: Black              and     White
+                                           alternate horizontal bands
+               ऑप्टिकल उपकरण
+    7.                                     Make         : Stone Chance
+          Optical Equipment:-
+                                           Size         : 500 mm (3rd order large)
+                                           revolving type
+                                           No. of panels : 2 (of 180º)
+                                           Area of dioptric portion: 2240 sq. cm (corrected
+                                           area 1970 sq. cm)
+                                           Area of catadioptric portion: 19.700 sq cm
+                                           (corrected area 15362 sq. cm)
+                                           Divergence Main: 12º 35.99'(Horizontal.)&8º
+                                           14.83’ (Vertical)
+                                           Duration of flash : 0.7 Second
+                                           Pedestal: Mercury float
+                                           Rotation device: : Direct drive by electrically
+                                           operated Stepper Motor, Hand wound clock
+                                           wise machine- standby
+                                           R.P.M.: 3
+                                           Illuminant Main: Clustered three 230V, 70 W
+                                           Metal halide lamps
+
+          प्रिािी बीम तीव्रता/ Effective
+    8.
+          beam intensity
+                                           46,0194 Candela
+
+    9.    Lantern                          Diameter: 2.50 m
+                                           Height of glazing: 1.70 m
+                               No. of panes: 10
+                               Ventilators: 9
+10.   Energy source            Solar: 12 V/725 Ah VRLA batteries 3 nos.
+                               charged by 24 nos. 70-watt solar panel
+                               (TATA BP)
+                               Stand By: Diesel engine generator set with
+                               battery starting
+11.   Fire-fighting            Fire extinguisher: 2 Kg. ABC 2 nos. (1 in PH
+      Equipment                and 1 in tower)
+                               DCP Type : 2Nos.
+                               Foam type : 1 No. (Old)
+                               Halone 11-12 : 1No.
+                               Fire buckets: 4 Nos.
+
+12.   Water supply             Rain water harvesting - 2 RCC ground
+                               water tanks each of 36000 litres.
+                               2 RCC ground water tanks each of 36000
+                               litres.
+                               1 Masonary tank ground water of 6000
+                               litres.
+                               1 RCC (UG) tank of 10000 litres.
+                               1 RCC tank of 12000 litres.
+                               Total capacity 1,36,000 litres.
+              Land
+13.                            Area : 0.614 hector.
+                               Demarcation : Sea protection walls on
+                               western and southern sides and
+                               compound wall on eastern and northern
+                               side. Presently the wall is in damaged
+                               condition.
+14.   Buildings                LH tower, Power house, Inspection
+                               quarter, store LH tower, Power house,
+                               Inspection quarter, store quarters, One
+                               twin unit of LHA and Safaiwala quarter.
+                               Presently the condition of all buildings is
+                               bad.
+15.   Compound        Street   10 nos. with 70W solar panel and
+      lights                   12V/130AH Battery (Self powered)
+
+
+16.   Staff                    On tour basis 01 – NA/RT/SRT and 01-
+                               LHA
+ 17.    Mode of Approach           By boat from Bedi port
+
+ 18.    RACON (Freq. Agile)        Make        : Tide land System 6,
+                                   Type        : Sea Beacon
+                                   Frequency bandwidth : 2.9 to 3.19 GHZ &9.3 to
+                                   9.59 GHZ
+                                   Code        : ‘K’
+                                   Power supply : 12 V, 80AH MF lead acid
+                                   battery, 1No.
+                                   Mode of charging: Solar panel 35 W with
+                                   regulator.
+                                   Date of commissioning : 04/05/2004.
+                                   Remote Transceiver Unit (RTU) Control Panel
+ 19.    Automation
+        Equipments                 make RDS
+        :(NEW)                     Sr.No : 3763
+                                   Light Sensor make                     : ABLE
+                                   Battery for automation                : SMF
+                                   battery, 12V/100AH – 2Nos. :S/N (1)
+                                   4YL042007018614
+                                                              (2)
+                                   4YL042007018619
+                                   Solar panel : make VIKRAM SOLAR 335W–
+                                   2Nos.
+                                   Model: ELDORA
+                                   S/N (1) 20864222
+                                   (2) 20862414 (335Wx2)
+ 20.    Solar panel
+                                   3 KW (Off-Grid) with 48 nos. tubular
+                                   battery of 2V/400 AH (make Exide LMXT
+                                   400, 2018) and 12 nos. Solar panel 255 W
+                                   each, make BHEL. Inverter 5 KVA, Make
+                                   UTL (Alpha Online PCU, 96 V)
+                                   Old Solar panels (not in use), Make TATA,
+                                   70 W each, 23 nos. (8 panels were
+                                   installed in 1998 and remaining 15 panels
+                                   was installed in 2014-15).
+ 21. Diesel generators
+                                                             No. of
+S.No      Engine No.          Make/type           HP                   RMP         Cooling
+                                                            Cylinder
+
+ i      01181/9619045       Kirloskar TAF/1       6            1       1500       Air cooled
+
+22. Details of Alternator
+ S.No        Frame           Make       KVA      Vol    Amp       Freq        Phase       RPM
+
+                          Kirloskar
+                                                 220-
+   i         4502/2          DS-         15             14.6      50Hz        Single      1500
+                                                 240
+                           Series.
+
+ 23. Battery chargers
+Battery Charger                       Rating & unit                       Qty     Date of Inst.
+
+Aplab make Digital P.S.               0-32V / 40 Amp.                     1       10.6.2004
+ 24. Batteries
+Battery                               Rating & unit                       Qty     Date of Inst.
+
+Master Deep Niyantrak                 12V/200Ah, Amararaja make           1       06.08.2004
+
+Slave Deep Niyantrak                  12V/200Ah, Amararaja make           1       06.08.2004
+
+0.65KVA Inverter -1                   12V/725AH, Amararaja make           1       12.12.2003
+0.65KVA Inverter -2                   12V/725AH, Amararaja make           1       12.12.2003
+0.65KVA Inverter -3                   12V/725AH, Amararaja make           1       12.12.2003
+
+ 25. Postal address                                                      C/O Assistant Engineer
+                                                                         (E)
+                                                                         Dhuvav MCS Station
+                                                                         Jamnagar, Gujarat
+                                                                         Pin - 361 008
+ 26. Date of Commissioning
+                                                                         First lighthouse: 1898
+                                                                         Modern lighthouse (PV):
+                                                                         1958 (05.02.1958)
+                                                                         Solarisation: 1996
+                                                                         (31.12.1996)
+                                                                         Subsequent Innovations:
+                                                                         2003
+

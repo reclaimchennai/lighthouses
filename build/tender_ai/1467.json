@@ -1,0 +1,70 @@
+{
+  "nid": 1467,
+  "title": "Improvement of the NDC and Deep Bhavan, Mumbai prior to IMO Audit of DGLL.",
+  "summary": "E-tender for quick repairs and refurbishment (doors, sanitary fittings, painting, PVC wall panelling and false ceiling, blinds, carpet, furniture, plants, banners) at the National Data Centre and Deep Bhavan office, Ghatkopar, Mumbai, before DGLL's IMO audit.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-MUM-01001(02)/1/2020-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, M.G. Road, Ghatkopar (East), Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan (incl. National Data Centre), M.G. Road, Ghatkopar (East), Mumbai-400077", "station_id": null, "kind": "office", "work": "Civil improvement, painting, panelling, fittings and furnishing before IMO audit"}
+  ],
+  "scope": [
+    {"item": "Dismantling damaged/nonfunctional old taps, wash basin waste pipe/bottle traps", "qty": "9.00", "unit": "Each", "site": null},
+    {"item": "Dismantling flushing cistern of all types", "qty": "1.00", "unit": "Each", "site": null},
+    {"item": "Dismantling unserviceable wooden/steel doors, windows, ventilators, cupboards (3 sq m and below)", "qty": "6.00", "unit": "Each", "site": null},
+    {"item": "Providing and fixing 35 mm ISI marked flush door shutters (IS 2202 Part I, decorative, teak ply veneer, SS butt hinges, vision panel)", "qty": "12.00", "unit": "Sqm", "site": null},
+    {"item": "Aluminium die cast hydraulic door closer (Hafele India/Dormakaba/Dorset), IS 3564", "qty": "6.00", "unit": "Each", "site": null},
+    {"item": "100 mm brass mortice latch and lock with 6 levers and lever handles (Hafele India/Dormakaba/Dorset)", "qty": "6.00", "unit": "Each", "site": null},
+    {"item": "Twin rubber stopper aluminium hanging floor door stopper, ISI marked (Hafele India/Dormakaba/Dorset)", "qty": "4.00", "unit": "Each", "site": null},
+    {"item": "15 mm CP brass battery-based infrared sensor pillar cock with foam flow technology", "qty": "4.00", "unit": "Each", "site": null},
+    {"item": "15 mm CP brass bib cock", "qty": "2.00", "unit": "Each", "site": null},
+    {"item": "8 mm CP/SS jet with flexible tube up to 1 m with SS triangular plate", "qty": "3.00", "unit": "Each", "site": null},
+    {"item": "32 mm CP brass bottle trap", "qty": "6.00", "unit": "Each", "site": null},
+    {"item": "Toilet paper holder CP brass", "qty": "6.00", "unit": "Each", "site": null},
+    {"item": "Removing distemper/cement paint by scraping and preparing surface; white cement putty 1 mm (Asian/Burger/Shalimar)", "qty": "810.00", "unit": "Sqm", "site": null},
+    {"item": "Wall painting with premium acrylic emulsion interior paint, two coats, VOC < 50 g/l (Asian/Burger/Nerolac)", "qty": "810.00", "unit": "Sqm", "site": null},
+    {"item": "Synthetic enamel paint on old metal surfaces (Asian/Burger/Nerolac)", "qty": "180.00", "unit": "Sqm", "site": null},
+    {"item": "French spirit polishing on wood work, two or more coats", "qty": "50.00", "unit": "Sqm", "site": null},
+    {"item": "Wax floor polishing on masonry/concrete floors", "qty": "60.00", "unit": "Sqm", "site": null},
+    {"item": "Roller blinds (Vista/Mac or equivalent), 100% polyester blackout fabric on aluminium frame", "qty": "80.00", "unit": "Sqm", "site": null},
+    {"item": "Wall mounted ABS toilet paper holder/hand towel dispenser with lock", "qty": "3.00", "unit": "Each", "site": null},
+    {"item": "Renting of 3-seater sofa with coffee table for 1 month incl. transport", "qty": "1.00", "unit": "Each", "site": null},
+    {"item": "Renting of mid back mesh office chair with fixed arms for 1 month incl. transport", "qty": "4.00", "unit": "Each", "site": null},
+    {"item": "Providing mid back upholstered mesh chair with push back mechanism, black", "qty": "10.00", "unit": "Each", "site": null},
+    {"item": "Decorative plants with ceramic pots incl. fertiliser and transport", "qty": "50.00", "unit": "Each", "site": null},
+    {"item": "Flex/vinyl banner with tubular steel frame incl. design, printing and fixing", "qty": "25.00", "unit": "Sqm", "site": null},
+    {"item": "Wall panelling and false ceiling with PVC Mat board on 50x50 mm hardwood frame with moulded corner beading", "qty": "525.00", "unit": "Sqm", "site": null},
+    {"item": "1-2 mm PVC carpet flooring over cement concrete floor with polyester adhesive", "qty": "38.35", "unit": "Sqm", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 1592201.0,
+    "emd_inr": 32000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "5% of contract value (Section III 3.4) plus 5% security deposit deducted from RA bills; Annexure II footnote says 3% PG and 2.5% SD",
+    "notes": "Estimate inclusive of GST. EMD by A/C payee DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid three months from technical bid opening; original by 17.02.2024 16:00; MSME-registered firms must also pay EMD. LD 1.5% per month of cost of work, max 10%. Security deposit released after 6-month maintenance period."
+  },
+  "period": {"completion": "06 days from issue of work order (NIT, Section III); GCC clause 7 says 04 months from award", "bid_validity": "30 days from the date of opening of technical bid", "warranty": "6 months maintenance period from completion"},
+  "dates": {"published": "2024-02-14", "pre_bid": "2024-02-15", "bid_submission_end": "2024-02-19", "bid_opening": "2024-02-20"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with tender limit equal to or above estimate, registered with Central/State Govt/Municipal Corporation etc.",
+    "Similar works (special repair & maintenance of building or civil construction) in last 7 years: three >= Rs 6.36 lakh, or two >= Rs 7.96 lakh, or one >= Rs 12.73 lakh (40/50/80% of estimate); sub-contractor experience not considered",
+    "Average annual turnover >= 30% of estimate in last three years (ending 31.03.2023; elsewhere 31.03.2022), CA certified; ITRs 2020-21 to 2022-23",
+    "PAN, GST registration; tender acceptance letter (Annexure III), no-relatives declaration (Annexure IV), unconditional undertaking (Annexure V), blacklisting declaration",
+    "Site visit mandatory; technical bid must score minimum 60% (mandatory documents) to open commercial bid"
+  ],
+  "specs": [
+    "Makes: Hafele India/Dormakaba/Dorset door hardware; Asian/Burger/Nerolac/Shalimar paints and putty; Vista/Mac roller blinds",
+    "Flush doors IS 2202 (Part I); door closer IS 3564; anodising IS 1868 AC 10; bricks IS 1077 (general specs)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Tender.pdf", "pages": 55, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "55-page bid document; NIT (Hindi and English), detailed notice, BOQ and evaluation read in full; GCC, labour/safety rules, general civil specifications and forms confirmed as boilerplate. Inconsistencies: Hindi NIT gives download/submission to 19.02.2024 10:00, English NIT to 19.02.2024 13:05; completion 06 days vs 04 months in GCC; PG 5% in Section III vs 3% PG + 2.5% SD in Annexure II; file number printed as CM-MUM-01001(02)/1/2020-Civil and CM-MUM-01001/(02)/2020-Civil. BOQ price schedule (Item Rate BoQ, 23 items) shows zero rates; BOQ item 10 text runs into putty description across a page break. Pre-bid 15.02.2024 11:00; technical bids opened 20.02.2024 10:00."
+}

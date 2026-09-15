@@ -1,0 +1,242 @@
+                        मास्टर लेज़र/MASTER LEDGER
+         मुट्टम प्वाइटं दीपस्तंभ और नेवटे क्स स्टे शन/MUTTOM POINT
+                        LIGHTHOUSE AND NAVTEX STATION
+क्रमसंख्या/               नाम /Name
+   Sr.No                                                                    वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0724
+    2         स्थान/Position                     Lat. 8° 7.4’ N, long 77° 19.1’ E
+    3         ऊंचाई/Elevation                    42.97m Above MSL (tower height 21.5m)
+    4         अभिलक्षण/Characteristic            Single Fl (W) every 5 seconds
+
+    5         नॉटिकलमाइलमेदरू ी                  28 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                               Hexagonal Masonry
+                                                 Height                             21.5mtrs
+                                                 Colour Scheme                      Black & White bands
+    7         ऑप्टिकलउपकरण                       Optic                              2nd Order
+                                                 Make                               M/s Chance Brothers
+              Optical equipment
+                                                 Type
+                                                 Size                               700 mm
+                                                 No. of lens                        4
+                                                 Area of dioptric portion           660.79 Sq.mm
+                                                 Area of catadioptric portion       10094.85 Sq.mm
+                                                 Divergence                         50 33’ 55’’(Horizontal)
+                                                 Main/Emergency                     20 56’ 46’’ (Vertical)
+                                                 Duration of Flash                  5 second
+                                                 Main /Standby/Emergency
+                                                 Pedestal                           Mercury Float type 127 kg. Mercury)
+                                                 Rotation Device                    Inbuilt stepper motor with drive
+                                                 R.P.M.                             3 R PM
+                                                 illumining
+                                                 Main                               230V/
+                                                                                    150W -3 Nos Cluster Metal Halide
+                                                                                    Lamp
+                                                 Standby                            -
+                                                 Emergency:                         -
+                                                 Date of Installation               1875
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                               350944 cds
+              intensity                          Emergency                          -
+    9         लेंिनन/Lantern                     Diameter                           3.65 m
+                                                 Height of glazing                  3.03 m
+                                                 No. of panes                       36 Nos With 12 blank panels
+                                                 Ventilators                        14 Nos
+    10        RACON                                   Sr. No
+     Make               Model                 Code                               Band                  Date of Installation
+     Wealth Marine,     WM-RB II              M                                  X-band
+11   NAIS
+     Base Station
+
+     Model              Type                  Power                              MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna       Band                  Modem
+       2.4m dia         EX-C                  Datum system
+       Parabolic                                  M7LT
+       reflector                              Satellite Terminal
+     DGPS
+     Transmitter Make   Frequency             Power Output           RS 1 ID     RS      Beac          Date of       Date of
+                                                                                 -II     on ID         commissi      Recapit
+                                                                                 ID                    oning         alizatio
+                                                                                                                     n
+
+
+     NAVTEX
+     Transmitter Make   Frequency             Power Output           Operation   Transmitter           Date of       Date of
+                                                                     Slots       ID                    commissi      Recapit
+                                                                                                       oning         alizatio
+                                                                                                                     n
+
+     Make:Danphone                   Powersupply                     UTC                               Installed on March
+     1KW Futronic       Internationa SM 300-5,                       Time              ‘’L’”           2015
+     transmitter        l-518Khz,    Delta                           Slots:
+                        Regional-    Elektronika                     01:50,
+                        490Khz)                                      05:50,
+                                                                     09:50,
+                                                                     13:50,
+                                                                     17:50,
+                                                                      21:50
+12   ऊर्जा केसजधन/      Mains                                                    Tamil Nādu electricity board
+     Source of energy   Power Source                                             3 phase /440V AC supply
+                                                                                 90KW ON Grid
+                                                                                 SOLAR LOAD -25 KW
+                        Engine 1                                                               (NIL)
+                        Make/Type                     Qty          Rating        No of           RPM                 Cooling
+                                                                                 Cylinder
+                        Eicher /                      1            20KVA         2               1500                Air
+                        Four stroke diesel engine                                                                               c
+                                                                                                                                o
+                                                                                                                                o
+                                                                                                                                l
+                                                                                                                                e
+                                                                                                                                d
+                        Alternator
+                        Make/Type                     Qty          Rating        Voltage/A       Frequency           Phase
+                                                                                 mp
+                        Kirloskar/Brushless           1            20 KVA        240 / 40        50                  1
+                        Engine 2                                                               (NIL)
+                        Make/Type                     Qty          Rating        No of           RPM                 Cooling
+                                                                                 Cylinder
+                               Eicher /                      1            20KVA              2          1500            Air
+                               Four stroke diesel engine                                                                         c
+                                                                                                                                 o
+                                                                                                                                 o
+                                                                                                                                 l
+                                                                                                                                 e
+                                                                                                                                 d
+                               Solar Plant for Main light
+                               Capacity PV                   Numbers                         Type       Battery         Bank
+                               25 KW (24 V/250 W)            4 Nos                            Access    12 Nos          01 No.
+                                                                                              solar     2 V/ 1000 AH
+                               Solar Plant for 2KW off grid (used in automation, street light and etc
+                               Capacity PV                   Numbers                         Type       Battery         Bank
+                               25 KW (24 V/ 250 W)           100 Nos.                                   -               -.
+
+                               Make                          Inverter                        Data       Rating /v
+                                                                                             Logger
+                               ZYTECH                        DELTA                           Derlemo    250W/36.60vd
+                                                                                             V2.0       c
+     13   स्वचजलितवोल्टे र्स्टे बिजइर्र
+          Automatic Voltage Stabilizers
+
+          Make                 Model                Capa     Input                           Output         Phase       Qty
+                                                    city
+          Blue Bird            Servo                15       170-270 V                       230 V          1 phase     1 No
+          (for Navtex)         controller           KVA
+
+          Globus (For Main     Servo                7.5      170-270 V                       230 V          1 phase     1 No
+          Light)               controller           KVA
+
+          Globus (For          Servo                5        170-270 V                       230 V          1 phase     3 Nos
+          Museum Lighting)     controller           KVA
+
+          Globus (For          Servo                45       440 V                           440 V          3 phase     1 Nos
+          Museum 19 TR AC)     controller           KVA
+
+          Globus (For          Servo                22.5     440 V                           440 V          3 phase     1 Nos
+          Museum 8 TR AC)      controller           KVA
+
+14        बैटरर
+          Batteries
+          Equipment            Type                 Make         Volt                        Amp/Hr     Qty
+          PSS NAIS                   -                 -                    -                   -                 -
+          Genset                 Lead Acid           Exide                 12                  90               2Nos
+          Automation                 -                 -                    -                   -                 -
+          DGPS                       -                 -                    -                   -                 -
+          Navtex                 SMF Lead            Exide                 12                  42              15 Nos
+                                   Acid
+          Main Light             Lead Acid           Exide                 12                    150           3 Nos
+          Steeper motor          Lead Acid           Exide                 12                  150             1 No
+          Racon                Lead Acid            Exide                  12                100               1 No
+          CCTV Camera          Lead Acid            Exide                  12                100               4 Nos
+          Museum
+     Museum Ups               SMF Lead           Exide      12                        150          2 Nos
+                              Acid
+15   बैटररचजर्ा र/ Battery charger
+
+     Equipment                Make               Model Type                           Rating       Qty
+     Battery charger          AE                       -                              0-30 V/      1 No
+                                                                                      15 A
+     Battery charger          VENUS                                     -             0-40V/       1 No
+                                                                                      20A
+16   इं वर्ट रInverter /UPS
+     Equipment          Nos   Make          Model                      Type           Rating       Q      input      outpu
+                                                                                                   ty                t
+     Main Light         3        UTL        -                          Pure sine          800 VA    3     12 V/ DC & 230V
+                       Nos                                             wave                        N       230 V AC AC
+                                                                                                    o
+                                                                                                    s
+     Stepper           1      Luminous      --                         Pure sine      800 VA        1     12 V/ DC &   230V
+     Motor             No                                                                          N      230 V AC     AC
+                                                                                                    o
+     Navtex            1      Hykon         AE 7500 Y                  Pure sine      7.5 KVA       1     180V/DC &    230V
+     Transmitter       No                                              wave                        N      230V AC      AC
+                                                                                                    o
+     CCTV For          1      Luminous      -                          Pure sine      3.5 KVA      1      48V/DC &     230
+     Museum            No                                                                          N      230V AC      AC
+                                                                                                   o
+
+     Museum            1      Luminous      -                          Pure sin       1.5 KVA      1      24V /DC &    230 V
+     Light Load        No                                              wave                        N      230V AC      AC
+                                                                                                   o
+
+17   स्वचलनउपकरण
+     Automation Equipment (RCS MUTTOM)
+     MAKE         PLC          HMI                      Power Supply          VSAT                 Mod      Band
+                                                                                                   em
+     RDS               Allen           Renu             24 V DC               1.8 m dia            Hug      EX.C
+                       Bradley         electronics                            Parabolic            hes
+                                                                              reflector
+18   आलिशमनउपकरण                                 Type of Extinguisher         Capacity             Nos   Make
+     Fire Fighting Equipment                     DCP Type                     6 kg                 6      INTIME
+                                                 Co2                          9 Kg                 2     INTIME
+                                                 Co2                          5 kg                 2     INTIME
+                                                 Co2                          4.5 Kg               1     INTIME
+                                                 Foam Type                    -                    -     -
+19   संचजर                                       BSNL telephone                                    04651-229533
+     Communication
+20   र्िपूलता                                    Local panchayath water supply, 1 Nos of well pump and 1 No of borewell
+     Water Supply
+21   भू लम                                       Area                                              Approx 45 Acres
+     Land                                        Demarcation                                       Not Available
+22   इमजरतें                                     RCC Structure: 06 Nos                             Power House-cum
+     Buildings                                                                                     Office room,
+                                                                                   Inspection quarters,
+                                                                                   NA-I & NA -II twin
+                                                                                   quarters and LHA
+                                                                                   quarter, Canteen -cum
+                                                                                   Store room, Pump
+                                                                                   house
+23   कंपजउं डिजइट                    LED Light fitted on G.I Pole-5 Nos
+     Compound Lights                 Garden light-5 Nos
+                                     Gate light- 6 Nos
+
+24   सीसीटीवीकमे रज                  IR Bullet Camera 2MPHIKVISION                    13 Nos
+     CCTV CAMERA                     Office & Lighthouse
+                                     IR Bullet Camera 2MPHIKVISION Museum             20 Nos
+25   स्टजफ                           Sl. No         Designations
+     Staff                           1              Navigational Assistant Gr-I – 1 No
+                                     2              Navigational Assistant Gr -II – 1 No
+                                     3              Outsourced staff for Housekeeping- 1 No
+                                     4              Outsourced staff Day Security -1 No
+                                     5              Outsourced staff Regulating visitors Housekeeping -1 No
+26   पहुँ चने कजमजध्यम               Nearby Railway station is Nagercoil,
+     Mode of approach                Nearest airport is Thiruvananthapuram airport,
+                                     from Nagercoil to Muttom by road about 17 KM
+                                     From Thiruvananthapuram to Muttom by road about 73 KM
+                                     From Kanyakumari to Muttom by road about 32 Km
+27   उपिब्धसुलवधजए                   The nearest Post office local panchayat office, High School and
+     Facilities available            Dispensary at Muttom, Police Station are available
+                                     atVellichandhai
+
+28   डजकपतजPostal address            The Navigational Assistant Gr-I
+                                     Muttom Lighthouse,
+                                     Muttom post office,
+                                     Kalkulam Taluk
+                                     Kanyakumari -Dist, Tamilnadu-629 202
+29   मू ल्यकजब्योरजCost details
+     (At the time of Construction)
+30   प्रवतानमे िजने कजदे नजं क       1875
+     Date of commissioning
+

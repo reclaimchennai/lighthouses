@@ -1,0 +1,55 @@
+{
+  "nid": 2538,
+  "title": "SITC of desktop computer, Multifunction printer, AutoCAD, Microsoft office and antivirus software at Deep Bhavan Kolkata.",
+  "summary": "GeM bid for supply, installation, testing and commissioning of all-in-one desktops, a workstation, mono laser multifunction printers, Visio, AutoCAD and antivirus licences for the Directorate of Lighthouses and Lightships office at Deep Bhavan, Kolkata.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2026/B/7789773; MS-Kol-01001(02)/1/2019-MAINTENANCE",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Directorate of Lighthouses and Lightships, Deep Bhavan, D-372/2, Taratala Road, Kolkata-700088", "station_id": null, "kind": "office", "work": "Supply and installation of ICT products (33 items)"}
+  ],
+  "scope": [
+    {"item": "All in One Desktop (Intel Core i7-14700, 16 GB DDR5, 1 TB NVMe SSD, 22.87-24.8 inch IPS FHD, Win 11 Pro, 5-year warranty)", "qty": "8", "unit": "No", "site": "Deep Bhavan Kolkata"},
+    {"item": "All in One Desktop - Fixed Computer Workstation (Intel Core Ultra 7 265, Q series chipset, 4 GB dedicated graphics, 32 GB DDR5 ECC, 1 TB M.2 SSD, 26.81-28.74 inch UHD IPS, redundant ~500 W PSU, 5-year warranty)", "qty": "1", "unit": "No", "site": "Deep Bhavan Kolkata"},
+    {"item": "Mono LaserJet Multi-Function Printer (A4/Legal print-scan-copy, duplex, USB/Ethernet/Wi-Fi, 40-44 ppm, 3-year on-site warranty)", "qty": "5", "unit": "No", "site": "Deep Bhavan Kolkata"},
+    {"item": "Microsoft Office Software - Visio LTSC Standard 2024, perpetual licence", "qty": "9", "unit": "No", "site": "Deep Bhavan Kolkata"},
+    {"item": "AutoCAD / Desk Software, single user 3-year licence, enterprise edition", "qty": "1", "unit": "No", "site": "Deep Bhavan Kolkata"},
+    {"item": "Antivirus Total Security, 3-year subscription, per device", "qty": "9", "unit": "No", "site": "Deep Bhavan Kolkata"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1947517.0,
+    "emd_inr": 39000.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 62 months (Advisory bank SBI); DD in favour of Director of Lighthouses and Lightships, Kolkata also accepted",
+    "notes": "EMD by DD/FDR/BG or surety bond; MSE bidders seeking exemption to submit bid security declaration (Annexure-III). MII purchase preference 20% (Class 1/2 local suppliers only); MSE purchase preference L1+15% for 25%. No MSE/startup relaxation in experience and turnover. Total value wise evaluation; no reverse auction."
+  },
+  "period": {"completion": "30 days delivery", "bid_validity": "90 days from bid end date", "warranty": "Desktops and workstation minimum 5 years; MFP 3 years on-site; ATC: not less than 3 years in any circumstance"},
+  "dates": {"published": "2026-07-15", "pre_bid": null, "bid_submission_end": "2026-08-05", "bid_opening": "2026-08-05"},
+  "eligibility": [
+    "GeM: minimum average annual turnover of bidder Rs 6 lakh and OEM Rs 6 lakh (3 years); 3 years past experience; past performance 80% of bid quantity",
+    "OEM authorization certificate for desktop computer and MFP; imported products require OEM/authorised seller with registered office in India",
+    "Mandatory: EMD or bid security declaration, PAN, GST, non-blacklisting affidavit (2026), ITR for 2023-24, 2024-25, 2025-26, unconditional price bid undertaking, bid acceptance letter",
+    "Technical scoring: average annual turnover min 30% of estimated cost (16 marks, min 9.6), solvency certificate min 40% of estimated cost (4 marks), similar works in last 7 years 3x40%/2x50%/1x80% (30 marks, min 18), time over-run performance (20 marks, min 10), quality performance (30 marks, min 20); overall minimum 70",
+    "Joint ventures/consortia not permitted",
+    "Functional service centre in consignee state (carry-in warranty) and dedicated/toll-free service number"
+  ],
+  "specs": [
+    "AIO desktop: Intel Core i7-14700, DDR5 16 GB (2 DIMM slots, expandable to 64 GB), 1024 GB NVMe SSD, integrated graphics, Wi-Fi 6 + BT 5.3, ~150 W, BIS IS 13252 (Part 1), RoHS, ISO 14001, ISO/IEC 27001, EPR registration",
+    "Workstation: Intel Core Ultra 7 265, Intel Q series, 1x 4 GB dedicated graphics, 32 GB DDR5 ECC (4 slots, up to 128 GB), 1024 GB M.2 SSD, 3840x2160 display, HDMI + DP, redundant PSU ~500 W, ISO/IEC 27001:2022",
+    "MFP: monochrome laser/LED, composite cartridge, auto duplex, 40-44 ppm (ISO/IEC 24734), 100000 prints warranty cap, BIS IS 13252 (Part 1)/IS/IEC 62368-1:2023",
+    "Microsoft Visio Standard 2024 perpetual, 5 years OEM support",
+    "AutoCAD general design enterprise edition, per-user 3-year licence (2D/3D, sheet metal, piping, collision detection)",
+    "Antivirus Total Security 3-year per-device subscription, Windows"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Bid Published copy.pdf", "pages": 28, "read": "vision", "language": "bilingual", "unreadable": ["pages 12 and 28 blank"]}
+  ],
+  "confidence": "high",
+  "notes": "Scanned print of the 11-page GeM bid document followed by DLL Kolkata ATC dated 14.07.2026, Annexure-I technical specification/compliance sheet and Annexures II-V. ATC text copied from a battery tender: 'Similar works shall mean Supply and installation of batteries', 'MSME bidders in relevant category of battery', and warranty clause 'replace the battery'. Buyer e-mail and consignee officer name omitted (personal); HOD e-mail dte-kol@gov.in. ePBG duration 62 months as printed. Item heading says 'Microsoft Office Software' but specification is Visio LTSC Standard 2024."
+}

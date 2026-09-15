@@ -1,0 +1,43 @@
+{
+  "nid": 864,
+  "title": "Preparation of Architectural 2D plan and elevation of Tourism Projects (Based on approved layout and project component) for 10 Lighthouse stations in the state of West Bengal, Odisha & Andhra Pradesh.",
+  "summary": "Architectural consultancy to prepare 2D plans and elevations for tourism projects (based on approved layouts and components, under PPP mode per the Hindi text) at 10 lighthouse stations in West Bengal, Odisha and Andhra Pradesh, Kolkata Directorate.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Preparation of Architectural 2D plan and elevation of Tourism Projects (based on approved layout and project component)", "qty": "10", "unit": "lighthouse stations", "site": "West Bengal, Odisha & Andhra Pradesh"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2796600.0,
+    "emd_inr": 83900.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata, valid three months from technical bid opening; exemption not allowed; original EMD to reach office within 7 days of technical bid opening. Tender fee Nil. Item rate bids, QCBS evaluation."
+  },
+  "period": {"completion": "45 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2022-12-20", "pre_bid": "2023-01-03", "bid_submission_end": "2023-01-10", "bid_opening": "2023-01-11"},
+  "eligibility": [
+    "Firm profile, photographs, certificates and documents",
+    "Experience of architectural consultancy for Government tourism projects or multi-storeyed buildings in last 7 financial years: one work >= 80%, or two >= 50%, or three >= 40% of estimated cost; values updated at 7% p.a.",
+    "Similar works: architectural drawings for visitor infrastructure (eco-friendly cottages, children's play area, light & sound shows, viewing desks/sit-outs, souvenir shop, cafes/food kiosks, landscaping and streetscaping, open air theatre, small theme park and garden, parking, rappelling wall, toilet block) or multi-storeyed building in India",
+    "Registration with Council of Architecture",
+    "IT returns for 2019-20, 2020-21, 2021-22; annual turnover and bank solvency certificate as per Section VI",
+    "Personnel employed in last 2 years: 1 Senior Architect (B.Arch, >= 5 years experience), 2 Junior Architects (B.Arch)",
+    "Undertaking to sign MoU with a structural design firm, designs proof-checked by reputed institute/Government department",
+    "PAN, GST registration, notarised not-blacklisted affidavit (2022), unconditional price bid undertaking, tender acceptance letter, experience certificates"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "e52dd474-64d4-4ffe-8629-9a488b4f374e.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer is font mojibake throughout; values taken from the parallel English text"]}
+  ],
+  "confidence": "medium",
+  "notes": "Download period 20/12/2022 10:00 to 10/01/2023 15:00; bid submission row prints only '20/12/2022 (15.00 Hrs)'; technical bid opening printed '11/01/20223 (16.00 Hrs)' (typo for 2023). The 10 lighthouse stations are not named in the NIT, so no sites are listed. No file number printed. Bidders asked to visit site before quoting."
+}

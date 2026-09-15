@@ -1,0 +1,41 @@
+{
+  "slug": "sagar-island-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Saugor Island Lighthouse & DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F 1028",
+  "position": {"lat_text": "21° 39.4' N", "lon_text": "88° 02.9' E", "lat": 21.656667, "lon": 88.048333},
+  "elevation_m": 26,
+  "characteristic_text": "FL (W) in every 3 Sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 3,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 25, "geographical_nm": 17, "text": "Luminous 25 NM, Geographical 17 NM"},
+  "tower": {"type": "Circular Cast Iron Tower", "height_m": 24, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "Chance Brothers, Birmingham, England", "model": null, "type": null, "size": "4th order (focal length 250mm)", "order": "4th order",
+    "panels": 8,
+    "rotation_device": null,
+    "rpm": 7,
+    "rotates": true,
+    "rotates_evidence": "RPM 7; mercury float pedestal",
+    "divergence_horizontal_deg": 4.35,
+    "divergence_vertical_deg": 2.1,
+    "divergence_text": "4.35 (Horiz.) & 2.10 (Vert.)",
+    "illuminant": "400W MH Lamp"
+  },
+  "intensity_cd": 132500,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "AIS Base station 02 Nos. Saab make; commissioned February 2012"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "3 Phase 440 V 50Hz mains from WBSEDCL; 5 kWp off-grid solar; standby 2 x Kirloskar 20 KVA gensets"},
+  "issues": ["8 panels at 7 RPM gives a flash about every 1.07 s, not every 3 s as stated", "Divergence printed as '4.35 (Horiz.) & 2.10 (Vert.)' without degree sign or unit", "Elevation: ground 2 m, 'Elevation of tower' 26 m (used as light elevation)", "No commissioning date given (taken over from Kolkata Port Trust in 2011)"]
+}

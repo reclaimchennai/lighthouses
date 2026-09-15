@@ -1,0 +1,39 @@
+{
+  "nid": 1987,
+  "title": "Providing Consultancy services for obtaining CRZ Clearance for Protection & Development of Indira point Lighthouse at Great Nicobar Island.",
+  "summary": "E-tender for a consultant to obtain Coastal Regulation Zone (CRZ) clearance for the protection and development of Indira Point Lighthouse, Great Nicobar Island, issued by the Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair).",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-02013/1/2022-CM-PB",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Indira point, Great Nicobar Island", "station_id": "indira-point-lighthouse", "kind": "lighthouse", "work": "Consultancy for obtaining CRZ clearance for protection and development of the lighthouse"}
+  ],
+  "scope": [
+    {"item": "Providing consultancy services for obtaining CRZ clearance for protection & development of Indira Point Lighthouse", "qty": null, "unit": null, "site": "Indira Point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 7080000.0,
+    "emd_inr": 141600.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/deposit at call receipt/FDR (or bank guarantee per Hindi text) of any RBI approved nationalized/scheduled bank in favour of Director of Lighthouses and Lightships - Sri Vijaya Puram, valid six months from technical bid opening; originals with all technical documents to reach office by 24.07.2025 15:00. MSME/NSIC registered bidders for similar work eligible for EMD exemption. Bid document free of cost (English)."
+  },
+  "period": {"completion": "180 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-07-11", "pre_bid": "2025-07-18", "bid_submission_end": "2025-07-24", "bid_opening": "2025-07-25"},
+  "eligibility": [
+    "Eligible experienced contractors/agencies with successful completion of similar work of 'Consultancy Services for obtaining CRZ Clearance' with Government organizations and no adverse remarks",
+    "Detailed eligibility as per Section III clause 3.1 of tender document (not included in this notice)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT-IndiraPointCRZ.pdf", "pages": 6, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section I NIT only: pages 1-3 Hindi, pages 4-6 English. No terms of reference, scope detail or eligibility clause 3.1 included. Item rate tender. Download/bid submission 11.07.2025 18:00 to 24.07.2025 15:00; technical bid opening 25.07.2025 15:00 subject to internet availability. Hindi text says 'in Andaman and Nicobar Islands with government organisations' for similar work; Hindi row 6 reads 'शुल्क' (fee) while English says 'Free of Cost'."
+}

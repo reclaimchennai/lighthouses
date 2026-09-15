@@ -1,0 +1,189 @@
+                  मास्टर लेजर/MASTER LEDGER
+
+
+क्रमसं        नाम /Name
+ ख्या/      Kaup Lighthouse                              वििरण/Description
+Sr.No
+   1       ए.एल.ओ.एल/A.L.O.L.                                   F 0658
+   2          स्थान/Position                               Lat. 130 13 .4’ N
+                                                          Long. 740 44.20’ E
+  3         ऊंचाई/Elevation                                       43 m
+  4      अविलक्षण/Characteristic     fl (3) W 20 Sec.(fl 0.25, ec3.75, fl 0.25, ec3.75 Fl 0.25, ec
+                                                                 11.75)
+
+  5        नॉविकलमाइलमेदूरी                           1.Luminous: 25 NM
+             Range in miles                         2.Geographical: 17.5 NM
+  6      दीपस्तंििािर/L.H.Tower             Type                  Circular stone Masonry Tower
+                                           Height                                 34 m
+                                       Colour Scheme             Black and white bands (Band width 5.44m,
+                                                                    Bottom band black, No. Of bands 5)
+  7          ऑविकलउपकरण                     Optic                            Fresnel Lens
+           Optical equipment
+                                           Make                           Stone Chance
+                                           Type                    Cut and Polished Revolving.
+                                            Size                       700 mm (2nd order)
+                                         No. of lens                            3
+
+                                   Area of dioptric portion      10,500 sq. cm.(corrected area 7725 sq.cm)
+
+                                     Area of catadioptric       10,200 sq. cm. (corrected area
+                                           portion                      10,152 sq.cm)
+                                         Divergence            Horizontal – 4.480, Vertical – 3.260
+                                      Main/Emergency
+                                      Duration of Flash                        0.25 Sec.
+                                            Main
+                                    /Standby/Emergency
+
+                                         Pedestal                 Mercury Float (98 Kg in use)
+                                      Rotation Device           Dual Stepper Motor 40 Kgcm 12 V
+                                                                 DC operated. Clock machine as
+                                                                            standby
+                                             R.P.M.                            3
+                                          illumining
+                                              Main                3 X 150W Metal Halide Lamp Cluster
+
+                                          Standby                                   --
+                                                    Emergency:                                         --
+                                                 Date of Installation                                1935
+8      प्रिािीबीमतीव्रता/Effective                Main & Standby                                  725322 cd
+             beam intensity                         Emergency                                          --
+9            लेंिनन /Lantern                         Diameter                                        3.6m
+                                                  Height of glazing                                 1.83 m
+                                                    No. of panes                         20 + 12 Nos. Blanked with G.I.
+                                                                                          Sheet on the landward side.
+                                                     Ventilators                                       12
+10            RACON                                    Sr. No                                        6295
+          Make                 Model                   Code                                 Band             Date of
+                                                                                                           Installation
+            --                  --                             --                             --                --
+11                                                             NAIS
+             Base Station                                                              SAAB
+
+         Model               Type                     Power                                   MMSI
+          R-40              QWZR4                    Mains 230V                              4192238
+     Communication
+       Equipment
+      VSAT Antenna             Band                  Modem
+        2.4m dia               EX-C                 Make huges
+        Parabolic                                  Model:HT2300
+        reflector
+          DGPS
+       Transmitter       Frequency               Power            RS 1 ID              RS -II      Beacon      Date of Date of
+          Make                                   Output                                 ID           ID        commi Recapi
+                                                                                                                       talizati
+                                                                                                               ssionin   on
+                                                                                                                  g
+            --                  --                  --                 --                -
+
+12   ऊर्ान केसाधन/Sour                            Mains                                 KSEB, 3 Phase, 440 V AC, 50 Hz Mains Supply.
+
+      ce of energy                               Standby                                 DG SET 7.5KVA/ SOLAR PLANT
+                                                                                                    5.5KW
+                                                                            Engine 1
+                                Make/Type                Qty          Rating             No of             RPM              Cooling
+                                                                                        Cylinder
+                           D8.4812,91-0700072            1            16HP                  2              1500               Air
+                                                                        Alternator
+                                Make/Type                Qty          Rating       Voltage/Am           Frequency           Phase
+                                                                                        p
+                                 KG 1644                 1            7.5Kva          240v                 50Hz              single
+                                                                            Engine 2
+                                Make/Type                Qty          Rating             No of             RPM              Cooling
+                                                                                        Cylinder
+                                     .........
+                                                                        Alternator
+                                Make/Type                      Qty        Rating   Voltage/Am          Frequency       Phase
+                                                                                        p
+                                 ................
+
+
+
+                                                      Solar Plant
+                                Capacity PV                          Numbers          Type              Battery        Bank
+                                      5.5Kw                     550Watt X10Nos.    Monocrystall    90 cells, 2volt     2 bank
+                                                                                      ine           each, 500Ah      90v/500AH
+                                                                                                       each
+                                        Solar Plant for Main RACON
+                                Capacity PV                          Numbers          Type              Battery        Bank
+                                       ---
+13                                              स्वचावलतिोल्टे र्स्टे बलाइर्र
+                                               Automatic Voltage Stabilizers
+
+         Make              Model                    Capa              Input           Output             Phase         Qty
+                                                     city
+        V S POWER        VSP/SERVO                  5kva             160-260            240                 1           01
+         SYSTEMS         /AIR- INDIA
+                          22001068
+14                                                                बैिरर
+                                                                Batteries
+      Equipment            Type                     Make             Volt        Amp/Hr                  Qty
+       PSS NAIS              --                       -
+        Genset           Lead ACID                  Exide          12V            100AH                 1No.
+      Automation            SMF                     Exide          12V            26AH                  2Nos.
+         DGPS                ---                     ---
+15                                                  बैिररचार्नर/ Battery charger
+
+       Equipment           Make                     Mod               Type           Rating              Qty
+                                                     el
+     General Purpose           A.E.                                 DC Charger        12V                1No.
+                                                                                     6A/9A
+       Automation         Powerex                         Batt. Charger 24V           15A                1No.
+16                                                    इं वर्ट रInverter /UPS
+     Equipme    Nos      Make                       Model              Type        Rating         Qt        input     output
+         nt                                                                                       y
+       Main              STATC        HBD-NG-096-006K-                    SMART     6KWP          2        96vdc      230vdc
+       Light               ON         1P-006M1-11-C01                    STORAG
+                         ENER                                            E SOLAR
+                          GIAA                                           INVERTE
+                                                                            R
+     NAIS PSS       1    APC                        SRC 1K                 UPS      1KVA          1       230VAC       230VA
+                                                                                                                         C
+      DGPS          --    --                           --            --               --          --            --       --
+17                                                          स्वचलनउपकरण
+                                       Automation Equipment
+
+      MAKE           PLC         HMI        Power Supply            VSAT          Modem               Band
+      NELCO      Telemecqni Schneide           24voltDC
+                      ue      r electric
+ 18        आविशमनउपकरण                       Type of                Capacity          Nos              Make
+        Fire Fighting Equipment            Extinguisher
+                                          DCP Type(u/s)               -NA-
+                                          DCP Type(u/s)               -NA-
+                                         Foam Type(u/s)               -NA-
+                                         Water Type(u/s)              -NA-
+                                            DCP Type                   1kg           2 Nos.
+
+
+ 19             संचार                                                                                --
+            Communication
+ 20            र्लपूवतन               2 Nos. open wells. Pump coupled to Electric motor (0.75HP) Water Pump to lift
+                                        the water from open well from to overhead tanks and water supply is made
+             Water Supply                                    available to all quarters & IQ.
+ 21               िूवम                                   Area                               1.1501 Hectare
+                  Land                              Demarcation                             Compound wall
+
+ 22              इमारतें                 Navigational Asst. Qtrs:-3 Nos.                 I.Q: 1No.: P.H. 1 No.
+                Buildings                       LHA Qtr. 2Nos.                            Office: 1No. Pump
+                                                                                              House 1No.
+ 23          कंपाउं डलाइि                               8 Nos.
+           Compound Lights
+            सीसीिीिीकमेरा                              Camera                                        --
+24          CCTV CAMERA
+                                                         DVR                                         --
+ 25               स्टाफ                Sl. No                               Designations
+                  Staff                   1           Navigational Assistant Gr-II: 1 No. Posted
+                                          2.                      LHA: 1 No. Posted
+ 26          पहुँ चनेकामाध्यम         By rail upto Udupi Railway Station then 18 Kms. by Road upto
+           Mode of approach                                    lighthouse.
+ 27          उपलब्धसुविधाए              Marine Police                         5km
+           Facilities available              Station
+                                          Dispensary                         5km.
+                                         High School                                   6km.
+                                        Post office                        5km.
+ 28     डाकपताPostal address          Head Lightkeeper, Kaup Lighthouse, P.O. Kaup, Distt. Udupi,
+                                                           PIN – 574 106.
+ 29     मूल्यकाब्योराCost details                                 --
+      (At the time of Construction)
+ 30        प्रितननमेलानेकादे नां क                                       1935
+Date of commissioning
+

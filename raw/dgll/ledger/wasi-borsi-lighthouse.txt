@@ -1,0 +1,190 @@
+                           मास्टरलेजर /MASTER LEDGER
+
+                         वासी बोरसी दीपस्तंभ /WasiBorsi Lighthouse
+
+क्रमसंख्या/
+                        नाम /Name
+   Sr.No                                                        वववरण/Description
+    1         ए.एल.ओ.एल/A.L.O.L.         F 0478
+    2         स्थान/Position             Lat. 200 56.06’N
+                                         Long. 720 45.71’E
+
+    3         ऊंचाई/Elevation            36m
+    4         अभिलक्षण/Characteristic    fl W 7 Sec. (fl 0.54, ec 6.46)
+    5         नॉटिकलमाइलमेदरू ी          17 NM
+              Range in miles
+    6         दीपस्तंििावर/L.H.Tower     Type                             Square open frame R.C.C.Tower
+                                         Height                           34 m
+                                         Colour Scheme                    Red & White bands
+    7         ऑप्टिकलउपकरण               Optic
+              Optical equipment
+                                         Make                             B.B.T.
+                                         Type                             revolving type
+                                         Size                             187.5 mm (5th order)
+                                         No. of lens                      4
+
+                                         Area of dioptric portion     Total corrected area 1105 sq.cm.
+                                         Area of catadioptric portion
+
+                                         Divergence                       2o (horizontal) & 3.0 (vertical)
+                                         Main/Emergency
+                                         Duration of Flash                0.54 Sec
+                                         Main /Standby/Emergency
+
+                                         Lamp changer
+                                         Pedestal                         Mercury float (39.3 Kg in use)
+                                         Rotation Device                  Dual Stepper Motor 40 Kgcm with
+                                                                          Auto changeover
+
+                                         R.P.M.                           2.14 ( one revolution in 28 sec.)
+
+
+                                         illumining
+                                         Main                             3 x 150W Metal Halide Lamp
+                                                                          Cluster
+                                         Standby
+                                         Emergency:
+                                         Date of Installation
+8    प्रिावीबीमतीव्रता/Effective beam    Main & Standby                                   64430 cd
+     intensity
+                                         Emergency                     -
+9    लेंिनन/Lantern                      Diameter                      2..0
+                                         Height of glazing             0.8 M
+                                         No. of panes                  16 (in 2 liters)
+                                         Ventilators                   7
+10   RACON
+     Make                 Model          Code                          Band                  Date of
+                                                                                             Installation
+
+11   NAIS
+     Base Station
+
+
+     Model                Type           Power                         MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna         Band           Modem
+     DGPS
+     Trasmitter Make      Frequency      Power Output RS 1 ID          RS -II       Beacon   Date of       Dat
+                                                                       ID           ID       commis        e of
+                                                                                                           Re
+                                                                                             sioning       cap
+                                                                                                           itali
+                                                                                                           zati
+                                                                                                           on
+
+
+
+12   ऊर्ानकेसाधन/Sour     Mains                                        i) 415V 3 phase cluster local Main
+                                                                       supply(G.E.B.)
+     ce of energy
+                                                                        ii) 42 Nos. Solar
+                                                                       Pannel.12V/200W.
+                          Standby                                      7.5 KVA DG set
+                          Engine 1
+                          Make/Type                   Q      Rating    No of          RPM            Coolin
+                                                      ty               Cylinder                      g
+                          KIRLOSKAR/EA 16             1      16 BHP    2              1500           Air
+                          Alternator
+                          Make/Type                   Q      Rating    Voltage/A Frequency           Phase
+                                                      ty               mp
+                          KISLOSKAR/KG 164 H          1      7.5 KVA   240V/31.2A     50Hz           Single
+                          Engine 2
+                          Make/Type                   Q      Rating    No of          RPM            Coolin
+                                                      ty               Cylinder                      g
+                           Alternator
+                           Make/Type                 Q      Rating      Voltage/A Frequency             Phase
+                                                     ty                 mp
+
+
+
+
+                           Solar Plant
+                           Capacity PV               Numbers            Type             Battery        Bank
+                           200 Wp/17.5V              42                 Mono             07 Nos         7
+                                                                        Crystalline      12V/1000AH
+                           Solar Plant for Main RACON
+                           Capacity PV              Numbers             Type             Battery        Bank
+
+13   स्वचाभलतवोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model           Capacity   Input              Output           Phase          Qty
+     Power Electronics                    15 KVA     190 - 265V         220V             SINGAL         01
+14   बैिरर
+     Batteries
+     Equpment              Type           Make       Volt               Amp/Hr           Qty
+     PSS NAIS
+     Genset                               Exide      12                 100              01
+     Automation                           Exide      12                 26               02
+     DGPS
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make            Model      Type               Rating           Qty
+     General Purpose
+     Automation           Power                                         24V/20A          01
+                          Engineering
+16   इंवटट रInverter /UPS
+     Equipme Nos Make Model                          Type         Rating      Qty        input          output
+     nt
+     Main          04     Exide Exide 850 DSP        Pure         850VA       4          12V DC &       220VA
+     Light                      PST UPS(M)           sine                                230 AC         C
+                                                     wave
+     IQ/Street 3      Exide Exide 850 DSP            Pure         850VA       3          12V DC &       220VA
+     Light/HL               PST UPS(M)               sine                                230 AC         C
+     K qtr                                           wave
+     NAIS PSS
+     DGPS
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE       PLC         HMI       Power Supply                   VSAT             Modem      Band
+     RTU        01          01        24 V DC                        01               01
+18   आप्ननशमनउपकरण                   Type of Extinguisher      Capacity         Nos       Make
+     Fire Fighting Equipment         D.C.P. Type               3.2 Kg           04
+                                     D.C.P Type                01 Liters        02
+                                     Water Type                                 01
+
+
+
+
+19   संचार                           wasiborsi@gmail.com
+     Communication
+20   र्लपूर्तन                       04 Nos. R.C.C. Rain water storage
+     Water Supply
+21   िभू म                           Area                                        0.3 Hectares
+     Land
+                                     Demarcation                                 Brick work
+                                                                                 compound wall
+22   इमारतें                         Quarters                                    Workshop-cum-store
+                                                                                 room, One unit of
+     Buildings
+                                                                                 Inspection Qtrs. And
+                                                                                 One unit of NA Qtrs,
+23   कंपाउं डलाइि                    8 Nos. G.I. poles with light down and 02
+                                     gate lights
+     Compound Lights
+24   सीसीिीवीकमेरा                   Camera
+      CCTV CAMERA                    DVR
+25   स्िाफ                           Sl. No          Designations
+     Staff                           1             Navigational Assistant Gr.-II- 1
+                                     2             LHA - 1
+                                     3
+                                     4
+                                     5
+                                     6
+                                     7
+26   पहुँचनेकामाध्यम                 By rail uptoMaroli then 28 Kms. bus uptoLighthouse
+     Mode of approach
+27   उपलब्धसववधाए                    Marine Police Station    Maroli 28 km
+     Facilities available            Dispensary               Maroli 28 km
+                                     High School              Maroli 28 km
+                                     Post office             Maroli 28 km
+28   डाकपताPostal address            Navigational Assistant, WasiBorsi Lighthouse, P.O.
+                                     BorsiMachhiwad, via Maroli,Distt. Navsari, Gujarat PIN – 396 436.
+
+29   मूल्यकाब्योराCost details       Rs.4,51,008/-
+     (At the time of Construction)
+30   प्रवतननमेलानेकादे नांक   31.03.1982
+     Date of commissioning
+

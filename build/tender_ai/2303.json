@@ -1,0 +1,93 @@
+{
+  "nid": 2303,
+  "title": "Providing Comprehensive Annual maintenance Contract (CAMC) services for VTS Gulf of Kutch for 01 year from 16.04.2026 to 15.04.2027",
+  "summary": "E-tender for a one-year comprehensive annual maintenance contract (16.04.2026 to 15.04.2027) covering all VTS Gulf of Kutch equipment - radars, AIS, VHF, microwave links, servers/software, consoles, meteo sensors, RDF, DG sets, UPS, ACs and lightning conductors - at MCC Kandla and 21 other VTS, repeater and port monitoring stations (VTS Directorate, Gandhidham).",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EMDVTS-02002(01)/1/2020-Maintenance; Tender ID 2026_DGLL_903345_1",
+    "issuing_office": "Dy. Director General, Directorate of Lighthouses and Lightships, VTS Directorate, Gandhidham"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kandla MCC (Master Control Centre)", "station_id": null, "kind": "VTS", "work": "CAMC of C-scope servers, VHF servers, web server, operator and VHF consoles, meteo sensor, DG sets, UPS, ACs; ENC updates"},
+    {"name": "Koteshwar", "station_id": "koteshwar-lighthouse-vts-station", "kind": "VTS", "work": "CAMC of X-band radar, microwave links, DG sets, UPS, ACs, lightning conductor"},
+    {"name": "Jakhau", "station_id": "jakhau-lighthouse-and-vts-station", "kind": "VTS", "work": "CAMC of X- and S-band radars, RDF, AIS, VHF, microwave links, DG sets, UPS, ACs; ICG monitoring terminal"},
+    {"name": "Chhachhi", "station_id": "chhachhi-lighthouse-and-vts-station", "kind": "VTS", "work": "CAMC of X-band radar, AIS, VHF, microwave links, DG sets, UPS, ACs"},
+    {"name": "Mandvi", "station_id": "mandvi-lighthouse-vts-station", "kind": "VTS", "work": "CAMC of X-band radar (one Tx/Rx non-operational), VHF, microwave links, DG sets, UPS, ACs"},
+    {"name": "Kandla (VTS sensor station / PMS)", "station_id": null, "kind": "VTS", "work": "CAMC of X-band radar, AIS, VHF, PMS console and links"},
+    {"name": "Navinal", "station_id": "navinal-lighthouse-and-vts-station", "kind": "VTS", "work": "CAMC of X-band radar, AIS, VHF, microwave links, DG sets (125 KVA and 62.5 KVA), UPS, ACs"},
+    {"name": "Balachadi", "station_id": null, "kind": "VTS", "work": "CAMC of X-band radar, VHF, microwave link, DG sets, UPS, ACs"},
+    {"name": "Chudeshwar", "station_id": null, "kind": "VTS", "work": "CAMC of X-band radar, microwave link, DG sets, UPS, ACs"},
+    {"name": "Okha", "station_id": "okha-lighthouse-dgps-and-vts-station", "kind": "VTS", "work": "CAMC of X- and S-band radars, RDF, AIS, VHF, microwave links, DG sets, UPS, ACs; PMS, ICG and Indian Navy monitoring terminals"},
+    {"name": "Harudi (repeater)", "station_id": null, "kind": "VTS", "work": "CAMC of microwave links, DG sets, UPS, ACs, lightning conductor"},
+    {"name": "Vanku (repeater)", "station_id": null, "kind": "VTS", "work": "CAMC of microwave links, DG sets, UPS, ACs, lightning conductor"},
+    {"name": "Bhadreshwar (repeater)", "station_id": "bhadreshwar-vts-repeater-and-lighthouse-station", "kind": "VTS", "work": "CAMC of microwave links, DG sets, UPS, ACs, lightning conductor"},
+    {"name": "Navlakhi PMS", "station_id": "navlakhi-lighthouse", "kind": "VTS", "work": "CAMC of meteo sensor, VHF, console, UPS"},
+    {"name": "Rozi Bunder PMS", "station_id": null, "kind": "VTS", "work": "CAMC of meteo sensor, VHF, console, UPS"},
+    {"name": "Sikka PMS", "station_id": null, "kind": "VTS", "work": "CAMC of AIS, meteo sensor, VHF, console, UPS"},
+    {"name": "Vadinar PMS", "station_id": null, "kind": "VTS", "work": "CAMC of meteo sensor, VHF, console, UPS"}
+  ],
+  "scope": [
+    {"item": "VTS C-scope servers (Central Operating Processor, Database Server, Central Storage Processor, SAN server, video distributor) and associated equipment", "qty": "2", "unit": "Each", "site": "MCC Kandla"},
+    {"item": "VHF servers", "qty": "2", "unit": "Each", "site": "MCC Kandla"},
+    {"item": "Web server system providing VTS feed to 20 users", "qty": "1", "unit": "Each", "site": "MCC Kandla"},
+    {"item": "VTS operator consoles (MCC Kandla 05 operation room, 02 server room, 01 conference room; PMS Kandla, Navlakhi, Rozi, Sikka, Vadinar, Okha; ICG Jakhau, Okha; Indian Navy Okha) incl. monitors, software and associated equipment", "qty": "17", "unit": "Each", "site": null},
+    {"item": "VoIP VHF consoles (MCC Kandla 05; 01 each at PMS Kandla, Navlakhi, Rozi, Sikka, Vadinar, Okha)", "qty": "11", "unit": "Each", "site": null},
+    {"item": "VoIP VHF radios incl. all associated equipment at VTS and PMS stations", "qty": "27", "unit": "Each", "site": null},
+    {"item": "X-band radars incl. associated equipment at Koteshwar, Jakhau, Chhachhi, Mandvi, Navinal, Kandla, Balachadi, Chudeshwar and Okha", "qty": "9", "unit": "Each", "site": null},
+    {"item": "S-band radars at Okha and Jakhau incl. associated equipment", "qty": "2", "unit": "Each", "site": null},
+    {"item": "Dual duplex microwave links between all VTS stations", "qty": "30", "unit": "Each", "site": null},
+    {"item": "Point-to-point short range license-free microwave links for PMS Kandla and Okha, ICG Okha and Jakhau, Indian Navy Okha", "qty": "5", "unit": "Each", "site": null},
+    {"item": "AIS base stations with antenna, control unit, display interface unit at Kandla, Navinal, Chhachhi, Jakhau, Sikka and Okha", "qty": "6", "unit": "Each", "site": null},
+    {"item": "Meteo sensors at MCC Kandla, Navlakhi, Rozi, Sikka, Vadinar and Okha", "qty": "6", "unit": "Each", "site": null},
+    {"item": "DG sets of various capacities (2x160 KVA MCC Kandla; 125 KVA and 62.5 KVA Navinal; 2x40 KVA each at Mandvi, Chhachhi, Koteshwar, Chudeshwar; 2x50 KVA each at Balachadi, Jakhau, Okha; 2x30 KVA Bhadreshwar; 2x15 KVA each at Vanku, Harudi) with AMF panels", "qty": "24", "unit": "Each", "site": null},
+    {"item": "Radio direction finders with associated equipment at Okha and Jakhau", "qty": "2", "unit": "Each", "site": null},
+    {"item": "1.5/2 ton air conditioners in MCC operation room, server room, radar station equipment rooms and repeater equipment rooms", "qty": "44", "unit": "Each", "site": null},
+    {"item": "15 KVA UPS with batteries at all radar stations (01 each; 02 at MCC server room)", "qty": "11", "unit": "Each", "site": null},
+    {"item": "6 KVA UPS with batteries at Navlakhi, Rozi, Sikka, Okha PMS, ICG monitoring station Jakhau", "qty": "5", "unit": "Each", "site": null},
+    {"item": "3 KVA UPS with batteries at repeater stations Harudi, Vanku, Bhadreshwar, Vadinar, Kandla PMS, ICG Okha, Indian Navy Okha", "qty": "7", "unit": "Each", "site": null},
+    {"item": "Lightning conductors at all VTS radar and repeater stations", "qty": "12", "unit": "Each", "site": null},
+    {"item": "ENC chart updation for MCC Kandla and all port monitoring and associated monitoring stations", "qty": "1", "unit": "Job", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 9165290.0,
+    "emd_inr": 183400.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "10% of contract value, FDR/Bank Guarantee, valid 15 months, within 10 days of work order",
+    "notes": "Estimated cost including GST and all taxes. EMD by DD/FDR/Bank Guarantee from nationalized/RBI approved bank in favour of Dy. Director General, DLL, payable at Gandhidham; original to reach TIA by bid deadline; EMD exemption not allowed (CPPP page). Tender fee Nil. Payment quarterly with job sheets. Penalty 0.02% of contract value per day for non-compliance of restoration timelines (72 h local repair / 7 days spares within India / 60 days imported), capped at 10%. Contract extendable by one year or more at same rates."
+  },
+  "period": {"completion": "365 days (01 year, 16.04.2026 to 15.04.2027)", "bid_validity": "180 days (CPPP page)", "warranty": null},
+  "dates": {"published": "2026-03-23", "pre_bid": "2026-03-25", "bid_submission_end": "2026-03-30", "bid_opening": "2026-03-31"},
+  "eligibility": [
+    "Valid GST registration",
+    "Bidder must be Original Software Developer (OSD) of VTS software, or have JV/consortium/MOA/AOA with OSD (GST-registered bidder as lead partner)",
+    "Bidder or joint partner to have authorization (or service support agreement) from Terma AS, Denmark, OEM of existing radars, for repair and spares support in India",
+    "Similar works in last 7 years: three each >= 40%, two each >= 50%, or one >= 80% of estimated cost; similar work = supply, installation, integration, testing, commissioning and comprehensive maintenance of minimum three radars and minimum one AIS-based VTS system incl. VTS infrastructure; work orders and completion certificates/CRAC on GeM",
+    "Average annual turnover not less than Rs 30,00,000 for 2022-23, 2023-24, 2024-25 (CA certificate)",
+    "Notarized affidavit on litigation and blacklisting in last 3 years ending 28.02.2026; ITRs for last three years ending 31.03.2025",
+    "Solvency certificate from scheduled bank >= 40% of estimated value, not older than 3 months",
+    "Tender acceptance letter, undertakings (site/requirement assessment, confidentiality of VTS data) and eligibility compliance sheet (Annexures I-V)",
+    "Technical evaluation minimum 60 marks: turnover 10, solvency 5, similar experience 65, performance quality 20"
+  ],
+  "specs": [
+    "Existing radars: 9 X-band Terma Scanter 2001 (25 kW, 18 ft antenna, dual Tx/Rx, 2011) and 2 S-band Terma Scanter 2001 (30 kW) at Okha and Jakhau",
+    "RDF: Servo Corporation of America DF2110M at Okha and Jakhau (2011)",
+    "AIS: Kongsberg BS500/BS600/BS410/BS610 base stations at Jakhau, Navinal, Kandla, Okha, Sikka, Chhachhi",
+    "Meteo: Vaisala WXT-500 weather stations (2019) at Okha, Vadinar, Sikka, Rozi, Navlakhi PMS and MCC Kandla",
+    "VHF: Jotron VoIP radios TA7650/RA-7203 and TR-7750C (25 W, 2020); Jotron JRRC 106 consoles; HP Z4 G4 workstations",
+    "Microwave: Ericsson Mini Link 6691/6693/6363 (30 links); 8 links replaced after cyclone Biparjoy (2023) with AirFiber AF-5U",
+    "Servers: HPE ProLiant DL380 Gen10 (C-Scope), DL20 Gen10 (VHF), web server; Cisco Catalyst 2960; ATEN CS1308 KVM",
+    "VTS software: Kongsberg C-Scope (extractor/tracker, VTS control, AIS, CSLR logger/replay, PMIS); replacement allowed at no extra cost if mature (>3 years in use) and IVEF compliant, with demonstration within 2 days of technical bid opening",
+    "DG sets: 160 KVA Kirloskar (MCC Kandla), 125 KVA Sudhir and 62.5 KVA Kirloskar (Navinal), 15-50 KVA at other stations",
+    "System availability > 99%; UPS backup minimum 2 hours; magnetrons supplied by department, installation by agency",
+    "Detailed VTMS software and MIS feature requirements (3D view, OpenGL, S52/S57/S63, WMS/WMTS, route mesh, IEC 61174, simulator, track warnings, IVEF integration for NCVTS)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_published.pdf", "pages": 56, "read": "mixed", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document combines CPPP tender details printout (pages 1-3; page 3 scanned, only creator designation/date) and the 53-page bid document. Bid document dated 21.03.2026 gives download/submission from 21.03.2026 and pre-bid 25.03.2026 15:30, while CPPP page shows publish 23.03.2026 09:00 and pre-bid 15:00. BOQ in PDF has no rates. Section VI lists 22 stations (09 VTS sensor, 03 repeater, 01 MCC, 06 PMS, 03 ICG/Navy terminals). Bid-opener names and personal e-mail IDs on the CPPP printout were not transcribed. Several station names (Kandla, Balachadi, Chudeshwar, Harudi, Vanku, Rozi, Sikka, Vadinar) are not in station list."
+}

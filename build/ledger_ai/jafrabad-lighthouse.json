@@ -1,0 +1,45 @@
+{
+  "slug": "jafrabad-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Jafarabad Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1962,
+  "alol": "F 0432",
+  "position": {"lat_text": "20° 51.4' N", "lon_text": "71° 22.9' E", "lat": 20.856667, "lon": 71.381667},
+  "elevation_m": 43,
+  "characteristic_text": "Fl W 10 Sec. (0.3 + 9.7 = 10 Sec.)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "0.3 + 9.7 = 10 Sec.",
+    "sequence_s": [0.3, 9.7],
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 16, "geographical_nm": null, "text": "16 NM (unlabelled range)"},
+  "tower": {"type": "White round masonry tower", "height_m": null, "colour_scheme": "White"},
+  "optic": {
+    "make": "BBT-France", "model": null, "type": "revolving", "size": "250mm", "order": null,
+    "panels": null,
+    "rotation_device": "Stepper motor",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Type: revolving; Rotation Device: Stepper motor; R.P.M. 2",
+    "divergence_horizontal_deg": 25.199833,
+    "divergence_vertical_deg": 16.4945,
+    "divergence_text": "25° 11.99' (Horizontal), 16° 29.67' (Vertical)",
+    "illuminant": "Cluster 70W/230 V MH Lamp – 3 nos."
+  },
+  "intensity_cd": 152000,
+  "racon": {"present": false, "code": null, "text": "RACON section empty"},
+  "ais": {"present": false, "text": "NAIS section empty"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 230V, 50 Hz, three phase; DG Set 15 KVA Kirloskar; Solar Plant (M/L: 3KW) 4 KWp"},
+  "issues": [
+    "Tower height left blank ('M')",
+    "Intensity printed as '1,52000 Candela' (irregular digit grouping), read as 152000",
+    "Generator: DG Set 15 KVA but alternator row says Qty 12, 40 KVA"
+  ]
+}

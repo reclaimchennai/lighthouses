@@ -1,0 +1,45 @@
+{
+  "slug": "rcs-dhuvav",
+  "pages_read": [1, 2, 3],
+  "name": "RCS Dhuvav",
+  "station_type": "radar/repeater station",
+  "established_year": 1978,
+  "alol": null,
+  "position": {"lat_text": "22° 28' 55.0\" N", "lon_text": "70° 07' 38.0\" E", "lat": 22.481944, "lon": 70.127222},
+  "elevation_m": 41,
+  "characteristic_text": null,
+  "light": {
+    "kind": null,
+    "flashes_per_period": null,
+    "colours": null,
+    "period_s": null,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": null, "geographical_nm": null, "text": null},
+  "tower": {"type": "GI trestle tower (Repeater Tower for automation)", "height_m": 30, "colour_scheme": "3 Red and 2 White bands"},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": null,
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": null, "generator": true, "text": "Main supply 230V, 3 phase, 50Hz; Kirloskar diesel engine generator KG1-20AS (20 kVA)"},
+  "issues": [
+    "A.L.O.L. listed as NA; no light characteristic or optic in ledger",
+    "Ledger lists two structures: repeater GI trestle tower 30 M (3 Red and 2 White bands) and a Circular RCC tower 30 M (White and red alternate horizontal bands)",
+    "Main supply given as '230V, 3 phase' while genset is 230 V single phase"
+  ]
+}

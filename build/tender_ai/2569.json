@@ -1,0 +1,58 @@
+{
+  "nid": 2569,
+  "title": "Supply, Installation, testing and Commissioning of Router and associated accessories for e-office at Deep Bhavan, Gandhidham",
+  "summary": "GeM bid for supply, installation and 5-year warranty support of a load-balancing router, 5 kVA online UPS, three network switches, Cat 6 cable and server-room cable dressing for e-office at Deep Bhavan, VTS Directorate Gandhidham.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2026/B/7926847; EMDVTS-03001(01)/1/2020-Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, VTS Directorate, Deep Bhavan, Plot 17 Sector 8, Gandhidham"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, VTS Directorate, Gandhidham", "station_id": null, "kind": "office", "work": "SITC of router, UPS, network switches, cabling and server room cable management for e-office"}
+  ],
+  "scope": [
+    {"item": "SITC of Load balance Router with 5 year warranty including configuration support (dual NIC leased line load balancing/failover)", "qty": "1", "unit": "Each", "site": "Deep Bhavan, Gandhidham"},
+    {"item": "Supply and installation of 5kVA Online UPS with batteries, stand and accessories with 5-year warranty", "qty": "1", "unit": "Each", "site": "Deep Bhavan, Gandhidham"},
+    {"item": "Supply and installation of Network Switch with 5 years warranty (one per floor)", "qty": "3", "unit": "Nos.", "site": "Deep Bhavan, Gandhidham"},
+    {"item": "Cat 6 cable", "qty": "305", "unit": "Meter", "site": "Deep Bhavan, Gandhidham"},
+    {"item": "Service charge: inspection, reinstallation dressing, testing and commissioning of existing server network, cable management, power and data cabling, patch switches, labelling, cable termination", "qty": "1", "unit": "Job", "site": "Deep Bhavan, Gandhidham"}
+  ],
+  "money": {
+    "estimated_cost_inr": 839470.0,
+    "emd_inr": 16790.0,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value (ePBG/FDR), valid 63 months from installation and commissioning",
+    "notes": "Estimated cost includes GST and all taxes. EMD in original to be submitted before submission date; EMD exemption only for OEM bidders per ATC. MII purchase preference (L1+20%, 50% qty) and MSE purchase preference (L1+15%, 25% qty). Payment 40% on supply, 40% on acceptance, 20% after 30 days. Delay penalty 0.5%/day up to 5%; missed quarterly PM visit 1% each up to 5%; defect penalty Rs 500/day beyond 24 h."
+  },
+  "period": {"completion": "45 days", "bid_validity": "180 days from bid end date", "warranty": "5 years comprehensive on-site (all items) with quarterly preventive maintenance visits"},
+  "dates": {"published": "2026-08-17", "pre_bid": "2026-08-25", "bid_submission_end": "2026-09-07", "bid_opening": "2026-09-07"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 4 lakh; OEM average turnover (3 years): Rs 20 lakh",
+    "3 years past experience for same/similar service; past performance 80% of bid quantity in one of last three financial years",
+    "No MSE or startup relaxation for experience and turnover",
+    "Similar works in last 7 years: three works >= 40%, two >= 50% or one >= 80% of estimated cost (supply/installation/maintenance of router/switch/modem/IT equipment/computer network for Central/State Govt/PSU), proof by completion certificate/GeM CRAC",
+    "Not blacklisted (Annexure-III); technical compliance declaration (Annexure-I); technical brochure with make and model",
+    "Valid OEM authorization for router; GST registration",
+    "Local office in Gujarat state (as amended by Corrigendum-1; originally Gandhidham/Bhuj/Rajkot/Ahmedabad/Gandhinagar or within 320 km) with GST/Shop and establishment proof",
+    "Tender Acceptance Letter (Annexure-II) and site-inspection undertaking (Annexure-IV)",
+    "Only Class-I and Class-II local suppliers (MII) eligible; minimum local content 50%/20%"
+  ],
+  "specs": [
+    "Router: Cisco C8200-1N-4T to replace existing Cisco ISR 4331; dual WAN load balancing and failover on two NIC leased lines",
+    "UPS: 5 kVA true online double conversion, IGBT, single phase 230 VAC 50 Hz, pure sine wave, SNMP/Modbus, 16 x 12V 26Ah SMF batteries with MS stand, backup 60 minutes or more; preferred make APC by Schneider Electric / Vertiv / Numeric / Delta",
+    "Network switch: D-Link DGS-1250-52X to replace existing D-Link DGS-1210-52",
+    "Cat 6 UTP cable: 23 AWG solid bare copper 4 pair, HDPE insulation, FR-PVC sheath, ANSI/TIA-568-C.2; preferred make D-Link / CommScope (SYSTIMAX) / Belden"
+  ],
+  "corrigenda": [
+    {"date": "2026-09-01", "change": "Clause 1.8 amended: bidder needs a local office anywhere in Gujarat state (proof: GST certificate/Shop and establishment registration issued by Gujarat Govt/Central Govt) instead of within Gandhidham/Bhuj/Rajkot/Ahmedabad/Gandhinagar or 320 km radius; bidder must also submit an action plan for compliance of ATC clause 6.10.3 (defect rectification)."}
+  ],
+  "documents": [
+    {"file": "GeM bid and ATC (1).pdf", "pages": 23, "read": "text", "language": "bilingual", "unreadable": []},
+    {"file": "Corrigendutm1.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "GeM bid document (10 pages) followed by buyer ATC with scope, specifications and BoQ (13 pages). Total quantity 311 on GeM. Consignee named individually in GeM bid (not recorded). Listing has no start date; GeM bid dated 17-08-2026."
+}

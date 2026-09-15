@@ -1,0 +1,40 @@
+{
+  "nid": 1902,
+  "title": "Site Clearance & Providing Fencing for the demarcated identified site at shore point for Establishment of VTMS at Sri Vijayapuram.",
+  "summary": "Percentage rate e-tender for site clearance and fencing of the demarcated shore-point site in South Andaman identified for establishing a Vessel Traffic Management System (VTMS) at Sri Vijaya Puram.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-01/1/2024-M",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Shore point, South Andaman (VTMS site, Sri Vijayapuram)", "station_id": null, "kind": "VTS", "work": "Site clearance and fencing of demarcated site for VTMS establishment"}
+  ],
+  "scope": [
+    {"item": "Site Clearance & Providing Fencing for the demarcated identified site at shore point for Establishment of VTMS", "qty": null, "unit": null, "site": "Shore point, South Andaman"}
+  ],
+  "money": {
+    "estimated_cost_inr": 896855.91,
+    "emd_inr": 18000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by Deposit at call receipt/FDR of RBI approved nationalized/scheduled bank in favour of Director of Lighthouses and Lightships - Sri Vijaya Puram, payable at Sri Vijaya Puram, valid six months from technical bid opening; originals with technical documents by 19/05/2025 15:00. MSME/NSIC registered bidders for similar nature of work exempt from EMD with proof. Bid document free of cost."
+  },
+  "period": {"completion": "3 months", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-05-09", "pre_bid": "2025-05-14", "bid_submission_end": "2025-05-19", "bid_opening": "2025-05-20"},
+  "eligibility": [
+    "Eligible experienced civil contractors with experience of similar work 'Civil Maintenance, Construction work in A & N Island' with Government organizations and no adverse remarks",
+    "Detailed eligibility as per Section-III clause 3.1 of tender document (not included)",
+    "Near relatives of DGLL accountants/gazetted officers not permitted; retired gazetted officers need Govt permission within two years"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITVTMS.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Text layer is font-encoding mojibake; all three pages read from rendered images. Section I only (pages 4-6); no BOQ or Section III. NIT dated 09/05/2025; download/submission 09/05/2025 18:00 to 19/05/2025 15:00; pre-bid 14/05/2025 15:00; technical opening 20/05/2025 15:00 (subject to internet availability)."
+}

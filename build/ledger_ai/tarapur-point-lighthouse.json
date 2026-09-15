@@ -1,0 +1,41 @@
+{
+  "slug": "tarapur-point-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Tarapur Light House",
+  "station_type": "lighthouse",
+  "established_year": 1961,
+  "alol": "F0491.5",
+  "position": {"lat_text": "19° 50' 7\" N", "lon_text": "72° 39' 5\" E", "lat": 19.835278, "lon": 72.651389},
+  "elevation_m": 25,
+  "characteristic_text": "Fl (3)W 30 Sec.(fl.0.4,ec 5.6,fl 0.4, ec.5.6, fl. 0.4, ec.17.6)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 30,
+    "sequence_text": "fl.0.4, ec 5.6, fl 0.4, ec.5.6, fl. 0.4, ec.17.6",
+    "sequence_s": [0.4, 5.6, 0.4, 5.6, 0.4, 17.6],
+    "flash_duration_s": 0.4
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 23, "geographical_nm": null, "text": "23 NM (single unlabelled range)"},
+  "tower": {"type": "Square Masonry Tower", "height_m": 23, "colour_scheme": "Black & White bands (5 Bands 4.45 each)"},
+  "optic": {
+    "make": "B.B.T.", "model": null, "type": "Cut and polished revolving", "size": "187.5 mm (5th order)", "order": "5th",
+    "panels": 3,
+    "rotation_device": "Dual Stepper Motor 40 Kgcm operated on 12 V DC with auto change over (clock mechanism kept as stand by)",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Type: Cut and polished revolving; Pedestal: Mercury Float; Rotation Device: Dual Stepper Motor; R.P.M. 2",
+    "divergence_horizontal_deg": 16.72,
+    "divergence_vertical_deg": 12.16,
+    "divergence_text": "Horizontal-16.72°, Vertical-12.16°",
+    "illuminant": "150 W X 3 Nos. Cluster M.H.Lamp (Blast 150 w Kwiklite); Standby: B.B.T. Paris 300 mm dia drum optic, 100 V/375 W Thorn B7E Lamp"
+  },
+  "intensity_cd": 32116,
+  "racon": {"present": false, "code": null, "text": "- NA-"},
+  "ais": {"present": true, "text": "NAIS Base Station SAAB, Model R40 AIS base station, Class A, 12.5 Watts, MMSI 4192225"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 230 V, 3 Phase, 50 Hz (MSEDCL); Standby D.G.Set Kirloskar EA-16 with 7.5 KVA alternator; Solar 20 kWp on grid; main light solar 200Wp x 3"},
+  "issues": ["Duration of Flash field says 1.39 sec while characteristic gives fl 0.4", "Degree signs printed as backticks in position and divergence ('19` 50'', '16.72`')", "Illuminant 'Main' row reads '03 Phase MSEDCL Supply'"]
+}

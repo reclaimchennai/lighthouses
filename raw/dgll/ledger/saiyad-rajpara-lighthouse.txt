@@ -1,0 +1,147 @@
+                       मास्टर लेजर/MASTER LEDGER
+
+                                      सैयद राजपारा दीपस्तंभ/
+                                     SAIYED RAJPARA LIGHTHOUSE
+                                            Lighthouse
+
+क्रमसंख्या/             नाम /Name
+                                                                         वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0430-6
+     2        स्थान/Position                     Lat 20º 47.5' N Long 71º 12.3' E
+
+    3         ऊंचाई/Elevation                    24 M
+    4         अभिलक्षण/Characteristic            Fl (W) 5Sec. (1 + 4 = 5Sec)
+    5         नॉटिकलमाइलमेदरू ी                  12 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                           Stone column and hut
+                                                 Height                         5M
+                                                 Colour Scheme                  White
+    7         ऑप्टिकलउपकरण                       Optic
+              Optical equipment                  Make
+                                                 Type
+                                                 Size
+                                                 No. of lens
+                                                 Area of dioptric portion
+                                                 Area of catadioptric portion
+                                                 Divergence
+                                                 Main/Emergency
+                                                 Duration of Flash
+                                                 Main /Standby/Emergency
+                                                 Pedestal
+                                                 Rotation Device
+                                                 R.P.M.
+                                                 Illumining
+                                                 Main
+                                                 Standby                        -
+                                                 Emergency:                     -
+                                                 Date of Installation
+    8         प्रिािीबीमतीव्रता/Effective beam   Main
+              intensity                          Emergency                      -
+    9                                            Diameter
+                                                Height of glazing
+          लेंिनन/Lantern                        No. of panes
+                                                Ventilators
+     10   RACON                                      Sr. No
+          Make                Model             Code                               Band                      Date of
+                                                                                                             Installation
+
+     11   NAIS –
+          Base Station
+
+          Model               Type              Power                              MMSI
+
+          Communication
+          Equipment
+          VSAT Antenna        Band              Modem
+          VHF & GPS                             CISCO Router 2900
+          Antenna
+          DGPS                -                 -                                  -                         -
+          Transmitter Make    Frequency         Power Output RS 1 ID               RS -II       Beacon       Date of      Dat
+                                                                                   ID           ID           commis       e of
+                                                                                                                          Re
+                                                                                                             sioning      cap
+                                                                                                                          itali
+                                                                                                                          zati
+                                                                                                                          on
+          -                   -                 -                    -             -            -            -            -
+
+     12   ऊर्ानकेसाधन/Sour    Mains                                                440V/3-phase/50 Hz
+          ce of energy        Power Source
+                              Engine 1
+                              Make/Type                   Qty        Rating        No of             RPM            Cooling
+                                                                                   Cylinder
+
+                              Alternator
+                              Make/Type                   Qty        Rating      Voltage/Amp         Frequency      Phase
+
+
+                              Solar Plant (Off Grid System)
+                              Capacity PV                 Numbers                Type          Battery              Bank
+
+
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make               Model       Capa             Input                    Output                Phase      Qty
+
+
+
+
+14        बैिरर
+          Batteries
+          Equipment          Type               Make          Volt            Amp/Hr           Qty
+15   बैिररचार्नर/ Battery charger
+
+     Equipment           Make                Mode Type                         Rating       Qty
+                                             l
+
+     Automation
+16   इंवटट रInverter /UPS
+     Equipme Nos Make                Model                       Type          Rating       Qty input        out
+     nt                                                                                                      put
+     Main
+     Light
+     RCS
+     NAIS PSS
+     DGPS
+
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE      PLC                  HMI             Power Supply        VSAT            Modem     Band
+
+18   आप्ननशमनउपकरण                           Type of Extinguisher       Capacity            Nos    Make
+     Fire Fighting Equipment                 ABC Type                   4 kg                03
+                                             Water Co2                  -                   -
+                                             Foam Type                  -                   -
+19   संचार                                   -
+     Communication
+20   र्लपर्ू तन                                           -
+     Water Supply
+21   िूभम                                    Area
+     Land                                    Demarcation                                Compound wall on all the
+                                                                                        four sides
+22   इमारतें                                 One LHA Qurater
+     Buildings
+                                             Timber Construction above plint            -
+                                             Level
+23   कंपाउं डलाइि                                         -
+     Compound Lights
+24   सीसीिीिीकमेरा                           -
+      CCTV CAMERA                            -
+25   स्िाफ                                   Sl. No           Designations
+     Staff                                   1                Unmanned
+26   पहुँचनेकामाध्यम                 24km from Una by Road
+     Mode of approach
+27   उपलब्धसविधाए                    -
+     Facilities available
+
+
+
+
+28   डाक पताPostal address           -
+29   मल्ू यकाब्योराCost details               5,34,000/-
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          1960
+     Date of commissioning
+

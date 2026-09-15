@@ -1,0 +1,44 @@
+{
+  "nid": 2142,
+  "title": "Development works for promotion of tourism at Pentakota Lighthouse.",
+  "summary": "Percentage-rate e-tender for development works to promote tourism at Pentakota Lighthouse, Satyavaram, Visakhapatnam district, Andhra Pradesh.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MT-VSP-02002(05)/1/2025-Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Pentakota Lighthouse, Satyavaram (Post), District Vizag, Andhra Pradesh 531127", "station_id": "pentakota-lighthouse", "kind": "lighthouse", "work": "Development works for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Development works for promotion of tourism at Pentakota Lighthouse", "qty": null, "unit": null, "site": "Pentakota Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 922006.0,
+    "emd_inr": 18440.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST and all other taxes. Percentage rate tender, two cover system. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships, Visakhapatnam, valid three months from technical bid opening. MSEs registered in MSME exempted from EMD on submitting bid-securing declaration. Tender fee nil."
+  },
+  "period": {"completion": "03 months from site handover", "bid_validity": "90 days from the date of opening of tender", "warranty": null},
+  "dates": {"published": "2025-12-04", "pre_bid": "2025-12-09", "bid_submission_end": "2025-12-17", "bid_opening": "2025-12-18"},
+  "eligibility": [
+    "Valid registration in appropriate category & class with Central Govt/CPWD/State Govt/Railways/MES/BSNL/PSU and valid electrical licence",
+    "Similar works satisfactorily completed in last seven years: three each >= 40%, or two each >= 50%, or one >= 80% of estimated cost; values updated at 7% p.a.; completion certificates required",
+    "Similar works: construction/maintenance works of buildings and other civil structures",
+    "PAN and GST registration; key technical personnel; unconditional tender undertaking (Annexure V); tender acceptance letter (Annexure IV)",
+    "Not-blacklisted affidavit; ITR for FY 2022-23, 2023-24, 2024-25; list of relatives serving in MoPSW/DGLL",
+    "Average annual turnover of last three financial years minimum 30% of estimated cost",
+    "Activity chart/plan, self-assessed technical evaluation sheet, valid labour licence or self-declaration, bank mandate form with cancelled cheque"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 5, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 04/12/2025; pages 3-7 of a 101-page tender document (Section I only; no BOQ or scope details). Bid download/submission 04/12/2025 18:00 to 17/12/2025 16:00; EMD original up to 17/12/2025 16:00; opening 18/12/2025 16:00. Heavy vehicles permitted to work site; damage to pathway/paver blocks/plants to be repaired by contractor. Office e-mail dte-visha@nic.in."
+}

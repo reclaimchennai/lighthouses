@@ -1,0 +1,45 @@
+{
+  "nid": 2302,
+  "title": "Civil maintenance of GI Aerial mast tower at Azhikode DGPS station",
+  "summary": "Offline sealed quotation (percentage rate) for repainting and greasing two 30 m GI trestle aerial mast towers at Azhikode DGPS station, Thrissur, Kerala.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-12002/1/2020-MS; I/95814/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Azhikode DGPS station (Azhikode DGNSS & Lighthouse, Azhikode, Thrissur, Kerala)", "station_id": "azhikode-lighthouse-and-dgps-station", "kind": "DGNSS", "work": "Civil maintenance (priming, enamel painting, greasing) of 2 Nos 30 m GI trestle aerial mast towers"}
+  ],
+  "scope": [
+    {"item": "Priming coat with ready mixed red oxide zinc chromate primer on galvanised iron/steel works of 30 m high trestle tower (2 nos.) after scraping and cleaning, incl. bosun chair/jhulla/scaffolding; rate Rs 114.59, amount Rs 41,252.40", "qty": "360.00", "unit": "Sqm", "site": "Azhikode DGPS station"},
+    {"item": "Synthetic enamel painting of previously painted surface of G.I trestle tower (30 m high) - 2 nos., two or more coats at all heights; rate Rs 161.55, amount Rs 1,16,154.45", "qty": "719.00", "unit": "Sqm", "site": "Azhikode DGPS station"},
+    {"item": "Greasing the tower foundation bolts and nuts after cleaning and covering with tarpaulin; rate Rs 2,415.00, amount Rs 4,830.00", "qty": "2.00", "unit": "Each", "site": "Azhikode DGPS station"},
+    {"item": "Finishing with acrylic smooth exterior emulsion paint (two or more coats @ 1.67 ltr/10 sqm) on existing cement paint surface; rate Rs 151.22, amount Rs 1,360.98", "qty": "9.00", "unit": "Sqm", "site": "Azhikode DGPS station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 163598.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "5% of quoted amount by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships, Cochin, payable at Ernakulam; released after completion",
+    "notes": "Estimate is the schedule total of Rs 1,63,598.00 with rates including cost index 24.3%. Contractors quote a percentage below/above; rate inclusive of GST and all charges. No EMD mentioned. No escalation permitted."
+  },
+  "period": {"completion": "01 month from date of issue of work order", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2026-03-12", "pre_bid": null, "bid_submission_end": "2026-03-25", "bid_opening": null},
+  "eligibility": [
+    "No eligibility criteria printed; contractor to submit PAN card copy and bank account details for payment",
+    "L1 decided on lowest amount quoted"
+  ],
+  "specs": [
+    "Two GI trestle towers, 30 m high",
+    "Red oxide zinc chromate primer; synthetic enamel paint in two or more coats; acrylic smooth exterior emulsion @ 1.67 ltr/10 sqm"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQAzhikode.pdf", "pages": 8, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned bilingual NIQ with Annexure-I schedule of work and Annexure-II terms (34 clauses). Blank forms issued 13.03.2026 to 24.03.2026 (10:00-16:00); site inspection allowed in same period; submission by 25.03.2026 15:00 to Cochin directorate or station in charge, Azhikode. Opening date not printed (clause 8 only says opening moves to next working day at 16:00 if holiday). Hindi text of clause 31 duplicates clause 30 while the English differs."
+}

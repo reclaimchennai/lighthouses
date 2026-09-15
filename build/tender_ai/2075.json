@@ -1,0 +1,43 @@
+{
+  "nid": 2075,
+  "title": "Development works for promotion of tourism at Chetlath Lighthouse.",
+  "summary": "E-tender (two-cover) for development works to promote tourism at Chetlat Lighthouse, Chetlat Island, UT of Lakshadweep (Kochi Directorate).",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chetlath Lighthouse, Chetlath, U T of Lakshadweep-682 554", "station_id": "chetlat-lighthouse", "kind": "lighthouse", "work": "Development works for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Development works for promotion of tourism at Chetlath Lighthouse", "qty": null, "unit": null, "site": "Chetlath Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1860225.0,
+    "emd_inr": 37205.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals (or MSME/UDYAM/NSIC certificate) with technical documents by post or in person before deadline. Tender fee Nil. Bid Securing Declaration also required."
+  },
+  "period": {"completion": "120 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-10-27", "pre_bid": "2025-11-06", "bid_submission_end": "2025-11-13", "bid_opening": "2025-11-14"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies; OR for Lakshadweep contractors, work experience with any Government department in island works during last 7 years",
+    "Similar works in last 7 years: three each >= 40%, two each >= 50%, or one >= 80% of estimated cost",
+    "Similar works: roof sheet truss work of multistorey building, solar frame truss work, waterproofing, construction of residential/institutional/office buildings, lighthouse tower etc. or related civil construction",
+    "PAN and GST registration; CA-certified annual turnover of last three years",
+    "Declaration that bid is unconditional; affidavit on Rs 100 stamp paper of not blacklisted; undertaking listing gazetted/accounts officer relatives in MoPSW/DGLL",
+    "Copy of EPF/labour registration certificate; Tender Acceptance Letter; Bid Securing Declaration"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (4).pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only (printed pages 2-4); no file number, BOQ or description of the tourism works. Bid download/submission 27.10.2025 18:00 to 13.11.2025 15:00; bid query deadline 05.11.2025 15:00; last date of original EMD 12.11.2025 15:00; technical bid opening 14.11.2025 15:00. Listing shows bid opening 2025-09-14, which conflicts with the document (14.11.2025)."
+}

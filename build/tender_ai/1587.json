@@ -1,0 +1,44 @@
+{
+  "nid": 1587,
+  "title": "Providing of wooden framed glazed plywood partition in Second floor of Deep Bhavan Office, Chennai",
+  "summary": "Notice inviting quotation for a teak-framed, partially glazed plywood partition with door shutter on the second floor of the Deep Bhavan office, Chennai.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MNT-CH-02001(08)/1/2020-MNT-MD; I/57374/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, 5/20 Jaffar Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan Office, Chennai (second floor)", "station_id": null, "kind": "office", "work": "Wooden framed glazed plywood partition and door shutter"}
+  ],
+  "scope": [
+    {"item": "Providing wooden framed partially glazed plywood partition and door shutter: 65x35mm second class teak wood frame, 6mm BWR plywood with 1mm mica finish, 22x8mm teak wood beading, 5mm plain glass for 4 feet, SS fittings, as per drawing (23 feet x 9 feet)", "qty": "210.00", "unit": "Sq. ft", "site": "Deep Bhavan Office, Chennai"}
+  ],
+  "money": {
+    "estimated_cost_inr": 121905.0,
+    "emd_inr": 2440.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost excluding GST (GST 18% added in schedule). EMD by demand draft from any scheduled bank in favour of The Director, Directorate of Lighthouses & Lightships, Chennai; returned to successful bidder after completion and to others 7 days after opening. Payment within 30 days of bill; no advance; payment on measured quantities."
+  },
+  "period": {"completion": "30 days from the date of acceptance of work order", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-05-10", "pre_bid": null, "bid_submission_end": "2024-05-21", "bid_opening": "2024-05-21"},
+  "eligibility": [
+    "Reputed and Govt. approved agencies",
+    "Experience of same type of repair work for any other Govt. organisation or reputed private firms",
+    "PAN card and income tax returns for last three financial years",
+    "Business registration certificate from local authority"
+  ],
+  "specs": [
+    "Partition section: 3 ft plywood bottom, 4 ft glazed band, 2 ft plywood top, between existing false ceiling and vitrified tile flooring",
+    "Door shutter elevation 7 ft with glazed upper panel (75mm frame margins) and 3 ft plywood lower panel, 35mm thick, mica finish both sides"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ.pdf", "pages": 6, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Sealed quotations by 21/05/2024 16:00, opened same day 16:30. Pages 5-6 are hand-drawn section and door elevation drawings. Scanned page order: NIQ, schedule (numbered 4), terms (2-3), drawings (5-6). Letterhead office e-mail is a gmail address."
+}

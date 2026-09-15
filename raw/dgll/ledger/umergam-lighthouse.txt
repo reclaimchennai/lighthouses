@@ -1,0 +1,203 @@
+                           मास्टर लेजर/MASTER LEDGER
+
+                   उमरगाम दीपस्तंभ/ UMERGAM LIGHTHOUSE
+
+क्रमसंख्या/
+   Sr.No            नाम /Name                                     वििरण/Discription
+
+
+    1           ए.एल.ओ.एल/A.L.O.L.                                      F 0489
+    2             स्थान/Position                                  Lat. 200 11.7’ N
+                                                                  Long. 720 45.0’ E
+    3             ऊंचाई/Elevation                                        35 m
+    4         अभिलक्षण/Characteristic                    Fl W 15 Sec. (fl. 0.33, ec. 14.67)
+    5           नॉटिकलमाइलमेदरू ी                  19 NM
+                  Range in miles
+    6         दीपस्तंििािर/L.H.Tower              Type                      Triangular R.C.C Tower
+                                                 Height                               30 m
+                                            Colour Scheme                     Red & White Bands
+    7            ऑप्टिकलउपकरण                   Optic
+                 Optical equipment
+                                                 Make                  Welth Marine Pvt Ltd. Singapore
+                                                 Type                  WM-RB500 Marine Rotating Becon
+                                                 Size                             500 mm
+                                               No. of lens                           6
+
+                                         Area of dioptric portion                      ----
+
+                                           Area of catadioptric                    ----
+                                                  portion
+                                               Divergence           Horizontal-1.5°,Vertical-2.42°
+                                            Main/Emergency
+                                            Duration of Flash
+                                        Main /Standby/Emergency                0.4 Sec.
+                                              Lamp changer             NA (Fix 70W MH Lamp)
+                                                 Pedestal       RCC Circular + GI Circular Pedestal
+                                             Rotation Device            2 Nos. Stepper Motor,
+                                                                  Microprocessor controlled speed
+                                                                 field selector from 0.5-6RPM, One
+                                                                service &one standby Stepper Motor
+                                                  R.P.M.                          0.67
+                                               Illumining
+                                                   Main                     70W MH Lamp
+                                                Standby                                NA
+                                              Emergency:                               NA
+                                           Date of Installation                    05.06.2007
+8    प्रिािीबीमतीव्रता/Effective beam            Main & Standby                              173684 cd
+                intensity
+                                                   Emergency                                    ----
+9             लेंिनन/Lantern                        Diameter                                   2.4m
+                                                 Height of glazing                             1.4 m
+                                                  No. of panes                                24 Nos
+                                                   Ventilators                                11 Nos
+
+
+
+10                RACON                              Sr. No.                            HY-II20180648
+           Make                Model                 Code                           Band             Date of
+                                                                                                  Installation
+       Pharos Marine       PMAPI                          M                        X- Band         23-08-2018
+      Automatic Power      RACON-2
+11                                                    NAIS
+            Base Station                                           2 Nos-AIS1 & AIS2
+
+
+         Model            Type                Power                     MMSI
+         R 40            Class A         AC-100-240v,50Hz             004192224
+                                           DC-24V,2.5A
+     Communication
+       Equipment
+     VSAT Antenna         Band                 Modem
+        2.4m dia        Ex-C band          Datum Systems
+       Parabolic                              PSM-500L
+        reflector                          Satellite Modem
+         DGPS
+      Transmitter       Frequency          Power          RS 1    RS –II      Beacon          Date of      Date of
+          Make                             Output          ID      ID           ID          commissio     Recapitaliz
+                                                                                                            ation
+                                                                                               ning
+
+
+
+12    ऊर्ानकेसाधन/                      Mains                      DGVCL Umergaon 440V AC, 3 Phase, 50Hz
+                                       Standby                            Diesel Generator-01 Nos
+       Source of                                                  Engine 1
+        energy                 Make/Type            Qty          Rating         No of           RPM          Cooling
+                                                                               Cylinder
+                            Kirloskar /EA-16         01          16BHP            02            1500        Air Cooling
+                                                                 Alternator
+                               Make/Type            Qty          Rating       Voltage/Amp     Frequency       Phase
+                           Kirloskar/ KG 164H        01          7.5KVA,      230V/31.2A        50Hz            1ø
+                                                                  Engine 2
+                               Make/Type            Qty          Rating         No of           RPM          Cooling
+                                                                               Cylinder
+
+                                                                 Alternator
+                               Make/Type            Qty          Rating       Voltage/Amp     Frequency       Phase
+                                                                       ,
+                                           Solar Plant
+                            Capacity PV                      Numbers              Type          Battery    Bank
+                                70W/17V                        04               TATA BP     12V/150AH      2 Nos
+                                80w/17V                        06                JI 1274        ,,
+                                    Solar Plant for Main RACON
+                            Capacity PV                      Numbers              Type          Battery    Bank
+                            70W/17V                            01               TATA BP      01 Nos       01 Nos
+                                                                                            12V/65AH
+13                                        स्िचाभलतिोल्िे र्स्िे बलाइर्र
+                                          Automatic Voltage Stabilizers
+
+         Make             Model          Capacity            Input               Output         Phase      Qty
+          AE             JY-415 C         5KVA           160V -260V AC          230V AC          1ø       01Nos
+
+
+14                                                        बैिरर
+                                                         Batteries
+       Equpment            Type              Make                Volt           Amp/Hr           Qty
+        PSS NAIS        SMF                  Exide               12V             7 AH            06
+         Genset          Lead Acid           Exide               12 V           100AH            01
+       Automation         SMF                Exide               12V             26AH            02
+        DGPS               NA
+
+15                                          बैिररचार्नर/ Battery charger
+
+         Equipment                Make               Model              Type           Rating       Qty
+          General                  KB                  -               12V/6A          6Amps        01
+      Purpose(Genset)
+        Automation          Powerex Eng.                -         24V/20A            15Amps          01
+16                                              इंवटट रInverter /UPS
+     Equipmen   Nos     Make        Model         Type         Rating             Qty           input     output
+         t
+       Main     01      Exide        Exide         Pure          850 VA           01        12 V DC &     230V
+       Light                          850       sinewave                                     230 AC        AC
+                                     DSP
+                                     PST
+                                    UPS(M)
+     NAIS PSS   02       APC         SRC            IND             1KVA          02        36 V DC &     230 AC
+                                     1000                                                     230 AC
+
+      DGPS
+17                                         स्वचलनउपकरण
+                                        Automation Equipment
+     MAKE           PLC            HMI       Power Supply    VSAT             Modem           Band
+     Nelco        Schneider      Schneider      24V DC    1.8 mtrs dia        SkyEdg        Ex-C band
+                                                                                 e
+18      आप्ननशमनउपकरण                 Type of Extinguisher         Capacity       Nos          Make
+       Fire Fighting Equipment       BC Dry chemical                3.2 kg      02 Nos      Bharat Engg
+                                     BC Dry chemical                 1 kg       02 Nos       Chandrakant
+                                                                                                &Co
+
+
+
+
+19               संचार                              BSNL Telephone
+                                                 Tel.No. 0260- 2564726
+             Communication
+20              र्लपूर्तन                          (i)Electric Water Pump Set.
+                                                   (ii)Local Nagar Palica water supply
+              Water Supply
+21                िूभम                                   Area                            3.0 Hectare
+                 Land
+                                                     Demarcation                   Brick Compound Wall
+
+
+
+
+22              इमारतें                                Quarters                     Inspection Quarter,
+                                                                                   Powerhouse, Office,
+               Buildings
+                                                                                     twin Navigational
+                                                                                   Assistant quarters &
+                                                                                     twin LHA quarter.
+23         कंपाउं डलाइि               07 Nos LED Street light,02Nos LED Gate
+                                          light & 03 Nos LED Flood light.
+         Compound Lights
+24        सीसीिीिीकमेरा                                Camera                                NA
+          CCTV CAMERA                                   DVR                                  NA
+25            स्िाफ                     Sl. No                           Designations
+               Staff                      1        Navigational Assistant Gr-II - 2
+                                          2
+                                          3
+                                          4
+                                          5
+                                          6
+                                          7
+26       पहुँ चनेकामाध्यम              By Rail upto Umergaon then 8 Kms by bus upto Umergaon bus
+                                             stand & then short walkin distance upto lighthouse
+         Mode of approach
+27                                   Marine Police Station                6.8 Km far from LH
+          उपलब्धसविधाए                   Dispensary                      4.0 Km far from LH
+         Facilities available            High School                      1 Km far from LH
+                                         Post office                      1 Km far from LH
+
+28    डाकपताPostal address                                  Navigational Assistant
+                                                             Umergaon Lighthouse
+                                                        P.O. -Umergaon, Dist. -Valsad
+                                                                    Gujarat
+                                                                  Pin-396170
+29    मूल्यकाब्योराCost details                        Construction-1,51,187/-
+                                                       Equipment-1,31,860/-
+     (At the time of Construction)
+30     प्रितननमेलानेकादे नांक
+                                     21-05-1979
+      Date of commissioning
+

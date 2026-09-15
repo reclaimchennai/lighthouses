@@ -1,0 +1,42 @@
+{
+  "nid": 1602,
+  "title": "Special Repair and Civil Maintenance of Lighthouse Tower, Compound wall etc. at Karaikal Lighthouse.",
+  "summary": "Special repair and civil maintenance of the lighthouse tower, compound wall and related structures at Karaikal Lighthouse, Chennai Directorate.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(10)/1/2021-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Karaikal Lighthouse", "station_id": "karaikal-lighthouse", "kind": "lighthouse", "work": "Special repair and civil maintenance of lighthouse tower, compound wall etc."}
+  ],
+  "scope": [
+    {"item": "Special Repair and Civil Maintenance of Lighthouse Tower, Compound wall etc.", "qty": null, "unit": null, "site": "Karaikal Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 495970.0,
+    "emd_inr": 9920.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of any scheduled/nationalised bank in favour of Director of Lighthouses and Lightships, Chennai, valid three months from technical bid opening. Tender fee NIL in the table (clause 1.1 nonetheless refers to 'Tender Fee as per NIT' by DD)."
+  },
+  "period": {"completion": "03 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-06-10", "pre_bid": "2024-06-25", "bid_submission_end": "2024-07-02", "bid_opening": "2024-07-03"},
+  "eligibility": [
+    "Valid registration in appropriate category & class with CPWD, State PWD, Railways, MES, BSNL etc or other State/Central Govt/PSU/Autonomous bodies",
+    "Similar works completed in last seven years: three works each >= 40%, or two works each >= 50%, or one work >= 80% of estimated cost; value updated at 7% p.a.; experience certificate from officer not below Executive Engineer",
+    "Similar works: repairs and civil maintenance of building or construction of any type of building/compound wall/retaining wall/RCC work",
+    "PAN/ITCC/GST registration; key technical personnel for supervision and execution",
+    "Unconditional tender undertaking (Annexure III), tender acceptance letter (Annexure II), not-blacklisted affidavit, list of relatives in MoPSW/DGLL, Make in India self-certification (Annexure VI)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITKaraikalCM.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 07/06/2024; two-cover online bids; download/submission 10.06.2024 10:00 to 02.07.2024 15:00; opening 03.07.2024 15:00. Section I only; no BOQ. Bid dates were later extended to 18.07.2024/19.07.2024 by a corrigendum dated 03-07-2024 listed separately as nid 1644. File number header misspelt 'Civil Mainteance'."
+}

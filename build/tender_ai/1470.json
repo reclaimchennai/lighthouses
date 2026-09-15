@@ -1,0 +1,42 @@
+{
+  "nid": 1470,
+  "title": "1. Branding of 02 walls (10 x 10 feet approx.) each in 03 Operational rooms (NDC, NAVTEX room and RC & MS room) with organizational LOGO/information 2. Hiring of 85 inch monitor at Mini conference room for IMO Audit scheduled on 28.02.2024",
+  "summary": "Sealed quotations for flex branding of walls in three operational rooms (NDC, NAVTEX room, RC & MS room) and hire of an 85 inch monitor for the mini conference room at Deep Bhavan, Mumbai, for the IMO audit on 28.02.2024.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "EM-Mum-01001/2/2020-Electrical",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Directorate of Lighthouses and Lightships, Deep Bhavan, Mumbai", "station_id": null, "kind": "office", "work": "Wall branding in NDC, NAVTEX and RC & MS rooms; hire of 85 inch monitor for mini conference room"}
+  ],
+  "scope": [
+    {"item": "Branding of 02 walls (10 x 10 feet approx.) each in 03 Operational rooms (NDC, NAVTEX room and RC & MS room) with organizational LOGO/information", "qty": "1", "unit": "Job", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Hiring of 85 inch monitor at Mini conference room for IMO Audit scheduled on 28.02.2024", "qty": "1", "unit": "Job", "site": "Deep Bhavan, Mumbai"}
+  ],
+  "money": {
+    "estimated_cost_inr": 128750.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No advance payment; TDS on GST and IT deducted. Rates to include installation, wiring from nearest point, materials and transport; GST to be shown separately."
+  },
+  "period": {"completion": "Within 05 days from work order; by 28.02.2024 with system ready at least 02 days before for trial run", "bid_validity": "not less than 30 days", "warranty": null},
+  "dates": {"published": "2024-02-16", "pre_bid": null, "bid_submission_end": "2024-02-21", "bid_opening": "2024-02-21"},
+  "eligibility": [
+    "Agency must have valid registration"
+  ],
+  "specs": [
+    "Branding in quality flex with proper framing as per room size; approval required before printing",
+    "85 inch monitor on hire; service engineer to be positioned during trials and audit days"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Branding Works.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIQ dated 16.02.2024; quotations by post/courier/hand to Deep Bhavan by 21.02.2024 15:00, opening 21.02.2024 16:00. NIQ table numbering skips items 4-5. Signed by Director (I/C)."
+}

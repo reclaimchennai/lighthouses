@@ -1,0 +1,163 @@
+{
+  "slug": "navadra-lighthouse",
+  "page_count": 4,
+  "title_as_printed": "मास्टर लेजर/MASTER LEDGER — नावद्रा दीपस्तंभ / NAVDRA Lighthouse",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1,
+     "fields": [{"label": "A.L.O.L.", "value": "F 0398"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1,
+     "fields": [{"label": "Position", "value": "Lat : 21º 56.5’N Long : 69º 13.9’E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1,
+     "fields": [{"label": "Elevation", "value": "55 M (Above MSL)"}], "tables": [], "text": null},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1,
+     "fields": [{"label": "Characteristic", "value": "Fl(3)W15 Sec. (0.4+1.5)2+0.4+10.8=15 Sec)"}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in miles", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1,
+     "fields": [{"label": "Range in miles", "value": "18 NM"}], "tables": [], "text": null},
+    {"no": "6", "title": "L.H.Tower", "title_hi": "दीपस्तंभ टावर", "page": 1,
+     "fields": [
+       {"label": "Type", "value": "Circular concrete Tower"},
+       {"label": "Height", "value": "35M"},
+       {"label": "Colour Scheme", "value": "3 Red and 2 White bands"}
+     ], "tables": [], "text": null},
+    {"no": "7", "title": "Optical equipment", "title_hi": "ऑप्टिकलउपकरण", "page": 1,
+     "fields": [
+       {"label": "Optic", "value": ""},
+       {"label": "Make", "value": "MSM"},
+       {"label": "Type", "value": "MBR-300"},
+       {"label": "Size", "value": ""},
+       {"label": "No. of lens", "value": "3"},
+       {"label": "Area of dioptric portion", "value": ""},
+       {"label": "Area of catadioptric portion", "value": ""},
+       {"label": "Divergence Main/Emergency", "value": "9º (Horizontal) 9º (Vertical)"},
+       {"label": "Duration of Flash Main /Standby/Emergency", "value": "0.4Sec"},
+       {"label": "Pedestal", "value": "2- Tyre MS"},
+       {"label": "Rotation Device", "value": "Stepper motor"},
+       {"label": "R.P.M.", "value": "4"},
+       {"label": "Illumining", "value": "CDMT-150 Watt-01"},
+       {"label": "Main", "value": "230V/150W CDMT"},
+       {"label": "Standby", "value": ""},
+       {"label": "Emergency:", "value": ""},
+       {"label": "Date of Installation", "value": "07/09/2010"}
+     ], "tables": [], "text": null},
+    {"no": "8", "title": "Effective beam intensity", "title_hi": "प्रभावी बीम तीव्रता", "page": 1,
+     "fields": [
+       {"label": "Main", "value": ""},
+       {"label": "Emergency", "value": ""}
+     ], "tables": [], "text": null},
+    {"no": "9", "title": "Lantern", "title_hi": "लेंटर्न", "page": 1,
+     "fields": [
+       {"label": "Diameter", "value": "3.0m"},
+       {"label": "Height of glazing", "value": "2.0m"},
+       {"label": "No. of panes", "value": "12"},
+       {"label": "Ventilators", "value": "09"}
+     ], "tables": [], "text": null},
+    {"no": "10", "title": "NAIS –NA", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "Base Station", "value": ""},
+       {"label": "Communication Equipment", "value": ""}
+     ],
+     "tables": [
+       {"caption": "Base Station", "columns": ["Model", "Type", "Power", "MMSI", ""], "rows": [["", "", "", "", ""]]},
+       {"caption": null, "columns": ["VSAT Antenna", "Band", "Modem", "", ""], "rows": [["", "", "", "", ""]]}
+     ], "text": "Heading on page 1; sub-table on page 2."},
+    {"no": "11", "title": "Source of energy", "title_hi": "ऊर्जा के साधन", "page": 2,
+     "fields": [
+       {"label": "Mains", "value": "440V/3-phase/50 Hz"},
+       {"label": "Power Source", "value": "DG Set 15 KVA make Kirloskar"}
+     ],
+     "tables": [
+       {"caption": "Engine 1", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"],
+        "rows": [["Kirloskar", "1", "20.5 HP", "2", "1500", "Air"]]},
+       {"caption": "Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"],
+        "rows": [["Kirloskar", "1", "15 KVA", "230V/65.2A", "50Hz", "Single"]]},
+       {"caption": "Solar Plant", "columns": ["Capacity PV", "Numbers", "Type", "Battery", "Bank"],
+        "rows": [["9 KWP", "36 Nos", "Mono Crystalline", "48 Nos 2V/900AH", "01 No."]]}
+     ], "text": null},
+    {"no": "12", "title": "Automatic Voltage Stabilizers", "title_hi": "स्वचालित वोल्टेज स्टेबलाइजर", "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Make", "Model", "Capa", "Input", "Output", "Phase", "Qty"],
+        "rows": [["SERVO", "VSP/8/160/1", "8KVA", "160 To 260V", "240", "Single", "1"]]}
+     ], "text": null},
+    {"no": "13", "title": "Batteries", "title_hi": "बैटरि", "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Type", "Make", "Volt", "Amp/Hr", "Qty", ""],
+        "rows": [
+          ["PSS NAIS", "-", "-", "-", "-", "-", ""],
+          ["Genset", "Lead acid", "SF Sonic", "12V", "150AH", "1", ""],
+          ["Automation", "", "", "", "", "", ""],
+          ["DGPS", "", "", "", "", "", ""]
+        ]}
+     ], "text": null},
+    {"no": "14", "title": "Battery charger", "title_hi": "बैटरि चार्जर", "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Make", "Model", "Type", "Rating", "Qty", ""],
+        "rows": [
+          ["General Purpose", "ARGO", "", "", "0-80V/10 A", "02", ""],
+          ["Automation", "", "---", "----", "", "", ""]
+        ]}
+     ], "text": null},
+    {"no": "15", "title": "Inverter /UPS", "title_hi": "इंवर्टर", "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Nos", "Make", "Model", "Type", "Rating", "Qty", "input", "output"],
+        "rows": [
+          ["Main Light", "---", "UTL", "---", "UPS", "1KVA/12V", "2", "12V", "230V"],
+          ["NAIS PSS", "01", "APC", "", "UPS", "", "1", "230V", "230V"],
+          ["", "02", "LUMINAS", "", "UPS", "", "1", "230V", "230V"]
+        ]}
+     ], "text": "Third row is at top of page 3."},
+    {"no": "16", "title": "Automation Equipment", "title_hi": "स्वचलन उपकरण", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["MAKE", "PLC", "HMI", "Power Supply", "VSAT", "Modem", "Band"],
+        "rows": [["RDS", "Allen bradley", "", "220V", "-", "Robustel", "X-BAND"]]}
+     ], "text": null},
+    {"no": "17", "title": "Fire Fighting Equipment", "title_hi": "आग्निशमन उपकरण", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Type of Extinguisher", "Capacity", "Nos", "Make"],
+        "rows": [["DCP Type", "4 kg", "8", ""], ["Water Co2", "-", "-", ""], ["Foam Type", "-", "-", ""]]}
+     ], "text": null},
+    {"no": "18", "title": "Communication", "title_hi": "संचार", "page": 3,
+     "fields": [{"label": "Communication", "value": "Not Available"}], "tables": [], "text": null},
+    {"no": "19", "title": "Water Supply", "title_hi": "जलपूर्ति", "page": 3,
+     "fields": [{"label": "Water Supply", "value": "Well is provided Outside the Lighthouse, 3 HP Submersible pump provided for water pumping. Running water provided from 500 ltr sintex make tank fitted on powerhouse, HLK, LHA and IQ.."}], "tables": [], "text": null},
+    {"no": "20", "title": "Land", "title_hi": "भूमि", "page": 3,
+     "fields": [
+       {"label": "Area", "value": "1.470 hectares"},
+       {"label": "Demarcation", "value": "Compound wall on all the four sides"}
+     ], "tables": [], "text": null},
+    {"no": "21", "title": "Buildings", "title_hi": "इमारतें", "page": 3,
+     "fields": [
+       {"label": "RCC Structure: 06 Nos", "value": "Inspection Quarter, Powerhouse, HLK Quarter, One twin unit of LHA Quarters,Store."},
+       {"label": "Timber Construction above plinth level", "value": ""}
+     ], "tables": [], "text": null},
+    {"no": "22", "title": "Compound Lights", "title_hi": "कंपाउंड लाइट", "page": 3,
+     "fields": [{"label": "Compound Lights", "value": "8 Nos. G.I. Poles with LED lamp fitted Gate Light-02 10 Nos Solar LED street Light Gate lights – 2 Nos. 10 Nos Solar LED street Light"}], "tables": [], "text": null},
+    {"no": "23", "title": "CCTV CAMERA", "title_hi": "सीसीटीवीकमेरा", "page": 3,
+     "fields": [
+       {"label": "Camera", "value": ""},
+       {"label": "DVR", "value": ""}
+     ], "tables": [], "text": null},
+    {"no": "24", "title": "Staff", "title_hi": "स्टाफ", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sl. No", "Designations"],
+        "rows": [["1", "Navigational Assistant -III"], ["2", ""]]}
+     ], "text": "Header row on page 3; rows on page 4."},
+    {"no": "25", "title": "Mode of approach", "title_hi": "पहुँचने का माध्यम", "page": 4,
+     "fields": [{"label": "Mode of approach", "value": "By Train up to Bhatiya , Then 20Km by road up to Navadra and then 4kms rough road up to Lighthouse."}], "tables": [], "text": null},
+    {"no": "26", "title": "Facilities available", "title_hi": "उपलब्ध सुविधाए", "page": 4,
+     "fields": [{"label": "Facilities available", "value": "Post office at 4 KM from lighthouse at Navadra village.Police Station, Dispensary and Highschool at Bhatiya 24 km from Lighthouse.Hospital at Dwarka 65 KM from Lighthouse."}], "tables": [], "text": null},
+    {"no": "27", "title": "Postal address", "title_hi": "डाकपता", "page": 4,
+     "fields": [{"label": "Postal address", "value": "Station Incharge, Navadra Lighthouse, P.O. Bhatiya,Taluka- Kalyanpur, Dist- Devbhumi Dwarka Pin-361315."}], "tables": [], "text": null},
+    {"no": "28", "title": "Cost details (At the time of Construction)", "title_hi": "मूल्य का ब्योरा", "page": 4,
+     "fields": [{"label": "Cost details", "value": "15,56,198/-"}], "tables": [], "text": null},
+    {"no": "29", "title": "Date of commissioning", "title_hi": "प्रवर्तन मे लाने का दिनांक", "page": 4,
+     "fields": [{"label": "Date of commissioning", "value": "04/07/1986"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

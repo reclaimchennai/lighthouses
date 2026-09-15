@@ -1,0 +1,45 @@
+{
+  "slug": "murud-janjira-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Murud Janjira Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F 0559",
+  "position": {"lat_text": "18° 18' 85\" N", "lon_text": "72° 57' 58\" E", "lat": 18.323611, "lon": 72.966111},
+  "elevation_m": 80,
+  "characteristic_text": "Fl( 2)W15 seconds",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": null, "geographical_nm": 8, "text": "Luminous ---, Geographical 8 NM"},
+  "tower": {"type": "The existing concrete pillar Lighthouse tower is of 12m height and light equipment was installed on top of the tower earlier. It is reported that the light is non functional since so many years.", "height_m": 12, "colour_scheme": null},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": "All optic fields (make, type, rotation device, R.P.M.) are '---'",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "----"},
+  "ais": {"present": false, "text": "Base Station -N/A-"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": null, "generator": false, "text": "Mains blank; Standby -N/A-; engine and solar fields blank/----"},
+  "issues": [
+    "Ledger states the light is reported non functional for many years",
+    "Position seconds printed as 85\" (>= 60); converted as printed (may be 18° 18.85')",
+    "Date of commissioning blank; all optical equipment fields are '---'"
+  ]
+}

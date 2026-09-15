@@ -1,0 +1,66 @@
+                    मास्टर लेजर/ MASTER LEDGER
+क्रमसं                 नाम /Name
+ ख्या/                                                           वििरण/ Discription
+Sr.No
+     1.       ए.एल.ओ.एल/A.L.O.L.                    : F-0358
+     2.       स्थान/Position                        : Lat 22˚49.1’ N
+                                                      Long 69˚20.9’E
+     3.   ऊंचाई/Elevation                           : 9.2 M
+     4. अविलक्षण/Characteristic                     : RED Flash 1 every 3 Sec
+
+     5. नॉविकलमाइलमेदूरी                            : 10 NM
+        Range in miles
+     6. दीपस्तंि िािर/L.H.Tower                     : Masonry square Tower
+                                                    Height : 8 Mtrs
+                                                    : 1 Red and 1 white bands.
+                                                    Horizontal
+     7.           ऑप्टिकल उपकरण                     : Wealth marine beacon
+           Optical Equipment:-                      LED lantern
+            Type of Light (LED
+           Flasher)
+            प्रिािी बीम तीव्रता/ Effective          : -
+     8.
+           beam intensity
+     9.       LED flasher Input                     : 12 V DC (Range 100 AH type SMF make:
+              Voltage                               Power safe Exide charged by solar panel
+                                                    70w/12V
+     10.      Load current                           :-
+              Peak Power
+     11.      Colour of Light                       : - Red
+     12.      Horizontal Output                          :-
+     13.      Vertical Divergence                   :-
+              Physical
+              Characteristic:-
+              Body of Material
+
+              Lens Material
+              Lens Diameter
+              Lens Design
+              Mounting
+              Height
+              Width
+              Weight
+              Circuit Protection
+                                             Page 1 of 8
+              Water proof
+              Product Life
+              Expectancy
+14.    Make                               : Wealth marine beacon
+15.    Type of Light structure            : LED flashing light
+
+
+
+
+16. ADDRESS&                     C/o Station In-Charge
+    COMMUNICATION                Mandvi Lighthouse & VTS Station
+                                 Near Kharwa Pachawada Kutch, Gujarat
+                                 370 465
+                                 Telephone no. 02839-222981
+
+17. Date of Installation         : 1890
+
+
+
+
+                                   Page 2 of 8
+

@@ -1,0 +1,47 @@
+{
+  "nid": 1907,
+  "title": "Procurement of 25KVA Servo Voltage Stabilizers for Audio Video Project at Aguada Lighthouse and DGNSS Station under Goa Directorate",
+  "summary": "GeM bid for supply, installation, testing and commissioning of three 25 kVA single-phase servo voltage stabilizers at Aguada Lighthouse and DGPS Station, Goa, for the audio-video project (Goa Directorate).",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/6269044",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Goa"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Aguada Lighthouse & DGPS Station, Post Condolim, Sinquerim, Mapusa, Goa 403515", "station_id": "aguada-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Supply, installation, testing and commissioning of 3 sets 25 kVA servo voltage stabilizers"}
+  ],
+  "scope": [
+    {"item": "25KVA Single Phase Servo Voltage Stabilizer", "qty": "3", "unit": "set", "site": "Aguada Lighthouse & DGPS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": 24780.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 38 months",
+    "notes": "EMD advisory bank SBI, beneficiary Director, DLL Goa; MSE manufacturer EMD exemption per GeM GTC. 80% of product cost payable on delivery, minimum 20% allocated to installation, commissioning and testing (10 days after site readiness). MII and MSE purchase preference enabled. Option clause +/-25%. Estimated bid value not printed."
+  },
+  "period": {"completion": "15 days delivery; ICT within 10 days of site readiness", "bid_validity": "60 days from bid end date", "warranty": "3 years from final acceptance/commissioning; OEM warranty certificate required"},
+  "dates": {"published": "2025-05-23", "pre_bid": "2025-06-02", "bid_submission_end": "2025-06-13", "bid_opening": "2025-06-13"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 6 lakh; OEM average turnover: Rs 49 lakh",
+    "3 years past experience supplying same/similar category products to Central/State Govt/PSU",
+    "Past performance: 30% of bid quantity in one of last three financial years",
+    "MSE and DPIIT startup exemption from experience and turnover: Yes",
+    "Only Class-I/Class-II local suppliers; minimum local content 50% (Class 1) / 20% (Class 2)",
+    "Dedicated/toll-free service number, escalation matrix, functional service centre in consignee state (or within 30 days of award)"
+  ],
+  "specs": [
+    "25 kVA single phase servo voltage stabilizer; GeM category Servo Control Drive - Servo Motor Operated LVC as per IS 9815 (Part 1)",
+    "Material test certificate with supply; buyer lab test results sole acceptance criterion",
+    "Buyer specification document referenced (not included)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM-Bidding-Servo-Stabilizer.pdf", "pages": 7, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "GeM bid dated 23-05-2025; bid end 13-06-2025 19:00, opening 19:30; pre-bid 02-06-2025 15:00 at DLL Goa, Deep Bhavan, Bambolim. Two-packet bid, total value evaluation, no reverse auction. Consignee is Assistant Engineer (E), Aguada Lighthouse & DGPS Station; consignee's personal name and mobile number, and buyer's individual e-mail, not transcribed ([personal contact removed])."
+}

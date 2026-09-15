@@ -1,0 +1,203 @@
+                    Pentakota Lighthouse
+                         Estd.1957
+                  VISAKHAPATNAM DIRECTORATE
+                        MASTER LEDGER
+ 1.   Name                       : PENTAKOTA LIGHTHOUSE
+      Sr.No.
+ 2.                              : 0966
+      (as per A.L.O.L)
+                                   Lat: 170 18.0' N
+ 3.   Position                   :
+                                   Long: 820 37.0' E
+ 4.   Elevation                  : 18 Mtr
+                                       Fl. W 15 Sec.
+ 5.   Characteristic             :
+                                     (Fl. 1.5 +, ec. 13.5= 15 sec.)
+
+ 6.   Range in nautical miles
+      i)     Luminous        :        15 M
+       ii)   Geographical : 10           NM
+ 7. Lighthouse Tower
+      i)     Type            : Square Masonry
+      ii)    Height          : 17.6 Mtr
+      iii)   Colour
+                             : Black & White bands
+             Scheme
+ 8. Optical Equipment
+a)    i)     Make            : B.B.T
+      ii)    Size            : 150 mm (6th order) revolving
+      iii)   Focal
+                             : 150 NM
+             distance
+      iv)    No. of Panels   : 4 Nos.
+      v)     Area of
+             dioptric        : -
+             portion
+      vi)    Area of
+             catadioptric    : -
+             portion
+      vii)   Divergence
+                         Main            : Horizontal 7 0 30', Vertical 5 0 40'
+                         Standby         : NIL
+                         Emergency       : NIL
+                  viii) Duration of flash
+                    Main/ Standby       : 1.5 seconds
+                         Emergency       : ---
+b)         Pedestal                      : Mercury Float (14.7 Kg in use)
+
+                                           Twin stepper motor Direct Drive system.
+c)         Rotation Device               : i)Stepper motor :2 No 10Kg-cm (unique make)
+                                           ii) Controller: 2No 10Kg-Cm (unique make)
+
+d)         Rotation Speed                : 1 RPM
+e)         Illuminant
+                  i)        Main/Service : 150 W Metal halide lamps
+                  ii)       Standby      : 150W MH lamp.
+                  iii)      Emergency    : Nil
+
+f)        Effective Beam Intensity
+             i)           Main/Service : 4,38,480 cds.
+             ii)          Standby      : Nil
+             iii)         Emergency     : Nil
+
+     9.    Lantern
+                  i)        Diameter     :    1.0 Mtr
+                  ii)       Height of
+                                         : 0.8 Mtr
+                            glazing
+                  iii)      No. of panes :    6 Nos.
+                  iv)       Ventilators  :    7 Nos.
+
+10.         Energy Source
+                    A) APEPDCL Mains : single phase AC 230V
+                    B) Green Energy  : 1.36KW off grid solar power plant for main light.
+         i)        Solar panel        :     8 Nos. 24V/170W (TATA B.P make)
+         ii)       Battery Bank : 11 o 2V /500Ah (Exide Tubular)
+         iii)      PCU          : TATA B.P make 1 KVA /24V
+        C) Green Energy               : 0.34 KW off grid solar power plant for NAIS
+               i) Solar panel         : 2 Nos. 24V/170W( TATA B.P make)
+               ii) Battery Bank       : 4 Nos. 12V /150Ah (Exide SMF)
+              iii) PCU                : Hykon make 2 KVA /24V
+
+11. Diesel Engine Generator
+      Make                : Kirloskar
+      Model                       : KG15AS4 (Canopy)
+      Rating                      : 15KVA
+      Frequency                   : 50 HZ
+      Phase                       : single phase
+      RPM                         : 1500
+    Automatic Voltage
+12.                               : 1 No.
+    Stabilizers
+      Make                        : Supra- hitech
+      Model                       : SH-1100
+      Capacity                    : 10 KVA
+      Input                       : 170-270 V
+      Output                      :       230
+
+
+13. AMF Panel
+     Capacity                     : 15 KVA, 3 phase 25A.
+      Make                        : Elect India
+      Model                       : EMF15KM3G1-ICFTDM02
+
+
+14.   NAIS Equipment
+         i)        Make                   : M/s SAAB
+         ii)       AIS R40 Base
+                                          : S/No.5318
+                   Station
+             iii)    AIS R40 Base
+                                      : S/No 5330
+                     Station
+                                         (Connected with Cisco switch and PSM-
+                                         500LSatilite modem.)
+             iv)     V- SAT Dish
+                                      : 2.4 Mtr. dia
+                     Size
+             v)      VHF Antenna      : 1 Nos.
+             vi)     GPS Antenna      : 2 Nos.
+             vii)    Date of
+                     Commissioning : 20/12/2011
+
+
+
+15. Automation of Lighthouse.
+       i)   Make            : M/s Recktronic Devices & Systems, Pune.
+       ii)          RDS Panel       : 1No. in power house.( s.no.102946427)
+       iii)         RDS Panel     : 1No Service room. ( s.no102940389)
+       iv)          V-SAT Dish
+                                  : 1.2 Mtr dia
+                    Size
+       v)           Date of
+                    commissioning : 21/02/2013
+
+                                    9 Nos. GI Pole with 25W LED Light,
+16. Street Lights               :
+                                    2 Nos. Gate lights fittings
+
+17. Battery Charger             : 01 No.
+      Make                      : AE
+       Capacity                 : 60 Amps
+       Input                    : 230 V
+       Output                   : 0-30
+18. Firefighting equipment
+    Fire Extinguishers
+        i)      D.C.P. type
+                             : 1 No.
+       (3.2kg Capacity)
+        ii)     Foam type
+                             :   1 No.
+         (9 litres capacity)
+       iii)  Fire Buckets : Nil
+    Communication           NA-II Mobile No:- 9640783121
+19.                       :
+    Facility                E-mail : pentakotalighthouse@gmail.com
+
+
+
+20. Water Supply                  : Open well & 1 No. Tube Well
+
+
+21. Land
+          i)         Area         : 0.97 cers (approx.)
+          ii)        Demarcation : Masonry wall
+
+                                    Single unit of Inspection Quarter, store cum L.H.A
+22. Buildings                     :
+                                    Quarter power house.
+                                     i) N.A-II-01no,Ph.no.9640783121, N.A-III –
+                                        01NO.(Out sourcing) and Housekeeping-
+23. Staff                         :
+                                        01no.(Out sourcing)
+
+24. Mode of approach              : Up to Tuni by Rail then 23 km. by road.
+
+
+25. Facilities available          : a) Post Office within 1 km (Pentakota)
+                                      b) Govt. Hospital within 18 km (Payakaraopeta)
+                                      c) Govt. School within 18 km (Payakaraopeta
+                                      d) Nationalized Bank with 18 km (Payakaraopeta)
+
+                                    The Navigational Assistant Gr-II, Pentakota
+26. Postal Address                : Lighthouse, P.O. Pentakota, Via. Satyavaram,
+                                    District- Vizag. Andhra Pradesh, Pin: 535 204.
+
+27.   Cost Details
+
+          i)         Construction : Rs. 77,000.00
+          ii)        Cost of
+                                  : 1,41,000.00
+                     equipment
+      Year of first Light
+28.                         : 1957
+      Commissioned
+
+      Date of
+29.                         : 01-06-1957
+      Commissioning
+
+      Subsequent
+30.                         : 1991, 1997, 2002
+      Innovation
+

@@ -1,0 +1,41 @@
+{
+  "nid": 1814,
+  "title": "Providing Kerb stones & Laying of Paver blocks to existing internal road and supplying & fixing of Children Play equipment at Kasargod Lighthouse",
+  "summary": "E-tender for kerb stones and paver blocks on the internal road and supply and fixing of children's play equipment at Kasargod Lighthouse, Kerala, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-19002/1/2020-MS; I/70220/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kasargod Lighthouse, District Kasargod, Kerala-671121", "station_id": "kasargod-lighthouse", "kind": "lighthouse", "work": "Kerb stones and paver blocks on internal road; children play equipment"}
+  ],
+  "scope": [
+    {"item": "Providing Kerb stones & Laying of Paver blocks to existing internal road", "qty": null, "unit": null, "site": "Kasargod Lighthouse"},
+    {"item": "Supplying & fixing of Children Play equipment", "qty": null, "unit": null, "site": "Kasargod Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2460176.0,
+    "emd_inr": 49250.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of tender fee and EMD (or MSME/UDYAM/NSIC certificate) with technical documents by 29.01.2025 15:00. Tender fee Nil."
+  },
+  "period": {"completion": "120 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-01-09", "pre_bid": "2025-01-16", "bid_submission_end": "2025-01-30", "bid_opening": "2025-01-31"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Similar works completed in last 7 years: three each >= 40% of estimated cost, or two >= 50%, or one >= 80%",
+    "PAN and GST registration; CA-certified annual turnover of last three years"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (3).pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section-I NIT only; no BOQ, quantities or definition of similar works. Bid query last date 15.01.2025 15:00; download/submission 11.01.2025 10:00 to 30.01.2025 15:00; technical opening subject to internet availability."
+}

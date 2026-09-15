@@ -1,0 +1,172 @@
+                  मास्टर लेजर/MASTER LEDGER
+                              नॉर्थ पॉइटं दीपस्तंभ/NORTH POINT LIGHTHOUSE
+
+क्रमसं             नाम /Name
+                                                                            वििरण/Discription
+ख्या/
+Sr.No
+  1      ए.एल.ओ.एल/A.L.O.L.                 F 1205
+  2      स्थान/Position                     Lat.11° 42.28’ N
+                                            Long 92° 45.29’ E
+  3      ऊंचाई/Elevation                    72 M (Above MSL)
+  4      अभिलक्षण/Characteristic            fl (2) W 12 sec
+                                            fl 0.5,ec 1.0, fl 0.5, ec 10)
+  5      नॉटिकलमाइलमेदरू ी                  20 NM
+         Range in miles
+  6      दीपस्तंििािर/L.H.Tower             Type                                C.I. Circular tower on RCC Base
+                                            Height                              35M
+                                            Colour Scheme                       Red and White Spiral Band
+  7      ऑप्टिकलउपकरण                       Optic
+         Optical equipment                  Make                                BBT
+                                            Type
+                                            Size                                300 mm
+                                            No. of lens                         4
+                                            Area of dioptric portion            -
+                                            Area of catadioptric portion        -
+                                            Divergence                          0.38º (Horizontal)
+                                            Main/Emergency                      0.76º (Vertical)
+                                            Duration of Flash                   0.25 Sec
+                                            Main /Standby/Emergency
+                                            Pedestal                            Mercury float
+                                            Rotation Device                     Stepper motor
+                                            R.P.M.                              2.5
+                                            illumining
+                                            Main                                230V/400W Metal Halide Lamp
+                                            Standby                             LED Marine Lantern BDL 250 make
+                                                                                LMV lens dia 250mm
+                                            Emergency:
+                                            Date of Installation                12-07-1972
+  8      प्रिािीबीमतीव्रता/Effective beam   Main                                600000 cds
+         intensity                          Emergency
+  9      लेंिनन/Lantern                     Diameter                            2.5 m
+                                            Height of glazing                   1.3 m
+                                             No. of panes                     20
+                                             Ventilators                      09
+10   RACON
+     Make                    Model           Code                             Band                      Date of
+                                                                                                        Installation
+     Pharos Marine                                        K                   X                         16.09.2016
+11   NAIS
+     Base Station                               2 Nos-AIS1 & AIS2
+
+     Model                   Type            Power                            MMSI
+     R40                     Class A         AC-230V & DC-12V                 4198003
+     Communication
+     Equipment
+     VSAT Antenna            Band            Modem
+       2.4m dia              EX-C            Datum system
+       Parabolic                                 M7LT
+       reflector                             Satellite Terminal
+     DGPS
+     Transmitter Make        Frequency       Power Output RS 1 ID             RS -II       Beacon       Date of      Date of
+                                                                              ID           ID           commis       Recapit
+                                                                                                                     alizatio
+                                                                                                        sioning      n
+
+
+
+12   ऊर्ानकेसाधन/Sour        Mains                                            230 V 50 Hz Electricity Board Supply
+     ce of energy            Standby                                          DG Set 15 KVA make Kirloskar
+                             Engine 1
+                             Make/Type                    Qty        Rating   No of            RPM             Cooling
+                                                                              Cylinder
+                             Kirloskar                    1          20 BHP   2                1500            Air
+                             Alternator
+                             Make/Type                    Qty        Rating   Voltage/Amp      Frequency       Phase
+                             Kirloskar                    1          15 KVA   240V/12 A        50Hz            Single
+                             Solar Plant
+                             Capacity PV                  Numbers             Type        Battery              Bank
+                             7 KWp                        28 Nos              Mono        72 Nos               01 No.
+                                                                              Crystall    12V/600AH
+                                                                              ine
+                             1.8 KWp                      06 nos,300 W each   Mono        36 nos,2 V,600 AH    01 No.
+                                                                              crystalli
+                                                                              ne
+                             Solar Plant for Main RACON
+                             Capacity PV                  Numbers             Type        Battery              Bank
+                             70 W/12V                     01 No.              TBP         01 Nos                01 No.
+                                                                              1275        12V/100AH
+13   स्िचाभलत िोल्िे र् स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                Model               Capa         Input               Output                Phase      Qty
+                                             city
+     AE                  -                   12.5         230 V 50 Hz         230 V 50Hz            Single     01
+                                             KVA                                                    Phase
+14    बैिरर
+      Batteries
+      Equipment            Type               Make       Volt                     Amp/        Qty
+                                                                                  Hr
+      PSS NAIS                   -               -                -                  -                    -
+      Genset               Lead acid          Exide      12V                      100         1
+                                                                                  AH
+      Automation           SMF                Exide      12V                      42          2
+                                                                                  AH
+      DGPS
+ 15   बैिररचार्नर/ Battery charger
+
+      Equipment            Make               Mode Type                           Ratin       Qty
+                                              l                                   g
+      General Purpose
+      Automation             Power X           ---              ----               15                     01
+                              Engg                                                Amps
+ 16   इंवटट रInverter /UPS
+      Equipmen Nos Make               Model                      Type             Rating          Qty         input         output
+      t
+      Main            ---    ---                 ---                   ---              ---         ---          ---          ---
+      Light
+      NAIS PSS 02          APC                   ----            Pure sine        1 KVA           2           12V DC        230VA
+                                                                 wave                                         &             C
+                                                                                                              230 AC
+      DGPS          NA
+ 17   स्वचलनउपकरण
+      Automation Equipment
+      MAKE          PLC              HMI             Power Supply            VSAT             Modem            Band
+      NELCO         Schneider        Schneider       24 V DC                 1.8m dia         SkyEdg           EX.C
+                    &                                                        Parabolic        e
+                    Telemecaniq                                              reflector
+                    ue
+ 18   आप्ननशमनउपकरण                           Type of Extinguisher           Capacity             Nos           Make
+      Fire Fighting Equipment                 DCP Type                       6 kg                 3             Firestone
+                                              Water Co2                      9 Ltr                1             Omex
+                                              Foam Type                      9 Ltr                1             AFFF
+                                              Co2                            4.5 Kg               1             Firestone
+                                              Fire Bucket                    -                    6
+ 19   संचार                                   Not Available
+      Communication
+ 20   र्लपूर्तन                               Rain water collection tank provided.
+      Water Supply
+ 21   िूभम                                    Area                                            4.21 hectres
+      Land                                    Demarcation                                     Barbed wire fencing
+22   इमारतें                         RCC Structure                         Two separate staff quarters
+                                                                           and Building consisting of two
+     Buildings
+                                                                           rooms with A.C Sheet roofing
+                                                                           of size (40 Sq.m) to serve as
+                                                                           store and power house.)
+
+23   कंपाउं डलाइि                    LED Light fitted on G.I Pole-25 Nos
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera                                04 Nos
+      CCTV CAMERA                    DVR                                   01 Nos
+25   स्िाफ                           Sl. No       Designations
+     Staff                           1              Navigational Assistant Gr-III
+                                     2              LHA
+26   पहुँचनेकामाध्यम                 Distance is around 10 Km from Port Blair, travel by mechanized boat
+                                     from Chatham jetty to northpoint jetty, then by walk of half a KM.
+     Mode of approach
+                                     Alternate way to the Lighthouse can be approached by road from Port
+                                     Blair and distance is 50 Km approx.
+27   उपलब्धसविधाए                    The nearest Post office, Dispensary, High School, Police Station all
+                                     are available at Port Blair / Bambooflat at a distance of 12 Km.[
+     Facilities available
+                                     Approach road is broken after Earth quake and Tsunami]
+28   डाकपताPostal address            C/o The Director
+                                     Dte. Of Lighthouses and Lightships
+                                     Deep Bhavan
+                                     44 B.S Road, Port Blair Pin: 744202.
+29   मूल्यकाब्योराCost details       N/A
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          12.07.1972
+     Date of commissioning
+

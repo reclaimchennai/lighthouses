@@ -1,0 +1,43 @@
+{
+  "slug": "nagapattinam-lighthouse-and-dgps-station",
+  "pages_read": [1, 2, 3, 4, 5, 6, 7],
+  "name": "Nagapattinam Lighthouse and DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1969,
+  "alol": "F 0914",
+  "position": {"lat_text": "10° 45' 9\" N", "lon_text": "79° 51' 1\" E", "lat": 10.759167, "lon": 79.850278},
+  "elevation_m": 50,
+  "characteristic_text": "Flash (2) White in every 20 Seconds (0.5+2.0)+0.5+17.0)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "(0.5+2.0)+0.5+17.0",
+    "sequence_s": [0.5, 2.0, 0.5, 17.0],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": 19, "text": "Luminous 18 NM, Geographical 19 NM"},
+  "tower": {"type": "Circular stone Masonry Tower", "height_m": 48, "colour_scheme": "Black & White Band"},
+  "optic": {
+    "make": "MSM", "model": "MBR-300", "type": "Rotating Beacon", "size": "140 mm", "order": null,
+    "panels": 2,
+    "rotation_device": "20kg/cm, Stepper motor controller, make: Unique Systems & Controls Pvt Ltd; 12V/DC Stepper motor",
+    "rpm": 1.5,
+    "rotates": true,
+    "rotates_evidence": "Optic/type: Rotating Beacon; Rotation device: stepper motor; RPM 1.5",
+    "divergence_horizontal_deg": 2.4,
+    "divergence_vertical_deg": 4.0,
+    "divergence_text": "Horizontal 2.4°, Vertical 4.0°",
+    "illuminant": "150W MH lamp (CDMT), single ended, 1 no. Philips"
+  },
+  "intensity_cd": 166000,
+  "racon": {"present": true, "code": "G", "text": "M/s Pharos Marine, Model PMAPI RACON-2, SL NO 20180764SJP, X-band 9300-9500 MHz, Morse Code --• (G); commissioned 21-12-2018"},
+  "ais": {"present": true, "text": "NAIS with V-SAT commissioned 31-3-2012: PSS 2 nos, router, modem; Frequency 161.975 MHz & 162.025 MHz"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Local mains 3Ø 440V 50Hz; standby 2 Diesel Generator sets (20KVA); 25KW on-grid solar; emergency 140 mm drum optic flasher (halogen 12V/100W)"},
+  "issues": [
+    "Characteristic bracket unbalanced as printed: '(0.5+2.0)+0.5+17.0)'"
+  ]
+}

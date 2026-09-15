@@ -1,0 +1,41 @@
+{
+  "nid": 1701,
+  "title": "Modification work to the Lighthouse Tower at Azhikod Lighthouse & DGNSS Station",
+  "summary": "E-tender for modification work to the lighthouse tower at Azhikod Lighthouse and DGNSS Station, Thrissur district, Kerala, tendered by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-12002/1/2020-MS; I/61197/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Azhikod Lighthouse & DGNSS Station, Dist. Thrissur, Kerala 680666", "station_id": "azhikode-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Modification work to the lighthouse tower"}
+  ],
+  "scope": [
+    {"item": "Modification work to the Lighthouse Tower (no BOQ in this notice)", "qty": null, "unit": null, "site": "Azhikod Lighthouse & DGNSS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3800000.0,
+    "emd_inr": 76000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost printed as Rs 38.00 lakh. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents by post or in person by 21.08.2024 15:00."
+  },
+  "period": {"completion": "180 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-07-22", "pre_bid": "2024-08-13", "bid_submission_end": "2024-08-22", "bid_opening": "2024-08-23"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Government/PSU/autonomous bodies",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%",
+    "PAN and GST registration",
+    "Annual turnover of last three years certified by Chartered Accountant"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (1) (1) (1).pdf", "pages": 3, "read": "mixed", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only; no BOQ. Text layer is OCR (GlyphLessFont) that dropped the yellow-highlighted values, so pages 1-2 were rendered and read visually. Bid download/submission 25.07.2024 09:00 to 22.08.2024 15:00; bid query last date 12.08.2024 15:00. Listing end date 2024-08-21 matches EMD deadline rather than bid submission end."
+}

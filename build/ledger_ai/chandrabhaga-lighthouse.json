@@ -1,0 +1,41 @@
+{
+  "slug": "chandrabhaga-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Chandrabhaga Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F 1003",
+  "position": {"lat_text": "19° 52.3' N", "lon_text": "86° 06.36' E", "lat": 19.871667, "lon": 86.106},
+  "elevation_m": 37,
+  "characteristic_text": "FL W 10 Sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 14.5, "geographical_nm": 16.5, "text": "Luminous 14.5 NM, Geographical 16.5 NM"},
+  "tower": {"type": "Circular RCC Tower", "height_m": 30.5, "colour_scheme": "Red and White Bands"},
+  "optic": {
+    "make": "Stone Chance, France", "model": null, "type": "revolving", "size": "4th order small, Focal Length 250 mm", "order": "4th order small",
+    "panels": 2,
+    "rotation_device": null,
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Size: 4th order small, revolving; RPM 3; inverter for 'Rotation'",
+    "divergence_horizontal_deg": 5.3,
+    "divergence_vertical_deg": 3.24,
+    "divergence_text": "5.30 (Horiz.) & 3.24 (Vert.)",
+    "illuminant": "70W MH lamp (03 Nos. in cluster)"
+  },
+  "intensity_cd": 10500,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "AIS Base station 02 Nos. Saab Transponder; commissioned December 2011"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "3 Phase 440 V 50Hz mains from CESU; 15 kWp on-grid solar; standby Kirloskar genset (15 kVA)"},
+  "issues": ["Divergence printed as '5.30 (Horiz.) & 3.24 (Vert.)' without degree sign or unit; could be degrees-minutes", "Elevation: ground 6.5 m, 'Elevation of tower' 37m (used as light elevation)", "Panels: 2 (each of 120 degree)"]
+}

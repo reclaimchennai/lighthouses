@@ -1,0 +1,269 @@
+{
+  "slug": "nagapattinam-lighthouse-and-dgps-station",
+  "page_count": 7,
+  "title_as_printed": "मास्टर लेज़र/MASTER LEDGER — नागपट्टिनम दीपस्तंभ और डीजीपीएस स्टेशन/ NAGAPATTINAM LIGHTHOUSE AND DGPS STATION",
+  "column_headers_as_printed": ["क्रम संख्या/ Sr.No", "नाम /Name", "विवरण / Discription"],
+  "sections": [
+    {"no": "1.", "title": "Name", "title_hi": "नाम", "page": 1,
+     "fields": [{"label": "Name", "value": "नागपट्टिनम दीपस्तंभ और डीजीपीएस स्टेशन/NAGAPATTINAM LIGHTHOUSE AND DGPS STATION"}], "tables": [], "text": null},
+    {"no": "2.", "title": "SL No: (As Per A.L.O.L.)", "title_hi": "क्रम संख्या", "page": 1,
+     "fields": [{"label": "SL No: (As Per A.L.O.L.)", "value": "F 0914"}], "tables": [], "text": null},
+    {"no": "3.", "title": "Position", "title_hi": "स्थान", "page": 1,
+     "fields": [{"label": "Lat", "value": "10˚ 45’ 9’’ N"}, {"label": "Lon", "value": "79˚ 51’ 1’’ E"}], "tables": [], "text": null},
+    {"no": "4.", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1,
+     "fields": [{"label": "Elevation", "value": "50 Meters above MSL"}], "tables": [], "text": null},
+    {"no": "5.", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1,
+     "fields": [{"label": "Characteristic", "value": "Flash (2) White in every 20 Seconds (0.5+2.0)+0.5+17.0)"}], "tables": [], "text": null},
+    {"no": "6.", "title": "Range in miles", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1,
+     "fields": [
+       {"label": "(i) प्रकाशमान / Luminous", "value": "18 NM"},
+       {"label": "(ii) भौगोलिक /Geographical", "value": "19 NM"}
+     ], "tables": [], "text": null},
+    {"no": "7.", "title": "L.H.Tower", "title_hi": "दीपस्तंभ टावर", "page": 1,
+     "fields": [
+       {"label": "(i) प्रकार /Type", "value": "Circular stone Masonry Tower"},
+       {"label": "(ii) उंचाई /Height", "value": "48 Meters"},
+       {"label": "(iii) रंग योजना / Colour Scheme", "value": "Black & White Band"}
+     ], "tables": [], "text": null},
+    {"no": "8.", "title": "Optical equipment", "title_hi": "ऑप्टिकल उपकरण", "page": 1,
+     "fields": [
+       {"label": "Optical equipment", "value": "MBR-300"},
+       {"label": "(a) Optic/ type", "value": "Rotating Beacon"},
+       {"label": "(i) Make", "value": "MSM"},
+       {"label": "(ii) Size", "value": "140 mm"},
+       {"label": "(iii) No of panels", "value": "2"},
+       {"label": "(iv) Area of Di optic portion", "value": "NA"},
+       {"label": "(v) Area of Catadioptric portion", "value": "NA"},
+       {"label": "(vi) Total Corrected Area", "value": "NA"},
+       {"label": "(vii) Divergence", "value": "NA"},
+       {"label": "Horizontal", "value": "2.4°"},
+       {"label": "Vertical", "value": "4.0°"},
+       {"label": "(b) Pedestal", "value": "NA"},
+       {"label": "(c) Rotation device", "value": "20kg/cm, Stepper motor controller, make: Unique Systems & Controls Pvt Ltd 12V/DC Stepper motor"},
+       {"label": "(d) RPM", "value": "1.5"},
+       {"label": "(e) Illuminant:", "value": "150W MH lamp (CDMT)"},
+       {"label": "Cluster/ Single ended", "value": "Single Ended"},
+       {"label": "No. of lamps & Make", "value": "1 no. & Philips"},
+       {"label": "Wattage", "value": "150W"},
+       {"label": "Ballast Details", "value": "Electronic Ballast"},
+       {"label": "No. of Ballast & Make", "value": "1 & Kiwik Lite"},
+       {"label": "Wattage of Ballast", "value": "150W"},
+       {"label": "(f) प्रभावी बीम तीव्रता / Effective beam intensity", "value": "1,66,000 candelas"}
+     ], "tables": [], "text": "Items (vi) onward printed on page 2."},
+    {"no": "9.", "title": "Lantern", "title_hi": "लेंटर्न", "page": 2,
+     "fields": [
+       {"label": "(i) Diameter", "value": "4.42 Mts"},
+       {"label": "(ii) Height of glazing", "value": "2.438 Mts"},
+       {"label": "(iii) No of panels", "value": "48 (Partially ¼ area Blocked on land side)"},
+       {"label": "(iv) Ventilators", "value": "15 nos"}
+     ], "tables": [], "text": null},
+    {"no": "10.", "title": "Source of energy", "title_hi": "ऊर्जा के साधन", "page": 2,
+     "fields": [
+       {"label": "(i) Local Mains", "value": "3Ø, 440V, 50Hz, CL:30KW with solar net metering"},
+       {"label": "(ii) Emergency", "value": "140 mm Drum Optic Flasher (Halogen Lamp 12V/ DC/100 Watts)"},
+       {"label": "(iii) Stand By", "value": "Diesel Generator set - 2 nos (20KVA)"}
+     ], "tables": [], "text": null},
+    {"no": "11.", "title": "Inverter /UPS", "title_hi": "इंवर्टर", "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sr No", "Make", "Date of Installation", "Input Volts DC", "Output Volts", "Capacity", "Used for"],
+        "rows": [
+          ["1", "“UTL COMBO” Make", "20.4.2011", "12 V", "230V", "800 VA", "Main Lamp"],
+          ["2", "Hykon", "6-7-2006", "48 V", "230V", "3 KVA", "DGPS"],
+          ["3.", "Hykon", "6-7-2006", "120 V", "230V", "5 KVA", "Transmitters"],
+          ["4.", "", "", "", "", "", ""]
+        ]}
+     ], "text": null},
+    {"no": "12.", "title": "No of Diesel Generator set", "title_hi": null, "page": 3,
+     "fields": [{"label": "No of Diesel Generator set", "value": "2 nos (Date of Installation:27-4-2013)"}],
+     "tables": [
+       {"caption": "Details of Diesel engines: 20KVA / 32HP", "columns": ["Sr. No", "Engine No", "Make", "Type", "No. of cylinders", "HP", "RPM", "Cooling"],
+        "rows": [
+          ["A", "03.2145/1320285", "HA394 Kirloskar Green", "Diesel", "3", "32", "1500", "Air Cooling"],
+          ["B", "03.2145/1320303", "HA394 Kirloskar Green", "Diesel", "3", "32", "1500", "Air Cooling"]
+        ]},
+       {"caption": "Details of Alternator", "columns": ["Sr No", "Serial No", "Make", "KVA", "Volts", "Hz", "Phase", "RPM"],
+        "rows": [
+          ["A", "CSID013A21941-H", "Kirloskar", "20", "230V", "50Hz", "Single", "1500"],
+          ["B", "CSID013A21943-H", "Kirloskar", "20", "230V", "50Hz", "Single", "1500"]
+        ]}
+     ], "text": null},
+    {"no": "13.", "title": "Automatic Voltage Stabilizers/ AMF Panel", "title_hi": "स्वचालित वोल्टेज स्टेबलाइजर", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Make and Sl.no", "Input /EB", "Input/DG", "Capacity", "With or without Distribution System"],
+        "rows": [["ELECT & Model No: MSC-EMF20K3-2G1-Es0010110", "440V 3Ø", "240V 1Ø", "20 KVA", "With distribution system"]]},
+       {"caption": "Automatic voltage stabilizer", "columns": ["Sr No", "Make", "Input", "Output", "Capacity", "Qty"],
+        "rows": [["A", "ITL", "170-240V, 1Ø", "230V, 1Ø", "12.5 KVA", "7nos"]]}
+     ], "text": null},
+    {"no": "14.", "title": "Batteries", "title_hi": "बैटरि", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sr No.", "Where used", "Date of Installation", "Qty in Nos.", "Type", "Make", "Volts", "Amp-Hr"],
+        "rows": [
+          ["(a)", "For starting of engines", "13-8-2018", "2nos", "Lead Acid Battery", "Exide Express", "12V", "150AH"],
+          ["(b)", "For RACON", "21-12-2018", "1no", "SMF", "Exide Power safe", "12V", "150AH"],
+          ["(c)", "UPS (Main lamp)", "14-8-2018", "2nos", "SMF", "Exide Power safe", "12V", "150AH"],
+          ["(d)", "UPS - 5 KVA & 3 KVA (Transmitter & DGPS)", "26-11-2019", "10nos+ 4nos", "SMF", "Exide Power safe", "12V", "64AH"]
+        ]}
+     ], "text": null},
+    {"no": "15.", "title": "Battery charger", "title_hi": "बैटरि चार्जर", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sr No.", "Make", "Volts", "Capacity", "Qty in Nos."],
+        "rows": [
+          ["(a)", "AE", "Input-230V AC & Output-0-30V DC", "40 Amps", "1no"],
+          ["(b)", "Manually assembled one", "Input-230V AC & Output-0-30V DC", "20 Amps", "1no"]
+        ]}
+     ], "text": null},
+    {"no": "16.", "title": "Fire Fighting Equipment", "title_hi": "आग्निशमन उपकरण", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sr No", "Equipment", "Type", "Capacity", "Qty"],
+        "rows": [
+          ["(i)", "Fire Extinguisher", "DCP", "3.2Kgs-1no 5 Kgs-2 nos 6Kgs-1no", "4 nos"],
+          ["(ii)", "Fire Extinguisher", "Foam CO2", "9 LTS 4.5 Kgs", "2nos 3nos"],
+          ["(iv)", "Fire Buckets and Fire stand", "---", "----", "4nos& 1no"]
+        ]}
+     ], "text": "Heading on page 3; table on page 4. No row (iii) is printed."},
+    {"no": "17.", "title": "Communication", "title_hi": "संचार", "page": 4,
+     "fields": [
+       {"label": "(i) BSNL Phone", "value": "Phone number :04365-242536 & Mail id: nagapattinamdgps@gmail.com"},
+       {"label": "(ii) Fax Machine", "value": "Panasonic make, model: KX-FP701 – 1 No (Faulty)"}
+     ], "tables": [], "text": null},
+    {"no": "18.", "title": "Water Supply", "title_hi": "जलपूर्ति", "page": 4,
+     "fields": [{"label": "Water Supply", "value": "Municipal Water Supply (3 Separate lines) up to Sumps and after pumping to over head tank & distributed to all staff Qrs, I.Qrs, etc.,"}], "tables": [], "text": null},
+    {"no": "19.", "title": "Land", "title_hi": "भूमि", "page": 4,
+     "fields": [
+       {"label": "(i) Area", "value": "0.639 Hectares"},
+       {"label": "(ii) Demarcation", "value": "Compound Wall"},
+       {"label": "(iii) No of fruit bearing trees", "value": "4"},
+       {"label": "(iv) No of fruit bearing Coconut trees", "value": "3"},
+       {"label": "(v) No of non –fruit bearing trees", "value": "38"}
+     ], "tables": [], "text": null},
+    {"no": "20.", "title": "Buildings", "title_hi": "इमारतें", "page": 4,
+     "fields": [{"label": "Buildings", "value": ""}], "tables": [], "text": null},
+    {"no": "21.", "title": "Type of compound wall", "title_hi": null, "page": 4,
+     "fields": [], "tables": [],
+     "text": "1) RCC wall provided in East/South side\n2) Brick masonry wall provided in North & West side"},
+    {"no": "22.", "title": "Compound Lights", "title_hi": "कंपाउंड लाइट", "page": 4,
+     "fields": [{"label": "Compound Lights", "value": "8nos and main gate light-2nos"}], "tables": [], "text": null},
+    {"no": "23.", "title": "Staff", "title_hi": "कर्मचारीयों", "page": 4,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["No.", "Name", "Designation"],
+        "rows": [
+          ["(i)", "Shri.V.Chinnasamy", "A.E(E/T)"],
+          ["(ii)", "Shri.C.Kannan", "NA Gr-II"],
+          ["(iii)", "Shri.M.Desingh", "NA Gr-II"],
+          ["(iv)", "Shri.Gouravkumar", "NA Gr-III"],
+          ["(V)", "Out sourced staff", "2"]
+        ]}
+     ], "text": "No column headings are printed for the staff list."},
+    {"no": "24.", "title": "Mode of approach", "title_hi": "पहुँचने का माध्यम", "page": 4,
+     "fields": [{"label": "Mode of approach", "value": "By bus & Rail"}], "tables": [], "text": null},
+    {"no": "25.", "title": "Facilities available", "title_hi": "उपलब्ध सुविधाए", "page": 4,
+     "fields": [{"label": "Facilities available", "value": "Post office at 1Km, Hospital at 1Km, High School at 2 Km & Police Station at 1 Km limits are available"}], "tables": [], "text": null},
+    {"no": "26.", "title": "Postal address", "title_hi": "डाक का पता", "page": 4,
+     "fields": [{"label": "Postal address", "value": "Assistant Engineer (Electronics) Nagapattinam Lighthouse and DGPS, Marawady street, NAGAPATTINAM. Tamil Nadu-611 001."}], "tables": [], "text": null},
+    {"no": "27.", "title": "Date of commissioning", "title_hi": "चालू करने की तिथि", "page": 5,
+     "fields": [{"label": "Date of commissioning", "value": "05-7-1969"}], "tables": [], "text": null},
+    {"no": "28.", "title": "Remarks ( Date of Conversion)", "title_hi": null, "page": 5,
+     "fields": [
+       {"label": "(i) Conversion from incandescent equipment to MH lamp (Cluster)", "value": "PRB: 21 Equipment was changed with MBR-300 equipment on 30-9-2010"},
+       {"label": "(ii) Halogen Lamp to LED Lamp", "value": "NIL"}
+     ], "tables": [], "text": null},
+    {"no": "29.", "title": "Solar System", "title_hi": null, "page": 5,
+     "fields": [],
+     "tables": [
+       {"caption": "1. ON Grid : 25KW (Date of Installation: 19-8-2016)", "columns": ["Sl. No", "Particulars", "Make", "Ratings/voltage", "Quantity"],
+        "rows": [
+          ["1.", "Solar Panel", "M/s EMMVEE", "36.8V/315W", "80 nos"],
+          ["2.", "Mounting Solar Structure", "…", "……", "……."],
+          ["3.", "Inverter", "M/s Delta", "30KW", "1 no"],
+          ["4.", "AC Distribution Panel", "", "", "1no"],
+          ["5.", "DC Distribution Panel", "", "", "1no"],
+          ["6.", "DATA Logger", "M/s Delta", "", "1no"],
+          ["7.", "", "", "", ""],
+          ["8.", "", "", "", ""]
+        ]},
+       {"caption": "2. EARTHINGS", "columns": ["Sl. No", "Particulars", "Material Size of Earth", "Quantity"],
+        "rows": [
+          ["1.", "TowerLightning Arrester", "2’X2’ size copper plate", "1 no."],
+          ["2.", "RACON", ",,", "1 no."],
+          ["3.", "Generator", ",,", "2 nos"],
+          ["4.", "Solar panel", ",,", "2nos"],
+          ["5.", "Inverter", ",,", "1 no."],
+          ["6.", "RCS", "----", "1 no"],
+          ["7.", "AMF Panel", "----", "1no"],
+          ["8.", "Equipment(DGPS)", "----", "2nos"]
+        ]}
+     ], "text": null},
+    {"no": "01", "title": "OTHER NAVIGATIONAL AIDS :- Differential Global Positioning System (DGPS) Date of Installation:06.7.2006", "title_hi": null, "page": 5,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sr No", "Particulars", "Qty"],
+        "rows": [
+          ["(i)", "Reference Station MX 9310 (Leica make)", "2nos"],
+          ["(ii)", "Integrity Monitor MX 9320 (Leica make)", "1 no"],
+          ["(iii)", "Chock Ring Antenna (Leica make)", "3 nos"],
+          ["(iv)", "Beacon Antenna (Leica make)", "1 no"],
+          ["(v)", "Computer with keyboard & mouse “Acer Brand”", "1set"],
+          ["(vi)", "Transmitter (NAUTEL)", "2 nos"],
+          ["(vii)", "Automatic tuning Unit (Nautel make)", "1 no"],
+          ["(viii)", "EPSON LQ 1150 (DOT matrix printer)", "1 no"],
+          ["(ix)", "Beacon ID Number", "113"],
+          ["(x)", "Baud rate", "9600"],
+          ["(xi)", "Operation", "Omni Directional"],
+          ["(xii)", "Modulation", "MSK"],
+          ["(xiii)", "Coding", "No added coding"],
+          ["(xiv)", "RSIM Software", "Leica-BSC version 1.2.4"],
+          ["(xv)", "Cost of the equipment", "Not known"],
+          ["(xvi)", "Air conditioners (1.5 Ton, LG Make, split type)", "3 nos"],
+          ["(xvii)", "Installed on", "13.11.2010,27.01.2011 &13.11.2010"],
+          ["(xviii)", "Frequency range", "323 KHZ"]
+        ]}
+     ], "text": "Table spans pages 5-6."},
+    {"no": "02", "title": "NAIS Details with V-SAT / Date of Commissioning: 31-3-2012", "title_hi": null, "page": 6,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sl.No", "Particulars & Sl. No of equipment", "Quantity"],
+        "rows": [
+          ["1", "PSS", "2 nos"],
+          ["2", "Router", "1 no"],
+          ["3", "Modem", "1 no"],
+          ["4", "UPS (1KVA) Make: M/s APC", "1 no"],
+          ["5", "Isolation Transformer", "1 no"],
+          ["6", "Frequency : 161.975 MHz & 162.025 MHz", "---"],
+          ["7", "Bit rate: 64 kbps", "---"]
+        ]}
+     ], "text": null},
+    {"no": null, "title": "RACON Details / Date of Commissioning: 21-12-2018", "title_hi": "रेकॉन विवरण", "page": 6,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sl.No", "Particulars & Sl. No of equipment", "Quantity"],
+        "rows": [
+          ["1.", "Make: M/s.PHAROS MARINE Model No.PMAPI RACON-2", "1 no"],
+          ["", "SLNO: 20180764SJP X-BAND", ""],
+          ["", "Band Range: 9300-9500 MHZ", ""],
+          ["", "Transmission/Stand by Current: 20mA/118mA", ""],
+          ["", "Morse Code: --●(G)", ""]
+        ]}
+     ], "text": null},
+    {"no": "03", "title": "Automation Equipment (Date of Installation: 27-02-2014)", "title_hi": "स्वचलन उपकरण", "page": 6,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sl.No", "Name of Equipments", "type", "Ratings", "Quantity"],
+        "rows": [
+          ["1", "Bottom panel", "", "", "1 no"],
+          ["2", "Top panel", "", "", "1 no"],
+          ["3", "LED type computer", "HP make", "", "2 nos"],
+          ["4", "LASER printer", "HP LaserJet P1108", "", "1 no"],
+          ["5", "1 KVA UPS", "APC make", "", "2 nos"],
+          ["6", "1.5 Ton A/C", "Voltas make Split type", "", "1 no"],
+          ["7", "V-sat Antenna", "", "", "1 no"]
+        ]}
+     ], "text": "Heading on page 6; table on page 7."}
+  ],
+  "unreadable": []
+}

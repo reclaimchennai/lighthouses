@@ -1,0 +1,173 @@
+मास्टर लेजर/MASTER LEDGER
+क्रमसं        नाम /Name                                        वििरण/Description
+ ख्या/
+Sr.No
+   1      ए.एल.ओ.एल/A.L.O.L.                                           F 0651
+   2        स्थान/Position                              Lat. 130 39.6’N Long. 740 39.5’E
+   3       ऊंचाई/Elevation                                             34.5m
+   4     अविलक्षण/Characteris                                     fl (2)W 10 Sec.
+                  tic
+  5       नॉविकलमाइलमेदूरी                        i)        Luminous               :18 NM
+            Range in miles                        ii)       Geographical           :19 NM
+
+  6      दीपस्तंििािर/L.H.Tow                  Type                            Round R.C.C. Tower
+                   er
+                                              Height                                  31.5 m
+                                          Colour Scheme                  Red & White bands (3 Red & 2
+                                                                                White bands)
+  7          ऑविकलउपकरण                        Optic
+           Optical equipment
+                                               Make                     WM – RB 500 Marine Rotating
+                                                                                   Beacon
+                                              Type                     Wealth Marine Pvt. Ltd., Singapore
+                                               Size                                200mm
+                                            No. of lens                  6 (4 Fresnellens + 2 blanks)
+
+                                      Area of dioptric portion
+                                     Area of catdioptricportion
+                                    DivergenceMain/Emergency             Horizontal - 1.650, Vertical 2.420
+                                         Duration of Flash                            0.1 Sec.
+                                     Main /Standby/Emergency
+                                              Pedestal                       GI rectangular pedestal
+                                          Rotation Device              Dual Stepper Motor 40 Kg/cm with
+                                                                                auto change over
+                                               R.P.M.                                   3
+                                            illumining
+                                                Main                                 MH 70W
+                                              Standby
+                                           Emergency:
+                                        Date of Installation                        23.10.2007
+  8      प्रिािीबीमतीव्रता/Effect        Main & Standby                              70408 cd
+            ive beam intensity             Emergency
+  9            लेंिनन /Lantern              Diameter                                   2.4 m
+                                         Height of glazing
+                                          No. of panels                                 12
+                                           Ventilators                                  11
+ 10           RACON n/a                        Sr. No                                  6295
+        Make           Mod                       Code                            Band                     Date of
+                        el                                                                              Installation
+          --            --                        --                                 --                      --
+11                                                      NAIS
+        Base Station                                                   -NA-
+        Model       Type                     Power                             MMSI
+
+     Communicati                                 -NA-
+     on Equipment
+     VSAT Antenna Band                       Modem
+
+        DGPS
+     Transmitter       Freq         Power Output               RS 1     RS -II            Beaco      Date    Date of
+        Make           uenc                                     ID       ID                n ID        of   Recapitaliz
+                                                                                                              ation
+                         y                                                                          comm
+                                                                                                    issioni
+                                                                                                      ng
+
+
+12   ऊर्ान केसाधन/                       Mains
+      Source of                         Standby
+       energy                                                    Engine 1
+                                Make/Type               Qty    Rating        No of                  RPM          Cooling
+                                                                            Cylinder
+                              KIRLOSKAR/ EA-16          01     16bhp            2                   1500          AIR
+                                                               11.8k
+                                                                       w
+                                                                Alternator
+                                Make/Type               Qty    Rating Voltage/Amp                 Frequency      Phase
+                                KIRLOSKAR               01     7.5KV    240V/ 31.2A                  50HZ          1
+                                                                 a
+                                                                 Engine 2
+                                Make/Type               Qty    Rating       No of                   RPM          Cooling
+                                                                           Cylinder
+
+                                                                Alternator
+                                Make/Type               Qty    Rating Voltage/Amp                 Frequency      Phase
+
+                                         Solar Plant
+                                Capacity PV                Numbers        Type                      Battery       Bank
+                                 12V/ 70 W                    5        Monocrystallin                EXIDE         2
+                                 12V/ 80 W                   16             e                     600AH VRLA
+                                Solar Plant for Main RACON
+                                Capacity PV                Numbers            Type                 Battery        Bank
+                                  ---                     ---         ---             ---                          ---
+13                       स्वचावलतिोल्टे र्स्टे बलाइर्र/Automatic Voltage Stabilizers
+       Make          Model         Capacity             Input        Output          Phase                        Qty
+      V S POWER      VSP/SE           5kva             160-260        240               1                         01
+       SYSTEMS       RVO/AI
+                        R-
+                      INDIA
+                    22001
+                     068
+14                                        बैिरर/ Batteries
+      Equipment        Type          Make           Volt         Amp/Hr             Qty
+       PSS NAIS          n/a
+
+        Genset           MF          EXIDE               12V      150AH              01
+      Automation         MF        AMARON                12V      26AH             02 NO.S
+         DGPS
+15                                     बैिररचार्नर/ Battery charger
+     Equipment      Make            Model            Type         Rating            Qty
+      General
+      Purpose
+     Automation
+
+
+16                                       इं वर्ट र /Inverter /UPS
+     Equipmen     No     Make           Model             Type    Rating    Qt      input      output
+         t         s                                                         y
+       Main              EXIDE     EXIDE HOME UPS                650VA      01     220VAC          220V
+       Light                                                                         5A
+     NAIS PSS             -NA-
+       DGPS               -NA-
+17                                          स्वचलनउपकरण
+                                         Automation Equipment
+     MAKE          PLC              HMI         Power      VSAT            Mode             Band
+                                                Supply                       m
+     NELC   Telemecaniqu         SCHNEIDER      24V DC      --              Sky
+      O        e 4 PORT           ELECTRIC                                 Edge
+                SWITCH
+18    आविशमनउपकरण                 Type of Extinguisher         Capacity      Nos             Make
+        Fire Fighting                DCP Type(u/s)
+         Equipment                   DCP Type(u/s)
+                                    Foam Type(u/s)
+                                    Water Type(u/s)
+                                       DCP Type
+
+
+19         संचार                                BSNL Tel. No :
+       Communication
+20        र्लपूवतन                   a) Hand drawn from a well insideLighthousecompound.
+        Water Supply                              b) Electric water pump set.
+21          िूवम                                Area                        3900 Sq.mt. /1.12 acre
+           Land                              Demarcation                      Laterite masonry
+                                                                                 compound
+22          इमारतें             One unit of ALK Qtrs., One unit of LHA Qtr., one unit of Power house,
+           Buildings             Office & Store room, one unit of Inspection Qtrs. and C.C. internal
+                                                         road and pathways
+23       कंपाउं डलाइि                                  10no.s, 2no.s Gate Light
+       Compound Lights
+24      सीसीिीिीकमेरा                            Camera
+        CCTV CAMERA                               DVR
+25          स्टाफ                        Sl. No                           Designations
+             Staff                          1                  NAVIGATIONAL ASSISTANT GRADE I
+                                            2
+26      पहुँ चनेकामाध्यम        By rail up to Kundapur, then 6 kms by bus up to Kundapur town& then
+      Mode of approach                        8kms by local bus to Vinayak-Kodi/Lighthouse.
+27      उपलब्धसुविधाए              Marine Police Station                     Within 2kms
+      Facilities available               Dispensary                          Within 2kms
+                                         High School                         Within 2kms
+                                         Post office                         Within 2kms
+28      डाकपता /Postal                                    STATION IN CHARGE,
+           address                                       Kundapur Lighthouse,
+                                                       Near Chakreshwari Temple,
+                                                     P.O. Kundapur (Vinayak Kodi)
+                                                           Kundapur – 576217
+                                                          Udupi Dist. Karnataka
+29       मूल्यकाब्योरा/Cost                          Construction ₹75,73,400/-
+              details
+          (At the time of
+           Construction)
+30   प्रितननमेलानेकावदनां क /                               23.10.2007
+              Date of
+          commissioning
+

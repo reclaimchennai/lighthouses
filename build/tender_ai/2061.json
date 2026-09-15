@@ -1,0 +1,46 @@
+{
+  "nid": 2061,
+  "title": "Improvement of works in connection with Promotion of Tourism at Puducherry Lighthouse and DGNSS Station",
+  "summary": "Online two-cover e-tender for civil and electrical improvement works to promote tourism at Puducherry Lighthouse and DGNSS Station, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-02001(16)/1/2021-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Puducherry Lighthouse and DGNSS Station", "station_id": "puducherry-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Civil and electrical improvement works for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Improvement of works in connection with Promotion of Tourism - Civil (Rs.49,51,229/-)", "qty": null, "unit": null, "site": "Puducherry Lighthouse and DGNSS Station"},
+    {"item": "Improvement of works in connection with Promotion of Tourism - Electrical (Rs.5,39,327/-)", "qty": null, "unit": null, "site": "Puducherry Lighthouse and DGNSS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 5490556.0,
+    "emd_inr": 109811.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST: Civil Rs.49,51,229, Electrical Rs.5,39,327. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships, Chennai, valid three months from technical bid opening. Tender fee 'as per NIT' by DD but amount not printed."
+  },
+  "period": {"completion": "05 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-10-09", "pre_bid": "2025-10-23", "bid_submission_end": "2025-10-28", "bid_opening": "2025-10-29"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous body",
+    "Similar works completed in last seven years: three works each >= 40% of estimated cost, or two works each >= 50%, or one work >= 80%; only completed works with completion certificate; value updated at 7% p.a. simple",
+    "Experience certificates issued by officers below Executive Engineer not considered",
+    "Similar works: repairs and civil maintenance of building or construction of any type of building/compound wall/retaining wall/RCC work",
+    "PAN/ITCC/GST registration",
+    "Key technical personnel for supervision and execution with qualification and experience",
+    "Undertaking that tender is unconditional (Annexure III); tender acceptance letter (Annexure II); affidavit/self-attestation of not being blacklisted",
+    "List of relatives serving in MoPSW or DGLL; Make in India self-certification (Annexure VI)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_1.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is the NIT (Section I) only; no BOQ. Download/submission period 10/10/2025 10:00 to 28/10/2025 15:00. Listing title omits 'and DGNSS Station'."
+}

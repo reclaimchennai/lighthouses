@@ -1,0 +1,44 @@
+{
+  "nid": 2574,
+  "title": "Repairs and maintenance of Minicoy North Lighthouse, in the UT of Lakshadweep",
+  "summary": "Civil repairs and maintenance of Minicoy (North) Lighthouse Station at Minicoy, UT of Lakshadweep, under the Kochi Directorate.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-25002/1/2019-MS; I/106230/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Minicoy (North) Lighthouse Station", "station_id": "minicoy-north-lighthouse", "kind": "lighthouse", "work": "Repairs and maintenance"}
+  ],
+  "scope": [
+    {"item": "Repairs and maintenance of Minicoy North Lighthouse", "qty": null, "unit": null, "site": "Minicoy (North) Lighthouse Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1512333.0,
+    "emd_inr": 30247.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents to reach office by post or in person. Bid Securing Declaration also listed among required documents."
+  },
+  "period": {"completion": "180 days", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2026-09-01", "pre_bid": "2026-09-08", "bid_submission_end": "2026-09-22", "bid_opening": "2026-09-23"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Government/PSU/autonomous body; OR, for Lakshadweep contractors, work experience with any Government department during last 7 years in island works",
+    "Similar works completed in last 7 years: three of >=40%, or two of >=50%, or one of >=80% of estimated cost (similar works: construction or repair/maintenance of building/road/CC pathway/lighthouse tower or other civil works)",
+    "PAN and GST registration",
+    "Annual turnover of last three years certified by Chartered Accountant",
+    "Declaration that bid is unconditional; affidavit on Rs 100 stamp paper that bidder is not blacklisted",
+    "Undertaking listing relatives serving as Gazetted/Account officers in MoPSW/DGLL",
+    "Copy of EPF/labour registration certificate; Tender Acceptance Letter; Bid Securing Declaration"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "MiniNorth.pdf", "pages": 7, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only Section I (NIT, pages numbered 2-8) is published; BOQ is in the CPPP tender document. Bid submission 02.09.2026 10:00 to 22.09.2026 15:00; bid query last date 07.09.2026 15:00; last date of EMD 21.09.2026 15:00; technical bid opening 23.09.2026 15:00. NIT dated 01.09.2026 while listing start is 2026-09-02. Eligibility item numbering skips from 1 to 3 in the text layer and items 4 and 5 duplicate each other."
+}

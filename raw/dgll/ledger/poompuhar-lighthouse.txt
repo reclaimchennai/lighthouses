@@ -1,0 +1,172 @@
+                          मास्टर लेज़र/MASTER LEDGER
+                  पूम्पुहार दीपस्तंभ/POOMPUHAR LIGHTHOUSE
+क्रमसंख्या/               नाम /Name                                         वििरण/Description
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0918
+    2         स्थान/Position                     lat 11ᵒ 08’ 29” N, long 79ᵒ 51’ 24” E
+    3         ऊंचाई/Elevation                    33.10 Meters (Above MSL)
+    4         अभिलक्षण/Characteristic            Flash(4)every15seconds
+                                                 (0.35+2.2+0.35+2.2+0.35+2.2+0.35+7.0=15sec)
+    5         नॉटिकलमाइलमेदरू ी                  20 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                             RCC Octagonal Tower
+                                                 Height                           30 M
+                                                 Colour Scheme                    Red and White vertical Band
+    7         ऑप्टिकलउपकरण                       Optic                            Rotating beacon, MBR-300
+                                                 Make                             M/s Mediterrano senales Maritimes
+              Optical equipment
+                                                                                  (MSM),Spain
+                                                 Type
+                                                 Size                             210 mm
+                                                 No. of lens                      6
+                                                 Area of dioptric portion
+                                                 Area of catadioptric portion
+                                                 Divergence                       2.4º (Horizontal)
+                                                 Main/Emergency                   4.0º (Vertical)
+                                                 Duration of Flash                0.35 sec
+                                                 Main /Standby/Emergency
+                                                 Pedestal                         -
+                                                 Rotation Device                  Inbuilt stepper motor with drive
+                                                 R.P.M.                           4 r.p.m
+                                                 Illumining
+                                                 Main                             230V/150W Single ended Metal Halide
+                                                                                  Lamp
+                                                 Standby                          Separate Flasher device(150 W/ 230
+                                                                                  V halogen lamp)
+                                                 Emergency:                       -
+                                                 Date of Installation             15.10.2010
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                             170000 Cdls
+              intensity                          Emergency                        -
+    9         लेंिनन/Lantern                     Diameter                         2.4 m
+                                                 Height of glazing                1.4 m
+                                                 No. of panes                     12 Nos Toughened glass
+                                                 Ventilators                      6 Nos
+    10        RACON                                   Sr. No
+              Make                   Model       Code                             Band                  Date of
+                                                                                                        Installation
+     -----                 ------              ------                               ------                       -------
+11   NAIS
+     Base Station
+
+     Model                 Type                Power                                MMSI
+     ------                ----                ----                                 ----
+     Communication
+     Equipment
+     VSAT Antenna          Band                Modem
+     -----                 -----               -----                                ------
+     DGPS
+     Transmitter Make      Frequency           Power Output         RS 1 ID         RS -II      Beacon           Date of       Date
+                                                                                    ID          ID               commis        of
+                                                                                                                 sioning       Rec
+                                                                                                                               apit
+                                                                                                                               aliza
+                                                                                                                               tion
+     -----                 ----         -----                       -----           -----     -----       -----                ----
+12   ऊर्ानकेसाधन/Source    Mains                                                    Tamilnadu electricity board
+     of energy             Power Source                                             3 phase /440V AC supply
+                           Engine 1                                                                  (NIL)
+                           Make/Type                    Qty         Rating          No of             RPM                  Cooling
+                                                                                    Cylinder
+                           ------                       ----        -----           ------            ------               -----
+                           Alternator
+                           Make/Type                    Qty         Rating          Voltage/Amp       Frequency            Phase
+                           -------                      -----       -----           ------            ------               ------
+                           Engine 2                                                                  (NIL)
+                           Make/Type                    Qty         Rating          No of             RPM                  Cooling
+                                                                                    Cylinder
+                           -------                      ------      ------          -----             -----                -----
+                           Solar Plant for Main light
+                           Capacity PV                  Numbers                     Type       Battery                     Bank
+                           1 KW (24 V/250 W)            4 Nos                         Access 12 Nos                        01 No.
+                                                                                      solar     2 V/ 1000 AH
+                           Solar Plant for 2KW off grid (used in automation, street light and etc
+                           Capacity PV                  Numbers                     Type       Battery                     Bank
+                           2 KW (24 V/ 250 W)           8 Nos.                      HBL        12 Nos                      01 No.
+                                                                                    make       12V/200AH
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model                Capa     Input                       Output                    Phase        Qty
+                                               city
+     Globus make          Servo controlled     5 KVA    170-270 V                   230 V                     1 phase      1 No
+
+     ITL -SVS             Servo controlled     5 KVA    170-270 V                   230 V                     1 phase      1 No
+
+14   बैिरर
+     Batteries
+
+     Equipment            Type                 Make       Volt                      Amp/       Qty
+                                                                                    Hr
+     PSS NAIS                       -                 -                  -                -                -
+     Genset                         -                 -                  -                -                -
+     Automation                     -                 -                  -                -                -
+     DGPS                           -                 -                  -                -                -
+15   बैिररचार्नर/ Battery charger
+
+     Equipment               Make                Model Type                             Rating Qty
+     General Purpose         Associate           -     -                                0-40   1 No
+                             Engineer                                                   V/15A
+     General Purpose         Velsine Tec                                                0-40   1 No
+                                                                                        V/80A
+16   इंवर्ट रInverter /UPS
+     Equipment Nos           Make        Model                           Type           Rating      Qty        input      out
+                                                                                                                          put
+     Main Light     1 No       Geevi                  ---                Pure sine       1 K VA     1No        24 V/ DC & 230
+                              control                                    wave                                   230 V AC VAC
+                              system
+     2 KW off       1 No     Glow                     --                 Pure sine       1 K VA     1No        48 V/ DC &   230
+     grid                    power                                       wave                                  230 V AC     VAC
+                             technol
+                             ogies
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE        PLC                    HMI               Power Supply          VSAT              Modem          Band
+     RDS         Allen Bradley          Renu              24 V DC               1.8 m dia         Hughes         EX.C
+                                        electronics                             Parabolic
+                                                                                reflector
+18   आप्ननशमनउपकरण                               Type of Extinguisher           Capacity            Nos           Make
+     Fire Fighting Equipment                     DCP Type                       5 kg                3             Ronak (2) /
+                                                                                                                  In-time(usha)-
+                                                                                                                  (1)
+
+                                                 Foam Type                      9 Ltr               3        Excellent (2)/
+                                                                                                             In-time(usha)-
+                                                                                                             (1)
+19   संचार                                       BSNL telephone                                   04364-260099
+     Communication
+20   र्लपर्ू तन                                  Local panchayath water supply connected with a storage sump
+     Water Supply
+21   िभू म                                       Area                                             0.40 Hectare
+     Land                                        Demarcation                                      Compound wall (N & S-
+                                                                                                  40m, E & W-100m)
+22   इमारतें                                     RCC Structure: 04 Nos                            Powerhouse-cum Office
+     Buildings                                                                                    room, Inspection
+                                                                                                  quarters, Nav. Asst.
+                                                                                                  quarter and LHA quarter
+23   कंपाउं डलाइि                                LED Light fitted on G.I Pole-06 Nos
+                                                 Garden light-1 No
+     Compound Lights
+                                                 Gate light- 2 Nos
+24   सीसीिीिीकमेरा                   NIL
+      CCTV CAMERA
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1             Navigational Assistant Grade-I – 1 No
+                                     2            Lighthouse Attendant- 1 No.
+                                     3            Outsourced staff for Housekeeping- 1 No
+26   पहुँचनेकामाध्यम                 Nearby Railway station is at Sirkali (20 kms away)
+     Mode of approach                Nearest airport is at Puducherry (110 Kms away)
+                                     Nearby Port is at Karaikkal (45 kms away)
+
+27   उपलब्धसविधाए                    The nearest Post office local panchayat office, High School,
+     Facilities available            Dispensary & Police Station & bus stand are available at
+                                     Kaveripoompattinam within 2 Kms distances.
+
+28   डाकपताPostal address            Navigational Assistant Gr-I
+                                     Poompuhar Lighthouse
+                                     Kavery pattinam post
+                                     Poompuhar -609105
+29   मल्ू यकाब्योराCost details      2.05 crores
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          15th October 2010
+     Date of commissioning
+

@@ -1,0 +1,140 @@
+                       मास्टर लेजर/MASTER LEDGER
+                                  सिमर दीपस्तं भ / Simar Lighthouse
+क्रमसंख्या/             नाम /Name
+                                                                       वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.              F 0430
+     2        स्थान/Position                  Lat 20º 46.5' N
+                                              Long 71º 09.0' E
+
+    3         ऊंचाई/Elevation                 34 M (Above MSL)
+    4         अविलक्षण/Characteristic         Fl (W) 10Sec. (1 + 9 = 10Sec)
+    5         नॉविकल माइल मे दू री            12NM
+              Range in miles
+    6         दीपस्तंि िािर/L.H.Tower         Type                           Frame work tower, Red and
+                                                                             White bands
+                                              Height                         30M
+                                              Colour Scheme                  Red and White
+    7         ऑविकलउपकरण                      Optic
+              Optical equipment               Make
+                                              Type
+                                              Size
+                                              No. of lens
+                                              Area of dioptric portion
+                                              Area of catadioptric portion
+                                              Divergence
+                                              Main/Emergency
+                                              Duration of Flash
+                                              Main /Standby/Emergency
+                                              Pedestal
+                                              Rotation Device
+
+                                              R.P.M.
+                                              Illumining
+                                              Main
+                                              Standby
+                                              Emergency:
+                                              Date of Installation
+    8         प्रिािी बीम तीव्रता/Effective   Main
+              beam intensity                  Emergency
+9    लेंिनन /Lantern                     Diameter
+                                         Height of glazing
+                                         No. of panes
+                                         Ventilators
+10   RACON                                    Sr. No 6183
+     Make              Model             Code                         Power Supply                 Date of
+                                                                                                   Installation
+
+11   NAIS –NA
+     Base Station
+
+     Model                 Type          Power                        MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna          Band          Modem
+
+12   ऊर्ान के              Mains                                      440V/3-phase/50 Hz
+     साधन/Source of        Power Source
+                           Engine 1
+     energy
+                           Make/Type                Qty      Rating   No of Cylinder   RPM             Cooling
+
+
+                           Alternator
+                           Make/Type                Qty      Rating   Voltage/Amp      Frequency       Phase
+
+
+                           Solar Plant
+                           Capacity PV              Numbers           Type             Battery         Bank
+
+
+13   स्वचावलत िोल्टे र् स्टे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                Model           Capa       Input             Output                 Phase     Qty
+              --             --             --               --                --              --            --
+14   बैिरर
+     Batteries
+     Equipment           Type            Make       Volt              Amp/Hr           Qty             Date of
+                                                                                                       Inst.
+
+
+
+
+15   बैिरर चार्नर/ Battery charger
+
+     Equipment           Make            Model      Type              Rating           Qty             Date of
+                                                                                                       Inst.
+     General Purpose        ARGO                                      0-30V / 10             01        23.09.1
+                                                                      Amp.                             990
+     Automation                          ---             ----
+16   इं वर्ट र Inverter /UPS
+     Equipme Nos Make           Model                     Type       Rating   Qty input        out
+     nt                                                                                        put
+     Main
+     Light
+     NAIS PSS
+
+17   स्वचलन उपकरण
+     Automation Equipment
+     MAKE       PLC            HMI             Power Supply      VSAT         Mode Band
+                                                                              m
+
+18   आविशमन उपकरण                    Type of Extinguisher        Capacity     Nos     Make
+     Fire Fighting Equipment         DCP Type                    4 kg         04
+                                     Water Co2                   -            -
+                                     Foam Type                   -            -
+19   संचार                           Not Available
+     Communication
+20   र्लपूवतन                        -
+     Water Supply
+21   िूवम                            Area                                     -
+     Land                            Demarcation                              Compound wall on all
+                                                                              the four sides
+22   इमारतें                         RCC Structure: 07 Nos                    I.Q and One LHA
+     Buildings                                                                quarter
+                                     Timber Construction above plinth
+                                     level
+23   कंपाउं ड लाइि
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera
+      CCTV CAMERA                    DVR
+25   स्टाफ                           Sl. No           Designations
+     Staff                           1                Lighthouse Attandan -01 No.
+
+26   पहुँ चने का माध्यम              By Road
+     Mode of approach
+27   उपलब्ध सुविधाए                  -
+     Facilities available
+28   डाकपताPostal address            Simar lighthouse
+                                     P.O Sankhada
+                                     Dist: Junagadh
+
+
+
+29   मूल्य का ब्योराCost details     70,000/-
+     (At the time of Construction)
+30   प्रितनन मे लाने का वदनां क      1969
+     Date of commissioning
+

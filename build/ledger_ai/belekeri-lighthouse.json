@@ -1,0 +1,45 @@
+{
+  "slug": "belekeri-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Belekeri Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F 0637",
+  "position": {"lat_text": "14° 42.5' N", "lon_text": "74° 14.4' E", "lat": 14.708333, "lon": 74.24},
+  "elevation_m": 66,
+  "characteristic_text": "Fl. (3)White 10 sec.",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 9, "geographical_nm": null, "text": "09 NM (single unlabelled range)"},
+  "tower": {"type": "Square Masonary Tower", "height_m": 12, "colour_scheme": "White tower with 02 Black Band"},
+  "optic": {
+    "make": "BBT", "model": null, "type": "DRUM TYPE", "size": "500MM GAS Filament", "order": null,
+    "panels": null,
+    "rotation_device": "-NA-",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Optic: DRUM TYPE; Rotation Device -NA-; R.P.M. -NA-",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": "Sr. No 6295; Make -NA-"},
+  "ais": {"present": false, "text": "Model -NA-"},
+  "dgps": {"present": false},
+  "power": {"mains": false, "solar": true, "generator": false, "text": "Mains not available due to island station; standby 12V/100W solar panel 01 No, battery 12V 100AH; engines -NA-"},
+  "issues": [
+    "Position printed as 'Lat. 140 42.5'N Long. 740 14.4'E' (degree sign rendered as 0); read as 14° 42.5' N, 74° 14.4' E",
+    "RACON section lists 'Sr. No 6295' but Make/Model/Code are -NA-; presence unclear",
+    "Date of commissioning not stated"
+  ]
+}

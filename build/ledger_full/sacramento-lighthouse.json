@@ -1,0 +1,135 @@
+{
+  "slug": "sacramento-lighthouse",
+  "page_count": 6,
+  "title_as_printed": "Sacramento Lighthouse Estd.1985/2015 VISAKHAPATNAM DIRECTORATE MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "Name", "title_hi": null, "page": 1, "fields": [{"label": "Name", "value": "SACRAMENTO LIGHTHOUSE"}], "tables": [], "text": "[photo: red and white spiral-banded lighthouse tower among palm trees, top right of page 1]"},
+    {"no": "2", "title": "Sr.No. (as per A.L.O.L)", "title_hi": null, "page": 1, "fields": [{"label": "Sr.No. (as per A.L.O.L)", "value": "0958"}], "tables": [], "text": null},
+    {"no": "3", "title": "Position", "title_hi": null, "page": 1, "fields": [{"label": "Position", "value": "Lat: 16ᴼ 35.2' N Long: 82ᴼ 16.8' E"}], "tables": [], "text": null},
+    {"no": "4", "title": "Elevation", "title_hi": null, "page": 1, "fields": [{"label": "Elevation", "value": "48 Mtr"}], "tables": [], "text": null},
+    {"no": "5", "title": "Characteristic", "title_hi": null, "page": 1, "fields": [{"label": "Characteristic", "value": "FL White in every 5 Seconds (Fl .0.2, ec 4.8 )"}], "tables": [], "text": null},
+    {"no": "6", "title": "Range in nautical miles", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Luminous", "value": "24 andelas"},
+      {"label": "ii) Geographical", "value": "18 NM"}
+    ], "tables": [], "text": null},
+    {"no": "7", "title": "Lighthouse Tower", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Type", "value": "Circular Masonry Tower"},
+      {"label": "ii) Height", "value": "45 Mtr"},
+      {"label": "iii) Colour Scheme", "value": "Red and White spiral bands"},
+      {"label": "iv) Visibility Sector", "value": "225⁰--045⁰ (180⁰)"}
+    ], "tables": [], "text": null},
+    {"no": "8", "title": "Optical Equipment", "title_hi": null, "page": 1, "fields": [
+      {"label": "a) i) Make", "value": "M/s Chance Brothers, U.K."},
+      {"label": "a) ii) Size", "value": "500 mm 3rd Order large Revolving"},
+      {"label": "a) iii) Focal distance", "value": "500"},
+      {"label": "a) iv) No. of Panels", "value": "2 Nos."},
+      {"label": "a) v) Divergence Main", "value": "Horizontal : 6⁰ 45 5', Vertical : 6⁰ 18'"},
+      {"label": "a) vi) Duration of flash Main", "value": "0.19 seconds"},
+      {"label": "b) Pedestal", "value": "Mercury Float 55 kg in use. Cast iron pedestal"},
+      {"label": "c) Rotation Device", "value": "Twin Stepper motor Direct Drive system. i)Stepper motor :2 No 40Kg-cm (unique make) ii) Controller: 2No 40Kg-Cm (unique make)"},
+      {"label": "d) Rotation Speed", "value": "6 RPM"},
+      {"label": "e) Illuminant i) Main/Service", "value": "150 watts Metal Halide Lamp 3 Nos. (Cluster)"},
+      {"label": "f) Effective Beam Intensity i) Main/Service", "value": "9,39,600 cds."},
+      {"label": "f) Effective Beam Intensity ii) Standby", "value": "--------"},
+      {"label": "f) Effective Beam Intensity iii) Emergency", "value": "--------"}
+    ], "tables": [], "text": "Section continues from page 1 (up to v) Divergence) to page 2."},
+    {"no": "9", "title": "Lantern", "title_hi": null, "page": 2, "fields": [
+      {"label": "i) Diameter", "value": "3.65 Mtr"},
+      {"label": "ii) Height of glazing", "value": "1.83 Mtr"},
+      {"label": "iii) No. of panes", "value": "31 Nos. (10 panes blanked on land side)"},
+      {"label": "iv) Ventilators", "value": "12 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "10", "title": "Main light UPS", "title_hi": null, "page": 2, "fields": [
+      {"label": "Main light UPS", "value": "4 Nos. in use. 1 No. spare"},
+      {"label": "Make", "value": "UTL"},
+      {"label": "Capacity", "value": "800 VA"},
+      {"label": "Input", "value": "12V DC"},
+      {"label": "Output", "value": "230V AC"},
+      {"label": "Model Number", "value": "UTL combo"}
+    ], "tables": [], "text": null},
+    {"no": "11", "title": "Energy Source", "title_hi": null, "page": 2, "fields": [
+      {"label": "A) APEPDCL Mains", "value": "Three phase 415 V, 50 Hz"},
+      {"label": "B) Green Energy", "value": "3KW off grid solar power plant for main light."},
+      {"label": "i) Solar panels", "value": "12 No 24V/250W( Vikram make)"},
+      {"label": "ii) Battery Bank", "value": "12 No 12V /150Ah (Exide SMF)"},
+      {"label": "iii) PCU", "value": "HBL Make 3KVA /48V PCU"}
+    ], "tables": [], "text": "Items i)–iii) are on page 3."},
+    {"no": "12", "title": "Details of Diesel Engine Generators", "title_hi": null, "page": 3, "fields": [
+      {"label": "Make", "value": "Kirloskar HA294"},
+      {"label": "Model No.", "value": "KG15AS4 (Canopy)"},
+      {"label": "HP", "value": "19 HP"},
+      {"label": "No. of Cylinder", "value": "02 Nos."},
+      {"label": "Output voltage", "value": "240V/50Hz"},
+      {"label": "RPM", "value": "1500"},
+      {"label": "Cooling", "value": "Air Cooling"}
+    ], "tables": [], "text": null},
+    {"no": "13", "title": "Diesel Engine Alternator", "title_hi": null, "page": 3, "fields": [
+      {"label": "Make", "value": "Kirloskar"},
+      {"label": "KVA", "value": "15"},
+      {"label": "Voltage", "value": "240"},
+      {"label": "Frequency", "value": "50"},
+      {"label": "Phase", "value": "Single"},
+      {"label": "RPM", "value": "1500"}
+    ], "tables": [], "text": null},
+    {"no": "14", "title": "Servo Stabilizer", "title_hi": null, "page": 3, "fields": [
+      {"label": "Servo Stabilizer", "value": "1 No."},
+      {"label": "Make", "value": "Supra-hi-tech"},
+      {"label": "Model", "value": "SH-3120"},
+      {"label": "Capacity", "value": "12 KVA 3 phase"},
+      {"label": "Input", "value": "330 V - 470 V"},
+      {"label": "Output", "value": "400 ± 1%"}
+    ], "tables": [], "text": null},
+    {"no": "15", "title": "AMF Panel", "title_hi": null, "page": 3, "fields": [
+      {"label": "Make", "value": "Elect India"},
+      {"label": "Model", "value": "EMF15KM3G1-ICFTDM02"},
+      {"label": "Capacity", "value": "0 VA, 3 phase 25A"}
+    ], "tables": [], "text": "Capacity is printed as \"0\" followed by a wide blank gap before \"VA, 3 phase 25A\"."},
+    {"no": "16", "title": "NAIS Equipment", "title_hi": null, "page": 3, "fields": [
+      {"label": "Make", "value": "M/s SAAB"},
+      {"label": "AIS R40 Base Station", "value": "Sl.No.5229"},
+      {"label": "AIS R40 Base Station", "value": "Sl.No 5256 (Connected with Cisco switch and PSM-500LSatilite modem.)"},
+      {"label": "V- SAT Dish Size", "value": "2.4 Mtr. dia"},
+      {"label": "VHF Antenna", "value": "2 Nos."},
+      {"label": "GPS Antenna", "value": "2 Nos."},
+      {"label": "Date of Commissioning", "value": "May, 2016"}
+    ], "tables": [], "text": "Section continues from page 3 (Make) to page 4."},
+    {"no": "17", "title": "Automation of Lighthouse.", "title_hi": null, "page": 4, "fields": [
+      {"label": "Make", "value": "M/s Recktronic Devices & Systems, Pune."},
+      {"label": "RDS Panel", "value": "1No. in power house. (S.No.1610)"},
+      {"label": "RDS Panel", "value": "1No Service room. (S.No.1605)"},
+      {"label": "VSAT Antenna", "value": "1.2 Mtr. dia"},
+      {"label": "Date of commissioning", "value": "March, 2016"}
+    ], "tables": [], "text": null},
+    {"no": "18", "title": "Street Lights", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "i) G.I Poles with 25W LED light – 8 Nos.\nii) Gate Light CFL - 2 Nos.\niii) 10 Nos 18W Solar Street light"},
+    {"no": "19", "title": "No of Batteries", "title_hi": null, "page": 4, "fields": [{"label": "No of Batteries", "value": "5 Nos."}], "tables": [], "text": "4 No. Exide 12 V/ 150 AH Battery for Main Light\n1 No. Exide 12 V/ 100 AH Battery for Gen Set Starting"},
+    {"no": "20", "title": "Firefighting equipment", "title_hi": null, "page": 4, "fields": [
+      {"label": "Fire Extinguishers i) D.C.P. type (5kg Capacity)", "value": "2 Nos."},
+      {"label": "ii) Foam type (9 litres capacity)", "value": "3 Nos."},
+      {"label": "iii) Fire Buckets", "value": "4 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "21", "title": "Communication Facility", "title_hi": null, "page": 5, "fields": [
+      {"label": "NA-II , Ph. No.", "value": "[personal number removed]"},
+      {"label": "e-mail", "value": "sacramentolh@gmail.com"}
+    ], "tables": [], "text": null},
+    {"no": "22", "title": "Water Supply", "title_hi": null, "page": 5, "fields": [], "tables": [], "text": "i) Open well\nii) 4 Nos. Bore well with Hand Pump"},
+    {"no": "23", "title": "Land", "title_hi": null, "page": 5, "fields": [
+      {"label": "i) Area", "value": "99.94 Acres"},
+      {"label": "ii) Demarcation", "value": "Masonry Compound wall"},
+      {"label": "iii) No. of fruit trees", "value": "35 Nos."},
+      {"label": "iv) No.of non fruit bearing Trees", "value": "400 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "24", "title": "Buildings", "title_hi": null, "page": 5, "fields": [], "tables": [], "text": "One unit of Inspection quarter, Store, One unit of NA I quarter, two unit of NA II quarter, Two unit of LHA quarter and One unit of LHS quarter."},
+    {"no": "25", "title": "Staff", "title_hi": null, "page": 5, "fields": [], "tables": [], "text": "i. NA-I - 1 No. (Vacant)\nii. NA-II - 2 Nos. (1 No. Vacant)\niii. LHA - 2 Nos. (1 No. Vacant)\niv. Field Assistant - 3 Nos. (outsourced)\nv. Security Guards - 3nos. (outsourced)"},
+    {"no": "26", "title": "Mode of approach", "title_hi": null, "page": 5, "fields": [], "tables": [], "text": "i) By Rail up to Rajamundry and then by bus up to 90 kilometers up to Mulletimoga village and then by walk up to Lighthouse 3 Kms.\nii) Upto Rajamundry by rail. From Rajamundry to Kandikuppa by bus 50 kms. Via. Amalapuram, then 15 kms. Mulletimoga village to Lighthouse."},
+    {"no": "27", "title": "Facilities available", "title_hi": null, "page": 5, "fields": [], "tables": [], "text": "a) Post Office within 20 km (Katrinikona)\nb) Govt. Hospital within 17 km (Katrinikona)\nc) Govt. School within 18 km (Katrinikona)\nd) Nationalized Bank within 20 km (Katrinikona)\n(Items c) and d) are on page 6.)"},
+    {"no": "28", "title": "Postal Address", "title_hi": null, "page": 6, "fields": [], "tables": [], "text": "The Navigational Assistant Gr-I,\nSacramento Lighthouse,\nBojjararipeta post, Katrenikona Via,\nDist. East Godavari, Andhra Pradesh,\nPin: 533 212"},
+    {"no": "29", "title": "Cost Details", "title_hi": null, "page": 6, "fields": [
+      {"label": "i. Construction old LH", "value": "Not available"},
+      {"label": "ii. Cost of equipment", "value": "Not available"},
+      {"label": "iii. Construction of new LH Tower", "value": "Rs.1,36,33,329/- (March, 2015)"}
+    ], "tables": [], "text": null},
+    {"no": "30", "title": "Date of Commissioning", "title_hi": null, "page": 6, "fields": [{"label": "Date of Commissioning", "value": "1895"}], "tables": [], "text": null},
+    {"no": "31", "title": "Subsequent Innovation", "title_hi": null, "page": 6, "fields": [{"label": "Subsequent Innovation", "value": "1902, 1997, 2004, 17-02-2015"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

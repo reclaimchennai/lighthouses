@@ -1,0 +1,52 @@
+{
+  "nid": 2011,
+  "title": "Hiring of vehicle for a period of one year for Kolkata Directorate.",
+  "summary": "Notice inviting offline sealed quotations for a one-year rate contract to hire A/C vehicles (cars, SUVs, 13-26 seaters, airport transfers), up to 15 vehicles per day, for the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "vessels & vehicles",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Kol-01003/2/2019-MAINTENANCE",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Swift Desire (with A/c) - rate per hour, per km, minimum km/hours, night halt, other charges", "qty": null, "unit": null, "site": null},
+    {"item": "Tata Sumo (with A/c)", "qty": null, "unit": null, "site": null},
+    {"item": "Innova (with A/c)", "qty": null, "unit": null, "site": null},
+    {"item": "Innova Crysta (with A/c)", "qty": null, "unit": null, "site": null},
+    {"item": "13-Seater (with A/c)", "qty": null, "unit": null, "site": null},
+    {"item": "18-Seater (with A/c)", "qty": null, "unit": null, "site": null},
+    {"item": "26-Seater (with A/c)", "qty": null, "unit": null, "site": null},
+    {"item": "Air Port Pickup Swift (Desire) (with A/c)", "qty": null, "unit": null, "site": null},
+    {"item": "Air Port Drop (Swift Desire) (with A/c)", "qty": null, "unit": null, "site": null},
+    {"item": "Maruti Ertiga (with A/c)", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "Performance bank guarantee of Rs 5,000 (FDR/BG) valid for one year, within 15 days of Letter of Intent",
+    "notes": "No estimated cost or EMD printed. Penalty Rs 500 if vehicle not provided in time. Parking and toll charges paid by service provider and claimed with invoice. Lowest bidder finalised on average price of all vehicles per day including all charges (clause 14 says evaluation vehicle-type wise, with preference to agency lowest in most items). Rates fixed for contract period."
+  },
+  "period": {"completion": "365 days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-09-09", "pre_bid": "2025-09-17", "bid_submission_end": "2025-09-22", "bid_opening": "2025-09-22"},
+  "eligibility": [
+    "Valid PAN and GST registration",
+    "Income tax returns for last three financial years ending 31.03.2025",
+    "Experience certificate in supplying vehicles to Central Govt/State Govt/other reputed private organization",
+    "Notarized affidavit (2025, in the name of DLL Kolkata) that bidder is not blacklisted or debarred by any Central/State Govt organization",
+    "Vehicles provided not more than 3 years old; capability to provide up to 15 vehicles per day"
+  ],
+  "specs": [
+    "All vehicles with A/C; vehicles not older than 3 years",
+    "Vehicles booked by telephone by officer in charge; reporting time and km reading counted from arrival at Deep Bhavan, Kolkata; no food provided to drivers"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ.pdf", "pages": 18, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Scanned 18-page NIQ document (cover, index, NIQ, eligibility, general terms, scope, price bid form, proformas, contract agreement). Dates are inconsistent: NIQ text says quotations must reach by 23.09.2025 15:00, while the table gives last date of submission 22.09.2025 15:00 and opening 22.09.2025 16:00; clause 3.14 asks for queries before 11:00 on 17.09.2025 while the pre-bid meeting is at 15:00 that day; listing shows end date 2025-09-19. Table dates recorded. A mobile number printed with the office address was not recorded. Handwritten note 'Put into Phy. file' on cover."
+}

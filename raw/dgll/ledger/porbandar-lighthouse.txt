@@ -1,0 +1,194 @@
+                         मास्टर लेजर/MASTER LEDGER
+
+पोरबंदर दीपस्तंभ और डी जी पी एस स्टे शन / Porbandar Lighthouse and DGPS Station
+
+ क्रमसंख्या/             नाम /Name
+                                                                    वििरण/Discription
+    Sr.No
+      1        ए.एल.ओ.एल/A.L.O.L.            F 0400
+      2        स्थान/Position                Lat : 21º37’ 19.56” N       Long : 69º37’ 11.78” E
+     3         ऊंचाई/Elevation               47.60 M (Above MSL)
+     4         अभिलक्षण/Characteristic       Fl(1)W5 Sec. (0.25+4.75=5 Sec)
+     5         नॉटिकलमाइलमेदरू ी             19.8 NM
+               Range in miles
+     6         दीपस्तंििािर/L.H.Tower        Type                     Round concrete Tower
+                                             Height                   41M
+                                             Colour Scheme            Black and White bands
+     7         ऑप्टिकलउपकरण                  Optic
+               Optical equipment             Make                     M/s.MEDITERRANEO SENALES
+                                                                      MARITIMAS.
+                                             Type                     MBR-300
+                                             Size
+                                             No. of lens              6
+                                             Area of dioptric portion
+                                             Area of catadioptric
+                                             portion
+                                             Divergence               9º (Horizontal)
+                                             Main/Emergency           9º (Vertical)
+
+                                             Duration of Flash        5 Sec
+                                             Main
+                                             /Standby/Emergency
+                                             Pedestal                 Small GI trestle and GI pipe
+                                             Rotation Device          Stepper motor
+                                             R.P.M.                   2
+                                             Illumining               150W single CDM-T
+                                             Main                     230V/150W Metal Halide Lamp
+                                             Standby
+                                             Emergency:
+                                             Date of Installation     22/08/2010
+     8         प्रिािीबीमतीव्रता/Effective   Main
+               beam intensity                Emergency
+     9                                       Diameter                 3.0M
+                                          Height of glazing               2.0M
+     लेंिनन/Lantern                       No. of panes                    12 large (bottom)+12 Small(Top)
+                                          Ventilators                     11
+10   RACON                                     Sr. No
+     Make               Model             Code                            Band                            Date of
+                                                                                                          Installation
+
+11   NAIS
+     Base Station
+
+     Model              Type              Power                           MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna       Band              Modem
+
+     DGPS
+     Transmitter Make Frequency           Power            RS 1 ID        RS -II ID Beacon                Date of    Date
+                                          Output                                    ID                    commis     of
+                                                                                                                     Rec
+                                                                                                          sioning    apit
+                                                                                                                     aliza
+                                                                                                                     tion
+     Nautel             293KHz            500W             402            403            101              31/03/03 04/
+                                                                                                                   03/
+                                                                                                                   18
+
+12   ऊर्ानकेसाधन/       Mains                                             440V/3-phase/50 Hz
+     Source of energy   Diesel Generators                                 DG Set 25 KVA
+                        Engine
+                        Make/Type                    Qty         Rating   No of Cylinder           RPM              Coolin
+                                                                                                                    g
+                        Eicher                       2           35.5HP   3                        1500             Air
+                        Alternator
+                        Make/Type                    Qty         Rating   Voltage/Amp              Frequency        Phase
+                        Crompton                     2           25KVA    230V/104.00A             50Hz             Single
+                        Solar Plant
+                        Capacity PV                  Numbers of           Type of        Battery                    Bank
+                                                     Panels               Panels
+                        15 KWp ON Grid               60 Nos               Mono           NIL                        NIL
+                                                                          Crystalline
+                        Solar Plant for RACON
+                        Capacity PV                  Numbers              Type           Battery                    Bank
+                        70 Watt                      01                                  01                         NIL
+                        Solar Plant for Main Light
+                        Capacity PV                  Numbers              Type           Battery                    Bank
+                        70 Watt                      01                                  01                         NIL
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make               Model             Capa       Input                Output                          Phase     Qty
+          Serwel               Servomax         15       170-270 VAC         230 Volt                    1           3
+          Electronics                           KVA
+          Pvt.Ltd
+
+
+
+14        बैिरर
+          Batteries
+          Equipment                Type             Make              Volt   Amp/Hr                Qty
+          PSS NAIS                  NIL              NIL              NIL      NIL                 NIL
+          Genset                 Lead acid          TATA              12V     88Ah                  2
+          Automation               SMF           Powersafe            12V     12Ah                  2
+          DGPS                     SMF          Ameron-16Nos          12V     42Ah                 22
+                                                 Exide-6Nos
+     15   बैिररचार्नर/ Battery charger
+
+          Equipment            Make             Model    Type                Rating                Qty
+          General Purpose        Aplab          L3220                          0 to                 3
+                                                                              20Amp
+          Automation              NIL  NIL                      NIL            NIL                 NIL
+     16   इंवटट रInverter /UPS
+          Equipmen Nos Make Model                                 Type       Rating            Qty input             out
+          t                                                                                                          put
+          Main             1    UTL    Combo                          ---        800VA             1         230V    230
+          Light                           +                                                                           V
+          NAIS PSS 1           APC    Pro-1000                    On         1KVA              1         230V        230
+                                                                  Line                                               V
+          DGPS          1      APC           SRC 10KUXI           On         10KVA             1         230V        230
+                                                                  Line                                               V
+                        1      APC              SRC3000           On         3KVA              1         230V        230
+                                                                  Line                                               V
+                        1      APC              Pro-1000          On         1KVA              1         230V        230
+                                                                  Line                                               V
+     17   स्वचलनउपकरण
+          Automation Equipment
+          MAKE          PLC              HMI          Power Supply       VSAT               Modem            Band
+          RDS           Allen Bradley    Renu         AC                 NIL                Robust           NIL
+     18   आप्ननशमनउपकरण                         Type of Extinguisher     Capacity             Nos             Make
+          Fire Fighting Equipment               ABC Type                 4 kg                 11
+                                                Water Co2                NIL                  NIL             NIL
+                                                Foam Type                NIL                  NIL             NIL
+     19   संचार                                 BSNL Land line with Broadband
+          Communication
+     20   र्लपूर्तन                             2 inch water connection from Nagarpalika
+          Water Supply
+     21                                         Area                                     1.125 hectares
+     िभू म              Demarcation                    Masonary compound wall
+                                                       on all the four sides
+     Land
+
+22   इमारतें            RCC Structure: 10 Nos          Inspection Quarter,
+     Buildings                                         Powerhouse,
+                                                       Three twin unit of NA
+                                                       &LHA Quarters’ Quarter,
+                                                       AE Quarters’
+
+
+
+23   कंपाउं डलाइि       9 Nos. G.I. Poles with
+     Compound Lights    LED lamp fitted
+                        Gate Light-02
+                         10 Nos Solar LED
+                         9Watt street Light
+
+
+
+
+                                      Gate
+                         lights – 2 Nos. 10
+                         Nos Solar LED street
+                         Light
+24   सीसीिीिीकमेरा      NIL
+      CCTV CAMERA       NIL
+25   स्िाफ              Sl. No          Designations
+     Staff              1         Senior Radio Technician
+                        2         Navigational Assistant -II
+                        3         Navigational Assistant -III
+                        4         Light House Attendant
+26   पहुँचनेकामाध्यम    Murram Road 400 meter from national Highway 52
+     Mode of approach
+27   उपलब्धसविधाए                    Post office, Police Station, Hospital and Highschool around
+                                     3 km from Lighthouse ,
+     Facilities available
+
+
+
+
+28   डाकपताPostal address            Assistant Engineer(E),
+                                     Porbandar Lighthouse & DGPS station,
+                                     Post- Birla Sagar,
+                                     Dist-Porbandar,
+                                     Pin- 360 576(Gujarat State)
+
+29   मल्
+       ू यकाब्योराCost details              1) Construction               : 16,41,524/-
+     (At the time of Construction)          2) Equipment                  : 21,96,200/-
+
+
+30   प्रितननमेलानेकादे नांक                                 30/11/1985
+     Date of commissioning
+

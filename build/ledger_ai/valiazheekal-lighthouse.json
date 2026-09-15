@@ -1,0 +1,45 @@
+{
+  "slug": "valiazheekal-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Valiyazhikkal Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2021,
+  "alol": "0709",
+  "position": {"lat_text": "9° 8' 24.498\" N", "lon_text": "76° 27' 43.68\" E", "lat": 9.140138, "lon": 76.462133},
+  "elevation_m": 49,
+  "characteristic_text": "Flash (3) White-20 seconds (1+2.5+1+2.5+1+12)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "1+2.5+1+2.5+1+12",
+    "sequence_s": [1, 2.5, 1, 2.5, 1, 12],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 22, "geographical_nm": null, "text": "22NM (single unlabelled range)"},
+  "tower": {"type": "Pentagon RCC", "height_m": 41.26, "colour_scheme": "Blue and White Band"},
+  "optic": {
+    "make": "Marine Navaids and Solar Auto Pvt Ltd", "model": null, "type": "Revolving beacon", "size": null, "order": null,
+    "panels": 6,
+    "rotation_device": "24 volt DC motor",
+    "rpm": 1,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving beacon; Rotation Device: 24 volt DC motor; R.P.M. 1",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "LED panel"
+  },
+  "intensity_cd": 200000,
+  "racon": {"present": false, "code": null, "text": "NIL"},
+  "ais": {"present": false, "text": "NIL"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Local Mains 440 V, 3 phase, 50 Hz; DG Set 30 KVA Eicher; 2 KW off grid solar (165 W x 10)"},
+  "issues": [
+    "Divergence and Duration of Flash rows contain power-supply text ('Local Mains 440 V, 3 phase, 50 Hz AC supply', 'Back-up Solar Inverter supply...') instead of optic values",
+    "Effective beam intensity printed as '2,00000 cds' (irregular digit grouping); read as 200000",
+    "'No. of LED Panels 6' - panels are LED panels of a revolving beacon"
+  ]
+}

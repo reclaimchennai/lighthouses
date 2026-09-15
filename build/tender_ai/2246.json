@@ -1,0 +1,39 @@
+{
+  "nid": 2246,
+  "title": "Rewiring of Lighthouse tower, Power house, Office, DGNSS room and Provision of Street lights and Garden Lights at Pulicat Lighthouse and DGNSS Station",
+  "summary": "E-tender for rewiring the lighthouse tower, power house, office and DGNSS room and providing street and garden lights at Pulicat Lighthouse and DGNSS Station, Chennai Directorate.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01002(02)/4/2020-MNT-MD (e-2868)",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Pulicat Lighthouse and DGNSS Station", "station_id": "pulicat-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Rewiring of lighthouse tower, power house, office, DGNSS room; provision of street lights and garden lights"}
+  ],
+  "scope": [
+    {"item": "Rewiring of Lighthouse tower, Power house, Office, DGNSS room and Provision of Street lights and Garden Lights", "qty": null, "unit": null, "site": "Pulicat Lighthouse and DGNSS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2831081.0,
+    "emd_inr": 56622.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR of any nationalized bank in favour of The Director of Lighthouses and Lightships, Chennai, payable at Chennai; valid 90 days from technical bid opening; exempt for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "120 days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2026-02-18", "pre_bid": "2026-03-02", "bid_submission_end": "2026-03-10", "bid_opening": "2026-03-11"},
+  "eligibility": [
+    "OEMs or their authorized agents, or appropriate class contractors registered with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Experience in electrification/rewiring of buildings, street light works and UG cable works"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_0.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section-1 NIT only (printed pages 3-4); no BOQ, detailed eligibility or specifications. Bid submission / EMD submission window 18.02.2026 18:00 to 10.03.2026 15:00; technical bid opening 11.03.2026 15:30."
+}

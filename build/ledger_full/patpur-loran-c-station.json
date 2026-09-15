@@ -1,0 +1,37 @@
+{
+  "slug": "patpur-loran-c-station",
+  "page_count": 2,
+  "title_as_printed": "PATPUR LORAN C STATION — MASTER LEDGER",
+  "sections": [
+    {"no": null, "title": "Introduction", "title_hi": null, "page": 1,
+     "fields": [], "tables": [],
+     "text": "LORAN C Station at Patpur was de-commissioned on 2006, since then one LHA was posted to look after the station."},
+    {"no": "1", "title": "Land", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "i. Area", "value": "19 Acre"},
+       {"label": "ii. Demarcation", "value": "Compound Wall."},
+       {"label": "iii. No. of Fruit Bearing Trees", "value": "4"},
+       {"label": "iv. No. of Non-Fruit Trees", "value": "10"}
+     ], "tables": [], "text": null},
+    {"no": "2", "title": "Buildings", "title_hi": null, "page": 1,
+     "fields": [], "tables": [],
+     "text": "i. lNo.IQ.\nii. I unit building consisting of Transmitter room, office, store & power house.\niii. I No. AEE (E) Qtr.\niv. 2 Nos. SRT Qtr.\nv. Twin SRT Qtr.\nvi. Twin RT Qtr.\nvii. Twin LHA Qtr.\nviii. 1 No. Pump House"},
+    {"no": "3", "title": "Contact Details", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "i. Office No.", "value": "033-24013978"},
+       {"label": "ii. Office E-Mai1", "value": "dte-kol@gov.in"},
+       {"label": "iii. Postal Address", "value": "Patpur LORAN C Station\nPO & PS — Barang\nDist. Cuttack\nOdisha — 754 005"}
+     ], "tables": [], "text": null},
+    {"no": "4", "title": "Electricity", "title_hi": null, "page": 1,
+     "fields": [], "tables": [], "text": "Single Phase, 230V, 50Hz Electric Mains Supply is available from CESU."},
+    {"no": "5", "title": "Water Supply", "title_hi": null, "page": 1,
+     "fields": [], "tables": [], "text": "Open well is available in the station for water."},
+    {"no": "6", "title": "Mode ofApproach", "title_hi": null, "page": 1,
+     "fields": [], "tables": [],
+     "text": "The station is well connected by all weather road. The nearest Railway Station is Cuttack railway station which is approx. 12 Km and nearest Airport is Bhubaneswar which is approx. 22 km from Station."},
+    {"no": "7", "title": "Facilities Available", "title_hi": null, "page": 2,
+     "fields": [], "tables": [],
+     "text": "Post Office, Primary Health Center, Police Station and Kendra Vidyalaya all are within radius of 6 KM from Patpur LORAN C Station.\nSingle Phase, 230V, 50Hz Electric Mains Supply is available from WBEDCL."}
+  ],
+  "unreadable": []
+}

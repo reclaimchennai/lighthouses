@@ -1,0 +1,41 @@
+{
+  "slug": "tillanchang-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Tillanchang Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1998,
+  "alol": "F 1222.8",
+  "position": {"lat_text": "8° 28.30’ N", "lon_text": "93° 37.00’ E", "lat": 8.471667, "lon": 93.616667},
+  "elevation_m": 114,
+  "characteristic_text": "Fl (1) W 10 Sec (fl 0.8)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "fl 0.8",
+    "sequence_s": null,
+    "flash_duration_s": 0.8
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 25, "geographical_nm": null, "text": "25 NMiles (unlabelled)"},
+  "tower": {"type": "GI Trestle Tower", "height_m": 24, "colour_scheme": "Black and White Bands"},
+  "optic": {
+    "make": "Sealite", "model": "SL155-5D", "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Rotation Device: White Flashing Light; R.P.M. NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "RACON NA"},
+  "ais": {"present": false, "text": "NAIS base station model/type/MMSI blank; only 'VSAT Antenna Prodelin 2.4 meter' listed"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": false, "text": "Solar plant 70 W, 01 Mono Crystline panel, 12V/100AH battery; mains row blank, no engines listed"},
+  "issues": ["Range 25 NMiles is implausible for a 1500 cd Sealite SL155-5D LED flasher"]
+}

@@ -1,0 +1,42 @@
+{
+  "nid": 1303,
+  "title": "Routine maintenance civil work to staff quarters and office building at Noida",
+  "summary": "E-tender for a three-year contract for routine civil maintenance of staff quarters and the office building of the Directorate General of Lighthouses and Lightships at Noida, Uttar Pradesh.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "N-14/1/2018-NC",
+    "issuing_office": "Directorate General of Lighthouses and Lightships, Noida"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "DGLL staff quarters and office building, A-13 Sector-24, Noida (U.P.)", "station_id": null, "kind": "office", "work": "Routine maintenance civil work"}
+  ],
+  "scope": [
+    {"item": "Routine maintenance civil work to staff quarters and office building", "qty": null, "unit": null, "site": "Noida"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1600000.0,
+    "emd_inr": 32000.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": null,
+    "notes": "Expected estimated cost Rs 16,00,000 for one year, inclusive of GST, while contract period is 3 years. Tender fee and EMD by DD from a nationalized bank in favour of Pay & Accounts Officer, Lighthouses & Lightships, Noida."
+  },
+  "period": {"completion": "03 years contract period", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2023-07-20", "pre_bid": "2023-07-26", "bid_submission_end": "2023-07-31", "bid_opening": "2023-08-01"},
+  "eligibility": [
+    "Enlisted contractor with CPWD, State PWD, Railways, MES, NOIDA authority or other Central/State organizations under appropriate classification",
+    "Similar works in last 7 years: three works each >= 40%, or two >= 50%, or one >= 80% of estimated cost",
+    "Valid registration certificate; contractors who satisfactorily completed works for this department in last 7 years and meet the experience criterion considered eligible",
+    "Annual financial turnover not less than 30% of estimated cost",
+    "Permanent Account Number"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT English AMC Civil works.pdf", "pages": 2, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Two-page Section I NIT only; no BOQ. Listing title is the file name 'NIT English AMC Civil works'; the actual work name is 'Routine maintenance civil work to staff quarters and office building at Noida'. Download/bid submission 21.07.2023 11:00 to 31.07.2023 15:00; opening 01.08.2023 16:00."
+}

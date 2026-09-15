@@ -1,0 +1,56 @@
+                           GOVERNMENT OF INDIA
+                MINISTRY OF PORTS, SHIPPING ANS WATERWAYS
+
+                                 LOK SABHA
+                          UNSTARRED QUESTION NO. 949
+                             ANSWER ON 24.07.2026
+
+                   MODERNISATION OF INDIAN LIGHTHOUSES
+
+949.   SHRI VIJAYAKUMAR ALIAS VIJAY VASANTH:
+
+       Will the Minister of PORTS, SHIPPING AND WATERWAYS be pleased to state:
+                            प न, पोत प रवहन और जलमाग मं ी
+(a) whether the Government has initiated the process of modernisation of Indian
+lighthouses using Artificial Intelligence technologies, if so, the details thereof including
+objectives, scope, and implementation status, and if not, the reasons therefor;
+(b) whether AI-based navigation, monitoring and predictive maintenance systems are
+being introduced in lighthouses, if so, the details thereof and if not, the reasons
+therefor;
+(c) whether funds have been allocated for lighthouse modernisation projects, if so, the
+details thereof, including allocation and utilisation, year-wise and if not, the reasons
+therefor;
+(d) whether smart surveillance systems are being deployed in coastal lighthouse
+stations, if so, the details thereof including security benefits and if not, the reasons
+therefor; and
+(e) whether AI-enabled systems can enhance maritime safety and reduce accidents
+along Indian coasts, if so, the details thereof, and if not, the reasons therefor?
+
+                                        ANSWER
+
+                MINISTER OF PORTS, SHIPPING AND WATERWAYS
+                        (SHRI SARBANANDA SONOWAL)
+
+(a), (b), (d) & (e) No, Sir. Indian lighthouses infrastructures are maintained and
+upgraded in accordance with the standards and guidelines issued by the International
+Maritime Organization (IMO) and the International Organization for Marine Aids to
+Navigation (IALA). Indian lighthouse infrastructures utilises advanced techniques such
+as Differential Global Navigation Satellite System (DGNSS), Radar Beacon (RACON)
+and Navigational Text message transmission (NAVTEX).
+Further, following systems installed at lighthouse stations are capable for surveillance:
+(i)    National Automatic Identification System (NAIS): NAIS provides 24×7 tracking
+and monitoring of vessels along the Indian coast, supports Search and Rescue (SAR)
+operations, and facilitates post-incident analysis.
+(ii) Vessel Traffic Service (VTS): Operational in the Gulf of Kutch, Gujarat, for real-
+time vessel traffic monitoring, navigational assistance, collision-risk alerts and
+improved maritime safety.
+
+(c) The details of funds allocated and utilised during the last three years for the
+improvement and upgradation of lighthouse infrastructure are as follows:
+           Year      Final Allocation (₹ in Cr) Utilisation (₹ in Cr)
+           2023-24 100                          99.89
+           2024-25 90                           80.23
+           2025-26 90                           81.82
+
+                                         *****
+

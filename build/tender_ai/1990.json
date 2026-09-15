@@ -1,0 +1,71 @@
+{
+  "nid": 1990,
+  "title": "Improvement of conference hall at Deep Bhavan, Mumbai",
+  "summary": "Percentage-rate two-cover e-tender for interior improvement and modification of the conference hall at Deep Bhavan, Ghatkopar (East), Mumbai: acoustic doors, POP ceiling, teak wall panelling and veneer, motorised curtains, a large conference table with connectivity boxes, chairs and pantry storage.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-MUM-01001(03)/1/2021-M&D",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, M.G. Road, Ghatkopar (East), Mumbai - 400 077", "station_id": null, "kind": "office", "work": "Improvement and modification of conference hall (area 73.70 sqm per drawing)"}
+  ],
+  "scope": [
+    {"item": "Dismantling granite frames of old windows including making good the surface", "qty": "3.000", "unit": "frames", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Dismantling unserviceable wooden/steel doors, windows, ventilators, cupboards (area 3 sqm and below)", "qty": "6.000", "unit": "Sq.M", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Brick work with common burnt clay FPS bricks class 7.5 in CM 1:4", "qty": "2.000", "unit": "cum", "site": "Deep Bhavan, Mumbai"},
+    {"item": "18 mm cement plaster in two coats (12 mm 1:5 + 6 mm 1:3)", "qty": "23.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "White cement based putty 1 mm over plastered wall", "qty": "23.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Entry door - soundproof 50 mm second class teak wood shutter 6'x3', acoustic vinyl/polyester finish, switchable vision panel, hydraulic closer", "qty": "2.000", "unit": "nos", "site": "Deep Bhavan, Mumbai"},
+    {"item": "10 mm plaster of Paris ceiling on GI/wood framework: flat surface 72 sqm; curved surfaces 36 sqm; extra for mouldings 18 sqm", "qty": "126.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Wall panelling: second class teak wood frame work", "qty": "1.600", "unit": "cum", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Wall panelling: 35 mm shutters with 12 mm teak wood panels", "qty": "118.500", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Natural wood finish veneer on wall panelling (two tones)", "qty": "118.500", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "12 mm marine plywood panelling (IS 710)", "qty": "72.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Second class teak wood panelling 25-40 mm", "qty": "72.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Motorized curtains, remote/wifi operated, blackout fabric (80% polyester 20% cotton, 270 GSM, NFPA 701)", "qty": "28.000", "unit": "Sq.M", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Conference table: second class teak wood frame work", "qty": "1.000", "unit": "cum", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Conference table: 12 mm particle board panelling (IS 3087)", "qty": "23.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Conference table: 9 mm particle board panelling (IS 1328 BWR)", "qty": "13.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Conference table top: laminated veneer lumber glazed shutter (IS 14616) with 4 mm float glass, 30 mm", "qty": "14.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Beading: 38x5 mm wooden 19 rmt; 18x10 mm wooden 66 rmt; 10x10 mm steel box 27 rmt", "qty": "112.000", "unit": "rmt", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Natural wood finish veneer on conference table top (two tones)", "qty": "57.000", "unit": "sqm", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Conference table connectivity box with 3 power sockets and 2 USB (18 W A+C), concealed", "qty": "11.000", "unit": "nos", "site": "Deep Bhavan, Mumbai"},
+    {"item": "High back office chair (Godrej Interio or Durian class, synchro mechanism)", "qty": "1.000", "unit": "nos", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Medium back office chair (Godrej Interio or Durian class)", "qty": "36.000", "unit": "nos", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Modular kitchen cabinet 120 cm wide (Madesa or similar) for pantry", "qty": "1.000", "unit": "nos", "site": "Deep Bhavan, Mumbai"},
+    {"item": "Adjustable height movable metal TV trolley for 32-70 inch TVs (Store2508 or similar)", "qty": "2.000", "unit": "nos", "site": "Deep Bhavan, Mumbai"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3203287.0,
+    "emd_inr": 64100.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "Performance guarantee 5% of contract value (FDR or BG) before work order; plus security deposit 5% deducted from each RA bill, released after 12 months defect liability period",
+    "notes": "Estimated cost Rs 32,03,287 inclusive of GST (BOQ total 3203287.10). EMD by A/C payee DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid three months; original by 21/08/2025 16:00. MSME/NSIC bidders must also pay EMD. Quantity variation +/-25% at quoted rate. Water and electricity from department recovered at 1% + 1% of tender cost."
+  },
+  "period": {"completion": "02 Months from the date of award of contract", "bid_validity": "90 days from the date of opening of Technical bid", "warranty": "12 months defect liability period"},
+  "dates": {"published": "2025-08-04", "pre_bid": "2025-08-12", "bid_submission_end": "2025-08-19", "bid_opening": "2025-08-22"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with Central/State Govt/Municipal Corporation etc. with tender limits equal to or above the estimated cost",
+    "Similar works (interior decoration/civil works in Central/State/PSU) completed in last 7 years: three works each >= 40% (Rs 12.81 lakh), or two >= 60% (Rs 19.22 lakh), or one >= 80% (Rs 25.62 lakh); completion certificates from Executive Engineer rank or above; sub-contractor experience not considered",
+    "Average annual turnover at least 30% of estimated cost for last three financial years (stated as Rs 12,13,978)",
+    "PAN, GST registration, income tax returns for 2021-22 to 2023-24, P&L/auditor's reports",
+    "Tender acceptance letter (Annexure III), unconditional bid undertaking (Annexure IV), bid securing declaration (Annexure V), notarised non-blacklisting affidavit, no-relatives declaration (Annexure VIII)",
+    "Technical evaluation minimum 70/100: statutory documents 30 (includes consent/MoU with a B.Arch interior designer), financial standing 20, similar work experience 20, client performance certificates 20, key personnel 10 (1 graduate engineer, 2 diploma engineers)"
+  ],
+  "specs": [
+    "Soundproof doors: 50 mm second class teak wood, acoustic non-woven polyester 890 g/m2, fire rating C s3 d0/M1, switchable glass vision panel, 2-speed hydraulic closer max 14 Nm",
+    "Motorized curtains: smart wifi motor (Alexa/Google Home), blackout fabric 270 GSM, ISO 105-B02/X12/C06 colour fastness, NFPA 701",
+    "Conference table approx. 7.61 m x 1.80 m with 11 concealed connectivity boxes (drawing MUM/495/2025)",
+    "Glass door with 10 mm glass with switchable film in 100x230 mm second class teak frame (drawing MUM/497/2025)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "tender (3).pdf", "pages": 70, "read": "mixed", "language": "bilingual", "unreadable": ["Page 66 blank", "Pages 67-70 are drawings (existing plan MUM/493/2025, proposed plan MUM/494/2025, conference table MUM/495/2025, door MUM/497/2025), viewed but not transcribed in detail"]}
+  ],
+  "confidence": "high",
+  "notes": "Listing title 'Renovation of Conference Hall at Deep Bhawan, Mumbai' differs from document ('Improvement of conference hall' / 'Improvement and modification of conference hall'). NIT dated 04 August 2025; download/submission 05/08/2025 16:00 to 19/08/2025 16:00; pre-bid 12/08/2025 16:00 at Deep Bhavan; technical bid opening 22/08/2025 16:00 (listing end date 2025-08-22 is the opening date). Internal inconsistencies: EMD figure Rs 64,100 but words say 'Eighty-One Thousand Rupees'; stated turnover figure Rs 12,13,978 is not 30% of the estimated cost (which would be about Rs 9.61 lakh); turnover years given as ending 31/03/2024 and 31/03/2025 in different clauses; NIT refers to eligibility 'clause 3.1' and evaluation refers to 'clause 3.1.2 (iii)', which is not present. BOQ items name brands (Godrej Interio/Durian, Madesa, Store2508, Desertcraft). Hindi duplicates, ITB, GCC, labour/safety rules and general civil specifications (pages 3-5, 9-43) are standard boilerplate, skimmed. Drawing no. MUM/496/2025 absent from the sequence. Named draughtsperson on drawings omitted."
+}

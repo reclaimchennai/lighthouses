@@ -1,0 +1,44 @@
+{
+  "slug": "uttan-point-lighthouse-and-dgps-station",
+  "pages_read": [1, 2, 3],
+  "name": "Uttan Point Lighthouse and DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1960,
+  "alol": "F 0499",
+  "position": {"lat_text": "19º 16.50' N", "lon_text": "72º 46.80' E", "lat": 19.275, "lon": 72.78},
+  "elevation_m": 53,
+  "characteristic_text": "Fl (2) W 15 Sec. (fl 0.25, ec 3.51, fl 0.25, ec 10.99)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "fl 0.25, ec 3.51, fl 0.25, ec 10.99",
+    "sequence_s": [0.25, 3.51, 0.25, 10.99],
+    "flash_duration_s": 0.25
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 24, "geographical_nm": null, "text": "24 (unlabelled range, no unit)"},
+  "tower": {"type": "Square Masonry Tower", "height_m": 12.8, "colour_scheme": "Red & White bands"},
+  "optic": {
+    "make": "M/S. Chance Bros.", "model": null, "type": "5th Order", "size": "187.5 mm (5th Order) revolving", "order": "5th Order",
+    "panels": 2,
+    "rotation_device": "Dual Stepper Motor 40 Kg cm with auto changeover",
+    "rpm": 4,
+    "rotates": true,
+    "rotates_evidence": "Size: 187.5 mm (5th Order) revolving; Rotation Device: Dual Stepper Motor 40 Kg cm; R.P.M. 4",
+    "divergence_horizontal_deg": 16.72,
+    "divergence_vertical_deg": 12.16,
+    "divergence_text": "Horizontal – 16.72º, Vertical – 12.16º",
+    "illuminant": "3 x 150 W Metal Halide Lamp cluster"
+  },
+  "intensity_cd": 69940,
+  "racon": {"present": false, "code": null, "text": "NA"},
+  "ais": {"present": true, "text": "NAIS Base Station 2 Nos; Model SAAB R-4024, Class A, 12.5W, MMSI 4192226"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V 3 phase 50 Hz; Standby DG set -02 Nos. (Kirloskar HA394 23.54 Kw, 25 KVA alternators); Solar plant 3 x 200 Watt; RACON solar NA"},
+  "issues": [
+    "Duration of Flash given as 0.70 Sec but characteristic sequence gives 0.25 s flashes",
+    "No. of lens given as '2 of 135º'"
+  ]
+}

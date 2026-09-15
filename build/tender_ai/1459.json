@@ -1,0 +1,52 @@
+{
+  "nid": 1459,
+  "title": "Procurement of Fire Extinguishers for various lighthouses under Directorate of Lighthouses of Lightships Goa",
+  "summary": "GeM two-packet bid for 132 portable fire extinguishers (CO2 and ABC dry powder types) and 19 galvanized mild steel fire buckets, delivered to the Directorate of Lighthouses and Lightships, Goa, for its lighthouses.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2024/B/4570837",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Goa"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Portable Fire Extinguishers (V2) as per IS 15683:2018 - CO2 based, high pressure, capacity 2 / 4.5 kg, Class B, fire rating 55B", "qty": "47", "unit": "pieces", "site": "Directorate of Lighthouses and Lightships, Deep Bhawan, Bambolim, North Goa"},
+    {"item": "Portable Fire Extinguishers (V2) as per IS 15683:2018 - ABC dry powder, N2 stored pressure, low pressure, 4 kg, fire rating 89B", "qty": "49", "unit": "pieces", "site": "Directorate of Lighthouses and Lightships, Deep Bhawan, Bambolim, North Goa"},
+    {"item": "Portable Fire Extinguishers (V2) as per IS 15683:2018 - ABC dry powder, N2 stored pressure, 9 kg, fire rating 233B", "qty": "36", "unit": "pieces", "site": "Directorate of Lighthouses and Lightships, Deep Bhawan, Bambolim, North Goa"},
+    {"item": "Galvanized mild steel fire bucket (fire suppression hand tools) as per IS 2546, 9.0 litre, with stand", "qty": "19", "unit": "pieces", "site": "Directorate of Lighthouses and Lightships, Deep Bhawan, Bambolim, North Goa"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1595368.0,
+    "emd_inr": 32000.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 3% for 38 months",
+    "notes": "Estimated bid value Rs 15,95,368 declared for guidance on EMD/eligibility. EMD and ePBG advisory bank State Bank of India, beneficiary Director, Directorate of Lighthouses and Lightships, Goa. EMD exemption per GeM GTC (MSE manufacturers). MII and MSE purchase preference apply; no reverse auction."
+  },
+  "period": {"completion": "Delivery within 15 days", "bid_validity": "60 days from bid end date", "warranty": "3 years from final acceptance / installation at consignee location"},
+  "dates": {"published": "2024-02-02", "pre_bid": null, "bid_submission_end": "2024-02-12", "bid_opening": "2024-02-12"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 5 lakh",
+    "OEM average annual turnover (last 3 years): Rs 5 lakh",
+    "3 years past experience supplying same/similar products to Central/State Govt/PSU/public listed company",
+    "Past performance: supplied 20% of bid quantity in one of last three financial years",
+    "MSE and startup exemption from experience and turnover criteria",
+    "OEM authorization certificate required; only Class-I and Class-II local suppliers eligible",
+    "BIS licence, type test certificate and PESO certificate for the batch (with unique serial numbers of containers) to be uploaded"
+  ],
+  "specs": [
+    "Extinguishers conform to IS 15683:2018, BIS marking, test report from Central Govt/NABL/ILAC lab",
+    "CO2 extinguishers per IS 15222, steel body per IS 7285, discharge time above 8 s",
+    "Dry powder ABC per IS 4308, N2 stored pressure",
+    "Fire bucket per IS 2546, 9 litre, zinc coating 0.06 mm minimum; canopy of stand min 3 mm GI sheet; stand min 6 mm GI angle",
+    "Seller to conduct fire-fighting demo/training for 05 staff at consignee's premises using 02 powder and 02 CO2 extinguishers (beyond supplied quantity) on real fire at seller's cost",
+    "Scope includes supply, installation, testing, commissioning, training; option clause +/-25% quantity"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Fire Extinguishers GeM-Bidding-5991485_0.pdf", "pages": 13, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Standard GeM bid document with GTC/ATC boilerplate. Bid dated 02-02-2024; bid end 12-02-2024 16:00, opening 12-02-2024 16:30. All four items consigned to a single consignee officer at the Goa Directorate office (name omitted); individual lighthouses are not named. Two-packet bid, total value wise evaluation."
+}

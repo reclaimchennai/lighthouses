@@ -1,0 +1,45 @@
+{
+  "nid": 2250,
+  "title": "Providing Aluminium partition wall to back verandah of staff quarters & Inspection Quarters at Mount Dilli Lighthouse",
+  "summary": "Sealed quotation for providing a powder-coated aluminium partition wall to the back verandah of the staff quarters and inspection quarters, plus aluminium angle fixing to shutters, at Mount Dilli Lighthouse (Ezhimala, Payyannoor).",
+  "category": "civil works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-18002/1/2020-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mount Dilli Lighthouse", "station_id": "mount-dilli-lighthouse", "kind": "lighthouse", "work": "Aluminium partition wall to back verandah of staff quarters and inspection quarters; aluminium angles on shutters"}
+  ],
+  "scope": [
+    {"item": "Demolishing R.C.C. work manually/by mechanical means incl. stacking of steel bars and disposal within 50 m lead (rate Rs 4,115.19; amount Rs 2,057.59)", "qty": "0.50", "unit": "Cum", "site": "Mount Dilli Lighthouse"},
+    {"item": "12 mm cement plaster 1:3 finished with floating coat of neat cement (rate Rs 509.00; amount Rs 2,036.01)", "qty": "4.00", "unit": "Sqm", "site": "Mount Dilli Lighthouse"},
+    {"item": "Providing and fixing powder coated heavy gauge aluminium partition wall partially panelled with 4 mm ACP sheet, sliding glazed window, mosquito net window, aluminium door with frame, shutter, handle, lock, 4 mm float glass (rate Rs 5,808.00; amount Rs 1,91,664.00)", "qty": "33.00", "unit": "Sqm", "site": "Mount Dilli Lighthouse"},
+    {"item": "Providing and fixing aluminium angle 30x30x2 mm (0.313 kg/m) to bottom of wooden window/door/cupboard shutters of staff quarters/IQ/office to prevent entry of snakes/rats, incl. planing (rate Rs 645.00; amount Rs 30,960.00)", "qty": "48.00", "unit": "Each", "site": "Mount Dilli Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 226717.61,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "5% of quoted amount by DD/FDR in favour of Director of Lighthouses and Lightships, Cochin, payable at Ernakulam",
+    "notes": "Schedule total Rs 2,26,717.61; bidders quote percentage below/above, inclusive of all materials, labour, transport, scaffolding and GST. No EMD mentioned. No escalation."
+  },
+  "period": {"completion": "01 month from date of issue of work order", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2026-02-24", "pre_bid": null, "bid_submission_end": "2026-03-12", "bid_opening": null},
+  "eligibility": [
+    "Submit copy of PAN card, GST registration and bank account details",
+    "Lowest quoted amount decides successful contractor; company bidders need authorisation letter"
+  ],
+  "specs": [
+    "Powder coated heavy gauge aluminium partition with 4 mm ACP panels and 4 mm float glass",
+    "Aluminium angle 30x30x2 mm (0.313 kg/m)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQMount Dilli.pdf", "pages": 8, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIQ dated 24.02.2026. Blank forms from DLL Kochi or Station in charge, Mount Dilli Lighthouse, 25.02.2026 to 11.03.2026 (10:00-16:00); sealed quotations by 12.03.2026 15:00; site inspection 25.02.2026 to 11.03.2026. Opening date not printed (listing shows 2026-03-13). Office phone 0484-2205720, e-mail dte-koc@gov.in. Schedule pages 2-3 (page 3 scanned). Hindi text of term 31 repeats term 30 while the English is about danger/safety marks."
+}

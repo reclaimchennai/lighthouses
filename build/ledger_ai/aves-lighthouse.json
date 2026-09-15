@@ -1,0 +1,41 @@
+{
+  "slug": "aves-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Aves Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2008,
+  "alol": "F 1202.45",
+  "position": {"lat_text": "12° 54.87' N", "lon_text": "93° 56.10' E", "lat": 12.9145, "lon": 93.935},
+  "elevation_m": 35,
+  "characteristic_text": "Fl (2) W 7 Sec (fl 1.0, ec 1.0, fl 1.0, ec 4.0)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 7,
+    "sequence_text": "fl 1.0, ec 1.0, fl 1.0, ec 4.0",
+    "sequence_s": [1.0, 1.0, 1.0, 4.0],
+    "flash_duration_s": 1.0
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 11, "geographical_nm": null, "text": "11 NMiles (unlabelled)"},
+  "tower": {"type": "Composite Masonry Tower", "height_m": 15, "colour_scheme": "Red and White bands"},
+  "optic": {
+    "make": "Sealite", "model": "SL155-5D", "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Rotation Device: White Flashing Light; R.P.M. NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "RACON - NA-"},
+  "ais": {"present": false, "text": "NAIS base station model/type/MMSI blank; only 'VSAT Antenna Prodelin 2.4 meter' listed"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": false, "text": "Solar plant 70W, 01 Mono Crystline panel, 12V/100AH battery; mains row blank, no engines listed"},
+  "issues": []
+}

@@ -1,0 +1,38 @@
+{
+  "nid": 1786,
+  "title": "Provision of Power Supply, DG set and Servo Stabilizer for Elevator at Ponnani Lighthouse",
+  "summary": "Two-cover e-tender for providing power supply, a DG set and a servo stabilizer for the elevator at Ponnani Lighthouse, Kerala, under the Cochin Directorate.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-02077/1/2024-Admin; I/67606/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Ponnani Lighthouse", "station_id": "ponnani-lighthouse", "kind": "lighthouse", "work": "Power supply, DG set and servo stabilizer for elevator"}
+  ],
+  "scope": [
+    {"item": "Provision of power supply, DG set and servo stabilizer for elevator", "qty": null, "unit": null, "site": "Ponnani Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2506414.0,
+    "emd_inr": 50130.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR from any nationalised/RBI approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam; to reach one day before last day of bid submission. Small scale industries exempt from EMD with valid NSIC/MSME certificate covering the work."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-11-25", "pre_bid": "2024-11-28", "bid_submission_end": "2024-12-10", "bid_opening": "2024-12-11"},
+  "eligibility": [
+    "Reputed OEMs or their authorized suppliers, licensed electrical contractors, parties or Government undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_1.pdf", "pages": 2, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Two-page short tender notice only; no DG set/stabilizer ratings, BOQ, completion period or bid validity. Download/submission 26.11.2024 (09:00) to 10.12.2024 (15:00); EMD in original by 09.12.2024 15:00; technical bid opening 11.12.2024 16:00. Page 1 Hindi text layer partly garbled; page 2 read from image."
+}

@@ -1,0 +1,52 @@
+{
+  "nid": 1354,
+  "title": "Hiring of Vehicles for Official Purpose at Cochin Directorate during the period September 2023 to March 2024",
+  "summary": "Notice inviting two-cover sealed quotations from travel agencies/tour operators to supply various classes of hired vehicles on km/hour/day basis for official use by the Directorate of Lighthouses and Lightships, Cochin, September 2023 to March 2024.",
+  "category": "vessels & vehicles",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "ST-Coc/11/2019-Store; I/44474/2023",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "directorate",
+  "sites": [
+    {"name": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthara P.O., Cochin - 682 020", "station_id": null, "kind": "office", "work": "Hired vehicles for official purposes"}
+  ],
+  "scope": [
+    {"item": "AC vehicle: Toyota Innova Crysta (rates up to 80 km/8 hrs, additional km, additional hours, driver allowance after 8 hrs)", "qty": null, "unit": null, "site": "Cochin"},
+    {"item": "AC vehicle: Mahindra Xylo / Marazzo / Maruti Suzuki Ertiga / XL6 (7 or 8 seater MUV)", "qty": null, "unit": null, "site": "Cochin"},
+    {"item": "AC vehicle: Maruti Suzuki Swift Dezire / Toyota Etios / Honda Amaze (5 seater sedan)", "qty": null, "unit": null, "site": "Cochin"},
+    {"item": "AC vehicle: Maruti Suzuki Swift / Tata Tiago / Tata Punch (5-seater hatchback)", "qty": null, "unit": null, "site": "Cochin"},
+    {"item": "AC vehicle: Tempo Traveller 17-seater", "qty": null, "unit": null, "site": "Cochin"},
+    {"item": "AC vehicle: Tempo Traveller 24-seater", "qty": null, "unit": null, "site": "Cochin"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": 2000.0,
+    "tender_fee_inr": null,
+    "performance_security": "Rs 10,000 as FDR from a nationalised bank or bank guarantee, valid 3 months beyond contract tenure",
+    "notes": "EMD by DD/FDR (original) from any commercial/nationalised bank in favour of Director, Lighthouses and Lightships, Cochin, valid three months; firms seeking exemption must submit valid NSIC/MSME certificate. Rates inclusive of POL, fuel, taxes, maintenance, driver allowance; GST paid on billing; no escalation. Payment per trip/monthly against duty slips."
+  },
+  "period": {"completion": "September 2023 to March 2024 (extendable at same rates)", "bid_validity": "Rates valid for 07 months", "warranty": null},
+  "dates": {"published": "2023-08-31", "pre_bid": null, "bid_submission_end": "2023-09-13", "bid_opening": "2023-09-13"},
+  "eligibility": [
+    "Company registration in Kerala and a local office in Kochi (proof by BSNL bill, registration certificate or Govt document; rental agreement not accepted)",
+    "PAN card and GST registration",
+    "At least three years' experience providing hired vehicles to Government/Semi-Govt/PSUs",
+    "At least 10 vehicles of its own (RC/ownership/lease documents)",
+    "Not blacklisted; unconditional bid; acceptance of terms (Annexure III affidavits)",
+    "Last 3 years income tax returns and proof of financial stability",
+    "Vehicles not more than five years old; drivers with valid licence and 5 years' experience"
+  ],
+  "specs": [
+    "AC vehicles: Innova Crysta; Xylo/Marazzo/Ertiga/XL6; Swift Dezire/Etios/Amaze; Swift/Tiago/Punch; Tempo Traveller 17- and 24-seater",
+    "Vehicles to be commercially registered, not older than five years, with 'ON GOVT OF INDIA DUTY' sticker"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ.pdf", "pages": 17, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled; English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "Downloadable from CPPP epublish and dgll.nic.in; sealed two-cover quotations submitted physically. Download 02.09.2023 09:00 to 13.09.2023 14:00; submission 02.09.2023 14:00 to 13.09.2023 15:00; technical bid opening 13.09.2023 16:00. Internal inconsistencies: rates to be valid 07 months yet 'until September 2023'; PBG fixed at Rs 10,000 while the BG proforma says 10% of contract value and its note says 3% of contract price. Listing title omits the 'during the period September 2023 to March 2024' qualifier. Pages 10-17 are standard proformas (BG, EMD, acceptance letter, undertaking, affidavits). L1 decided on consolidated lowest total of the schedule."
+}

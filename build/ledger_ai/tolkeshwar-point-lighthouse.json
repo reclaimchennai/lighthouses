@@ -1,0 +1,45 @@
+{
+  "slug": "tolkeshwar-point-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5, 6],
+  "name": "Talkeshwar Point Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1960,
+  "alol": "F 0566",
+  "position": {"lat_text": "17° 33' 59.76\" N", "lon_text": "73° 08' 14.74\" E", "lat": 17.5666, "lon": 73.137428},
+  "elevation_m": 104,
+  "characteristic_text": "GP fl W (3) every 15 Sec. (W) 0.35+2.65+0.35+2.65+0.35+8.65=15 sec.",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "0.35+2.65+0.35+2.65+0.35+8.65=15 sec.",
+    "sequence_s": [0.35, 2.65, 0.35, 2.65, 0.35, 8.65],
+    "flash_duration_s": 0.35
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 22, "geographical_nm": null, "text": "22 NM (unlabelled range)"},
+  "tower": {"type": "Rectangular Masonry Tower", "height_m": 13.5, "colour_scheme": "White"},
+  "optic": {
+    "make": "Stone Chance", "model": null, "type": "Revolving", "size": "375 mm (3rd order small) revolving", "order": "3rd order small",
+    "panels": 3,
+    "rotation_device": "Dual Stepper Motor 40 Kgcm with auto changeover (standard 4 hrs clock machine kept as standby)",
+    "rpm": 4,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving; Rotation Device: Dual Stepper Motor 40 Kgcm; R.P.M. 4",
+    "divergence_horizontal_deg": 8.36,
+    "divergence_vertical_deg": 6.08,
+    "divergence_text": "Horizontal – 8.36°, Vertical – 6.08°",
+    "illuminant": "3 x 150W Metal Halide lamp cluster Philips Make"
+  },
+  "intensity_cd": 263883,
+  "racon": {"present": false, "code": null, "text": "RACON NA"},
+  "ais": {"present": true, "text": "NAIS: SAAB R 40; 230vac to 24 vdc, 5 amp; VSAT modem PSM-500L; MMSI not given"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains MSEDCL 440V 3 phase; standby DG set 7.5KVA (Kirloskar Green EA-16); solar 3 x 200 W"},
+  "issues": [
+    "No. of lens printed '3 to 50° each (1 of 110° & 2nd of 100° each)'",
+    "Ledger header spells name 'Talkeshwar Point'; slug uses 'tolkeshwar'",
+    "established_year from commissioning 15.02.1960 (PV burner); converted to electric 31.01.1997"
+  ]
+}

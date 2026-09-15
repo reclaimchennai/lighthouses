@@ -1,0 +1,46 @@
+{
+  "nid": 1981,
+  "title": "Construction of new Inspection quarter at Navabandar Lighthouse Station.",
+  "summary": "Online item-percentage two-bid e-tender for construction of a new inspection quarter at Navabandar Lighthouse, Junagadh District, Gujarat, issued by the Directorate of Lighthouses and Lightships, Jamnagar.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-JM-02018/1/2020-Civil-Part(2)",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Jamnagar"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Navabandar Lighthouse, Post-Navabandar Village, Via-Delvada-362 510, Dist-Junagadh (Gujarat)", "station_id": "nawabander-lighthouse", "kind": "lighthouse", "work": "Construction of new inspection quarter"}
+  ],
+  "scope": [
+    {"item": "Construction of new Inspection quarter", "qty": null, "unit": null, "site": "Navabandar Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 5948747.0,
+    "emd_inr": 118975.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST, as per item percentage BoQ. EMD by DD/FDR/Deposit at call receipt of scheduled (nationalized/RBI approved) bank in favour of Director of Lighthouses and Lightships, Jamnagar, valid 180 days from technical bid opening; original to be submitted by 07/08/2025. Firms registered with MSME must submit EMD; no exemption."
+  },
+  "period": {"completion": "270 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-07-24", "pre_bid": "2025-07-31", "bid_submission_end": "2025-08-07", "bid_opening": "2025-08-08"},
+  "eligibility": [
+    "Appropriate category (Building Works) and class contractor",
+    "Similar works completed in central/state government department/undertaking in last 7 years: three works each >= 40% of estimated cost, or two >= 50%, or one >= 80%; value updated at 7% p.a. simple",
+    "Similar works: civil construction or maintenance of any type of building or civil structure; supported by client certificates",
+    "Valid PAN and GST registration; valid registration of appropriate class and category (civil) with central/state government department/undertaking",
+    "Joint ventures and consortia not permitted",
+    "Declaration of not being blacklisted/debarred; undertaking that price bid is unconditional; tender acceptance letter",
+    "Bank solvency certificate of at least 40% of estimated cost, not older than 1 year",
+    "Income tax returns for 2021-22, 2022-23 and 2023-24",
+    "Average annual turnover of last three financial years (2021-22 to 2023-24) at least 30% of estimated cost, CA certified"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITNavabandar240725.pdf", "pages": 5, "read": "mixed", "language": "bilingual", "unreadable": ["Hindi text layer garbled/missing; pages 1 and 4 rendered and read by vision to recover date and blanks"]}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (NIT) only, printed pages 3-7; no BOQ. Download period 24/07/2025 18:00 to 07/08/2025 15:00; financial bid opening to be intimated via CPP portal. Listing has no end date. Station match: Navabandar (via Delvada, near Diu) taken as Nawabander Lighthouse; Navibandar Lighthouse (Porbandar) is a different station."
+}

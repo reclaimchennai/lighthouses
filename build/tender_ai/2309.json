@@ -1,0 +1,51 @@
+{
+  "nid": 2309,
+  "title": "Supply and Installation of Lantern house doors at Point calimere and Muttom Point Lighthouse stations under Chennai directorate",
+  "summary": "E-tender for supply and installation of hot-dip galvanized mild steel lantern house doors (one each) at Point Calimere and Muttom Point Lighthouses, Tamil Nadu, including dismantling of old doors (Chennai Directorate).",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01002(12)/3/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Point Calimere Lighthouse, Kodiakkarai post, Nagapattinam District, Tamilnadu", "station_id": "point-calimere-lighthouse", "kind": "lighthouse", "work": "Supply and installation of 1 lantern house door; dismantling old door; temporary door until new door fixed"},
+    {"name": "Muttom Point Lighthouse, Muttom Post, Kanyakumari District, Tamilnadu", "station_id": "muttom-point-lighthouse-and-navtex-station", "kind": "lighthouse", "work": "Supply and installation of 1 lantern house door; dismantling old door; temporary door until new door fixed"}
+  ],
+  "scope": [
+    {"item": "Supply of Lantern house Doors as per drawing and sample (mild steel, hot dip galvanized), incl. template charges, making by sample, loading, unloading, packing, freight and forwarding up to Point Calimere and Muttom Point Lighthouses (1 No each)", "qty": "2", "unit": "Nos", "site": null},
+    {"item": "Dismantling of old lantern house door and installation of new lantern house door incl. painting, lifting, positioning, winch/lifting equipment, skilled labour, and supply and installation of temporary door (wood/plastic/other lightweight materials)", "qty": "1", "unit": "LS", "site": "Point Calimere Lighthouse"},
+    {"item": "Dismantling of old lantern house door and installation of new lantern house door incl. painting, lifting, positioning, winch/lifting equipment, skilled labour, and supply and installation of temporary door (wood/plastic/other lightweight materials)", "qty": "1", "unit": "LS", "site": "Muttom Point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 309056.0,
+    "emd_inr": 6181.0,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value, FDR from nationalized bank, valid six months after completion of work",
+    "notes": "Estimated cost including GST; rates to be quoted inclusive of GST. EMD by DD/FDR of any nationalized bank in favour of The Director of Lighthouses and Lightships, Chennai, payable at Chennai; valid 90 days from technical bid opening; EMD exempted for valid MSME/NSIC certificate. 100% payment after satisfactory completion. Penalty 0.1% per day of delay, max 10%. Tender fee not stated."
+  },
+  "period": {"completion": "90 days", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2026-03-25", "pre_bid": "2026-04-03", "bid_submission_end": "2026-04-10", "bid_opening": "2026-04-13"},
+  "eligibility": [
+    "OEMs or their authorized agents or appropriate class contractors registered with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies; registered bonafide fabricators/suppliers",
+    "Similar works in last seven years ending 28 February 2026: one work >= 80%, or two each >= 50%, or three each >= 40% of tender value",
+    "Similar work: fabrication and supply of lantern house / CI gutter ring; supply & erection of high-rise steel towers; supply/replacement of glass panes at lantern house; steel fabrication or mechanical maintenance works at high-rise towers or structures",
+    "Financial standing: turnover, P&L and auditor's reports for 2022-23, 2023-24, 2024-25; income tax returns for same years",
+    "Litigation/blacklisting information with affidavit; key personnel details; PAN; GST registration",
+    "Technical evaluation minimum 70/100 marks: statutory documents (business registration from Tamil Nadu/Puducherry local authority or MSME/NSIC with Tamil Nadu/Puducherry address, PAN, GST, non-blacklist affidavit) 20; turnover 15; ITR 15; similar experience 30; performance rating 20"
+  ],
+  "specs": [
+    "Lantern house doors in mild steel, hot dip galvanized, curved, machined, edges fine finished per drawing and approved sample; outer curved plate thickness 12 mm",
+    "Drawing 9.5: door approx. 1474 mm high (1470 mm plate), 590 mm wide (535 mm inner), 115 mm curvature depth, 28 mm frame (dimensions in mm, not to scale; handwritten values partly unclear)",
+    "Painting to be carried out after installation",
+    "Spares availability guarantee of minimum 2 years from acceptance (SCC 5.15, generic clause)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "TPCM_compressed (1).pdf", "pages": 40, "read": "mixed", "language": "bilingual", "unreadable": ["page 39 drawing: some handwritten dimensions faint", "page 40 blank"]}
+  ],
+  "confidence": "high",
+  "notes": "Full tender document: NIT, instructions (CPPP boilerplate), eligibility, GCC, SCC (incl. Make in India purchase preference boilerplate), scope, evaluation criteria, BOQ (blank price schedule), forms and drawing. Pages 1-3 text layer (Hindi glyphs broken); pages 4-40 scanned. Rate validity inconsistently stated: 90 days (NIT, cl. 3.15.5) vs 180 days (GCC 4.1 xi). Download/bid submission/EMD period 26.03.2026 18:00 to 10.04.2026 15:00; technical bid opening 13.04.2026 10:00. Clause 4.12(b) mentions only Point Calimere for site visit. Official e-mail dlhlschennai@gmail.com and landline 044-25232807 printed."
+}

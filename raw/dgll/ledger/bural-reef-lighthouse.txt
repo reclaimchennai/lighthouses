@@ -1,0 +1,109 @@
+                  मास्टर लेजर/ MASTER LEDGER
+क्रमसंख्या/
+  Sr.No                    नाम /Name                     वििरण/ Description
+
+     01.      ए.एल.ओ.एल/A.L.O.L                  0386.5
+     02.      स्थान/Position                     Lat 22º 32.7' N
+                                                 Long 69º 16.2' E
+     03.      ऊंचाई/Elevation                    15 Meter
+     04.      अविलक्षण/Characteristic            Fl (W) 1.1Sec. (0.5 + 0.6 = 1.1Sec)
+     05.      नॉविकलमाइलमेदूरी Range in miles
+              (A) Luminous                       9NM at T=0.74
+
+              (B) Geographical                   10NM
+
+     06.      दीपस्तंि िािर/L.H.Tower            Type: White round tower
+                                                 Height: 12 Meter
+                                                 Colour Scheme: White
+     07.      ऑविकल उपकरण
+              Optical Equipment:                 Marine LED Lantern
+              Type of Light (LED Flasher)
+              Make                               NavAids Pvt Ltd, Delhi
+              Model                              NE-9A is a Three-Tier Lantern
+              Colour filter if any               N/A
+              Type of Flash                      High Intensity LED Lantern, NE-9
+              Duration of Flash                  0.5 Second
+     08.         Solar Panel                     02 nos.
+                                                 125W Solar panels, make - LOOM
+                                                 Solar installed. Out of two, one
+                                                 solar panel along with two old solar
+                                                 panels-35W each, make - BHEL
+                                                 installed for charging main light
+                                                 battery. Old panels 35W directly
+                                                 installed to battery and new solar
+                                                 panel 12V/125W installed through
+                                                 MPPT charge controller 12V/20A,
+                                                 Make: Nav-Aids .
+
+     09.         Battery                         SMF 12V/100AH – 2Nos Exide
+                                                 Power Safe connected in parallel
+     10.         Charge controller               MPPT charge controller 12V/20A,
+                                                 Make: Nav-Aids
+
+     11.         Electrical Parameter of Light
+                 (A) Operating Voltage           12 V DC
+                 (B) Range                       11-14NM @ AT 0.74
+                 (C) Lamp Source                 High Power LED
+                 (D) Power                       15W-18W
+      (E) Operation                   Flashing
+      (F) LED Life                    upto 100000Hours
+      (G) Horizontal Divergence       360°
+      (H) Vertical Divergence         8°
+      (I) Sun Switch                  Provided
+      (J) Flasher                     Programmable 256 Flash
+                                      Character as per IALA Standard
+      (K) Color                       White
+12.   Mechanical Parameters of
+      Lantern
+      (A) Body                        Aluminum Alloy Cast Body LM6
+                                      Marine Grade
+      (B) Lens Type/Dome              UV Stabilized Polycarbonate
+      (C) Weight                      10Kg approx
+      (D) Mounting                    4/3 x 200mm PCD with M 12
+                                      IP66/67/68 Standard
+
+13.         Pedestal                  G.I trestle tower, height 2Meter
+                                      (Angle size 50x50x6mm) with SS
+                                      Nut Bolt including battery box
+                                      assembly (to accumulate 2 nos
+                                      100AH SMF batteries) & spacer
+                                      unit assembly for increasing the
+                                      height of trestle above railing height
+                                      and attached assembly of 2 nos
+                                      solar panel frame (left & right side),
+                                      Size: 700 X 500 X 2000mm
+14.         Illuminant                High Intensity LEDs
+15.         Max. Beam Intensity       10,000Candela
+                   (cd)
+16.         Energy Source             Solar power light
+17.         Fire Fighting Equipment   Not provided
+18.         Communication             Mobile
+19.         Water supply              Not provided
+20.         Land Demarcation          North West tip of the vast Bural
+                                      Reef
+21.         Buildings
+22.         Whether attended or       Unattended
+                    unattended
+23.         Mode of approach          By Sea
+24.         Facility available        Nil
+25.         Postal address            Directorate of lighthouses &
+                                      lightships
+                                      C/o. Okha lighthouse & RCS
+                                      P.O Okha Dist:- Jamnagar
+26.         RACON                     X Band Racon installed on
+                                      25.04.2017
+         (A) Make                     Pharos Marine Automatic Power,
+                                      Singapore
+         (B) Model                    PMAPI Racon -2, X-band
+            (C) Type                    X-Band Racon
+            (D) Frequency Bandwidth     9.3 to 9.5GHZ
+            (E) Code                    ‘D’
+            (F) Power supply            12V, 100AH SMF battery
+            (G) Solar Panel for Racon   New solar panel 12V/125W- Loom
+                                        Make installed through charge
+                                        controller Luminous PWM 12V—
+                                        24V/20A for charging RACON
+                                        battery (12V,100AH) with regulator.
+27.   Year of commissioning             1978
+                                        05.02.2022 (New Light & Trestle)
+

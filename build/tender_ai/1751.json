@@ -1,0 +1,45 @@
+{
+  "nid": 1751,
+  "title": "Providing internal elevator at Ponnani Lighthouse",
+  "summary": "E-tender (two-cover) for providing an internal elevator at Ponnani Lighthouse, Malappuram District, Kerala (Kochi Directorate); bid deadlines extended by Corrigendum II to 29.10.2024.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-03031/1/2024-Admin; E-Tender ID 2024_DGLL_826147_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Ponnani Lighthouse, Malappuram District, Pin-679583", "station_id": "ponnani-lighthouse", "kind": "lighthouse", "work": "Providing internal elevator"}
+  ],
+  "scope": [
+    {"item": "Providing internal elevator at Ponnani Lighthouse", "qty": "1", "unit": "elevator", "site": "Ponnani Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 8281264.0,
+    "emd_inr": 166000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals (or MSME/UDYAM/NSIC certificate) with technical documents by registered/speed post or in person by the deadline. Tender fee Nil."
+  },
+  "period": {"completion": "180 Days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-09-11", "pre_bid": "2024-10-04", "bid_submission_end": "2024-10-29", "bid_opening": "2024-10-30"},
+  "eligibility": [
+    "(A) Lift manufacturing agency with valid licence/registration from State CEIG or other State/Central licensing authority, with experience in fabrication and erection of structural steel tower for lift and lift installation; OR contractor registered in appropriate category/class with CPWD/State PWD/Railways/MES/BSNL etc. in Joint Venture Consortium with lift manufacturing agency",
+    "(B) Similar works in last 7 years: three each >= 40%, two each >= 50%, or one >= 80% of estimated cost; completed works with completion certificate only",
+    "Similar work: supply, installation, testing and commissioning of elevator; for JV, first party civil works (RCC tower, steel structures, multi-storeyed building, bridge, water tank) and second party lift manufacturer experience; second party to submit CEIG manufacturing licence",
+    "(C) PAN and GST registration",
+    "(D) CA-certified annual turnover of last three years"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-10-14", "change": "Corrigendum II: last date for bid submission extended to 29.10.2024 15:00; original EMD/technical documents by 28.10.2024 15:00; technical bid opening 30.10.2024 15:00"}
+  ],
+  "documents": [
+    {"file": "NITPON.pdf", "pages": 4, "read": "text", "language": "en", "unreadable": []},
+    {"file": "CORRIGENDUM - II-PonnaniLift.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only; no lift specification or BOQ. Original schedule: download/submission 16.09.2024 10:00 to 15.10.2024 15:00; bid queries by 01.10.2024 15:00; EMD original by 14.10.2024 15:00; technical bid opening 16.10.2024 15:00. Corrigendum I (not among listing documents) is implied by the numbering. Listing shows end 2024-10-29 but opening 2024-10-16 (original opening date)."
+}

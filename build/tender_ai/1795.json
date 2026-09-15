@@ -1,0 +1,39 @@
+{
+  "nid": 1795,
+  "title": "Transportation of 84 Nos Battery cells with all accessories from Korlai Fort Lighthouse to Nanvell Point Lighthouse",
+  "summary": "Corrigendum extending the quotation deadline for an NIQ to transport 84 battery cells with accessories from Korlai Fort Lighthouse to Nanwel Point Lighthouse, Maharashtra, issued by the Directorate of Lighthouses and Lightships, Mumbai.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "EM-Mum-10019/3/2020-Electrical",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Korlai Fort Lighthouse", "station_id": "korlai-fort-lighthouse", "kind": "lighthouse", "work": "Origin of 84 battery cells with accessories to be transported"},
+    {"name": "Nanvell Point Lighthouse", "station_id": "nanwel-point-lighthouse", "kind": "lighthouse", "work": "Destination of 84 battery cells with accessories"}
+  ],
+  "scope": [
+    {"item": "Transportation of battery cells with all accessories from Korlai Fort Lighthouse to Nanvell Point Lighthouse", "qty": "84", "unit": "Nos", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": null
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-11-26", "pre_bid": null, "bid_submission_end": "2024-12-10", "bid_opening": "2024-12-10"},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-12-05", "change": "Last date for submission of sealed quotations extended to 15:00 on 10.12.2024; quotes to be opened at 16:00 on 10.12.2024; all other NIQ terms unchanged"}
+  ],
+  "documents": [
+    {"file": "NIQ Corrigendum time Extension_0001 (2).pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": ["Hindi letterhead OCR garbled"]}
+  ],
+  "confidence": "medium",
+  "notes": "Only the time-extension corrigendum is published; the original NIQ dated 26.11.2024 (with scope, terms and any cost) is not available. Published date is the NIQ reference date. The original submission deadline is not stated. Nanvell Point matched to Nanwel Point Lighthouse."
+}

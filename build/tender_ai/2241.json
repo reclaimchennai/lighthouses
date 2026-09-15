@@ -1,0 +1,45 @@
+{
+  "nid": 2241,
+  "title": "Supply of Furniture items for the inspection quarters of Chennai Lighthouse under Chennai directorate-Reg.",
+  "summary": "Notice inviting quotation for supplying a teak wood single cot, a coir mattress and a teak wood double cot to the inspection quarters of Chennai Lighthouse.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-01002(03)/7/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, 5/20 Jaffar Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chennai Lighthouse, No. 12, Kamarajar Salai, Marina Beach, Mylapore, Chennai", "station_id": "chennai-lighthouse", "kind": "lighthouse", "work": "Supply of furniture for inspection quarters"}
+  ],
+  "scope": [
+    {"item": "Supply of Teak Wood Single Cot (6 1/4' x 3'), inclusive of loading, unloading, packing, forwarding, freight charges upto Chennai Lighthouse", "qty": "1", "unit": "No", "site": "Chennai Lighthouse"},
+    {"item": "Supply of Coir Mattress (reputed make) (6 1/4' x 3' x 4\" thickness) for single cot, inclusive of loading, unloading, packing, forwarding, freight charges upto Chennai Lighthouse", "qty": "1", "unit": "No", "site": "Chennai Lighthouse"},
+    {"item": "Supply of Teak Wood Double Cot (6 1/4' x 5'), inclusive of loading, unloading, packing, forwarding, freight charges upto Chennai Lighthouse", "qty": "1", "unit": "No", "site": "Chennai Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value (PBG/FDR), valid 60 days beyond warranty period; released after 1 year warranty",
+    "notes": "Payment on final account basis after satisfactory supply; no extra payment beyond quoted rate."
+  },
+  "period": {"completion": "15 days from date of supply order", "bid_validity": null, "warranty": "1 year against manufacturing defects for all wooden items"},
+  "dates": {"published": "2026-02-10", "pre_bid": null, "bid_submission_end": "2026-02-17", "bid_opening": "2026-02-18"},
+  "eligibility": [
+    "At least one similar work >= Rs 73,760, or two each >= Rs 46,100, or three each >= Rs 36,880 during last seven years ending 31 March 2025; similar work = supply of office furniture items in Central Govt./State Govt./public listed/PSUs/reputed firms",
+    "GST registration certificate and PAN details",
+    "Non-blacklisted affidavit on firm's letter head for last 03 years",
+    "Valid registration and office address in Tamilnadu/Puducherry (MSME certificate, business registration certificate)",
+    "Detailed technical specifications of items as per Annexure A",
+    "Completion certificates from clients not below rank of Manager/Assistant Executive Engineer/Administrative officer with purchase order/GeM CRAC"
+  ],
+  "specs": ["Teak wood single cot 6.25' x 3' with coir mattress 6.25' x 3' x 4\"; teak wood double cot 6.25' x 5' (carved headboard); designs as per photos in Annexure C", "Stage inspection by DLL Chennai representative of raw material before polishing/varnishing and of built quality before supply"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Furn CH_0.pdf", "pages": 5, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Sealed quotations to reach office by 17/02/2026 15:00, opened 18/02/2026 10:00. No estimate printed; similar-work thresholds imply about Rs 92,200. Delivery PIN printed as 6000044 (sic)."
+}

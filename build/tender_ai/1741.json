@@ -1,0 +1,47 @@
+{
+  "nid": 1741,
+  "title": "Quotation Enquiry for Supply of Materials for the work - Provision of Lightning Conductor at Valiyakara, Amini & Thottappally Lighthouses",
+  "summary": "Sealed quotation enquiry for supplying copper lightning conductors, copper earth strip and earth pit chambers for lightning protection at Valiyakara, Amini and Thottappally lighthouses, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-24/1/2020-MS; I/64065/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Valiyakara Lighthouse", "station_id": "valiyakara-lighthouse", "kind": "lighthouse", "work": "Materials for lightning conductor (58 m copper earth strip)"},
+    {"name": "Amini Lighthouse", "station_id": "amini-lighthouse", "kind": "lighthouse", "work": "Materials for lightning conductor (66 m copper earth strip)"},
+    {"name": "Thottappally Lighthouse", "station_id": null, "kind": "lighthouse", "work": "Materials for lightning conductor (44 m copper earth strip)"}
+  ],
+  "scope": [
+    {"item": "Copper Lightning Conductor 1.5m long Air Electrode with Spikes (Heavy Duty) complete with accessories", "qty": "03", "unit": "Sets", "site": null},
+    {"item": "Copper Earth Strip 25mm x 6mm (in 3 rolls, single lengths)", "qty": "58", "unit": "m", "site": "Valiyakara Lighthouse"},
+    {"item": "Copper Earth Strip 25mm x 6mm (single length)", "qty": "66", "unit": "m", "site": "Amini Lighthouse"},
+    {"item": "Copper Earth Strip 25mm x 6mm (single length)", "qty": "44", "unit": "m", "site": "Thottappally Lighthouse"},
+    {"item": "Earth Pit Chamber with Lid cover (Concrete Chamber with Cast Iron Lid / FRP Chamber with Lid)", "qty": "03", "unit": "Sets", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate or EMD printed. GST to be shown separately, otherwise rates deemed inclusive. Payment within 30 days of supply."
+  },
+  "period": {"completion": "Supply within 30 days from date of supply order", "bid_validity": "45 days from date of opening of quotations", "warranty": "As per OEM, to be specified for each item"},
+  "dates": {"published": "2024-09-11", "pre_bid": null, "bid_submission_end": "2024-09-25", "bid_opening": "2024-09-25"},
+  "eligibility": [],
+  "specs": [
+    "Copper lightning conductor air electrode 1.5 m with spikes, heavy duty",
+    "Copper earth strip 25 x 6 mm, total 168 m in 3 rolls (single lengths per station)",
+    "Earth pit chamber: concrete with cast iron lid or FRP with lid",
+    "OEM technical brochure and specification sheets required with quotation"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "EnqQtnThottappallyValiyakarAmini12092024 (1).pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Quotation enquiry letter (2 pages) plus schedule with blank rates. Quotations due 25.09.2024 15:00, opened same day 16:00. Letter dated 11.09.2024, digitally signed 12.09.2024. Thottappally Lighthouse is not in station_names.tsv."
+}

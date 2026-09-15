@@ -1,0 +1,36 @@
+{
+  "nid": 1895,
+  "title": "Short Bid notice inviting Budgetary quotation for Recapitalization of Remote Control and Monitoring System with 03 years warranty and 07 years post CAMC under Sri Vijaya Puram Directorate",
+  "summary": "Short notice inviting budgetary quotations (single bid) from experienced agencies for recapitalisation of the remote control and monitoring system of aids to navigation under the Sri Vijaya Puram (Port Blair) Directorate, Andaman & Nicobar Islands, with 3 years warranty and 7 years post-warranty CAMC.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "EM-PB-06001/1/2022-M",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Recapitalization of Remote Control and Monitoring System with 03 years warranty and 07 years post CAMC", "qty": null, "unit": null, "site": "Andaman & Nicobar Islands"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Budgetary quotation only; notice states no binding commitment to proceed or to invite respondents to subsequent bidding."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": "03 years warranty plus 07 years post-warranty CAMC"},
+  "dates": {"published": "2025-04-29", "pre_bid": "2025-05-13", "bid_submission_end": "2025-05-20", "bid_opening": null},
+  "eligibility": [
+    "Registered and experienced agencies (details per Sections II-IV, not included)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only Section I (printed page 3) included; Sections II-IV with appendices and BOQ not in the PDF. Quotes by hardcopy or e-mail by 20.05.2025 16:00; bid queries by e-mail by 10.05.2025 16:00; pre-bid 13.05.2025 10:00 at DLL Sri Vijaya Puram. To be published on CPPP e-publish and dgll.nic.in. Listing gives end 2025-05-20 and opening 2025-05-21."
+}

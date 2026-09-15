@@ -1,0 +1,45 @@
+{
+  "slug": "dwarka-point-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Dwarka Point Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1962,
+  "alol": "F 0396",
+  "position": {"lat_text": "22º 14.29' N", "lon_text": "68º 57.47' E", "lat": 22.238167, "lon": 68.957833},
+  "elevation_m": 48,
+  "characteristic_text": "Fl (2)W 20 sec. (0.31+4.69+0.31+14.69=20sec.)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "0.31+4.69+0.31+14.69=20sec.",
+    "sequence_s": [0.31, 4.69, 0.31, 14.69],
+    "flash_duration_s": 0.31
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 25.5, "geographical_nm": null, "text": "25.5 NMiles (unlabelled range)"},
+  "tower": {"type": "Square masonry stone tower", "height_m": 43, "colour_scheme": "Black and White bands"},
+  "optic": {
+    "make": "Stone Chance", "model": null, "type": null, "size": "500 mm", "order": null,
+    "panels": 2,
+    "rotation_device": "Stepper motor",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: Stepper motor; R.P.M. 3; Pedestal: Mercury float",
+    "divergence_horizontal_deg": 12.599833,
+    "divergence_vertical_deg": 8.247167,
+    "divergence_text": "12º35.99' (Horizontal), 8º 14.83' (Vertical)",
+    "illuminant": "Cluster of 3 numbers of Master colour CDMT-D 150W/942 (150W/230V)"
+  },
+  "intensity_cd": 707007,
+  "racon": {"present": true, "code": "G", "text": "RACON - NA-; Make Tide Land, Model -, Code G, Band X&S, installed Oct-2005"},
+  "ais": {"present": false, "text": "NAIS Base Station: PSS Dwarka; Communication Equipment: Leased Line; Model/Type/Power/MMSI blank"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V/3-phase/50Hz; Standby 15KVA DG set (Kirloskar 20.5Hp engine, 15KVA alternator); Solar plant 10WKp, 2V/1000AH x 48 battery"},
+  "issues": [
+    "RACON heading says '- NA-' but a Tide Land RACON, code G, X&S band, installed Oct-2005 is listed",
+    "NAIS lists only base station 'PSS Dwarka' with no model/MMSI",
+    "Solar plant capacity printed as '10WKp'"
+  ]
+}

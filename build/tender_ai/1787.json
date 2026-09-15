@@ -1,0 +1,42 @@
+{
+  "nid": 1787,
+  "title": "Transportation of 84 Nos Battery cell with all accessories from Korlai Fort Lighthouse to Nanwel point Lighthouse.",
+  "summary": "Notice inviting quotations for transporting 84 battery cells (2V/1000Ah) with accessories from Korlai Fort Lighthouse to Nanwel Point Lighthouse, Raigad District, Maharashtra, including head-load carriage from Nanwel village where there is no motorable road (Mumbai Directorate).",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "EM-Mum-10019/3/2020-Electrical; I/67674/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Korlai Fort Lighthouse, Raigadh Dist., Maharashtra 402202", "station_id": "korlai-fort-lighthouse", "kind": "lighthouse", "work": "Loading of 84 battery cells with accessories (origin)"},
+    {"name": "Nanwel Point Lighthouse, Post Dighi, Raigadh Dist., Maharashtra 402402", "station_id": "nanwel-point-lighthouse", "kind": "lighthouse", "work": "Delivery of 84 battery cells, head-load from Nanwel village (destination)"}
+  ],
+  "scope": [
+    {"item": "Transportation of batteries including all accessories (2V/1000Ah - 84 Nos) from Korlai Fort Lighthouse to Nanwel Point Lighthouse including labour for loading and unloading at both locations, truck/lorry hiring, tools, tackles, insurance, all inclusive", "qty": "1", "unit": "Lump Sum", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 200000.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost incl. GST Rs 2,00,000. No advance payment; any transit damage/loss recovered from payment; contractor may insure at own cost; TDS on GST and IT deducted."
+  },
+  "period": {"completion": "15 days from date of issue of supply order", "bid_validity": "not less than 90 days", "warranty": null},
+  "dates": {"published": "2024-11-26", "pre_bid": null, "bid_submission_end": "2024-12-05", "bid_opening": "2024-12-05"},
+  "eligibility": [
+    "Valid PAN and GST number (copies with bid)"
+  ],
+  "specs": [
+    "84 Nos battery cells 2V/1000Ah with all accessories",
+    "Truck/lorry from Korlai Fort Lighthouse to Nanwel village, then labour/head load to Nanwel Point Lighthouse (no motorable road)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ for Transportation of Batteries to Nanwel Lighthouse_0.pdf", "pages": 3, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Page 1 Hindi text layer garbled; rendered and read visually. The NIQ table skips serial numbers 4-5 (goes 3, 6, 7). Quotations by post/courier/hand to DLL Mumbai by 05.12.2024 15:00; opened 05.12.2024 16:00. Bidders advised to visit both sites. Listing has no bid opening date."
+}

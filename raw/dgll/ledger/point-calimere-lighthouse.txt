@@ -1,0 +1,161 @@
+                         मास्टर लेज़र/MASTER LEDGER
+              प्वाइटं कै ललमेर दीपस्तंभ/Point Calimere Lighthouse
+क्रमसंख्या/               नाम /Name
+   Sr.No                                                                    वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0918
+    2         स्थान/Position                     Lat.10° 17’.24” N , long 79° 52’18” E
+    3         ऊंचाई/Elevation                    16M (Above MSL)
+    4         अभिलक्षण/Characteristic            Fl (3) W 10 sec (0.3f +1.5+0.3f+1.5+0.3f+6.1)sec
+
+    5         नॉटिकलमाइलमेदरू ी                  12 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                              circular
+                                                 Height                            16 M
+                                                 Colour Scheme                      White circular
+    7         ऑप्टिकलउपकरण                       Optic
+                                                 Make                               LMV BDL 250
+              Optical equipment
+                                                 Type                              LED Flasher
+                                                 Size                              22cm x 50cm
+                                                 No. of Array                      2 Nos
+                                                 Area of dioptric portion
+                                                 Area of catadioptric portion
+                                                 Divergence
+                                                 Main/Emergency
+                                                 Duration of Flash                 0.3 sec
+                                                 Main /Standby/Emergency
+                                                 Pedestal
+                                                 Rotation Device
+                                                 R.P.M.
+                                                 illumining                        90 watts LED Flasher
+                                                 Main                              2 Array LED Flasher
+                                                 Standby                           -
+                                                 Emergency:                        -
+                                                 Date of Installation              26.07.2017
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                              -
+              intensity                          Emergency                         -
+    9         लेंिनन/Lantern                     Diameter                          2.43 m
+                                                 Height of glazing                 1.5 m
+                                                 No. of panes                      10 Nos
+                                                 Ventilators                       9 Nos
+    10        RACON                                   Sr. No
+              Make                   Model       Code                              Band                   Date of
+                                                                                                          Installation
+     11   NAIS
+          Base Station
+
+          Model                 Type                 Power                       MMSI
+
+          Communication
+          Equipment
+          VSAT Antenna          Band                 Modem
+
+
+          DGPS
+          Transmitter Make      Frequency            Power Output      RS 1 ID   RS -II      Beacon          Date of     Dat
+                                                                                 ID          ID              commis      e of
+                                                                                                             sioning     Re
+                                                                                                                         cap
+                                                                                                                         itali
+                                                                                                                         zati
+                                                                                                                         on
+
+
+
+     12   ऊर्ानकेसाधन/Source    Mains                                            --
+          of energy             Power Source
+                                Engine 1                                                          (NIL)
+                                Make/Type                    Qty       Rating    No of             RPM             Cooling
+                                                                                 Cylinder
+
+                                Alternator
+                                Make/Type                    Qty       Rating    Voltage/Amp       Frequency       Phase
+
+
+                                Engine 2                                                          (NIL)
+                                Make/Type                    Qty       Rating    No of             RPM             Cooling
+                                                                                 Cylinder
+                                NIL                          NIL       NIL       NIL               NIL             NIL
+                                Solar Plant for Main light
+                                Capacity PV                  Numbers             Make       Battery                Bank
+                                2 KW (24 V/250 W)            8 Nos               Access     24 Nos                 01 No.
+                                                                                 solar      2 V/ 1000 AH
+                                Solar Plant for IQ
+                                Capacity PV                  Numbers             Type       Battery                Bank
+                                1.5 KW(24V/260W)             6 Nos.              mono       4 Nos                      01 No.
+                                                                                 crystt     12V/150AH
+                                                                                 aline      Tubular Battery
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make                 Model                 Capa    Input               Output                   Phase    Qty
+                                                     city
+
+14        बैिरर
+          Batteries
+          Equipment            Type                  Make     Volt               Amp/       Qty
+                                                                                 Hr
+     PSS NAIS                       -                 -                  -              -                  -
+     Genset                         -                 -                  -              -                  -
+     Automation                     -                 -                  -              -                  -
+     DGPS                           -                 -                  -              -                  -
+15   बैिररचार्नर/ Battery charger
+
+     Equipment               Make                Model Type                           Rating Qty
+
+
+16   इंवर्ट रInverter /UPS
+     Equipment Nos           Make          Model                         Type         Rating       Qty         input      out
+                                                                                                                          put
+     Main Light     1 No     Microchip                    --             Pure sine    1450 VA      1No         24 V/ DC & 230
+                                                                         wave                                   230 V AC VAC
+     IQ             1 No     -                            --             Pure sine     1.5KVA      1No         24 V/ DC & 230
+                                                                         wave                                  230 V AC   VAC
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE        PLC                    HMI               Power Supply          VSAT            Modem            Band
+     RDS         Allen Bradley          Renu              24 V DC               1.2 m dia       Hughes           -
+                                        electronics                             Parabolic
+                                                                                reflector
+18   आप्ननशमनउपकरण                               Type of Extinguisher           Capacity           Nos            Make
+     Fire Fighting Equipment                     DCP Type                       2 kg               1              Queenfire
+                                                 Fire Bucket                    --                 3 Nos          --
+
+19   संचार                                       BSNL telephone
+                                                 E-mail
+     Communication
+20   र्लपर्ू तन                                  Rain water collection tank
+     Water Supply
+21   िभू म                                       Area
+     Land                                        Demarcation                                    Not Available
+
+22   इमारतें                                     RCC Structure: 2 Nos                           Power House cum store
+     Buildings                                                                                  room and Inspection
+                                                                                                quarters
+23   कंपाउं डलाइि                                Solar LED Light fitted on G.I Pole-6Nos(
+                                                 Street Lights)
+     Compound Lights
+24   सीसीिीिीकमेरा                               5 Nos camera
+      CCTV CAMERA                                12V/150 Ah Exide SMF Batteries- 2 Nos
+25   स्िाफ                                       Sl. No           Designations
+     Staff                                       1             Navigational Assistant Gr-I, Kodikkarai Lighthouse – 1
+                                                               No
+                                                 2             Navigational Assistant Gr-II, kodikkarai Lighthouse- 1 No
+26   पहुँचनेकामाध्यम                             By road 7 Kms from Kodikkarai Village through Pointcalimere Wildlife
+                                                 Sanctuary
+     Mode of approach
+27   उपलब्धसविधाए                    Nil
+     Facilities available
+
+
+28   डाकपताPostal address            The Navigational Assistant Gr-I
+                                     Kodikkarai Lighthouse,
+                                     Kodikkarai Post,
+                                     Vedaranyam Taluk
+                                     Nagapattinam District, Tamilnadu-614807.
+29   मल्
+       ू यकाब्योराCost details
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          1890 and remoulded on 1933
+     Date of commissioning
+

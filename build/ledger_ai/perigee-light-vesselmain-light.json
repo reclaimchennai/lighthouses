@@ -1,0 +1,41 @@
+{
+  "slug": "perigee-light-vesselmain-light",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Perigee Light Vessel (Main Light)",
+  "station_type": "light vessel",
+  "established_year": 1936,
+  "alol": "F 0449",
+  "position": {"lat_text": "21º 42.11' N", "lon_text": "72º 18.00' E", "lat": 21.701833, "lon": 72.3},
+  "elevation_m": 19,
+  "characteristic_text": "Fl (W) 7Sec. (0.5 + 6.5 = 7Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 7,
+    "sequence_text": "0.5 + 6.5 = 7Sec",
+    "sequence_s": [0.5, 6.5],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 12, "geographical_nm": null, "text": "12 NM (unlabelled)"},
+  "tower": {"type": "Red Hull", "height_m": 10, "colour_scheme": "Red"},
+  "optic": {
+    "make": "Sealite", "model": "SL125", "type": "LED Lantern", "size": "125mm", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Lantern; Illuminant 12V/20W LED Lantern; Rotation Device and R.P.M. blank",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": "2.5º",
+    "illuminant": "12V/20W LED Lantern"
+  },
+  "intensity_cd": 5726,
+  "racon": {"present": false, "code": null, "text": null},
+  "ais": {"present": false, "text": "NAIS –NA"},
+  "dgps": {"present": false},
+  "power": {"mains": false, "solar": true, "generator": false, "text": "Solar Powered Light: 75W x 4 and 35W x 3 panels, 2 x 12V/200AH batteries"},
+  "issues": ["Divergence 2.5º not labelled horizontal or vertical"]
+}

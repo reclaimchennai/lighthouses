@@ -1,0 +1,44 @@
+{
+  "nid": 1569,
+  "title": "Comprehensive Annual Maintenance 4C (Comprehensive Customer Care Contract) Contract Charges of Monochrome and Colour Digital Multifunctional Printer at Deep Bhavan, Cochin",
+  "summary": "Notice inviting quotation for a one-year comprehensive (4C) maintenance contract, paid per print/copy, for a Ricoh monochrome and a Ricoh colour multifunctional printer at Deep Bhavan, Cochin.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "Ad-Coh-05044/1/2020-Admin",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin 682020", "station_id": null, "kind": "office", "work": "4C comprehensive annual maintenance of two digital multifunctional printers"}
+  ],
+  "scope": [
+    {"item": "Comprehensive Annual Maintenance 4C contract charges of Ricoh MP 3554 SP digital monochrome multifunctional printer (print/scan/copy), one year, monthly payment at per print/copy rate", "qty": "1", "unit": "per print/copy", "site": "Deep Bhavan, Cochin"},
+    {"item": "Comprehensive Annual Maintenance 4C contract charges of Ricoh MP C2011 digital colour multifunctional printer (print/scan/copy), one year, monthly payment at per colour and per black & white print/copy rate", "qty": "1", "unit": "per print/copy", "site": "Deep Bhavan, Cochin"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Contract covers all consumables (colour/black toner, drum, developer), spares and service. Monthly payment within 15 days of satisfactory performance. Penalty 5% on upcoming bill for restoration delay above 24 hours. Rates to show basic cost and taxes separately."
+  },
+  "period": {"completion": "One year contract, active from date of work/supply order", "bid_validity": "1 year from the date of opening of quotations", "warranty": null},
+  "dates": {"published": "2024-04-04", "pre_bid": null, "bid_submission_end": "2024-04-18", "bid_opening": "2024-04-18"},
+  "eligibility": [
+    "Reputed OEMs or their authorized suppliers, licensed electrical contractors, parties, shops or Government undertakings",
+    "GST registration certificate",
+    "Local registered office in Ernakulam district, Kerala (GST certificate mandatory)"
+  ],
+  "specs": [
+    "Ricoh MP 3554 SP monochrome and Ricoh MP C2011 colour digital multifunctional printers",
+    "Monthly preventive maintenance visit; breakdown response within 4 hours; parts replacement within 48 hours"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ for CAMC Photostat machine (1) (1).pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "OCR text layer (some glyph noise) but values legible. Quotation download 05.04.2024 09:00 to 18.04.2024 15:00; submission 05.04.2024 14:00 to 18.04.2024 15:00; opening 18.04.2024 16:00. No estimate or EMD printed. Listing file name says 'Photostat machine'."
+}

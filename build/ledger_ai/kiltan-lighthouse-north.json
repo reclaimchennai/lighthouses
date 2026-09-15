@@ -1,0 +1,41 @@
+{
+  "slug": "kiltan-lighthouse-north",
+  "pages_read": [1, 2],
+  "name": "Kiltan Lighthouse (North)",
+  "station_type": "lighthouse",
+  "established_year": 2011,
+  "alol": "F 0752",
+  "position": {"lat_text": "11° 29.79' N", "lon_text": "72° 59.95' E", "lat": 11.4965, "lon": 72.999167},
+  "elevation_m": 13,
+  "characteristic_text": "Fl (2) W 15 sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.53
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 11.3, "geographical_nm": null, "text": "11.3NM (unlabelled range)"},
+  "tower": {"type": "Square RCC Block tower", "height_m": 13, "colour_scheme": "White"},
+  "optic": {
+    "make": "Mediterraneo Senales Maritimas", "model": "MBL -160", "type": "Electronic Flashing Unit", "size": "Lamp Unit Dia 48.00CM", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: Electronic Flashing Unit; LED marine flashing lantern, 9 LED arranged in circular array",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Intensity LED each 6 W in 3 level x 9 LED each"
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "Mains 230V AC 50Hz; Emergency Source NIL; solar plant for light beacon 105W/12V x1 (Luminous, polycrystalline), 12V/150AH"},
+  "issues": []
+}

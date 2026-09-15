@@ -1,0 +1,180 @@
+                              मास्टर लेजर/MASER LEDGER
+क्रमसं      नाम /Name
+ ख्या/                                                      वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A         F 0706
+         .L.O.L.
+  2      स्थान/Position      Lat.09° 29’30”N,Long.76° 19’18” E
+  3      ऊंचाई/Elevation     33M (Above MSL)
+  4      अविलक्षण/Chara      Fl (1) W 15 sec (fl 0.8)
+         cteristic
+  5      नॉविकल माइल मे      24.5 NM
+         दू री
+         Range in miles
+  6      दीपस्तं ि           Type                                               Circular masonry tower
+         िािर/L.H.Tower      Height                                             28M
+                             Colour Scheme                                      Red and White Band
+  7      ऑविकल               Optic                                              Revolving Beacon
+         उपकरण               Make                                               BBT Paris
+         Optical             Type
+         equipment           Size                                               250mm/4th Order
+                             No. of lens                                        4
+                             Area of dioptric portion                           ----Sq. cm
+                             Area of catadioptric portion                       ----Sq. cm
+                             Divergence                                         5º (Horizontal)
+                             Main/Emergency                                     3.4º (Vertical)
+                             Duration of Flash                                  0.8 Sec
+                             Main /Standby/Emergency
+                             Pedestal                                           Floating on Mercury trough
+                             Rotation Device                                    Dual Stepper motor(10 Kg/cm)
+                             R.P.M.                                             1
+                             Illumining                                         ----
+                             Main                                               A cluster of three 230V/150W
+                                                                                Double ended Metal Halide
+                                                                                Lamps
+                             Standby
+                             Emergency:
+                             Date of Installation                               06-09-2007
+  8      प्रिािी बीम         Main                                               3,33,731cds
+         तीव्रता/Effective   Emergency
+         beam intensity
+  9      लें िनन /Lantern    Diameter                                           2.0m
+                             Height of glazing                                  1.05 m
+                             No. of panes                                       08 (02 Nos. covered)
+                             Ventilators                                        07
+ 10      RACON               Sr. No                                             N/A
+         Make                Model           Code                               Band             Date of
+                                                                                                 Installation
+          N/A                 N/A                N/A                                   N/A              N/A
+     11   NAIS
+          Base Station           2 Nos-AIS1 & AIS2
+
+          Model               Type               Power                                 MMSI
+          SAAB R40            Class A            AC-230V & DC-24V                      004192245
+          Communication
+          Equipment
+          VSAT Antenna        Band               Modem
+          Make: Prodelin      EX-C               Hughes HT2300
+          2.4m dia
+          Parabolic
+           Reflector
+     12   ऊर्ान के            Mains                                                    440V, 3Phase, 50 Hz., A/C
+          साधन/Source of                                                               Supply
+          energy              Power Source                                             DG Set 7.5KVA Make
+                              Engine 1
+                              Make/Type                             Qty       Rating   No of Cylinder         RPM         Cooling
+                              Kirloskar Green/ EA16                 1         16 HP    3                      1500        Air
+                              Alternator
+                              Make/Type                             Qty       Rating   Voltage/Amp            Frequency   Phase
+                              Kirloskar                             1         7.5      240V                   50Hz        Single
+                                                                              KVA
+                              Solar Plant for Main Light
+                              Capacity PV                           Numbers            Type             Battery           Bank
+                              2KW Off Grid                         (250W HHV           Mono             24 Nos            01 No.
+                                                                   Make –              Crystalline      2V/200AH
+                                                                   8 Nos.)
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र/ Automatic Voltage Stabilizers
+          Make                             Model Capacity          Input               Output           Phase             Qty
+          Servo                            SAN     15 KVA          Single Phase        230V             Single            1 No.
+                                           115                     180-240 V
+14        बैिरर / Batteries
+          Equipment                        Type         Make                  Volt     Amp/Hr           Qty
+          PSS NAIS                         Tubular      Amaron Quanta S-      12V      150 AH           2
+                                                        XEL
+          Genset                           SMF          SF Sonic Trucker      12V      100 AH           1
+                                                        1080
+          Automation                       Sealed       Exide                 12V      7 AH             2
+                                           Lead Acid
+     15   बैिरर चार्न र/ Battery charger
+          Equipment                        Make Model              Type                Rating           Qty
+          General Purpose for A.M.F. Autom              ---        30V                   15 Amps               01
+          Panel                            atic
+                                           Electri
+                                           c Ltd.
+     16   इं वर्ट रInverter /UPS
+          Equipment                Nos     Make      Model                   Type      Rating           Qty       Input   Outp
+                                                                                                                          ut
+          Main Light            04         Su-         SHINY 900              Pure           900 VA     4         170-    230V
+                                           Kam                                sine                                230 V   AC
+                                                                              wave                                AC
+     NAIS PSS           02       APC        SRC 1 KI- IN                 Pure     1 KVA           2      100-      230V
+                                                                         sine                            300 V     AC
+                                                                         wave                            AC
+     Automation         01       APC        PRO 1000                     Pure     1 KVA           1      100-      230V
+                                                                         sine                            300 V     AC
+                                                                         wave                            AC
+17   स्वचलन उपकरण/ Automation Equipment
+     MAKE           PLC               HMI                 Power Supply              VSAT          Modem          Band
+     NELCO          Allen Bradley     Renu                24 V DC                   1.2m dia      Hughes         EX.C
+                    Micro Logix       Electronics                                   Parabolic     HN7000S
+                    1400              Pvt. Ltd.                                     Reflector
+18   आवि शमन       Type of Extinguisher                                             Capacity      Nos     Make
+     उपकरण         DCP Type                                                         3.2Kg/ 2Kg    2+2     Firex/
+     Fire Fighting                                                                                        Ande
+     Equipment                                                                                            x
+                   Co2                                                              4.5 Kg        2       Flam
+                                                                                                          eblitz
+                                                                                                          z
+                       Foam Type                                                    9 Ltr         1       Avon
+                       MAP-90 Powder                                                4/2/1 Kg      3+8+    Flam
+                                                                                                  1       eblitz
+                                                                                                          z
+19   संचार             Not Available
+     Communication
+20   र्ल पूवतन         Kerala Water Authority – 2 connections,
+     Water Supply      01 No. Open Well with potable water.
+21   िू वम             Area                                                                       0.307 hectre
+     Land              Demarcation                                                                Masonry
+                                                                                                  Compound
+                                                                                                  Wall
+22   इमारतें           08 Nos                                                                     Office,
+     Buildings                                                                                    Powerhouse
+                                                                                                  &
+                                                                                                  Store,Heritag
+                                                                                                  e IQ,
+                                                                                                  Museum,
+                                                                                                  New
+                                                                                                  Inspection
+                                                                                                  Quarters,
+                                                                                                  Staff
+                                                                                                  Quarters:
+                                                                                                  N.A. I – N.A.
+                                                                                                  II twin
+                                                                                                  quarters,
+                                                                                                  A.L.K/ N.A. II
+                                                                                                  Quarters,
+                                                                                                  LHA- LHS
+                                                                                                  Twin
+                                                                                                  Quarters
+23   कंपाउं ड लाइि     11 Nos. of Antique type streetlights, 05 Nos. oftubelights fitted on G.I
+                       Poles, 02 Nos. of Main Entrance Gate lights fitted on G.I. poles
+     Compound
+     Lights
+24   सीसीिीिी कमे रा      Camera
+      CCTV CAMERA         N/A                                                                    N/A
+25   स्टाफ                Sl. No                                      Designations
+     Staff
+                          1                                          Navigational Assistant Grade –I
+                          2                                          Navigational Assistant Grade –II
+26   पहुँ चने का माध्यम   The lighthouse is accessible by train or by bus up to Alappuzha.
+     Mode of
+     approach
+27   उपलब्ध सुविधाए       The Alappuzha Lighthouse located near the district headquarters of Alappuzha
+     Facilities           District has all the essential amenities within a radius of 3 K.M. Alappuzha Railway
+     available            Station, Alappuzha Head Post Office, Alappuzha Civil Station/ Collectorate,
+                          Alappuzha District Police headquarters and Alappuzha South Police Station are
+                          within 2 K.M. from the lighthouse. A State Government General Hospital is only
+                          2.5 K.M. away from the lighthouse.
+28   डाक पताPostal        Navigational Assistant Grade-I
+     address              Alappuzha Lighthouse
+                          C.C.S.B. Road, Civil Station Ward, Alappuzha
+                          Pin: 688012.
+29   मू ल्य का            N/A
+     ब्योराCost details
+     (At the time of
+     Construction)
+30   प्रितनन मे लाने का   28.03.1862
+     दे नां क
+     Date of
+     commissioning
+

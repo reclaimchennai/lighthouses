@@ -1,0 +1,41 @@
+{
+  "slug": "kiltan-lighthouse-south",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Kiltan Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1977,
+  "alol": "F 0754",
+  "position": {"lat_text": "11° 28.13' N", "lon_text": "73° 00.46' E", "lat": 11.468833, "lon": 73.007667},
+  "elevation_m": 41.43,
+  "characteristic_text": "Fl (1) W 10 sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.53
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": null, "text": "18NM (unlabelled single range)"},
+  "tower": {"type": "Circular CC Block Masonary tower", "height_m": 37, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "J Stone & Co, Calcutta, India", "model": null, "type": "Revolving type", "size": "300mm", "order": "4th order",
+    "panels": 2,
+    "rotation_device": "Dual stepper motor (20Kg/cm²), 1 No. as standby",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving type; Drive: Dual stepper motor; R.P.M. 3",
+    "divergence_horizontal_deg": 0.68,
+    "divergence_vertical_deg": 0.34,
+    "divergence_text": "0.68° (Horizontal), 0.34° (Vertical)",
+    "illuminant": "230V/3 x 150 W Metal Halide Lamp cluster"
+  },
+  "intensity_cd": 256989,
+  "racon": {"present": true, "code": "O", "text": "Tideland Sea Beacon-2 System-6, Sr. No 6571, Code O, X+S Band, installed 29/02/2008"},
+  "ais": {"present": true, "text": "2 Nos. Base stations (Make: SAAB), R40 Class A, AC-230V & DC-12V, MMSI ---"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 420V AC 50Hz; emergency DG Set 7.5 KVA Kirloskar; solar 70W/12V BHEL panel for RACON"},
+  "issues": []
+}

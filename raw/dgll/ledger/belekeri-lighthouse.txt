@@ -1,0 +1,166 @@
+                       मास्टर लेजर/MASTER LEDGER
+क्रमसं             नाम /Name                                  वििरण/Description
+ ख्या/
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.            F 0637
+   2     स्थान/Position                Lat. 140 42.5’N Long. 740 14.4’E
+   3     ऊंचाई/Elevation               66m
+   4     अविलक्षण/Characteristic       Fl. (3)White 10 sec.
+   5     नॉविकलमाइलमेदूरी              09 NM
+         Range in miles
+  6      दीपस्तंििािर/L.H.Tower        Type                        Square Masonary Tower
+                                       Height                      12 mtrs
+                                       Colour Scheme               White tower with 02 Black Band
+  7      ऑविकलउपकरण                    Optic                       DRUM TYPE
+         Optical equipment
+                                       Make                        BBT
+                                       Type
+                                       Size                        500MM GAS Filament
+                                       No. of lens
+
+                                       Area of dioptric portion
+                                       Area of catadioptric
+                                       portion
+                                       Divergence
+                                       Main/Emergency
+                                       Duration of Flash
+                                       Main
+                                       /Standby/Emergency
+
+                                       Pedestal                    Cast iron
+                                       Rotation Device             -NA-
+                                       R.P.M.                      -NA-
+                                       illumining
+                                       Main
+                                       Standby
+                                       Emergency:
+                                       Date of Installation
+  8      प्रिािीबीमतीव्रता/Effective   Main & Standby
+         beam intensity                Emergency
+  9      लेंिनन /Lantern               Diameter
+                                       Height of glazing
+                                       No. of panes
+                                       Ventilators
+10   RACON                              Sr. No                      6295
+     Make             Model          Code                         Band                       Date of
+                                                                                             Installation
+     -NA-
+11   NAIS
+     Base Station
+
+     Model            Type           Power                        MMSI
+     -NA-
+     Communication
+     Equipment
+     VSAT Antenna     Band           Modem
+       2.4m dia       EX-C           Datum system
+       Parabolic                        M7LT
+       reflector                     Satellite Terminal
+     DGPS
+     Transmitter      Frequency Power                   RS 1 ID   RS -II     Beacon          Date of    Date of
+     Make                       Output                            ID         ID              commi      Recapi
+                                                                                                        talizati
+                                                                                             ssionin    on
+                                                                                             g
+     -NA-
+     -NA-
+12   ऊर्ान केसाधन/Sour Mains                                      Not available due to island station
+     ce of energy      Standby                                    12V /100W Solar Panel-01 Nos.,
+                                                                  Battery:12 V, 100 AH
+                      Engine 1
+                      Make/Type               Qty       Rating    No of            RPM              Cooling
+                                                                  Cylinder
+                      -NA-
+                      Alternator
+                      Make/Type               Qty       Rating    Voltage/Am       Frequency        Phase
+                                                                  p
+
+                      Engine 2
+                      Make/Type               Qty       Rating    No of            RPM              Cooling
+                                                                  Cylinder
+                      -NA-
+                      Alternator
+                      Make/Type               Qty       Rating    Voltage/Am       Frequency        Phase
+                                                                  p
+
+
+
+
+                      Solar Plant
+                      Capacity PV             Numbers             Type             Battery          Bank
+                      100 Watt                1                   Monocrystallin   12V/100AH        1
+                                                                  e
+                      Solar Plant for Main RACON
+                      Capacity PV             Numbers             Type             Battery          Bank
+                              -NA-
+ 13   स्वचावलतिोल्टे र्स्टे बलाइर्र
+      Automatic Voltage Stabilizers
+
+      Make               Model        Capa Input         Output      Phase       Qty
+                                      city
+      -NA-
+14    बैिरर
+      Batteries
+      Equipment           Type        Make    Volt       Amp/Hr    Qty
+      PSS NAIS            -NA-
+      Genset              -NA-
+      Automation          -NA-
+      DGPS                -NA-
+ 15   बैिररचार्नर/ Battery charger
+
+      Equipment          Make         Mod    Type        Rating    Qty
+                                      el
+      General Purpose -NA-
+      Automation           -NA-
+ 16   इं वर्ट रInverter /UPS
+      Equipme Nos Make Model                       Type      Rating Qt input      output
+      nt                                                            y
+      Main                 -NA-
+      Light
+      NAIS PSS             -NA-
+      DGPS                 -NA-
+ 17   स्वचलनउपकरण
+      Automation Equipment
+      MAKE          PLC         HMI      Power Supply   VSAT       Modem Band
+      NELCO         -NA-
+ 18   आविशमनउपकरण                   Type of             Capacity    Nos   Make
+      Fire Fighting Equipment       Extinguisher
+                                    DCP Type(u/s)       -NA-
+                                    DCP Type(u/s)       -NA-
+                                    Foam Type(u/s)      -NA-
+                                    Water Type(u/s)     -NA-
+                                    DCP Type            -NA-
+
+
+ 19   संचार                           ---
+      Communication
+ 20   र्लपूवतन                        -NA-
+      Water Supply
+ 21   िूवम                            Area
+     Land                            Demarcation
+
+22   इमारतें                         Staff quarters 2 Nos. In Abandoned
+     Buildings                       condition
+23   कंपाउं डलाइि
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera                                 -NA-
+      CCTV CAMERA                    DVR                                    -NA-
+25   स्टाफ                           Sl. No        Designations
+     Staff                           1             Unmanned Station
+
+26   पहुँ चनेकामाध्यम                By hired motor boat from Belekeri Jetty which takes
+     Mode of approach                approximately 30 Minutes (Aerial distance is about 9 Kms.)
+27   उपलब्धसुविधाए                   Marine Police        Within 15Km
+     Facilities available            Station
+                                     Dispensary           Within 15Km
+                                     High School           Within 15Km
+                                     Post office          Within 15Km
+28   डाकपताPostal address            C/o Head Lightkeeper
+                                     Oyster Rock Lighthouse
+                                     R.T.Station Near Customs Colony, KajuBag
+                                     Karwar, Karnataka: 581301
+29   मूल्यकाब्योराCost details       ----
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नां क         ------
+     Date of commissioning
+

@@ -1,0 +1,44 @@
+{
+  "nid": 1707,
+  "title": "Civil maintenance and Repairs to the Lighthouse Tower, staff quarters compound wall etc., at Olakuda Rameswaram.",
+  "summary": "Percentage-rate e-tender for civil maintenance and repairs to the lighthouse tower, staff quarters and compound wall at Olakuda Lighthouse, Rameswaram, Chennai Directorate.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(18)/1/2021-Civil Maintenance; I/61511/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, 5/20 Jaffer Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Olakuda Lighthouse, Rameswaram", "station_id": "olakuda-lighthouse", "kind": "lighthouse", "work": "Civil maintenance and repairs to tower, staff quarters and compound wall"}
+  ],
+  "scope": [
+    {"item": "Civil maintenance and Repairs to the Lighthouse Tower, staff quarters, compound wall etc. (no BOQ in this notice)", "qty": null, "unit": null, "site": "Olakuda Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1117604.0,
+    "emd_inr": 22360.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of scheduled/nationalized bank in favour of Director of Lighthouses and Lightships, Chennai, payable at Chennai; table says valid three months from technical bid opening while note 1.1 says 30 days (Hindi: 90 days). Tender fee and EMD exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "03 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-07-29", "pre_bid": "2024-08-13", "bid_submission_end": "2024-08-20", "bid_opening": "2024-08-21"},
+  "eligibility": [
+    "Valid registration in appropriate category & class with CPWD, State PWD, Railways, MES, BSNL or other State/Central Government/PSU/autonomous bodies",
+    "Similar works completed in last seven years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; only fully completed works with completion certificates; values updated at 7% per annum; certificates from officers below Executive Engineer not considered",
+    "Similar works = repairs and civil maintenance of building or construction of any building/compound wall/retaining wall/RCC work",
+    "PAN/ITCC/GST registration",
+    "Average annual turnover on construction works at least 30% of estimated cost over last 3 financial years ending 31 March 2023, CA certified",
+    "Key technical personnel for supervision; unconditional tender undertaking (Annexure III); tender acceptance letter (Annexure II); affidavit of not blacklisted",
+    "List of relatives serving in MoPSW or DGLL; Make in India self-certification (Annexure VI)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITOlakkudaCM24.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only; no BOQ. Hindi preamble refers to OEMs/authorised agents while English invites registered contractors. Bid download and submission 30.07.2024 10:00 to 20.08.2024 15:00. File number header printed 'Civil Mainteance' (sic). EMD validity stated inconsistently."
+}

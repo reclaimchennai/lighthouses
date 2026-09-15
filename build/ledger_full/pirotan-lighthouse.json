@@ -1,0 +1,103 @@
+{
+  "slug": "pirotan-lighthouse",
+  "page_count": 4,
+  "title_as_printed": "मास्टर लेजर/ MASTER LEDGER",
+  "sections": [
+    {"no": "1.", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1, "fields": [{"label": "A.L.O.L.", "value": "F 0380"}], "tables": [], "text": null},
+    {"no": "2.", "title": "Position", "title_hi": "स्थान", "page": 1, "fields": [{"label": "Position", "value": "Lat 22º 36.2' N, Long 69º 57.1' E"}], "tables": [], "text": null},
+    {"no": "3.", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1, "fields": [{"label": "Elevation", "value": "26 M"}], "tables": [], "text": null},
+    {"no": "4.", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1, "fields": [{"label": "Characteristic", "value": "Fl W 20 sec. (0.4+19.6 = 20 sec.)"}], "tables": [], "text": null},
+    {"no": "5.", "title": "Range in miles", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1, "fields": [
+      {"label": "i) Luminous", "value": "24NM at T=0.74"},
+      {"label": "ii) Geographical", "value": "12NM"}
+    ], "tables": [], "text": null},
+    {"no": "6.", "title": "L.H.Tower", "title_hi": "दीपस्तंभ टावर", "page": 1, "fields": [
+      {"label": "Type", "value": "Circular masonry tower"},
+      {"label": "Height", "value": "24M"},
+      {"label": "Colour Scheme", "value": "Black and White alternate horizontal bands"}
+    ], "tables": [], "text": null},
+    {"no": "7.", "title": "Optical Equipment:-", "title_hi": "ऑप्टिकल उपकरण", "page": 1, "fields": [
+      {"label": "Make", "value": "Stone Chance"},
+      {"label": "Size", "value": "500 mm (3rd order large) revolving type"},
+      {"label": "No. of panels", "value": "2 (of 180º)"},
+      {"label": "Area of dioptric portion", "value": "2240 sq. cm (corrected area 1970 sq. cm)"},
+      {"label": "Area of catadioptric portion", "value": "19.700 sq cm (corrected area 15362 sq. cm)"},
+      {"label": "Divergence Main", "value": "12º 35.99'(Horizontal.)&8º 14.83’ (Vertical)"},
+      {"label": "Duration of flash", "value": "0.7 Second"},
+      {"label": "Pedestal", "value": "Mercury float"},
+      {"label": "Rotation device", "value": ": Direct drive by electrically operated Stepper Motor, Hand wound clock wise machine- standby"},
+      {"label": "R.P.M.", "value": "3"},
+      {"label": "Illuminant Main", "value": "Clustered three 230V, 70 W Metal halide lamps"}
+    ], "tables": [], "text": null},
+    {"no": "8.", "title": "Effective beam intensity", "title_hi": "प्रभावी बीम तीव्रता", "page": 1, "fields": [{"label": "Effective beam intensity", "value": "46,0194 Candela"}], "tables": [], "text": null},
+    {"no": "9.", "title": "Lantern", "title_hi": null, "page": 1, "fields": [
+      {"label": "Diameter", "value": "2.50 m"},
+      {"label": "Height of glazing", "value": "1.70 m"},
+      {"label": "No. of panes", "value": "10"},
+      {"label": "Ventilators", "value": "9"}
+    ], "tables": [], "text": "No. of panes and Ventilators on page 2."},
+    {"no": "10.", "title": "Energy source", "title_hi": null, "page": 2, "fields": [
+      {"label": "Solar", "value": "12 V/725 Ah VRLA batteries 3 nos. charged by 24 nos. 70-watt solar panel (TATA BP)"},
+      {"label": "Stand By", "value": "Diesel engine generator set with battery starting"}
+    ], "tables": [], "text": null},
+    {"no": "11.", "title": "Fire-fighting Equipment", "title_hi": null, "page": 2, "fields": [
+      {"label": "Fire extinguisher", "value": "2 Kg. ABC 2 nos. (1 in PH and 1 in tower)"},
+      {"label": "DCP Type", "value": "2Nos."},
+      {"label": "Foam type", "value": "1 No. (Old)"},
+      {"label": "Halone 11-12", "value": "1No."},
+      {"label": "Fire buckets", "value": "4 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "12.", "title": "Water supply", "title_hi": null, "page": 2, "fields": [], "tables": [], "text": "Rain water harvesting - 2 RCC ground water tanks each of 36000 litres. 2 RCC ground water tanks each of 36000 litres. 1 Masonary tank ground water of 6000 litres. 1 RCC (UG) tank of 10000 litres. 1 RCC tank of 12000 litres. Total capacity 1,36,000 litres."},
+    {"no": "13.", "title": "Land", "title_hi": null, "page": 2, "fields": [
+      {"label": "Area", "value": "0.614 hector."},
+      {"label": "Demarcation", "value": "Sea protection walls on western and southern sides and compound wall on eastern and northern side. Presently the wall is in damaged condition."}
+    ], "tables": [], "text": null},
+    {"no": "14.", "title": "Buildings", "title_hi": null, "page": 2, "fields": [], "tables": [], "text": "LH tower, Power house, Inspection quarter, store LH tower, Power house, Inspection quarter, store quarters, One twin unit of LHA and Safaiwala quarter. Presently the condition of all buildings is bad."},
+    {"no": "15.", "title": "Compound Street lights", "title_hi": null, "page": 2, "fields": [{"label": "Compound Street lights", "value": "10 nos. with 70W solar panel and 12V/130AH Battery (Self powered)"}], "tables": [], "text": null},
+    {"no": "16.", "title": "Staff", "title_hi": null, "page": 2, "fields": [{"label": "Staff", "value": "On tour basis 01 – NA/RT/SRT and 01-LHA"}], "tables": [], "text": null},
+    {"no": "17.", "title": "Mode of Approach", "title_hi": null, "page": 3, "fields": [{"label": "Mode of Approach", "value": "By boat from Bedi port"}], "tables": [], "text": null},
+    {"no": "18.", "title": "RACON (Freq. Agile)", "title_hi": null, "page": 3, "fields": [
+      {"label": "Make", "value": "Tide land System 6,"},
+      {"label": "Type", "value": "Sea Beacon"},
+      {"label": "Frequency bandwidth", "value": "2.9 to 3.19 GHZ &9.3 to 9.59 GHZ"},
+      {"label": "Code", "value": "‘K’"},
+      {"label": "Power supply", "value": "12 V, 80AH MF lead acid battery, 1No."},
+      {"label": "Mode of charging", "value": "Solar panel 35 W with regulator."},
+      {"label": "Date of commissioning", "value": "04/05/2004."}
+    ], "tables": [], "text": null},
+    {"no": "19.", "title": "Automation Equipments :(NEW)", "title_hi": null, "page": 3, "fields": [
+      {"label": "Remote Transceiver Unit (RTU) Control Panel", "value": "make RDS"},
+      {"label": "Sr.No", "value": "3763"},
+      {"label": "Light Sensor make", "value": "ABLE"},
+      {"label": "Battery for automation", "value": "SMF battery, 12V/100AH – 2Nos. :S/N (1) 4YL042007018614 (2) 4YL042007018619"},
+      {"label": "Solar panel", "value": "make VIKRAM SOLAR 335W–2Nos. Model: ELDORA S/N (1) 20864222 (2) 20862414 (335Wx2)"}
+    ], "tables": [], "text": null},
+    {"no": "20.", "title": "Solar panel", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "3 KW (Off-Grid) with 48 nos. tubular battery of 2V/400 AH (make Exide LMXT 400, 2018) and 12 nos. Solar panel 255 W each, make BHEL. Inverter 5 KVA, Make UTL (Alpha Online PCU, 96 V) Old Solar panels (not in use), Make TATA, 70 W each, 23 nos. (8 panels were installed in 1998 and remaining 15 panels was installed in 2014-15)."},
+    {"no": "21.", "title": "Diesel generators", "title_hi": null, "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["S.No", "Engine No.", "Make/type", "HP", "No. of Cylinder", "RMP", "Cooling"], "rows": [["i", "01181/9619045", "Kirloskar TAF/1", "6", "1", "1500", "Air cooled"]]}
+    ], "text": null},
+    {"no": "22.", "title": "Details of Alternator", "title_hi": null, "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["S.No", "Frame", "Make", "KVA", "Vol", "Amp", "Freq", "Phase", "RPM"], "rows": [["i", "4502/2", "Kirloskar DS-Series.", "15", "220-240", "14.6", "50Hz", "Single", "1500"]]}
+    ], "text": "Heading on page 3; table on page 4."},
+    {"no": "23.", "title": "Battery chargers", "title_hi": null, "page": 4, "fields": [], "tables": [
+      {"caption": null, "columns": ["Battery Charger", "Rating & unit", "Qty", "Date of Inst."], "rows": [["Aplab make Digital P.S.", "0-32V / 40 Amp.", "1", "10.6.2004"]]}
+    ], "text": null},
+    {"no": "24.", "title": "Batteries", "title_hi": null, "page": 4, "fields": [], "tables": [
+      {"caption": null, "columns": ["Battery", "Rating & unit", "Qty", "Date of Inst."], "rows": [
+        ["Master Deep Niyantrak", "12V/200Ah, Amararaja make", "1", "06.08.2004"],
+        ["Slave Deep Niyantrak", "12V/200Ah, Amararaja make", "1", "06.08.2004"],
+        ["0.65KVA Inverter -1", "12V/725AH, Amararaja make", "1", "12.12.2003"],
+        ["0.65KVA Inverter -2", "12V/725AH, Amararaja make", "1", "12.12.2003"],
+        ["0.65KVA Inverter -3", "12V/725AH, Amararaja make", "1", "12.12.2003"]
+      ]}
+    ], "text": null},
+    {"no": "25.", "title": "Postal address", "title_hi": null, "page": 4, "fields": [{"label": "Postal address", "value": "C/O Assistant Engineer (E) Dhuvav MCS Station Jamnagar, Gujarat Pin - 361 008"}], "tables": [], "text": null},
+    {"no": "26.", "title": "Date of Commissioning", "title_hi": null, "page": 4, "fields": [
+      {"label": "First lighthouse", "value": "1898"},
+      {"label": "Modern lighthouse (PV)", "value": "1958 (05.02.1958)"},
+      {"label": "Solarisation", "value": "1996 (31.12.1996)"},
+      {"label": "Subsequent Innovations", "value": "2003"}
+    ], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

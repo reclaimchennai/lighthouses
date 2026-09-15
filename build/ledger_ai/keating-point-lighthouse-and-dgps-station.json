@@ -1,0 +1,46 @@
+{
+  "slug": "keating-point-lighthouse-and-dgps-station",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Keating Point Lighthouse and DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1969,
+  "alol": "F 1220",
+  "position": {"lat_text": "9° 15.48’ N", "lon_text": "92° 46.30’ E", "lat": 9.258, "lon": 92.771667},
+  "elevation_m": 37,
+  "characteristic_text": "Fl (1) W 10 sec (fl 0.15, ec 9.85 sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "fl 0.15, ec 9.85 sec",
+    "sequence_s": [0.15, 9.85],
+    "flash_duration_s": 0.15
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 26, "geographical_nm": null, "text": "26 NM (unlabelled)"},
+  "tower": {"type": "C.I. Circular tower on RCC Base", "height_m": 35, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "Vega", "model": "VRB-25 LED", "type": "Rotating Beacon", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": "Motor drive- 3Ph, electronically commuted 30 pole direct drive",
+    "rpm": null,
+    "rotates": true,
+    "rotates_evidence": "Type: Rotating Beacon; Rotation Device: Motor drive- 3Ph, electronically commuted 30 pole direct drive (R.P.M. blank)",
+    "divergence_horizontal_deg": 1.5,
+    "divergence_vertical_deg": 1.5,
+    "divergence_text": "1.5º (Horizontal), 1.5º (Vertical)",
+    "illuminant": "Electronic Flasher MF-12 (256 programmable character); High intensity LED diodes 6Watts; Standby: Sealite SL155-5D Lens dia 171 mm"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": true, "code": "O", "text": "Sr. No 6295; Tideland Sea beacon 2 system 6 Racon; Code O; Band X and S; installed 26-08-2005"},
+  "ais": {"present": true, "text": "Base Station 2 Nos AIS1 & AIS2; Model R40, Class A; MMSI 4198005"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "3 phase 440 V Electricity Board mains; 4 Kirloskar DG sets 20 KVA; 30 KWp solar plant (90 panels); 35 W/12V solar for RACON"},
+  "issues": [
+    "Duration of Flash 0.25 Sec conflicts with characteristic fl 0.15",
+    "Effective beam intensity 1500 cds seems low for VRB-25 with 26 NM range; may refer to standby Sealite lantern",
+    "Optic R.P.M. blank",
+    "DGPS: Nautel 317 KHz 1000 Watts, RS IDs 438/439, Beacon ID 119; also NAVTEX Danphone 518/490 Khz 1000W"
+  ]
+}

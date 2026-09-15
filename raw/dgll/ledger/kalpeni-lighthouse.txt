@@ -1,0 +1,165 @@
+                                     मास्टर ले जर/MASTER LEDGER
+क्रमसंख्या/                  नाम Name
+   Sr.No                                                            वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.                   F 1201
+     2        स्थान/Position                       Lat.10° 04.50’ N , long 73° 58.54’ E
+     3        ऊंचाई/Elevation                      44.01M (Above MSL)
+     4        अविलक्षण/Characteristic              GP.FL.3(W)EVERY 20SECS
+
+    5         नॉविकल माइल मे दू री                 18NM
+              Range in miles
+    6         दीपस्तं ि िािर/L.H.Tower             Type                           Circular RCC block
+                                                                                  masonry tower
+                                                   Height                         37M
+                                                   Colour Scheme                  Black and White Band
+    7         ऑविकल उपकरण                          Optic
+              Optical equipment                    Make                           J.stone&co
+                                                   Type
+                                                   Size                           300mm 4th revolving
+                                                                                  optic
+                                                   No. of lens                    3
+                                                   Area of dioptric portion       1700 Sq. cm
+                                                   Area of catadioptric portion   9000 Sq. cm
+                                                   Divergence                     9º32’ (Horizontal)
+                                                   Main/Emergency                 8º35’ (Vertical)
+                                                   Duration of Flash              0.53 Sec
+                                                   Main /Standby/Emergency
+                                                   Pedestal                       Ball bearing type
+                                                   Rotation Device                Stepper motor
+                                                   R.P.M.                         3 RPM
+                                                   Illumining
+                                                   Main                           230V/400W Metal
+                                                                                  Halide Lamp
+                                                   Standby
+                                                   Emergency:
+                                                   Date of Installation           28-05-2003
+    8         प्रिािी बीम तीव्रता/Effective beam   Main                           2.56.989 candelas
+              intensity                            Emergency
+    9         लें िनन /Lantern                     Diameter                       2.4m
+                                                   Height of glazing              1.38m
+                                                   No. of panes                   12
+                                                   Ventilators                    8
+    10        RACON                                     Sr. No                       6295
+              Make                         Model   Code                           Band            Date
+                                                                                                  of
+                                                                                                  Install
+                                                                                                  ation
+     11   NAIS
+          Base Station                                   2 Nos-AIS1 & AIS2
+
+          Model                     Type             Power                             MMSI
+          R40                       Class A          AC-230V & DC-12V                  4198001
+          Communication
+          Equipment
+          VSAT Antenna              Band             Modem
+          2.4m dia Parabolic        EX-C             Datum system M7LT
+          reflector                                  Satellite Terminal
+     12   ऊर्ान के       Mains                                                            EB
+          साधन/          Power Source                                                     DG Set 7.5 KVA
+          Source of                                                                       make kirlosker
+          energy         Engine 1
+                            Make/Type                Qty               Rating             No of Cylinder           RPM           Cooling
+                            kirlosker                1                 16 BHP             3                        1500          Air
+                            Alternator
+                            Make/Type                Qty               Rating             Voltage/Amp              Frequen       Phase
+                                                                                                                   cy
+                            Stamford                 1                 7.5KVA             240V/130.4A              50Hz          Single
+     13   स्वचावलतिोल्टे र्स्टे बलाइर्र Automatic Voltage Stabilizers
+          Make                        Model            Capa Input                                 Output           Phase         Qty
+                                                       city
+          SUPRA                       Supra hi tech    5KVA 230                                   230              SINGL         1
+                                      electro                                                                      E
+14        बैिरर Batteries
+          Equipment                   Type             Make       Volt                            Amp/         Qty
+                                                                                                  Hr
+          PSS NAIS                              -               -                  -                 -             -
+          Genset                         Lead acid           Exide      12V                       150          1
+                                                                                                  AH
+          Automation                   SMF                   Exide      12V                       42 AH        2
+          DGPS
+     15   बैिरर चार्न र/ Battery charger
+          Equipment                    Make                  Model Type                           Ratin        Qty
+                                                                                                  g
+          General Purpose
+          Automation                     Power X Engg         ---               ----               15          01
+                                                                                                  Amps
+     16   इं वर्ट र Inverter /UPS
+          Equipment             Nos      Make        Model                         Type           Rati     Qty            inp        Output
+                                                                                                  ng                      ut
+          Main Light            ---        ---                  ---                    ---         ---         ---         ---          ---
+          NAIS PSS             02        SUKAM                 ----                Pure sine      1        2              12V        230VAC
+                                                                                   wave           KVA                     DC
+                                                                                                                          &
+                                                                                                                          230
+                                                                                                                          AC
+     17   स्वचलन उपकरण Automation Equipment
+          MAKE        PLC             HMI                           Power Supply       VSAT       Modem                           Band
+          RDS Pune    Schneider       Schneider                     24 V DC            1.8m       SkyEdge                         EX.C
+                      &                                                                dia
+                       Telemecanique                           Parabol
+                                                               ic
+                                                               reflecto
+                                                               r
+18   आवि शमन उपकरण                     Type of Extinguisher    Capacity          Nos        Mak
+     Fire Fighting Equipment                                                                e
+                                       Fire extinguisher       1 kg                1
+                                       Map90
+                                       Fire extinguisher       4 kg                2
+                                       Map90
+                                       Fire extinguisher       9 Ltr               3
+                                       AFFF
+                                       Fire extinguisher       4.5KG               2
+                                       CO2
+                                       Fire buckets            02(new)04nos (old)
+19   संचार                             The station is connected with P&T telephone
+     Communication                     No.04985252628
+20   र्लपूवतन                          Open well with salt water available in the
+     Water Supply                      station , 2 Nos rain water (3000ltr)collection
+                                       tank provided.1000ltr capacity tank with 1HP
+                                       motor pump
+21   िू वम                             Area                                2520sqm
+     Land                              Demarcation                Not
+                                                                  Available
+22   इमारतें                           RCC Structure              Power
+     Buildings                                                    house cum
+                                                                  office,store
+                                                                  room and
+                                                                  toilet
+                                       Timber        Construction Inspection
+                                                                  Qtr., HLK             a
+                                                                  quarter,twi           b
+                                                                  n unit of             o
+                                                                  NA                    v
+                                                                  quarter,twi           e
+                                                                  n unit of             p
+                                                                  LHA                   l
+                                                                  Quarter,EB            i
+                                                                  power                 n
+                                                                  supply                t
+                                                                  distribution          h
+                                                                  room
+                                       level
+23   कंपाउं ड लाइि                     LED Light fitted on G.I Pole-6
+     Compound Lights                   Nos,2nos gate lite
+
+24   सीसीिीिी कमे रा                   NA
+      CCTV CAMERA
+25   स्टाफ                             Sl. No         Designations
+     Staff
+                                       1              Navigational Assistant GrIII
+                                       2              6NOS Outsourcing staff
+26   पहुँ चने का माध्यम              By sea from cochin to kalpeni or by
+     Mode of approach                helicopter in case of emergecy.
+27   उपलब्ध सुविधाए                  The nearest Post office, Dispensary, High
+     Facilities available            School, Police Station are available at
+                                     kalpeni island. Nearest port is at kalpeni
+                                     port, The Island is otherwise inhabited
+28   डाक पता Postal address          Head light keeper
+                                     Kalpeni light house
+                                     Kalpeni island
+                                     Pin:682557
+29   मू ल्य का ब्योरा Cost details   N/A
+     (At the time of Construction)
+30   प्रितनन मे लाने का दे नां क     21/11/1976
+     Date of commissioning
+

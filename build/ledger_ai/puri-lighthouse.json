@@ -1,0 +1,45 @@
+{
+  "slug": "puri-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Puri Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F 1002",
+  "position": {"lat_text": "19° 47’24” N", "lon_text": "85° 48’22” E", "lat": 19.79, "lon": 85.806111},
+  "elevation_m": 30.2,
+  "characteristic_text": "FL (3) W 20 SEC",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.11
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 17, "geographical_nm": 15, "text": "Luminous 17 NM, Geographical 15 NM"},
+  "tower": {"type": "Circular RCC Tower", "height_m": 25, "colour_scheme": "Black and White Bands"},
+  "optic": {
+    "make": "Tideland Signal Corporation, USA", "model": "TRB 220", "type": "Revolving", "size": "915 mm height & 445 mm Dia., Focal Length 110 mm", "order": null,
+    "panels": 6,
+    "rotation_device": null,
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Optical Equipment: TRB 220 (Revolving); RPM 3",
+    "divergence_horizontal_deg": 2.4,
+    "divergence_vertical_deg": 1.15,
+    "divergence_text": "2.40 (Horiz.) & 1.15 (Vert.)",
+    "illuminant": "70 Watt MH Lamp, 230 volts AC"
+  },
+  "intensity_cd": 26928,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "AIS Base station 02 Nos. Saab Transponder make; commissioned March 2012"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "3 Phase 440V CESU mains; 10 kWp on-grid solar (40 panels); 2 Kirloskar 12 BHP gensets with 7.5 KVA alternators"},
+  "issues": [
+    "Elevation given as 'Elevation of ground 5.2 m' and 'Elevation of tower 30.2 m'; 30.2 m used",
+    "Divergence values printed without units",
+    "Year of establishment not stated"
+  ]
+}

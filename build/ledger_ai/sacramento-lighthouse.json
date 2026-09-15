@@ -1,0 +1,46 @@
+{
+  "slug": "sacramento-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Sacramento Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1895,
+  "alol": "0958",
+  "position": {"lat_text": "16° 35.2' N", "lon_text": "82° 16.8' E", "lat": 16.586667, "lon": 82.28},
+  "elevation_m": 48,
+  "characteristic_text": "FL White in every 5 Seconds (Fl .0.2, ec 4.8 )",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": "Fl 0.2, ec 4.8",
+    "sequence_s": [0.2, 4.8],
+    "flash_duration_s": 0.2
+  },
+  "sectors_text": "Visibility Sector 225°--045° (180°)",
+  "range": {"luminous_nm": 24, "geographical_nm": 18, "text": "Luminous: 24 andelas; Geographical: 18 NM"},
+  "tower": {"type": "Circular Masonry Tower", "height_m": 45, "colour_scheme": "Red and White spiral bands"},
+  "optic": {
+    "make": "M/s Chance Brothers, U.K.", "model": null, "type": "Revolving", "size": "500 mm 3rd Order large Revolving; focal distance 500", "order": "3rd Order large",
+    "panels": 2,
+    "rotation_device": "Twin Stepper motor Direct Drive system. Stepper motor: 2 No 40Kg-cm (unique make); Controller: 2No 40Kg-Cm (unique make)",
+    "rpm": 6,
+    "rotates": true,
+    "rotates_evidence": "500 mm 3rd Order large Revolving; Twin Stepper motor Direct Drive system; Rotation Speed 6 RPM",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 6.3,
+    "divergence_text": "Horizontal : 6° 45 5', Vertical : 6° 18'",
+    "illuminant": "150 watts Metal Halide Lamp 3 Nos. (Cluster)"
+  },
+  "intensity_cd": 939600,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "M/s SAAB AIS R40 Base Stations Sl.No.5229 and 5256; 2.4 m VSAT; commissioned May, 2016"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APEPDCL mains three phase 415 V 50 Hz; 3KW off-grid solar plant for main light (12 x 24V/250W); Kirloskar HA294 19 HP DG with 15 KVA alternator"},
+  "issues": [
+    "Luminous range printed as '24 andelas' (unit garbled); taken as 24 NM",
+    "Horizontal divergence printed '6° 45 5'' is ambiguous (6°45.5' or 6°45'5\"); left null",
+    "Header says 'Estd.1985/2015' but Date of Commissioning is 1895 (innovations 1902, 1997, 2004, 17-02-2015)",
+    "Duration of flash given as 0.19 seconds vs characteristic Fl 0.2"
+  ]
+}

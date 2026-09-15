@@ -1,0 +1,39 @@
+{
+  "nid": 1926,
+  "title": "Conducting Topography survey at North point Island Lighthouse station in North Bay, A & N islands.",
+  "summary": "Topography survey at North Point Island Lighthouse station in North Bay, Andaman & Nicobar Islands, tendered by the Port Blair (Sri Vijaya Puram) Directorate.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-01004/1/2022-CM-PB",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "North point Island Lighthouse station, North Bay, A & N Islands", "station_id": "north-point-lighthouse", "kind": "lighthouse", "work": "Topography survey"}
+  ],
+  "scope": [
+    {"item": "Conducting Topography survey at North point Island Lighthouse station", "qty": null, "unit": null, "site": "North point Island Lighthouse station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 493013.0,
+    "emd_inr": 9860.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Percentage rate tender. EMD by deposit at call receipt / FDR / DD of any nationalized/scheduled bank in favour of Director of Lighthouses and Lightships, Sri Vijay Puram, valid 6 months from technical bid opening; original EMD and all technical documents to be submitted physically by due date. EMD exemption for MSME/NSIC registered bidders only if registration is for similar work. Bid document free of cost."
+  },
+  "period": {"completion": "45 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-06-16", "pre_bid": "2025-06-23", "bid_submission_end": "2025-07-02", "bid_opening": "2025-07-03"},
+  "eligibility": [
+    "Eligible experienced civil contractors with successful completion of similar work of 'Conducting Topography survey & Sub-Soil Investigation in Andaman & Nicobar Island' with Government organizations and no adverse remarks",
+    "Detailed criteria as per Section-III clause 3.1 of tender document (not included in this file)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITnplhtopo.pdf", "pages": 6, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 16/06/2025; Hindi pages 1-3 and English pages 4-6 of Section I only; no BOQ or Section III. Bid download/submission 16/06/2025 18:00 to 02/07/2025 15:00; technical bid opening 03/07/2025 15:00 subject to internet availability. Similar-work description mentions sub-soil investigation although the work name is topography survey only."
+}

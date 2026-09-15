@@ -1,0 +1,178 @@
+                    मास्टर लेजर/ MASTER LEDGER
+ क्रम
+                                नाम /Name
+संख्या/
+                                                                         वििरण/ Discription
+Sr.No
+   1.          ए.एल.ओ.एल/A.L.O.L.                                ---
+   2.          स्थान/Position                                    : Lat 23.1283° N,
+                                                                  Long 68.8574° E
+   3.          ट्र े स्टल ट्ािर ऊंचाई/ Trestle Tower Elevation   : 47 M
+                ट्र े स्टल ट्ािर/Trestle Tower                    : GI 30M Trestle tower
+
+   4.          Date of Installation                              : 13/02/2012
+             वी टी एस उपकरण/ VTS EQUIPMENTS:
+
+  क्रमसं                              वििरण/ Discription                   Qty       Location
+  ख्या/
+  Sr.No
+           i. Microwave Antenna                                          04       On Tower
+              Make –Faini Tele communication System,
+              (Kathrein)SNo.08KIMWA 0000120046
+              SNo.08KIMWA 0000120051
+              SNo.08KIMWA 0000120060
+              SNo.08KIMWA 0000120059DOI: 11/2011
+
+           ii. RFU/ODU Make- Ericsson                                    04      On Tower
+                 S. No. CR9Q240368 Chhachhi
+                 S. No. CR9P006465 Chhachhi
+                 S. No. CR9Q240348 Jakhau
+                 S. No. CR9P006199 Jakhau
+               DOI: 24/08/2019 (02 Nos.) DOI: 12/07/2020 (02 Nos.)
+          iii. 3KVA UPS, Make: APC,                                      01      Equipment
+               S. No: B21818001093DOI:                                           Room
+               17/07/2019
+          iv. 12V/26Ah Battery, Make: Amaron Quanta DOI:                 06      Equipment
+               17/07/2019                                                        Room
+           v. Rectifier Make- BSMC                                       01      Equipment
+               Power SystemsTYPE                                                 Room
+               BS 350 X 2 MODULE
+               S. No:BS-350/B/4310DOI: 11/2011
+          vi. SPU- Ericsson mini                                         01      Equipment
+               link – 63637/32LS.                                                Room
+               No: CE8A312090
+               DOI: 24/08/2019
+
+                                                 Page 1 of 8
+vii. DG SET-1 15 KVA 230 V, 1Ф, 65.2 A 1500 RPM          02     Power House
+     Model-.KG15AS
+     Type-HA294 Engine
+     No:02.2129/1021623,
+     Alternator M/C No-CS113011A18969-H With 150 liter
+     storage tank DOI: 11/2011
+
+      DG SET-2 15 KVA 230 V, 1Ф, 65.2 A 1500 RPM
+      Model-KG15ASType-HA294 Engine No-
+      02.2132/1020040,
+      Alternator M/C No-
+      CS10011A18968-H With
+      150 liter storage tank
+      DOI:11/2011
+viii. DG Set Starting Batteries                           02    Power
+      DG Set-1 12V/130Ah Battery, Make- Exide,                  House
+      Type Lead AcidDOI: 21/06/2019
+      DG Set-2 12V/130 Ah Battery, Make: Exide, Type Lead
+      Acid
+      DOI: 26/09/2016
+ ix. AMF Control Panel                                    01    Power House
+      Sterling Generators Pvt. Ltd
+      12.5 KVA, 230V, 1Ф,63 Amps S. No:04-10/0515,
+      Controller Make: DSE Model: DSE 4520
+      MKIIS. No. 7204349
+      S. No. 7204347
+      DOI: 20/08/2020
+  x. LVDB Panel                                           01    Power House
+      Make – Sterling Generators
+      Pvt. LtdDOI: 11/2011
+ xi. Automatic Voltage stabilizer                         01    Power House
+      make- Delta, Input: 140-280V, Output: 230V,
+      Capacity-15KVA,Frequency-50Hz
+      S. No. 692/671
+      DOI: 15/05/2016
+xii. Fire Extinguisher                                    04    Power House
+         I. ABC Dry Powder – 02 Nos.
+        II. Clean Agent - 02 Nos.
+        DOI: 11/2011
+xiii. Solar Charge                                        02    Power House
+      Controller12V-24V-
+      48V, 45 Amp
+      Make: Su-Kam
+      DOI: 13/05/2014
+xiv. Solar Panels Capacity: 250 W                          20
+      Rated Voltage: 31.00 V
+                                   Page 2 of 8
+      Rated Current: 8.10 Amp, Make: Topsun Energy Pvt.
+      Ltd.DOI: 13/06/2017
+xv.   Inverter Make – Delta                            01        Power House
+       Sr. No. O0U16901147WP
+       Part No: RPI 502NA0E0000
+       Model – RPI H5
+       DC Input 200-1000Vdc
+       Output 220/230Vac, 50 Hz/60Hz
+       5KVA nom 24.5A max.
+       DOI: 13/06/2017
+ xvi. SPD (Surge Protection Device)                    02        Equipment
+        I. 3Ф SPD                                                Room
+        II. 1Ф SPD, DOI: 06/2015
+ xvii. Isolation Transformer – 3 KVA Make –            01        Power House
+       Trusine Electronics Pvt. Ltd.Sr. No. – TRU-
+       IT 001
+       DOI: 06/2016
+xviii. Water Pump (Submersible) with                   02
+        I. DOL starter & TPN 32ACapacity: 1HP
+         Make: Taxmo DOI: 29/01/2020
+        II. Mono Block Water Pump 1- PhaseMake:
+         Angel
+         DOI: 20/04/2018
+ xix. Solar Panels Capacity: 70W                       20
+       Rated Voltage: 17.00V Rated Current: 4.20 Amp
+       Make: Vikram Solar Pvt. Ltd.
+       DOI:13/05/2014
+  xx. Batteries                                        24        Power House
+       Make Exide Power Safe, Type SMF2V/300AH
+       DOI: 19/03/2020
+ xxi. Exhaust Fan Rated Power: 52W230V AC 50Hz                   Power House
+       Make: Bajaj Electrical Ltd.                     03
+       DOI: 11/2011
+ xxii. 1. Spilt A/C 1.5Ton Make: Blue star             03        Equipment
+          Sl. No. C101182350210311131050                         Room
+           DOI: 11/2011
+          2. Spilt A/C- 1.5 Ton Make: LG
+          Sl. No. 201AAHK012089
+          DOI: 11/2011
+          3. Spilt A/C- 1.5 Ton Make: Videocon
+          Sl. No. 11081574200229
+          DOI: 11/2015
+xxiii. Commtel Rack                                          01 Equipment
+       DOI: 12/2011                                             Room
+xxiv. CCTV SYSTEM:-                                             Equipment
+       1) IP Dome CameraMake: CP Plus                       01 Room
+       Sr. No: CP4C037ESPAG00127
+       2) IP Bullet CameraMake: CP Plus                     04
+       Sr. No: CP4C037E4PAG00078
+                                    Page 3 of 8
+       : CP4C037E4PAG00088
+       : CP4C037E4PAG00101
+       : CP4C037E4PAG00272
+          3) IP PTZ CameraMake: CP Plus
+          Sr. No: CP2K02463PAN00110                  01
+          4) NVR 16CHMake: CP Plus
+          Sr No: CP4E0549APAZ00722                      01
+          5) 4TB Surveillance HDD WDSr. No:-
+             WCC7K44XNL4H8                              02
+          Sr. No:- WCC7KOFVVIZN
+          6) LCD Monitor 22’’Make: LG                   01
+          Sr No: 803NTWG9K601 Model No:-22M39D
+          7)    UPS 600VAMake: APC                      01
+          Sr. No: B21822014508
+          Model: BX600eL -IN
+          8)    8 Port PoE SwitchMake: CP Plus          01
+          Sr. No. CPT0418052955
+          DOI: 25/09/2018
+Power Supply :                                     01        Power
+ Mains Supply – PGVCL Mains – 415V3-Phase, 50 Hz             House
+Standby supply – 02 Nos DG set
+Water Tank                                         01
+Capacity: 50000 L
+                                                   Station In-charge
+ADDRESS& COMMUNICATION                             VTS Repeater station
+                                                   Vanku, Taluka:
+                                                   Abdasa,
+                                                   Kutch (Guj.)- 370001
+DATE OF COMMISSIONING                              13/02/2012
+
+
+
+
+                                Page 4 of 8
+

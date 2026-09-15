@@ -1,0 +1,180 @@
+उत्तन पॉइंट दीपस्तंभ एवं डीजीपीएस स्टे शन/Uttan Point Lighthouse and DGPS Station
+ क्रमसंख्या/              नाम /Name
+    Sr.No                                                           वििरण/Description
+      1        ए.एल.ओ.एल/A.L.O.L.        F 0499
+     2         स्थान/Position            Lat. 19º 16.50 ‘ N
+                                         Long.72º 46.80 ‘ E
+     3         ऊंचाई/Elevation           53 m
+     4         अभिलक्षण/Characteristic   Fl (2) W 15 Sec. (fl 0.25, ec 3.51, fl 0.25, ec 10.99)
+     5         नॉटिकलमाइलमेदरू ी         24
+               Range in miles
+     6         दीपस्तंििािर/L.H.Tower    Type                               Square Masonry Tower
+                                         Height                             12.8 m
+                                         Colour Scheme                      Red & White bands
+     7         ऑप्टिकलउपकरण              Optic                              5th Order
+               Optical equipment
+                                         Make                               M/S. Chance Bros.
+                                         Type                               5th Order
+                                         Size                               187.5 mm (5th Order) revolving
+                                         No. of lens                        2 of 135º
+
+                                         Area of dioptric portion           420 sq.cm. (Corrected area 306
+                                                                            sq.cm.)
+                                         Area of catadioptric portion       1820 sq.cm. (Corrected area 1001
+                                                                            sq.cm.)
+                                         Divergence                         Horizontal – 16.72º , Vertical-12.16º
+                                         Main/Emergency
+                                         Duration of Flash                  0.70 Sec.
+                                         Main /Standby/Emergency
+
+                                         Lamp changer                                        NA
+                                         Pedestal                           Mercury Float (11.6 Kg. in use)
+                                         Rotation Device                    Dual Stepper Motor 40 Kg cm with
+                                                                            auto changeover
+                                         R.P.M.                             4
+                                         illumining                         3 х150 W Metal Halide Lamp cluster
+                                         Main                               440 V,3 phase, 50 Hz
+                                         Standby                            NA
+                                          Emergency:                                 NA
+                                          Date of Installation                       15/12/1960
+8    प्रिािीबीमतीव्रता/Effective beam     Main & Standby                             69940 cd
+     intensity
+                                          Emergency                                                       NA
+9    लेंिनन/Lantern                       Diameter                                   2.2 m
+                                          Height of glazing                          1.13 m
+                                          No. of panes                               8
+                                          Ventilators                                7
+10   RACON                                NA                                         NA
+     Make                   Model         Code                                       Band                      Date of
+                                                                                                               Installation
+               -                   -                            -                                  -                  -
+11   NAIS
+     Base Station                                                                    2 Nos
+
+
+     Model                  Type              Power                           MMSI
+     SAAB R-4024            Class A           12.5W                           4192226
+     Communication          GPS Antenna
+     Equipment              VHF Antenna                     -                            -
+                            CX4
+     VSAT Antenna           Band              Modem
+     2.4m dia parabolic     EXT-C             DATUM Systems
+     reflector                                PSM-500L satellite
+                                              modem
+     DGPS
+     Transmitter Make       Frequency         Power                 RS- 1     RS-2           Beacon     Date of       Date of
+                                              Output                ID        ID             ID         commissi      Recapit
+                                                                                                        oning         alization
+     Nautel                 306 kHz           500 Watts             406       407            103        March-        28/06/2
+                                                                                                        1998          017
+
+12   ऊर्ानकेसाधन/Source     Mains                                             440V , 3 phase ,50 Hz
+     of energy              Standby                                           DG set -02 Nos.
+                            Engine 1
+                            Make/Type                 Qty            Rating          No of             RPM             Cooling
+                                                                                     Cylinder
+                            Kirloskar/HA394           01             23.54 Kw        3                 1500            Air
+                            Alternator
+                            Make/Type                 Qty            Rating          Voltage/Amp       Frequency       Phase
+                            Kirloskar                 01             25 KVA          415V /            50 Hz           3
+                                                                                     34.8 Amp                          Phase
+                            Engine 2
+                            Make/Type                 Qty            Rating          No of             RPM             Cooling
+                                                                                     Cylinder
+                            Kirloskar/HA394           01             23.54 Kw        3                 1500            Air
+                            Alternator
+                            Make/Type                 Qty            Rating          Voltage/Amp       Frequency       Phase
+                            Kirloskar                 01             25 KVA          415V /            50 Hz           3
+                                                                                     34.8 Amp                          Phase
+                            Solar Plant
+                               Capacity PV                  Numbers                       Type            Battery              Bank
+                               200 Watt                     03                            Mono            150 Ah               -
+                                                                                          Crystaline      3 nos
+                               Solar Plant for Main RACON                                 NA
+                               Capacity PV                  Numbers                       Type            Battery              Bank
+                                         NA                           NA                         NA             NA                 NA
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                   Model                            Capacity        Input             Output               Phase             Qt
+                                                                                                                                      y
+     Serwel Electronics     SERVOMAX                         15 KVA          170-270V          230 V +/-1%          1 phase           03
+
+14   बैिरर
+     Batteries
+     Equipment               Type              Make                   Volt                Amp/Hr          Qty
+     PSS NAIS                -                 -                      -                   -               -
+     Genset                  Lead Acid         Koel Green             12 V                75 AH           02
+     Automation              M/F               Rocket                 12 V                26AH            10
+     DGPS                    M/F               Exide                  12 V                42 AH           22
+15   बैिररचार्नर/ Battery charger
+
+     Equipment               Make              Model             Type                     Rating          Qty
+     General Purpose         -                 -                 -                        -               -
+     Automation              Powerrex Eng.     -                 SMPS                     24V/15Amp       01
+16   इंवटट रInverter /UPS
+     Equipment Nos           Make     Model          Type             Rating              Qty             input                output
+     Main Light 1.           Exide    Exide          Pure Sine        850VA               03              12VDC &              230VA
+                                      850DSP         Wave                                                 230VAC               C
+                                      PST UPS
+     NAIS PSS      1.        APC      1. SRC         On-Line          1000VA              02              12VDC &              230VA
+                                      1Kl-lN                                                              230VAC               C
+                                      2.Smart-
+                                      UPS RC
+                                      1000
+     DGPS          1.        APC      SRC10KU        On-Line          10KVA               01              192VDC &             230VA
+                                      XI                                                                  230VAC               C
+
+                   2.        APC      SRC3KUX        On- Line         3KVA                01              72VDC &
+                                                                                                          230VAC               230VA
+                                                                                                                               C
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE      PLC                    HMI           Power Supply             VSAT                     Modem          Band
+     Nelco     Telemecanique          Schneider 24VDC                        1.8 m dia.               SkyEdge        EXT-C
+                                      Electric
+18   आप्ननशमनउपकरण                             Type of                       Capacity                   Nos            Make
+                                               Extinguisher
+     Fire Fighting Equipment
+                                               CO2 Type                      6.5 Kg                     02             safex
+19   संचार                           MTNL Tel. No. 022-28450740 with fax
+     Communication
+20   र्लपर्ू तन                      MBMC Water Supply
+                                     9 Nos. rain water collection tanks
+     Water Supply
+21   िभू म                           Area                                    4.65 Hectares
+     Land
+                                     Demarcation                             Masonry
+22   इमारतें                         Quarters                                8 Qtrs. For staff plus power
+                                                                             house, store room & Inspection
+     Buildings
+                                                                             Qtr.
+23   कंपाउं डलाइि                    18 Nos. G.I. pipe poles with LED
+                                     fitting.
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera                                                  -
+      CCTV CAMERA                    DVR                                                     -
+25   स्िाफ                           Sl. No         Designations
+     Staff                           1              Asst. Engineer (E) -1 ( Vacant )
+                                     2              S.R.T. - 01
+                                     3              NA-II - 03
+                                     4              NA - III -01
+                                     5              LHA - 01
+
+                                     6
+                                     7
+26   पहुँचनेकामाध्यम                 .
+                                     By rail upto Bhayander & than 12 Kms. By MBMT Bus upto Uttan village
+     Mode of approach
+                                     & than 1 Km. walk upto Lighthouse.
+27   उपलब्धसविधाए                    Marine Police Station      2 Km from LH
+     Facilities available            Dispensary                 PHC ,Uttan
+                                     High School                Yes
+                                     Post office                yes
+28   डाकपताPostal address            Asst. Engineer (E) Uttan Piont Lighthouse, Post Uttan, via Bhayander,
+                                     Dist. Thane Pin-401106
+29   मल्ू यकाब्योराCost details      7,25,091/-
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          15-12-1960
+     Date of commissioning
+

@@ -1,0 +1,183 @@
+                          Nagayalanka Lighthouse
+                                       Estd.1901
+                                       MASTER LEDGER
+
+1. Name                       : NAGAYALANKA LIGHTHOUSE
+
+2. Sr.No. (In A.L.O.L)        : 0953
+3. Position                   : Lat:15o 47' 10'' N
+                                Long: 80o 59' 15'' E
+
+4. Elevation                  : 35 Mts. above MSL
+
+5. Characteristic             : FL W EV. 15 Seconds
+                                (Fl 11.16+03.84= 15 sec.)
+
+6. Range in nautical miles
+      i) Luminous             : 24.0
+      ii) Geographical        : 16.5
+
+7. Lighthouse Tower
+       i) Type                 : Square Stone Masonry Tower
+       ii) Height             : 37 Mts.
+       iii) Colour Scheme     : Red and White Diagonal bands
+
+8. Optical Equipment
+a)     i) Make                : M/s BBT
+       ii) Size               : 700 mm (2nd order) revolving
+       iii) No.of Panels      : 4 log of 900 each
+       vi) Divergence         :
+             Main             : -
+             Standby          : Nil
+             Emergency        : Nil
+       vii) Duration of flash
+             Main & Standby : 1.16 seconds
+             Emergency        : Nil
+
+b) Pedestal                   : Mercury floats 165 KG in use
+
+c) Rotation Device            : Stepper Motors 40kg/cm2 and standby Clock machine
+d) Rotation Speed             : 1 RPM
+e) Illuminant
+        i) Main/Service        : Metal halide lamps. (3X 70 W)Cluster
+        ii) Standby           : Nil
+        iii) Emergency        : Nil
+
+
+
+f) Effective Beam Intensity
+        i) Main/Service             : 4, 38,480 cds
+        ii) Standby                 : N/A
+        iii) Emergency              : N/A
+
+9. Lantern
+       i) Diameter                  : 3.68 Mtrs
+       ii) Height of glazing        : 2.70 Mtrs
+       iii) No. of panels           : 36 Nos. in three Tier
+       iv) Ventilators              : 11 Nos.
+
+10. Lamp changer                    : not applicable
+                            .
+11. Energy Source               : Solar powered backup
+
+12. No. of Standby Diesel       : One Engine Generators
+
+Details of Engine
+ Sl       Engine No.            Make/Type              H.P.           RPM          Cooling
+ No.
+ 1.       02.2145/1323257       Kirloskar/             20.5           1500         Air cooled
+                                HA294
+
+13.     Details of Alternator   :
+ Sl     Frame                           Make/             KVA/        VOLTS/       Frequency/
+ No.                                    Type              AMPS        PHASE        RPM
+ 1.       KG 184B                       Kirloskar/        15 / 62.5   240V/        50Hz /1500
+                                        HA294                         Single
+
+14. Automatic Voltage Stabilizers           : Nil
+
+15. AMF Panel                               : Elect AMF panel to be installed
+
+16. Battery Charger                         : 2 Nos.
+
+ Sl       Make                          Type              Input        Output       Remarks
+ No.
+ 1.       A.E make                      -                 230V,        0-30V/40A    good
+                                                          AC
+
+17. Solar Panels                           : Total 51Nos
+8 Nos. Installed for Main Light sources, 15 Nos are removed from circuit(not in use)
+2 Nos. of solar panel for optic rotation (stepper motor),
+24 Nos. for NAIS and
+2 Nos for Automation.
+
+18. UPS                 :
+ Qty                                1No                            1No
+ Make                               UTL                            UTL
+ Capacity                           1250VA                         2100Watts
+ Input                              24V                            48VDC
+ Output                             230VAC                         230VAC
+ Used for                           Main Light                     NAIS
+
+19. No. of Batteries    :     i) 12 Nos of 2V , 900AH Tubular Batteries make: Exide and 2Nos of 12 V
+                                   /150AH SMF Exide batteries for main light.
+                             ii) 1Noof 12 V/100 AH Lead Acid Battery make : Amaron for Engine
+                             Starting.
+                             iii) 2 Nos of 12V/150AH Lead Acid Batteries for Optic Rotation.
+                             iv) 24 Nos of 2V/900AH Tubular batteries make: Exide for NAIS.
+
+20. Firefighting equipment
+   a) Fire Extinguishers (New):
+       i) Mechanical foam type :          01No (9Kgs)
+       ii) Dry powder type.     :         01No (9Kgs)
+       iii) Dry powder type.    :         01No (4Kgs)
+       iv) Dry powder type.     :         01No (6Kgs)
+
+    b) Fire Extinguishers (Old) :
+         i) Dry powder type               :       2Nos (5.0kg)
+         ii) Carbon dioxide type.         :       01No (4.5Ltrs)
+         iii) Mechanical foam type        :       01No (9Ltrs)
+        iv) Foam type                     :       01No (9 Lits)
+
+    c) Fire Buckets                       :       5Nos.
+    d) Fire stand.                        :       01No
+
+21. Communication                         : P&T Prepaid cell phone No. 6305439196, Launch runs once
+                                          in a week on contract basis.
+
+22. Water Supply                          : 12Nos of rain water collecting tanks are provided
+
+23. Land
+        i) Area                           :       0.890 Hectares
+        ii) Demarcation                   :       Compound wall with RCC fending
+
+24. Buildings                             : Power house/ Batteries room, HLK Quarters, Twin unit of
+                                          ALK Quarters, Twin unit of L.H.A Quarters and L.H.SQuarters,
+                                          Store Room, Old Store Building converted as Inspection
+                                          Quarters, Old Lighthouse Tower basement used as oil room.
+25. Street Lights                   : 14 Nos solar powered street (2Nos CFL + 12 Nos
+LED)
+
+26. Staff                           : touring station
+
+27. Mode of approach                :By Rail up to Vijayawada and then by road for 100Km upto
+                                    Nagayalanka Village and then by 25Km Krishna river way by
+                                    launch
+
+28. Facilities available            : a) Post Office at Nagayalanka village 25 Km
+                                    b) Dispensary within 25 Km
+                                    c) Govt. School within 25 Km
+                                    d) Nationalized Bank and Police station within25 Km
+                                       at Nagayalanka village.
+
+29. Postal Address                  : The Navigational Assistant Gr –I,
+                                      Nagayalanka Lighthouse, Nagayalanka post,     Krishna
+                                    District,
+                                      Andhra Pradesh, Pin: 521 120.
+
+31. Cost Details
+        i) Construction             :       Rs.28, 08,800/-
+        ii) Cost of equipment       :       Not available
+
+32. Year first Light Commissioned   :       1901
+
+33. Date of Commissioning           :       17- 09 - 1998
+
+34. Subsequent Innovations          :       1940, 1955, 1972, 1998
+
+35. Racon                           :       NIL
+
+36. NAIS                            :       i) Comprising NAIS Rack,
+                                            ii) Isolation transformer and UPS (100VA),
+                                           iii) 2Nos of 150AH batteries and Router,
+                                            iv) CISCO switch, MODEM,
+                                            v) R40 AIS base stations-2 Nos,
+                                            vi) GPS antennas-2Nos, VHF antennas-2
+                                    Nos.
+
+33. Automation Equipment            : Installed by RDS (Recktronic Devices Systems)
+                                    on         18-02-2013. Comprising Power
+                                    room control panel, Service room control panel
+                                    with various sensors and adapters, modems,
+                                    Demods, VSAT antenna.
+

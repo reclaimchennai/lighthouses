@@ -1,0 +1,55 @@
+{
+  "nid": 1581,
+  "title": "Procurement of Main light spares, Solar Charger Controller, Stepper Motor & Controller for various Lighthouses under Goa Directorate.",
+  "summary": "GeM bid item specification document for buying metal halide lamps and ballasts, stepper motors and controller drives, connectors, PTFE wire and an MPPT solar charge controller for lighthouses under the Goa Directorate.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "EM-Goa-01001(18)/2/2022-EM",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Near GMC Stadium, Bambolim, Goa"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Metal Halide Lamp, double end, 230V/150W, cool white", "qty": null, "unit": null, "site": null},
+    {"item": "Metal Halide Ballast 230V/150W suitable for Sl. No. I, warranty 2 years", "qty": null, "unit": null, "site": null},
+    {"item": "Metal Halide Lamp, double end, 230V/70W, cool white", "qty": null, "unit": null, "site": null},
+    {"item": "Metal Halide Lamp, single end, 230V/70W, cool white", "qty": null, "unit": null, "site": null},
+    {"item": "Metal Halide Ballast 230V/70W suitable for Sl. No. 2 and 3, warranty 2 years", "qty": null, "unit": null, "site": null},
+    {"item": "Stepper Motor, torque 10 kg-cm, as per sample of existing motor", "qty": null, "unit": null, "site": null},
+    {"item": "Stepper Motor, torque 45 kg-cm, as per sample of existing motor", "qty": null, "unit": null, "site": null},
+    {"item": "Spare male/female connectors compatible with stepper motors and controllers (Sl. VI-VII, IX-X)", "qty": null, "unit": null, "site": null},
+    {"item": "Motor controller drive unit for 45 kg-cm stepper motor", "qty": null, "unit": null, "site": null},
+    {"item": "Motor controller drive unit for 10 kg-cm stepper motor", "qty": null, "unit": null, "site": null},
+    {"item": "Teflon coated (PTFE) copper wire 2 sqmm for connecting MH lamps to ballasts", "qty": null, "unit": null, "site": null},
+    {"item": "MPPT Solar Charge Controller 40A, 12/24V, 5V USB port, large LCD, warranty 2 years", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of any Nationalized Bank in favour of The Director of Lighthouses and Lightships, Goa, payable at Goa (amount not printed); eligible MSME bidders may submit Bid Securing Declaration (Form 1) instead."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": "2 years for MH ballasts and MPPT controller; 3 years for stepper motors and controller drives"},
+  "dates": {"published": "2024-04-23", "pre_bid": null, "bid_submission_end": null, "bid_opening": null},
+  "eligibility": [
+    "Company registration certificate",
+    "Self-attested experience certificate for relevant electrical works/supply",
+    "Original EMD or Bid Securing Declaration (MSME)",
+    "Technical details/brochures of items proposed; point-by-point compliance with specifications, deviations to be raised only in pre-bid meeting"
+  ],
+  "specs": [
+    "Stepper motor 10 kg-cm: 2.8A bipolar 4-wire, shaft dia 6mm, frame 56x56mm, height 75mm, min 3m cable with connector, 3 yr warranty",
+    "Stepper motor 45 kg-cm: 6A bipolar 4-wire, shaft dia 12mm, frame 86x86mm, height 95mm, min 3m cable with connector, 3 yr warranty",
+    "Controller drive units: 230V AC and 12V DC input, overvoltage/overcurrent/short-circuit protection, enable/direction/start-stop toggles, lockable speed pot with 4-digit RPM meter, enclosed with fans, 3m motor cable",
+    "Items must match existing systems; bidders advised to visit Aguada Lighthouse, North Goa"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Bid Documents_Mainlight spares_0.pdf", "pages": 5, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only the GeM item specification document (cover, spec table, additional terms, Bid Securing Declaration format); no GeM bid number, quantities, estimate, EMD amount or dates. OCR text layer garbled (file number read as BM-Goa-O1OO1), pages rendered and read visually. Signed by Director-in-Charge. Listing gives start null, end and opening 2024-05-17."
+}

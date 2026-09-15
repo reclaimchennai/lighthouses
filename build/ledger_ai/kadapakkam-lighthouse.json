@@ -1,0 +1,41 @@
+{
+  "slug": "kadapakkam-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Kadapakkam Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2013,
+  "alol": "F 0929",
+  "position": {"lat_text": "12° 16' 31.4\" N", "lon_text": "80° 0' 39.5\" E", "lat": 12.275389, "lon": 80.010972},
+  "elevation_m": null,
+  "characteristic_text": "White, Group 3 Flash Every 20 Second",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "0.45+4.55+0.45+4.55+0.45+9.55=20Sec",
+    "sequence_s": [0.45, 4.55, 0.45, 4.55, 0.45, 9.55],
+    "flash_duration_s": 0.45
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20 NM (unlabelled single range)"},
+  "tower": {"type": "RCC Round Tower", "height_m": 30, "colour_scheme": "Red and White Spiral Band"},
+  "optic": {
+    "make": "M/s Pharos Marine Automatic Power, Houston, TX", "model": "APRB-288", "type": null, "size": "Height- 470 mm, Diameter-536 mm", "order": null,
+    "panels": 8,
+    "rotation_device": "Inbuilt stepper motor with drive",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: Inbuilt stepper motor with drive; R.P.M. 3 RPM",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "230V/150W Single ended Metal Halide Lamp, 9000 lm"
+  },
+  "intensity_cd": 20000,
+  "racon": {"present": false, "code": null, "text": "All fields '-'"},
+  "ais": {"present": false, "text": "All fields '-'"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "Tamilnadu Electricity Board 3 phase/440V AC; Engine 1 and 2 (NIL); solar 1.5 KW for main light and 2 KW off grid"},
+  "issues": ["Elevation given as '--'", "Optic lists 'No. of lens 3' and 'No. of Panels 8 (Octagonal Type)'; 8 panels at 3 RPM does not match Gp Fl(3) every 20 s"]
+}

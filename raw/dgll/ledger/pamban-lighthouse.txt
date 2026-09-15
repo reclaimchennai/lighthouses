@@ -1,0 +1,152 @@
+                                 मास्टर लेज़र/MASTER LEDGER
+                                 पाम्बन दीपस्तंभ/Pamban Lighthouse
+क्रमसंख्या/                 नाम /Name
+   Sr.No                                                                        वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0900
+    2         स्थान/Position                     Lat.09° 17.2’ N, Long. 79° 13.3’ E
+    3         ऊंचाई/Elevation                    29 M (Above MSL)
+    4         अविलक्षण/Characteristic            Single White Flash in every 5 Seconds (0.9+4.1)
+
+    5         नॉविकलमाइलमे दूरी                  15 NM
+              Range in miles
+    6         दीपस्तं ििािर/L.H.Tower            Type                                 Circular Masonry tower
+                                                 Height                               15 M
+                                                 Colour Scheme                        Black and White Bands
+    7         ऑविकलउपकरण                         Optic
+              Optical equipment                  Make                                 SABIK
+                                                 Type                                 LED FLASHER
+                                                 Size                                 ---
+                                                 No. of lens                          ---
+                                                 Area of dioptric portion
+                                                 Area of catadioptric portion
+                                                 Divergence                           N/A (Horizontal)
+                                                 Main/Emergency                       2.5º (Vertical)
+                                                 Duration of Flash                    0.9 Sec
+                                                 Main /Standby/Emergency
+                                                 Pedestal                             N/A
+                                                 Rotation Device                      N/A
+                                                 R.P.M.                               N/A
+                                                 Illuminant
+                                                 Main                                 LED FLASHER
+                                                 Standby
+                                                 Emergency:                           ---
+                                                 Date of Installation                 14-11-2019
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                                 4300 cds
+              intensity                          Emergency
+    9         लें िनन /Lantern                   Diameter                             1.5 m
+                                                 Height of glazing                    1.07m
+                                                 No. of panes                         8
+                                                 Ventilators                          3
+    10        RACON                                   Sr. No                          N/A
+     Make                  Model              Code                                Band                           Date of
+                                                                                                                 Installation
+
+11   NAIS
+     Base Station                                   2 Nos-AIS1 & AIS2
+
+
+     Model                 Type               Power                               MMSI
+     R40                   Class A            AC-230V                             ----
+     Communication
+     Equipment
+     BSNL Lease Line       Band               Modem
+                                              BSNL Lease Line MODEM
+
+     DGPS
+     Transmitter Make      Frequency          Power Output            RS 1 ID     RS -II         Beacon          Date of        Date
+                                                                                  ID             ID              commis         of
+                                                                                                                 sioning        Rec
+                                                                                                                                apit
+                                                                                                                                aliza
+                                                                                                                                tion
+     N/A                   N/A                N/A                     N/A         N/A            N/A             N/A            N/A
+
+12   ऊर्ान केसाधन          Main Supply                                            TNEB Electric Main Supply 3 Ø 440
+     Source of energy                                                             v,50Hz
+                           Stand By                                               Solar Power 170 W/24 V × 3 Panels
+                           Power Source                                           Single Phase DG Set 15 KVA
+                                                                                  Make: Kirloskar
+                           Engine
+                           Make/Type                     Qty          Rating      No of                RPM               Cooling
+                                                                                  Cylinder
+                           Kirloskar                     1            20.5 BHP    2                    1500              Air
+                           Alternator
+                           Make/Type                     Qty          Rating      Voltage/Amp          Frequency         Phase
+                           Kirloskar                     1            15 KVA      230V/65.2 A          50Hz              Single
+                           Solar Plant (Off Grid)
+                           Capacity PV                   Number of Solar panels   Type                 Battery           Bank
+                           500 Wp                        3 Nos.                   Poly                 2V / 600 AH       24 V /
+                                                                                  Crystalline                            600AH
+                           Solar Plant for Main RACON                             N/A
+                           Capacity PV                   Numbers                  Type          Battery                  Bank
+
+
+13   स्वचावलतिोल्टे र्स्टे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model               Capacity         Input              Output                  Phase          Qty
+     SOUNDRY POWER        GLOBUS-             5 KVA            170 V-270 V        230 V                   Single         1 No.
+     SYSTEMS              170 V-270 V
+14   बैिरर
+     Batteries
+     Equipment            Type                Make             Volt               Amp. Hr.                Qty
+     PSS NAIS             Lead acid           Exide            12V                150 AH                  3 Nos.
+     Genset               Lead acid           Exide            12V                100 AH                  1 No.
+     UPS (Main Light)       Tubular Lead         Exide        2V                 600 AH           12 Nos.
+                            acid
+     Automation             ---                  ---         ---                 ---              ---
+     DGPS                   ---                  ---         ---                 ---              ---
+
+
+15   बैिररचार्न र/ Battery charger
+     Equipment               Make       Model Type                               Rating Qty
+     General Purpose               ---   ---                        ---           ---            ---
+     Automation                    ---   ---                       ----           ---            ---
+16   इं वर्ट रInverter /UPS
+     Equipment Nos           Make Model       Type                         Rating      Qty    Input             Outp
+                                                                                                                ut
+     Main Light    01       Exide          ---           True sine wave    1450 VA     1      24 V DC &         230V
+                                                                                              230 V AC          AC
+     NAIS PSS      01       APC      SRC 1KI - IN        Pure sine wave    1 KVA       1      36 V DC &         230V
+                                                                                              230 V AC          AC
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE      PLC               HMI                  Power Supply VSAT                        Modem        Band
+     RDS       Allen-Bradley     RENU                 1450 VA UPS 1.25 m dia                   Hughes
+                                 Electronics Make                      Parabolic reflector
+18   आविशमनउपकरण                             Type of Extinguisher      Capacity               Nos       Make
+     Fire Fighting Equipment                 DCP Type                  5 Kg                   1
+                                             Co2                       4.5 Kg                 1
+                                             Foam Type                 9 Ltr                  1
+19   संचार                                   BSNL   FTTH  Connection
+     Communication                           Landline No: 04573-299430
+20   र्लपूवतन                                Open Well (Fitted with 1 HP Jet Motor) - 01 No.
+     Water Supply                            Bore Well (Fitted with 1 HP Jet Motor) - 01 No.
+21   िू वम                                   Area                                          0.47 hectare
+     Land                                    Demarcation                                   Masonry Brick Wall
+22   इमारतें                                 Technical Building (Power House, Office and Store Room) – 1 No.
+     Buildings                               Inspection Quarters – 1 No.
+                                             LHA Quarters – 1 No.
+                                             Pump House – 1 No.
+23   कंपाउं डलाइि                            Solar Powered LED Street Lights fitted
+     Compound Lights                         on G.I Pole - 6 Nos
+24   सीसीिीिीकमे रा                          Camera                                        07 Nos
+      CCTV CAMERA                            DVR                                           01 No.
+25   स्टाफ                                   Sl. No           Designations
+     Staff                                   1                Navigational Assistant Grade - II
+26   पहुँ चने कामाध्यम/Mode of approach By rail up to Pamban and then by road 2 Kms up to Lighthouse.
+27   उपलब्धसुविधाए                               Post Office, Dispensary, High School, Police Station all are within 2
+     Facilities available                        Kms.
+28   डाकपता                                      Pamban Lighthouse,
+     Postal address                              Pamban Post,
+                                                 Ramanathapuram District,
+                                                 Tamil Nadu State
+                                                 Pin: 623 521.
+29   मू ल्यकाब्योराCost details      N/A
+     (At the time of Construction)
+
+30   प्रितननमे लाने कादे नां क       First Commissioned on: 21.04.1846
+     Date of commissioning           Renovated in the years 1901, 1923, 1987 & 2004 (Tamil Nadu
+                                     State Government handed over the Lighthouse to The Directorate
+                                     of Lighthouses and Lightships, Chennai on 03.03.2004).
+

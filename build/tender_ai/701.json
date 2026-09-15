@@ -1,0 +1,46 @@
+{
+  "nid": 701,
+  "title": "Furnishing items for new inspection quarter at Dolphin's Nose Lighthouse cum DGPS Station",
+  "summary": "E-tender for supplying and fixing furniture and furnishing items for the new inspection quarter at Dolphin's Nose Lighthouse cum DGPS Station, Yarada Hill, Visakhapatnam, issued by the Directorate of Lighthouses and Lightships, Visakhapatnam.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MT-VSP-02002(02)/5/2022-Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Port Residential Area, Saligramapuram, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Dolphin's Nose Lighthouse cum DGPS Station, Post Box No. 134, Gandhigram Post Office, Yarada Hill, Visakhapatnam", "station_id": "dolphin-nose-lighthouse", "kind": "lighthouse", "work": "Furnishing items for new inspection quarter"}
+  ],
+  "scope": [
+    {"item": "Furnishing items for new inspection quarter", "qty": null, "unit": null, "site": "Dolphin's Nose Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1906597.0,
+    "emd_inr": 38200.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST and all other taxes. EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Visakhapatnam, valid three months from technical bid opening. EMD not exempted for any bidder (NSIC/MSME exemption explicitly withdrawn); EMD forfeited if timelines not followed. Tender fee Nil."
+  },
+  "period": {"completion": "60 days from the commencement of work", "bid_validity": "120 days from date of opening of financial bid", "warranty": null},
+  "dates": {"published": "2022-11-29", "pre_bid": "2022-12-06", "bid_submission_end": "2022-12-13", "bid_opening": "2022-12-14"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Government/PSU/autonomous bodies",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%",
+    "Similar works: providing, fabricating and fixing wooden furniture/furnishing items including interior decoration in residential/non-residential buildings; joint venture with reputed wooden furniture manufacturer allowed if experience lacking",
+    "PAN and GST registration; key technical personnel; unconditional tender undertaking (Annexure V)",
+    "Tender acceptance letter (Annexure IV); non-blacklisting affidavit",
+    "Income tax returns for last three years",
+    "List of relatives serving in Ministry of Shipping or DGLL",
+    "Average annual turnover of last three financial years at least 30% of estimated cost",
+    "Detailed activity chart/plan; self-assessing technical evaluation sheet"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "a7096e6a-a4a8-43bc-8114-95f97836432e.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only Section I NIT pages (printed 'Page 3 of 106' to 'Page 7 of 106') of a 106-page tender document; no BOQ or item list. Bid download/submission 29.11.2022 18:00 to 13.12.2022 15:00; bid opening 14.12.2022 16:00. Heavy vehicles permitted up to site; damage to pathway tiles/paver blocks/plants to be repaired by contractor. No extension for document submission. Listing bid_opening 2022-11-29 is actually the notice date."
+}

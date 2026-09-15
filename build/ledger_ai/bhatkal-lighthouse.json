@@ -1,0 +1,41 @@
+{
+  "slug": "bhatkal-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Bhatkal Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1959,
+  "alol": "F 0648",
+  "position": {"lat_text": "13° 57.9' N", "lon_text": "74° 32.0' E", "lat": 13.965, "lon": 74.533333},
+  "elevation_m": 56,
+  "characteristic_text": "fl (2) W 20 Sec. (fl 0.23, Oc 4.77, fl 0.23, ec. 14.77)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "fl 0.23, Oc 4.77, fl 0.23, ec. 14.77",
+    "sequence_s": [0.23, 4.77, 0.23, 14.77],
+    "flash_duration_s": 0.7
+  },
+  "sectors_text": "absurd by Hog Island 1298 to 132° x 3'",
+  "range": {"luminous_nm": 20, "geographical_nm": 19, "text": "Luminous: 20 NM, Geographical: 19 NM"},
+  "tower": {"type": "Square Masonry Tower", "height_m": 14, "colour_scheme": "White"},
+  "optic": {
+    "make": "B.B.T.", "model": null, "type": "Fresnel Lens, Revolving", "size": "250 mm", "order": "4th order",
+    "panels": 2,
+    "rotation_device": "Dual Stepper Motor 40 Kgcm with auto change over",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving; Rotation Device: Dual Stepper Motor 40 Kgcm; R.P.M. 3",
+    "divergence_horizontal_deg": 12.54,
+    "divergence_vertical_deg": 9.12,
+    "divergence_text": "Horizontal - 12.54°, Vertical - 9.12°",
+    "illuminant": "3 x 150W Metal Halide Lamp cluster; Emergency 220V, 1000 W electric lamp"
+  },
+  "intensity_cd": 123505,
+  "racon": {"present": false, "code": null, "text": "RACON n/a (Sr. No 6295; make, model, code, band all --)"},
+  "ais": {"present": true, "text": "NAIS Base Station R40 SAAB, 230V, MMSI 4192237; VSAT 2.4m EX-C"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": true, "text": "Mains and Standby rows '-'; Kirloskar EA-16 engine with 7.5 kVA alternator; solar plant 3 x 200Wp monocrystalline"},
+  "issues": ["Duration of Flash given as 0.70 Sec but sequence lists fl 0.23", "Sector/obscured text 'absurd by Hog Island 1298 to 132° x 3'' is garbled (likely 'obscured ... 129° to 132°')", "RACON heading says n/a but a Sr. No 6295 is listed", "Mains supply row shows '-' although a voltage stabiliser is listed", "No. of lens: 2 (each 135°)"]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "antervedi-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5, 6, 7],
+  "name": "Antervedi Lighthouse cum D.G.P.S. Station",
+  "station_type": "lighthouse",
+  "established_year": 1971,
+  "alol": "0957",
+  "position": {"lat_text": "16° 19' 01.118\" N", "lon_text": "81° 43' 32.844\" E", "lat": 16.316977, "lon": 81.725790},
+  "elevation_m": 29,
+  "characteristic_text": "Flash (2) White every 15 Sec (FL0.4+ec3.4+FL0.4+ec10.8)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "FL0.4+ec3.4+FL0.4+ec10.8",
+    "sequence_s": [0.4, 3.4, 0.4, 10.8],
+    "flash_duration_s": 0.41
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 27, "geographical_nm": 15.5, "text": "Luminous 27 NM, Geographical 15.5 NM"},
+  "tower": {"type": "Square Masonry Tower", "height_m": 26, "colour_scheme": "Red & White bands"},
+  "optic": {
+    "make": "M/s. BBT", "model": null, "type": "Revolving", "size": "300 mm (4th order)", "order": "4th",
+    "panels": 4,
+    "rotation_device": "Twin stepper motor Direct drive system (2 Nos Unique make stepper motor 20 Kgs, 2 Nos stepper motor controller)",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Size: 300 mm (4th order) Revolving; Rotation Device: Twin stepper motor direct drive; Rotation Speed 02 RPM",
+    "divergence_horizontal_deg": 4.966667,
+    "divergence_vertical_deg": 2.016667,
+    "divergence_text": "Horizontal 4° 58', Vertical 2° 1'",
+    "illuminant": "3 x 150 Watt Metal Halide Lamps in Cluster form"
+  },
+  "intensity_cd": 939600,
+  "racon": {"present": true, "code": "B", "text": "Make Pharas Marine Automatic Power, Sr.No. 20180761SJP, Morse Code B, commissioned 03/11/2018"},
+  "ais": {"present": true, "text": "NAIS: M/s. SAAB AIS R40 Base Stations S.No.5218 and S.No.5273, commissioned 21/12/2012"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APEPDCL mains 440V 3 phase; 3KW off-grid solar for main light; 15KW on-grid solar for LH & DGPS; 2 Kirloskar 32 HP DG sets with 25 KVA alternators"},
+  "issues": ["No. of panels given as '4 (2 group of 2)'", "Duration of flash stated 0.41 s while sequence gives FL0.4", "Year of first light 1971 but Date of Commissioning 15/12/1984"]
+}

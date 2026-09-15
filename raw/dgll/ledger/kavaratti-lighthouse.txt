@@ -1,0 +1,199 @@
+                                         मास्टर ले जर/MASTER LEDGER
+क्रमसं ख्या
+ / Sr.No               नाम /Name                                            वििरण/Description
+    1         ए.एल.ओ.एल/A.L.O.L.              F-0755.5
+    2         स्थान/Position                  Latitude 10o 33.7˝N , Longitude72o 38.9˝ E
+    3         ऊंचाई/Elevation                 40 M (Above MSL)
+    4         अविलक्षण/Characteristic         Fl (1) White 5 Sec (0.33+4.67 =5.0sec)
+    5         नॉविकल माइल मे दू री
+                                              Luminous 21.0 Nm, Geographical17.4 Nm
+              Range in miles
+              दीपस्तं ि िािर/L.H.Tower        Type                                    Circular tower on RCC Base
+    6                                                                                Commissioned on 1988
+                                              Height                                 38 M
+                                              Colour Scheme                           White Band
+              ऑविकल उपकरण                     Optic
+              Optical equipment               Make                                   ANA, Newdelhi, India
+    7                                         Type                                   Revolving Beacon
+                                              Size                                   250mm / 4th Order
+                                              No. of lens                            2
+                                              Area of dioptric portion               -----
+                                              Area of catadioptricportion            -----
+                                              Divergence                             Horizontal : 8°      Vertical : 4°
+                                              Main/Emergency
+                                              Duration of Flash
+                                                                                     0.33 Sec
+                                              Main /Standby/Emergency
+                                              Pedestal                               Ball bearing type in Mercury
+                                                                                     float
+                                              Rotation Device                        Stepper motor (20kg/cm)
+                                              R.P.M.                                  6
+                                              Illumining
+                                              Main                                   230V / 150W cluster of Metal Halide
+                                                                                     Lamp (3Nos)
+                                              Standby                                ---
+                                              Emergency:                             -----
+                                              Date of Installation                   14.02.2002 ( converted from PRB-
+                                                                                     42)
+    8         प्रिािी बीम तीव्रता/Effective   Main                                   74560 Candelas
+              beam intensity                  Emergency
+    9                                         Diameter                               3M
+              लें िनन /Lantern                Height of glazing                      1.96 M
+                                              No. of panes                           12 Nos
+                                              Ventilators                            12 Nos
+    10        RACON                                Sr. No : 6254
+              Make                            Model        Code                      Band              Date of
+                                                                                                       Installation
+              Tideland                            K                       X&S
+              Equipment was removed and sent to DLL Cochin,for repair on 11.04.2021. Necessary NTM was
+              issued by DLL Cochin
+    11        NAIS ( NAIS - RCC )
+          Base Station                   2 Nos-AIS1 & AIS2
+
+          Model                         Type           Power
+          R40                           Class A        AC-230V & DC-24V
+          Communication
+          Equipment
+                                                                        Video
+                                                                                                       Battery bank
+          VSAT Antenna                  Modem          Servers          conferen      UPS
+                                                                                                       for UPS
+                                                                        cing unit
+           3.8m dia                     Datum - 6      Dell-6 Nos                     5KVA-1No        Exide-
+                                                                        Polycom
+           Parabolic                    Nos                                           10KVA- 1NO      Powersafe
+           reflector                                                    –1 set                        12V, 65Ah
+                                                                                                      batteries
+                                                                                                      20 Nos
+                                        Mains                                         440V, 3ø AC Supply
+                                        Emergency Power Source                        DG Set 25 KVA make Kirloskar
+     12   ऊर्ान के साधन/Source of
+                                        Engine 1
+          energy
+                                        Make/Type                   Qty        Rati   No of Cylinder   RPM        Cooling
+                                                                               ng
+                                        Kirloskar                   1          32     3                1500       Air
+                                                                                          B
+                                                                                          H
+                                                                                          P
+                                        Alternator
+                                        Make/Type                   Qty        Rati   Voltage/Amp      Freque     Phase
+                                                                               ng                      ncy
+                                        Kirloskar                   1          25     230V / 34.7A     50Hz       Three phase
+                                                                               KVA
+                                        Solar Plant : NIL
+
+                                        Capacity PV                 Numbers           Type              Batt      Bank
+                                                                                                        ery
+                                        NIL
+                                        Solar Panel for RACON
+                                        Capacity PV                 Numbers           Type              Battery
+                                        70 W/12V                    01 No.            TBP               01 No
+                                                                                                        12V/100AH.
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र Automatic Voltage Stabilizers
+          Make                    Model    Capacity              Input                Output           Phas       Qty
+                                                                                                       e
+                              N/A        5KVA                       170-270V          230V             Singl      1
+          SUPRA
+                                                                                                       e
+                              N/A        3KVA                       170-270V          230V             Singl      1
+          ITL
+                                                                                                       e
+          बैिरर Batteries
+          Equipment           Type       Make                           Volt          Amp/Hr             Qty
+          PSS NAIS            SMF        Exide                          12V           180 Ah              2
+14        Genset              SMF        Exide                          12V           90 Ah               1
+          Main Light          Tubula     Exide                          12V           150 Ah              3
+                              r
+          Stepper Motor       Tubula     Exide                          12V           150 Ah              1
+                              r
+          RACON               VRLA       HBL                            12V           100Ah               1
+                              Gel
+          बैिरर चार्न र/ Battery chargers
+                Equipment                           Make                  Type                Rating                   Qty
+     15   RACON                               Conswigear                                    0-50V, 25A                   01
+          Stepper Motor                           AE                                        0-100V. 20A                  01
+          Spare                               Local made                                    0-15V, 25A                   01
+          इं वर्ट र Inverter /UPS
+          Equipment              Make                      Model          Type      Rating      Qty       input   Output
+                                                                                                          12 V    230V AC
+                                                                                                          DC
+     16   Main Light            Su-Kam                     Shyni         online     900VA          4      &
+                                                                                                          230
+                                                                                                          AC
+                                                                                                          24 V    230V AC
+                                                                                                          DC
+          NAIS PSS              Su-Kam                     Shyni         online     1.5 KVA        2      &
+                                                                                                          230
+                                                                                                          AC
+          स्वचलन उपकरण
+          Automation Equipment
+     17   MAKE             PLC                  HMI                 Power Supply       VSAT                Mod    Band
+                                                                                                           em
+
+                                                                                       1.2m dia
+                                                Renu                                                       Hug
+          RDS                   Micrologix                          24 V DC            Parabolic
+                                                Electronics                                                hes
+                                                                                       reflector
+                                                PVT LTD
+                                             Type of Extinguisher                      Capacity            Nos       Make
+                                                                                       3.2 kg               2     Bharat
+                                             DCP Type
+          आवि शमन उपकरण                                                                2 Kg                 2     Andex
+18        Fire Fighting Equipment            Water Co2                                 9 Ltr                2     Safepro
+                                             Foam Type                                 9 Ltr                1     Bharat
+                                             Co2                                       4.5Kg                4     Flameb
+                                                                                                                  litz
+          संचार                              BSNL land line 04896-262286
+19                                           email: kavarattilighthouse@gmail.com
+          Communication
+     20   र्ल पूवतन
+                                             01 Nos Open well , 4 Nos rain water collection tank provided.
+          Water Supply
+     21   िू वम Land                         Area
+                                             Demarcation                                                 Masonary
+                                                                                                         compound
+                                                                                                         wall
+                                                                                       Office building consisting of
+                                                                                       Office, RCS, NAIS-RCC, Store,
+                                                                                       Power room, Recreation
+          इमारतें                                                                      room in ground floor and two
+     22   Buildings                          RCC Structure: 05 Nos                     Guest rooms and one
+                                                                                       Navigational           assistant
+                                                                                       quarter at first floor
+                                                                                       Two storey building for
+                                                                                       Navigational           Assistant
+                                                                                       quarters. Two storey building
+                                                                               for LHA quarters. Electical
+                                                                               meter room Security room
+                                                                               cum wash room
+
+
+
+
+23   कंपाउं ड लाइि Compound          LED Light fitted on G.I Pole-3 Nos
+     Lights                          Gate Lights -4 Nos
+24   सीसीिीिी कमे रा CCTV
+                                     Nil
+     CAMERA
+25   स्टाफ                           Sl. No                        Designations
+     Staff
+                                     1                           Navigational Assistant Gr-II -2
+                                     2                           Navigational Assistant Gr-III -1 (contract
+                                                                 Basis)
+26   पहुँ चने का माध्यम              By Ship from Kochi or by fight from Kochi to Agatti then by
+     Mode of approach                ship/speed vessel from Agatti to Kavaratti.
+
+27   उपलब्ध सुविधाए                  Post office, Govt Hospital, Primary school, High School, Police
+     Facilities available            Station are available in Kavaratti Island.
+                                     Navigational Assistant Gr-I,
+                                     Kavaratti Lighthouse,
+28   डाक पताPostal address           Kavaratti island ,
+                                     UT of Lakshadweep
+                                     680 555
+29   मू ल्य का ब्योराCost details    Cost of construction: Rs.28,81,000/-
+     (At the time of Construction)   Cost of equipment : Rs. 3,19,000/-
+30   प्रितनन मे लाने का दे नां क
+     Date of commissioning               28.10.1988
+

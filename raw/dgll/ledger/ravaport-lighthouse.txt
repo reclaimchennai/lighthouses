@@ -1,0 +1,162 @@
+                             Ravaport Lighthouse
+                                 Estd.2013
+                       VISAKHAPATNAM DIRECTORATE
+                             MASTER LEDGER
+
+1. Name                           : RAVA PORT LIGHTHOUSE
+     Sr.No.
+2.                                : 0952.5
+     (as per A.L.O.L)
+                                    Lat: 16o 29' 60” N
+3. Position                       :
+                                    Long: 82o 16' 05” E
+4. Elevation                      : 32.5 Mtr
+                            4 FL (W) every 20Seconds
+                            (Fl 1sec+2sec ec+ Fl
+5. Characteristic         :
+                            1sec+2sec ec+ Fl 1sec+2s ec
+                            + Fl 1sec+10sec ec)
+6. Range in nautical miles
+         i)           Luminous     : 15 NM
+      ii)   Geographical : 12 NM
+7. Lighthouse Tower
+      i)    Type         : Circular FRP Tower
+         ii)Height          : 30 Mtr
+         iii)
+            Colour
+                            : White
+            Scheme
+8. Light Beacon (flashing)
+a)    i)    Make           : M/s. Aero marine
+         ii)          Model        : SL-155
+         iii)         Type         : LED Light Beacon
+
+b)      Pedestal                     : 1.2m height G.I
+c)       Illuminant
+                i)       Main/Service : 18 W LED Light (Sea lite make SL155)
+                ii)      Standby      : Nil
+           iii)     Emergency         : Nil
+
+d)    Effective Beam Intensity
+         i)    Main/Service : 9,000 cds.
+9.    Energy Source
+         A) APEPDCL Mains             : single phase 220 V AC, 50Hz.
+         B) Green Energy          : 3KW off grid solar power plant for Main Light
+           i)     Solar panels    :      12 Nos. 24V/250W(Vikram make)
+         ii) Battery Bank :       12 Nos. 12V /150Ah (Exide SMF)
+         iii) PCU            : HBL Make 3KVA /48V PCU.
+         iv) Date of
+                             : 18/01/2017
+              installation
+10. Details of Diesel Engine
+      Generators             : One Canopy type
+       Model No                   : KG10AS1-EA16
+       Make/Type                  : Kirloskar
+       H.P.                       : 10 KVA
+       No. of Cylinder            : 2 Nos.
+       RPM                        : 1500
+11. Details of Alternator
+      Make                       : Kirloskar
+       Model No                  : BS1J010D864-H
+       KVA                       : 12.5
+       Voltage                   : 230 V
+       Frequency                 : 50 Hz
+       Phase                     : Single
+       RPM                       : 1500
+
+       Automatic Voltage
+12.                              : 1 No.
+       Stabilizers
+       Make                      : supra- hitech
+       Model                     : SH-1100
+       Capacity                  : 10 KVA
+         Input                     : 170-270 V
+         Output                    : 230 V
+13. AMF Panel
+     Make                          : Elect India
+         Model                     : EMF-15M3G1-ICFTDM02
+         Capacity                  : 15 KVA, 3 phase
+14.     Automation of Lighthouse.
+           i)        Make          : M/s Recktronic Devices & Systems, Pune.
+           ii)    RDS Panel        : 1No in power house.( s.no.1607)
+           iii)   V-SAT Dish
+                                   : 1.2 Mtr dia
+                  Size
+           iv) Date of
+               commissioning       : 26/01/2017
+15.     Street Lights              : 19 Nos. Solar Street lights with LED
+
+
+ 16.             Inverters / UPS       : 1 No.
+                 Make                  : Hykon
+                 Capacity              : 2 KVA
+                 Input                 : 24 V DC
+                 Output                : 230 V AC
+  17.       No. of Batteries           : 2 Nos.
+                 Make                  : Exide
+                 Capacity              : 12 V – 150 AH
+
+18. Battery charger                   : 12V DC 10A
+     Make                              : Kirloskar
+
+
+19. Firefighting equipment
+    Fire Extinguishers
+       i)       D.C.P. type
+                                       : Nil
+           (3.2kg Capacity)
+       ii)      Foam type
+                                       : Nil
+           (9 litres capacity)
+          iii)      Fire Buckets       : Nil
+      Communication                NA-II Mobile No:9573274834
+20.                           :
+      Facility                     e-mail : Ravaport-vizag@dgll.nic.in
+
+21. Water Supply              :        i)       Rain Tank-3 Nos.
+                                       ii)      Ground Water
+                                       iii)     connection from Rural Scheme
+
+
+22. Land
+        i)      Area              : 1.3 Acres
+        ii)     Demarcation : Masonry Compound wall of 8 ft. height
+        iii) No. of fruit
+                            : Nil
+             trees
+        iv) No.of non fruit
+                            : 5 Nos.
+             bearing Trees
+
+                                    Power house, Store & Office Room, Inspection
+23. Buildings                     : quarter, NA II quarter, LHA quarter, Pump house
+                                    with Under Ground Sump
+
+24. Staff                     : NA-II – 1 No., LHA – 1 No. (Vacant)
+
+                                By Rail up to Rajahmundry and then by bus up to
+25. Mode of approach          : Amalapuram and then by Taxi/auto up to
+                                Lighthouse 29km.
+
+26.    Facilities available   : a) Post Office within 4 km (S. Yanam)
+                                    b) Govt. Hospital within 29 km (Amalapuram)
+                                c) Govt. School within 3 km (S. Yanam)
+                                 d) Nationalized Bank within 27 km
+                                    (Amalapuram)
+27.    Postal Address         : The Navigational Assistant Gr-II,
+                                     Rava Port Lighthouse,
+                                     S.Yanam P.O, Uppalaguptham (M),
+                              EAST Godavari District
+                              Andhra Pradesh, Pin: 533 213.
+28.    Cost Details
+
+       i) Construction      : Rs. 1,46,71,976/-
+       ii) Cost of equipment : 2,47,100/-
+       Year of first Light
+29.                          : 27-12-2014
+       Commissioned
+
+      Subsequent
+30.                       : 08-11-2017
+      Innovation (2nd)
+

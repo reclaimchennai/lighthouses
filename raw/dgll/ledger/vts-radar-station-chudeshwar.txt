@@ -1,0 +1,312 @@
+                    मास्टर लेजर/ MASTER LEDGER
+
+क्रम संख्या/                      नाम /Name
+                                                                  वििरण/Description
+  Sr. No
+  1                          ए.एल.ओ.एल/A.L.O.L.                ------NA------
+ 2                               स्थान/Position                LAT 22°21.858'N,
+                                                               LONG 69°32.605'E
+ 3                              ऊंचाई/Elevation                      60Meter
+ 4                         वी टी एस टावर/VTS Tower             1)Type: RCC Circular
+                                                               Tower
+
+                                                               2)Height:60Meter
+
+                                                               3)Colour Scheme:4 Red &
+                                                               3 White bands
+
+वी टी एस उपकरण/ VTS EQUIPMENTS
+क्रम संख्या/ वििरण/Description
+                                                                 Qty    Location
+Sr. No
+               X-Band RADAR Scanner
+      i.                                                          01    Eqpt room
+               Make: Terma, Scanter 2001
+               X-Band RADAR Trans receiver                             Eqpt room
+               Scanter 2001, 9410MHz
+               RxTx 15: Type: 262001-250, REV: A, Serial
+      ii.      No: 3001                                           02
+               Voltage: 150-242V, Frequency: 47-63 Hz,
+               Power< 500VA
+
+               RxTx 16: Type: 262001-251, REV: A, Serial
+               No: 3001
+               Voltage: 150-242V, Frequency: 47-63 Hz,
+               Power< 500VA
+               ACU (Antena Control Unit)                               Eqpt room
+     iii.      Type: 262382-001, REV: H, Serial No: 3022          01
+               Voltage: 3*400 v, Frequency: 47-63 Hz, Power:
+               4KVA
+               CSET                                                    Eqpt room
+     iv.       CSET 01, Make: KONSEBERG, Serial                   02
+               No: 3042651016 CSET 02, Make:
+               KONSEBERG, Serial No: 3468251120
+               RSD (RADAR Service Display)
+     v.                                                           01   Eqpt room
+               Make: HP Compaq, Serial No: 4597
+                                                                 Eqpt room
+ vi.     Cisco Switch
+                                                           01
+         Type: Catalyst 2960 Series, Serial No:
+         FOC1510X0H4
+         KVM Switch                                              Eqpt room
+ vii.                                                      01
+         Make: ATEN INTERNATIONAL CO.LTD, Serial
+         No: F3A8M023MFT0368
+viii.    Rack Manager                                      01    Eqpt room
+         Make: Austin, Serial No: CN1534X296
+ ix.                                                       01    Eqpt room
+         19’’ VALL Rack, HITT
+ x.                                                        01    Eqpt room
+         19’’ COMMTEL Rack TCIL
+         Microwave Antena                                        On tower wall
+ xi.                                                       02
+         Make: Faini Telecommunication System,Serial
+         No (01): 08KIMWA0000120057 Serial No (02):
+         08KIMWA0000120058
+         Mini Link 6363 32L RAU
+ xii.                                                      02
+         Make: Ericsson, Serial No: CR9N993373 Make:
+         Ericsson, Serial No: CR9P727288
+xiii.    Mini Link 6691 IDU
+         Make: Ericsson, Serial No: CE8A318088
+xiv.     48 V DC Power Supply Unit                         01    Eqpt room
+         Make: Mean Well, Serial No: EB93233021
+ xv.     6KVA UPS                                          01
+                                                                 Eqpt room
+         Make: M/s NGBPS LTD, Serial No: JH1024
+
+         Battery Bank of 6KVA UPS                                Eqpt room
+xvi.     Make: POWERSAFE, Sealed Lead-Acid                 20
+         Battery,Type: EP 26-12E, Volts: 12V, Capacity:
+         26Ah Date of Installation:19/06/2013
+xvii.    15KVA UPS                                         01    Eqpt room
+         MAKE: SCHNEIDER ELECTRIC, Serial No:
+         9E1904T10204
+         Battery Bank of 15KVA UPS Make: APC,                    Eqpt room
+xviii.   Rating: 12V, 26Ah Date of                         28
+         Installation:30/08/2019
+         Battery bank of 30KVA Solar Inverter                    Battery room
+         Make: HBL Power System Ltd, Charge Voltage:
+xxi.                                                       180
+         2.370 V perCell,
+         Model: 360V/600Ah, Date of Installation: 21-11-
+         2015
+
+
+
+         40KVA AMF PANEL                                           Power House
+ xx.     Make: Indotech Industrial Solutions Pvt Ltd.         01
+         Pune,Serial No:4473
+         LVDB Panel                                                Power House
+xxi.                                                          01
+         Make: Indotech Industrial Solutions Pvt Ltd.
+         Pune,
+         Diesel Generator
+xxii.
+          1. No. of Standby Diesel Generators: 02
+
+          2.
+            A) Details of Engine:
+         Sr. Engine EngieType Make      Date of Ratingkw/hp RPM
+         No No.                         MFG.                     Power House
+         1   1120312 HA 494 T KIRLOSKAR JULY 41.21/56       1500
+                                        2011
+         2   1120310 HA 494 T KIRLOSKAR JULY 41.21/56       1500
+                                        2011
+
+            B) Details of Alternator:
+         Sr Frame Make       KV Volts   Amp Freq   RP   M/C No.
+         N                   A          s          M
+         o
+         1 KG18E Kirloskar   40   415   55.6 50Hz 1500 CS3E011G133198
+         2 KG18E Kirloskar   40   415   55.6 50Hz 1500 CS3E011G133196
+         DG Battery
+            (1) DG1 Battery,
+                Make: Exide Express, Rated
+                Capacity: 130AhSerial No:
+                A3C9B0171853C93                                    Power House
+xxiii.          OCV: 12.58V, Battery Type: FXPO-              02
+                XP1300
+                Date of Installation: 04-07-2019
+            (2) DG2 Battery,
+                Make: Exide Express, Rated
+         Capacity: 130Ah Serial No:
+         A1F8C3044141G81,
+                OCV: 12.72V, Battery Type: FXPO-
+                XP1300
+         Date of Installation: 21-08-2018
+         Battery Charger                                           Power House
+            (1) For DG1 Battery
+xxiv.           Make: NHP Electronics, Serial No:             02
+                2341908200
+            (2) For DG2 Battery
+           Make: NHP Electronics, Serial No: 3251611296
+
+
+
+Energy source
+
+          Main supply voltage 230 V, 1 Phase, 50HZ from
+          PGVCL
+          Diesel Engine Generator
+          Kirloskar – 02 Nos. 40 KVA,
+          HA494T.
+
+Off Grid 30 KW Solar Systems:
+
+           PV Module                                               Compound
+           Make: Su-Kam Power Systems LTD Power (P
+           max): 250w,
+                                                            120
+           Open Circuit Voltage (Voc): 37.25, Short Circuit
+           Current (Isc): 8.7A
+          Current at maximum power (Ipm): 8.35A,
+          Voltage at
+          maximum power (Vpm): 29.95V
+          Date of commissioning: 03-11-2015
+           30 KVA Solar Inverter
+             (1) Make: Su-Kam, Model:
+                 30KVA/360V SI Serial
+                 No:                                               Power House
+                 501F051265191015000                          02
+                 2
+                   Supplied by: M/s Neelam Micro
+                      Electronics, Rajkot
+                  Date of commissioning: 03-11-
+          2015
+             (2) Make: Su-Kam, Model:
+                 30KVA/360V COL NEW Serial
+                 No: 501F0542002912170001
+                 Supplied by: M/s Deepee
+                 Electronics, Indore Date of
+                 commissioning: 11-09-2018
+
+Automatic Voltage Stabilizers-
+
+          1.Make: Servo, Serial No: NA, Capacity: 16
+          KVA
+          2.Make: Servo, Serial No: NA, Capacity: 16
+          KVA
+           3.Make: Servo, Serial No: 1301054, Capacity:
+           16 KVA (non-ops)
+           4.Make: Delta, Serial No: 896/417, Capacity: 10   09   Power House &
+           KVA (non-ops)                                          Store room
+           5.Make: Automatic Electric Ltd, Serial No:
+           T477/3757,
+                      Capacity: 15 KVA (non-ops)
+           6.Make: Uma Powertronics pvt ltd, Serial No:
+           16020010,
+                      Capacity: 15 KVA
+           7.Make: Uma Powertronics pvt ltd, Serial No:
+           UA-16020014
+                      Capacity: 15 KVA
+           8.Make: KRYCARD, Model: SP7070, Serial No:
+           S20K167070001
+                      Capacity: 16 KVA.
+           9.Make: KRYCARD, Model: SP7070, Serial No:
+           S20K167070002
+                   Capacity: 16 KVA
+HSD oil storage tank:
+
+
+           One number 12000ltrs.Capacity HSD oil
+           storage tank has been provided insidethe
+           campus in the year 2011
+
+Lift:
+
+           Inside the 60M high RCC radar tower lift has
+           been installed as per below  specification:
+
+                 Make: Trio Elevators Co Ltd, Model: EH-
+                  150G
+                 Serial No: EH01663 RH
+                 Motor: 3-ɸ induction motor 5.5KW,
+                 Serial No: 5000001965
+                 Capacity: 408 Kg
+                 Passenger: 06
+                    The License valid up to 23/11/2025.
+CCTV:
+
+
+                    CCTV cameras have also been
+                    installed on dated 15/03/2016.
+
+                      1) Bullet cameras               : 08
+                         nos.
+
+                      2) PTZ camera                   : 01
+                             no.
+
+                             3)DVR
+           : 01 no.
+
+COMPOUND STREET LIGHTS:
+
+           05 Nos. of LED street poles are provided in the
+           compound.
+           02 Gate light
+           01 LED Light on department display
+Fire-extinguishers:
+
+           The Following firefighting equipment
+           are provided And Date of Installation:
+           NA
+           Fire extinguishers
+           ABC Type               :04 (05 Kg Capacity)
+           Clean Agent            :02 (04 Kg Capacity)
+           Fire Buckets              :02
+
+
+LAND:
+
+                      i)       Area: 10000 Sqm.
+                      ii)      Demarcation: Masonry
+                               compound wall on all the four
+                               sides
+                      iii)     No. of fruit trees:60 trees
+                      iv)      No. of non- fruit bearing
+                               trees:240
+
+FACILITIES AVAILABLE:
+        School, Bank, Post office, P.G.V.C.L Office
+        &General Hospital are 30Km far away from the
+        V.T.S RADAR Station Chudeshwar.
+STRUCTURE:
+
+                 a. VTS tower: 60m high RCC circular tower
+                    with internal lift facility and staircase.
+                 b. Technical Building: 01 unit
+                 c. Inspection Quarter: 01 unit
+                 d. Staff Quarters: 04 unit
+                 e. Compound wall: The masonry
+                    compound wall has been provided
+                    on foursides for enclosing land
+                    buildings with internal cement
+                    concrete pathway.
+              f. Main gate: M. S gate the entrance.
+              g. Area: 9085 Sq. m
+WATER SUPPLY:
+
+         Water Tanker purchased from outside.
+
+Mode of Approach                                      By road, 30Km away from
+                                                      Khambhaliya City
+
+ADDRESS & COMMUNICATION                               Station In Charge,
+                                                      V.T.S RADAR Station
+                                                      Chudeshwar,
+                                                      Village: Chudeshwar,
+                                                      Post: Goinj,
+                                                      Ta: Khambhaliya, Dist:
+                                                      Dev Bhumi
+                                                      Dwarka,Gujarat, Pincode:
+                                                      361310
+                                                      Email:
+                                                      vts.station.chudeshwar@g
+                                                      mail.com
+                                                      Mobile No:
+                                                      +918160709336
+DATE OF COMMISSIONING                                 13 Feb, 2012
+

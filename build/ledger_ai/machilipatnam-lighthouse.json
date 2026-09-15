@@ -1,0 +1,41 @@
+{
+  "slug": "machilipatnam-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Machilipatnam Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1858,
+  "alol": "0955",
+  "position": {"lat_text": "16° 14' 48\" N", "lon_text": "81° 14' 00\" E", "lat": 16.246667, "lon": 81.233333},
+  "elevation_m": 50.56,
+  "characteristic_text": "Gr. FL(3) W. 20 Seconds (F1 0.5, EC 2.0, F2 0.5, EC 2.0, F3 0.5, EC 14.5 sec.)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "F1 0.5, EC 2.0, F2 0.5, EC 2.0, F3 0.5, EC 14.5 sec.",
+    "sequence_s": [0.5, 2.0, 0.5, 2.0, 0.5, 14.5],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": 16.5, "text": "Luminous 20 NM, Geographical 16.5 NM"},
+  "tower": {"type": "Circular R.C.C. Tower", "height_m": 50, "colour_scheme": "Black and White bands"},
+  "optic": {
+    "make": "MBR 300 MSM", "model": null, "type": null, "size": "Focal length 105 mm, 150 W/220 V AC MH Lamp", "order": null,
+    "panels": 3,
+    "rotation_device": null,
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Rotation Speed: 3 RPM",
+    "divergence_horizontal_deg": 9,
+    "divergence_vertical_deg": 9,
+    "divergence_text": "Horizontal 9°, Vertical 9°",
+    "illuminant": "150 Watts Metal Halide Lamps"
+  },
+  "intensity_cd": 166000,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "M/S SAAB AIS R40 Base Station Sl No.5320 and Sl No.5231, commissioned 01-05-2012"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APCPDCL mains 3 phase 440 V; 0.48 KW off grid solar system for main light; Kirloskar 15 KVA diesel generator"},
+  "issues": []
+}

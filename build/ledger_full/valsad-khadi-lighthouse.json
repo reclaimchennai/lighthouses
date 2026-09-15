@@ -1,0 +1,151 @@
+{
+  "slug": "valsad-khadi-lighthouse",
+  "page_count": 5,
+  "title_as_printed": "मास्टर लेजर/MASTER LEDGER — वलसाड खाड़ी दीपस्तंभ/ Valsad Khadi Lighthouse",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1, "fields": [{"label": "A.L.O.L.", "value": "F0480"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1, "fields": [{"label": "Position", "value": "Lat. 20º37’80’ N Long. 72º53’20’ E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1, "fields": [{"label": "Elevation", "value": "50 m"}], "tables": [], "text": "Hindi label \"ऊंचाई\" printed in red."},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1, "fields": [{"label": "Characteristic", "value": "Fl(4)W 20 sec"}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in miles", "title_hi": "नॉटिकलमाइलमेदूरी", "page": 1, "fields": [{"label": "Range in miles", "value": "22 Miles"}], "tables": [], "text": null},
+    {"no": "6", "title": "L.H.Tower", "title_hi": "दीपस्तंभटावर", "page": 1, "fields": [
+      {"label": "Type", "value": "Masonary Tower"},
+      {"label": "Height", "value": "45 m"},
+      {"label": "Colour Scheme", "value": "Red + White Spiral Band"}
+    ], "tables": [], "text": null},
+    {"no": "7", "title": "Optical equipment", "title_hi": "ऑप्टिकलउपकरण", "page": 1, "fields": [
+      {"label": "Optic", "value": ""},
+      {"label": "Make", "value": "Zen Lite Buoy Co. Ltd"},
+      {"label": "Type", "value": "ZL-LSRB-26 Revolving LED make"},
+      {"label": "Size", "value": "-"},
+      {"label": "No. of lens", "value": "6 Nos (4 in service)"},
+      {"label": "Area of dioptric portion", "value": ""},
+      {"label": "Area of catadioptric portion", "value": ""},
+      {"label": "Divergence Main/Emergency", "value": "Horizontal – 5.00⁰, Vertical 1.6⁰"},
+      {"label": "Duration of Flash Main /Standby/Emergency", "value": "0.5 sec"},
+      {"label": "Lamp changer", "value": "NA"},
+      {"label": "Pedestal", "value": "M.S. Pedestal"},
+      {"label": "Rotation Device", "value": "Inbuilt Direct drive brushless DC motor"},
+      {"label": "R.P.M.", "value": "3 RPM"},
+      {"label": "illumining", "value": ""},
+      {"label": "Main", "value": "LED Lamp (LED X 6 PCS/2))"},
+      {"label": "Standby", "value": "-"},
+      {"label": "Emergency:", "value": "-"},
+      {"label": "Date of Installation", "value": ""}
+    ], "tables": [], "text": "\"Horizontal – 5.00⁰,\" is printed in red with yellow highlight; \"3 RPM\" is printed in red."},
+    {"no": "8", "title": "Effective beam intensity", "title_hi": "प्रभावीबीमतीव्रता", "page": 1, "fields": [
+      {"label": "Main & Standby", "value": "650000cd"},
+      {"label": "Emergency", "value": "-"}
+    ], "tables": [], "text": "Item number and Main & Standby row on page 1; section label and Emergency row on page 2."},
+    {"no": "9", "title": "Lantern", "title_hi": "लेंटर्न", "page": 2, "fields": [
+      {"label": "Diameter", "value": "2.4 mtr"},
+      {"label": "Height of glazing", "value": "1.4 mtr"},
+      {"label": "No. of panes", "value": "12"},
+      {"label": "Ventilators", "value": "06"}
+    ], "tables": [], "text": null},
+    {"no": "10", "title": "RACON", "title_hi": null, "page": 2, "fields": [], "tables": [
+      {"caption": null, "columns": ["Make", "Model", "Code", "Band", "Date of Installation"], "rows": [["", "", "", "", ""]]}
+    ], "text": null},
+    {"no": "11", "title": "NAIS", "title_hi": null, "page": 2, "fields": [
+      {"label": "Base Station", "value": ""},
+      {"label": "Communication Equipment", "value": ""}
+    ], "tables": [
+      {"caption": null, "columns": ["Model", "Type", "Power", "MMSI", ""], "rows": [["", "", "", "", ""]]},
+      {"caption": null, "columns": ["VSAT Antenna", "Band", "Modem", "", ""], "rows": [["", "", "", "", ""]]},
+      {"caption": "DGPS", "columns": ["Trasmitter Make", "Frequency", "Power Output", "RS 1 ID", "RS -II ID", "Beacon ID", "Date of commissioning", "Date of Recapitalization"], "rows": [
+        ["", "", "", "", "", "", "", ""],
+        ["", "", "", "", "", "", "", ""]
+      ]}
+    ], "text": null},
+    {"no": "12", "title": "Source of energy", "title_hi": "ऊर्जाकेसाधन", "page": 2, "fields": [
+      {"label": "Mains", "value": "G.E.B 220V/ 50Hz 3phase"},
+      {"label": "Standby", "value": "Gen Set (01 No)"}
+    ], "tables": [
+      {"caption": "Engine 1", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"], "rows": [["KIRLOSKAR /AT94", "01", "23.54KW", "03", "1500", "AIR"]]},
+      {"caption": "Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"], "rows": [["KIRLOSKAR", "01", "25KVA", "230V", "50Hz", "03PH"]]},
+      {"caption": "Engine 2", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"], "rows": [["", "", "", "", "", ""]]},
+      {"caption": "Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"], "rows": [["", "", "", "", "", ""]]},
+      {"caption": "Solar Plant", "columns": ["Capacity PV", "Numbers", "Type", "Battery", "Bank"], "rows": [["325 W", "3", "", "02No 12V/100AH", "2"], ["", "", "", "", ""]]},
+      {"caption": "Solar Plant for Main RACON", "columns": ["Capacity PV", "Numbers", "Type", "Battery", "Bank"], "rows": [["", "", "", "", ""]]}
+    ], "text": "Engine 1 and Alternator data rows and the Solar Plant data row are printed in red. Second Alternator table and solar tables are on page 3."},
+    {"no": "13", "title": "Automatic Voltage Stabilizers", "title_hi": "स्वचालितवोल्टेजस्टेबलाइजर", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Make", "Model", "Capacity", "Input", "Output", "Phase", "Qty"], "rows": [
+        ["AE make", "", "15 KVA 65.2 A", "180-260 V AC", "230V", "1", "3"],
+        ["Power Electronics", "", "3 KVA", "150-260 V", "230 V", "1", "1"]
+      ]}
+    ], "text": null},
+    {"no": "14", "title": "Batteries", "title_hi": "बैटरि", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equpment", "Type", "Make", "Volt", "Amp/Hr", "Qty", ""], "rows": [
+        ["PSS NAIS", "", "", "", "", "", ""],
+        ["Genset", "Lead Acid", "Exide", "12v", "180AH", "1", ""],
+        ["Automation", "MF", "", "12 V", "26 AH", "4", ""],
+        ["Main Light", "VRLA MF", "Exide", "6 X2=12 V", "1000 AH", "2", ""],
+        ["", "VRLA MF", "Exide", "12 V", "515 AH", "1", "U/S For old Main Light"]
+      ]}
+    ], "text": "Genset row printed in red."},
+    {"no": "15", "title": "Battery charger", "title_hi": "बैटरिचार्जर", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Make", "Model", "Type", "Rating", "Qty"], "rows": [
+        ["General Purpose", "Lighthouse workshop Mumbai", "-", "-", "0-15 A", "1"],
+        ["Automation", "Power Engineering", "", "", "24V, 20A", "1"]
+      ]}
+    ], "text": null},
+    {"no": "16", "title": "Inverter /UPS", "title_hi": "इंवर्टर", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Nos", "Make", "Model", "Type", "Rating", "Qty", "input", "output"], "rows": [
+        ["Main Light", "", "", "", "", "", "", "", ""],
+        ["NAIS PSS", "", "", "", "", "", "", "", ""],
+        ["DGPS", "", "", "", "", "", "", "", ""]
+      ]}
+    ], "text": null},
+    {"no": "17", "title": "Automation Equipment", "title_hi": "स्वचलनउपकरण", "page": 4, "fields": [], "tables": [
+      {"caption": null, "columns": ["MAKE", "PLC", "HMI", "Power Supply", "VSAT", "Modem", "Band"], "rows": [["Nelco", "Telemecanique", "Schneider", "24V DC", "1.8 mtrs dia", "SkyEdge", "Ex-C band"]]}
+    ], "text": null},
+    {"no": "18", "title": "Fire Fighting Equipment", "title_hi": "अग्निशमनउपकरण", "page": 4, "fields": [], "tables": [
+      {"caption": null, "columns": ["Type of Extinguisher", "Capacity", "Nos", "Make"], "rows": [
+        ["1 D.C.P", "3.2 kg", "1", ""],
+        ["1 D.C.P", "1 kg", "2", ""],
+        ["", "", "", ""],
+        ["", "", "", ""],
+        ["", "", "", ""],
+        ["", "", "", ""],
+        ["", "", "", ""]
+      ]}
+    ], "text": null},
+    {"no": "19", "title": "Communication", "title_hi": "संचार", "page": 4, "fields": [{"label": "Communication", "value": "valsadkhadi@gmail.com"}], "tables": [], "text": null},
+    {"no": "20", "title": "Water Supply", "title_hi": "जलपूर्ति", "page": 4, "fields": [], "tables": [], "text": "a) Water supply line provided\nb) 1000 Ltrs. Of overhead PCV tank on the roof of I.Q. provided."},
+    {"no": "21", "title": "Land", "title_hi": "भूमि", "page": 4, "fields": [
+      {"label": "Area", "value": "8532 Sq.m"},
+      {"label": "Demarcation", "value": "Masonry compound wall is provided"}
+    ], "tables": [], "text": null},
+    {"no": "22", "title": "Buildings", "title_hi": "इमारतें", "page": 4, "fields": [{"label": "Quarters", "value": "New Tower, Inspection Quarter, Staff quarter and Power house constructed in 2019."}], "tables": [], "text": null},
+    {"no": "23", "title": "Compound Lights", "title_hi": "कंपाउंडलाइट", "page": 4, "fields": [{"label": "", "value": "11 Nos LED street lights fitting and 2 Nos Gate light."}], "tables": [], "text": null},
+    {"no": "24", "title": "CCTV CAMERA", "title_hi": "सीसीटीवीकमेरा", "page": 4, "fields": [
+      {"label": "Camera", "value": ""},
+      {"label": "DVR", "value": ""}
+    ], "tables": [], "text": null},
+    {"no": "25", "title": "Staff", "title_hi": "स्टाफ", "page": 4, "fields": [], "tables": [
+      {"caption": null, "columns": ["Sl. No", "Designations"], "rows": [
+        ["1", "Navigational Assistant Gr -1 - 01 No"],
+        ["2", "LHA – 01 No"],
+        ["3", ""],
+        ["4", ""],
+        ["5", ""],
+        ["6", ""],
+        ["7", ""]
+      ]}
+    ], "text": null},
+    {"no": "26", "title": "Mode of approach", "title_hi": "पहुँचनेकामाध्यम", "page": 4, "fields": [], "tables": [], "text": "By rail upto Valsad Railway station and then by road upto Lighthouse via kosamba village (Locally known Kosamba Divadandi)"},
+    {"no": "27", "title": "Facilities available", "title_hi": "उपलब्धसुविधाए", "page": 4, "fields": [
+      {"label": "Marine Police Station", "value": "-"},
+      {"label": "Dispensary", "value": "valsad 9km"},
+      {"label": "High School", "value": "valsad 9 km"},
+      {"label": "Post office", "value": "Kosamba 3km"}
+    ], "tables": [], "text": null},
+    {"no": "28", "title": "Postal address", "title_hi": "डाकपता", "page": 5, "fields": [], "tables": [], "text": "Navigational Assistant , Valsad Khadi Lighthouse, P.O. Kosamba,\nDistt. Valsad, PIN - 396030"},
+    {"no": "29", "title": "Cost details (At the time of Construction)", "title_hi": "मूल्यकाब्योरा", "page": 5, "fields": [
+      {"label": "1. Construction", "value": "Rs 40000000 /-"},
+      {"label": "2. Equipment", "value": "Rs 400000/ -"}
+    ], "tables": [], "text": null},
+    {"no": "30", "title": "Date of commissioning", "title_hi": "प्रवर्तनमेलानेकादेनांक", "page": 5, "fields": [{"label": "Date of commissioning", "value": "Tuesday, 19 February - 2019"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

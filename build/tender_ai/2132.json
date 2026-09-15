@@ -1,0 +1,45 @@
+{
+  "nid": 2132,
+  "title": "Development works for promotion of tourism at Androth (East) Lighthouse, Androth Island, U T of Lakshadweep",
+  "summary": "Online two-cover e-tender for development works to promote tourism at Androth (East) Lighthouse on Androth Island, UT of Lakshadweep.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-03/1/2025-MS; I/88925/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Androth (East) Lighthouse, Androth Island, U.T. of Lakshadweep", "station_id": "androth-east-lighthouse", "kind": "lighthouse", "work": "Development works for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Development works for promotion of tourism at Androth (East) Lighthouse", "qty": null, "unit": null, "site": "Androth (East) Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2949557.0,
+    "emd_inr": 58991.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals (or MSME/UDYAM/NSIC certificate) with technical documents to reach office by 10.12.2025 1500 hrs. Bid Securing Declaration listed among required documents."
+  },
+  "period": {"completion": "120 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-11-25", "pre_bid": "2025-12-04", "bid_submission_end": "2025-12-11", "bid_opening": "2025-12-12"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt./PSU/autonomous body; or, for contractors from Lakshadweep group of islands, work experience with any Government department in island works during last 7 years",
+    "Similar works completed in last 7 years: three works each >= 40%, or two works each >= 50%, or one work >= 80% of estimated cost",
+    "Similar works: roof sheet truss work of multistorey building, solar frame truss work, waterproofing, construction of residential/institutional/office buildings, lighthouse tower or other related civil construction",
+    "PAN and GST registration",
+    "Annual turnover of last three years certified by Chartered Accountant",
+    "Declaration that bid is unconditional; affidavit on Rs 100 stamp paper that bidder is not blacklisted",
+    "Undertaking listing relatives serving as Gazetted/Account officers in MoPSW or DGLL",
+    "Copy of EPF / labour registration certificate; Tender Acceptance Letter; Bid Securing Declaration"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (6)_0.pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (Notice Inviting e-Tender) only; no BOQ or scope details. Location field reads 'Androth Lighthouse (East & West), Androth-682 551', while name of work refers to Androth (East) only. Bid query last date 03.12.2025 1500 hrs; technical bid opening 12.12.2025 1500 hrs."
+}

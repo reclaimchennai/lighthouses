@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lighthouses of India · Active lights, NAVTEX & RACON</title>
+<meta name="description" content="Every active lighthouse maintained by India's Directorate General of Lighthouses & Lightships, flashing its real characteristic from its Master Ledger, with sea-only reach, NAVTEX radio coverage, RACON radar beacons and each station's full record.">
+<meta name="theme-color" content="#000000">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="favicon.svg">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&family=Silkscreen:wght@400;700&family=VT323&display=swap">
+<link rel="stylesheet" href="css/style.css?v=8">
+<!-- MapLibre 5 UMD: inlines its worker (the v6 ESM build loads a cross-origin module worker, which browsers block from a CDN) -->
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+<!-- mp4-muxer, vendored as in pol.reclaimchennai.city: WebCodecs H.264 into a real MP4 -->
+<script src="vendor/mp4-muxer.js"></script>
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://cdn.jsdelivr.net/npm/three@0.186.0/build/three.module.js",
+    "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.186.0/examples/jsm/"
+  }
+}
+</script>
+</head>
+<body>
+<div id="map" aria-label="Map of India's lighthouses"></div>
+<div id="labels" aria-hidden="true"></div>
+<div id="watermark" aria-hidden="true"><b id="wm-year">2026</b><span>Lighthouses of India · maps.reclaimchennai.city</span></div>
+
+<div id="loading"><div class="lamp"></div><span>Lighting the coast…</span></div>
+
+<a id="home" href="https://maps.reclaimchennai.city/" title="All maps" aria-label="All maps">
+  <svg class="i" aria-hidden="true"><use href="icons.svg?v=2#back"/></svg>Maps
+</a>
+
+<div id="capture" role="group" aria-label="Save the map">
+  <button id="cap-shot" class="cap-btn" title="Save a picture" aria-label="Save a picture of the map"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#camera"/></svg></button>
+  <button id="cap-rec" class="cap-btn" title="Record a video" aria-label="Record a video of the map" aria-pressed="false"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#record"/></svg></button>
+</div>
+<div id="rec-badge" hidden><i></i><span id="rec-time">REC 0:00</span></div>
+<div id="cap-note" role="status" hidden></div>
+
+<aside id="panel" class="panel">
+  <header>
+    <button id="panel-toggle" class="panel-toggle" aria-expanded="true" aria-controls="panel-body" title="Hide panel">
+      <svg class="i" aria-hidden="true"><use href="icons.svg?v=2#down"/></svg>
+    </button>
+    <small>India · DGLL aids to navigation</small>
+    <h1>Lighthouses of India</h1>
+    <p class="sub">Every active DGLL light, flashing its real rhythm.</p>
+    <a class="guide-link" href="guide.html"><svg class="i sm" aria-hidden="true"><use href="icons.svg?v=2#info"/></svg>Guide</a>
+    <a class="guide-link" href="tenders.html"><svg class="i sm" aria-hidden="true"><use href="icons.svg?v=2#rupee"/></svg>Tenders</a>
+  </header>
+
+  <div id="panel-body">
+    <canvas class="scene hero" id="hero-scene" aria-hidden="true"></canvas>
+    <div class="stats" id="stats"></div>
+
+    <section class="group">
+      <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#layers"/></svg>Show</h2>
+      <div class="cells">
+        <label class="row"><svg class="i lead t-beam" aria-hidden="true"><use href="icons.svg?v=2#lighthouse"/></svg><span class="lbl">Beams &amp; reach<small id="optic-note"></small></span><input type="checkbox" class="switch" id="l-beams" checked></label>
+        <label class="row"><svg class="i lead t-navtex" aria-hidden="true"><use href="icons.svg?v=2#navtex"/></svg><span class="lbl">NAVTEX radio<small id="navtex-live"></small></span><input type="checkbox" class="switch" id="l-navtex" checked></label>
+        <label class="row"><svg class="i lead t-racon" aria-hidden="true"><use href="icons.svg?v=2#racon"/></svg><span class="lbl">RACON radar beacons<small>Morse identifier</small></span><input type="checkbox" class="switch" id="l-racon"></label>
+        <label class="row"><svg class="i lead" aria-hidden="true"><use href="icons.svg?v=2#cube"/></svg><span class="lbl">3D towers</span><input type="checkbox" class="switch" id="l-towers" checked></label>
+        <label class="row"><svg class="i lead" aria-hidden="true"><use href="icons.svg?v=2#tag"/></svg><span class="lbl">Lighthouse names</span><input type="checkbox" class="switch" id="l-labels" checked></label>
+        <label class="row"><svg class="i lead" aria-hidden="true"><use href="icons.svg?v=2#places"/></svg><span class="lbl">Places, roads &amp; rivers<small id="base-status"></small></span><input type="checkbox" class="switch" id="l-base" checked></label>
+      </div>
+    </section>
+
+    <section class="group">
+      <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#palette"/></svg>Colour lights by</h2>
+      <div class="seg" id="colour-by" role="radiogroup">
+        <button data-v="light" class="on" role="radio" aria-checked="true">Light</button>
+        <button data-v="tech" role="radio" aria-checked="false">Equipment</button>
+        <button data-v="age" role="radio" aria-checked="false">Age</button>
+        <button data-v="visit" role="radio" aria-checked="false">Access</button>
+      </div>
+      <div class="legend" id="legend"></div>
+    </section>
+
+    <section class="group">
+      <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#history"/></svg>History <span class="hint" id="year-label">2026</span></h2>
+      <div class="timeline">
+        <button id="play" class="btn icon" aria-label="Play the history of India's lights" title="Play history"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#play"/></svg></button>
+        <input type="range" id="year" min="1790" max="2026" step="1" value="2026" aria-label="Year">
+      </div>
+      <p class="note" id="year-note"></p>
+    </section>
+
+    <section class="group">
+      <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#access"/></svg>Public access</h2>
+      <p class="note" id="visit-note"></p>
+      <button class="btn wide" id="show-visit"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#palette"/></svg>Colour by access</button>
+    </section>
+
+    <section class="group">
+      <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#rupee"/></svg>Funding</h2>
+      <p class="note">Lighthouse infrastructure, ₹ crore. Bar = spent, track = allocated.</p>
+      <div id="budget" class="budget" role="img" aria-label="Allocation and utilisation by year"></div>
+      <p class="note fine" id="budget-src"></p>
+    </section>
+
+    <section class="group">
+      <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#anchor"/></svg>Planned: Brahmaputra</h2>
+      <p class="note" id="planned-note"></p>
+      <div class="grid2" id="planned-list"></div>
+    </section>
+
+    <section class="group">
+      <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#wave"/></svg>Every light's rhythm</h2>
+      <p class="note">One row per light, Kutch → Bengal → islands.</p>
+      <canvas id="rhythm" height="300" aria-label="Flash rhythm of each lighthouse"></canvas>
+    </section>
+
+    <section class="group">
+      <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#search"/></svg>Find</h2>
+      <input id="search" type="search" placeholder="Lighthouse name" list="names" autocomplete="off">
+      <datalist id="names"></datalist>
+      <div class="grid2">
+        <button class="btn" data-fly="west">West coast</button>
+        <button class="btn" data-fly="east">East coast</button>
+        <button class="btn" data-fly="lakshadweep">Lakshadweep</button>
+        <button class="btn" data-fly="andaman">Andaman &amp; Nicobar</button>
+        <button class="btn" data-fly="chennai">Chennai</button>
+        <button class="btn" id="lightship"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#anchor"/></svg>Light vessel</button>
+        <button class="btn wide2" id="tour"><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#route"/></svg>Night voyage</button>
+      </div>
+    </section>
+
+    <footer class="sources">
+      <h2><svg class="i" aria-hidden="true"><use href="icons.svg?v=2#book"/></svg>Sources</h2>
+      <ul>
+        <li><a href="https://www.dgll.nic.in/" target="_blank" rel="noopener">Directorate General of Lighthouses &amp; Lightships</a>, Ministry of Ports, Shipping &amp; Waterways: per-station <b>Master Ledgers</b>, regional <a href="https://www.dgll.nic.in/DGLL-light-house-location/chennai" target="_blank" rel="noopener">lighthouse pages</a>, and the <a href="https://www.dgll.nic.in/about-DGLL/Service-reminders/navtex" target="_blank" rel="noopener">NAVTEX</a>, <a href="https://www.dgll.nic.in/about-DGLL/Service-reminders/racon" target="_blank" rel="noopener">RACON</a> and <a href="https://www.dgll.nic.in/about-DGLL/Service-reminders/vts" target="_blank" rel="noopener">VTS</a> lists.</li>
+        <li>DGLL <a href="https://www.dgll.nic.in/tenders" target="_blank" rel="noopener">Tenders</a> and <a href="https://www.dgll.nic.in/tenders/tenders-archive" target="_blank" rel="noopener">Tenders Archive</a>: every notice and corrigendum, backed up and transcribed in the <a href="tenders.html">tender archive</a>. Station photos: DGLL station pages and Wikimedia Commons, served from local copies.</li>
+        <li>Lok Sabha: <a href="https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3233_R4EsOl.pdf?source=lsapps" target="_blank" rel="noopener">Unstarred Q 3233</a> (7 Aug 2026: public-access lighthouses, museums, NW-2) and <a href="https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU949_4qZANz.pdf?source=lsapps" target="_blank" rel="noopener">Unstarred Q 949</a> (24 Jul 2026: DGNSS, RACON, NAVTEX, NAIS, VTS; funds).</li>
+        <li><a href="https://www.ibiblio.org/lighthouse/inan.htm" target="_blank" rel="noopener">The Lighthouse Directory</a>, Russ Rowlett, UNC Chapel Hill.</li>
+        <li><a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors (ODbL) via <a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> / <a href="https://www.openmaptiles.org/" target="_blank" rel="noopener">OpenMapTiles</a>; <a href="https://www.openseamap.org/" target="_blank" rel="noopener">OpenSeaMap</a> seamarks.</li>
+        <li><a href="https://www.wikidata.org/" target="_blank" rel="noopener">Wikidata</a> (CC0), <a href="https://commons.wikimedia.org/wiki/Category:Lighthouses_in_India" target="_blank" rel="noopener">Wikimedia Commons</a>; <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a>; India outline and states from <a href="https://github.com/datameet/maps" target="_blank" rel="noopener">DataMeet</a> (CC BY 4.0).</li>
+        <li>Car high-beam reference: <a href="https://hdl.handle.net/2027.42/49438" target="_blank" rel="noopener">UMTRI, “Relative merits of the U.S. and ECE high-beam maximum intensities”</a>.</li>
+        <li>Built with <a href="https://maplibre.org/" target="_blank" rel="noopener">MapLibre GL JS</a>, <a href="https://threejs.org/" target="_blank" rel="noopener">three.js</a>, <a href="https://github.com/Vanilagy/mp4-muxer" target="_blank" rel="noopener">mp4-muxer</a> and <a href="https://pixelarticons.com" target="_blank" rel="noopener">pixelarticons</a> (MIT); fonts Pixelify Sans, Silkscreen and VT323 (OFL). Inspired by <a href="https://mapped.earth/lighthouses/new-england" target="_blank" rel="noopener">mapped.earth</a> and Raj Bhagat Palanichamy's map.</li>
+      </ul>
+      <p class="method">Visual reach is the shorter of luminous range and geographical range (the horizon for a 5 m eye height), cast as sight lines that stop at the first landfall. NAVTEX coverage is DGLL's stated 250 NM, over connected sea only. Hand-typed ledger positions with digit slips or seconds typed as decimal minutes were corrected against OSM, Wikidata or the Lighthouse Directory. <span id="built"></span></p>
+      <p class="method">Not for navigation. Always use official charts and Notices to Mariners.</p>
+    </footer>
+  </div>
+</aside>
+
+<section id="card" class="card" hidden aria-live="polite"></section>
+<div id="record" hidden></div>
+
+<script type="module" src="js/app.js?v=9"></script>
+</body>
+</html>

@@ -1,0 +1,196 @@
+               मास्टर लेजर/ MASTER LEDGER
+
+क्रमसंख्या                           वििरण/ Discription               Qty
+  / Sr.No
+        1. Positon : Lat 23.5052° N, Long 68.6851° E
+
+             Tower : GI Trestle tower 55 Meter height
+
+        2.    Microwave Antenna
+              Make –Faini Tele communication System, (Kathrein)
+              SNo: 08KIMWA0000120040
+              SNo: 08KIMWA0000120041                                  04
+              SNo: 08KIMWA0000120044
+              SNo: 08KIMWA0000120045
+              DOI: 12/2011
+        3.    RFU/ODU Make- Ericsson
+              S. No. R9N993381 Koteshwar
+              S. No. R9N998316 Jakhau
+              DOI: 23/08/2019 (02 Nos.)                               04
+              S. No. R9Q240360 Koteshwar
+              S. No. R9Q240346 Jakhau
+              DOI: 08/07/2020 (02 Nos.)
+              SPU- Ericsson mini link 6363 7/32L
+        4.
+              Model: ML 6691
+                                                                      01
+              S. No: CE8A312088
+              DOI: 23/08/2019
+        5.    Rectifier Make- BSMC Power Systems
+              S. No: BS-350/B/4282                                    01
+              DOI: 12/2011
+        6.    3KVA UPS, Make NGBPS,
+              Model NG 30
+                                                                      01
+              S. No. JH 1035
+              DOI: 12/2011
+              12V, 26AH Battery,
+        7.
+              Make- Quanta Amaron
+                                                                      08
+              DOI: 19/07/2019
+
+        8.   DG SET-1
+             15 KVA,230 V, 1Ф, Make- Kirloskar
+             Engine Type- HA 294 SR 111 S. No. 02 .2129/1021624With
+             150 litre storage tanks
+             DOI: 12/2011            Page 1 of 8
+    DG SET-2                                                02
+    15 KVA,230 V, 1Ф, Make-Kirloskar
+     Engine Type- HA 294 SR 111 Sl. No. 02 .2130/1020041
+    With 150 litre storage tanks
+    DOI: 12/2011
+    DG Sets Starting Batteries
+    DG Set-1
+    12V/130AH Battery
+    Make- Exide, Type Lead Acid
+    DOI: 10/01/2018
+    DG Set-2                                                02
+    12V/130AH Battery
+    Make- Exide Type Lead Acid
+    DOI: 12/02/2018
+9. AMF Control Panel
+    Sterling Generators Pvt. Ltd
+    12.5 KVA, 230 V, 1Ф, 63 Amps
+    S. No: 04-10/05/14,
+    Controller Make: DSE                                    01
+    Model: DSE 4520 MKII
+    S. No. 7204339-01
+    S. No. 7204339-01
+    DOI: 15/08/2020
+    LVDB Panel
+    Make – Sterling Generators Pvt. Ltd                     01
+    DOI: 12/2011
+10. Automatic Voltage stabilizer
+    Make- Uma Powertonics, Input: 140-280V, Output: 230V,
+    Capacity-16 KVA, Frequency-50Hz, S. No. UA-1602012      01
+    DOI: 26/05/2018
+11. Split A/C, 1.5 Ton, Make Blu Star
+    S. No. C101229470310524130660
+    DOI: 12/2011
+    Split A/C, 1.5Ton, Make Blu star
+    S. No. C101229470310524130548                           03
+    DOI: 12/2011
+    Spilt A/C- 1.5 Ton Make: Video Con
+    Sl. No. 11081574200228
+    DOI: 05/09/2015
+12. Fire Extinguisher
+    ABC Dry Powder – 02 Nos.                                04
+    Clean Agent - 02 Nos.
+    DOI: 11/2011
+                          Page 2 of 8
+13. Solar Panels
+    Capacity: 250 W
+    Rated Voltage: 31.00 V                                   20
+    Rated Current: 8.10 Amp, Make: Topsun Energy Pvt. Ltd.
+    DOI: 10/05/2017
+14. Inverter
+    Make – Delta
+    Sr. No. O0U16901196WP
+    Part No: RPI 502NA0E0000
+    Model – RPI H5
+    DC Input 200-1000Vdc
+    Output 220/230Vac, 50 Hz/60Hz                            01
+    5KVA nom 24.5A max.
+    DOI: 10/05/2017
+15. SPD (Surge Protection Device)
+    3Ф SPD                                                   02
+    1Ф SPD
+    DOI: 06/2016
+16. Isolation Transformer – 3 KVA
+    Make – Trusine Electronics Pvt. Ltd.
+                                                             16
+    Sr. No. – TRU-IT 004
+    DOI: 06/2016
+17. Water Pump (Submersible) with
+    DOL starter & TPN 32A
+    Capacity: 2 HP
+    Make: Kirloskar                                          02
+    Mono Block Water Pump 1- Phase
+    Make: Angel
+    DOI: 11/2011
+    Solar Panels
+18.
+    Capacity: 70W
+    Rated Voltage: 17.00V
+                                                             20
+    Rated Current: 4.40 Amp
+    Make: Vikram Solar Pvt. Ltd.
+    DOI: 25/02/2015
+    Solar Charge Controller
+    12V-24V-48V, 45 Amp
+                                                             02
+    Make: Su-Kam
+    DOI: 25/02/2015
+    Batteries
+    Make Exide Power Safe, Type SMF
+    2V/300AH                                                 24
+    DOI: 20/03/2020
+    Exhaust Fan             Page 3 of 8
+19.                                                          03
+     DOI: 12/2011
+    Commtel Rack
+20.                                                          01
+    DOI: 12/2011
+        CCTV SYSTEM: -
+        IP Dome Camera
+        Make: CP Plus                                                     01
+        Sr. No: CP4C037ESPAG00135
+        IP Bullet Camera
+        Make: CP Plus
+        Sr. No: CP4C037E4PAG00220
+    21.        : CP4C037E4PAG00260
+               : CP3E04905PAA00159                                        04
+               : CP4C037E4PAG00025
+        IP PTZ Camera
+        Make: CP Plus
+        Sr. No: CP2K02463PAN00110
+         NVR 16 CH
+        Make: CP Plus                                                     01
+        Sr No: CP4E0549APAZ00722
+        4TB Surveillance HDD WD
+        SR. No: - WCC7K44XNL4H8
+        SR. No: - WCC7KOFVVIZN                                            01
+        LCD Monitor 22’’
+        Make: LG
+        Sr No: 805NTGY2D703 Model No: - 22M38D                            02
+         UPS 600VA
+        Make: APC
+        Sr. No: 106N3014472
+                                                                          01
+        Model: UT600E
+        8 Port PoE Switch
+        Make: CP Plus
+        Sr. No. 20200910446205                                            01
+        DOI: 30/10/2018
+        Water Tank (U/G)                                                  01
+22.
+        Capacity: 50000 L
+        Power Supply –
+23.
+        Mains Supply – PGVCL Mains – 415V
+                                                                          01
+         3-Phase, 50 Hz is available
+         Standby supply – 02 Nos DG set
+                                     Area                               2750
+24.
+                                                                        Sq.m
+      Address & Communication: Station in-charge, Harudi VTS station,
+25.   Lakhpat, Dist: Kachchh-370 411
+
+
+
+      Date of Commissioning : 13-02-2012
+26.
+                              Page 4 of 8
+

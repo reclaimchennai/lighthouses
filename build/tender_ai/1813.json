@@ -1,0 +1,45 @@
+{
+  "nid": 1813,
+  "title": "Provision of ESE Lightning arrester for Mallipattinam, Ammapattinam, Passipattinam, Pamban and Karaikal Lighthouses under Chennai Directorate.",
+  "summary": "E-tender for providing Early Streamer Emission (ESE) lightning arresters at five lighthouses (Mallipattinam, Ammapattinam, Passipattinam, Pamban, Karaikal) under the Chennai Directorate.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01002(16)/2/2020-MNT-MD; 2025_DGLL_842768_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mallipattinam Lighthouse", "station_id": "mallipattinam-lighthouse", "kind": "lighthouse", "work": "Provision of ESE lightning arrester"},
+    {"name": "Ammapattinam Lighthouse", "station_id": "ammapattinam-lighthouse", "kind": "lighthouse", "work": "Provision of ESE lightning arrester"},
+    {"name": "Passipattinam Lighthouse", "station_id": "passipattinam-lighthouse", "kind": "lighthouse", "work": "Provision of ESE lightning arrester"},
+    {"name": "Pamban Lighthouse", "station_id": "pamban-lighthouse", "kind": "lighthouse", "work": "Provision of ESE lightning arrester"},
+    {"name": "Karaikal Lighthouse", "station_id": "karaikal-lighthouse", "kind": "lighthouse", "work": "Provision of ESE lightning arrester"}
+  ],
+  "scope": [
+    {"item": "Provision of ESE Lightning arrester", "qty": null, "unit": null, "site": "Mallipattinam, Ammapattinam, Passipattinam, Pamban and Karaikal Lighthouses"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1527951.0,
+    "emd_inr": 30559.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR of any nationalized bank in favour of The Director of Lighthouses and Lightships, Chennai, payable at Chennai, valid 90 days from technical bid opening. Tender fee (by DD) and EMD exempted for valid MSME/NSIC certificate. Tender fee amount not printed."
+  },
+  "period": {"completion": "90 days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-01-03", "pre_bid": "2025-01-10", "bid_submission_end": "2025-01-28", "bid_opening": "2025-01-29"},
+  "eligibility": [
+    "Authorized agents or appropriate class contractors registered with CPWD, State PWD, Railways, MES, BSNL etc., or with any other State/Central Government/PSU/Autonomous bodies having experience in similar works"
+  ],
+  "specs": ["ESE (Early Streamer Emission) type lightning arresters"],
+  "corrigenda": [
+    {"date": "2025-01-20", "change": "Extension of last date: bid submission end / document download end moved from 20-Jan-2025 14:00 to 28-Jan-2025 14:00; bid opening moved from 21-Jan-2025 14:30 to 29-Jan-2025 14:30"}
+  ],
+  "documents": [
+    {"file": "ESENIT.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []},
+    {"file": "ESE Corrigendam.pdf", "pages": 1, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 03/01/2025 (printed pages 3-4, scanned); CPPP publish date 04-Jan-2025 09:00. Original NIT dates: bid submission 03/01/2025 18:00 to 20/01/2025 14:00, technical opening 21/01/2025 14:30; dates above reflect the corrigendum. No BOQ or technical specifications included."
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "simar-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Simar Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1969,
+  "alol": "F 0430",
+  "position": {"lat_text": "20° 46.5' N", "lon_text": "71° 09.0' E", "lat": 20.775, "lon": 71.15},
+  "elevation_m": 34,
+  "characteristic_text": "Fl (W) 10Sec. (1 + 9 = 10Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "1 + 9 = 10Sec",
+    "sequence_s": [1, 9],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 12, "geographical_nm": null, "text": "12NM (unlabelled range)"},
+  "tower": {"type": "Frame work tower, Red and White bands", "height_m": 30, "colour_scheme": "Red and White"},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": null,
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "Sr. No 6183; make/model/code blank"},
+  "ais": {"present": false, "text": "NAIS –NA"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": null, "generator": null, "text": "Mains 440V/3-phase/50 Hz; power source, engine and solar plant fields blank"},
+  "issues": [
+    "Optical equipment, effective intensity and lantern sections entirely blank",
+    "RACON Sr. No 6183 listed with no other RACON details"
+  ]
+}

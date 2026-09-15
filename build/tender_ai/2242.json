@@ -1,0 +1,47 @@
+{
+  "nid": 2242,
+  "title": "Supply of Furniture items for the inspection quarters of Olakuda Lighthouse under Chennai directorate",
+  "summary": "Offline sealed quotation for supply of two teak wood single cots and two coir mattresses for the inspection quarters of Olakuda Lighthouse, Rameshwaram, Tamil Nadu.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-01002(18)/2/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, 5/20 Jaffar Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Olakuda Lighthouse, Olakuda Village, Rameshwaram, Ramanathapuram Dist, Tamilnadu-623526 (inspection quarters)", "station_id": "olakuda-lighthouse", "kind": "lighthouse", "work": "Supply of furniture for inspection quarters"}
+  ],
+  "scope": [
+    {"item": "Supply of teak wood single cot, size 6 1/4' x 3', inclusive of loading, unloading, packing, forwarding and freight up to Olakuda Lighthouse", "qty": "2", "unit": "Nos", "site": "Olakuda Lighthouse"},
+    {"item": "Supply of coir mattress (reputed make), size 6 1/4' x 3' x 4\" thickness, for single cot, inclusive of loading, unloading, packing, forwarding and freight up to Olakuda Lighthouse", "qty": "2", "unit": "Nos", "site": "Olakuda Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value as PBG/FDR from commercial banks, valid 60 days beyond warranty period; released after 1 year warranty",
+    "notes": "No estimated cost or EMD printed. Payment on final account basis after satisfactory supply to delivery location."
+  },
+  "period": {"completion": "15 days from date of supply order", "bid_validity": null, "warranty": "1 year against manufacturing defects for all wooden items"},
+  "dates": {"published": "2026-02-10", "pre_bid": null, "bid_submission_end": "2026-02-17", "bid_opening": "2026-02-18"},
+  "eligibility": [
+    "Similar work in last seven years ending 31 March 2025: one work >= Rs 79,840, or two >= Rs 49,900 each, or three >= Rs 39,920 each",
+    "Similar work: supply of office furniture items in Central Govt./State Govt./public listed/PSUs; completion certificates from officer not below Manager/AEE/Administrative Officer, with PO or GeM CRAC",
+    "GST registration and PAN",
+    "Non-blacklisting affidavit on firm letterhead for last 3 years",
+    "Valid registration and office address in Tamilnadu/Puducherry (MSME certificate or business registration)",
+    "Detailed technical specifications of items as per Annexure A"
+  ],
+  "specs": [
+    "Teak wood single cot 6.25' x 3' with coir mattress; design as per photo in Annexure C",
+    "Stage inspection by DLL Chennai representative before polishing/varnishing and before supply"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Furn Olakuda.pdf", "pages": 5, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned 5-page NIQ: notice, Annexure A schedule (no rates), Annexure B terms, Annexure C photo. Annexure C caption gives mattress as 6.25' x 3' x 4' (feet) whereas schedule says 4\" thickness. Directorate e-mail printed is a gmail address used as office mail."
+}

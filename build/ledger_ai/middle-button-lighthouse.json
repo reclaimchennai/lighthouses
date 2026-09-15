@@ -1,0 +1,41 @@
+{
+  "slug": "middle-button-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Middle Button Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1983,
+  "alol": "F 1202.62",
+  "position": {"lat_text": "12° 16.60'N", "lon_text": "93° 01.81'E", "lat": 12.276667, "lon": 93.030167},
+  "elevation_m": 37,
+  "characteristic_text": "Fl (2) W 20 Sec (fl 1.0,ec 3.0, fl 1, ec 15)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "fl 1.0, ec 3.0, fl 1, ec 15",
+    "sequence_s": [1.0, 3.0, 1, 15],
+    "flash_duration_s": 1.0
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 8, "geographical_nm": null, "text": "8 NMiles (unlabelled range)"},
+  "tower": {"type": "GI Trestle Tower", "height_m": 14, "colour_scheme": "Black and White bands"},
+  "optic": {
+    "make": "Sealite", "model": "SL155-5D", "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Rotation Device: White Flashing Light; R.P.M. NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "- NA-"},
+  "ais": {"present": false, "text": "NAIS base station fields empty; only 'VSAT Antenna Prodelin 2.4 meter' listed"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar plant 75W x 01 mono crystalline, 12V/100AH; mains, standby and engine fields blank"},
+  "issues": []
+}

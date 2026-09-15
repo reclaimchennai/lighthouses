@@ -1,0 +1,41 @@
+{
+  "slug": "samiyani-north-island-lighthouse-station",
+  "pages_read": [1],
+  "name": "Samiyani North Island Lighthouse Station",
+  "station_type": "lighthouse",
+  "established_year": 1935,
+  "alol": "F0389",
+  "position": {"lat_text": "22° 29 5\" N", "lon_text": "69° 05' 5\" E", "lat": 22.484722, "lon": 69.084722},
+  "elevation_m": 13.5,
+  "characteristic_text": "Flashing (Green) every 3 sec FL 0.5 sec + EC 2.5 sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["G"],
+    "period_s": 3,
+    "sequence_text": "FL 0.5 sec + EC 2.5 sec",
+    "sequence_s": [0.5, 2.5],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 5, "geographical_nm": null, "text": "5 NM (single unlabelled range)"},
+  "tower": {"type": "Circular masonry tower", "height_m": 12, "colour_scheme": "Black & white alternate horizontal band"},
+  "optic": {
+    "make": "Sealite, Australia", "model": "SL-125-2, GREEN", "type": "LED Lantern", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Optical Equipment: LED Lantern, Sealite SL-125-2",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Energy Source: 12 V, 100 Ah Battery; charged by Topsun TEL12M74 75 watt solar panel"},
+  "issues": ["Latitude printed as '22°29 5\"N' without a minutes mark; read as 22° 29' 5\""]
+}

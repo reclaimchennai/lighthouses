@@ -1,0 +1,41 @@
+{
+  "slug": "agatti-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Agatti Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1986,
+  "alol": "F 0754.7",
+  "position": {"lat_text": "10° 52' 3\" N", "lon_text": "72° 12' 18\" E", "lat": 10.8675, "lon": 72.205},
+  "elevation_m": 35,
+  "characteristic_text": "Fl (30) W 30 sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 30,
+    "colours": ["W"],
+    "period_s": 30,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 11.3, "geographical_nm": 16.98, "text": "Luminous: 11.3 NM, Geographical: 16.98 NM"},
+  "tower": {"type": "G I. Trestle tower on RCC Base", "height_m": 30, "colour_scheme": "White Band"},
+  "optic": {
+    "make": "Mediterraneo Senales Maritimas (MsM)", "model": "MBL 160", "type": "OCL 12LED with 3 Fresnel Elements arranged in 2 levels arrayed in circular way", "size": "140MM Lens Diameter (Methacrylate material)", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "LED lantern MBL 160 with MF-12 Electronic Flasher; no rotation device listed",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "12 LED"
+  },
+  "intensity_cd": null,
+  "racon": {"present": true, "code": "B", "text": "Tideland Sea Beacon-2 System 6, Sr. No 6574, Code B, Band X+S, installed 31.01.2008"},
+  "ais": {"present": false, "text": "NA"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": null, "text": "Mains 230V 50Hz 1Φ from Lakshadweep Electricity Department; solar PV for main light (12V 70W), automation (24V 250W x2) and RACON (12V 70W)"},
+  "issues": ["Characteristic printed as 'Fl (30) W 30 sec' - a group of 30 flashes is implausible, possibly a typo", "Effective beam intensity fields are blank"]
+}

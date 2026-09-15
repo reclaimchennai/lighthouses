@@ -1,0 +1,44 @@
+{
+  "nid": 1722,
+  "title": "Painting to RCC Lighthouse Tower and GI Trestle tower at Paradip Lighthouse & DGPS Station - reg.",
+  "summary": "Two-cover e-tender for painting the RCC lighthouse tower and the GI trestle tower at Paradip Lighthouse and DGPS Station, Odisha.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Kol-05006(01)/2/2019-Civill",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Paradip Lighthouse & DGPS Station, Paradip, Odisha", "station_id": "paradeep-lighthouse", "kind": "lighthouse", "work": "Painting of RCC lighthouse tower and GI trestle tower"}
+  ],
+  "scope": [
+    {"item": "Painting to RCC Lighthouse Tower", "qty": null, "unit": null, "site": "Paradip Lighthouse & DGPS Station"},
+    {"item": "Painting to GI Trestle tower", "qty": null, "unit": null, "site": "Paradip Lighthouse & DGPS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 859030.0,
+    "emd_inr": 17200.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata payable at Kolkata, valid three months from technical bid opening; exemption of EMD not allowed; original EMD to reach office by 07/09/2024 15:00. Tender fee Nil."
+  },
+  "period": {"completion": "90 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-08-19", "pre_bid": "2024-08-27", "bid_submission_end": "2024-09-07", "bid_opening": "2024-09-09"},
+  "eligibility": [
+    "Valid registration of appropriate class in appropriate category (Building civil work) in Central govt department/undertaking/autonomous body or State govt",
+    "Similar works in last 7 years: three >= 40%, two >= 50% or one >= 80% of estimated cost; similar works = repairs & maintenance or construction of any type of building works (RCC or masonry); values enhanced at 7% p.a.",
+    "Valid PAN and GST registration",
+    "Notarized affidavit (2024) of not blacklisted/debarred; unconditional price bid undertaking; tender acceptance letter",
+    "Income tax returns for 2020-21, 2021-22, 2022-23",
+    "Other documents per Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT Paradeep LH painting.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT only; no BOQ or paint specifications. Dated 19/08/2024. Bid download 19/08/2024 15:00 to 07/09/2024 15:00; pre-bid 27/08/2024 15:00; technical opening 09/09/2024 16:00. Bidders asked to visit site before quoting."
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "manakkodam-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Manakkodam Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1979,
+  "alol": "F 0705",
+  "position": {"lat_text": "9° 45.00' N", "lon_text": "76° 17.10' E", "lat": 9.75, "lon": 76.285},
+  "elevation_m": 34,
+  "characteristic_text": "Fl (2) W 10 sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.64
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 16.6, "geographical_nm": null, "text": "16.6NM (unlabelled single range)"},
+  "tower": {"type": "Square RCC Tower", "height_m": 30, "colour_scheme": "White"},
+  "optic": {
+    "make": "J Stone & Co. Kolkata", "model": null, "type": "Revolving", "size": "300mm", "order": "4th order large",
+    "panels": 4,
+    "rotation_device": "Stepper motor",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Size: 300mm (4th order large) Revolving; Rotation Device: Stepper motor; R.P.M. 3",
+    "divergence_horizontal_deg": 7.64,
+    "divergence_vertical_deg": 11.453889,
+    "divergence_text": "7° 38' 24\" (Horizontal), 11° 27' 14\" (Vertical)",
+    "illuminant": "Cluster of 3 Nos. 230V/150W MH Lamp"
+  },
+  "intensity_cd": 233050,
+  "racon": {"present": false, "code": null, "text": "Sr. No 6295; Make NIL"},
+  "ais": {"present": false, "text": "NAIS - NIL"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "440V 3 phase 50Hz from KSEB; DG Set 7.5KVA Kirloskar; 5 kW on-grid solar (20 x 250W) and 3 x 100W/12V solar for main light"},
+  "issues": ["RACON section lists Sr. No 6295 but Make NIL"]
+}

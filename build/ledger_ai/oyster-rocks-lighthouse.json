@@ -1,0 +1,45 @@
+{
+  "slug": "oyster-rocks-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5, 6],
+  "name": "Oyster Rocks Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1934,
+  "alol": "F 0634",
+  "position": {"lat_text": "14° 49.2' N", "lon_text": "74° 03.7' E", "lat": 14.82, "lon": 74.061667},
+  "elevation_m": 62,
+  "characteristic_text": "fl. W 10 Sec. (fl 0.25, ec 9.75)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "fl 0.25, ec 9.75",
+    "sequence_s": [0.25, 9.75],
+    "flash_duration_s": 0.25
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 24.8, "geographical_nm": 20, "text": "Luminous 24.8 NM, Geographical 20 NM"},
+  "tower": {"type": "Circular Masonry Tower", "height_m": 20, "colour_scheme": "Red & White Bands"},
+  "optic": {
+    "make": "B.B.T.", "model": null, "type": "Fresnel Lens, Revolving", "size": "700 mm (2nd order)", "order": "2nd order",
+    "panels": 2,
+    "rotation_device": "Dual Stepper Motor 40 Kgcm 12 V DC Operated; Weight Driven clock machine with hand winding kept as Standby",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving; Rotation Device: Dual Stepper Motor; R.P.M. 3",
+    "divergence_horizontal_deg": 4.48,
+    "divergence_vertical_deg": 3.26,
+    "divergence_text": "Horizontal 4.48°, Vertical 3.26°",
+    "illuminant": "3 x 70W Metal Halide Lamp cluster"
+  },
+  "intensity_cd": 703836,
+  "racon": {"present": true, "code": "D", "text": "Sr. No 6295; Tideland (Sr. No. 6300), Seabeacon2 System 6 Racon; Code 'D'; (X+S) Band; installed 05.12.2005"},
+  "ais": {"present": true, "text": "R-40, QWZR4-AIS P/N:7000 100-971 S/N 5247; MMSI 4192235"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": true, "text": "Mains/Standby rows blank; Engine 1 Kirloskar 5 KVA and Engine 2 Kirloskar DAF8 8 BHP 5KVA; solar 100 W x 54; RACON solar 70W"},
+  "issues": [
+    "No. of lens '2 (each 144°)'",
+    "Area of dioptric portion 5124 sq. cm but 'corrected area 38880 sq.cm' is larger",
+    "Date of commissioning given only as year 1934"
+  ]
+}

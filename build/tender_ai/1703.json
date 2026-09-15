@@ -1,0 +1,40 @@
+{
+  "nid": 1703,
+  "title": "Design, Supply, Installation, Testing and Commissioning of 01 number, 10 passengers (680Kg) machine room less Lift with SS Glass Cabin at Puducherry DGNSS Station.",
+  "summary": "Corrigendum extending the bid deadline for design, supply, installation, testing and commissioning of one 10-passenger (680 kg) machine-room-less lift with stainless steel glass cabin at Puducherry Lighthouse and DGNSS Station (Chennai Directorate).",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(32)/1/2024-Civil Maintenance; Tender ID 2024_DGLL_815181_1; I/61274/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Puducherry DGNSS Station", "station_id": "puducherry-lighthouse-and-dgps-station", "kind": "DGNSS", "work": "Design, supply, installation, testing and commissioning of 1 no. 10-passenger (680 kg) MRL lift with SS glass cabin"}
+  ],
+  "scope": [
+    {"item": "Design, Supply, Installation, Testing and Commissioning of machine room less lift, 10 passengers (680 kg), SS glass cabin", "qty": "1", "unit": "number", "site": "Puducherry DGNSS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": null
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": "2024-08-13", "bid_opening": "2024-08-14"},
+  "eligibility": [],
+  "specs": [
+    "Machine room less (MRL) lift, 10 passengers / 680 kg, stainless steel glass cabin"
+  ],
+  "corrigenda": [
+    {"date": "2024-07-24", "change": "Extension of last date: bid document download and online submission extended to 13.08.2024 15:00; bids opened 14.08.2024 15:00"}
+  ],
+  "documents": [
+    {"file": "EXTPuducherrylift.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only the date-extension corrigendum is in the listing; original NIT (cost, EMD, eligibility, original dates) not included. Official e-mail dlhlschennai@gmail.com printed."
+}

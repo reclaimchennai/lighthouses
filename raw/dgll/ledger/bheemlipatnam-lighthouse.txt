@@ -1,0 +1,81 @@
+                 Bheemlipatnam Lighthouse
+
+                      VISAKHAPATNAM DIRECTORATE
+                            MASTER LEDGER
+
+1. Name                      : BHEEMINIPATNAM LIGHT HOUSE
+
+2. Sr.No.                    : F 0978
+                             : Lat : 17o 56’.30” N
+3. Position
+                               Long: 83o 27’24” E
+4. Elevation                 : 10.97m above MSL
+                             : 3FL (W) every 15Seconds
+5. Characteristic
+                               (FL 1+ EC 2+FL 1+EC 2+FL 1+EC8=15sec)
+
+6. Range in nautical miles
+      i)       Luminous        :    15 M
+      ii)   Geographical       :    12 NM
+7. Lighthouse Tower
+      i)       Type            : Circular Brick masonry Tower
+      ii)   Height             : 10.97 Mtr
+      iii)  Colour
+                               : White day mark
+            Scheme
+8. Optical Equipment
+a)   i)     Make               : M/s. Aero marine
+      ii)      Model           : SL-155
+      iii)   Type         : LED Light Beacon
+      iv)    Commissioned :
+             on             17-11-2018
+      v)     Divergence
+         Main             : Horizontal 30, Vertical 30
+         Standby          : NIL
+            Emergency          : NIL
+      vi) Duration of flash
+        Main               : 0.38 seconds
+b) Pedestal                     : Aluminium L-5754
+
+
+
+
+e) Illuminant
+         i)     Main/Service : 12V, 18 W LED Light (Sea lite make SL155)
+f)    Effective Beam Intensity
+      i)   Main/Service :           9,000 cds.
+9. Lantern
+      i)   Diameter     :           2.6 Mtr
+      ii)  Height of
+                        :           1.1 Mtr
+           glazing
+      iii) No. of panes :               6 Nos.
+      iv)  Ventilators  :           6 Nos.
+
+10. Energy Source
+       A) APEPDCL
+                                :    Single Phase,230Volts, 50Hz mains
+          Mains
+      B) Green Energy           :    0.15KW off grid solar power plant for main light.
+
+         i)      Solar panels
+                                :    2 No 12V/150W( Vikram make)
+         ii)     Battery
+                                     2No 12V/100AH (Exide Tubular)
+
+      No. of Standby Diesel
+11.   Engine
+                                : Nil
+
+
+12.    Water Supply             : GVMC Water supply is provided.
+
+       Communication
+13.                             : AE(E) Dolphin Nose LH
+       Facility
+                                  Telephone No.2973441 (STD Code 0891)
+                                  e-mail : dolphinsnose-vizag@dgll.nic.in
+
+14.    Year of                  : 1868
+       Commissioned
+

@@ -1,0 +1,38 @@
+{
+  "nid": 1592,
+  "title": "Fabrication, Supply, Installation and Commissioning of LTCT Panel, Fuse Panel and Distribution Panel for 125KVA Generator Set at Deep Bhavan Chennai",
+  "summary": "E-tender for fabricating, supplying, installing and commissioning an LTCT panel, fuse panel and distribution panel for the 125 kVA generator set at Deep Bhavan, the Chennai Directorate office.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, 5/20 Jaffer Syrang Street, Chennai", "station_id": null, "kind": "office", "work": "LTCT panel, fuse panel and distribution panel for 125 kVA generator set"}
+  ],
+  "scope": [
+    {"item": "Fabrication, supply, installation and commissioning of LTCT panel, fuse panel and distribution panel for 125 kVA generator set", "qty": null, "unit": null, "site": "Deep Bhavan, Chennai"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1402588.0,
+    "emd_inr": 28052.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR of any nationalised bank and tender fee Rs 500 (non-refundable) by DD, both in favour of The Director of Lighthouses and Lightships, Chennai, payable at Chennai; EMD validity 90 days from technical bid opening. Tender fee and EMD exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "60 Days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-05-17", "pre_bid": "2024-05-24", "bid_submission_end": "2024-05-30", "bid_opening": "2024-05-31"},
+  "eligibility": [
+    "OEMs or their authorised agents, or appropriate class contractors registered with CPWD/State PWD/Railways/MES/BSNL or other Govt/PSU/autonomous bodies, with experience in similar works"
+  ],
+  "specs": ["125 kVA generator set; LTCT panel, fuse panel, distribution panel"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_0.pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled"]}
+  ],
+  "confidence": "high",
+  "notes": "Section-1 NIT only (printed pages 3-4); no file number, BOQ or specifications. Download/submission/EMD period 17/05/2024 15:00 to 30/05/2024 14:00; technical opening 31/05/2024 14:30."
+}

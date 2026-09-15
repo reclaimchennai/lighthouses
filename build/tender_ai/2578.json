@@ -1,0 +1,51 @@
+{
+  "nid": 2578,
+  "title": "Replacement of Trestle tower at Bitra Lighthouse in the UT of Lakshadweep - Fabrication & Supply of 30m high GI Trestle tower (Hot dipped Galvanized) at Deep Bhavan, Kochi.",
+  "summary": "Fabrication and supply of a 30 m high hot-dip galvanized GI trestle tower at Deep Bhavan, Kochi, for replacing the trestle tower at Bitra Lighthouse, Lakshadweep.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "2026_DGLL_920121_1; MS-Coc-38002/1/2019-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kochi"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Bitra Lighthouse", "station_id": "bitra-lighthouse", "kind": "lighthouse", "work": "Replacement of trestle tower"},
+    {"name": "Deep Bhavan, Kochi", "station_id": null, "kind": "office", "work": "Location for fabrication and supply of 30m GI trestle tower"}
+  ],
+  "scope": [
+    {"item": "Fabrication & Supply of 30m high GI Trestle tower (Hot dipped Galvanized) for replacement of trestle tower at Bitra Lighthouse", "qty": "1", "unit": null, "site": "Deep Bhavan, Kochi"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1695900.0,
+    "emd_inr": 33918.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD or MSME/UDYAM/NSIC certificate to be sent by post/in person. Bid Securing Declaration also listed among documents."
+  },
+  "period": {"completion": "120 days", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2026-07-31", "pre_bid": "2026-08-04", "bid_submission_end": "2026-09-14", "bid_opening": "2026-09-15"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/Autonomous bodies; OR for Lakshadweep contractors, island-works experience with any Government department during last 7 years",
+    "Satisfactory completion of similar works in last 7 years: three works each >= 40% of estimated cost, or two works each >= 50%, or one work >= 80%",
+    "Similar works: erection of trestle/lighthouse/communication tower or construction/maintenance of residential/institutional/office building, road etc. or related civil construction",
+    "PAN and GST registration",
+    "CA-certified annual turnover of last three years",
+    "Declaration that bid is unconditional; affidavit on Rs 100 stamp paper that bidder is not blacklisted",
+    "Undertaking with list of relatives serving as gazetted/account officers in MoPSW/DGLL",
+    "Copy of EPF/labour registration certificate; tender acceptance letter; bid securing declaration"
+  ],
+  "specs": [
+    "30 m high GI trestle tower, hot-dip galvanized"
+  ],
+  "corrigenda": [
+    {"date": "2026-09-03", "change": "Corrigendum-II: last date for bid submission extended to 14.09.2026 15:00; last date for submission of EMD/technical documents in original 11.09.2026 15:00; technical bid opening 15.09.2026 15:00. Other terms unchanged."}
+  ],
+  "documents": [
+    {"file": "NIT BITRA (1)_0.pdf", "pages": 5, "read": "vision", "language": "bilingual", "unreadable": []},
+    {"file": "corri.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 27.07.2026 originally set bid submission 31.07.2026 to 21.08.2026 15:00, bid query by 03.08.2026, EMD by 20.08.2026, tech bid opening 24.08.2026. Corrigendum-II (03.09.2026) extends dates; Corrigendum-I is not among the documents. In Corrigendum-II the EMD original deadline (11.09.2026) precedes the bid submission deadline (14.09.2026). Listing end date 2026-08-31 matches neither document. NIT excerpt is Section-I only (pages numbered 2-6); no BOQ or technical specification included."
+}

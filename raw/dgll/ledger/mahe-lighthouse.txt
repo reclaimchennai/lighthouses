@@ -1,0 +1,307 @@
+क्रमसं   नाम /Name
+ख्या/
+                                    वििरण/Description
+Sr.No
+
+1        ए.एल.ओ.एल/A.L.O.L.         F -0672
+
+2        स्थान/Position             Lat.11° 51’5’ N , long 75° 21’4’ E
+
+3        ऊंचाई/Elevation            35M ( MSL)
+
+4        अविलक्षण/Characteristic    Flash (1) W 10 sec (2.04+7.94)
+
+
+
+5        नॉविकल माइल मे दू री       18.80NM
+
+         Range in miles
+
+6        दीपस्तं ि िािर/L.H.Tower   Type                             Circular tower on RCC Base
+
+                                    Height                           23M
+
+                                    Colour Scheme                    Red and White Band
+
+7        ऑविकल उपकरण                Optic
+
+         Optical equipment          Make                             BBT,France
+
+                                    Type
+
+                                    Size                             187.5mm/5th order
+
+                                    No. of lens                      4
+
+                                    Area of dioptric portion         1256 cm2
+
+                                    Area of catadioptric portion ----
+
+                                    Divergence                       12 º 13’03’’ (Horizontal)
+
+                                    Main/Emergency                   18º19’35’’ (Vertical)
+
+                                    Duration of Flash                2.04 Sec
+
+                                    Main /Standby/Emergency
+
+                                    Pedestal                         Ball bearing
+
+                                    Rotation Device                  Stepper motor
+
+                                    R.P.M.                           1.5
+
+                                    Illumining                       Metal Halide Lamp
+
+                                    Main                             Cluster of 3 Nos150W/230V
+
+                                    Standby                          --
+                                          Emergency:                    -
+
+                                          Date of Installation          20.08.2005
+
+8    प्रिािी बीम तीव्रता/Effective beam   Main                          69750cds
+     intensity
+                                          Emergency
+
+9    लें िनन /Lantern                     Diameter                      2.4 m
+
+                                          Height of glazing             1.4m
+
+                                          No. of panes                  12 Nos
+
+                                          Ventilators                   5 Nos
+
+10   RACON                                    Nil                           NIL
+
+     Make                  Model          Code                          Band               Date of
+                                                                                           Installation
+
+          Nil                   Nil           Nil                             Nil              Nil
+
+
+
+11   NAIS
+
+     Base Station                                     Nil
+
+
+
+     Model                 Type              Power                      MMSI
+
+          Nil                   Nil                 Nil                       Nil
+
+     Communication
+     Equipment
+
+     VSAT Antenna          Band              Modem
+
+          Nil                   Nil                 Nil
+
+                           Make              Particulars                Quantity
+
+     Musical Fountain      M/s               Fountain system            1 Set
+     System                Chammachel        comprising system
+12
+                           water fountain    control panels, Fountain
+                           & Aquarium        Nozziles, 10 HP motors-
+                                             3 Nos
+
+
+
+13   ऊर्ान के साधन/        Mains                                        Local mains 440 V,3 phase,50 HZ AC
+     Source of energy                                                   supply
+
+                           Power Source                                 DG Set 7.5 KVA make Kirloskar
+                                                                        DG Set 30 KVA make
+                                                                        Kirloskar(Musuem and Musical
+                                                                        fountain)
+
+
+
+                            Engine 1 ( 7.5 KVA)
+
+                            Make/Type              Qty       Rating     No of       RPM           Cooling
+                                                                        Cylinder
+
+                            Kirloskar              1         EA16       3           1500          Air
+
+                            Alternator
+
+                            Make/Type              Qty       Rating     Voltage/    Frequency     Phase
+                                                                        Amp
+
+                            Kirloskar              1         7.5 KVA    240V/30A    50Hz          Single
+
+                            Engine 2
+
+                            Make/Type              Qty       Rating     No of       RPM           Cooling
+                                                                        Cylinder
+
+                            Kirloskar              1         HA494      3           1500          Air
+
+                            Alternator
+
+                            Make/Type              Qty       Rating     Voltage     Frequency     Phase
+
+                            Kirloskar              1         30 KVA     415 V       50Hz          Three
+                                                                                                  phase
+
+                            Solar System
+
+                            Type                   Make      Rating     No of panels            Date of
+                                                                                                Installation
+
+                            Solar panel            HHV       260Watts   8 Nos                   14.02.2017
+
+                            Monocrystalline
+
+
+
+                            Make/Type              Qty       No. of     Rating/Volt Solar Inverter Make
+                                                             Battery    age
+                                                             bank
+
+                            Amaraja LMLA           24        2 Nos      2V /200AH      Luminous power
+                                                   each
+
+
+
+14   स्वचावलत िोल्टे र् स्टे बलाइर्र Automatic Voltage Stabilizers
+     Make                      Model           Capacity       Input                   Output             Phase        Qty
+
+     Automatic                 ---             7.5 KVA        160-270V                230+- 2.5%V        Single       1
+     Electric LTD
+
+
+
+15   बैिरर Batteries
+
+     Equipment                 Type            Make       Volt            Amp/Hr               Qty
+
+     ----                      -               -          -               -                    -
+
+     Genset                    Lead acid       Exide      12V             100AH                2
+
+     Automation                SMF             Exide      12V             12 AH                1
+
+
+
+16   बैिरर चार्न र/ Battery charger
+
+     Equipment                 Make            Volts     Capacity                     Qty
+
+     General Purpose
+
+                               Dimmer Stat     0-        25Amps                       01
+                               Type            24V
+
+17   इं वर्ट र Inverter /UPS
+
+     Equipmen       Nos        Make        Model                      Type            Rating       Qty     input          Output
+     t
+
+     Main           3          Su-         900VA                      Pure sine       1KVA         3       12V DC &       170-
+     Light                     kam                                    wave                                                260V
+                                                                                                           230 AC
+                                                                                                                          AC
+
+     Stepper        01         Su-         900VA                      Pure sine       1 KVA        1       12V DC &       230VA
+     motor                     kam                                    wave                                                C
+                                                                                                           230 AC
+
+18   स्वचलन उपकरण Automation Equipment
+
+     MAKE           PLC                HMI           Power Supply             VSAT             Modem        Band
+
+                    Allen Bradley      Renu          24 V DC                  1.2m dia         Hughes
+                                       Electronic
+                                                                              Parabolic
+                                       s Pvt.Ltd
+                                                                              reflector
+
+19   आवि शमन उपकरण                             Type of Extinguisher           Capacity             Nos       Make
+
+     Fire Fighting Equipment                   DCP Type                       4Kg/6 kg             6 Nos
+
+                                               Foam Type                      9 Ltr                5 Nos
+                           Smoke dectector          --              8 Nos
+
+20   संचार Communication   0497-2707838
+
+
+
+21   र्ल पूवतन             Water supply available- Cantonment Board
+
+     Water Supply          Open Well Provided in the Lighthouse compound
+
+22   िू वम                 Area                                   0.833468 hectre
+
+     Land                  Demarcation
+
+                           Masonry compound wall
+
+23   इमारतें               RCC Structure:                         Power House-with Office-
+                                                                  1No
+     Buildings
+                                                                  Musuem Bulding- 1 No
+
+                                                                  N.A- I Quarter-1 No
+
+                                                                  N.A –II Quarter-2Nos
+
+                                                                  L.H.A- Quarter -2 Nos
+
+                                                                  Inspection Quarter-1 No
+
+
+
+
+24   कंपाउं ड लाइि         LED Light fitted on G.I Pole-7 Nos
+
+     Compound Lights
+
+25   सीसीिीिी कमे रा       Camera    (Lighthouse)                 Alhua-07Nos
+
+     CCTV CAMERA           DVR                                    01 Nos
+
+                           Camera (Museum)                        HIK Vision -5 Nos
+
+                           DVR                                    No
+
+26   स्टाफ                 Sl. No        Designations
+
+     Staff                 1             Navigational Assistant -I -1No
+
+
+
+                           2             Navigational Assistant -II-1 No
+
+
+
+27   पहुँ चने का माध्यम    By Rail up to Kannur railway station then 3 Km by road upto
+                           Lighthouse.
+     Mode of approach
+28   उपलब्ध सुविधाए                  Kannur citypolice station 5 Km from Lighthouse and District Hospital
+                                     3 Km from Lighthouse.
+     Facilities available
+                                     Post office at burnassery 1 Km from Lighthouse
+
+29   डाक पताPostal address           Navigational Assistant Gr-I
+
+                                     Kannur Lighthouse
+
+                                     Burnacherry Post ,Near guest house
+
+                                     Kannur-670013
+
+                                     Kerala
+
+30   मू ल्यका ब्योराCost details     2,32,000/-
+
+     (At the time of Construction)
+
+31   प्रितनन मे लाने का दे नां क     25.07.1976
+
+     Date of commissioning
+

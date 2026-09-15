@@ -1,0 +1,175 @@
+                   मास्टर लेजर/MASTER LEDGER
+क्रमसं         नाम /Name
+ ख्या/       Betul Lighthouse                              वििरण/Description
+Sr.No
+   1        ए.एल.ओ.एल/A.L.O.L.                                  F 0631
+   2           स्थान/Position                               15° 08’.41.7” N
+                                                            73° 57’29.6‟ E
+  3         ऊंचाई/Elevation                                      89 M
+  4      अविलक्षण/Characteristic                             FL4 (W) 15S
+  5        नॉविकलमाइलमेदूरी                                     22NM
+             Range in miles
+  6      दीपस्तंििािर/L.H.Tower                 Type                  octagonal shaped RCC
+                                               Height                          15 mtrs
+                                           Colour Scheme              spiral band red & white
+  7           ऑविकलउपकरण                       Optic
+            Optical equipment
+                                               Make                          3STECHS
+                                               Type                          Revolving
+                                                Size                Dia 550 mm Height 900mm
+                                             No. of lens          3 tyre 3 panel (each panel 3 led
+                                                                               lights)
+                                       Area of dioptric portion               11.111
+                                         Area of catadioptric                    110
+                                               portion
+                                             Divergence                       2.5 degrees
+                                          Main/Emergency
+                                          Duration of Flash            Flash (1) white 15 sec
+                                                Main
+                                        /Standby/Emergency
+
+                                             Pedestal                   GI round (circular)
+                                          Rotation Device                Stepper motor
+                                               R.P.M.                         4 RPM
+                                            illumining              3X 30 Watts=90 watts Led
+                                                                               lamp
+                                                Main               Goa Electricity board Single
+                                                                              phase
+                                              Standby                  D.G Set single phase
+                                            Emergency:                       ----------
+                                         Date of Installation     Subsequent innovations 2021
+  8      प्रिािीबीमतीव्रता/Effective      Main & Standby
+               beam intensity               Emergency                            NA
+  9                                          Diameter                           2.4 M
+             लेंिनन /Lantern                      Height of glazing                                   1.4 M
+                                                   No. of panes                                         12
+                                                    Ventilators                                         06
+10            RACON                                    Sr. No                                         6295
+          Make                 Model                   Code                              Band                   Date of
+                                                                                                              Installation
+
+11                                                         NAIS
+             Base Station
+
+          Model                Type                     Power                            MMSI
+
+     Communication               -                             -                            -
+       Equipment
+      VSAT Antenna             Band                    Modem                                -
+        2.4m dia               EX-C                Datum system
+        Parabolic                                        M7LT
+        reflector                                 Satellite Terminal
+          DGPS
+       Transmitter       Frequency               Power             RS 1 ID        RS -II        Beacon         Date   Dat
+          Make                                   Output                            ID             ID             of   e of
+                                                                                                                      Rec
+                                                                                                              commi apit
+                                                                                                              ssionin aliz
+                                                                                                                 g    atio
+                                                                                                                          n
+             -                   -                  -                --             -             -               -       -
+
+12   ऊर्ान केसाधन/Sour                            Mains                                 State electricity 230VAC
+      ce of energy                               Standby
+                                                                     Engine 1
+                                Make/Type               Qty         Rating          No of               RPM           Cooling
+                                                                                   Cylinder
+                                     Kirloskar          01          15kva              2                1500            Air
+                                                                                                                                c
+                                                                                                                                o
+                                                                                                                                o
+                                                                                                                                l
+                                                                                                                                i
+                                                                                                                                n
+                                                                                                                                g
+                                                                     Alternator
+                                Make/Type               Qty         Rating        Voltage/Am          Frequency       Phase
+                                                                                       p
+                                     Kirloskar          01          15 kva            62.5              50.HZ         Single
+                                                                                                                      phase
+                                                                     Engine 2
+                                Make/Type               Qty         Rating          No of               RPM           Cooling
+                                                                                   Cylinder
+                                         -                 -          -                -                  -
+                                                                     Alternator
+                             Make/Type               Qty           Rating          Voltage/Am          Frequency       Phase
+                                                                                        p
+                                  -                       -             -               -                  -              -
+
+                                            Solar Plant
+                             Capacity PV                      Numbers                 Type              Battery        Bank
+                               400W                           100Wx4               Monocrystall        100AH/12V          2
+                                                                                      ine
+                                 Solar Plant for Main RACON
+                             Capacity PV                      Numbers                 Type              Battery        Bank
+
+
+13                                     स्वचावलतिोल्टे र्स्टे बलाइर्र
+                                      Automatic Voltage Stabilizers
+
+         Make            Model          Capa                  Input                   Output             Phase         Qty
+                                         city
+
+14                                             बैिरर
+                                             Batteries
+      Equipment          Type           Make        Volt                           Amp/Hr                Qty
+       PSS NAIS        --
+        Genset         SMF                 KOEL                 12v                  75ah                  1
+      Automation       --
+         DGPS          --
+15                                     बैिररचार्नर/ Battery charger
+
+       Equipment         Make           Mod                    Type                  Rating              Qty
+                                         el
+     General Purpose     -NA-
+       Automation        -NA-
+16                                          इं वर्ट रInverter /UPS
+     Equipme    Nos    Make                Model               Type                Rating         Qt           input      out
+         nt                                                                                        y                      put
+       Main     01     MW                  ISI-501                      -           500           01           24 V       230
+       Light                                                                       WATTS                                   V
+     NAIS PSS   -NA-
+      DGPS      -NA-
+17                                      स्वचलनउपकरण
+                                     Automation Equipment
+      MAKE          PLC          HMI     Power Supply     VSAT                               Modem                 Band
+      -NA-
+18        आविशमनउपकरण                           Type of                       Capacity            Nos              Make
+       Fire Fighting Equipment                Extinguisher
+                                             DCP Type(u/s)                  -NA-
+                                             DCP Type(u/s)                  -NA-
+                                            Foam Type(u/s)                  -NA-
+                                            Water Type(u/s)                 -NA-
+                                        DCP Type            -NA-
+
+
+19             संचार                            08322914478
+           Communication
+20            र्लपूवतन                                     Bore well 245 ft
+            Water Supply
+21              िूवम                                Area                           0.198 Acres
+               Land                             Demarcation                    Compound wall
+
+22              इमारतें                    Staff Quarter     2 Nos            Office 1 No, power
+               Buildings                   Inspection Quarter 1 No                House 1 No
+                                                                               Store room 1 No
+23          कंपाउं डलाइि                           06 Nos
+          Compound Lights
+24         सीसीिीिीकमेरा                           Camera                             -NA-
+           CCTV CAMERA                              DVR                               -NA-
+25             स्टाफ                 Sl. No                         Designations
+                Staff                  1                Navigational Assistant Grade II
+
+26          पहुँ चनेकामाध्यम                    Nearest rly station margoa 22 km
+          Mode of approach
+27          उपलब्धसुविधाए            Marine Police                        5.6 KM
+          Facilities available          Station
+                                      Dispensary                          9.8 KM
+                                      High School                         2.4 KM
+                                       Post office                       4 KM
+28      डाकपताPostal address            Betul Lighthouse post:-velim:-salcete south Goa
+29     मूल्यकाब्योराCost details                                -
+     (At the time of Construction)
+30        प्रितननमेलानेकादे नां क                                  2014
+        Date of commissioning
+

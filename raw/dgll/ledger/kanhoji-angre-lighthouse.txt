@@ -1,0 +1,153 @@
+                                           मुंबई निदे शालय
+                                             मास्टर लेजर
+
+                          कान्होजीआुंग्रेदीपस्तुंभ/ Kanhoji Angre Lighthouse
+क्रम संख्या/Sr.   नाम/ Name               वििरण/Discription
+No.
+1                 नाम/ Name               कान्होजीआंग्रे/kanhoji Angre
+2                 ए.एल.ओ.एल/A.L.O.L.      F 0556
+3                 स्थान/Position          Lat. 180 42’ 11.43’’N
+                                          Long. 720 48’ 47.35’’E
+4                 ऊंचाई/Elevation         47 m
+5                 अभिलक्षण/Characteristic fl (2) WR 10 Sec.
+6                 नॉटिकल माइल में         Luminous- W – 25, R – 22
+                                          Geographical- --
+                  दरू ी/Range in n. miles
+7                 दीपस्तंििािर/L.H. Tower Type                           Octagonal masonry tower
+                                          Height                         17 m
+                                          Color Scheme                   ---
+8                 ऑप्टिकल                 Optic
+                  उपकरण/Optical           Make                           Wealth Marine WM-RB 500
+                  equipment                                              Marinerotating beacon
+                                          Size                           200mm
+                                          No. of panels                  6 nos. clear ‘’Bulls Eye’’ Acrylic
+                                                                         panels spaced at 60(Hexagonal)
+                                          Arrangement                    WM FL 1006 place automatic
+                                          Of lamps                       12V, C8
+                                                                         pre- focused 6 nos. 12V/50W
+                                                                         Marine Halogen Lamps
+                                          Divergence                     Horizontal – 4.480, Vertical –
+                                                                         3.260
+                                          Mains
+                                                                         Main 50 03’ (Horizontal)
+                                          Emergency                      40 59’ (Vertical)
+
+                                                                         ---
+                                          Duration of Flash               Main 3 sec.
+                                          Main & Standby
+                                          Pedestal                       Mercury float (200 Kg. In use)
+
+                                          Rotation Device                ---
+                                R.P.M.                                  3
+
+                                Illuminant
+
+                                Main
+                                Standby                                 -----
+                                Emergency
+9    Effective beam intensity
+                                Main & Standby                          ---
+                                Emergency                               ---
+
+10   लैंिनन/Lantern             Diameter                                4.50 m
+                                Height of glazing                       2.82 m
+                                No. of panes                            48 ( in 3 tiers )
+                                Ventilators                             15 nos.
+11   लैंप चें जर/Lamp Changer   N.A.
+12   ऊजान के साधन/Source of     Solar panels Make Tata BP,16 nos. 74W.
+                                Solar panels Make MONO, crystalline 12 nos. 200W.
+     energy
+13   No. of standby Diesel      Engine 1
+     Generators
+                                Engine       Make/Type           HP     No.                 RPM        Cooling
+                                No.                                     ofCylinder
+                                HA 294       Kirloskar           20.5   02                  1500       Air
+                                SR 111                                                                 Cooled
+                                Engine 2 & 3 (U/S)
+                                Engine         Make/Type         HP     No.        RPM                 Cooling
+                                No.                                     ofCylinder
+                                DAF            Kirloskar         08     01          1500               Air
+                                                                                                       Cooled
+14   Details of Alternator      Engine 1
+                                Frame         Make         KVA    Vol   Amp         Freq      Phas       RPM
+                                                                                              e
+                                Kirloskar KG184B            15    230V 65.2A        50        Single     1500
+                                                                                    Hz
+                                4DS.212 Kirloskar           05    230V 21.5A        50        Single     1500
+                                                                                    Hz
+15   स्िचाभलत िोल्िे ज           N.A
+     स्िे बलाइजर/Automatic      Make                                     N.A
+     Voltage Stabilizers        Type                                     N.A
+                                Capacity                                 N.A
+                                Input                                    N.A
+                                Output                                   N.A
+16   बैिरी/Batteries          06 Nos.; 12V 600 AH VRLA Battery Bank
+17   अप्ननशमन उपकरण/Fire      Fire Extinguishers                     N.A
+     Fighting Equipment       D.C.P. Type (3.2 Kg capacity)          N.A
+                               Foam type ( 9 lit. capacity)          N.A
+                              Fire buckets                           N.A
+18   संचार/Communication      N.A
+19   जलपूर्तन/Water Supply    Rain water collection
+20   िभू म/Land               Area                                  ---
+                              Demarcation                           ---
+                              No. of fruit trees                    30 nos.
+                              No. of non-fruit bearing trees        05 nos.
+21   इमारतें /Buildings       Power House, Boat shed, pump house, Light keepers dwellings, Gr.D
+                                      hut, cook house
+22   कम्पौंड लाईि/Compound    20 nos. (Solar street lights, 12/40AH battery and 40W solar panal)
+     Lights
+23   स्िाफ/Staff              N.A. I                                ---
+                              N.A. II                               1
+                              N.A. III                              1
+                              LHA                                   1
+                              Safaiwala                             ---
+24   पहुँचने का माध्यम/Mode   By bus up to Thal then by motor launch up to lighthouse
+     of approach
+25   उपलब्ध                   High School, Dispensary, Police station And Post office at Alibaug
+                              approx. 10
+     सविधाये/Facilities       Km. from Lighthouse
+     available
+26   डाकपता/Postal address    Head Light keeper, KanhojiAngre Lighthouse, Post Office Thal, Dist.
+                                     Raigad.
+27   मल्य का ब्यौरा/Cost      Construction                         Rs.1,22,414/- (including cost of
+                                                                           equipment)
+     details
+28   प्रितनन में लाने का      April 1887 (Taken over from Mumbai Port Trust on 11.10.2007)
+     टदनांक/Date of
+     commissioning
+29   Automation Equipment     Remote terminal unit (RTU)
+
+                              Comprising of                       a) Indoor unit (IDU) for
+                                                                  communication
+                                                                  b) Programmable Logical
+                                                                  Controller
+                                                                  c) Human Machine Interface(HMI)
+                                                                  d) Input/Output Module (STB)
+                                                             e) Ethernet Switch 16 Ports 10/100
+                                                             Dest top Switching
+                                                             f) Ethernet Gateway ( Modbus to
+                                                             Ethernet converter)
+                                                             g) Power supply for various
+                                                             modules in RTU
+                                                             i) 24 to 24 V DC-DC converter
+                                                             ii) 24 to 12V DC-DC converter
+                                                             h) Power supply for RTU
+                                                             i) 12 V 26 AH- 4 Nos
+                        Charger for RTU Battery              24V, 20 A SMPS “Power
+                                                                       Engineering” Make( For
+                                                                       Charging the RTU battery)-
+                                                                       1 No
+                            V-SAT Communication              a)1.8m dia Parabolic reflecto (
+                            Equipment                                  Microwave Dish Antenna)
+                                                             b)Outdoor Unit (ODU) for
+                                                                       communication
+                                                             c) Block Up Converter(BUC) and
+                                                                       Low noise block (LNB)
+                                                                       convert
+                        Transducer                           a) Power line meter
+                                                             b) DC signal isolator
+                                                             c) Proximity switch
+30   Other Vital Aids   Static sensor station having high end surveillance RADAR, Electro Optic
+                                 Sensors (CCD Day Camera and Thermal Imagers), VHF sets
+                                 and Meteorological equipment’s.
+

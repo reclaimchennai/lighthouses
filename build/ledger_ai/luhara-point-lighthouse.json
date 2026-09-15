@@ -1,0 +1,41 @@
+{
+  "slug": "luhara-point-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Luhara Point Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1977,
+  "alol": "F 0470",
+  "position": {"lat_text": "21° 39.57' N", "lon_text": "72° 32.89' E", "lat": 21.6595, "lon": 72.548167},
+  "elevation_m": 28,
+  "characteristic_text": "fl W 15 Sec.(FL 0.5 Sec+14.5 Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "FL 0.5 Sec+14.5 Sec",
+    "sequence_s": [0.5, 14.5],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 23.5, "geographical_nm": null, "text": "23.5 NM (single unlabelled range)"},
+  "tower": {"type": "C.I. Circular tower on RCC Base", "height_m": 24, "colour_scheme": "Red and White Spiral Band"},
+  "optic": {
+    "make": "M/S. Ana, New Delhi", "model": "GRL-48MK-II", "type": "An Octagonal lens panel assembly; GRL-48MK-II gearless rotation", "size": "200mm", "order": null,
+    "panels": 4,
+    "rotation_device": "12V DC stepper motor",
+    "rpm": 1,
+    "rotates": true,
+    "rotates_evidence": "Type: GRL-48MK-II gearless rotation; Rotation Device: 12V DC stepper motor; R.P.M. 1",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "230V/150W Metal Halide Lamp"
+  },
+  "intensity_cd": 468750,
+  "racon": {"present": true, "code": "D", "text": "Tideland Sea Beacon 2 System 6, Sr. No 6295, Code D, Band X+S, installed 06-10-2005"},
+  "ais": {"present": true, "text": "NAIS 2 Nos AIS1 & AIS2, Model R40, Class A, MMSI 004192221"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Torrent Power supply 3 phase 440V 50Hz; Standby DG Set 7.5 KVA Kirloskar Green; Solar 200 Wp x 18 Nos; RACON solar 75 W x 2"},
+  "issues": ["No. of lens printed 'Acrylic Fresnel lens assembly & 4 lanes +4 Blanks' (octagonal assembly); 4 lenses used", "RACON Sr. No 6295 is the same serial as in East Island and Kalpeni ledgers"]
+}

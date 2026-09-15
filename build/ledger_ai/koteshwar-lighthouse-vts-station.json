@@ -1,0 +1,46 @@
+{
+  "slug": "koteshwar-lighthouse-vts-station",
+  "pages_read": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "name": "Koteshwar Lighthouse & VTS Station",
+  "station_type": "lighthouse",
+  "established_year": 2012,
+  "alol": "F-0354",
+  "position": {"lat_text": "23° 41.06' N", "lon_text": "68° 31.8' E", "lat": 23.684333, "lon": 68.53},
+  "elevation_m": 50.3,
+  "characteristic_text": "Fl (2)W15 sec [(fl 1s, ec 3s), fl 1s, ec10s]",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "(fl 1s, ec 3s), fl 1s, ec 10s",
+    "sequence_s": [1, 3, 1, 10],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": null, "text": "18 NM (single unlabelled range); optic noted as 13–19NM AT@ 0.74"},
+  "tower": {"type": "RCC Circular concrete Tower", "height_m": 60, "colour_scheme": "4 black and 3 white bands. (Bottom band black)"},
+  "optic": {
+    "make": "Sealite, Australia", "model": "SL300-1D5-1-W", "type": "LED Flasher", "size": "373mm lens diameter", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type of Light (LED Flasher); Type of Light structure: Stationary LED flashing light",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 1.5,
+    "divergence_text": "Horizontal Output 360°; Vertical Divergence >1.5°",
+    "illuminant": "LED; 24 V DC, 16A, peak power 384W"
+  },
+  "intensity_cd": 94400,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Main supply 230 V 1 phase 50HZ from PGVCL; Kirloskar DG sets 02 Nos 40 KVA; on-grid 30 KW solar system (120 Navitas panels, Delta inverter)"},
+  "issues": [
+    "Elevation given as sum '46.5+3.8=50.3 M'",
+    "Vertical divergence stated only as '>1.5°'",
+    "Physical characteristic values are misaligned with their labels on page 1 (e.g. lens diameter/height/width rows shifted)",
+    "No RACON/NAIS/DGPS sections; page numbering reads 'Page 9 of 8'"
+  ]
+}

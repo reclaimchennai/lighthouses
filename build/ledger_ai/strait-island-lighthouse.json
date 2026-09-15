@@ -1,0 +1,41 @@
+{
+  "slug": "strait-island-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Strait Island Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1983,
+  "alol": "F 1202.66",
+  "position": {"lat_text": "12° 11.80’ N", "lon_text": "92° 56.10’ E", "lat": 12.196667, "lon": 92.935},
+  "elevation_m": 27,
+  "characteristic_text": "Fl (3) W 20 Sec (fl 0.8, ec 1.2) x 2, fl 0.8, ec 15.2",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "(fl 0.8, ec 1.2) x 2, fl 0.8, ec 15.2",
+    "sequence_s": [0.8, 1.2, 0.8, 1.2, 0.8, 15.2],
+    "flash_duration_s": 0.8
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 8, "geographical_nm": null, "text": "8 NMiles (unlabelled)"},
+  "tower": {"type": "GI Trestle Tower", "height_m": 14, "colour_scheme": "Painted White"},
+  "optic": {
+    "make": "LMV", "model": "BDL250", "type": "LED Flasher", "size": "250mm", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Rotation Device: White Flashing Light; R.P.M. NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 2950,
+  "racon": {"present": false, "code": null, "text": "RACON - NA-"},
+  "ais": {"present": false, "text": "NAIS base station model/type/MMSI blank; only 'VSAT Antenna Prodelin 2.4 meter' listed"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": false, "text": "Solar plant 70W, 01 Mono Crystline panel, 12V/100AH battery; mains row blank, no engines listed"},
+  "issues": []
+}

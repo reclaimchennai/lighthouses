@@ -1,0 +1,114 @@
+{
+  "slug": "balasore-navtex-station",
+  "page_count": 4,
+  "title_as_printed": "BALASORE NAVTEX STATION MASTER LEDGER",
+  "sections": [
+    {"no": "l.", "title": "Name", "title_hi": null, "page": 1,
+     "fields": [{"label": "Name", "value": "Balasore Navtex station"}], "tables": [],
+     "text": "[photo: station building with mast, in header]"},
+    {"no": "2", "title": "Position", "title_hi": null, "page": 1,
+     "fields": [{"label": "Position", "value": "Lat. 21°29'10.8\"N Long. 86°55’0l \"E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Power supply", "title_hi": null, "page": 1,
+     "fields": [{"label": "i)", "value": "3 PH Mains supply, 440 V AC, 50Hz."}], "tables": [], "text": null},
+    {"no": "4", "title": "Stand by Power Supply", "title_hi": null, "page": 1,
+     "fields": [{"label": "Stand by Power Supply", "value": ": 20 KVA Diesel Engine Generator sets 2 Nos."}], "tables": [], "text": null},
+    {"no": "5", "title": "Details ofEngine", "title_hi": null, "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sl.No.", "Engine No.", "Make", "HP", "No. of Cylinder", "RPM", "Cooling", "Date of Installation"],
+        "rows": [["1.", "522728907023", "EICHER", "18.9", "02", "1500", "Air Cooling", "25-02-2015"],
+                 ["2.", "522728906050", "EICHER", "18.9", "02", "1500", "Air Cooling", "25-02-2015"]]}
+     ], "text": null},
+    {"no": "6", "title": "Details ofAlternator", "title_hi": null, "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sl.No.", "Make", "KVA", "Volt", "Amp", "Freq", "Phase", "Power Factor", "Date of Installation"],
+        "rows": [["1.", "Kirloskar", "20", "240", "83.3", "50Hz", "Single", "0.8", "25-02-2015"],
+                 ["2.", "Kirloskar", "20", "240", "83.3", "50Hz", "Single", "0.8", "25-02-2015"]]}
+     ], "text": null},
+    {"no": "7", "title": "H.S.D. Storage tank nos. Capacity", "title_hi": null, "page": 1,
+     "fields": [{"label": "H.S.D. Storage tank nos. Capacity", "value": "Two Nos. in build oil tank inside silent engine"}], "tables": [], "text": null},
+    {"no": "8", "title": "Solar Plant", "title_hi": null, "page": 1,
+     "fields": [], "tables": [],
+     "text": "25 KW On Grid Solar Power plant installed on 22.12.2016, with 100 Nos. SPV Modules 250W/24 V DC. Inverter capacity 30 KW, make Power One. Solar Net Metering Installed on 19.08.2017."},
+    {"no": "9", "title": "Automatic Voltage Stabilisers (2+1) numbers", "title_hi": null, "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sl.", "Make", "Type", "Capacity", "Input", "Output", "Date of Installation"],
+        "rows": [["i)", "Delta Electronic,", "Servo Control", "15 KVA,", "120V-260V AC", "230 V", "05.06.92"],
+                 ["ii)", "Blue Bird", "Servo Control", "15 KVA,", "l70V-270V AC", "220 V", "31.12.14"]]}
+     ], "text": "Item ii) continues on page 2 (Input, Output, Date of Installation)."},
+    {"no": "10", "title": "Batteries", "title_hi": null, "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["SI. No.", "Particulars", "Qty.", "Date of Installation"],
+        "rows": [["1.", "12 V 88 AH Exide make Lead Acid batteries for Genset starting purpose.", "02 Nos.", "25.02.2015"],
+                 ["2.", "12 V 150 AH Exide make Lead Acid batteries for NAIS", "02n Nos.", "25.02.2015"]]}
+     ], "text": null},
+    {"no": "11", "title": "EAVTEX", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "i) Make", "value": "Danphone"},
+       {"label": "ii) Transmitter", "value": "Duel frequency"},
+       {"label": "iii) Frequency", "value": "490 KHz/5l8KHz"},
+       {"label": "iv) Power Output", "value": "1000W"},
+       {"label": "v) Navtex receiver", "value": "GMDSS receiver, Sirus 3"},
+       {"label": "vi) LAN switch", "value": "Model no: JFS516"},
+       {"label": "vii) I P Switch", "value": "level one"},
+       {"label": "viii) power supply unit", "value": "Two unit"},
+       {"label": "ix)Personal Computer", "value": "Make– Hp Compaq with Key Board & Mouse With 01 No Deskjet Printer HP 3545"},
+       {"label": "x) UPS", "value": "Capacity — 7.5 KVA, Make-Power Gun System. model no: PI ONLINE UPS."},
+       {"label": "xi) Batteries", "value": "Make- HI power Capacity- 12VDC/42AH 10 nos. for 7.5 KVA UPS"},
+       {"label": "xii) Date of Installation", "value": "31.12.14"}
+     ], "tables": [], "text": null},
+    {"no": "12", "title": "NAIS", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "i)", "value": "AIS Base station -02 nos. R-40(make Saab Transponder)"},
+       {"label": "ii)", "value": "Switch, Router ,Lease line Modem, GPS antenna & VHF antenna"},
+       {"label": "iii)", "value": "UPS-APC make-lKVA 01 no."},
+       {"label": "iv) Date of commissioning:", "value": "6.12. 2012"}
+     ], "tables": [], "text": null},
+    {"no": "13", "title": "Fire Extinguisher", "title_hi": null, "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["SRL No.", "Type", "Capacity", "Qty", "Date of Supply", "Installed at"],
+        "rows": [["I", "DCP", "6 kg", "01", "01-12-2017", "Oil store"],
+                 ["2", "BC", "5 kg", "02", "31.12.14", "Transmitter room ,Engine room"],
+                 ["3", "ABC", "6 Kg.", "03", "01-12-2017", "NAIS room, NAVTEX coil house, Distribution room"]]}
+     ], "text": null},
+    {"no": "14", "title": "Fire buckets", "title_hi": null, "page": 3,
+     "fields": [{"label": "Fire buckets", "value": "2 Nos."}], "tables": [], "text": null},
+    {"no": "15", "title": "Communication", "title_hi": null, "page": 3,
+     "fields": [{"label": "Communication", "value": "BSNL Telephone and internet Tel. No. 06782 — 262134"}], "tables": [], "text": null},
+    {"no": "16", "title": "Water Supply", "title_hi": null, "page": 3,
+     "fields": [{"label": "Water Supply", "value": "Submersible borewel."}], "tables": [], "text": null},
+    {"no": "17", "title": "Land", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "i) Area", "value": "30.495 Acre"},
+       {"label": "ii) Demarcation", "value": "Brick Masonry Compound Wall."},
+       {"label": "iii) No. of fruit trees", "value": "20 nos."},
+       {"label": "iv) No. of non-fruit bearing trees:", "value": "10 nos"}
+     ], "tables": [], "text": null},
+    {"no": "18", "title": "Buildings", "title_hi": null, "page": 3,
+     "fields": [{"label": "Buildings", "value": "Inspection Quarter, Technical Building, Pump House, Office, Store room, One unit of NAG-II Qtr.; One unit of LHA Qtrs. Vacant Qtr 12 nos.; Coil house 2 nos, Security room I no"}], "tables": [], "text": null},
+    {"no": "19", "title": "Compound Lights", "title_hi": null, "page": 3,
+     "fields": [{"label": "Compound Lights", "value": "26 nos. G.I. Pipe poles Solar module l20wp, l2V, LED light 24Watt SMF battery l2V,120Ah"}], "tables": [], "text": null},
+    {"no": "20", "title": "Staff", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "N.A-II.", "value": "-01"},
+       {"label": "LHA", "value": "- 01"}
+     ], "tables": [], "text": null},
+    {"no": "21", "title": "Mode of approach", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "(i)", "value": "By rail Balasore rail Station to 4 Kms."},
+       {"label": "(ii)", "value": "By road Balasore Bus statnd to 8 Kms."}
+     ], "tables": [], "text": null},
+    {"no": "22", "title": "Facilities available", "title_hi": null, "page": 3,
+     "fields": [{"label": "Facilities available", "value": "Post Office 5 KM, Police Station 8 Kms., District H.Q Hospital 6 KM"}], "tables": [], "text": null},
+    {"no": "23", "title": "Postal address", "title_hi": null, "page": 3,
+     "fields": [], "tables": [],
+     "text": "Assistant Executive Engineer\nBalasore Loran C Station\nLight house\nNear police line\nP.O + Dist- Balasore\nOdisha-756001"},
+    {"no": "", "title": "Page 4", "title_hi": null, "page": 4,
+     "fields": [], "tables": [], "text": "[blank page; footer \"4 | Page\" only]"}
+  ],
+  "unreadable": []
+}

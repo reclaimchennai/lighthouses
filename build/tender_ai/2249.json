@@ -1,0 +1,44 @@
+{
+  "nid": 2249,
+  "title": "Replacement of Roof slab in Powerhouse & Inspection Quarter and Improvement works at Kilakkarai Lighthouse station",
+  "summary": "Open e-tender (percentage rate) for replacing the roof slabs of the powerhouse and inspection quarter and other improvement works at Kilakkarai Lighthouse, Ramanathapuram district, Tamil Nadu.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(20)/1/2020-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, 5/20 Jaffer Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kilakkarai Lighthouse station", "station_id": "kilakkarai-lighthouse", "kind": "lighthouse", "work": "Replacement of roof slab in powerhouse and inspection quarter and improvement works"}
+  ],
+  "scope": [
+    {"item": "Replacement of roof slab in Powerhouse & Inspection Quarter and improvement works (BOQ not included in notice)", "qty": null, "unit": null, "site": "Kilakkarai Lighthouse station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 12519829.0,
+    "emd_inr": 250397.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost includes 18% GST. EMD by DD/FDR of scheduled/nationalized bank in favour of Director of Lighthouses and Lightships, Chennai, valid three months (90 days) from technical bid opening. Tender fee and EMD exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "08 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2026-02-24", "pre_bid": "2026-03-12", "bid_submission_end": "2026-03-18", "bid_opening": "2026-03-19"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD, State PWD, Railways, MES, BSNL or other State/Central Government/PSU/autonomous bodies",
+    "Similar works completed in last seven years: three works each >= 40%, two >= 50% or one >= 80% of estimated cost; only fully completed works with completion certificate; values updated at 7% simple per annum; certificates from officers below Executive Engineer not considered",
+    "Similar works: any type of construction of building/compound wall/retaining wall/RCC work, and repairs and civil maintenance of building",
+    "PAN/ITCC/GST registration",
+    "Average annual turnover on construction works at least 40% of estimated cost over last 3 financial years ending 31 March 2025, CA certified",
+    "Key technical personnel for supervision and execution",
+    "Unconditional tender undertaking (Annexure III), tender acceptance letter (Annexure II), non-blacklisting affidavit, list of relatives serving in MoPSW/DGLL, Make in India self-certification (Annexure VI)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "KilakkaraiNIT.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only; BOQ and scope in the full tender document on CPPP. Bid download/submission period 25/02/26 09:00 to 18/03/26 15:00; opening 19/03/26 15:00."
+}

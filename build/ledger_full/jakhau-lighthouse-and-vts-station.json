@@ -1,0 +1,113 @@
+{
+  "slug": "jakhau-lighthouse-and-vts-station",
+  "page_count": 8,
+  "title_as_printed": "मास्टर लेजर/ MASTER LEDGER",
+  "sections": [
+    {"no": "1.", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1, "fields": [{"label": "A.L.O.L.", "value": "F 0355"}], "tables": [], "text": null},
+    {"no": "2.", "title": "Position", "title_hi": "स्थान", "page": 1, "fields": [{"label": "Position", "value": "Lat 23°14.36” N, Long 68°36.43” E"}], "tables": [], "text": null},
+    {"no": "3.", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1, "fields": [{"label": "Characteristic", "value": "FI W 10 sec. (0.3 flash+9.7eclipse =10 sec.)"}], "tables": [], "text": null},
+    {"no": "4.", "title": "L.H.Tower", "title_hi": "दीपस्तंभ टावर", "page": 1, "fields": [
+      {"label": "(i) Type", "value": "Double shell RCC Circular tower"},
+      {"label": "(ii) Height of tower", "value": "41M"},
+      {"label": "iii) Colour scheme", "value": "4 red and 3 white bands (Band width 5.6 mtrs, bottom band red, nos. of bands – 7)"}
+    ], "tables": [], "text": null},
+    {"no": "5.", "title": "Elevation Height above MSL", "title_hi": "ऊंचाई", "page": 1, "fields": [{"label": "Elevation Height above MSL", "value": "46 Mtr."}], "tables": [], "text": null},
+    {"no": "6.", "title": "Range in miles", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1, "fields": [
+      {"label": "i) Luminous", "value": "17 NM at T=0.74"},
+      {"label": "ii) Geographical", "value": "18 NM"}
+    ], "tables": [], "text": null},
+    {"no": "7.", "title": "Optical equipment", "title_hi": "ऑप्टिकल उपकरण", "page": 1, "fields": [
+      {"label": "Optic i) Make", "value": "Stone chance"},
+      {"label": "ii) Size", "value": "375mm(3rd order small) revolving type"},
+      {"label": "iii) No. of panels", "value": "3 (each 120 degrees)"},
+      {"label": "iv) Divergence Main", "value": "16° 47.99' (Horizontal) 10° 59.70' (Vertical)"},
+      {"label": "v) Pedestal", "value": "Mercury float (As per tech block measure 34.5 kg. in use)"},
+      {"label": "vi) Rotation device", "value": "i) Electrically operated stepper motor for dual drive system"},
+      {"label": "vii) R.P.M", "value": "2"},
+      {"label": "viii) Illuminate Main", "value": "Cluster of MH lamp 150 W 230 V with 3 Nos. Electronics Ballast & 3 Nos. 0.65 KVA Inverters."},
+      {"label": "Lantern i)Diameter", "value": "2.16 m"},
+      {"label": "ii) Height of glazing", "value": "1.23 m"},
+      {"label": "iii) No. of panes", "value": "8"},
+      {"label": "iv) Ventilators", "value": "7"}
+    ], "tables": [], "text": "Values in the description column are printed slightly out of vertical alignment with the labels; they are paired here in printed order. The last value \"7\" is printed at the top of page 2."},
+    {"no": "8.", "title": "Source of energy", "title_hi": null, "page": 2, "fields": [], "tables": [], "text": "03 Inverter with battery backup of 12v, 120Ah each for the cluster of 03 metal halide lamp Input supply provided by PGVCL mains/ DG sets of 50 KVA (The offgrid solar system is non-operational and the process of converting it to ongrid is in progress)"},
+    {"no": "9.", "title": "Year of Lighthouse commissioned", "title_hi": null, "page": 2, "fields": [{"label": "Year of Lighthouse commissioned", "value": "1957"}], "tables": [], "text": null},
+    {"no": "10.", "title": "Years of Upgradation", "title_hi": null, "page": 2, "fields": [{"label": "Years of Upgradation", "value": "1965, 1993, 1996, 1999, 2004 and 2014"}], "tables": [], "text": null},
+    {"no": "11.", "title": "Postal Address", "title_hi": null, "page": 2, "fields": [{"label": "Postal Address", "value": "Jakhau Lighthouse & VTS Station, PO- Jakhau, Taluka – Abdasa Distt. Kutch Gujarat – 370640"}], "tables": [], "text": null},
+    {"no": "12.", "title": "RACON (X-band)", "title_hi": null, "page": 2, "fields": [
+      {"label": "Code", "value": "‘M’"},
+      {"label": "DOI", "value": "14.03.2019"}
+    ], "tables": [], "text": "Make – Pharos Marine (replaced on 14.03.2019, earlier RACON make Tideland installed on 21 Aug 2004) S/N – 20180763SJP Power supply: 12 V, 100 AH MF Exide battery Charging by solar panel 12V/50 W installed on 08/08/2018."},
+    {"no": "", "title": "VTS EQUIPMENTS:", "title_hi": null, "page": 2, "fields": [], "tables": [
+      {"caption": null, "columns": ["SNO.", "Particulars", "Qty", "Location", "Remark"], "rows": [
+        ["1", "Radar X- Band 18’ Scanner Make TERMA Sl no.3001 Part No:314240-001", "01", "Tower top", ""],
+        ["2.", "Radar S Band Scanner/Antenna Make TERMA P.No-305501-001 S.No-3571002", "01", "Tower top", ""],
+        ["3.", "Radio Direction Finder, 16 Element Antenna Make Servo light Model 7010, SNo.1120 (with lightening arrestor)", "01", "Tower top", ""],
+        ["4.", "Radar Transceiver Unit 1 ( Scanter 2001) Make TERMA, 9375 MHz X -Band Type -262001-024 SNo.3014", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["5.", "Radar Transceiver Unit 2 (Scanter 2001) Make –TERMA, 9375 MHz X – Band Type -262001-017 SNo.3018", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["6.", "X- band , Scanter ACU ACS550-01-012A-4 Make TERMA, SNo: 3016 Type 262382-001 3- ɸ, 400V, 47-63Hz Power 4KVA", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["7.", "Radar S –Band, Scanter-2001 Transceiver Unit-1 Make – TERMA, Type -262001-093 REV-B, 3050MHz, SNo.3001 3050Mhz", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["8.", "Radar S –band, Scanter 2001 Transceiver Unit-2 Make – TERMA, Type -262001-094 REV-B, 3050MHz, SNo.3001 3050MHz", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["9.", "S-Band ACU –ACS550-01-012A-4 Make TERMA, Type 262382-001 SNo.3026 3 -ɸ, 400V,47-63Hz power-4KVA", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["10.", "Rack Manager, (Make – SAMSUNG AUSTIN HUGES) Type A117e SNo:2060110094165-05Z", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["11.", "RSD X-Band S\\N: 4589 RSD S-Band S\\N: 4601 DOI:13/02/2020", "02", "VTS tower Equipment room at 5th floor", ""],
+        ["12.", "KONGSBERG C-SET, radar data processor (X - Band) S\\N: 3053172216 DOI:30/12/2019", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["13.", "KONGSBERG C-SET radar data processor (S - Band) S\\N: 3053192216 DOI:30/12/2019", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["14.", "KVM Switch, KVM -02 SNo:Z3B1Y143DDH0179", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["15.", "RDF Receiver Make- Servo Light, Model – DF2110M, SNo-1067 With Monitor HP 1940 Sr.No: CNP534X29D", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["16.", "CISCO Switch, Catalyst 2960 series SNo-FOC1445Y1GW", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["17.", "15 KVA UPS Make –Schneider SNo:9E1904T10170 DOI:19/08/2019", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["18.", "Battery (SMF) Make-APC 12V, 26AH for 15 KVA UPS", "32", "VTS tower Equipment room at 5th floor", ""],
+        ["19.", "SPU -1 Make Harries True Point 4040 SNo:A0125958 PNo.201-902595-502", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["20.", "SPU -2 Make Harries, True Point 4040 SNo:A0125922", "01", "VTS tower Equipment room at 5th floor", ""],
+        ["21.", "7.5 KVA UPS Make – Protek-G S/N – PG011074075377", "", "VTS tower Equipment room at 5th floor", ""],
+        ["22.", "Battery (SMF) Make-Amaron 12V, 42AH for 7.5 KVA UPS make Protek-G", "15", "VTS tower Equipment room at 5th floor", ""],
+        ["23.", "Air conditioner, split type ,1.5 Ton Make -Blue Star (02 nos.) SNo:C101229470310527130574 SNo:C101229470310526130615 Videocon (01no.) SNo:11081574200233", "03", "VTS tower Equipment room at 5th floor", ""],
+        ["24.", "Micro Wave Antenna Type -THP-12-071SWB SNo.08K1MWA0000120021 Freq-7.15 to 8.5GHz", "01", "Tower wall", ""],
+        ["25.", "RFU mini link to harudi R9N979454 Make: Ericsson DOI: 19/08/2019", "01", "With antenna", ""],
+        ["26.", "Micro Wave Antenna Type -THP-12-071SWB SNo.08K1MWA0000120022", "01", "On tower wall", ""],
+        ["27.", "RFU mini link to vanku R9N963221 Make: Ericsson DOI: 19/08/2019", "01", "With Antenna", ""],
+        ["28.", "Micro Wave Antenna Type -THP-12-071SWB SNo.08K1MWA0000120024", "01", "On tower wall", ""],
+        ["29.", "RFU 7310-7373TR-154, 48V Make - Ericsson SNo:CR9N958698", "01", "With Antenna", ""],
+        ["30.", "Micro Wave Antenna Type -THP-12-071SWB SNo.08KIMWA0000120026", "01", "On tower wall", ""],
+        ["31.", "RFU 7310-7373TR-154, 48V Make - - Ericsson SNo: CR9N958637", "01", "With Antenna", ""],
+        ["32.", "DG SET -I Type HA694. Model -KG50AS ,415V, 3-ɸ,50KVA 50 Hz Alternator M/c DS3D010L17033H Engine no: 06.2145/1000021 Control Panel Sl.no. WCPL/02/11/1810 With 120 Liter HSD storage tank STARTING BATTERY SL No. A3E1B0272593F13 (FOR DG1) MAKE -EXIDE 12V 130AH DOI: 28/07/2021 DG SET -II Type HA694. Model-KG50AS,415V,3-ɸ,50KVA, 50HZ Alternator M/c No-DS3D011A19085-H Engine No-06.2145/1100001 Control Panel S.no. WCPL/02/11/ 1809 With 120 Liter HSD storage tank STARTING BATTERY SL No. A4A1B0081423A12 MAKE -EXIDE 12V 130AH DOI:07/05/2011", "02", "Power house", ""],
+        ["33.", "DG AMF Panel 50 KVA 415 V ,100 Amp,3 Phase SNo:04-10/05/02", "01", "Power house", ""],
+        ["34.", "LVDB Panel SNo:099", "01", "Power house", ""],
+        ["35.", "1.Voltage Stabilizer 16 KVA Make- Krykard S/N: S20K1670700005 2.Voltage Stabilizer 16 KVA Make- Krykard S/N: S20K167070006 2.Voltage Stabilizer 16 KVA Make- ALFA S/N: 4.Voltage Stabilizer 16 KVA Make- Power + 6. Voltage Stabilizer Make- ALFA", "03 + 02", "Power house U/S", ""],
+        ["36.", "VHF sets SNo:874 SNo:877 SNo:875 DOI: 30/12/2019", "03", "Equipment room", ""],
+        ["37.", "AIS Base station Make – KONGSBERG Type BS-500/01 SNo:5001105 PART No. B500-001", "01", "Equipment room", ""],
+        ["38.", "Solar Power System Make – Su-kam Capacity – 30 KW Off-grid Solar Inverter – 01No. Solar Charge Controller – 03No. Solar Panels – 120Nos. Solar Battery Bank – 180Nos. DOI: 02/11/2015", "01", "Solar System room", ""],
+        ["39.", "New M/W link (S\\N 18E829703327) DOI: 11/07/2020", "01", "Coast Guard, Jakhau", ""],
+        ["40.", "New Radio(S\\N: 18E8297C33CC) DOI: 11/07/2020", "01", "VTS Tower Link setup with coast guard Jakhau.", ""],
+        ["41.", "APC Rack PDU S\\N: 5A-1922E03979 DOI: 12/10/2019", "01", "Equipment Room", ""],
+        ["42.", "new batteries 12 V 26AH DOI:25/08/2019", "08", "Coast Guard Jakhau", ""]
+      ]}
+    ], "text": "Table runs from page 2 to page 6. In item 35 \"Power house\" is printed at top of the Location cell and \"U/S\" lower in the same cell, beside stabilizers 4 and 6."},
+    {"no": "", "title": "D G Set:", "title_hi": null, "page": 6, "fields": [
+      {"label": "Qty", "value": "02"},
+      {"label": "D G Set", "value": "3PHASE,450V,50KVA Make: KIRLOSKAR Model:KG50AS. S.No. HA694 EngineNo:06.2145/1100001 AlternatorNo:DS3D010L17033H EngineNo:06.2145/1000021 Alternator No:DS3D010A19085H Panel S.No:WCPL/02/11/1809"}
+    ], "tables": [], "text": "Continues onto top of page 7."},
+    {"no": "", "title": "Off-Grid” Solar Power System : 30 KW", "title_hi": null, "page": 7, "fields": [], "tables": [], "text": "PV ModuleSilicon,(Solar Panel):120 nos.Make:SUKAM Solar Inverter, 30 KW Make:SUKAM : 01 no. Solar battery, 2V,600AH: 180 nos. Make- HBL Power System Ltd Sukam Charging Controller: 03 nos."},
+    {"no": "13.", "title": "POWER SUPPLY", "title_hi": null, "page": 7, "fields": [{"label": "POWER SUPPLY", "value": "Mains supply - PGVCL 415V, 3-phase415V, 50 Hz"}], "tables": [], "text": null},
+    {"no": "14.", "title": "STRUCTURES", "title_hi": null, "page": 7, "fields": [
+      {"label": "VTS Tower", "value": "60 m hight"},
+      {"label": "LHtower", "value": "41mhighRCCcirculartower."},
+      {"label": "Technical Building", "value": "1 Unit/old power house - 01 Unit"},
+      {"label": "Inspection Quarter", "value": "1 Unit / old IQ 01 Unit to SRT"},
+      {"label": "Compound wall", "value": "The compound wall has been provided on four sides for enclosing perimises with internal cement concrete pathway"},
+      {"label": "Main gate", "value": "01 nos"},
+      {"label": "Area", "value": "11998.5717 Sq.m"},
+      {"label": "Staff quarter", "value": "(i) HLK quarter – 1 Unit (ii) ALK quarter – 1 Unit (iii) LHA quarter – 1 Unit (iv) Touring staff quarter –1 Unit"}
+    ], "tables": [], "text": null},
+    {"no": "", "title": "COMPOUND STREET LIGHT", "title_hi": null, "page": 7, "fields": [], "tables": [], "text": "LED Lights On G.I bi-poles – 16 nos. On main gate – 2 nos"},
+    {"no": "", "title": "Mode of Approach", "title_hi": null, "page": 7, "fields": [{"label": "Mode of Approach", "value": "By rail up to Bhuj, then 107 KMs via NaliyaStateHighway"}], "tables": [], "text": null},
+    {"no": "", "title": "Address & Communication", "title_hi": null, "page": 7, "fields": [
+      {"label": "Address", "value": "Jakhau lighthouse & VTS station, Post JakhauTa-Abdasa, Dist-Kutch,Gujrat-370641"},
+      {"label": "Ph.", "value": "02831-2863683"},
+      {"label": "Email", "value": "jakhauvts@gmail.com"}
+    ], "tables": [], "text": "Phone and email on page 8."},
+    {"no": "", "title": "Date of Commissioning", "title_hi": null, "page": 8, "fields": [{"label": "Date of Commissioning", "value": "1st April 1965 (Lighthouse) 13 Feb 2012 (VTS)"}], "tables": [], "text": "Page footers \"Page n of 8\"."}
+  ],
+  "unreadable": []
+}

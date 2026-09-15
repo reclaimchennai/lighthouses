@@ -1,0 +1,36 @@
+{
+  "nid": 332,
+  "title": "Re-wiring of Powerhouse, Lighthouse Tower and Electrification of Inspection Quarter, ALK Quarters, Security Room, Pumphouse and Provision of Additional Streetlight at Beypore Lighthouse",
+  "summary": "E-tender for rewiring the power house and lighthouse tower, electrifying the inspection quarter, ALK quarters, security room and pump house, and adding street lights at Beypore Lighthouse, Kerala, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-16001/1/2020-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Beypore Lighthouse", "station_id": "beypore-lighthouse", "kind": "lighthouse", "work": "Rewiring of power house and tower; electrification of IQ, ALK quarters, security room, pump house; additional street lights"}
+  ],
+  "scope": [
+    {"item": "Re-wiring of Powerhouse, Lighthouse Tower and Electrification of Inspection Quarter, ALK Quarters, Security Room, Pumphouse and Provision of Additional Streetlight", "qty": null, "unit": null, "site": "Beypore Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1867970.0,
+    "emd_inr": 37359.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR from any nationalised/RBI approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam; original to reach one day before last day of bid submission (26.09.2022 15:00). Small scale industries with valid NSIC/MSME certificate for related stores/service exempt."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2022-09-12", "pre_bid": "2022-09-16", "bid_submission_end": "2022-09-27", "bid_opening": "2022-09-28"},
+  "eligibility": ["Reputed OEMs or their authorised suppliers, licensed contractors, parties or Government undertakings"],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "tender1.pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled"]}
+  ],
+  "confidence": "high",
+  "notes": "Section-1 short NIT only (printed pages 3-4); no BOQ, completion period or detailed eligibility. Download and submission 13.09.2022 09:00 to 27.09.2022 15:00; technical opening 28.09.2022 16:00. Listing directorate 'DGLL' though issued by Cochin."
+}

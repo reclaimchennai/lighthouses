@@ -1,0 +1,51 @@
+{
+  "nid": 2248,
+  "title": "Repairs of damaged roofing of vehicle shed at Deep Bhavan, Kochi",
+  "summary": "Offline sealed quotation (percentage rate) to replace the damaged G.S. sheet roofing and steelwork of the vehicle shed at the Deep Bhavan office campus, Kochi.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-03022/1/2020-MS; I/94369/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, Kochi (vehicle shed)", "station_id": null, "kind": "office", "work": "Repairs of damaged roofing of vehicle shed"}
+  ],
+  "scope": [
+    {"item": "Dismantling steel work in built up sections (angles, tees, flats, channels) incl. stacking within 50 m; rate 7.13, amount 734.39", "qty": "103.00", "unit": "Kg", "site": "Deep Bhavan, Kochi"},
+    {"item": "Dismantling roofing G.S. sheet incl. ridges, hips, valleys, gutters and disposal of rubbish; rate 208.11, amount 22,475.88", "qty": "108.00", "unit": "Sqm", "site": "Deep Bhavan, Kochi"},
+    {"item": "Providing corrugated G.S. sheet roofing 0.80 mm thick, zinc coating >= 275 gm/m2, fixed with polymer coated J/L hooks, bolts and nuts 8 mm, limpet washers, primer and two coats paint on overlaps; rate 1,586.63, amount 171,356.04", "qty": "108.00", "unit": "Sqm", "site": "Deep Bhavan, Kochi"},
+    {"item": "Providing ridges or hips 0.80 mm thick, zinc coating >= 275 gm/m2, 60 cm overall width plain G.S. sheet; rate 1,366.78, amount 10,934.24", "qty": "8.00", "unit": "metre", "site": "Deep Bhavan, Kochi"},
+    {"item": "Structural steel work riveted, bolted or welded in built up sections, trusses and framed work incl. priming coat; rate 168.69, amount 24,122.67", "qty": "143.00", "unit": "Kg", "site": "Deep Bhavan, Kochi"},
+    {"item": "Earth work in excavation by mechanical/manual means incl. disposal up to 50 m lead; rate 223.95, amount 81.63", "qty": "0.36", "unit": "cum", "site": "Deep Bhavan, Kochi"},
+    {"item": "Cement concrete 1:2:4 (20 mm aggregate) up to plinth level, excluding centering and shuttering; rate 9,940.16, amount 3,623.19", "qty": "0.36", "unit": "Cum", "site": "Deep Bhavan, Kochi"},
+    {"item": "Centering and shuttering for walls incl. pilasters, buttresses, plinth and string courses; rate 1,062.97, amount 3,444.02", "qty": "3.24", "unit": "Sqm", "site": "Deep Bhavan, Kochi"},
+    {"item": "15 mm cement plaster 1:4 on rough side of single or half brick wall; rate 519.50, amount 561.06", "qty": "1.08", "unit": "Sqm", "site": "Deep Bhavan, Kochi"},
+    {"item": "Finishing walls with acrylic smooth exterior paint (two or more coats @ 1.67 ltr/10 sqm over exterior primer @ 0.90 ltr/10 sqm); rate 202.63, amount 218.84", "qty": "1.08", "unit": "Sqm", "site": "Deep Bhavan, Kochi"},
+    {"item": "Recovery: scrap value of steel; rate (15.00), amount (1,545.00)", "qty": "103.00", "unit": "kg", "site": "Deep Bhavan, Kochi"}
+  ],
+  "money": {
+    "estimated_cost_inr": 236006.96,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "5% of quoted amount by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships, Cochin, payable at Ernakulam; released after completion",
+    "notes": "Estimate is the Annexure-I schedule total of Rs 2,36,006.96 (rates incl. cost index, net of steel scrap recovery). Bidders quote a percentage below/above, inclusive of GST and all charges. No EMD mentioned. No escalation permitted."
+  },
+  "period": {"completion": "01 month from date of issue of work order", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2026-02-17", "pre_bid": null, "bid_submission_end": "2026-03-06", "bid_opening": null},
+  "eligibility": [
+    "No eligibility criteria printed; bidder to submit PAN card copy and bank account details for payment",
+    "L1 decided on lowest amount quoted"
+  ],
+  "specs": [
+    "Corrugated G.S. roofing sheet 0.80 mm, zinc coating not less than 275 gm/m2, 8 mm polymer coated J/L hooks with G.I. limpet and bitumen washers"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQDeepbhavan.pdf", "pages": 9, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned bilingual NIQ with Annexure-I schedule and Annexure-II terms (34 clauses). Blank forms and site inspection 18.02.2026 to 05.03.2026. Submission deadline inconsistent: Hindi notice says 06.03.2026 by 17:00, English notice and terms say 06.03.2026 by 15:00. Opening date not printed. Hindi text of clause 31 duplicates clause 30 while the English differs."
+}

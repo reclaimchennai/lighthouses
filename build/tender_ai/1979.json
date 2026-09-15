@@ -1,0 +1,51 @@
+{
+  "nid": 1979,
+  "title": "Design, Supply, Installation, Testing and Commissioning of 04 passengers(408Kg) Elevator with SS cabin for Kilakarai Lighthouse station, Tamilnadu.",
+  "summary": "E-tender (percentage rate, two-cover) for design, supply, installation, testing and commissioning of a 4-passenger (408 kg) elevator with stainless steel cabin at Kilakkarai Lighthouse, Ramanathapuram District, Tamil Nadu (Chennai Directorate).",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(20)/1/2020-Civil Maintenance; Tender ID 2025_DGLL_870333_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kilakarai Lighthouse, Ramanathapuram District", "station_id": "kilakkarai-lighthouse", "kind": "lighthouse", "work": "Design, supply, installation, testing and commissioning of 04-passenger (408 kg) elevator with SS cabin"}
+  ],
+  "scope": [
+    {"item": "Design, Supply, Installation, Testing and Commissioning of 04 passengers (408Kg) Elevator with SS cabin", "qty": "1", "unit": "elevator", "site": "Kilakarai Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 5899100.0,
+    "emd_inr": 118000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of any scheduled/nationalised bank in favour of Director of Lighthouses and Lightships, Chennai, payable at Chennai; valid three months from technical bid opening. Tender fee Nil (clause 1.1 still refers to tender fee DD 'as per NIT')."
+  },
+  "period": {"completion": "10 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-07-23", "pre_bid": "2025-08-13", "bid_submission_end": "2025-09-10", "bid_opening": "2025-09-11"},
+  "eligibility": [
+    "(A) Lift manufacturing agency with valid licence/registration from State CEIG or other State/Central licensing authority, with experience in fabrication and erection of steel structural tower for lift and lift installation to minimum 30 m height; OR (B) contractor registered in appropriate category/class with CPWD/State PWD/Railways/MES/BSNL etc. in joint venture consortium with lift manufacturer (second party to submit CEIG manufacturing licence)",
+    "Similar works in last seven years: three each >= 40%, two each >= 50%, or one >= 80% of estimated cost; completed works only; value updated at 7% p.a.; certificates below Executive Engineer rank not considered",
+    "Similar works: fabrication and erection of steel structural tower for lift and lift installation to minimum 30 m height, and any civil engineering works like RCC towers, steel structures, buildings, bridges, dams, water tanks",
+    "PAN/ITCC/GST registration",
+    "Bank solvency certificate for 40% of estimated cost",
+    "Average annual turnover on construction works (CA certified) at least 30% of estimated cost in last 3 financial years ending 31 March 2023",
+    "P&L statement and audited balance sheet for past five years ending 31 March 2023; ITRs and sales tax clearance for last three years",
+    "Litigation/blacklisting information for last 5 years; key personnel details; list of tools & plants and shuttering materials",
+    "Tender acceptance letter (Annexure II), unconditional bid undertaking (Annexure III), non-blacklisting affidavit, list of relatives in MoPSW/DGLL, Make in India self-certification (Annexure VII), documents per Section IX evaluation criteria"
+  ],
+  "specs": [
+    "Passenger elevator, 04 persons / 408 kg capacity, stainless steel cabin"
+  ],
+  "corrigenda": [
+    {"date": "2025-08-28", "change": "Extension of last date: bid document download and online submission extended to 10.09.2025 15:00; bids opened 11.09.2025 15:00 (originally 19.08.2025 / 20.08.2025)"}
+  ],
+  "documents": [
+    {"file": "NITKILAKARAI.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []},
+    {"file": "DateExt29082025.pdf", "pages": 1, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section I NIT only; no BOQ or lift specifications. Original download/submission 24.07.2025 14:00 to 19.08.2025 15:00, EMD original by 19.08.2025 15:00, opening 20.08.2025 15:00. Financial criteria reference year ending 31 March 2023, apparently not updated for a 2025 tender. Corrigendum filename says 29.08.2025 but letter dated 28.08.2025. Spelled 'Kilakarai' in NIT and 'Kilakkarai' in corrigendum."
+}

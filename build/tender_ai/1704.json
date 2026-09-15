@@ -1,0 +1,38 @@
+{
+  "nid": 1704,
+  "title": "Conducting Technical cum Commercial Feasibility Study for installation of Lift at Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai Lighthouses.",
+  "summary": "Corrigendum revising the eligibility criterion of the tender for a feasibility study on installing lifts at Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai lighthouses (Chennai Directorate).",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(29)/1/2024-Civil Maintenance; Tender ID: 2024_DGLL_809194_2",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Poompuhar", "station_id": "poompuhar-lighthouse", "kind": "lighthouse", "work": "Feasibility study for installation of lift"},
+    {"name": "Kodikkarai", "station_id": "kodikkarai-lighthouse", "kind": "lighthouse", "work": "Feasibility study for installation of lift"},
+    {"name": "Nagapattinam", "station_id": "nagapattinam-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Feasibility study for installation of lift"},
+    {"name": "Mallipattinam", "station_id": "mallipattinam-lighthouse", "kind": "lighthouse", "work": "Feasibility study for installation of lift"},
+    {"name": "Kilakkarai", "station_id": "kilakkarai-lighthouse", "kind": "lighthouse", "work": "Feasibility study for installation of lift"}
+  ],
+  "scope": [
+    {"item": "Conducting Technical cum Commercial Feasibility Study for installation of Lift at Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai Lighthouses", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {"estimated_cost_inr": null, "emd_inr": null, "tender_fee_inr": null, "performance_security": null, "notes": null},
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": null, "bid_opening": null},
+  "eligibility": [
+    "Firm shall possess valid licence/registration issued by the State CEIG or any other licensing authority of State/Central Government for installation of Lift/Elevators and shall have experience in similar works with any State/Central Government/PSU/Autonomous bodies (as amended by corrigendum)"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-07-24", "change": "Eligibility/pre-qualification amended: 'valid registration ... and possess valid CEIG Registration certificate' replaced by 'valid license/registration issued by the State CEIG or any other licensing authority of State/Central Government for installation of Lift/Elevators' with experience in similar works. All other terms unchanged."}
+  ],
+  "documents": [
+    {"file": "TechCorrigendumFeasibilitystudyII.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only the corrigendum is attached; the underlying NIT for Tender ID 2024_DGLL_809194_2 is not in this listing, so cost, EMD and dates are not printed here. Listing shows closing 2024-07-29 and opening 2024-07-30 (not printed in the document). Same work as nids 1674 and 1716. Hindi header text layer has broken conjuncts; English text is complete."
+}

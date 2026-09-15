@@ -1,0 +1,41 @@
+{
+  "slug": "androth-west-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Androth West Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1975,
+  "alol": "0755.2",
+  "position": {"lat_text": "10° 48.8' N", "lon_text": "73° 39.7' E", "lat": 10.813333, "lon": 73.661667},
+  "elevation_m": 15,
+  "characteristic_text": "Fl (W) 15sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 11.3, "geographical_nm": null, "text": "11.3NM (unlabelled single range)"},
+  "tower": {"type": "Circular Tapering CC Tower", "height_m": 10, "colour_scheme": "White band"},
+  "optic": {
+    "make": "Sealite", "model": "155-2D5-W", "type": "Flasher unit (LED)", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: Flasher unit (LED), Sealite 65 W; Rotation Device and R.P.M. blank",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "155-2D5-W, 65 W (LED - flasher unit)"
+  },
+  "intensity_cd": null,
+  "racon": {"present": true, "code": null, "text": "RACON Sr. No II-X-201607-02 (make, model, code, band blank)"},
+  "ais": {"present": false, "text": "NA"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": null, "generator": null, "text": "Mains 230v, 1 phase, 50Hz (Electricity Supply); Su-Kam 900VA inverter for main light; 2 x 12V 100AH solar gel batteries"},
+  "issues": ["RACON section gives only a serial number (II-X-201607-02); make, model, code, band and installation date are blank", "Divergence field contains lamp description instead of a divergence value"]
+}

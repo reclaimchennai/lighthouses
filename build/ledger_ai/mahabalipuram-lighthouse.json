@@ -1,0 +1,44 @@
+{
+  "slug": "mahabalipuram-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Mahabalipuram Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1901,
+  "alol": "0932",
+  "position": {"lat_text": "12° 53.6' N", "lon_text": "80° 20.3' E", "lat": 12.893333, "lon": 80.338333},
+  "elevation_m": 48.4,
+  "characteristic_text": "FL (1) W 10 Sec (fl 0.4)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "fl 0.4",
+    "sequence_s": null,
+    "flash_duration_s": 0.4
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18.9, "geographical_nm": null, "text": "18.9 NM (single unlabelled range)"},
+  "tower": {"type": "Circular Stone Masonary", "height_m": 26, "colour_scheme": "No Day mark painting"},
+  "optic": {
+    "make": "M/s Chance Bros, England.", "model": null, "type": "Revolving", "size": "700 mm", "order": "2nd order catadioptric",
+    "panels": 3,
+    "rotation_device": "Dual stepper motor assembly of 40 Kg/Cm²",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving; Rotation Device dual stepper motor assembly; R.P.M. 2 r.p.m",
+    "divergence_horizontal_deg": 5.565278,
+    "divergence_vertical_deg": 2.946111,
+    "divergence_text": "Horizontal : 5° 33' 55\", Vertical : 2° 56' 46\"",
+    "illuminant": "LED Lamp; 236W Lamp (5*25 LED Array), Kwik Lite LED Driver (160-265V AC / 24V DC)"
+  },
+  "intensity_cd": 750644,
+  "racon": {"present": false, "code": null, "text": null},
+  "ais": {"present": true, "text": "SAAB System VHF Transceiver 156–162.5 MHz, Type R40, Input 100-240V AC / 24V DC, Load 2 W / 12.5 W, MMSI 004194424; Leased Line (Router & Modem)"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains Tamilnadu Electricity Board 3 phase/440V AC; Kirloskar 32 HP engine with 20 KVA alternator; solar plant for main light 2.5 KW (24V/255W x10), 12 Nos 2V/900AH"},
+  "issues": [
+    "ALOL printed as '0932' without letter prefix",
+    "RACON and DGPS sections are blank tables"
+  ]
+}

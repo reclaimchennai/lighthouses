@@ -1,0 +1,180 @@
+{
+  "slug": "prongs-reef-lighthouse",
+  "page_count": 4,
+  "title_as_printed": "मास्टर लेजर/MASTER LEDGER — प्रोंग्स रीफ दीपस्तंभ /Prongs Reef LH",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1,
+     "fields": [{"label": "A.L.O.L.", "value": "F 0514"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1,
+     "fields": [{"label": "Position", "value": "Lat. 18º 52.76’ N Long.72º 48.98’ E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1,
+     "fields": [{"label": "Elevation", "value": "41 m"}], "tables": [], "text": "Hindi label printed in red."},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1,
+     "fields": [{"label": "Characteristic", "value": "Fl W10 Sec."}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in miles", "title_hi": "नॉटिकलमाइलमेदूरी", "page": 1,
+     "fields": [{"label": "Range in miles", "value": "23"}], "tables": [], "text": null},
+    {"no": "6", "title": "L.H.Tower", "title_hi": "दीपस्तंभटावर", "page": 1,
+     "fields": [
+       {"label": "Type", "value": "Circular Masonry Tower"},
+       {"label": "Height", "value": "41 m"},
+       {"label": "Colour Scheme", "value": "Red, White and Black bands"}
+     ], "tables": [], "text": null},
+    {"no": "7", "title": "Optical equipment", "title_hi": "ऑप्टिकलउपकरण", "page": 1,
+     "fields": [
+       {"label": "Optic", "value": "Marine Rotating Beacon"},
+       {"label": "Make", "value": "Wealth Marine Pvt. Ltd., Singapore"},
+       {"label": "Type", "value": "WM-RB 500 Marine Rotating Beacon"},
+       {"label": "Size", "value": "500mm dia.6 clear “ Bulls Eye” Acrylic lens panels Equally spaced at 60 (Hexagonal)"},
+       {"label": "No. of lens", "value": "6"},
+       {"label": "Area of dioptric portion", "value": "-"},
+       {"label": "Area of catadioptric portion", "value": "-"},
+       {"label": "Divergence Main/Emergency", "value": "Horizontal – 1.5º , Vertical 2.42º"},
+       {"label": "Duration of Flash Main /Standby/Emergency", "value": "0.27 Sec."},
+       {"label": "Lamp changer", "value": "NA"},
+       {"label": "Pedestal", "value": "Cast Iron"},
+       {"label": "Rotation Device", "value": "2 Nos. Stepper Motors. Microprocessor controlled speed field selectable from 0.5-0.6RPM,one service and one standby stepper motor"},
+       {"label": "R.P.M.", "value": "1"},
+       {"label": "illumining", "value": "-"},
+       {"label": "Main", "value": "230VAC,70W MH Lamp"},
+       {"label": "Standby", "value": "-"},
+       {"label": "Emergency:", "value": "12 V DC /100 W"},
+       {"label": "Date of Installation", "value": "29.06.2008"}
+     ], "tables": [], "text": null},
+    {"no": "8", "title": "Effective beam intensity", "title_hi": "प्रभावीबीमतीव्रता", "page": 2,
+     "fields": [
+       {"label": "Main & Standby", "value": "126623 cd"},
+       {"label": "Emergency", "value": "-"}
+     ], "tables": [], "text": null},
+    {"no": "9", "title": "Lantern", "title_hi": "लेंटर्न", "page": 2,
+     "fields": [
+       {"label": "Diameter", "value": "4.50 m"},
+       {"label": "Height of glazing", "value": "2.82 m"},
+       {"label": "No. of panes", "value": "48 (in 3 Tiers)"},
+       {"label": "Ventilators", "value": "30"}
+     ], "tables": [], "text": null},
+    {"no": "10", "title": "RACON", "title_hi": null, "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Make", "Model", "Code", "Band", "Date of Installation"],
+        "rows": [["-", "-", "-", "-", "-"]]}
+     ], "text": null},
+    {"no": "11", "title": "NAIS", "title_hi": null, "page": 2,
+     "fields": [{"label": "Base Station", "value": "NA"}],
+     "tables": [
+       {"caption": "Base Station", "columns": ["Model", "Type", "Power", "MMSI", ""],
+        "rows": [["--", "--", "--", "--", ""], ["Communication Equipment", "--", "--", "--", ""]]},
+       {"caption": null, "columns": ["VSAT Antenna", "Band", "Modem", "", ""],
+        "rows": [["DGPS", "--", "--", "--", ""]]},
+       {"caption": "DGPS", "columns": ["Transmitter Make", "Frequency", "Power Output", "RS- 1 ID", "RS-2 ID", "Beacon ID", "Date of commissioning", "Date of Recapitalization"],
+        "rows": [["--", "--", "--", "--", "--", "--", "--", "--"], ["", "", "", "", "", "", "", ""]]}
+     ], "text": null},
+    {"no": "12", "title": "Source of energy", "title_hi": "ऊर्जाकेसाधन", "page": 2,
+     "fields": [
+       {"label": "Mains", "value": "NA"},
+       {"label": "Standby", "value": "NA"},
+       {"label": "Solar Plant for Main RACON", "value": "--"}
+     ],
+     "tables": [
+       {"caption": "Engine 1", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"],
+        "rows": [["Portable Generator Honda Make", "01", "2.5KVA", "--", "1500", "AIR"]]},
+       {"caption": "Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"],
+        "rows": [["--", "--", "--", "--", "--", "--"]]},
+       {"caption": "Engine 2", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"],
+        "rows": [["--", "--", "--", "--", "--", "--"]]},
+       {"caption": "Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"],
+        "rows": [["--", "--", "--", "--", "--", "--"]]},
+       {"caption": "Solar Plant", "columns": ["Capacity PV", "Numbers", "Type", "Battery", "Bank"],
+        "rows": [["75W", "18", "Tata BP", "12V/600AH", "06"], ["80W", "20", "Jain", "24V /150 Ah for RTU", "02"]]},
+       {"caption": "Solar Plant for Main RACON", "columns": ["Capacity PV", "Numbers", "Type", "Battery", "Bank"],
+        "rows": [["--", "--", "--", "--", "--"]]}
+     ], "text": "Engine 1 row printed in red. Solar Plant for Main RACON data row is at top of page 3."},
+    {"no": "13", "title": "Automatic Voltage Stabilizers", "title_hi": "स्वचालितवोल्टेजस्टेबलाइजर", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Make", "Model", "Capacity", "Input", "Output", "Phase", "Qty"],
+        "rows": [["-", "-", "-", "-", "-", "-", "-"]]}
+     ], "text": null},
+    {"no": "14", "title": "Batteries", "title_hi": "बैटरि", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Type", "Make", "Volt", "Amp/Hr", "Qty", ""],
+        "rows": [
+          ["PSS NAIS", "-", "-", "-", "-", "-", ""],
+          ["Genset", "-", "-", "-", "-", "-", ""],
+          ["Automation", "M/F", "Exite", "12V", "150AH", "4", ""],
+          ["DGPS", "-", "-", "-", "-", "-", ""]
+        ]}
+     ], "text": null},
+    {"no": "15", "title": "Battery charger", "title_hi": "बैटरिचार्जर", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Make", "Model", "Type", "Rating", "Qty", ""],
+        "rows": [
+          ["General Purpose", "--", "--", "--", "--", "--", ""],
+          ["Automation", "NA ( Charging through solar panel )", "--", "--", "--", "--", ""]
+        ]}
+     ], "text": null},
+    {"no": "16", "title": "Inverter /UPS", "title_hi": "इंवर्टर", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Nos", "Make", "Model", "Type", "Rating", "Qty", "input", "output"],
+        "rows": [
+          ["Main Light", "1.", "Exide", "Exide 850DSP PST UPS", "Pure Sine Wave", "850VA", "01", "12V DC", "230VAC"],
+          ["NAIS PSS", "-", "-", "-", "-", "-", "-", "-", "-"],
+          ["DGPS", "-", "-", "-", "-", "-", "-", "-", "-"]
+        ]}
+     ], "text": null},
+    {"no": "17", "title": "Automation Equipment", "title_hi": "स्वचलनउपकरण", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["MAKE", "PLC", "HMI", "Power Supply", "VSAT", "Modem", "Band"],
+        "rows": [["Nelco", "Telemecanique", "Schneider Electric", "24VDC", "1.8 m dia.", "Sky Edge", "EXT-C"]]}
+     ], "text": null},
+    {"no": "18", "title": "Fire Fighting Equipment", "title_hi": "आग्निशमनउपकरण", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Type of Extinguisher", "Capacity", "Nos", "Make"],
+        "rows": [["D.C.P Type", "3.2 Kg", "1-U/s", ""], ["Soda Acid type", "9 litres", "1-U/s", ""], ["", "", "", ""], ["", "", "", ""], ["", "", "", ""], ["", "", "", ""], ["", "", "", ""]]}
+     ], "text": null},
+    {"no": "19", "title": "Communication", "title_hi": "संचार", "page": 3,
+     "fields": [{"label": "Communication", "value": "Not Available"}], "tables": [], "text": null},
+    {"no": "20", "title": "Water Supply", "title_hi": "जलपूर्ति", "page": 3,
+     "fields": [{"label": "Water Supply", "value": "Rain water collection & Supply by boat."}], "tables": [], "text": null},
+    {"no": "21", "title": "Land", "title_hi": "भूमि", "page": 3,
+     "fields": [
+       {"label": "Area", "value": ""},
+       {"label": "Demarcation", "value": ""}
+     ], "tables": [], "text": null},
+    {"no": "22", "title": "Buildings", "title_hi": "इमारतें", "page": 4,
+     "fields": [{"label": "Quarters", "value": ""}], "tables": [], "text": null},
+    {"no": "23", "title": "Compound Lights", "title_hi": "कंपाउंडलाइट", "page": 4,
+     "fields": [{"label": "", "value": ""}], "tables": [], "text": null},
+    {"no": "24", "title": "CCTV CAMERA", "title_hi": "सीसीटीवीकमेरा", "page": 4,
+     "fields": [
+       {"label": "Camera", "value": "NA"},
+       {"label": "DVR", "value": "NA"}
+     ], "tables": [], "text": null},
+    {"no": "25", "title": "Staff", "title_hi": "स्टाफ", "page": 4,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sl. No", "Designations"],
+        "rows": [["1", "NA I -On Tour from LH"], ["2", "NA II -On Tour from LH"], ["3", "NA III -On Tour from LH"], ["4", "LHA - On Tour from LH"], ["5", "--"], ["6", "--"], ["7", "--"]]}
+     ], "text": null},
+    {"no": "26", "title": "Mode of approach", "title_hi": "पहुँचनेकामाध्यम", "page": 4,
+     "fields": [{"label": "Mode of approach", "value": "1. By walk from Colaba during Low Tide. 2. By Motor Boat from ferry wharf"}], "tables": [], "text": null},
+    {"no": "27", "title": "Facilities available", "title_hi": "उपलब्धसुविधाए", "page": 4,
+     "fields": [
+       {"label": "Marine Police Station", "value": "-"},
+       {"label": "Dispensary", "value": "-"},
+       {"label": "High School", "value": "-"},
+       {"label": "Post office", "value": "-"}
+     ], "tables": [], "text": null},
+    {"no": "28", "title": "Postal address", "title_hi": "डाकपता", "page": 4,
+     "fields": [{"label": "Postal address", "value": "C/O Deep Bhavan, M.G. Road, Ghatkopar (E), Mumbai 400077"}], "tables": [], "text": null},
+    {"no": "29", "title": "Cost details (At the time of Construction)", "title_hi": "मूल्यकाब्योरा", "page": 4,
+     "fields": [{"label": "Cost details", "value": "34,85,400/-"}], "tables": [], "text": null},
+    {"no": "30", "title": "Date of commissioning", "title_hi": "प्रवर्तनमेलानेकादेनांक", "page": 4,
+     "fields": [{"label": "Date of commissioning", "value": "1875 29.06.2008 (Taken over from Mumbai port Trust on 11.10.2007)"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "paradeep-lighthouse",
+  "page_count": 5,
+  "title_as_printed": "PARADEEP LIGHTHOUSE MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "Name", "title_hi": null, "page": 1, "fields": [{"label": "Name", "value": "Paradeep Lighthouse"}], "tables": [], "text": "[photo: black and white banded lighthouse tower among trees, framed, beside the title box on page 1]"},
+    {"no": "2", "title": "Sr. No. (in ALOL)", "title_hi": null, "page": 1, "fields": [{"label": "Sr. No. (in ALOL)", "value": "F 1004.4"}], "tables": [], "text": null},
+    {"no": "3", "title": "Position", "title_hi": null, "page": 1, "fields": [{"label": "Position", "value": "Lat. 20⁰ 15’3”N Long. 86⁰ 39'5”E"}], "tables": [], "text": null},
+    {"no": "4", "title": "Elevation of Ground", "title_hi": null, "page": 1, "fields": [{"label": "Elevation of Ground", "value": "4 m"}], "tables": [], "text": null},
+    {"no": "5", "title": "Elevation of tower", "title_hi": null, "page": 1, "fields": [{"label": "Elevation of tower", "value": "40.4 m"}], "tables": [], "text": null},
+    {"no": "6", "title": "Character of light", "title_hi": null, "page": 1, "fields": [{"label": "Character of light", "value": "Fl (3) W 30 Sec."}], "tables": [], "text": null},
+    {"no": "7", "title": "Range in nautical miles", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Luminous", "value": "17 NM"},
+      {"label": "ii) Geographical", "value": "17.5 NM"}
+    ], "tables": [], "text": null},
+    {"no": "8", "title": "Lighthouse Tower", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Type", "value": "Tapering Circular RCC Tower"},
+      {"label": "ii) Height", "value": "40.86 m"},
+      {"label": "iii) Colour Scheme", "value": "Black and White Band"}
+    ], "tables": [], "text": null},
+    {"no": "9", "title": "Optical equipment", "title_hi": null, "page": 1, "fields": [
+      {"label": "Optical equipment", "value": "TRB 220 (Revolving)"},
+      {"label": "(i) Make", "value": "Tideland Signal Corporation, USA."},
+      {"label": "(ii) Size", "value": "915 mm height & 445 mm Dia."},
+      {"label": "(iii) No. of Panels", "value": "6"},
+      {"label": "(iv) Focal Length", "value": "110 mm"},
+      {"label": "(v) RPM", "value": "2"},
+      {"label": "(vi) Duration of Flash", "value": "0.75 Sec"},
+      {"label": "(vii) Illuminant", "value": "70 Watt MH Lamp, 230 volts AC"},
+      {"label": "viii) Divergence", "value": "2.40 (Horiz.) & 1.15 (Vert.)"},
+      {"label": "ix) Luminous Intensity", "value": "26928 cd"}
+    ], "tables": [], "text": null},
+    {"no": "10", "title": "innovation", "title_hi": null, "page": 1, "fields": [{"label": "innovation", "value": "Innovation was carried out on August 2013. l00W/l2V Halogen lamp of TRB 220 was replaced with 70W/230V MH Lamp."}], "tables": [], "text": "Value continues from page 1 to page 2."},
+    {"no": "11", "title": "Lantern", "title_hi": null, "page": 2, "fields": [
+      {"label": "i) Diameter", "value": "3.0 m"},
+      {"label": "ii) Height of glazing", "value": "2.0 m"},
+      {"label": "iii) No. of glass panes", "value": "24 Nos."},
+      {"label": "iV) No. of Ventilators", "value": "6 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "12", "title": "Pedestal", "title_hi": null, "page": 2, "fields": [{"label": "Pedestal", "value": "Local Make"}], "tables": [], "text": null},
+    {"no": "13", "title": "Power supply", "title_hi": null, "page": 2, "fields": [
+      {"label": "i) Mains", "value": "3 Phase, 440V, 50Hz Electric Mains Supply from Paradeep Port Trust."},
+      {"label": "ii) Solar", "value": ""},
+      {"label": "iii) Standby", "value": "Gensets (02 Nos.)"}
+    ], "tables": [
+      {"caption": "ii) Solar", "columns": ["SI.No.", "Types of Solar Power", "Capacity", "No. of Panels", "Inverter", "Remarks"], "rows": [["1", "OFF GRID", "5 kWp", "20 (each 250W 24V)", "5KVA, Make Genus", ""]]},
+      {"caption": "A. Details ofEngine", "columns": ["SI.No.", "Engine Sl. No.", "Make", "BHP", "No. of Cylinder", "RPM", "Cooling", "Date of Installation"], "rows": [
+        ["1.", "0200113", "Kirloskar", "32", "03", "1500", "Air Cooling", "13.8.2002"],
+        ["2", "0100243", "Kirloskar", "32", "03", "1500", "Air Cooling", "09.01.2003"]
+      ]},
+      {"caption": "B. Details ofAlternator", "columns": ["Sl. No.", "Alternator SI. No.", "Make", "KVA", "Voltage", "Current (Amp)", "Freq. (Hz)", "Phase", "RPM"], "rows": [
+        ["1", "0200113", "Kirloskar", "20", "230", "83", "50Hz", "Single", "1500"],
+        ["2", "0100243", "Kirloskar", "20", "230", "83", "50Hz", "Single", "1500"]
+      ]}
+    ], "text": null},
+    {"no": "14", "title": "Other Equipments", "title_hi": null, "page": 2, "fields": [
+      {"label": "i) Battery Charger", "value": "01 No. inbuilt Battery Charger in AMF Panel."}
+    ], "tables": [
+      {"caption": "ii) Stabilizer", "columns": ["Sr No", "Input voltage", "Output Voltage", "KVA", "Make", "Freq.", "Phase", "Date of Installation"], "rows": [["1", "120V-240V AC", "230 V AC", "15", "Delta Electronic", "50Hz", "Single", "17.01 2009"]]},
+      {"caption": "iii) Inverter", "columns": ["Sr. No.", "Particulars", "Qty", "Date of Installation", "Purpose"], "rows": [["1", "1500 VA, 24V DC (input), 230V AC (output), Sukam make", "I No.", "12.04.2014", "For Light beacon"]]}
+    ], "text": "iii) Inverter table is on page 3."},
+    {"no": "15", "title": "Remote monitoring and control system", "title_hi": null, "page": 3, "fields": [
+      {"label": "i) Main Panel", "value": "1 No. installed at power house."},
+      {"label": "ii) Remote Panel", "value": "1 No. installed at service room of the Lighthouse tower."},
+      {"label": "iii) UPS", "value": "I No.I KVA, APC make placed inside main Panel."},
+      {"label": "iv) Communication", "value": "VSAT"},
+      {"label": "iv)VSAT", "value": "I No. installed on ground near power house."},
+      {"label": "v) Modem", "value": "I No. placed inside main Panel."}
+    ], "tables": [], "text": "All equipment's are remotely monitored by MCS at Deep Bhavan, Kolkata"},
+    {"no": "16", "title": "NAIS", "title_hi": null, "page": 3, "fields": [
+      {"label": "x) AIS Base station", "value": "02 Nos. Saab make, installed at Service room (NAIS Rack)."},
+      {"label": "xi) Modem", "value": "01 No. Datum make, installed at Service room (NAIS Rack)."},
+      {"label": "xii) Router", "value": "01 No. Cisco make, installed at Service room (NAIS Rack)."},
+      {"label": "xiii) Switch", "value": "01 No. Cisco make, installed at Service room (NAIS Rack)."},
+      {"label": "xiv) GPS antenna", "value": "02 Nos. installed at LH tower railing."},
+      {"label": "xv) VHF antenna", "value": "02 Nos. installed at LH tower railing."},
+      {"label": "xvi) UPS", "value": "01 No.1KVA, APC make installed at Service room (NAIS Rack)"},
+      {"label": "xvii) Communication", "value": "Lease Line (BSNL)."},
+      {"label": "xviii) Date of commissioning", "value": "February 2012"}
+    ], "tables": [], "text": null},
+    {"no": "17", "title": "DGPS", "title_hi": null, "page": 3, "fields": [
+      {"label": "i) Make", "value": "Leica (USA)"},
+      {"label": "ii)Transmitter", "value": "NAUTEL (USA)"},
+      {"label": "iii) Frequency", "value": "290 KHz"},
+      {"label": "iv) Power Output", "value": "500 W"},
+      {"label": "v) Reference Station I, ID", "value": "440,"},
+      {"label": "vi) Reference Station II, ID", "value": "441,"},
+      {"label": "vii) Beacon ID", "value": "120"},
+      {"label": "viii) Integrity Monitor I&II", "value": "GR 30.,LEICA-02 Nos."},
+      {"label": "ix)Personal Computer", "value": "Make — HP Compaq with Key Board & Mouse With 01 No Printer Make — Epson"},
+      {"label": "x) UPS:Capacity —", "value": "10 KVA for Transmitter, Make-APC, 03 KVA for DGPS UPS-1 Capacity — 1 KVA for DGPS Rack, Make-APC, 01 No. KVA for Printer."},
+      {"label": "xi) Batteries", "value": "16 Nos. SMF (42AH/12V), EXIDE make for Transmitter. 06Nos. SMF (12AH/12V), EXIDE make for DGPS Rack."},
+      {"label": "xii) Date of Installation", "value": "19.12.2019"}
+    ], "tables": [], "text": null},
+    {"no": "18", "title": "Fire Extinguisher", "title_hi": null, "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Sl. No.", "Type", "Capacity", "Qty", "Installed Place"], "rows": [
+        ["1", "DCP", "5 Kg", "3 Nos.", "I No. at service room and 2 Nos. at Power House."],
+        ["2", "CO2", "9 ltr.", "2 Nos.", "Both placed at Office room."],
+        ["3", "ABC", "5 Kg", "l No.", "Placed at DGPS room."],
+        ["4", "Fire Buckets", "10 Litres", "4 Nos.", "Placed outside power house."]
+      ]}
+    ], "text": "Heading on page 3; table on page 4."},
+    {"no": "19", "title": "Water Supply", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "Local port water is provided twice in a day for 30 minutes. Bore well for gardening purpose only."},
+    {"no": "20", "title": "Land", "title_hi": null, "page": 4, "fields": [
+      {"label": "i) Area", "value": "3 Acre"},
+      {"label": "ii) Demarcation", "value": "Compound Wall."},
+      {"label": "iii) No. of fruit trees", "value": "60"},
+      {"label": "iv) No. of non-fruit bearing trees", "value": "12"}
+    ], "tables": [], "text": null},
+    {"no": "21", "title": "Building", "title_hi": null, "page": 4, "fields": [
+      {"label": "19", "value": "lNo. Office cum power house."},
+      {"label": "20", "value": "lNo. IQ"},
+      {"label": "21", "value": "1 No. AE (E) Qtr."},
+      {"label": "22", "value": "Twin Qtr for SRT & NA-I."},
+      {"label": "23", "value": "1 No. Qtr for NA-II."},
+      {"label": "24", "value": "Twin Qtrs for LHA."},
+      {"label": "25", "value": "01 No. Coil Hut."}
+    ], "tables": [], "text": null},
+    {"no": "22", "title": "Contact details", "title_hi": null, "page": 4, "fields": [
+      {"label": "i. LH Land line No.", "value": "06722-222332"},
+      {"label": "ii. Office E-Mai1", "value": "assistantengineerpdlh@gmail.com"},
+      {"label": "iii. Postal Address", "value": "Paradeep Lighthouse& DGPS Station, PO — Paradeep, Dist. Jagatsingpur, Odisha — 754 142."}
+    ], "tables": [], "text": null},
+    {"no": "23", "title": "Mode ofApproach", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "The station is well connected by all weather road. The nearest Railway Station is Paradeep which is 10 Km from Paradeep Lighthouse. Nearest Airport is Bhubaneswar which is approx. 120 km from Paradeep LH.."},
+    {"no": "24", "title": "Facilities Available", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "Post Office, Primary Health Center, Police Station and High School all are within 10 KM from Sagar Island Lighthouse.\n(Page 5 is blank apart from the footer \"5 | Page\".)"}
+  ],
+  "unreadable": []
+}

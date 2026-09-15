@@ -1,0 +1,46 @@
+{
+  "nid": 2544,
+  "title": "Supply Installation Commissioning and Testing of CCTV System at Rajapur, Nanwel, Kanhoji Angre, Uttan, Satpati, Kanai kreek, Wasi Borsi and Luhara Lighthouses under Mumbai Directorate.",
+  "summary": "Supply, installation, commissioning and testing of CCTV systems at eight lighthouses of the Mumbai Directorate: Rajapur, Nanwel, Kanhoji Angre, Uttan, Satpati, Kanai Creek, Wasi Borsi and Luhara.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-Mum-10046(71)/1/2023-Electrical",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Rajapur", "station_id": "rajapur-bay-lighthouse", "kind": "lighthouse", "work": "SITC of CCTV system"},
+    {"name": "Nanwel", "station_id": "nanwel-point-lighthouse", "kind": "lighthouse", "work": "SITC of CCTV system"},
+    {"name": "Kanhoji Angre", "station_id": "kanhoji-angre-lighthouse", "kind": "lighthouse", "work": "SITC of CCTV system"},
+    {"name": "Uttan", "station_id": "uttan-point-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "SITC of CCTV system"},
+    {"name": "Satpati", "station_id": "satpati-lighthouse", "kind": "lighthouse", "work": "SITC of CCTV system"},
+    {"name": "Kanai kreek", "station_id": "kanai-creek-lighthouse", "kind": "lighthouse", "work": "SITC of CCTV system"},
+    {"name": "Wasi Borsi", "station_id": "wasi-borsi-lighthouse", "kind": "lighthouse", "work": "SITC of CCTV system"},
+    {"name": "Luhara", "station_id": "luhara-point-lighthouse", "kind": "lighthouse", "work": "SITC of CCTV system"}
+  ],
+  "scope": [
+    {"item": "Supply Installation Commissioning and Testing of CCTV System", "qty": null, "unit": null, "site": "Rajapur, Nanwel, Kanhoji Angre, Uttan, Satpati, Kanai kreek, Wasi Borsi and Luhara Lighthouses (locations as per Annexure-VI)"}
+  ],
+  "money": {
+    "estimated_cost_inr": 6597256.0,
+    "emd_inr": 131950.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost inclusive of GST. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid three months from technical bid opening; original EMD to be submitted physically; MSME/NSIC registered bidders must also pay EMD. Hindi NIT prints estimated cost Rs 65,97,000 and EMD Rs 1,31,940 in the table (Rs 1,31,950 in its clause 1); English NIT prints Rs 65,97,256 and Rs 1,31,950."
+  },
+  "period": {"completion": "03 months", "bid_validity": "180 days from the date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2026-08-05", "pre_bid": "2026-08-13", "bid_submission_end": "2026-08-20", "bid_opening": "2026-08-21"},
+  "eligibility": [
+    "Reputed contractors/firms of appropriate category registered with CPWD, State PWD, MES, Railways, BSNL etc. or other Central/State Government/Public sector organizations",
+    "Eligibility as per clause 3.1 of tender document (not included in this file)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_1.pdf", "pages": 6, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "NIT dated 05/08/2026; Section I only (Hindi and English), no BOQ, Annexure-VI site list or specifications. Bid download/submission 05/08/2026 15:00 to 20/08/2026 15:00; original EMD by 20/08/2026 17:00; technical bid opening 21/08/2026 15:00. Listing shows end 2026-08-29 and bid opening 2026-08-20, which do not match the NIT (possibly an unlisted corrigendum). The English work name carries a stray fragment 'Bhavan under Mumbai Directorate', also present in the listing title."
+}

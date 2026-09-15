@@ -1,0 +1,41 @@
+{
+  "slug": "port-cornwallis",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Port Cornwallis Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1973,
+  "alol": "F 1202",
+  "position": {"lat_text": "13° 17.90’ N", "lon_text": "93° 04.60’ E", "lat": 13.298333, "lon": 93.076667},
+  "elevation_m": 40,
+  "characteristic_text": "Fl (2) W 20 Sec (fl 1.0, ec 3.0, fl 1, ec 15)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "fl 1.0, ec 3.0, fl 1, ec 15",
+    "sequence_s": [1.0, 3.0, 1.0, 15.0],
+    "flash_duration_s": 1.0
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 10, "geographical_nm": null, "text": "10 NMiles (unlabelled)"},
+  "tower": {"type": "Square Masonery", "height_m": 10, "colour_scheme": "Painted White"},
+  "optic": {
+    "make": "Sealite", "model": "SL155-5D", "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Rotation Device: White Flashing Light; R.P.M. NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "RACON - NA-"},
+  "ais": {"present": false, "text": "NAIS base station model/type/MMSI blank; only 'VSAT Antenna Prodelin 2.4 meter' listed"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": false, "text": "Solar plant 70W, 01 Mono Crystline panel, 12V/100AH battery; mains row blank, no engines listed"},
+  "issues": []
+}

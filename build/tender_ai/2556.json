@@ -1,0 +1,62 @@
+{
+  "nid": 2556,
+  "title": "Procurement and installation of Air-Conditioner unit for Patpur, Bishnupur, Dimond Harbour FFM station and False Point Lighthouse IQ under Kolkata Directorate.",
+  "summary": "GeM bid for supply and installation of six 1.5-ton inverter split air conditioners with stabilizers, wiring, MCBs, distribution boards and accessories at the Patpur, Bishnupur and Diamond Harbour FFM (Loran-C) stations and the False Point Lighthouse inspection quarters.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2026/B/7932726; MS-Kol-14001/1/2019-MAINTENANCE",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Dimond Harbour FFM Station (Loran-C Station, Diamond Harbour)", "station_id": null, "kind": "other", "work": "1 AC with stabilizer, 10 m wiring, 2 MCBs, 1 MCB DB, GI stand, 15 ft drain pipe, 2 rolls tape, 1 changeover MCB"},
+    {"name": "Bishnupur FFM Station (Vishnupur D.N.C Station)", "station_id": null, "kind": "other", "work": "2 ACs with stabilizers, 10 m wiring, 2 MCBs, 1 MCB DB, 2 GI stands, 30 ft drain pipe, 4 rolls tape, 1 changeover MCB"},
+    {"name": "Patpur FFM Station (Patpur Loran-C Station)", "station_id": null, "kind": "other", "work": "2 ACs with stabilizers, 10 m wiring, 2 MCBs, 1 MCB DB, 2 GI stands, 30 ft drain pipe, 4 rolls tape, 1 changeover MCB"},
+    {"name": "False Point Lighthouse IQ", "station_id": "false-point-lighthouse", "kind": "lighthouse", "work": "1 AC with stabilizer, GI stand, 15 ft drain pipe, 2 rolls tape"}
+  ],
+  "scope": [
+    {"item": "1.5 Ton Split, Inverter, 5-Star Air Conditioner unit with copper condenser coil, 3 m copper pipes, standard accessories, installation complete. Make-reputed", "qty": "6", "unit": "No", "site": "Dimond Harbour 1; Bishnupur 2; Patpur 2; False Point 1"},
+    {"item": "Supply and fixing of 4KVA voltage stabilizer for 1.5 ton AC with digital/analog voltage display with time delay", "qty": "6", "unit": "No", "site": "Dimond Harbour 1; Bishnupur 2; Patpur 2; False Point 1"},
+    {"item": "Circuit submain wiring with earth wire, PVC insulated copper single core cable in surface/recessed medium class PVC conduit, 2x4 sqmm + 1x4 sqmm earth (total 90 m of 4.0 sqmm cable)", "qty": "30", "unit": "Mtr", "site": "Dimond Harbour 10; Bishnupur 10; Patpur 10"},
+    {"item": "Supplying and fixing 5A-32A, 240/415 V, 10 kA, C curve MCB in existing MCB DB: 20 A single pole", "qty": "6", "unit": "No", "site": "Dimond Harbour 2; Bishnupur 2; Patpur 2"},
+    {"item": "Supplying and fixing 6-way double door SPN sheet steel MCB distribution board, 240 V, surface/recess, without MCB/RCCB/isolator", "qty": "3", "unit": "No", "site": "Dimond Harbour 1; Bishnupur 1; Patpur 1"},
+    {"item": "Supply of G.I outdoor stand for air-conditioner unit", "qty": "6", "unit": "No", "site": "Dimond Harbour 1; Bishnupur 2; Patpur 2; False Point 1"},
+    {"item": "PVC drain pipe", "qty": "90", "unit": "Feet", "site": "Dimond Harbour 15; Bishnupur 30; Patpur 30; False Point 15"},
+    {"item": "PVC wrapping tape, 2-inch x 20 m, white", "qty": "12", "unit": "Roll", "site": "Dimond Harbour 2; Bishnupur 4; Patpur 4; False Point 2"},
+    {"item": "32 Amp, 2-pole, 240V, 50Hz changeover MCB", "qty": "3", "unit": "No", "site": "Dimond Harbour 1; Bishnupur 1; Patpur 1"}
+  ],
+  "money": {
+    "estimated_cost_inr": 532668.0,
+    "emd_inr": 10654.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 14 months (Advisory bank SBI)",
+    "notes": "Estimated value Rs 5,32,668 including GST. EMD by DD/FDR/BG or surety bond; MSE (manufacturers/service providers) and NSIC/MSME certificate holders exempt. MII purchase preference 20% (Class 1/2 local suppliers only); MSE purchase preference L1+15% for 25% quantity. Total value wise evaluation; no reverse auction."
+  },
+  "period": {"completion": "45 days delivery (per consignee schedule)", "bid_validity": "90 days from bid end date", "warranty": "Minimum 1 year from purchase/installation or as per OEM whichever is more; defective unit to be replaced within 72 hours"},
+  "dates": {"published": "2026-08-18", "pre_bid": "2026-08-25", "bid_submission_end": "2026-09-08", "bid_opening": "2026-09-08"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years) Rs 2 lakh; OEM average turnover Rs 2 lakh (MSE/startup relaxation)",
+    "3 years past experience in same/similar service; past performance 80% of bid quantity",
+    "ATC: one similar work >= 80% (Rs 4,26,135), or two >= 50% (Rs 2,66,334), or three >= 40% (Rs 2,13,068) of estimated value in last seven years; similar work = SITC of air-conditioner for Central/State Govt/PSU/Autonomous bodies",
+    "Average annual turnover >= 30% of estimated amount for last three years ending March 2026 (CA certified)",
+    "Solvency certificate for 40% of estimate from commercial bank; ITR for last 3 years",
+    "OEM authorization certificate, PAN, GST, bid acceptance form, non-blacklisting affidavit, unconditional bid undertaking, technical compliance sheet",
+    "Technical evaluation out of 100 marks (experience 30, performance 30, turnover 15, solvency 10, ITR 15); minimum 70% to qualify (para 4 says 60%)"
+  ],
+  "specs": [
+    "Air conditioner: 1.5 ton, inverter, 5 star, 4-way swing split, copper condenser coil, 3 m copper pipes",
+    "Voltage stabilizer 4 KVA with digital/analog display and time delay",
+    "PVC FRLS copper multi-strand cable, 90/100 m roll; makes Finolex/Polycab/KEI/Havells/Anchor/Mescab",
+    "Changeover MCB 32 A 2-pole 240 V 50 Hz 2-module; makes Anchor/Havells/Legrand/Crabtree",
+    "Wiring per Odisha State Electricity Board specs, else CPWD General Specifications for Electrical Works 2025; Indian Electricity Act 2003 / Rules 1956",
+    "BOQ items 3-5 are labour with materials as per DSR-2025"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "20260818181042.pdf", "pages": 50, "read": "vision", "language": "bilingual", "unreadable": ["pages 26 and 50 blank"]}
+  ],
+  "confidence": "high",
+  "notes": "Scanned print of GeM bid document (25 pages) followed by DLL Kolkata ATC, forms A-D, scope of work, technical specs and BOQ. GeM bid end 08-09-2026 19:00 and opening 08-09-2026 19:30; listing shows end 2026-09-09. Buyer contact e-mail and consignee officers' names/mobile numbers omitted (personal); HOD e-mail dte-kol@gov.in. GeM consignee addresses (Vishnupur 722121, Diamond Harbour 743331, False Point Dist Kendrapara) differ from ATC delivery table (Bishnupur 722122, Diamond Harbour 721 442, Dt Jagatsinghpur). Evaluation pass mark stated as 60% in para 4 and 70% in para 6. ATC lists Form-E (laws of land) but it is not included. Bid details list GeMARPTS search results including drones and fountain pens (GeM portal artefact)."
+}

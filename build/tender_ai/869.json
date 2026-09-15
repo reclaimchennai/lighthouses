@@ -1,0 +1,38 @@
+{
+  "nid": 869,
+  "title": "Electrical wiring and U.G cable replacement work of Powerhouse, Staff Quarters, Pump house, Meter room at Dariapur Lighthouse, West Bengal",
+  "summary": "E-tender for electrical rewiring and underground cable replacement in the powerhouse, staff quarters, pump house and meter room at Dariapur Lighthouse, West Bengal, issued by the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-KOL-03001/1/2019-Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, D-372/2 Taratala Road, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Dariapur Lighthouse, West Bengal", "station_id": "dariapur-lighthouse", "kind": "lighthouse", "work": "Electrical wiring and U.G. cable replacement of powerhouse, staff quarters, pump house and meter room"}
+  ],
+  "scope": [
+    {"item": "Electrical wiring and U.G cable replacement work of Powerhouse, Staff Quarters, Pump house, Meter room", "qty": null, "unit": null, "site": "Dariapur Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 787332.0,
+    "emd_inr": 15750.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. Tender fee not applicable. EMD by DD/BG/FDR of a commercial bank in favour of Director, Directorate of Lighthouse and Lightship, Kolkata; bidders with valid NSIC/MSME registration for the subject work considered for exemption."
+  },
+  "period": {"completion": "45 days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2022-12-30", "pre_bid": "2023-01-06", "bid_submission_end": "2023-01-16", "bid_opening": "2023-01-17"},
+  "eligibility": [
+    "Reputed firms having experience in similar works, i.e. electrical installation/electrical wiring work in Central Govt./State Govt./PSU/autonomous bodies"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "8b4bae09-e1cb-417f-b606-8c1f464a2dd6.pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section 1 NIT only; no BOQ. Internal inconsistency: EMD original to be submitted by 22.01.2023 15:00, which is after bid submission close (16.01.2023 15:00) and technical bid opening (17.01.2023 16:00). Bidders asked to visit site before quoting; originals of uploaded documents to be produced at contract signing."
+}

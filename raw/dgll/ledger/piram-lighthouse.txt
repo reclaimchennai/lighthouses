@@ -1,0 +1,183 @@
+                           मास्टर लेजर/MASTER LEDGER
+
+                                  पीरम दीपस्तंभ / Piram Lighthouse
+
+क्रमसंख्या/             नाम /Name
+                                                                            वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0448
+     2        स्थान/Position                     Lat : 21º 35.9’ N          Long : 72º 21.2’ E
+    3         ऊंचाई/Elevation                    46 M (Above MSL)
+    4         अभिलक्षण/Characteristic             Fl(2)W10 Sec. (0.3+2.2+0.3+7.2=10 Sec)
+    5         नॉटिकलमाइलमेदरू ी                  16 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                             Brick Masonry circular Tower
+                                                 Height                           27M
+                                                 Colour Scheme                    3 Black and 2 White bands
+                                                                                  (Bottom band Black)
+    7         ऑप्टिकलउपकरण                       Optic
+              Optical equipment                  Make                             BBT-France
+                                                 Type                             300 mm (4th order) revolving
+                                                                                  type
+                                                 Size
+                                                 No. of lens                      4
+                                                 Area of dioptric portion         1125 sq.cm (Corrected area 782
+                                                                                  Sq.cm)
+                                                 Area of catadioptric portion     3194 sq.cm (Corrected area 2651
+                                                                                  Sq.cm)
+                                                 Divergence                       20º59.99’(Horizontal),13º44.72’(Verti
+                                                 Main/Emergency                   cal)
+                                                 Duration of Flash                0.3 Sec
+                                                 Main /Standby/Emergency
+                                                 Pedestal                         Mercury float
+                                                 Rotation Device                  Stepper motor
+                                                 R.P.M.                           3
+                                                 Illuminant                       Cluster 230V/70W MH Lamp – 3
+                                                                                  Nos.
+                                                 Main                             230V/70W Metal Halide Lamp
+                                                 Standby
+                                                 Emergency:
+                                                 Date of Installation
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                             98072 Candela (cd)
+              intensity                          Emergency
+    9                                            Diameter                         2.5m
+                                            Height of glazing                 1.3m
+     लेंिनन/Lantern                         No. of panes                      20 (in 2 tiers)
+                                            Ventilators                       09
+10   RACON                                       Sr. No                       6183
+     Make                Model              Code                              Band                     Date of
+                                                                                                       Installation
+     Tide Land           Tide Land                   “B”                                               22-06-2010
+                         Sea
+                         Becon-6
+11   NAIS
+     Base Station
+
+     Model               Type               Power                             MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna        Band               Modem
+
+     DGPS
+     Transmitter Make    Frequency          Power Output RS 1 ID              RS -II      Beacon       Date of     Dat
+                                                                              ID          ID           commis      e of
+                                                                                                                   Re
+                                                                                                       sioning     cap
+                                                                                                                   itali
+                                                                                                                   zati
+                                                                                                                   on
+
+
+
+12   ऊर्ानकेसाधन/Sour    Mains                                                N.A
+     ce of energy        Power Source                                         DG Set 15 KVA make Kirloskar +
+                                                                              DG Set 5 KVA make Kirloskar
+                         Engine 1 (15 kva)+ Engine 2(5 kva)
+                         Make/Type                    Qty       Rating        No of           RPM             Cooling
+                                                                              Cylinder
+                         Kirloskar +Kirloskar         1+1       20.5 BHP+10   2 +1            1500 +1500      Air + Air
+                                                                BHP
+                         Alternator
+                         Make/Type                    Qty       Rating        Voltage/Am      Frequency       Phase
+                                                                              p
+                         Kirloskar+Kirloskar          1+1       15 KVA+5KVA   230V/26A        50Hz + 50Hz     Single
+                         Solar Plant : (M/L : 3KW)
+                         Capacity PV                  Numbers                 Type       Battery              Bank
+                         3 KWp                        12 Nos                  Mono       48 Nos , 2V/400AH    01 No.
+                                                                              Crystal
+                                                                              line
+                         Solar Plant for Main NAIS
+                         Capacity PV                  Numbers                 Type       Battery              Bank
+                         6KWp                         24Nos                   Mono       48 Nos, 2V/500AH     01 No
+                                                                              Crystal
+                                                                              line
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+          Make                 Model              Capa     Input                       Output                Phase     Qty
+
+14        बैिरर
+          Batteries
+          Equipment            Type               Make       Volt                      Amp/H Qty
+                                                                                       r
+          PSS NAIS                  Tubular       Exide              2V                500       48 Nos
+                                                                                       AH
+          Genset                Lead acid         Exide             12V                150AH      02 Nos
+          Automation
+          DGPS
+     15   बैिररचार्नर/ Battery charger
+
+          Equipment            Make               Model         Type            Rating           Qty
+          General Purpose      Aplab              0-32V         Digital         20 A             01
+                                                                P.S
+          Automation
+     16   इंवटट रInverter /UPS
+          Equipmen Nos Make               Model                      Type              Rating      Qty input             out
+          t                                                                                                              put
+          Main            ---  ---                   ---                  ---              ---         ---       ---      ---
+          Light
+          NAIS PSS
+          DGPS
+
+     17   स्वचलनउपकरण
+          Automation Equipment
+          MAKE       PLC                HMI              Power Supply           VSAT             Modem         Band
+          RDS        Allen Bradley      RENU             24 V                                    Robuste
+                                                                                                 l
+     18   आप्ननशमनउपकरण                           Type of Extinguisher          Capacity           Nos          Make
+          Fire Fighting Equipment                 DCP Type,ABC                  4 kg               9
+                                                  Water Co2                     -                  -
+                                                  Foam Type                     -                  -
+     19   संचार                                   Not Available
+          Communication
+     20   र्लपूर्तन                                Rain water collection tank for potable water
+                                                  02 Nos Syntex Tank 10000 Lte Each
+          Water Supply
+     21   िूभम                                    Area                                           1.1837 hectares.
+          Land                                    Demarcation                                    Barbed wire fencing
+
+     22   इमारतें                                 RCC Structure: 05 Nos                          Tower,Inspection
+          Buildings                                                                              Quarter, Powerhouse,
+                                                                                                 Store,
+                                                                           03 Quarters and Others
+                                                                           are Abandoned
+
+
+
+23   कंपाउं डलाइि                    7 Nos. G.I. Poles with
+     Compound Lights                 LED lamp fitted
+                                     Gate Light-02
+                                      10 Nos Solar LED
+                                      street Light
+
+
+
+
+                                                     Gate lights
+                                      – 2 Nos. 10 Nos Solar
+                                      LED street Light
+24   सीसीिीिीकमेरा                   Camera
+      CCTV CAMERA                    DVR
+25   स्िाफ                           Sl. No          Designations
+     Staff                           1            Navigational Assistant –I or II
+                                     2            Lighthouse Attendant (on tour from Ghogha
+                                                  Lighthouse)
+26   पहुँचनेकामाध्यम                 By Train upto Bhavnagar and then by road up to Ghogha
+                                     Bandar light house and then 10 Km sailing by Dept.
+     Mode of approach
+                                     Launch or by private machine boat
+27   उपलब्धसविधाए                    Police Station, Post office, Dispensary,
+     Facilities available            High School are at nearest Land Station Ghogha town 10
+                                     Km from Piram Island Lighthouse
+
+
+
+28   डाकपताPostal address            HLK, Ghogha Lighthouse, E/O Piram Island Lighthouse,
+                                     C/o Ghogha Lighthouse, P. O. Ghogha, Dist. Bhavnagar-
+                                     364110
+29   मूल्यकाब्योराCost details       Cost of Construction : Rs.136000/-,
+     (At the time of Construction)   Cost of Equipment : Rs. 3,16,100/-
+
+30   प्रितननमेलानेकादे नांक          15.09.1968
+     Date of commissioning
+

@@ -1,0 +1,46 @@
+{
+  "slug": "jodiya-lighthouse",
+  "page_count": 2,
+  "title_as_printed": "मास्टर लेजर/ MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1, "fields": [{"label": "A.L.O.L.", "value": ": 0368"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1, "fields": [{"label": "Position", "value": ": Lat 22º 43.5'N Long 70º 16.8' E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1, "fields": [{"label": "Elevation", "value": ": 31 Meter"}], "tables": [], "text": null},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1, "fields": [{"label": "Characteristic", "value": ": Fl (W) 10Sec. (1 + 9 = 10Sec)"}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in miles", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1, "fields": [
+      {"label": "a) Luminous", "value": ": 11NM at T=0.74"},
+      {"label": "b) b) Geographical", "value": ": 14NM"}
+    ], "tables": [], "text": null},
+    {"no": "6", "title": "Visibility sector", "title_hi": null, "page": 1, "fields": [{"label": "Visibility sector", "value": ": 360 º"}], "tables": [], "text": null},
+    {"no": "7", "title": "Structure", "title_hi": null, "page": 1, "fields": [
+      {"label": "a) Type", "value": "Frame work tower (Trestle tower)"},
+      {"label": "b) Height", "value": ": 30 Meter"},
+      {"label": "c) Colour Scheme", "value": ": White"}
+    ], "tables": [], "text": null},
+    {"no": "8", "title": "Optical Equipment: - Type of Light (LED Flasher)", "title_hi": "ऑप्टिकल उपकरण", "page": 1, "fields": [
+      {"label": "Optical Equipment", "value": ": Marine LED Lantern"},
+      {"label": "i)Make", "value": "NavAids Pvt Ltd, Delhi"},
+      {"label": "ii) Model", "value": ": NE-9A is a Three-Tier Lantern"},
+      {"label": "iii) Colour filter if any", "value": ": N/A"},
+      {"label": "iv) Type of flasher", "value": "High Intensity LED Lantern, NE-9"},
+      {"label": "v) Duration of flash", "value": ": 1 Second"}
+    ], "tables": [], "text": null},
+    {"no": "9", "title": "Solar Panel", "title_hi": null, "page": 1, "fields": [{"label": "Solar Panel", "value": "Solar panel 70W, TATA BP - 3Nos installed on separate frame for charging 2Nos SMF12V/100AH Battery"}], "tables": [], "text": null},
+    {"no": "10", "title": "Battery", "title_hi": null, "page": 1, "fields": [{"label": "Battery", "value": ": SMF 12V/100AH - 2Nos Exide Power Safe connected in parallel"}], "tables": [], "text": null},
+    {"no": "11", "title": "Charge controller", "title_hi": null, "page": 1, "fields": [{"label": "Charge controller", "value": "MPPT charge controller 12V/20A, Make;- NavAid Energy Pvt Ltd. Delhi."}], "tables": [], "text": null},
+    {"no": "12", "title": "A) Electrical Parameters of Light", "title_hi": null, "page": 1, "fields": [], "tables": [], "text": "a. Operating Voltage- 12VDC\nb. Range-11-14NM @ AT 0.74\nb. Lamp Source- High Power LED\nc. Power- 15W-18W\nd. Operation- Flashing\ne. LED Life- upto 100000 Hours\nf. Horizontal Divergence- 360°\ng. Vertical Divergence- 8°\nh. Sun Switch- Provided\ni. Flasher- Programmable 256 Flash Character as per IALA Standard\nj. Color- White"},
+    {"no": "13", "title": "B) Mechanical Parameters of Lantern", "title_hi": null, "page": 2, "fields": [], "tables": [], "text": "Body- Aluminum Alloy Cast Body LM6 Marine Grade\nLens Type/Dome- UV Stabilized Polycarbonate\nWeight- 10Kg approx.\nMounting- 4/3 x 200mm PCD with M 12\nIP66/67/68 Standard"},
+    {"no": "14", "title": "Energy Source", "title_hi": null, "page": 2, "fields": [{"label": "Energy Source", "value": ": Solar power light"}], "tables": [], "text": null},
+    {"no": "15", "title": "Fire Fighting Equipment", "title_hi": null, "page": 2, "fields": [{"label": "Fire Fighting Equipment", "value": ": Not provided"}], "tables": [], "text": null},
+    {"no": "16", "title": "Communication", "title_hi": null, "page": 2, "fields": [{"label": "Communication", "value": ": By Road"}], "tables": [], "text": null},
+    {"no": "17", "title": "Water supply", "title_hi": null, "page": 2, "fields": [{"label": "Water supply", "value": ": Not provided"}], "tables": [], "text": null},
+    {"no": "18", "title": "Land", "title_hi": null, "page": 2, "fields": [{"label": "Land", "value": ": Lighthouse located at creek of Jodiya bander"}], "tables": [], "text": null},
+    {"no": "19", "title": "Buildings", "title_hi": null, "page": 2, "fields": [{"label": "Buildings", "value": ": One Technical building"}], "tables": [], "text": null},
+    {"no": "20", "title": "Whether attended or unattended", "title_hi": null, "page": 2, "fields": [{"label": "Whether attended or unattended", "value": ": Unattended"}], "tables": [], "text": null},
+    {"no": "21", "title": "Mode of approach", "title_hi": null, "page": 2, "fields": [{"label": "Mode of approach", "value": ": By Road"}], "tables": [], "text": null},
+    {"no": "22", "title": "Facility available", "title_hi": null, "page": 2, "fields": [{"label": "Facility available", "value": ": Nil"}], "tables": [], "text": null},
+    {"no": "23", "title": "Postal address", "title_hi": null, "page": 2, "fields": [], "tables": [], "text": "Directorate of Lighthouses and Lightships, C/o RCS Dhuvav\nP.O. Jodiya, Jamnagar, Gujarat"},
+    {"no": "24", "title": "Date of commissioning", "title_hi": null, "page": 2, "fields": [{"label": "Date of commissioning", "value": ": 15th March 1903"}], "tables": [], "text": "Page footer on page 2 reads \"Page 2 of 8\"; the text layer also contains \"Page 1 of 8\" for page 1 (hidden behind the table in the rendering)."}
+  ],
+  "unreadable": []
+}

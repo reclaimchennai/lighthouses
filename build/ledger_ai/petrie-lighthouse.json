@@ -1,0 +1,44 @@
+{
+  "slug": "petrie-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Petrie Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2020,
+  "alol": "F 1212.7",
+  "position": {"lat_text": "11° 58' 40.41\" N", "lon_text": "92° 34' 56.53\" E", "lat": 11.977892, "lon": 92.582369},
+  "elevation_m": 40,
+  "characteristic_text": "Fl (1) W 7 Sec fl 1.0, ec 6",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 7,
+    "sequence_text": "fl 1.0, ec 6",
+    "sequence_s": [1.0, 6],
+    "flash_duration_s": 1.0
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 10, "geographical_nm": null, "text": "10 NMiles (unlabelled range)"},
+  "tower": {"type": "GI Trestle Tower", "height_m": 12, "colour_scheme": "Painted White"},
+  "optic": {
+    "make": "Sealite", "model": "SL155-5D", "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; R.P.M.: NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "RACON - NA-"},
+  "ais": {"present": false, "text": "NAIS section blank (only 'VSAT Antenna Prodelin 2.4 meter' label)"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": false, "text": "Solar plant 100 W x 01 Mono Crystline, 12V/100AH battery; mains/standby blank; engine rows blank/dashes"},
+  "issues": [
+    "Rotation Device field reads 'White Flashing Light'",
+    "established_year taken from date of commissioning 16.06.2020"
+  ]
+}

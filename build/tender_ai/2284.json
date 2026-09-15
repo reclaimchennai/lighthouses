@@ -1,0 +1,48 @@
+{
+  "nid": 2284,
+  "title": "Improvement and Civil Maintenance to Lighthouse tower and allied Buildings at Poompuhar Lighthouse under Chennai Directorate",
+  "summary": "Two-cover percentage-rate e-tender for improvement and civil maintenance of the lighthouse tower and allied buildings at Poompuhar Lighthouse, Mayiladuthurai District, Tamil Nadu.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(09)/1/2020-Civil Maintenance; 2026_DGLL_901236_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, 5/20 Jaffer Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Poompuhar Lighthouse, Poompuhar, Mayiladuthurai District", "station_id": "poompuhar-lighthouse", "kind": "lighthouse", "work": "Improvement and civil maintenance to lighthouse tower and allied buildings"}
+  ],
+  "scope": [
+    {"item": "Improvement and civil maintenance to lighthouse tower and allied buildings", "qty": null, "unit": null, "site": "Poompuhar Lighthouse"},
+    {"item": "BOQ item 51.01: Providing and fixing 18 mm thick granite gang saw cut, mirror polished, pre-moulded, machine cut for kitchen platforms, vanity counters etc. (unit corrected by corrigendum)", "qty": null, "unit": "Sq.M", "site": "Poompuhar Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 6185332.0,
+    "emd_inr": 124000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. No tender fee. EMD by DD/FDR of nationalized/scheduled bank in favour of The Director of Lighthouses and Lightships, Chennai, payable at Chennai; EMD validity stated as three months (table) and 90 days (clause 1.2) from technical bid opening. EMD exempted for MSME/NSIC registered firms with valid certificate in relevant category."
+  },
+  "period": {"completion": "06 (six) months from the date of handing over of site", "bid_validity": "90 days from the date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2026-03-04", "pre_bid": "2026-03-18", "bid_submission_end": "2026-03-24", "bid_opening": "2026-03-25"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Similar works completed in last seven years: three >= 40%, two >= 50% or one >= 80% of estimated cost; values updated at 7% simple interest per annum; completion certificates from officer not below Executive Engineer",
+    "Similar works: construction of building/compound wall/retaining wall/RCC work, and repairs and civil maintenance of building",
+    "PAN/ITCC/GST registration",
+    "CA-certified average annual turnover on construction works at least 40% of estimated cost in last 3 financial years ending 31 March 2025",
+    "Key technical personnel for supervision and execution",
+    "Annexures: tender acceptance letter (II), unconditional bid undertaking (III), bid security declaration (IV), non-blacklisting affidavit (V), list of relatives in MoPSW/DGLL (VI), Make in India self-certification (VII)"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2026-03-11", "change": "BOQ item 51.01 (18 mm granite for kitchen platforms/vanity counters): unit of measurement changed from RM to Sq.M. All other terms unchanged."}
+  ],
+  "documents": [
+    {"file": "NITPoompuhar.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []},
+    {"file": "Poompuhar Corri.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only Section I (NIT) is included; no BOQ or detailed scope beyond the corrigendum item. Listing shows closing 2026-04-07 and opening 2026-04-08, but the NIT prints submission end 24.03.2026 and opening 25.03.2026; any extension corrigendum is not among the documents. Hindi text of clause 1.7 describes roof repair of power house and inspection quarters and improvement works at Kilakkarai lighthouse (copy-paste error); the English names Poompuhar. Directorate e-mail printed on corrigendum is a gmail address."
+}

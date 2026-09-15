@@ -1,0 +1,41 @@
+{
+  "slug": "balasore-navtex-station",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Balasore Navtex Station",
+  "station_type": "other",
+  "established_year": null,
+  "alol": null,
+  "position": {"lat_text": "21° 29' 10.8\" N", "lon_text": "86° 55' 01\" E", "lat": 21.486333, "lon": 86.916944},
+  "elevation_m": null,
+  "characteristic_text": null,
+  "light": {
+    "kind": null,
+    "flashes_per_period": null,
+    "colours": null,
+    "period_s": null,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": null, "geographical_nm": null, "text": null},
+  "tower": {"type": null, "height_m": null, "colour_scheme": null},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": null,
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "AIS Base station 02 nos. R-40 (make Saab Transponder); commissioned 6.12.2012"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "3 PH mains 440 V AC 50Hz; standby 2 x 20 KVA diesel generator sets (Eicher/Kirloskar); 25 KW on-grid solar plant (22.12.2016)"},
+  "issues": ["Longitude printed as 86°55'0l\" (letter l for digit 1), read as 01\"", "NAVTEX station: Danphone dual-frequency transmitter 490 kHz/518 kHz, 1000W; no light characteristics"]
+}

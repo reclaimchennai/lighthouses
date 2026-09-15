@@ -1,0 +1,45 @@
+{
+  "nid": 2124,
+  "title": "Construction of security cabin at Chandrabhaga Lighthouse Station.",
+  "summary": "Online two-bid e-tender for construction of a security cabin at Chandrabhaga Lighthouse Station, District Puri, Odisha.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chandrabhaga Lighthouse Station, District: Puri, Odisha-752111", "station_id": "chandrabhaga-lighthouse", "kind": "lighthouse", "work": "Construction of security cabin"}
+  ],
+  "scope": [
+    {"item": "Construction of security cabin", "qty": null, "unit": null, "site": "Chandrabhaga Lighthouse Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 943958.89,
+    "emd_inr": 19000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata, valid 3 months from technical bid opening; exemption not allowed; original EMD to reach office by last date of bid submission."
+  },
+  "period": {"completion": "90 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-11-20", "pre_bid": "2025-12-02", "bid_submission_end": "2025-12-11", "bid_opening": "2025-12-12"},
+  "eligibility": [
+    "Valid registration of appropriate class in Building civil work category with Central Govt. department/undertaking/autonomous body or State Govt.",
+    "Similar works completed in last 7 years: three works each >= 40%, or two works each >= 50%, or one work >= 80% of estimated cost; value enhanced at 7% simple per annum",
+    "Similar works: repairs & maintenance or construction of any type of building (RCC or masonry), supported by client certificates",
+    "Valid PAN card and GST registration",
+    "Notarized affidavit (current year 2025) of not being blacklisted/debarred by any Central/State Govt. organization",
+    "Undertaking that price bid is unconditional",
+    "Income tax returns for FY 2022-23, 2023-24, 2024-25",
+    "Tender acceptance letter on letter pad; other documents per Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITCHBH.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled (font mojibake); parallel English text read"]}
+  ],
+  "confidence": "high",
+  "notes": "Document is the bilingual NIT only (printed pages 3-6); no file/NIT reference number, BOQ or drawings included. Estimated cost printed without stated GST treatment."
+}

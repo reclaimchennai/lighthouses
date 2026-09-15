@@ -1,0 +1,42 @@
+{
+  "nid": 1617,
+  "title": "Conducting Technical cum Commercial Feasibility Study for installation of Lift at Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai Lighthouses.",
+  "summary": "Corrigendum extending the last date of a tender for a technical-cum-commercial feasibility study on installing lifts at five Chennai Directorate lighthouses.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(29)/1/2024-Civil Maintenance; Tender ID 2024_DGLL_809194_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhawan, 5/20 Jaffar Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Poompuhar Lighthouse", "station_id": "poompuhar-lighthouse", "kind": "lighthouse", "work": "Feasibility study for lift installation"},
+    {"name": "Kodikkarai Lighthouse", "station_id": "kodikkarai-lighthouse", "kind": "lighthouse", "work": "Feasibility study for lift installation"},
+    {"name": "Nagapattinam Lighthouse", "station_id": "nagapattinam-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Feasibility study for lift installation"},
+    {"name": "Mallipattinam Lighthouse", "station_id": "mallipattinam-lighthouse", "kind": "lighthouse", "work": "Feasibility study for lift installation"},
+    {"name": "Kilakkarai Lighthouse", "station_id": "kilakkarai-lighthouse", "kind": "lighthouse", "work": "Feasibility study for lift installation"}
+  ],
+  "scope": [
+    {"item": "Technical cum Commercial Feasibility Study for installation of Lift", "qty": "5", "unit": "lighthouses", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": null
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": "2024-07-04", "bid_opening": "2024-07-05"},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-06-21", "change": "Bid document download and online submission extended up to 04.07.2024 15:00; bid opening 05.07.2024 15:00"}
+  ],
+  "documents": [
+    {"file": "EXTFeasibilitystudylift.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only a date-extension corrigendum is attached; no NIT, cost or EMD."
+}

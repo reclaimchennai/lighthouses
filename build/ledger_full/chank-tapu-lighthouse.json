@@ -1,0 +1,56 @@
+{
+  "slug": "chank-tapu-lighthouse",
+  "page_count": 4,
+  "title_as_printed": "मास्टर लेजर/ MASTER LEDGER",
+  "sections": [
+    {"no": "1.", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1, "fields": [{"label": "A.L.O.L.", "value": "0386"}], "tables": [], "text": null},
+    {"no": "2.", "title": "Position", "title_hi": "स्थान", "page": 1, "fields": [{"label": "Position", "value": ": Lat 22º 32.8' N Long 69º 24.6' E"}], "tables": [], "text": null},
+    {"no": "3.", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1, "fields": [{"label": "Elevation", "value": "12 Meter"}], "tables": [], "text": null},
+    {"no": "4.", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1, "fields": [{"label": "Characteristic", "value": "Fl (W) 15Sec. (1 + 14 = 15Sec)"}], "tables": [], "text": null},
+    {"no": "5.", "title": "Range in miles", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1, "fields": [
+      {"label": "a) Luminous", "value": "11NM at T=0.74"},
+      {"label": "b) Geographical", "value": "9NM"}
+    ], "tables": [], "text": null},
+    {"no": "6.", "title": "L.H.Tower", "title_hi": "दीपस्तंभ टावर", "page": 1, "fields": [
+      {"label": "Height", "value": "6 Meter steel trestle above 3mtrs masonry structure"},
+      {"label": "Colour Scheme", "value": "White - Black three strips"}
+    ], "tables": [], "text": "Frame work tower (M.S. Trestle tower) and M.S room approx. 8'x8'x8' ( 4580 x 5310mm) over 15'x15' sq. masonry structure (Size height 8000 x 2310mm) of 3mtrs base height. Main angles are 65x65x6mm and other supportive angles 50x50x6mm are used for framing trestle tower structure. Top of the trestle 1 X 1 Meter G.I cabin to installed light equipment and keep inside 2nos SMF 12V/100AH battery and solar charge controller."},
+    {"no": "7.", "title": "Optical Equipment:- Type of Light (LED Flasher)", "title_hi": "ऑप्टिकल उपकरण", "page": 1, "fields": [
+      {"label": "Make", "value": "NavAids Pvt Ltd, Delhi"},
+      {"label": "Model", "value": "NE-9A is a Three-Tier Lantern"},
+      {"label": "Colour filter if any", "value": "N/A"},
+      {"label": "Type of flasher", "value": "High Intensity LED Lantern, NE-9"},
+      {"label": "Duration of flash", "value": "1 Second"},
+      {"label": "A) Electrical Parameters of Light", "value": ""},
+      {"label": "a. Operating Voltage", "value": "12VDC"},
+      {"label": "b. Range", "value": "11-14NM @ AT 0.74"},
+      {"label": "b. Lamp Source", "value": "High Power LED"},
+      {"label": "c. Power", "value": "15W-18W"},
+      {"label": "d. Operation", "value": "Flashing"},
+      {"label": "e. LED Life", "value": "upto 100000Hours"},
+      {"label": "f. Horizontal Divergence", "value": "360°"},
+      {"label": "g. Vertical Divergence", "value": "8°"},
+      {"label": "h. Sun Switch", "value": "Provided"},
+      {"label": "i. Flasher", "value": "Programmable 256 Flash Character as per IALA Standard"},
+      {"label": "j. Color", "value": "White"},
+      {"label": "B) Mechanical Parameters of Lantern", "value": ""},
+      {"label": "Body", "value": "Aluminum Alloy Cast Body LM6 Marine Grade"},
+      {"label": "Lens Type/Dome", "value": "UV Stabilized Polycarbonate"},
+      {"label": "Weight", "value": "10Kg approx."},
+      {"label": "Mounting", "value": "4/3 x 200mm PCD with M 12"},
+      {"label": "IP66/67/68 Standard", "value": ""},
+      {"label": "b) Pedestal", "value": "M.S Iron 100 X 100 cm G.I box over which provision has been made for installation of light. Inside the box arrangement has been made for installation of 2 Nos SMF12V/100AH battery and charge controller."},
+      {"label": "Illuminant", "value": "High Intensity LEDs"},
+      {"label": "14. Max. Beam Intensity (cd)", "value": "10,000Candela"},
+      {"label": "15. Energy Source", "value": "Solar power light"}
+    ], "tables": [], "text": "Item 7 continues across pages 1–3. Page footers printed: \"Page 1 of 8\" to \"Page 4 of 8\"."},
+    {"no": null, "title": "Energy source", "title_hi": null, "page": 4, "fields": [
+      {"label": "11. Battery", "value": "SMF 12V/100AH – 2Nos Exide Power Safe connected in parallel"},
+      {"label": "12. Charge controller", "value": "PWM charge controller 12V/20A, Make;- Luminous"}
+    ], "tables": [], "text": "01 no. 125W, LOOM make solar panel installed on separate frame (by welding over old frame) through Luminous PWM charge controller 12V/20A ."},
+    {"no": null, "title": "LAND:", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "North West tip of the vast Bural Reef"},
+    {"no": null, "title": "ADDRESS& COMMUNICATION", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "Directorate of lighthouses & lightships\n\nC/o. Mandvi lighthouse & RCS P.O Mandvi Dist:- Kutch, Pin- 370 465"},
+    {"no": null, "title": "DATE OF COMMISSIONING", "title_hi": null, "page": 4, "fields": [{"label": "DATE OF COMMISSIONING", "value": "05.02.2022 for New Light and new trestle 23.05.2014"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

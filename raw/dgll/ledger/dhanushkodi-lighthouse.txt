@@ -1,0 +1,154 @@
+                           मास्टर लेज़र/MASTER LEDGER
+
+                      धनुषकोडी दीपस्तंभ/Dhanushkodi Lighthouse
+क्रमसंख्या/                 नाम /Name
+   Sr.No                                                            वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.
+    2         स्थान/Position             Lat.09° 10’ 39.254” N, Long. 79° 25’ 7.424” E
+    3         ऊंचाई/Elevation            53 M (Above MSL)
+    4         अविलक्षण/Characteristic    Fl (3) W 20 sec
+    5         नॉविकलमाइलमे दूरी          Luminous Range            : 15 NM
+              Range in miles             Geographical Range        : 18 NM
+    6         दीपस्तं ििािर/L.H.Tower    Type                              Octagonal tower
+                                         Height                              49 M
+                                         Colour Scheme                       Red and White Chequered Bands
+    7         ऑविकलउपकरण                 Optic
+              Optical equipment          Make                                BBT
+                                         Type                                Revolving
+                                         Size                                250 mm
+                                         No. of lens                         3
+                                         Area of dioptric portion
+                                         Area of catadioptric portion
+                                         Divergence                          5.7° (Horizontal)
+                                         Main/Emergency                      5.7° (Vertical)
+                                         Duration of Flash                   0.75 Sec
+                                         Main /Standby/Emergency
+                                         Pedestal                            Mercury float
+                                         Rotation Device                     Stepper motor
+                                         R.P.M.                              3 RPM
+                                         Illuminant
+                                         Main                                230V/132W LED Illuminant
+                                         Standby                             ---
+                                         Emergency:                          ---
+                                         Date of Installation/Inauguration   14-05-2022
+    8         प्रिािीबीमतीव्रता          Main                                18000 cds
+              Effective beam intensity   Emergency
+    9         लें िनन /Lantern           Diameter                            3.0 m
+                                         Height of glazing                   1.09 m
+                                         No. of panes                        12
+                                         Ventilators                         12
+    10        RACON                           Sr. No                         N/A
+     Make                  Model              Code                             Band                          Date of
+                                                                                                             Installation
+
+
+11   NAIS
+     Base Station                             N/A
+
+     Model                 Type               Power                            MMSI
+     N/A                   N/A                N/A                              N/A
+
+     Communication
+     Equipment
+     N/A                   N/A                N/A                              N/A                           N/A
+
+     DGPS
+     Transmitter Make      Frequency          Power Output       RS 1 ID       RS -II        Beacon          Date of        Da
+                                                                               ID            ID              commis         te
+                                                                                                             sioning        of
+                                                                                                                            Re
+                                                                                                                            ca
+                                                                                                                            pit
+                                                                                                                            ali
+                                                                                                                            zat
+                                                                                                                            ion
+     N/A                   N/A                N/A                N/A           N/A           N/A             N/A            N/
+                                                                                                                            A
+
+
+12   ऊर्ान केसाधन          Mains                                               N/A
+     Source of energy                                                          Solar Power 385 W/24 V × 13 Panels
+                           Power Source                                        3 Phase DG Set 20 KVA, Make:
+                                                                               Kirloskar
+                           Engine 1
+                           Make/Type                  Qty         Rating       No of               RPM               Cooling
+                                                                               Cylinder
+                           Kirloskar                  1           32 BHP       3                   1500              Air
+                           Alternator
+                           Make/Type                  Qty        Rating        Voltage/Amp         Frequency         Phase
+                           Kirloskar                  1          20 KVA        415V/27.8 A         50Hz              Three
+                           Engine 2
+                           Make/Type                  Qty        Rating        No of               RPM                 Coolin
+                                                                               Cylinder                                g
+                           Kirloskar                  1          32 BHP        3                   1500                Air
+                           Alternator
+                           Make/Type                  Qty        Rating        Voltage/Amp         Frequency           Phase
+                           Kirloskar                  1          20 KVA        415V/27.8 A         50Hz                Three
+                           Solar Plant (Off Grid)
+                           Capacity PV                Number of Solar Panels   Type                Battery           Bank
+                           5 KWp                      13 Nos.                  Mono                16 Nos.           96
+                                                                               Crystalline         12 V/200 AH       V/400
+                                                                                                                     AH
+13   स्वचावलतिोल्टे र्स्टे बलाइर्र
+     Automatic Voltage Stabilizers
+            Make                 Model            Capacity           Input              Output             Phase         Qty
+            N/A                   N/A               N/A               N/A                N/A                N/A          N/A
+14   बैिरर
+     Batteries
+     Equipment              Type                 Make        Volt                 Amp. Hr.               Qty
+     Genset                 Lead acid            KOEL        12V                  75 AH                  2 Nos.
+     UPS (Main Light)       Tubular Lead         Exide       12 V                 200 AH                 16 Nos.
+                            acid
+     Automation             ---                  ---         ---                  ---                    ---
+     DGPS                   ---                  ---         ---                  ---                    ---
+
+
+
+15   बैिररचार्न र/ Battery charger
+     Equipment               Make                Model Type                       Rating Qty
+     General Purpose               ---            ---                ---           ---                   ---
+     Automation                    ---            ---               ----           ---                   ---
+16   इं वर्ट रInverter /UPS/SPCU
+     Equipment Nos           Make              Model                 Type         Rating         Qty           Input     Out
+                                                                                                                         put
+     Main Light     01      Power One            SPCU502P08          Pure sine    5 KVA          1 No.         96 V DC   230
+                                                                     wave                                                V
+                                                                                                                         AC
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE           PLC                  HMI          Power Supply           VSAT            Modem              Band
+     N/A            N/A                  N/A          N/A                    N/A             N/A                N/A
+18   आविशमनउपकरण                                 Type of Extinguisher        Capacity          Nos               Make
+     Fire Fighting Equipment                     DCP Type
+                                                 Co2
+                                                 Foam Type
+19   संचार
+     Communication
+20   र्लपूवतन                                    Rain Water Sump - 1 No. (Fitted with 1 HP Motor).
+     Water Supply
+21   िू वम                                       Area                                            0.15 hectare
+     Land                                        Demarcation                                     RCC Wall
+22   इमारतें                                          1. Allied Building comprising of Office, Power House, Store Room,
+     Buildings                                            Operator’s Rooms and IQ.
+                                                      2. Security Room.
+23   कंपाउं डलाइि                                LED Street Lights fitted on G.I Pole - 4 Nos, LED Garden Light – 1 No.
+     Compound Lights                             LED Gate Light – 2 Nos.
+24   सीसीिीिीकमे रा                              Camera                    Bullet Camera - 21 Nos. & PTZ Camera – 1 No.
+      CCTV CAMERA                                NVR                       1 No.
+25   स्टाफ                                       Sl. No.         Designations
+     Staff                                       1               Touring Staff – 2 Personnel.
+26   पहुँ चने कामाध्यम                           By rail up to Rameswaram and then by road 21 Kms up to
+     Mode of approach                            Lighthouse.
+27   उपलब्धसुविधाए                               Post Office within a Km.
+     Facilities available
+28   डाकपताPostal address            Dhanushkodi Lighthouse,
+                                     Rameswaram Post,
+                                     Ramanathapuram District,
+                                     Tamil Nadu State
+                                     Pin: 623 526.
+29   मू ल्यकाब्योराCost details
+                                     7.09 Crores
+     (At the time of Construction)
+30   प्रितननमे लाने कादे नां क       14.05.2022
+     Date of commissioning
+

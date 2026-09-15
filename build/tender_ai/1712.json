@@ -1,0 +1,32 @@
+{
+  "nid": 1712,
+  "title": "Special Repair and Civil Maintenance of Lighthouse Tower, Compound wall etc. at Karaikal Lighthouse",
+  "summary": "Corrigendum from the Directorate of Lighthouses and Lightships, Chennai extending the bid deadline for the e-tender on special repairs and civil maintenance of the lighthouse tower and compound wall at Karaikal Lighthouse.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(10)/1/2021-Civil Maintenance; 2024_DGLL_810648_2",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Karaikal Lighthouse", "station_id": "karaikal-lighthouse", "kind": "lighthouse", "work": "Special repair and civil maintenance of lighthouse tower, compound wall etc."}
+  ],
+  "scope": [
+    {"item": "Special Repair and Civil Maintenance of Lighthouse Tower, Compound wall etc.", "qty": null, "unit": null, "site": "Karaikal Lighthouse"}
+  ],
+  "money": {"estimated_cost_inr": null, "emd_inr": null, "tender_fee_inr": null, "performance_security": null, "notes": null},
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": "2024-08-19", "bid_opening": "2024-08-20"},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-08-06", "change": "Extension of last date: bid document download and online submission extended up to 19.08.2024 15:00; bid opening 20.08.2024 15:00. All other terms unchanged."}
+  ],
+  "documents": [
+    {"file": "EXTKaraikalCM24II.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled"]}
+  ],
+  "confidence": "medium",
+  "notes": "Only the date-extension corrigendum is attached; the original NIT (estimated cost, EMD, eligibility) is not included. Tender ID suffix _2 and file name 'CM24II' suggest a re-tender or second extension."
+}

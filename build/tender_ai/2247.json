@@ -1,0 +1,41 @@
+{
+  "nid": 2247,
+  "title": "Electrification of Lighthouse tower, provision of 1Kw OFF Grid Solar Power Plant and ESE Lightning Arrester at Olakuda Lighthouse.",
+  "summary": "Electrification of the lighthouse tower, a 1 kW off-grid solar power plant and an ESE lightning arrester at Olakuda Lighthouse, tendered by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01002(18)/2/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, 5/20 Jaffer Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Olakuda Lighthouse", "station_id": "olakuda-lighthouse", "kind": "lighthouse", "work": "Electrification of tower, 1 kW off-grid solar power plant, ESE lightning arrester"}
+  ],
+  "scope": [
+    {"item": "Electrification of Lighthouse tower", "qty": null, "unit": null, "site": "Olakuda Lighthouse"},
+    {"item": "Provision of 1Kw OFF Grid Solar Power Plant", "qty": "1", "unit": null, "site": "Olakuda Lighthouse"},
+    {"item": "ESE Lightning Arrester", "qty": null, "unit": null, "site": "Olakuda Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 958691.0,
+    "emd_inr": 19174.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by Demand Draft/FDR of any Nationalized Bank in favour of The Director of Lighthouses and Lightships, Chennai, payable at Chennai, valid 90 days from technical bid opening; EMD exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "180 days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2026-02-18", "pre_bid": "2026-03-04", "bid_submission_end": "2026-03-12", "bid_opening": "2026-03-13"},
+  "eligibility": [
+    "Original Equipment Manufacturers (OEMs) or their authorized agents, or appropriate class contractors registered with CPWD, State PWD, Railways, MES, BSNL etc. or other State/Central Government/Public Sector undertaking/Autonomous bodies",
+    "Experience in electrification, rewiring of buildings, solar works, lightning arrester, earthing works and UG cable works"
+  ],
+  "specs": ["1 kW off-grid solar power plant", "ESE (Early Streamer Emission) lightning arrester"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITolakuda19022026.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section-1 NIT only (pages numbered 3-4); no BOQ. Bid download/submission and EMD submission 19/02/2026 14:00 to 12/03/2026 16:00; technical bid opening 13/03/2026 16:30."
+}

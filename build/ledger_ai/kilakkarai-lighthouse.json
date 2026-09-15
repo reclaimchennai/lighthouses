@@ -1,0 +1,44 @@
+{
+  "slug": "kilakkarai-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Kilakkarai Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1979,
+  "alol": "F 0738",
+  "position": {"lat_text": "09° 13.5' N", "lon_text": "78° 47.0' E", "lat": 9.225, "lon": 78.783333},
+  "elevation_m": 35.198,
+  "characteristic_text": "Single white flash every 15 sec (0.1+14.9)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "0.1+14.9",
+    "sequence_s": [0.1, 14.9],
+    "flash_duration_s": 0.1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20 NM (unlabelled range)"},
+  "tower": {"type": "Hexagonal concrete tower", "height_m": 30, "colour_scheme": "Red and White Bands"},
+  "optic": {
+    "make": "Tideland Signal Corporation-Maxlumina", "model": "TRB 220", "type": null, "size": "Height: 915 mm, Dia: 415 mm, Weight: 20Kg", "order": null,
+    "panels": 6,
+    "rotation_device": "Brushless DC motor gearless direct drive",
+    "rpm": 4.0,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: Brushless DC motor gearless direct drive; R.P.M. 4.0",
+    "divergence_horizontal_deg": 2.4,
+    "divergence_vertical_deg": null,
+    "divergence_text": "2.40° (Horizontal)",
+    "illuminant": "230V / 70W Metal Halide Lamp"
+  },
+  "intensity_cd": 68881,
+  "racon": {"present": false, "code": null, "text": "RACON N/A"},
+  "ais": {"present": true, "text": "2 Nos AIS1 & AIS2; R40, Class A; AC-230V & DC-12V; MMSI 004194417"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "Tamilnadu Electricity Board mains; Solar Energy 5 KW off grid (21 panels); engine/alternator rows '-'"},
+  "issues": [
+    "No. of lens '6 (5 Nos Blanking with aluminum sheet)': only one panel active",
+    "established_year from first commissioning 02.10.1979; renovated 2003"
+  ]
+}

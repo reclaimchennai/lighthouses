@@ -1,0 +1,211 @@
+                 सातपाटी दीपस्तंभ/SATPATI LIGHTHOUSE
+
+
+                                सातपाटीदीपस्तंभ/ Satpati Light House
+क्रमसंख्या/             नाम /Name
+   Sr.No                                                                वििरण/Discription
+    1         ए.एल.ओ.एल/A.L.O.L.             F 0492
+    2         स्थान/Position                 Lat 19°43.34’ N
+                                             Long.72°42.16’” E
+    3         ऊंचाई/Elevation                38m
+    4         अभिलक्षण/Characteristic        Fl(2) w 20 Sec
+    5         नॉटिकलमाइलमेदरू ी               20 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower         Type                             Circular RCC Tower
+
+                                             Height                           30 m
+                                             Colour Scheme                    Red & White band (3 Red
+                                                                              2 White)
+    7         ऑप्टिकलउपकरण                   Optic                            -
+              Optical equipment
+                                             Make                             Tideland signal
+                                                                              Corporation, USA
+                                             Type                             Tideland TRB-220 Marine
+                                                                              Rotating Beacon
+                                             Size                             110 mm focal Length
+                                             No. of lens                      06 (04 fresnel lense + 2
+                                                                              blanks)
+                                             Area of dioptric portion         Nil
+                                             Area of catadioptric portion Nil
+
+                                             Divergence                       Horizontal-2.40°, Vertical-2.42°
+                                             Main/Emergency
+
+                                             Duration of Flash                0.267 Secs
+                                             Main /Standby/Emergency
+
+                                             Lamp changer                     Nil
+                                             Pedestal                         GI rectangular pedestal
+                                        Rotation Device        Stepper Motor, Tarque 10
+                                                               Kgcm 2.8 A, 04 Wire,
+                                                               single Gearless direct
+                                                               drive, Microprocessor
+                                                               Controlled speed field
+                                                               Selectable rotation speed
+                                                               from 1/256 stepping
+                                                               Operated on 12 V DC.
+                                        R.P.M.                 1.5
+                                        illumining             230 V AC /70 W M.H
+                                                               LAMP,
+                                                               Blast 70 Watt CDM-T
+                                                               Philips certa Vision.
+                                        Main                   440 V, 03 Phase 50Hz
+                                                               MSEDCL Supply
+                                        Standby                I) Genset 16 HP, 10 KVA
+                                                               II) 12V/75 W Tata BP
+                                                               Make 06 nos solar panels.
+
+
+                                        Emergency:             Nil
+                                        Date of Installation   nil
+8    प्रिािीबीमतीव्रता/Effective beam   Main & Standby         139990 cd
+     intensity
+                                        Emergency              Nil
+9    लेंिनन/Lantern                     Diameter               2.4 Meter
+                                        Height of glazing
+                                        No. of panes           12
+                                        Ventilators            06
+10   RACON
+     Make                 Model         Code                   Band            Date of
+                                                                               Installation
+     Nil                  NIL           NIL                    NIL             NIL
+11   NAIS
+     Base Station                       NIL
+
+
+     Model                Type          Power                  MMSI
+     Communication      NIL           NIL                    NIL
+     Equipment
+     VSAT Antenna       Band          Modem                  NIL
+     DGPS               NIL
+     Trasmitter Make    Frequency     Power Output RS 1 ID   RS -II     Beacon   Date of Date
+                                                             ID         ID       commis of
+                                                                                 sioning Rec
+                                                                                         apit
+                                                                                         aliza
+                                                                                         tion
+     NIL                NIL           NIL           NIL      NIL        NIL      NIL     NIL
+
+12   ऊर्ानकेसाधन/Sour   Mains                                440 V, 03 Phase 50Hz
+     ce of energy                                            MSEDCL Supply
+                        Standby                              I)D.G Set 16 HP,Alternator
+                                                             10 KVA
+                                                             II)75 Watt/17.5V Tata BP
+                                                             Solar Panels 06 Nos
+
+                        Engine 1
+                        Make/Type             Qty   Rating   No of        RPM          Cooling
+                                                             Cylinder
+                        Kirloskar EA/16 01          16 HP    02           1500         Air
+                                              No
+                        Alternator
+                        Make/Type             Qty   Rating Voltage/A Frequency         Phase
+                                                           mp
+                        Crompton              01    10 KVA 230 V     50 Hz             Single
+                                              No
+                        Engine 2
+                        Make/Type             Qty   Rating   No of        RPM          Cooling
+                                                             Cylinder
+                        NIL                   NIL   NIL      NIL          NIL          NIL
+                        Alternator
+                        Make/Type             Qty   Rating   Voltage/A Frequency       Phase
+                                                             mp
+                        NIL                   NIL   NIL      NIL       NIL             NIL
+                        Solar Plant
+                        Capacity PV           Numbers        Type          Battery     Bank
+                           75 W/ 17.5 V              06 Nos           Monocry I) 12           02
+                                                                      stalline.   V/600       Nos
+                                                                                  AH(02Vx
+                                                                                  6 cell)
+                                                                                  II) 12V/
+                                                                                  150AH
+                                                                                  X2 NOS
+                                                                                  In
+                                                                                  parallel.
+                           Solar Plant for Main RACON
+                           Capacity PV           Numbers              Type        Battery     Bank
+                           NIL                   NIL                  NIL         NIL         NIL
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model             Capa     Input            Output      Phase       Qty
+                                            city
+     Servo volatge        V.s power         10       120V-280 V       231 V       Single      01 No
+     stabilizer           system
+                                            Kva                                   Phase
+14   बैिरर
+     Batteries
+     Equpment             Type              Make Volt                 Amp/Hr      Qty
+     PSS NAIS             NIL               NIL NIL                   NIL         NIL
+     Genset               SMF               Reli     12V              150 AH      01 No
+                                            cell
+     Automation           NIL               NIL      NIL              NIL         NIL
+     DGPS                 NIL               NIL      NIL              NIL         NIL
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make              Mode Type                 Rating      Qty
+                                            l
+     General Purpose      Logic             -    -                    12v/30      01 No
+                          state                                       amp
+     Automation           NIL               NIL      NIL              NIL         NIL
+16   इंवटट रInverter /UPS
+     Equipmen Nos Make              Model          Type      Rating   Qty         input       output
+     t
+          Main        01      Exide    -         -           650 VA      01       230V         231V
+          Light               ups
+          NAIS PSS    NIL     NIL      NIL       NIL         NIL         NIL      NIL
+          DGPS        NIL     NIL      NIL       NIL         NIL         NIL      NIL
+     17   स्वचलनउपकरण
+          Automation Equipment
+          MAKE       PLC              HMI       Power Supply        VSAT       Modem    Band
+          NIL        NIL              NIL       NIL                 NIL        NIL
+     18   आप्ननशमनउपकरण                      Type of Extinguisher   Capacity     Nos       Make
+          Fire Fighting Equipment            WATER GAS              09 LTR       02        Water
+                                             TYPE                                          Type Gas
+                                                                                           Cartridge
+                                             DCP TYPE               02 KG       02         DCP gas
+                                                                                           Cartridge
+
+
+
+
+19        संचार                              BSNL Tel. No                         02525-224190
+          Communication
+     20   र्लपूर्तन                          I) Gram Panchayat Water Connection
+          Water Supply                       II) Bore Well with Pump Set.
+     21   िूभम                               Area                                 500.76 Sq.Mt
+          Land
+                                             Demarcation                          Masonry
+                                                                                  Compound Wall
+     22   इमारतें                            Quarters                             Combined single
+          Buildings                                                               unit of N.A.II
+                                                                                  Qtr, Inspection
+                                                                                  Qtrs, Power
+                                                                                  House, Office &
+                                                                                  Store Room.
+     23   कंपाउं डलाइि                                                            04 Nos Street
+          Compound Lights                                                         light power saver
+                                                                                  PLL 36 Watt &
+                                                                                  02 Nos Gate
+                                                                                  Light.
+     24   सीसीिीिीकमेरा                      Camera                               Nil
+     CCTV CAMERA                     DVR                                  Nil
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1             Navigation Assistant Gr-II
+                                     2
+                                     3
+                                     4
+26   पहुँचनेकामाध्यम                 By rail upto Palghar , Then 15 km by Auto upto
+     Mode of approach                Satpati Light house.
+27   उपलब्धसविधाए                    Marine Police Station 100 meter
+     Facilities available            Dispensary             500 meter
+                                     High School            100 meter
+                                     Post office            500 meter
+28   डाकपताPostal address            Light House Incharge, Satpati Light House, PO-
+                                     Satpati, Taluka - Palghar, Dist- Palghar-401405,
+                                     Maharastra.
+29   मूल्यकाब्योराCost details       I) -/Construction- Rs- 1,22,65,268
+     (At the time of Construction)   Ii)Equipment - Rs-25,96,300/-
+30   प्रितननमेलानेकादे नांक          16/07/2009
+     Date of commissioning
+

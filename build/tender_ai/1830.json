@@ -1,0 +1,53 @@
+{
+  "nid": 1830,
+  "title": "Procurement of DSLR camera and its Accessories under Goa Directorate - Reg.",
+  "summary": "GeM bid for supply of a full-frame DSLR camera with mount adapter, standard zoom lens, camera bag, tripod, two 256 GB SDXC cards and a 3-year Adobe Photoshop subscription for the Goa Directorate.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/5879823",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Goa"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Directorate of Lighthouses and Lightships, Deep Bhawan, Near GMC Stadium, Bambolim, Goa 403202", "station_id": null, "kind": "office", "work": "Consignee for DSLR camera and accessories"}
+  ],
+  "scope": [
+    {"item": "DSLR Camera with Mount Adapter (still DSLR full frame, CMOS, 24 MP or more, Z mount, 4K video, 3.1-3.5 inch TFT touch screen, Wi-Fi/Bluetooth/USB, SD up to 256 GB, Li-Ion 1900 mAh or more with charger), warranty minimum 2 years", "qty": "1", "unit": "Nos.", "site": "Deep Bhawan, Goa"},
+    {"item": "Auto Standard Zoom DSLR Camera Lens (Z mount, 80 mm filter, 70 mm focal length, full frame, max aperture 2.8, 9 diaphragm blades, image stabilisation), warranty minimum 2 years", "qty": "1", "unit": "Nos.", "site": "Deep Bhawan, Goa"},
+    {"item": "Branded camera bag (holds two DSLRs and eight lenses, customizable dividers, removable waist belt, all-weather cover, tripod carry)", "qty": "1", "unit": "Nos.", "site": "Deep Bhawan, Goa"},
+    {"item": "Tripod with aluminium alloy ball head (folded 739 mm, extended 1734 mm, min 233 mm, max load 7 kg, 360 deg panoramic, quick release plate), warranty 2 years", "qty": "1", "unit": "Nos.", "site": "Deep Bhawan, Goa"},
+    {"item": "256GB SDXC memory cards", "qty": "2", "unit": "Nos.", "site": "Deep Bhawan, Goa"},
+    {"item": "Adobe Photoshop computer software, 3 years subscription", "qty": "1", "unit": "Nos.", "site": "Deep Bhawan, Goa"}
+  ],
+  "money": {
+    "estimated_cost_inr": 526765.0,
+    "emd_inr": 10535.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 26 months",
+    "notes": "Estimated bid value per GeM. EMD exemption per GeM GTC (MSE manufacturers; traders excluded). MII and MSE purchase preference apply. Scope: only supply of goods."
+  },
+  "period": {"completion": "Delivery 15 days", "bid_validity": "45 days from bid end date", "warranty": "2 years comprehensive warranty"},
+  "dates": {"published": "2025-01-28", "pre_bid": null, "bid_submission_end": "2025-02-07", "bid_opening": "2025-02-07"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 2 lakh",
+    "OEM average turnover (last 3 years): Rs 20 lakh",
+    "3 years past experience supplying same/similar category products to Central/State Govt/PSU",
+    "Past performance: 30% of bid quantity supplied in one of last three financial years",
+    "MSE and startup exemption from experience and turnover",
+    "Only Class-I and Class-II local suppliers (minimum 50%/20% local content)",
+    "BIS compulsory registration (Scheme-II, IS 616:2017) for the camera category",
+    "Technical brochure with make and model and compliance sheet as per scope of work"
+  ],
+  "specs": [
+    "GeM category: DSLR/Compact/Handheld Camcorder or Video Cameras (V2); still DSLR full frame, CMOS, 35.6-35.9 x 23.8-24 mm sensor, 24 MP, ISO 51200 or higher, detachable lens, 4K (3840x2160) video, HDMI, MOV/MP4, touch vari-angle 3.1-3.5 inch display, SD/CF/XQD up to 512 GB, Li-Ion",
+    "Buyer item specification: Z mount, focal length 27/70 mm, aperture 3.5/5.6, mini HDMI, built-in flash, memory card up to 256 GB, 1900 mAh battery"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "dslr_merged (1)_0.pdf", "pages": 12, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "9-page GeM bid document merged with 3-page scanned buyer item specification (OCR text layer legible). BOQ excel referenced but not included. Buyer specification (Z mount, 27/70 mm focal length, built-in flash, 256 GB) differs from GeM category specification (14-800 mm, external flash, 512 GB). Bid end 07-02-2025 18:00, opening 18:30. Buyer e-mail and consignee officer's name and mobile numbers not recorded [personal contact removed]."
+}

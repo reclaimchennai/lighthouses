@@ -1,0 +1,37 @@
+{
+  "nid": 1720,
+  "title": "Supply and Installation of ON Grid and OFF Grid Solar Inverter at various Lighthouses under Kolkata Directorate.",
+  "summary": "Two-cover online tender for supplying and installing on-grid and off-grid solar inverters at various lighthouses under the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Kol-07003/1/2019-MAINTENANCE",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Supply and Installation of ON Grid and OFF Grid Solar Inverter at various Lighthouses under Kolkata Directorate", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 1389300.0,
+    "emd_inr": 27800.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. Tender fee 'Not Applicable'. EMD by DD/FDR from any commercial bank in favour of Director, Directorate of Lighthouses and Lightships, Kolkata, or valid MSME/NSIC certificate; original EMD/hard copy of certificate to reach the office by 05.09.2024."
+  },
+  "period": {"completion": "60 days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-08-14", "pre_bid": "2024-08-23", "bid_submission_end": "2024-09-05", "bid_opening": "2024-09-06"},
+  "eligibility": [
+    "Reputed firms with experience in similar works: supply of ON Grid/OFF Grid solar inverters in Central Govt./State Govt./PSU/Autonomous bodies/reputed private establishments",
+    "EMD exemption only for bidders with valid NSIC/MSME registration in the subject work"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_0.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled (font mojibake); English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "Section-1 NIT only; no BOQ, list of lighthouses, inverter quantities or ratings. NIT dated 14.08.2024; bid submission 15.08.2024 to 05.09.2024 15:00; pre-bid 23.08.2024 15:00; technical bid opening 06.09.2024 16:00. Bidders asked to visit site before quoting."
+}

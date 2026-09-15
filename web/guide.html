@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Guide · Lighthouses of India</title>
+<meta name="description" content="How to read the Lighthouses of India map, every field on a lighthouse card and in its full Master Ledger record, where the data comes from and how it was checked.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="favicon.svg">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&family=Silkscreen:wght@400;700&family=VT323&display=swap">
+<link rel="stylesheet" href="css/style.css?v=8">
+<style>
+  body{overflow:auto}
+  .doc{max-width:760px;margin:0 auto;padding:calc(20px + env(safe-area-inset-top,0px)) 16px 60px}
+  .doc h1{font-size:34px;margin:18px 0 6px;text-shadow:3px 3px 0 #000}
+  .doc h2{font-family:var(--label);font-size:14px;margin:34px 0 10px;display:flex;align-items:center;gap:8px;color:var(--text)}
+  .doc h2 .i{color:var(--gold)}
+  .doc h3{font-size:18px;margin:20px 0 8px;color:var(--gold)}
+  .doc p,.doc li{color:var(--text);font-size:16px;line-height:1.5}
+  .doc .lede{font-size:18px;color:var(--text-2)}
+  .doc .cells{padding:4px 14px}
+  .doc dl{display:grid;grid-template-columns:minmax(120px,30%) 1fr;gap:10px 16px;margin:0;padding:10px 0}
+  .doc dt{color:var(--gold);font-size:15px}
+  .doc dd{margin:0;color:var(--text);font-size:15px;line-height:1.45}
+  .doc .toc{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0}
+  .doc .toc a{font-family:var(--label);font-size:10px;padding:8px 10px;border:3px solid var(--edge);background:var(--stone);color:#fff;
+    text-shadow:2px 2px 0 #2b2b2b;box-shadow:inset 3px 3px 0 var(--stone-hi),inset -3px -3px 0 var(--stone-lo)}
+  .doc code{background:var(--cell);border:2px solid var(--edge);padding:0 5px;font-size:14px}
+  .back{display:inline-flex;align-items:center;gap:6px;font-family:var(--label);font-size:12px;min-height:44px;padding:0 12px;border:3px solid var(--edge);
+    background:var(--stone);color:#fff;text-shadow:2px 2px 0 #2b2b2b;box-shadow:inset 3px 3px 0 var(--stone-hi),inset -3px -3px 0 var(--stone-lo)}
+  @media (max-width:560px){.doc dl{grid-template-columns:1fr;gap:2px 0}.doc dd{margin-bottom:10px}}
+</style>
+</head>
+<body>
+<main class="doc">
+  <a class="back" href="./"><svg class="i"><use href="icons.svg?v=2#back"/></svg>Map</a>
+  <h1>Guide</h1>
+  <p class="lede">What every part of the map shows, where each number comes from, and how to use the records to ask questions of the people who run India's lighthouses.</p>
+  <nav class="toc">
+    <a href="#map">The map</a><a href="#panel">Panel</a><a href="#card">Lighthouse card</a><a href="#ledger-record">Full record</a>
+    <a href="#tenders">Tenders</a><a href="#data">Data &amp; methods</a><a href="#accountability">Accountability</a><a href="#limits">Limits</a>
+  </nav>
+
+  <h2 id="map"><svg class="i"><use href="icons.svg?v=2#lighthouse"/></svg>The map</h2>
+  <div class="cells"><dl>
+    <dt>Lights</dt><dd>Every active light in DGLL's Master Ledgers, plus the Perigee light vessel and three public-access lighthouses DGLL publishes no ledger for (Kannur's ledger is filed on DGLL's Mahe page; Kelshi, Rawal Pir and Mahe come from the Lighthouse Directory). Each flashes its ledger rhythm.</dd>
+    <dt>Beams</dt><dd>Revolving optics sweep 360° at the ledger rotation speed, with the ledger's beam count and width. LED flashers and fixed drum optics blink in place. A shaft leaves the lantern and hands over to the sweep on the water.</dd>
+    <dt>Reach</dt><dd>The lit sea around each light: the shorter of luminous and geographical range, cast as sight lines that stop at the first landfall. It never spills over land.</dd>
+    <dt>NAVTEX</dt><dd>Wavefronts over the 250 NM DGLL states for its seven transmitters, on connected sea only. They brighten during each station's real 10-minute UTC broadcast slot. Hidden before the year the ledgers record NAVTEX equipment.</dd>
+    <dt>RACON</dt><dd>Radar beacons pulse their Morse identifier outward. Off by default. Hidden before their installation year.</dd>
+    <dt>3D towers</dt><dd>Built from each ledger's tower type, height and colours; the light vessel from DGLL's photograph. Towers are drawn taller than life when zoomed out so they stay visible.</dd>
+    <dt>Places, roads &amp; rivers</dt><dd>OpenStreetMap data via OpenFreeMap, loaded after the lights. India's outline and state lines are DataMeet's Survey of India composite.</dd>
+    <dt>Planned rings</dt><dd>Four lighthouses ordered on the Brahmaputra (National Waterway-2). Rings mark the named river ports; exact sites are not published.</dd>
+    <dt>Year watermark</dt><dd>Top left. It follows the History slider and is burned into pictures and videos.</dd>
+  </dl></div>
+
+  <h2 id="panel"><svg class="i"><use href="icons.svg?v=2#layers"/></svg>Panel</h2>
+  <div class="cells"><dl>
+    <dt>Show</dt><dd>Switch each layer on or off. "On air" names the NAVTEX station broadcasting right now.</dd>
+    <dt>Colour lights by</dt><dd><b>Light</b>: the ledger light colour. <b>Equipment</b>: NAVTEX, RACON or light only. <b>Age</b>: year established. <b>Access</b>: museum, public access (Lok Sabha Q3233) or none.</dd>
+    <dt>History</dt><dd>Drag or play from 1790 to today. Lights appear from their establishment year; NAVTEX and RACON from their equipment years.</dd>
+    <dt>Public access</dt><dd>The 75 lighthouses the government lists as developed for visitors, and the 7 with museums.</dd>
+    <dt>Funding</dt><dd>DGLL's allocation and spending on lighthouse infrastructure, 2023-24 to 2025-26 (Lok Sabha Q949). Hover a year for exact figures.</dd>
+    <dt>Rhythm</dt><dd>Every light's flashes in one scrolling wall, one row per light along the coast. Tap a row to go to that light.</dd>
+    <dt>Picture &amp; video</dt><dd>The camera button saves a PNG; the record button saves up to 90 seconds as MP4 (WebM where the browser has no MP4 encoder). Both include names, the year and credits, and leave out the panel.</dd>
+  </dl></div>
+
+  <h2 id="card"><svg class="i"><use href="icons.svg?v=2#info"/></svg>Lighthouse card</h2>
+  <p>Tap any light. Values come from DGLL's Master Ledger unless tagged
+    <span class="src src-derived">Derived</span> (computed from other ledger values) or
+    <span class="src src-directory">Directory</span> (from the Lighthouse Directory).</p>
+  <h3>Light</h3>
+  <div class="cells"><dl>
+    <dt>Characteristic</dt><dd>The light's signature in one wording for every light: the international abbreviation, then plain words (<code>Fl(2) W 10s</code> · White, 2 flashes every 10 s). Hover for the ledger's own text.</dd>
+    <dt>Period</dt><dd>Seconds for one full cycle of the signature.</dd>
+    <dt>Sequence</dt><dd>Seconds lit and dark within a period. Printed timings where the ledger gives them; otherwise built from the characteristic and flash duration.</dd>
+    <dt>Optic</dt><dd>Whether the lens revolves, flashes in place, or the ledger doesn't say.</dd>
+    <dt>Rotation</dt><dd>Seconds per turn, from the optic rpm when it fits the rhythm, else from the panel count.</dd>
+    <dt>Beams</dt><dd>Number of beams and their width: the ledger's horizontal divergence where printed.</dd>
+    <dt>Lens panels</dt><dd>Panels that shine; blanked panels are counted out ("4 lit of 6").</dd>
+    <dt>Sectors</dt><dd>White/red sector lights. The ledgers rarely give the sector bearings, so these draw white.</dd>
+  </dl></div>
+  <h3>Brightness, reach, station</h3>
+  <div class="cells"><dl>
+    <dt>Brightness</dt><dd>Effective beam intensity in candela, on a log scale against every DGLL light that states one, a candle (≈1 cd) and one car high-beam lamp (140,000 cd, the ECE maximum per lamp).</dd>
+    <dt>Reach</dt><dd>Luminous range (how far the intensity carries in clear weather) and geographical range (the horizon from the lantern's height to a 5 m eye). The light is seen out to the shorter one.</dd>
+    <dt>Equipment pills</dt><dd>NAVTEX with its transmitter IDs, RACON with its Morse letter, AIS base station, DGNSS, VTS radar, museum, public access, solar power.</dd>
+    <dt>Station</dt><dd>Tower type, height and colours; established and tower years; Admiralty List of Lights and ARLHS numbers; NAVTEX broadcast slots.</dd>
+    <dt>Warnings</dt><dd>Amber boxes flag where a ledger contradicts itself, e.g. an rpm that cannot produce the printed rhythm.</dd>
+    <dt>Transcription notes</dt><dd>How an awkward field was read: formats, blanks, misfiled or copied pages.</dd>
+    <dt>Tenders</dt><dd>Every DGLL tender that names the station, newest first, with the work at this site and the estimated cost. Each opens in the tender archive.</dd>
+    <dt>Photo</dt><dd>DGLL's station photo (or Wikimedia Commons), served from this site's own backup; tap for the original.</dd>
+  </dl></div>
+
+  <h2 id="tenders"><svg class="i"><use href="icons.svg?v=2#rupee"/></svg>Tender archive</h2>
+  <p><a href="tenders.html">Tender archive</a> lists every tender on DGLL's current and archive tender pages. DGLL takes notices down over time, so every notice and corrigendum is kept here unaltered, with its SHA-256.</p>
+  <div class="cells"><dl>
+    <dt>Summary</dt><dd>What is being bought or built, and where, in one or two sentences.</dd>
+    <dt>Sites</dt><dd>The stations named in the documents, linked to the map, with the work at each.</dd>
+    <dt>Key facts</dt><dd>Procurement mode and portal, reference numbers, estimated cost, EMD, fees, security, completion period and dates.</dd>
+    <dt>Scope</dt><dd>Items, quantities and units from the notice or bill of quantities.</dd>
+    <dt>Specifications, eligibility, corrigenda</dt><dd>Makes, standards and capacities; bidder criteria; what each corrigendum changed.</dd>
+    <dt>Documents</dt><dd>The backed-up PDF, DGLL's original link, pages, and whether it was read from the text layer or the page images. Unreadable spots are listed.</dd>
+    <dt>Filters</dt><dd>Search any word (titles, sites, items), or narrow by directorate, category and year. A card's "All … tenders" button opens its directorate.</dd>
+  </dl></div>
+
+  <h2 id="ledger-record"><svg class="i"><use href="icons.svg?v=2#doc"/></svg>Full ledger record</h2>
+  <p>"Full ledger record" on a card opens everything DGLL's ledger contains for that station, section by section, in page order: light, optic, lantern, RACON, NAIS, DGPS, NAVTEX, power, gensets, alternators, solar plants, batteries, chargers, UPS, stabilisers, automation, CCTV, air-conditioners, fire fighting, communication, water supply, land, buildings, staff, approach, postal address, construction cost and commissioning dates.</p>
+  <div class="cells"><dl>
+    <dt>Summary</dt><dd>Sections, entries, how many are blank / NIL / NA, and how many mention equipment reported broken, removed, defective or not working.</dd>
+    <dt>Find</dt><dd>Filters sections by any word.</dd>
+    <dt>Values</dt><dd>Verbatim from the PDF's rendered pages. Blank and NIL entries are kept and shown muted. Personal phone numbers are removed.</dd>
+    <dt>Downloads</dt><dd>The original PDF, DGLL's page and the record as JSON.</dd>
+  </dl></div>
+
+  <h2 id="data"><svg class="i"><use href="icons.svg?v=2#book"/></svg>Data &amp; methods</h2>
+  <ul>
+    <li><b>Master Ledgers.</b> All 211 PDFs linked from DGLL's regional pages were read twice by Claude, from both the text layer and the page images: once for the light function, once for every section verbatim.</li>
+    <li><b>Positions.</b> Hand-typed coordinates were checked against OpenStreetMap, Wikidata and the Lighthouse Directory. Digit slips and seconds typed as decimal minutes were corrected only when the fix lands on the same named light; every change is listed in <code>build_notes.txt</code>.</li>
+    <li><b>Light simulation.</b> One rule for every light, from its own ledger: rhythm, rotation, panels, beam width. Conflicts are shown, not hidden.</li>
+    <li><b>Equipment years.</b> The earliest installation or commissioning date printed in that equipment's own section. Where a station prints none, the earliest date any ledger records for that network, marked as such.</li>
+    <li><b>Not active.</b> Murud Janjira's ledger reports the light non-functional for years, so it is off the map. VTS, repeater and decommissioned Loran-C stations are skipped.</li>
+    <li><b>Parliament.</b> Public access, museums, planned Brahmaputra lights and funding come from Lok Sabha answers of July and August 2026.</li>
+    <li><b>Tenders.</b> Every document on DGLL's tender pages was downloaded and read by Claude: the text layer where the PDF has one, the page images for scans and garbled Hindi text. Station names were matched to the map by hand-checked spelling variants.</li>
+    <li><b>Backups.</b> Ledgers, tender documents and station photos are kept as unaltered copies with checksums, so the record survives when a government page changes.</li>
+    <li><b>Pixel animation.</b> Beams, sweeps, NAVTEX waves and RACON rings are drawn in blocks with a few dithered brightness steps, advancing 12 times a second. The timings, reach and bearings stay the ledger's.</li>
+  </ul>
+
+  <h2 id="accountability"><svg class="i"><use href="icons.svg?v=2#alert"/></svg>Using it for accountability</h2>
+  <ul>
+    <li>Open a station's full record and look at the summary: blank entries, equipment reported broken or removed, and the dates of the last replacement.</li>
+    <li>Compare the ledger with what you see on a visit: is the light flashing its published characteristic? Is the "public access" lighthouse actually open?</li>
+    <li>Check construction costs, commissioning dates and staffing across stations in the same directorate.</li>
+    <li>Set a station's tenders against its ledger: was the generator, AC or tower repair bought and then still listed broken? Were the same works tendered again and again?</li>
+    <li>Look for amber inconsistencies: a ledger whose rotation speed cannot produce its own rhythm is a ledger nobody has checked.</li>
+    <li>Download <a href="data/light_audit.csv">light_audit.csv</a> (every light's ledger inputs and derived simulation) or any station's JSON to analyse the whole network. Cite the original PDF when you publish.</li>
+  </ul>
+
+  <h2 id="limits"><svg class="i"><use href="icons.svg?v=2#info"/></svg>Limits</h2>
+  <ul>
+    <li>The ledgers are DGLL's own documents, of varying dates. A value can be out of date even when transcribed correctly.</li>
+    <li>Transcription can err where a PDF is blurred or garbled; those places are listed as unreadable rather than guessed.</li>
+    <li>Reach is modelled for clear weather and a 5 m eye; real visibility varies.</li>
+    <li><b>Not for navigation.</b> Always use official charts and Notices to Mariners.</li>
+  </ul>
+  <p class="note fine">Icons: pixelarticons (MIT). Fonts: Pixelify Sans, Silkscreen, VT323 (OFL). Map: MapLibre GL JS, three.js. Basemap: © OpenStreetMap contributors, OpenFreeMap, OpenMapTiles, Natural Earth, DataMeet.</p>
+</main>
+</body>
+</html>

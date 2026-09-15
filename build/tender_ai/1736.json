@@ -1,0 +1,45 @@
+{
+  "nid": 1736,
+  "title": "Construction of Gabion wall for protection of LH tower and premises at Kovilthottam Lighthouse",
+  "summary": "E-tender to build a gabion wall protecting the lighthouse tower and premises at Kovilthottam Lighthouse, Kollam district, Kerala, issued by the Directorate of Lighthouses and Lightships, Cochin; a corrigendum extended the bid dates.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-07002(01)/1/2019-MS; I/63705/2024; 2024_DGLL_824776_1; I/64664/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kovilthottam Lighthouse, Kovilthottam, District Kollam, Kerala - 691583", "station_id": "kovilthottam-lighthouse", "kind": "lighthouse", "work": "Construction of gabion wall for protection of lighthouse tower and premises"}
+  ],
+  "scope": [
+    {"item": "Construction of Gabion wall for protection of LH tower and premises", "qty": null, "unit": null, "site": "Kovilthottam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 14768650.0,
+    "emd_inr": 296000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents by post/hand. Tender fee Nil."
+  },
+  "period": {"completion": "180 Days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-09-05", "pre_bid": "2024-09-12", "bid_submission_end": "2024-10-08", "bid_opening": "2024-10-09"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Similar works completed in last 7 years: three each >= 40% of estimated cost, or two >= 50%, or one >= 80%; only fully completed works with completion certificate",
+    "Similar work: construction of sea protection work by groins/gabion wall/tetrapod etc.",
+    "PAN and GST registration; CA-certified annual turnover of last three years",
+    "Bidders with near relatives posted as Accountant or Junior Engineer or higher in DGLL not permitted"
+  ],
+  "specs": ["Gabion wall (sea protection) for lighthouse tower and premises"],
+  "corrigenda": [
+    {"date": "2024-09-25", "change": "Corrigendum-I: bid submission extended from 26.09.2024 to 08.10.2024 15:00; EMD/technical documents (original) from 25.09.2024 to 07.10.2024 15:00; technical bid opening from 27.09.2024 to 09.10.2024 15:00. Other terms unchanged. Corrigendum names the work as gabion wall construction and protection work for lighthouse tower, power house (Hindi)."}
+  ],
+  "documents": [
+    {"file": "NITCivil.pdf", "pages": 3, "read": "text", "language": "en", "unreadable": []},
+    {"file": "KovilCorrigen_1.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section-I NIT only; no BOQ. Original schedule: download/submission 06.09.2024 10:00 to 26.09.2024 15:00, query last date 11.09.2024, pre-bid 12.09.2024, EMD by 25.09.2024, opening 27.09.2024; dates field reflects corrigendum. Technical opening subject to internet availability."
+}

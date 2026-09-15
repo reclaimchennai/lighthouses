@@ -1,0 +1,166 @@
+                   मास्टर लेजर/MASTER LEDGER
+
+क्रमसं         नाम /Name
+ ख्या/   Vengurla Rock Lighthouse                           वििरण/Description
+Sr.No
+   1        ए.एल.ओ.एल/A.L.O.L.                                    F0598
+   2          स्थान/Position                               15*53.4’N 73*27.7’E
+   3        ऊंचाई/Elevation                                        49m
+   4     अविलक्षण/Characteristic                               FI (2)W 20S
+   5       नॉविकलमाइलमेदूरी                                       26NM
+             Range in miles
+  6      दीपस्तंििािर/L.H.Tower                 Type                     Circular Cast Iron
+                                               Height                            20m
+                                           Colour Scheme                Red & White Bands
+  7           ऑविकलउपकरण                       Optic                        Revolving
+            Optical equipment
+                                               Make                          BBT Paris
+                                               Type                         First Order
+                                                Size                          920mm
+                                             No. of lens                          2
+
+                                       Area of dioptric portion            52431 sq.cm
+                                         Area of catadioptric
+                                               portion
+                                             Divergence                  Horizontal – 1.5*
+                                          Main/Emergency                 Verttical – 2.42*
+                                          Duration of Flash                    0.18S
+                                                Main
+                                        /Standby/Emergency
+
+                                             Pedestal                           C.I.
+                                          Rotation Device               Dual stepper Motor
+                                               R.P.M.                           1.5
+                                            illumining
+                                                Main                        50W 12vdc
+                                              Standby                             -
+                                            Emergency:                            -
+                                         Date of Installation                     -
+  8      प्रिािीबीमतीव्रता/Effective      Main & Standby                    113665cd
+               beam intensity               Emergency
+  9            लेंिनन /Lantern               Diameter                           4.50m
+                                          Height of glazing                     2.82m
+                                                 No. of panes                                      48
+                                                  Ventilators                                      30
+10            RACON                                 Sr. No                                        6295
+          Make              Model                   Code                               Band                   Date of
+                                                                                                            Installation
+      Tideland Signal    FAZSBCN2                          D                              -X+S
+           Corp.           SY56A
+11                                                         NAIS
+             Base Station
+
+          Model             Type                     Power                            MMSI
+
+     Communication
+       Equipment
+      VSAT Antenna          Band                   Modem
+        2.4m dia            EX-C               Datum system
+        Parabolic                                    M7LT
+        reflector                             Satellite Terminal
+          DGPS
+       Transmitter       Frequency           Power             RS 1 ID           RS -II      Beacon   Date of Date of
+          Make                               Output                               ID           ID     commi Recapi
+                                                                                                              talizati
+                                                                                                      ssionin   on
+                                                                                                         g
+
+
+12   ऊर्ान केसाधन/Sour                       Mains
+      ce of energy                          Standby
+                                                                      Engine 1
+                             Make/Type               Qty          Rating           No of           RPM            Cooling
+                                                                                  Cylinder
+                             Birla Yamaha             1           2.35kva             1            3000             Air
+                                                                     Alternator
+                             Make/Type               Qty          Rating      Voltage/Am         Frequency         Phase
+                                                                                   p
+                             Birla Yamaha             1                         230vac             50Hz              1
+                                                                                &12vdc
+                                                                      Engine 2
+                             Make/Type               Qty          Rating           No of           RPM            Cooling
+                                                                                  Cylinder
+
+                                                                     Alternator
+                             Make/Type               Qty          Rating     Voltage/Am          Frequency         Phase
+                                                                                  p
+
+
+
+
+                                            Solar Plant
+                             Capacity PV                   Numbers                  Type          Battery          Bank
+                               4.2KW                                         Tata Bo Solar         66no.            11
+                                Solar Plant for Main RACON
+                           Capacity PV               Numbers              Type         Battery       Bank
+                              75W                     1                                  1               1
+13                                   स्वचावलत िोल्टे र्स्टे बलाइर्र
+                                    Automatic Voltage Stabilizers
+
+         Make           Model        Capa             Input              Output         Phase        Qty
+                                      city
+
+14                                                  बैिरर
+                                                  Batteries
+      Equipment          Type        Make              Volt             Amp/Hr          Qty
+       PSS NAIS
+        Genset
+      Automation        EP26-12      Exide              12               26Ah            2
+                                     Power
+                                      Safe
+         DGPS
+15                                       बैिररचार्नर/ Battery charger
+
+       Equipment         Make        Mod              Type               Rating         Qty
+                                      el
+     General Purpose
+       Automation
+16                                         इं वर्ट रInverter /UPS
+     Equipme    Nos    Make              Model              Type        Rating    Qt      input      output
+         nt                                                                       y
+       Main
+       Light
+     NAIS PSS
+      DGPS
+17                                           स्वचलनउपकरण
+                                         Automation Equipment
+      MAKE           PLC         HMI        Power Supply    VSAT    Modem                         Band
+      NELCO Teleuemech Schneide                 24vdc                 Sky
+                     aniq     r Electric                             Edge
+18         आविशमनउपकरण                       Type  of      Capacity    Nos                        Make
+        Fire Fighting Equipment            Extinguisher
+                                          DCP Type(u/s)      3.2kg      3
+                                          DCP Type(u/s)       1kg       2
+                                         Foam Type(u/s)        9l       2
+                                         Water Type(u/s)                1
+                                            DCP Type           --       --
+                                           Fire Bucket                  4
+19             संचार
+           Communication
+20            र्लपूवतन
+            Water Supply
+21              िूवम                                 Area              Lighthouse is on Rock
+               Land                                                        in the mid sea
+                                               Demarcation                Compound Wall
+22             इमारतें                        Quarters-4Nos
+              Buildings
+23          कंपाउं डलाइि                              4
+          Compound Lights
+24         सीसीिीिीकमेरा                         Camera
+           CCTV CAMERA                            DVR
+25              स्टाफ                Sl. No                   Designations
+                Staff                  1
+
+26          पहुँ चनेकामाध्यम          From Vengurla 20km by motor luanch upto lighthouse
+          Mode of approach
+27          उपलब्धसुविधाए            Marine Police
+          Facilities available          Station
+                                      Dispensary                   20km Appx
+                                      High School                  20Km Appx
+                                       Post office                 20km Appx
+28      डाकपताPostal address                                  -
+29     मूल्यकाब्योराCost details                              -
+     (At the time of Construction)
+30        प्रितननमेलानेकादे नां क                             -
+        Date of commissioning
+

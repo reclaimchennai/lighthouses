@@ -1,0 +1,38 @@
+{
+  "nid": 2012,
+  "title": "Replacement of Mains UG cable from EB meter to Powerhouse at Alleppey Lighthouse",
+  "summary": "E-tender for replacing the mains underground cable from the electricity board meter to the power house at Alleppey (Alappuzha) Lighthouse, Kerala, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-09001/1/2019-MS; I/84645/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Alleppey Lighthouse", "station_id": "alappuzha-lighthouse", "kind": "lighthouse", "work": "Replacement of mains UG cable from EB meter to power house"}
+  ],
+  "scope": [
+    {"item": "Replacement of Mains UG cable from EB meter to Powerhouse", "qty": null, "unit": null, "site": "Alleppey Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 411064.0,
+    "emd_inr": 8221.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR from any nationalised/RBI approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam; original to reach one day before last day of bid submission (26.09.2025 15:00). Small scale industries with valid NSIC/MSME certificate for related stores/service exempt from EMD."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-09-16", "pre_bid": "2025-09-23", "bid_submission_end": "2025-09-29", "bid_opening": "2025-09-30"},
+  "eligibility": [
+    "Reputed OEMs or their authorized suppliers, licensed electrical contractors, parties or Government undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT1.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section-1 short NIT only; no BOQ, cable specification, completion period or eligibility details. Download and bid submission period 17.09.2025 09:00 to 29.09.2025 15:00; technical bid opening 30.09.2025 10:00."
+}

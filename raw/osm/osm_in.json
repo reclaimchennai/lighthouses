@@ -1,0 +1,2984 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-13T17:44:36Z",
+    "timestamp_areas_base": "2026-09-13T07:08:17Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 245650406,
+  "lat": 18.7034099,
+  "lon": 72.8147382,
+  "tags": {
+    "seamark:light:1:character": "Fl",
+    "seamark:light:1:colour": "red",
+    "seamark:light:1:group": "2",
+    "seamark:light:1:height": "47",
+    "seamark:light:1:period": "10",
+    "seamark:light:1:range": "22",
+    "seamark:light:1:sector_end": "1",
+    "seamark:light:1:sector_start": "336",
+    "seamark:light:1:sequence": "0.3+(2.6),0.3+(6.8)",
+    "seamark:light:2:character": "Fl",
+    "seamark:light:2:colour": "white",
+    "seamark:light:2:group": "2",
+    "seamark:light:2:height": "47",
+    "seamark:light:2:period": "10",
+    "seamark:light:2:range": "25",
+    "seamark:light:2:sector_end": "201",
+    "seamark:light:2:sector_start": "1",
+    "seamark:light:2:sequence": "0.3+(2.6),0.3+(6.8)",
+    "seamark:light:reference": "F 0556",
+    "seamark:name": "Khanderi Island",
+    "seamark:type": "light_major",
+    "source": "AND;US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "node",
+  "id": 309907456,
+  "lat": 8.3828903,
+  "lon": 76.9796488,
+  "tags": {
+    "addr:city": "Trivandrum",
+    "addr:postcode": "695521",
+    "addr:street": "Vizhinjam",
+    "designation": "Government of india, Maritime Department",
+    "height": "57",
+    "man_made": "lighthouse",
+    "name": "Kovalam Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships",
+    "phone": "+91-471-2480337",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "red;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:construction": "masonry",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "57",
+    "seamark:light:period": "15",
+    "seamark:light:range": "31",
+    "seamark:light:reference": "F 0718",
+    "seamark:light:sequence": "0.5+(14.5)",
+    "seamark:name": "Vilinjam",
+    "seamark:radar_transponder:category": "racon",
+    "seamark:radar_transponder:group": "O",
+    "seamark:radio_station:category": "ais",
+    "seamark:radio_station:mmsi": "004192247",
+    "seamark:type": "landmark",
+    "source": "US NGA Pub. 112. 2026",
+    "wikidata": "Q18395643",
+    "wikimedia_commons": "File:Light_house_beach_kovalam_-_panoramio.jpg",
+    "wikipedia": "en:Vizhinjam Lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 316636664,
+  "lat": 6.7555228,
+  "lon": 93.8278020,
+  "tags": {
+    "height": "35",
+    "man_made": "lighthouse",
+    "name": "Indira Point Lighthouse",
+    "name:ta": "இந்திரா முனை கலங்கரை விளக்கம்",
+    "old_name": "Parsons Point;Pygmalion Point",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "red;white",
+    "seamark:landmark:colour_pattern": "diagonal",
+    "seamark:landmark:conspicuity": "conspicuous",
+    "seamark:landmark:construction": "metal",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "35",
+    "seamark:light:period": "20",
+    "seamark:light:range": "10",
+    "seamark:light:reference": "F 1224",
+    "seamark:name": "Indira Point",
+    "seamark:radar_transponder:category": "racon",
+    "seamark:radar_transponder:group": "G",
+    "seamark:radar_transponder:range": "10",
+    "seamark:radar_transponder:sector_end": "103",
+    "seamark:radar_transponder:sector_start": "244",
+    "seamark:radar_transponder:wavelength": "0.03-X;0.10-S",
+    "seamark:type": "landmark",
+    "source": "US NGA Pub. 112. 2026",
+    "start_date": "1972-04-30",
+    "wikidata": "Q2341925",
+    "wikipedia": "en:Indira Point"
+  }
+},
+{
+  "type": "node",
+  "id": 485571796,
+  "lat": 16.9880315,
+  "lon": 73.2725115,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 745595408,
+  "lat": 20.7139727,
+  "lon": 70.9958937,
+  "tags": {
+    "ele": "31.370",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 926393709,
+  "lat": 19.2782842,
+  "lon": 72.7807331,
+  "tags": {
+    "description": "15 m high Square masonry tower (red and white bands) Flash ( 3) white and red every 15 seconds",
+    "ele": "53",
+    "man_made": "lighthouse",
+    "name": "Uttan Lighthouse",
+    "website": "http://www.dgllnoida.gov.in/mumbai/UTTAN.html"
+  }
+},
+{
+  "type": "node",
+  "id": 926466578,
+  "lat": 18.7032314,
+  "lon": 72.8134629,
+  "tags": {
+    "description": "30 m high octagonal masonry tower flanked by residentialand non residential wings. Flash(2) white red every 10 seconds",
+    "ele": "47",
+    "man_made": "lighthouse",
+    "name": "Kanhoji Angre Island Lighthouse",
+    "source": "Yahoo",
+    "website": "http://www.dgllnoida.gov.in/mumbai/KANHOJI.html"
+  }
+},
+{
+  "type": "node",
+  "id": 1191938383,
+  "lat": 17.8088518,
+  "lon": 73.0893264,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 1293788611,
+  "lat": 12.2237391,
+  "lon": 93.0204318,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "red;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:construction": "framework;metal",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "25",
+    "seamark:light:period": "15",
+    "seamark:light:range": "8",
+    "seamark:light:reference": "F 1202.64",
+    "seamark:light:sequence": "0.5+(14.5)",
+    "seamark:name": "South Button Island",
+    "seamark:type": "landmark",
+    "source": "US NGA Pub. 112. 2026"
+  }
+},
+{
+  "type": "node",
+  "id": 1293788620,
+  "lat": 12.2782151,
+  "lon": 93.0293267,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "black;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:construction": "framework",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "37",
+    "seamark:light:period": "20",
+    "seamark:light:range": "8",
+    "seamark:light:reference": "F 1202.62",
+    "seamark:light:sequence": "0.5+(1)+0.5+(18)",
+    "seamark:name": "Middle Button Island",
+    "seamark:type": "landmark",
+    "source": "US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "node",
+  "id": 1293788621,
+  "lat": 12.3169288,
+  "lon": 93.0680693,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "black;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:construction": "framework",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "57",
+    "seamark:light:period": "10",
+    "seamark:light:range": "8",
+    "seamark:light:reference": "F 1202.6",
+    "seamark:light:sequence": "0.5+(9.5)",
+    "seamark:name": "North Button Island",
+    "seamark:type": "landmark",
+    "source": "US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "node",
+  "id": 1293790323,
+  "lat": 9.9984080,
+  "lon": 76.2215060,
+  "tags": {
+    "addr:city": "Ernakulam",
+    "addr:postcode": "682508",
+    "addr:street": "Puthuvypu, Ochanthuruth",
+    "ele": "49",
+    "height": "46",
+    "man_made": "lighthouse",
+    "name": "Puthuvype Light House",
+    "operator": "Directorate General of Lighthouses And Lightships",
+    "phone": "+91-484-2502443",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "4",
+    "seamark:light:height": "49",
+    "seamark:light:period": "20",
+    "seamark:light:range": "28",
+    "seamark:light:reference": "F 0698",
+    "seamark:light:sequence": "0.4+(2.9)+0.4+(2.9)+0.4+(2.9)+0.4+(9.7)",
+    "seamark:name": "Cochin",
+    "seamark:radar_transponder:category": "racon",
+    "seamark:radar_transponder:group": "K",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 112. 2009-11-12.",
+    "wikidata": "Q13114877",
+    "wikimedia_commons": "Category:Vypin lighthouse",
+    "wikipedia": "en:Vypin Lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 1293790369,
+  "lat": 10.1801018,
+  "lon": 76.1635831,
+  "tags": {
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "3",
+    "seamark:light:height": "30",
+    "seamark:light:period": "20",
+    "seamark:light:range": "24",
+    "seamark:light:reference": "F 0694.5",
+    "seamark:name": "Periyar River",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "node",
+  "id": 1293790389,
+  "lat": 11.1581809,
+  "lon": 75.8057952,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Beypore Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships",
+    "seamark:information": "Storm signals.Signal station.",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "32",
+    "seamark:light:period": "15",
+    "seamark:light:range": "24",
+    "seamark:light:reference": "F 0689",
+    "seamark:name": "Beypore",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "node",
+  "id": 1293790431,
+  "lat": 11.9422126,
+  "lon": 75.3022697,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "27",
+    "seamark:light:period": "8",
+    "seamark:light:range": "10",
+    "seamark:light:reference": "F 0671",
+    "seamark:name": "Azhikal",
+    "seamark:type": "light_minor",
+    "source": "US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "node",
+  "id": 1293790469,
+  "lat": 13.0047774,
+  "lon": 74.7897559,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Surathkal Lighthouse",
+    "name:kn": "ಸುರತ್ಕಲ್",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "44",
+    "seamark:light:period": "10",
+    "seamark:light:range": "31",
+    "seamark:light:reference": "F 0660",
+    "seamark:name": "Suratakal Point",
+    "seamark:radar_transponder:category": "racon",
+    "seamark:radar_transponder:group": "C",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 112. 2009-11-12.",
+    "wikimedia_commons": "File:Surathkal Light House Beach and Boats Karnataka India.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 1293790477,
+  "lat": 13.2234926,
+  "lon": 74.7367944,
+  "tags": {
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "3",
+    "seamark:light:height": "43",
+    "seamark:light:period": "20",
+    "seamark:light:range": "24",
+    "seamark:light:reference": "F 0658",
+    "seamark:light:sequence": "0.2+(3.8)+0.2+(3.8)+0.2+(11.8)",
+    "seamark:name": "Kapu",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "node",
+  "id": 1293790533,
+  "lat": 14.5145555,
+  "lon": 74.3408992,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Tadadi lighthouse",
+    "name:kn": "ತಡದಿ ಕಡಲಬೆಳಕು",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "3",
+    "seamark:light:height": "38",
+    "seamark:light:period": "20",
+    "seamark:light:range": "18",
+    "seamark:light:reference": "F 0638",
+    "seamark:name": "Tadri",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "node",
+  "id": 1293790785,
+  "lat": 20.7130997,
+  "lon": 70.9965087,
+  "tags": {
+    "seamark:information": "Storm signals.Signal station.",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "45",
+    "seamark:light:period": "2",
+    "seamark:light:range": "20",
+    "seamark:light:reference": "F 0420",
+    "seamark:name": "Cavaleiro",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "node",
+  "id": 1293790787,
+  "lat": 20.6913812,
+  "lon": 70.8277422,
+  "tags": {
+    "seamark:information": "Radiobeacon.",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "59",
+    "seamark:light:period": "10",
+    "seamark:light:range": "32",
+    "seamark:light:reference": "F 0414",
+    "seamark:name": "Diu Head",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "node",
+  "id": 1293790801,
+  "lat": 22.4768260,
+  "lon": 69.0694302,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "3",
+    "seamark:light:height": "26",
+    "seamark:light:period": "25",
+    "seamark:light:range": "25",
+    "seamark:light:reference": "F 0388",
+    "seamark:light:sequence": "0.3+(4.7)+0.3+(4.7)+0.3+(14.7)",
+    "seamark:name": "Humani Point",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "node",
+  "id": 1346126598,
+  "lat": 30.9297448,
+  "lon": 74.6220759,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Bijli Ghar"
+  }
+},
+{
+  "type": "node",
+  "id": 1472251139,
+  "lat": 17.7205950,
+  "lon": 83.3379611,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Old Light House"
+  }
+},
+{
+  "type": "node",
+  "id": 1567981912,
+  "lat": 21.5990321,
+  "lon": 72.3524811,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 1669880989,
+  "lat": 11.5042577,
+  "lon": 79.7704816,
+  "tags": {
+    "alt_name": "Parangipettai Lighthouse",
+    "man_made": "lighthouse",
+    "name": "Portonovo Lighthouse",
+    "name:en": "Portonovo Lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "red;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:construction": "concreted",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "36",
+    "seamark:light:period": "15",
+    "seamark:light:range": "26",
+    "seamark:light:reference": "F 0919",
+    "seamark:light:sequence": "0.4+(14.6)",
+    "seamark:name": "Porto Novo",
+    "seamark:radar_transponder:category": "racon",
+    "seamark:radar_transponder:group": "B",
+    "seamark:radio_station:category": "ais_base",
+    "seamark:radio_station:mmsi": "004194422",
+    "seamark:type": "landmark",
+    "source": "US NGA Pub 112. 2026",
+    "wikidata": "Q126085369"
+  }
+},
+{
+  "type": "node",
+  "id": 1706652457,
+  "lat": 13.2239132,
+  "lon": 74.7367936,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Kapu Lighthouse",
+    "opening_hours": "Mo-Su 15:00-18:00",
+    "ref": "F0658"
+  }
+},
+{
+  "type": "node",
+  "id": 2222721291,
+  "lat": 8.8806411,
+  "lon": 76.5659814,
+  "tags": {
+    "alt_name": "Thangasseri Light House",
+    "height": "41",
+    "man_made": "lighthouse",
+    "name": "Tangasery Light House",
+    "name:ml": "തങ്കശ്ശേരി ലൈറ്റ് ഹൗസ്",
+    "opening_hours": "Tu-Su 10:00-13:00,14:00-18:000",
+    "source": "survey",
+    "wikidata": "Q18387881",
+    "wikimedia_commons": "Category:Tangasseri Lighthouse",
+    "wikipedia": "en:Tangasseri Lighthouse",
+    "working": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2588063897,
+  "lat": 11.8604469,
+  "lon": 75.3559097,
+  "tags": {
+    "addr:city": "Kannur",
+    "addr:postcode": "670013",
+    "addr:street": "Bernachery",
+    "ele": "35",
+    "height": "23",
+    "man_made": "lighthouse",
+    "name": "Kannur Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships"
+  }
+},
+{
+  "type": "node",
+  "id": 2640067740,
+  "lat": 23.6740467,
+  "lon": 68.5274210,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Koteshwar Lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 3026805733,
+  "lat": 22.9546689,
+  "lon": 69.0020284,
+  "tags": {
+    "height": "60",
+    "man_made": "lighthouse",
+    "name": "Chhachhi Lighthouse",
+    "operator": "Directorate General of Lighthouses And Lightships"
+  }
+},
+{
+  "type": "node",
+  "id": 3026898533,
+  "lat": 22.7679114,
+  "lon": 69.6725662,
+  "tags": {
+    "alt_name": "Mundra Lighthouse",
+    "man_made": "lighthouse",
+    "name": "Navinal VTS Lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 3026927833,
+  "lat": 22.9088462,
+  "lon": 69.9137943,
+  "tags": {
+    "height": "60",
+    "man_made": "lighthouse",
+    "name": "Bhadreshwar Lighthouse",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3026988834,
+  "lat": 23.2399262,
+  "lon": 68.6067279,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Jakhau Lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 3026992833,
+  "lat": 23.2393900,
+  "lon": 68.6069566,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 3299342053,
+  "lat": 22.8289345,
+  "lon": 69.3478247,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 3600653808,
+  "lat": 20.4096472,
+  "lon": 72.8307400,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Daman Lighthouse",
+    "name:en": "Daman Lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 3903606160,
+  "lat": 22.3308614,
+  "lon": 68.9489268,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 3997522208,
+  "lat": 18.0664637,
+  "lon": 83.6375476,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Santapalle Lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "black;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:construction": "masonry",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "42",
+    "seamark:light:period": "10",
+    "seamark:light:range": "23",
+    "seamark:light:reference": "F 0980",
+    "seamark:light:sequence": "0.2+(2.3).0.2+(7.3)",
+    "seamark:name": "Santapilli",
+    "seamark:type": "landmark",
+    "source": "US NGA Pub. 112. 2026"
+  }
+},
+{
+  "type": "node",
+  "id": 4040578763,
+  "lat": 13.3441782,
+  "lon": 74.6847316,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 4297805878,
+  "lat": 20.9113627,
+  "lon": 70.3532486,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Veraval Lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 4608401693,
+  "lat": 15.8554033,
+  "lon": 73.6149651,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Vengurla Point Lighthouse",
+    "start_date": "1869",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4888444964,
+  "lat": 30.9225703,
+  "lon": 74.6295553,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Bijli Ghar(Main)"
+  }
+},
+{
+  "type": "node",
+  "id": 5182434765,
+  "lat": 11.7866062,
+  "lon": 93.0805417,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "red;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:construction": "metal",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "56",
+    "seamark:light:period": "7",
+    "seamark:light:range": "20",
+    "seamark:light:reference": "F 1203",
+    "seamark:light:sequence": "1+(6)",
+    "seamark:name": "Sir Hugh Rose Island",
+    "seamark:type": "landmark",
+    "source:seamark": "US NGA Pub. 112 2026"
+  }
+},
+{
+  "type": "node",
+  "id": 5542343730,
+  "lat": 22.4472499,
+  "lon": 69.8327856,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 6187818299,
+  "lat": 13.9663248,
+  "lon": 74.5330739,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 6810007326,
+  "lat": 7.2889373,
+  "lon": 93.8465691,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Kabra Island Lighthouse",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 6985275370,
+  "lat": 22.0185941,
+  "lon": 88.1326689,
+  "tags": {
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "18",
+    "seamark:light:period": "1.5",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 6985275371,
+  "lat": 22.0218229,
+  "lon": 88.1392859,
+  "tags": {
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "14",
+    "seamark:light:period": "10",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 6985275372,
+  "lat": 22.0029117,
+  "lon": 88.0464989,
+  "tags": {
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:period": "10",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 6985275373,
+  "lat": 21.9738250,
+  "lon": 88.0235553,
+  "tags": {
+    "name": "Inner Column",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "18",
+    "seamark:light:period": "15",
+    "seamark:light:range": "6",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 6985275374,
+  "lat": 21.9812558,
+  "lon": 88.0340494,
+  "tags": {
+    "name": "Sandia Column",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "17",
+    "seamark:light:period": "10",
+    "seamark:light:range": "6",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 6985275375,
+  "lat": 21.7912359,
+  "lon": 87.8630298,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Dariapur",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "black;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:conspicuity": "conspicuous",
+    "seamark:landmark:construction": "concreted",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "30",
+    "seamark:light:period": "20",
+    "seamark:light:range": "19",
+    "seamark:light:reference": "F 1029",
+    "seamark:light:sequence": "1.4+(1.9),1.4+(15.3)",
+    "seamark:name": "Dariapur",
+    "seamark:radar_transponder:category": "racon",
+    "seamark:radar_transponder:group": "G",
+    "seamark:type": "landmark"
+  }
+},
+{
+  "type": "node",
+  "id": 6985275376,
+  "lat": 21.6583406,
+  "lon": 88.0465184,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Sagar Island",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "red;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "26",
+    "seamark:light:period": "3",
+    "seamark:light:range": "17",
+    "seamark:light:reference": "F 1028",
+    "seamark:light:sequence": "0.3+(2.7)",
+    "seamark:name": "Sagar Island",
+    "seamark:radio_station:category": "ais",
+    "seamark:radio_station:mmsi": "004194446",
+    "seamark:type": "landmark"
+  }
+},
+{
+  "type": "node",
+  "id": 6985663820,
+  "lat": 20.2555881,
+  "lon": 86.6559365,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Paradip",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "black;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:construction": "concreted",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "3",
+    "seamark:light:height": "40",
+    "seamark:light:period": "30",
+    "seamark:light:range": "28",
+    "seamark:light:reference": "F 1004.4",
+    "seamark:name": "Paradip",
+    "seamark:radar_transponder:category": "racon",
+    "seamark:radar_transponder:group": "K",
+    "seamark:radio_station:category": "ais",
+    "seamark:radio_station:mmsi": "004194444",
+    "seamark:type": "landmark",
+    "source": "US NGA Pub. 112. 2026"
+  }
+},
+{
+  "type": "node",
+  "id": 6985689537,
+  "lat": 20.2636628,
+  "lon": 86.6798396,
+  "tags": {
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "green",
+    "seamark:light:height": "8",
+    "seamark:light:period": "5",
+    "seamark:light:range": "7",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 6985689538,
+  "lat": 20.2591273,
+  "lon": 86.6793984,
+  "tags": {
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "red",
+    "seamark:light:height": "10",
+    "seamark:light:period": "5",
+    "seamark:light:range": "7",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 6985711385,
+  "lat": 19.4660713,
+  "lon": 85.1687220,
+  "tags": {
+    "height": "133",
+    "man_made": "lighthouse",
+    "name": "Pryagi Light house",
+    "operator": "Ministry of Ports, Shipping and Waterways",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "40",
+    "seamark:light:period": "10",
+    "seamark:light:range": "19",
+    "seamark:type": "landmark"
+  }
+},
+{
+  "type": "node",
+  "id": 6989662207,
+  "lat": 17.6976141,
+  "lon": 83.3057454,
+  "tags": {
+    "seamark:light:1:character": "F",
+    "seamark:light:1:colour": "red",
+    "seamark:light:1:height": "29",
+    "seamark:light:1:range": "7",
+    "seamark:light:1:sector_end": "250.7",
+    "seamark:light:1:sector_start": "248.7",
+    "seamark:light:2:character": "F",
+    "seamark:light:2:colour": "white",
+    "seamark:light:2:height": "29",
+    "seamark:light:2:range": "7",
+    "seamark:light:2:sector_end": "252.7",
+    "seamark:light:2:sector_start": "250.7",
+    "seamark:light:3:character": "Al.Fl",
+    "seamark:light:3:colour": "white;green",
+    "seamark:light:3:height": "29",
+    "seamark:light:3:range": "7",
+    "seamark:light:3:sector_end": "259.7",
+    "seamark:light:3:sector_start": "252.7",
+    "seamark:light:4:character": "F",
+    "seamark:light:4:colour": "green",
+    "seamark:light:4:height": "29",
+    "seamark:light:4:range": "7",
+    "seamark:light:4:sector_end": "267.7",
+    "seamark:light:4:sector_start": "259.7",
+    "seamark:light:5:character": "F",
+    "seamark:light:5:colour": "green",
+    "seamark:light:5:height": "29",
+    "seamark:light:5:range": "7",
+    "seamark:light:5:sector_end": "271.7",
+    "seamark:light:5:sector_start": "267.7",
+    "seamark:light:6:character": "F",
+    "seamark:light:6:colour": "red",
+    "seamark:light:6:height": "29",
+    "seamark:light:6:range": "7",
+    "seamark:light:6:sector_end": "273.7",
+    "seamark:light:6:sector_start": "271.7",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 6989662208,
+  "lat": 17.6972998,
+  "lon": 83.3078697,
+  "tags": {
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "red",
+    "seamark:light:group": "2",
+    "seamark:light:height": "9",
+    "seamark:light:period": "10",
+    "seamark:light:range": "3",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 6989662209,
+  "lat": 17.6954904,
+  "lon": 83.3034791,
+  "tags": {
+    "fixme": "bearing of the leading line is correct, the position of the lights is approximate",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "red",
+    "seamark:light:height": "17",
+    "seamark:light:period": "1.5",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 6989814819,
+  "lat": 16.9901053,
+  "lon": 82.3259130,
+  "tags": {
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "7",
+    "seamark:light:period": "15",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 7321046232,
+  "lat": 9.5608584,
+  "lon": 76.7985279,
+  "tags": {
+    "name": "Kanjirappally Fancy Lights..,",
+    "seamark:type": "light_major",
+    "shop": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7332327266,
+  "lat": 9.8579535,
+  "lon": 76.5938795,
+  "tags": {
+    "name": "Enlighto",
+    "seamark:type": "light_major",
+    "shop": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7368642448,
+  "lat": 24.1130132,
+  "lon": 82.6603425,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:type": "light_major"
+  }
+},
+{
+  "type": "node",
+  "id": 7520612171,
+  "lat": 11.4691339,
+  "lon": 75.6372669,
+  "tags": {
+    "addr:city": "Kozhikode",
+    "addr:postcode": "673529",
+    "addr:street": "Kadalur, Thikkodi",
+    "ele": "57",
+    "height": "34",
+    "man_made": "lighthouse",
+    "name": "Kadalur Point Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships",
+    "phone": "+91-496-2691064"
+  }
+},
+{
+  "type": "node",
+  "id": 8002782082,
+  "lat": 21.0402566,
+  "lon": 71.8043404,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "LightHouse (Mahuva)",
+    "operator": "Government of India",
+    "seamark:type": "rock",
+    "source": "local knowledge;streetlevel imagery"
+  }
+},
+{
+  "type": "node",
+  "id": 8073270481,
+  "lat": 19.7961456,
+  "lon": 85.8263152,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 8310510456,
+  "lat": 19.0748055,
+  "lon": 72.8105837,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Danda Light House",
+    "operator": "Maharashtra Maritime Board",
+    "seamark:beacon_special_purpose:category": "warning",
+    "seamark:beacon_special_purpose:colour": "yellow",
+    "seamark:beacon_special_purpose:height": "10",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "red",
+    "seamark:light:exhibition": "night",
+    "seamark:light:group": "1",
+    "seamark:light:height": "10",
+    "seamark:light:period": "10",
+    "seamark:light:range": "5",
+    "seamark:light:sequence": "01.00+(09.000",
+    "seamark:name": "Uarashi",
+    "seamark:type": "beacon_special_purpose"
+  }
+},
+{
+  "type": "node",
+  "id": 8409147909,
+  "lat": 15.4920762,
+  "lon": 73.7724869,
+  "tags": {
+    "addr:city": "Candolim",
+    "addr:postcode": "403515",
+    "addr:street": "Aguada Fort Area",
+    "man_made": "lighthouse",
+    "name": "Lighthouse and DGPS Station"
+  }
+},
+{
+  "type": "node",
+  "id": 8439516124,
+  "lat": 15.4948924,
+  "lon": 73.8169302,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 8900136818,
+  "lat": 10.5539211,
+  "lon": 76.0172936,
+  "tags": {
+    "addr:city": "Thrissur",
+    "addr:postcode": "680512",
+    "addr:street": "Madu, (via) Orumanayur",
+    "ele": "33.8",
+    "height": "30",
+    "man_made": "lighthouse",
+    "name": "Chetwai Light House",
+    "operator": "Directorate General of Lighthouses and Lightships",
+    "phone": "+91-487-2532232",
+    "seamark:type": "light_major",
+    "survey:date": "2021-07-07"
+  }
+},
+{
+  "type": "node",
+  "id": 9124069815,
+  "lat": 10.2032524,
+  "lon": 76.1591199,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 9351806709,
+  "lat": 12.5054748,
+  "lon": 74.9731160,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Nellikkunnu Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships"
+  }
+},
+{
+  "type": "node",
+  "id": 9533850255,
+  "lat": 9.4939017,
+  "lon": 76.3210141,
+  "tags": {
+    "addr:city": "Alappuzha",
+    "addr:country": "IN",
+    "addr:postcode": "688012",
+    "addr:state": "Kerala",
+    "addr:street": "Alappuzha Bazar Post",
+    "address": "Head Light Keeper, Alappuza Lighthouse",
+    "height": "33",
+    "man_made": "lighthouse",
+    "name": "Alappuzha Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships",
+    "phone": "+91-4772253459"
+  }
+},
+{
+  "type": "node",
+  "id": 9533906649,
+  "lat": 10.2079746,
+  "lon": 76.1567448,
+  "tags": {
+    "addr:city": "Thrissur",
+    "addr:postcode": "680666",
+    "addr:street": "AzhiKode-Kodungalloor",
+    "ele": "34",
+    "height": "30",
+    "man_made": "lighthouse",
+    "name": "Azhikode Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships",
+    "phone": "+91-480-2819612",
+    "start_date": "1982"
+  }
+},
+{
+  "type": "node",
+  "id": 9534010699,
+  "lat": 9.7484616,
+  "lon": 76.2865319,
+  "tags": {
+    "addr:city": "Cherthala",
+    "addr:postcode": "688531",
+    "addr:street": "Andakaranazhy, Pattanakkad",
+    "ele": "35.67",
+    "height": "30",
+    "man_made": "lighthouse",
+    "name": "Manakkodam Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships",
+    "phone": "+91-478-2562364",
+    "wikidata": "Q18127759",
+    "wikimedia_commons": "Category:Manakkodam Lighthouse",
+    "wikipedia": "en:Manakkodam Lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 9534041339,
+  "lat": 10.7778884,
+  "lon": 75.9169944,
+  "tags": {
+    "addr:city": "Malappuram",
+    "addr:postcode": "679583",
+    "addr:street": "Ponnani Nagaram",
+    "ele": "34.13",
+    "height": "30",
+    "man_made": "lighthouse",
+    "name": "Ponnani Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships",
+    "phone": "+91-494-2666028"
+  }
+},
+{
+  "type": "node",
+  "id": 9534192498,
+  "lat": 9.5300077,
+  "lon": 76.5019695,
+  "tags": {
+    "addr:city": "Kottayam",
+    "addr:street": "Pallom",
+    "man_made": "lighthouse",
+    "name": "Munroe Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9534198176,
+  "lat": 11.7483118,
+  "lon": 75.4860056,
+  "tags": {
+    "addr:city": "Kannur",
+    "man_made": "lighthouse",
+    "name": "Thalassery Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships"
+  }
+},
+{
+  "type": "node",
+  "id": 9997708151,
+  "lat": 14.8204592,
+  "lon": 74.0605757,
+  "tags": {
+    "height": "20",
+    "man_made": "lighthouse",
+    "name": "Oyster Rock Lighthouse",
+    "wikidata": "Q7116356",
+    "wikipedia": "en:Oyster Rock Lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 10943914845,
+  "lat": 22.4885206,
+  "lon": 69.0871597,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 10961058883,
+  "lat": 26.2153023,
+  "lon": 78.1877200,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "light house thatipur zone"
+  }
+},
+{
+  "type": "node",
+  "id": 11169188326,
+  "lat": 18.8862318,
+  "lon": 74.1165848,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 11597953347,
+  "lat": 16.2313738,
+  "lon": 80.0450669,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "xyz"
+  }
+},
+{
+  "type": "node",
+  "id": 12077150672,
+  "lat": 9.0771667,
+  "lon": 78.3652008,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 12122189949,
+  "lat": 20.9041017,
+  "lon": 71.5263651,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Savaibet Island Lighthouse",
+    "operator": "DGLL Directorate General of Lighthouses And Lightships"
+  }
+},
+{
+  "type": "node",
+  "id": 12126384844,
+  "lat": 22.4767938,
+  "lon": 69.0698578,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 12345907145,
+  "lat": 16.4227723,
+  "lon": 81.0304896,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 12479876826,
+  "lat": 15.5001485,
+  "lon": 73.8859776,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 13115024889,
+  "lat": 15.8895404,
+  "lon": 73.4624219,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Vengurla Rock Lighthouse",
+    "start_date": "1931",
+    "website": "https://www.dgll.nic.in/DGLL-light-house-location/about-goa/vengurla-rocks-lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 13334104479,
+  "lat": 8.9123449,
+  "lon": 76.5425773,
+  "tags": {
+    "historic": "ruins",
+    "man_made": "lighthouse",
+    "name": "Marutthadi Valavilthoppu Old Lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 13619847201,
+  "lat": 23.2779303,
+  "lon": 77.3809721,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 13979711001,
+  "lat": 15.5194350,
+  "lon": 76.0054546,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "maruthi b valmiki"
+  }
+},
+{
+  "type": "node",
+  "id": 13979851301,
+  "lat": 15.5179645,
+  "lon": 76.0545193,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Yankanna k bukanatti"
+  }
+},
+{
+  "type": "node",
+  "id": 13982423601,
+  "lat": 15.5195072,
+  "lon": 76.0055054,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Maruthi b valmiki"
+  }
+},
+{
+  "type": "node",
+  "id": 13987660601,
+  "lat": 15.5199141,
+  "lon": 76.0042463,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Kalakappa y badiger channappanahalli"
+  }
+},
+{
+  "type": "node",
+  "id": 14016653701,
+  "lat": 15.5200785,
+  "lon": 76.0043793,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Hanumappa katralli"
+  }
+},
+{
+  "type": "node",
+  "id": 14019146504,
+  "lat": 15.4828194,
+  "lon": 76.1053711,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Devindrappa ningappa talavar"
+  }
+},
+{
+  "type": "node",
+  "id": 14020500309,
+  "lat": 11.6816683,
+  "lon": 92.7664974,
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "node",
+  "id": 14045103601,
+  "lat": 15.5201976,
+  "lon": 76.0048995,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Sarvesh halkeri"
+  }
+},
+{
+  "type": "node",
+  "id": 14053594803,
+  "lat": 15.5201388,
+  "lon": 76.0041605,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Pakkeerappa huded"
+  }
+},
+{
+  "type": "node",
+  "id": 14109301616,
+  "lat": 7.0157657,
+  "lon": 93.9337009,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "white",
+    "seamark:landmark:construction": "framework",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "42",
+    "seamark:light:period": "10",
+    "seamark:light:range": "10",
+    "seamark:light:reference": "F 1224.9",
+    "seamark:light:sequence": "1+(1),1+(7)",
+    "seamark:name": "Campbell Bay",
+    "seamark:type": "landmark",
+    "source:seamark": "US NGA Pub. 112 2026"
+  }
+},
+{
+  "type": "node",
+  "id": 14109345444,
+  "lat": 7.4081796,
+  "lon": 93.6906633,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "white",
+    "seamark:landmark:construction": "framework",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "53",
+    "seamark:light:period": "15",
+    "seamark:light:range": "8",
+    "seamark:light:reference": "F 1223.6",
+    "seamark:light:sequence": "0.5+(14.5)",
+    "seamark:name": "Pulo Milo",
+    "seamark:type": "landmark",
+    "source:seamark": "US NGA Pub. 112 2026"
+  }
+},
+{
+  "type": "node",
+  "id": 14109411183,
+  "lat": 8.4691031,
+  "lon": 93.6259872,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "black;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:conspicuity": "not_conspicuous",
+    "seamark:landmark:construction": "framework",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "114",
+    "seamark:light:period": "10",
+    "seamark:light:range": "25",
+    "seamark:light:reference": "F 1222.8",
+    "seamark:light:sequence": "0.5+(9.5)",
+    "seamark:name": "Tillanchang Island",
+    "seamark:type": "landmark",
+    "source:seamark": "US NGA Pub. 112 2026"
+  }
+},
+{
+  "type": "node",
+  "id": 14109453639,
+  "lat": 8.2237761,
+  "lon": 93.2385991,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "red;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:conspicuity": "conspicuous",
+    "seamark:landmark:construction": "framework",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "43",
+    "seamark:light:period": "20",
+    "seamark:light:range": "16",
+    "seamark:light:reference": "F 1222.55",
+    "seamark:light:sequence": "1+(2),1+(16)",
+    "seamark:name": "Bompoka Island",
+    "seamark:type": "landmark",
+    "source:seamark": "US NGA Pub. 112 2026"
+  }
+},
+{
+  "type": "node",
+  "id": 14109471376,
+  "lat": 10.9869215,
+  "lon": 92.6691788,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "white",
+    "seamark:landmark:construction": "framework;metal",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "14",
+    "seamark:light:period": "20",
+    "seamark:light:range": "10",
+    "seamark:light:reference": "F 1212.5",
+    "seamark:light:sequence": "0.5+(4.5),0.5+(14.5)",
+    "seamark:name": "North Brother Island",
+    "seamark:type": "landmark",
+    "source:seamark": "US NGA Pub. 112 2026"
+  }
+},
+{
+  "type": "node",
+  "id": 14109702410,
+  "lat": 12.1471431,
+  "lon": 92.9564555,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "red;white",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:landmark:construction": "framework",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "15",
+    "seamark:light:period": "20",
+    "seamark:light:range": "10",
+    "seamark:light:reference": "F 1202.68",
+    "seamark:light:sequence": "0.5+(1),0.5+(18)",
+    "seamark:name": "Wilson Island",
+    "seamark:type": "landmark",
+    "source:seamark": "US NGA Pub. 112 2026"
+  }
+},
+{
+  "type": "node",
+  "id": 14109755607,
+  "lat": 12.1962581,
+  "lon": 92.9328708,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "white",
+    "seamark:landmark:construction": "framework",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "3",
+    "seamark:light:height": "27",
+    "seamark:light:period": "20",
+    "seamark:light:range": "8",
+    "seamark:light:reference": "F 1202.66",
+    "seamark:light:sequence": "0.5+(1),0.5+(1),0.5+(16.5)",
+    "seamark:name": "Strait Island",
+    "seamark:type": "landmark",
+    "source:seamark": "US NGA Pub. 112 2026"
+  }
+},
+{
+  "type": "node",
+  "id": 14109796883,
+  "lat": 12.8892495,
+  "lon": 92.6689445,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "white",
+    "seamark:landmark:construction": "masonry",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "52",
+    "seamark:light:period": "20",
+    "seamark:light:range": "10",
+    "seamark:light:reference": "F 1202.3",
+    "seamark:light:sequence": "0.5+(1),0.5+(18)",
+    "seamark:name": "Interview Island",
+    "seamark:type": "landmark",
+    "source": "US NGA Pub. 112. 2026"
+  }
+},
+{
+  "type": "node",
+  "id": 14109920596,
+  "lat": 13.4612329,
+  "lon": 94.2630748,
+  "tags": {
+    "man_made": "lighthouse",
+    "seamark:landmark:category": "tower",
+    "seamark:landmark:colour": "white",
+    "seamark:landmark:construction": "framework;metal",
+    "seamark:landmark:function": "light_support",
+    "seamark:light:1:character": "Fl",
+    "seamark:light:1:colour": "white",
+    "seamark:light:1:group": "3",
+    "seamark:light:1:height": "61",
+    "seamark:light:1:period": "20",
+    "seamark:light:1:range": "8",
+    "seamark:light:1:sector_end": "194",
+    "seamark:light:1:sector_start": "054",
+    "seamark:light:1:sequence": "0.5+(1),0.5+(1),0.5+(16.5)",
+    "seamark:light:reference": "F 1201.1",
+    "seamark:name": "Narcondam Island",
+    "seamark:type": "landmark",
+    "source": "US NGA Pub. 112. 2026"
+  }
+},
+{
+  "type": "way",
+  "id": 79308049,
+  "center": {
+    "lat": 18.8791521,
+    "lon": 72.7997350
+  },
+  "tags": {
+    "alt_name": "Prongs Reef Lighthouse",
+    "man_made": "lighthouse",
+    "name": "Colaba Lighthouse",
+    "natural": "coastline",
+    "place": "islet",
+    "source": "Yahoo"
+  }
+},
+{
+  "type": "way",
+  "id": 140339749,
+  "center": {
+    "lat": 11.9166023,
+    "lon": 79.8308495
+  },
+  "tags": {
+    "building": "yes",
+    "height": "46",
+    "man_made": "lighthouse",
+    "name": "புதுச்சேரி கலங்கரை விளக்கம்",
+    "name:en": "Pondicherry Lighthouse",
+    "start_date": "1979",
+    "tourism": "attraction",
+    "wikidata": "Q108678539"
+  }
+},
+{
+  "type": "way",
+  "id": 156468581,
+  "center": {
+    "lat": 15.4921234,
+    "lon": 73.7740001
+  },
+  "tags": {
+    "building": "yes",
+    "disused:man_made": "lighthouse",
+    "height": "7",
+    "man_made": "lighthouse",
+    "name": "Old Lighthouse Tower"
+  }
+},
+{
+  "type": "way",
+  "id": 156468582,
+  "center": {
+    "lat": 15.4919858,
+    "lon": 73.7725573
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Light House Aguada",
+    "opening_hours": "10:00-17:30"
+  }
+},
+{
+  "type": "way",
+  "id": 164349554,
+  "center": {
+    "lat": 10.5120821,
+    "lon": 92.5043647
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 180686233,
+  "center": {
+    "lat": 7.9295728,
+    "lon": 93.5769307
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 207061329,
+  "center": {
+    "lat": 11.7047375,
+    "lon": 92.7547359
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "72",
+    "seamark:light:period": "12",
+    "seamark:light:range": "20",
+    "seamark:light:reference": "F 1205",
+    "seamark:light:sequence": "0.3+(2.7)+0.3+(8.7)",
+    "seamark:name": "North Point",
+    "seamark:radar_transponder:category": "racon",
+    "seamark:radar_transponder:group": "K",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "way",
+  "id": 211436935,
+  "center": {
+    "lat": 13.0397469,
+    "lon": 80.2794581
+  },
+  "tags": {
+    "alt_name": "Chennai Marina Lighthouse",
+    "building:part": "yes",
+    "height": "45.72",
+    "man_made": "lighthouse",
+    "name": "சென்னை மெரினா கலங்கரை விளக்கம்",
+    "name:en": "Chennai Lighthouse",
+    "old_name": "Madras Lighthouse",
+    "wikidata": "Q6546309",
+    "wikimedia_commons": "Category:Chennai Lighthouse",
+    "wikipedia": "en:Chennai Lighthouse (1977)"
+  }
+},
+{
+  "type": "way",
+  "id": 248429467,
+  "center": {
+    "lat": 11.3275225,
+    "lon": 92.7210396
+  },
+  "tags": {
+    "building": "yes",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "153",
+    "seamark:light:period": "10",
+    "seamark:light:range": "20",
+    "seamark:light:reference": "F 1212",
+    "seamark:name": "North Cinque Island",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 112. 2009-11-12."
+  }
+},
+{
+  "type": "way",
+  "id": 294711779,
+  "center": {
+    "lat": 12.0070925,
+    "lon": 75.2019298
+  },
+  "tags": {
+    "building": "lighthouse",
+    "height": "18",
+    "historic": "yes",
+    "man_made": "lighthouse",
+    "name": "Mount Dilly Lighthouse",
+    "name:ml": "ഏഴിമല ദീപസ്തംഭം",
+    "operator": "Directorate General of Lighthouses and Lightships",
+    "phone": "+91-4985-230232"
+  }
+},
+{
+  "type": "way",
+  "id": 374737520,
+  "center": {
+    "lat": 21.6228249,
+    "lon": 69.6198219
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 426257286,
+  "center": {
+    "lat": 17.2990285,
+    "lon": 73.1904955
+  },
+  "tags": {
+    "description": "A light house overlooking a sea on a cliff. There is a great view from the top of this light house. Tourists are allowed between 16:00-17:00 hrs.",
+    "man_made": "lighthouse",
+    "tourism": "attraction",
+    "tourism_1": "viewpoint"
+  }
+},
+{
+  "type": "way",
+  "id": 517920600,
+  "center": {
+    "lat": 22.5561433,
+    "lon": 88.3057642
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 567427969,
+  "center": {
+    "lat": 17.2959010,
+    "lon": 82.6183525
+  },
+  "tags": {
+    "alt_name": "Penta Kota Lighthouse",
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Pentakota Lighthouse",
+    "name:en": "Pentakota Lighthouse",
+    "start_date": "1957",
+    "wikidata": "Q51523977"
+  }
+},
+{
+  "type": "way",
+  "id": 804376215,
+  "center": {
+    "lat": 11.2584273,
+    "lon": 75.7690945
+  },
+  "tags": {
+    "addr:city": "Kozhikode",
+    "man_made": "lighthouse",
+    "name": "Kozhikode Beach Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships"
+  }
+},
+{
+  "type": "way",
+  "id": 813446281,
+  "center": {
+    "lat": 9.2556073,
+    "lon": 92.7751701
+  },
+  "tags": {
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 841683098,
+  "center": {
+    "lat": 11.7021136,
+    "lon": 75.5299726
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Mahé Lighthouse",
+    "name:fr": "Phare de Mahé",
+    "name:ur": "ماہے مینارہ"
+  }
+},
+{
+  "type": "way",
+  "id": 846557480,
+  "center": {
+    "lat": 22.2383086,
+    "lon": 68.9585135
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Light House Dwarka"
+  }
+},
+{
+  "type": "way",
+  "id": 858460091,
+  "center": {
+    "lat": 21.0399805,
+    "lon": 71.8049458
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "operator": "Government of India",
+    "source": "local knowledge;streetlevel imagery"
+  }
+},
+{
+  "type": "way",
+  "id": 906440898,
+  "center": {
+    "lat": 19.0748090,
+    "lon": 72.8105845
+  },
+  "tags": {
+    "alt_name": "Uarashi Reef Lighthouse",
+    "building": "yes",
+    "height": "15",
+    "man_made": "lighthouse",
+    "name": "Danda Light House",
+    "source": "Yahoo"
+  }
+},
+{
+  "type": "way",
+  "id": 927269460,
+  "center": {
+    "lat": 8.9847037,
+    "lon": 76.5244824
+  },
+  "tags": {
+    "addr:city": "Kollam",
+    "addr:municipality": "Karunagappally",
+    "addr:postcode": "691583",
+    "addr:street": "Chavara",
+    "building": "yes",
+    "district": "Каневской район",
+    "height": "25",
+    "man_made": "lighthouse",
+    "name": "Kovilthottam Lighthouse",
+    "operator": "Directorate General of Lighthouses And Lightships",
+    "phone": "+91-476-2680150"
+  }
+},
+{
+  "type": "way",
+  "id": 932435071,
+  "center": {
+    "lat": 19.1339671,
+    "lon": 72.7814590
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 954926462,
+  "center": {
+    "lat": 10.4141148,
+    "lon": 76.1073766
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Modern Light House"
+  }
+},
+{
+  "type": "way",
+  "id": 963327287,
+  "center": {
+    "lat": 26.4919771,
+    "lon": 76.7447707
+  },
+  "tags": {
+    "addr:city": "Gangapur",
+    "addr:postcode": "322201",
+    "building": "farm",
+    "man_made": "lighthouse",
+    "name": "Power House"
+  }
+},
+{
+  "type": "way",
+  "id": 975135568,
+  "center": {
+    "lat": 9.1774781,
+    "lon": 79.4187750
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Danushkodi Lighthouse",
+    "name:ta": "தனுஷ்கோடி கலங்கரை விளக்கம்"
+  }
+},
+{
+  "type": "way",
+  "id": 1027345730,
+  "center": {
+    "lat": 9.3175841,
+    "lon": 79.3306663
+  },
+  "tags": {
+    "alt_name": "Rameshwaram Lighthouse",
+    "building": "yes",
+    "height": "15",
+    "man_made": "lighthouse",
+    "name": "Rameswaram Lighthouse",
+    "wikidata": "Q141266595"
+  }
+},
+{
+  "type": "way",
+  "id": 1033110197,
+  "center": {
+    "lat": 10.2782969,
+    "lon": 79.8257340
+  },
+  "tags": {
+    "building": "yes",
+    "height": "48",
+    "man_made": "lighthouse",
+    "name": "Kodikkarai Lighthouse",
+    "name:en": "Kodikkarai Lighthouse",
+    "name:hi": "कोडिकरै दीपस् तंभ",
+    "website": "https://www.dgll.nic.in/DGLL-light-house-location/about-chennai/kodikkarai-lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1053237653,
+  "center": {
+    "lat": 9.1401598,
+    "lon": 76.4621009
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Pentagon Lighthouse",
+    "tourism": "attraction",
+    "wikimedia_commons": "File:Valiyazheekkal Lighthouse.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 1057982138,
+  "center": {
+    "lat": 11.8604516,
+    "lon": 75.3559095
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1087491429,
+  "center": {
+    "lat": 17.8907957,
+    "lon": 83.4557924
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Bhimunipatnam",
+    "wikidata": "Q57538249"
+  }
+},
+{
+  "type": "way",
+  "id": 1108276260,
+  "center": {
+    "lat": 16.3887515,
+    "lon": 73.3720223
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Devgad Lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1188619718,
+  "center": {
+    "lat": 13.0868340,
+    "lon": 80.2888758
+  },
+  "tags": {
+    "disused": "yes",
+    "man_made": "lighthouse",
+    "name": "Old Lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1214063910,
+  "center": {
+    "lat": 8.8806460,
+    "lon": 76.5659796
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Thangasseri Light House",
+    "opening_hours": "Tu-Su 10:00-13:00,14:00-18:000",
+    "source": "microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1283853850,
+  "center": {
+    "lat": 23.0810084,
+    "lon": 72.5036462
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1283854902,
+  "center": {
+    "lat": 23.0627268,
+    "lon": 72.5180114
+  },
+  "tags": {
+    "building": "water_tower",
+    "building:colour": "beige",
+    "building:levels": "6",
+    "building:material": "plaster",
+    "man_made": "lighthouse",
+    "roof:material": "concrete",
+    "roof:shape": "flat"
+  }
+},
+{
+  "type": "way",
+  "id": 1309031829,
+  "center": {
+    "lat": 20.9042514,
+    "lon": 71.5262441
+  },
+  "tags": {
+    "man_made": "lighthouse",
+    "operator": "DGLL Directorate General of Lighthouses And Lightships"
+  }
+},
+{
+  "type": "way",
+  "id": 1309031838,
+  "center": {
+    "lat": 20.9040863,
+    "lon": 71.5263497
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1324258764,
+  "center": {
+    "lat": 16.4819794,
+    "lon": 82.0970633
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1368065124,
+  "center": {
+    "lat": 19.7897758,
+    "lon": 85.8063534
+  },
+  "tags": {
+    "building": "yes",
+    "height": "25",
+    "man_made": "lighthouse",
+    "name": "Puri Lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1471888071,
+  "center": {
+    "lat": 15.7847087,
+    "lon": 80.9977316
+  },
+  "tags": {
+    "building": "yes",
+    "height": "36.9",
+    "man_made": "lighthouse",
+    "name": "Nagayalanka Lighthouse",
+    "name:en": "Nagayalanka Lighthouse",
+    "wikidata": "Q57517069"
+  }
+},
+{
+  "type": "way",
+  "id": 1473539820,
+  "center": {
+    "lat": 15.8837106,
+    "lon": 80.6383619
+  },
+  "tags": {
+    "building": "yes",
+    "height": "31",
+    "man_made": "lighthouse",
+    "name": "Nizampatnam Lighthouse",
+    "name:en": "Nizampatnam Lighthouse",
+    "wikidata": "Q57517673"
+  }
+},
+{
+  "type": "way",
+  "id": 1535058299,
+  "center": {
+    "lat": 17.5657648,
+    "lon": 73.1412728
+  },
+  "tags": {
+    "building": "yes",
+    "height": "13.5",
+    "man_made": "lighthouse",
+    "name": "Talkeshwar Point Lighthouse",
+    "name:en": "Talkeshwar Point Lighthouse",
+    "name:mr": "तालकेश्वर पॉइंट दीपस्तंभ",
+    "opening_hours": "Mo-Su 15:00-17:00",
+    "operator": "Government of India",
+    "start_date": "1960-02-15"
+  }
+},
+{
+  "type": "way",
+  "id": 1551301640,
+  "center": {
+    "lat": 13.6308516,
+    "lon": 93.0473645
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1551303965,
+  "center": {
+    "lat": 13.3000784,
+    "lon": 93.0746965
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1551593895,
+  "center": {
+    "lat": 20.3313629,
+    "lon": 86.7393453
+  },
+  "tags": {
+    "building": "yes",
+    "construction_date": "1837",
+    "man_made": "lighthouse",
+    "name": "False Point Lighthouse",
+    "name:en": "False Point Lighthouse",
+    "start_date": "1838"
+  }
+},
+{
+  "type": "way",
+  "id": 1551677658,
+  "center": {
+    "lat": 19.8678497,
+    "lon": 86.1080857
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Chandrabhaga Lighthouse",
+    "name:en": "Chandrabhaga Lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1551694189,
+  "center": {
+    "lat": 19.2560191,
+    "lon": 84.9066837
+  },
+  "tags": {
+    "height": "133",
+    "man_made": "lighthouse",
+    "name": "Gopalpur Light House",
+    "operator": "Ministry of Ports, Shipping and Waterways"
+  }
+},
+{
+  "type": "way",
+  "id": 1551695714,
+  "center": {
+    "lat": 18.8806183,
+    "lon": 84.5942445
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Baruva Lighthouse",
+    "name:en": "Baruva Lighthouse",
+    "wikidata": "Q57518137"
+  }
+},
+{
+  "type": "way",
+  "id": 1551700876,
+  "center": {
+    "lat": 18.3404849,
+    "lon": 84.1217770
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Kalingapatnam Lighthouse",
+    "name:en": "Kalingapatnam Lighthouse",
+    "wikidata": "Q30039442"
+  }
+},
+{
+  "type": "way",
+  "id": 1551778083,
+  "center": {
+    "lat": 17.6764526,
+    "lon": 83.2926884
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "4",
+    "man_made": "lighthouse",
+    "name": "Dolphin's Nose Lighthouse",
+    "wikidata": "Q57499110"
+  }
+},
+{
+  "type": "way",
+  "id": 1551814515,
+  "center": {
+    "lat": 17.4878231,
+    "lon": 83.0029118
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Pudimadaka Lighthouse",
+    "name:en": "Pudimadaka Lighthouse",
+    "old_start_date": "1971",
+    "start_date": "1991",
+    "wikidata": "Q57496306"
+  }
+},
+{
+  "type": "way",
+  "id": 1551962916,
+  "center": {
+    "lat": 17.0145141,
+    "lon": 82.2826999
+  },
+  "tags": {
+    "building": "yes",
+    "height": "45",
+    "man_made": "lighthouse",
+    "name": "Vakalapudi Lighthouse",
+    "note": "This is the (new) lighthouse replacing the old one in 2005. Wiki refers mainly the old one.",
+    "roof:shape": "dome",
+    "start_date": "2005",
+    "wikidata": "Q57500037"
+  }
+},
+{
+  "type": "way",
+  "id": 1551969374,
+  "center": {
+    "lat": 16.5868669,
+    "lon": 82.2783213
+  },
+  "tags": {
+    "alt_name": "Kotha Palem Lighthouse;Karavaka Lighthouse",
+    "man_made": "lighthouse",
+    "name": "Sacramento Lighthouse",
+    "wikidata": "Q57518421"
+  }
+},
+{
+  "type": "way",
+  "id": 1551999807,
+  "center": {
+    "lat": 16.3170108,
+    "lon": 81.7254403
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Narasapur Lighthouse",
+    "name:en": "Narasapur Lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1552026779,
+  "center": {
+    "lat": 16.2482600,
+    "lon": 81.2338614
+  },
+  "tags": {
+    "building": "yes",
+    "height": "50",
+    "man_made": "lighthouse",
+    "name": "Machilipatnam Lighthouse",
+    "name:en": "Machilipatnam Lighthouse",
+    "wikidata": "Q57516765"
+  }
+},
+{
+  "type": "way",
+  "id": 1552107743,
+  "center": {
+    "lat": 15.7955961,
+    "lon": 80.4101131
+  },
+  "tags": {
+    "building": "yes",
+    "height": "29.9",
+    "man_made": "lighthouse",
+    "name": "Vedarevu Lighthouse",
+    "name:en": "Vedarevu Lighthouse",
+    "wikidata": "Q57517810"
+  }
+},
+{
+  "type": "way",
+  "id": 1552124968,
+  "center": {
+    "lat": 15.0496234,
+    "lon": 80.0479120
+  },
+  "tags": {
+    "building": "yes",
+    "height": "36.88",
+    "man_made": "lighthouse",
+    "name": "Ramayapatnam Lighthouse",
+    "name:en": "Ramayapatnam Lighthouse",
+    "wikidata": "Q57517972"
+  }
+},
+{
+  "type": "way",
+  "id": 1552225690,
+  "center": {
+    "lat": 14.7469614,
+    "lon": 80.1094432
+  },
+  "tags": {
+    "building": "yes",
+    "height": "29.9",
+    "man_made": "lighthouse",
+    "name": "Iskapalli Lighthouse",
+    "name:en": "Iskapalli Lighthouse",
+    "wikidata": "Q57537322"
+  }
+},
+{
+  "type": "way",
+  "id": 1552467551,
+  "center": {
+    "lat": 14.2857191,
+    "lon": 80.1380194
+  },
+  "tags": {
+    "building": "yes",
+    "height": "29.9",
+    "man_made": "lighthouse",
+    "name": "Krishnapatnam Lighthouse",
+    "source": "https://www.dgll.nic.in/DGLL-light-house-location/about-vishakhapatnam/krishnapatnam-lighthouse",
+    "start_date": "2012-11-19",
+    "wikidata": "Q57537759"
+  }
+},
+{
+  "type": "way",
+  "id": 1552518379,
+  "center": {
+    "lat": 13.8950533,
+    "lon": 80.2052638
+  },
+  "tags": {
+    "alt_name": "Armagaon Lighthouse;Armagoan Lighthouse;Vadapalem Light House",
+    "building": "yes",
+    "height": "30",
+    "man_made": "lighthouse",
+    "name": "Armagon Lighthouse",
+    "wikidata": "Q141181217"
+  }
+},
+{
+  "type": "way",
+  "id": 1552580367,
+  "center": {
+    "lat": 13.4212683,
+    "lon": 80.3261229
+  },
+  "tags": {
+    "building": "yes",
+    "height": "50",
+    "man_made": "lighthouse",
+    "name": "Pulicat Lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1552901513,
+  "center": {
+    "lat": 12.6153566,
+    "lon": 80.1918175
+  },
+  "tags": {
+    "building": "yes",
+    "height": "25.9",
+    "man_made": "lighthouse",
+    "name": "Mahabalipuram Lighthouse",
+    "wikidata": "Q18127656",
+    "wikimedia_commons": "Category:Mahabalipuram lighthouse",
+    "wikipedia": "en:Mahabalipuram Lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1553042311,
+  "center": {
+    "lat": 12.2754707,
+    "lon": 80.0109491
+  },
+  "tags": {
+    "alt_name": "Alam Parai Fort Lighthouse",
+    "height": "29.9",
+    "man_made": "lighthouse",
+    "name": "Kadappakkam Lighthouse",
+    "name:en": "Kadappakkam Lighthouse",
+    "name:ta": "கடப்பாக்கம் கலங்கரை விளக்கம்",
+    "operator": "ministry of shipping, government of India",
+    "wikidata": "Q141194251"
+  }
+},
+{
+  "type": "way",
+  "id": 1553571422,
+  "center": {
+    "lat": 11.7066274,
+    "lon": 79.7760225
+  },
+  "tags": {
+    "building": "yes",
+    "height": "19",
+    "man_made": "lighthouse",
+    "name": "Cuddalore Lighthouse",
+    "start_date": "1991-02-27",
+    "website": "https://www.dgll.nic.in/DGLL-light-house-location/about-chennai/cuddalore-lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1553690528,
+  "center": {
+    "lat": 11.1414779,
+    "lon": 79.8567058
+  },
+  "tags": {
+    "building": "yes",
+    "height": "30",
+    "man_made": "lighthouse",
+    "name": "Poompuhar Lighthouse",
+    "name:en": "Poompuhar Lighthouse",
+    "name:hi": "पूम् पुहार दीपस् तंभ",
+    "website": "https://www.dgll.nic.in/DGLL-light-house-location/about-chennai/poompuhar-lighthouse",
+    "wikidata": "Q33130325",
+    "wikimedia_commons": "File:Poompuhar-Lighthouse-from-the-beach.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 1553699624,
+  "center": {
+    "lat": 10.9140636,
+    "lon": 79.8505509
+  },
+  "tags": {
+    "alt_name": "Karikal Lighthouse",
+    "building": "yes",
+    "height": "15.09",
+    "man_made": "lighthouse",
+    "name": "Karaikal Lighthouse",
+    "name:en": "Karaikal Lighthouse",
+    "name:hi": "कारैकाल दीपस् तंभ",
+    "start_date": "1992-09-12",
+    "wikidata": "Q141223861"
+  }
+},
+{
+  "type": "way",
+  "id": 1553924479,
+  "center": {
+    "lat": 10.7659444,
+    "lon": 79.8501263
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "नागपट्ट िनम दीपस् तंभ",
+    "name:en": "Nagapattinam Lighthouse",
+    "wikidata": "Q141239964"
+  }
+},
+{
+  "type": "way",
+  "id": 1554240140,
+  "center": {
+    "lat": 10.2937996,
+    "lon": 79.8689068
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Point Calimere Lighthouse",
+    "name:en": "Point Calimere Lighthouse",
+    "name:hi": "प् वाइंट कैललमेर दीपस् तंभ",
+    "website": "https://www.dgll.nic.in/DGLL-light-house-location/about-chennai/point-calimere-lighthouse",
+    "wikidata": "Q141247833"
+  }
+},
+{
+  "type": "way",
+  "id": 1554544624,
+  "center": {
+    "lat": 10.2676963,
+    "lon": 79.3037573
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "lighthouse",
+    "name": "Mallipattinam Lighthouse",
+    "name:en": "Mallipattinam Lighthouse",
+    "name:hi": "मल् लिपट्ट ीनम दीपस् तंभ",
+    "website": "https://www.dgll.nic.in/DGLL-light-house-location/about-chennai/mallipattinam-lighthouse",
+    "wikidata": "Q141256321"
+  }
+},
+{
+  "type": "way",
+  "id": 1554712905,
+  "center": {
+    "lat": 10.0108214,
+    "lon": 79.2290522
+  },
+  "tags": {
+    "building": "yes",
+    "height": "45",
+    "man_made": "lighthouse",
+    "name": "Ammapattinam Lighthouse",
+    "name:en": "Ammapattinam Lighthouse",
+    "name:hi": "अम्मापट्टिनम लाइटहाउस",
+    "start_date": "2005-10-09",
+    "wikidata": "Q141259667"
+  }
+},
+{
+  "type": "way",
+  "id": 1554740437,
+  "center": {
+    "lat": 9.8050273,
+    "lon": 79.0786338
+  },
+  "tags": {
+    "building": "yes",
+    "height": "49",
+    "man_made": "lighthouse",
+    "name": "Passipattinam Lighthouse",
+    "name:en": "Passipattinam Lighthouse",
+    "name:hi": "पासीपट्टिनम दीपस् तंभ",
+    "operator": "DGLL India",
+    "start_date": "2005-10-09",
+    "website": "https://www.dgll.nic.in/DGLL-light-house-location/about-chennai/passipattinam-lighthouse",
+    "wikidata": "Q141263207"
+  }
+},
+{
+  "type": "way",
+  "id": 1555096862,
+  "center": {
+    "lat": 9.2880871,
+    "lon": 79.2185322
+  },
+  "tags": {
+    "building:part": "yes",
+    "height": "15",
+    "man_made": "lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1556538603,
+  "center": {
+    "lat": 8.7856225,
+    "lon": 78.1969943
+  },
+  "tags": {
+    "building": "yes",
+    "height": "22.5",
+    "man_made": "lighthouse",
+    "name": "Pandiyan Tivu Lighthouse",
+    "name:en": "Pandiyan Tivu Lighthouse",
+    "start_date": "1980-04-28",
+    "wikidata": "Q141320843"
+  }
+},
+{
+  "type": "way",
+  "id": 1556633698,
+  "center": {
+    "lat": 8.3729144,
+    "lon": 78.0656508
+  },
+  "tags": {
+    "alt_name": "Manapad Lighthouse;Manappad Point Lighthouse;Manappad Lighthouse",
+    "building": "yes",
+    "height": "18",
+    "man_made": "lighthouse",
+    "name": "Manapad Point Lighthouse",
+    "name:en": "Manapad Point Lighthouse",
+    "name:hi": "मणप् पाड प् वाइंट दीपस् तंभ",
+    "operator": "DGLL India",
+    "start_date": "1888",
+    "wikidata": "Q141341669"
+  }
+},
+{
+  "type": "way",
+  "id": 1557932073,
+  "center": {
+    "lat": 8.2693655,
+    "lon": 73.0260739
+  },
+  "tags": {
+    "height": "49.5",
+    "man_made": "lighthouse",
+    "name": "Minicoy Island Light House",
+    "name:ta": "மினிகாய் தீவு கலங்கரை விளக்கு",
+    "operator": "Directorate General of Lighthouses and Lightships, India",
+    "source": "PerryCastañeda;https://en.wikipedia.org/wiki/Minicoy_Island_Lighthouse",
+    "start_date": "1885",
+    "wikidata": "Q22696416",
+    "wikipedia": "ta:மினிகாய் தீவு கலங்கரை விளக்கு"
+  }
+},
+{
+  "type": "way",
+  "id": 1558085570,
+  "center": {
+    "lat": 8.1244162,
+    "lon": 77.3166712
+  },
+  "tags": {
+    "alt_name": "Muttom Lighthouse;Muttum Point Lighthouse",
+    "building": "yes",
+    "height": "21.5",
+    "layer": "1",
+    "man_made": "lighthouse",
+    "min_height": "5",
+    "name": "Muttom Point Lighthouse",
+    "name:en": "Muttom Point Lighthouse",
+    "roof:colour": "#E96B39",
+    "roof:shape": "dome",
+    "wikidata": "Q141431205"
+  }
+},
+{
+  "type": "way",
+  "id": 1558262992,
+  "center": {
+    "lat": 8.0813530,
+    "lon": 77.5469712
+  },
+  "tags": {
+    "alt_name": "Cape Comorin Lighthouse",
+    "building": "yes",
+    "height": "30.5",
+    "man_made": "lighthouse",
+    "name": "Kanyakumari Lighthouse",
+    "name:en": "Kanyakumari Lighthouse",
+    "name:ml": "കന്യാകുമാരി ദീപസ്തംഭം",
+    "name:ta": "கன்னியாகுமரி கலங்கரை விளக்கம்",
+    "start_date": "1971-11-04",
+    "tourism": "attraction",
+    "wikidata": "Q24641208"
+  }
+},
+{
+  "type": "way",
+  "id": 1558280049,
+  "center": {
+    "lat": 8.6635193,
+    "lon": 76.7644131
+  },
+  "tags": {
+    "building": "yes",
+    "height": "38",
+    "layer": "1",
+    "loc_name": "Anchuthengu Lighthouse",
+    "man_made": "lighthouse",
+    "name": "Anjengo Lighthouse",
+    "name:en": "Anjengo Lighthouse",
+    "operator": "Directorate General of Lighthouses and Lightships",
+    "start_date": "1988-04-30",
+    "website": "https://www.dgll.nic.in/DGLL-light-house-location/about-kochi/anjengo-lighthouse",
+    "wikidata": "Q20572565",
+    "wikimedia_commons": "File:Anjengo_Fort_and_Lighthouse.jpg"
+  }
+}
+
+  ]
+}

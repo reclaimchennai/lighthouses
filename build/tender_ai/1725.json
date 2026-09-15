@@ -1,0 +1,44 @@
+{
+  "nid": 1725,
+  "title": "Procurement of furnishing item of New Inspection Quarter at Dariyapur Lighthouse.",
+  "summary": "Procurement of furnishing items for the new Inspection Quarter at Dariyapur Lighthouse, Purba Medinipur, West Bengal, tendered by the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Kol-03007(01)/1/2019-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhawan, D-372/2 Taratala Road, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Dariyapur Lighthouse, Purba Medinapur, West Bengal", "station_id": "dariapur-lighthouse", "kind": "lighthouse", "work": "Furnishing items for new Inspection Quarter"}
+  ],
+  "scope": [
+    {"item": "Procurement of furnishing items of New Inspection Quarter (no item list in this notice)", "qty": null, "unit": null, "site": "Dariyapur Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 685793.0,
+    "emd_inr": 13800.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by Demand Draft/FDR/Bank Guarantee of scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata, valid three months from technical bid opening; exemption not allowed; last date for original EMD 11/09/2024."
+  },
+  "period": {"completion": "45 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-08-21", "pre_bid": "2024-09-03", "bid_submission_end": "2024-09-11", "bid_opening": "2024-09-12"},
+  "eligibility": [
+    "Valid registration of appropriate class in appropriate category (Building civil work) in Central govt. department/undertaking/autonomous body or State govt.",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; similar works = furnishing/interior decoration (wooden furniture manufacturing & installation, false ceiling etc.) of any residential/non-residential building; values updated at 7% per annum",
+    "Valid PAN card and GST registration",
+    "Notarized affidavit (2024) of not being blacklisted or debarred",
+    "Undertaking that price bid is unconditional",
+    "Income Tax returns for 2021-22, 2022-23, 2023-24",
+    "Tender acceptance letter on letter pad; other documents as per Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT Dariapur Furniture.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Notice only (pages numbered 3-6); no item list/BOQ. Bid download and submission 21/08/2024 10:00 to 11/09/2024 15:00. Notice says original EMD should reach 'up to 7 days from the date of opening of technical bid' in one place and gives last date 11/09/2024 in the table."
+}

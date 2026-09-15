@@ -1,0 +1,46 @@
+{
+  "nid": 1894,
+  "title": "Comprehensive Annual Maintenance 4C Contract Charges of Monochrome and Colour Digital Multifunctional Printer at Deep Bhavan, Cochin",
+  "summary": "Offline sealed quotation for a one-year comprehensive 4C (consumables, spares, service) annual maintenance contract, paid per copy, for two Ricoh digital multifunctional printers at Deep Bhavan, Cochin.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "Ad-Coh-05044/1/2020-Admin; I/76269/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin-682020", "station_id": null, "kind": "office", "work": "Comprehensive 4C AMC of two digital multifunctional printers"}
+  ],
+  "scope": [
+    {"item": "Comprehensive annual maintenance 4C contract of Ricoh MP 3554 SP monochrome digital multifunctional printer (print/scan/copy); one year; monthly payment per print/copy", "qty": null, "unit": "Per Print/Copy", "site": "Deep Bhavan, Cochin"},
+    {"item": "Comprehensive annual maintenance 4C contract of Ricoh MP C2011 colour digital multifunctional printer (print/scan/copy), per colour print/copy; one year; monthly payment", "qty": null, "unit": "Per Color Print/Copy", "site": "Deep Bhavan, Cochin"},
+    {"item": "Comprehensive annual maintenance 4C contract of Ricoh MP C2011, per black & white print/copy", "qty": null, "unit": "Per Black & White Print/Copy", "site": "Deep Bhavan, Cochin"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate or EMD printed. Rates to show basic cost and taxes separately; L1 on consolidated lowest total. Monthly payment within 15 days of satisfactory performance. Penalty 5% on upcoming bill for restoration delay above 24 hours."
+  },
+  "period": {"completion": "One year contract, active from date of work/supply order", "bid_validity": "1 year from date of opening of quotations", "warranty": null},
+  "dates": {"published": "2025-04-25", "pre_bid": null, "bid_submission_end": "2025-05-06", "bid_opening": "2025-05-07"},
+  "eligibility": [
+    "Reputed OEM or authorized suppliers, licensed electrical contractors, parties, shops or Government undertakings",
+    "GST registration certificate",
+    "Local registered office in Ernakulam District, Kerala (GST certificate mandatory)"
+  ],
+  "specs": [
+    "4C contract covers all consumables (colour/black toner, drum, developer), spares and service; monthly routine and preventive maintenance visit",
+    "Breakdown attendance within 4 hours; maximum parts replacement lead time 48 hours",
+    "Printers: Ricoh MP 3554 SP (monochrome) and Ricoh MP C2011 (colour)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "4C contract_organized_DGLL.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned NIQ (dated 25.04.2025), scope, terms and blank schedule. Download 29.04.2025 (09:00) to 06.05.2025 (15:00); submission 29.04.2025 (14:00) to 06.05.2025 (15:00); opening 07.05.2025 (16:00). No copy volumes given in schedule. Schedule misprints 'Contact Period'."
+}

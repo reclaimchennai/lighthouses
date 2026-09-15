@@ -1,0 +1,246 @@
+                               मास्टर लेज़र/MASTER LEDGER
+                    महाबलीपरु म दीपस्तंभ/Mahabalipuram Lighthouse
+क्रमसंख्या/
+                          नाम /Name                                       वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                   0932
+    2         स्थान/Position                       Lat.12° 53.6’ N , long 80° 20.3’ E
+    3         ऊंचाई/Elevation                      48.40M (Above MSL)
+    4         अभिलक्षण/Characteristic              FL (1) W 10 Sec (fl 0.4)
+
+    5         नॉटिकल माइल मे दरू ी/                18.9 NM
+              Range in miles
+    6         दीपस्तंि िािर/L.H. Tower             Type                          Circular Stone Masonary
+                                                   Height                        26 M
+                                                   Colour Scheme                 No Day mark painting
+    7         ऑप्टिकल उपकरण/                       Optic                         2nd order catadioptric
+              Optical equipment                    Make                          M/s Chance Bros, England.
+                                                   Type                          Revolving
+                                                   Size                          700 mm
+                                                   No. of lens                   3 Panels of 120֯ Each
+                                                   Area of dioptric portion
+                                                   Area     of    catadioptric
+                                                   portion
+                                                   Divergence                    Horizontal : 5° 33’55”
+                                                   Main/Emergency
+                                                                                 Vertical : 2° 56’46”
+                                                   Duration of Flash             0.4 sec
+                                                   Main
+                                                   /Standby/Emergency
+                                                   Pedestal                      Mercury Float (130 Kg)
+                                                                                 Approx.
+                                                   Rotation Device               Dual stepper motor assembly
+                                                                                 of 40 Kg/Cm2
+                                                   R.P.M.                        2 r.p.m
+                                                   Illuminant                    LED Lamp
+                                                   Main Lamp                     236W Lamp (5*25 LED Array)
+                                                                                 Kwik Lite LED Driver
+                                                                                 (160-265V AC / 24V DC)
+                                                   Standby                       -
+                                                   Emergency:                    -
+                                                   Date of Installation          19.08.2020
+    8         प्रिािी बीम तीव्रता/Effective beam   Main                          7,50,644 cds
+              intensity                            Emergency                     -
+    9         लेंिनन/Lantern                       Diameter                      3.65 m
+                                                   Height of glazing             1.83 m
+                                       No. of panes             32 Nos, 12 No’s Blanked with
+                                                                metal sheet at land side
+                                       Ventilators              12 Nos
+10   रे कोन/RACON                         Sr. No
+     Make               Model          Code                     Band               Date of
+                                                                                   Installation
+
+11   एनएआईएस/NAIS
+     Base Station
+
+     Model              Type           Power                    MMSI
+     SAAB System        R40            Input : 100-240V AC /    004194424
+     VHF Transceiver                   24V DC
+     156 – 162.5 MHz                   Load : 2 W / 12.5 W
+     Communication
+     Equipment
+     VSAT Antenna       Band           Modem
+                                       Leased Line
+                                       (Router & Modem)
+     DGPS
+     Transmitter Make   Frequency      Power          RS 1 ID   RS -II   Beaco     Date of        D
+                                       Output                   ID       n ID      commi          a
+                                                                                   ssioni         t
+                                                                                   ng             e
+                                                                                                  o
+                                                                                                  f
+                                                                                                  R
+                                                                                                  e
+                                                                                                  c
+                                                                                                  a
+                                                                                                  p
+                                                                                                  it
+                                                                                                  a
+                                                                                                  li
+                                                                                                  z
+                                                                                                  a
+                                                                                                  ti
+                                                                                                  o
+                                                                                                  n
+
+
+
+
+12   ऊर्ान के           Mains                                   Tamilnadu Electricity Board
+                        Power Source                            3 phase /440V AC supply
+     साधन/Source of
+                        Engine 1
+     Energy             Make/Type             Qty     Rating    No of       RPM            Coo
+                                                                Cylinder                   ling
+                        Kirloskar             1       32 HP     3 No’s      1500           Air
+                                                                                                       C
+                                                                                                       o
+                                                                                                       o
+                                                                                                       l
+                                                                                                           i
+                                                                                                           n
+                                                                                                           g
+                           Alternator
+                           Make/Type                Qty        Rating   Voltage/       Frequency Pha
+                                                                        Amp                      se
+                           Kirloskar                1          20 KVA   230V/86.       50Hz      1
+                                                                        9A                       pha
+                                                                                                 se
+                           Engine 2                                                        (NIL)
+                           Make/Type                Qty        Rating   No of          RPM       Coo
+                                                                        Cylinder                 ling
+
+                           Solar Plant for Main light
+                           Capacity PV          Numbers                 Type     Battery             Ban
+                                                                                                     k
+                           2.5 KW (24 V/255         10 Nos          Acce 12 Nos                      01
+                           W)                                       ss    2 V/ 900 AH                No.
+                                                                    solar
+                           Solar Plant for 2KW off grid (used in automation, street light and
+                           etc)
+                           Capacity PV         Numbers              Type Battery            Ban
+                                                                                            k
+
+13   स्िचाभलत िोल्िे र् स्िे बलाइर्र/
+     Automatic Voltage Stabilizers
+
+     Make                Model              Cap     Input               Output           Phase       Qty
+                                            acity
+     ITL                 Servo controlled   5KV     170-270 V           230 V            1 phase     2
+                                            A                                                        No
+14   बैिरी/Batteries
+     Equipment           Type               Make        Volt            Amp Qty
+                                                                        /Hr
+     PSS NAIS                   -             -                 -         -              -
+     Genset              Led Acid Battery   Exide              12V       150A            1
+                                                                          H
+     Automation                  -             -                -         -              -
+     DGPS                        -             -                -         -              -
+15   बैिरी चार्नर/Battery Charger
+
+     Equipment           Make               Mod     Type                Ratin    Qty
+                                            el                          g
+     General Purpose     Aplab              -       -                   0-30     2 No
+                                                                        V/ 30
+                                                                        A
+
+16   इंवर्ट र/यप
+               ू ीएस/Inverter /UPS
+     Equipment Nos         Make        Model                   Type     Rating     Qt        input    o
+                                                                                   y                  ut
+                                                                                                        p
+                                                                                                        ut
+                                                                                                        2
+                                                                                                        3
+                         Geevi                              Pure
+                                                                             1000     2N     170-270    0
+     Main Light   2 No   Control     ---                    sine
+                                                                             VA       o      VAC        V
+                         Systems                            wave
+                                                                                                        A
+                                                                                                        C
+     2 KW off    --    --           --                           --            --      --       --      --
+     grid
+17   स्वचालन उपकरण/Automation Equipment
+
+     MAKE         PLC              HMI           Power Supply         VSAT          Modem     Band
+                                                                       1.8 m dia
+                  Allen Bradley       Renu
+        RDS                                         24 V DC           Parabolic     Hughes       EX.C
+                                   electronics
+                                                                       reflector
+18   अग्निशमन उपकरण/                       Type of                    Capacity        Nos      Make
+                                           Extinguisher
+     Fire Fighting Equipment
+                                           DCP Type                   6 kg            7        Bharat -6,
+                                                                      2 Kg            1        Intime -1
+                                                                                               Bharat
+                                                                                               safety first
+                                           Co2                        2 Kg            3        Intime-
+                                                                      4.5 Kg          1        1,Excellent-
+                                                                                               2
+                                                                                               Excellent
+                                           Fire Buckets –             5 Ltrs          3
+                                           Metal
+19   संचार/
+     Communication                         BSNL telephone                           044-29994855
+
+20   र्लपर्ू तन/                              1. Open well with overhead tank of 7000 Ltrs
+                                                 capacity, pump 2Hp submersible.
+     Water Supply
+                                              2. Municipal water stored in open well
+21   िभू म/                                Area                              14.805 hectares
+     Land                                  Demarcation                              Compound Wall at 4
+                                                                                    Sides
+22   इमारतें /                             10 No’s of Building                      Lighthouse Tower, Oil
+                                                                                    Room, Power House-
+     Buildings
+                                                                                    cum Office room,
+                                                                                    Inspection quarters,
+                                                                                    Recreation room,
+                                                                                    Twin Quarters (NA-I
+                                                                                    quarter, NA-II
+                                                                                    Quarter), Heritage
+                                                                                    Museum, Maritime
+                                                                                    Museum Building,
+                                                                                    Pump House with
+                                                                                    RCC OH tank, NA-II
+                                                                                    quarter, Toilet
+                                                                                    Building and Old
+                                                                                    Store room.
+23   कंपाउं ड लाइि/                  LED Light fitted on G.I Pole-07
+                                     No’s
+     Compound Lights
+                                     Garden light-15 No’s
+                                     Gate light- 4 No’s
+
+24   सीसीिीिी कैमरा/                 20 Camera, 3 DVR
+     CCTV CAMERA
+25   स्िाफ/                          Sl. No       Designations
+     Staff                           1           Navigational Assistant Gr-I – 1 No
+                                     2           Navigational Assistant Gr-II – 2 No’s
+                                     3           Outsourced staff for Housekeeping- 1 No
+                                                 Outsourced staff for Security - 1 No
+                                                 Outsourced staff for Visitors Handling - 3
+                                                 No’s
+26   पहुँचने का माध्यम/              Nearby Railway station is Chengalpattu,
+                                     Nearest airport is Chennai airport,
+     Mode of approach
+                                     from Chengalpattu by road about 30 KM
+                                     From Chennai by road about 55 KM
+27   उपलब्ध सवु िधाएं/
+                                     The nearest Post office, local panchayat office, High
+     Facilities available            School, Primary Health Centre, Police Station, Bank are
+                                     available at Mahabalipuram.
+
+28   डाक पता/Postal address          The Navigational Assistant Gr-I
+                                     Mahabalipuram Lighthouse,
+                                     Mahabalipuram Post,
+                                     Thirukazhukundram Taluk
+                                     Chengalpattu Dist, Tamilnadu-603104
+29   मल्ू य का ब्योरा/Cost details   Rs.49920/-
+     (At the time of Construction)
+30   प्रितनन मे लाने का दििांक/
+                                     March 1901
+     Date of commissioning
+

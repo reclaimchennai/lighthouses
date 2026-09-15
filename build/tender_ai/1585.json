@@ -1,0 +1,47 @@
+{
+  "nid": 1585,
+  "title": "Periodical Repair and Maintenance of Tillangchang Lighthouse Tower under Port Blair Directorate.",
+  "summary": "Notice inviting sealed bids for periodical repair and maintenance of the 24 m GI trestle tower at Tillangchang Lighthouse, Tillangchang Island, Nicobar: jungle clearing, repainting the tower and hiring boats for inspection. Issued by the Directorate of Lighthouses and Lightships, Port Blair.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "CM-PB-01031/1/2022-CM-PB",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Port Blair"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Tillangchang Lighthouse, Tillangchang Island, Nicobar", "station_id": "tillanchang-lighthouse", "kind": "lighthouse", "work": "Periodical repair and maintenance of trestle tower: jungle clearing, painting, angle replacement"}
+  ],
+  "scope": [
+    {"item": "Clearing jungle including uprooting rank vegetation, grass, brushwood, trees and saplings of girth up to 30 cm, and removal of rubbish up to 50 m", "qty": "2,475.00", "unit": "Sqm", "site": "Tillangchang Lighthouse"},
+    {"item": "Synthetic enamel painting (Asian/Berger/Dulux/Nerolac high glossy), two or more coats, on previously painted surface of GI trestle tower (24 m high), including cleaning, primer on worn places, bosun chair/jhulla/scaffolding", "qty": "274.21", "unit": "Sqm", "site": "Tillangchang Lighthouse"},
+    {"item": "Engaging mechanised dinghy with safety boat, one operator and one helper each, for site inspection by officials, including fuel", "qty": "3.00", "unit": "Trip", "site": "Tillangchang Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 183081.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "10% of contract value as FDR, valid sixty days beyond completion; refunded 3 months after completion subject to no defects",
+    "notes": "No EMD; Bid Securing Declaration required instead. Rates inclusive of all taxes and GST. Payment on first and final bill for actual measured work."
+  },
+  "period": {"completion": "03 months from date of issue of work order", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2024-04-29", "pre_bid": null, "bid_submission_end": "2024-05-08", "bid_opening": "2024-05-08"},
+  "eligibility": [
+    "Proof of satisfactory completion of similar works in last 7 years in Central/State Government; similar work means civil works including painting",
+    "PAN and GST registration",
+    "Bid acceptance letter, undertaking and bid securing declaration"
+  ],
+  "specs": [
+    "Synthetic enamel paint to IS 2933; approved makes Asian/Berger/Dulux/Nerolac; water proofing compound Pidilite/Dr. Fixit/Fosroc; putty Iroseal or equivalent",
+    "Shades: trestle tower Snow White/Brilliant White and Signal Red; automation box and handrail Bus Green; gate and pedestal Black",
+    "Scope also mentions replacing trestle tower angles wherever required",
+    "Contractor to arrange drinking water from outside site (groundwater tapping in CRZ objectionable) and generator power"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "tilangchang (1).pdf", "pages": 11, "read": "mixed", "language": "en", "unreadable": ["OCR text layer partly garbled; pages 1-2 rendered and read visually to confirm values"]}
+  ],
+  "confidence": "high",
+  "notes": "Scanned bid document with OCR text: NIT, schedule of works (rates blank), terms, special conditions, general specifications, bid acceptance letter, undertaking and bid securing declaration. Bids due 08.05.2024 15:00, opened 15:30 same day. Office e-mail on letterhead is illegible in scan. Station spelled Tillangchang; matched to tillanchang-lighthouse."
+}

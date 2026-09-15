@@ -1,0 +1,182 @@
+                            01 No. inbuilt Battery Charger in AMF Panel.
+
+
+      GOPALPUR LIGHTHOUSE
+         MASTER LEDGER
+
+                                              Gopalpur Lighthouse
+
+2.     Sr. No. (A.L.O.L.)                     F 0988
+
+3.     Position                               Lat. 190 15.3’N
+                                              Long. 840 54.5’E
+
+4.     Elevation of ground                    8m
+
+S.     Elevation of tower                     45 m
+
+6.     Character of light                     FL W 5 Sec.
+
+7.     Range in nautical miles
+       i)    Luminous                         26.2 NM
+       ii)    Geographical                    18.2 NM
+
+8.     Lighthouse Tower
+       i) Type                                Circular RCC Tower
+       ii) Height                             37 m
+      iii) Color Scheme                       Red & White Band
+
+9.     Optical equipment
+
+       i) Make                                BBT Paris
+       ii) Size                               4th Order (large), revolving
+       iii) Panels                            4
+       iv) Focal Length                       300 mm
+        v) RPM                                3
+       vi) Duration of Flash                  0.25 Sec
+      vii) Illuminant                         150W MH lamp (03 Nos. in cluster)
+      viii) Divergence                        4.58 (Horiz.) & 2.29 (Vert.)
+        ix) Luminous intensity                1,32,700 cd
+
+10.    innovation                             Innovation was carried out on 2003. 400W/230V MH
+                                              lamp was replaced with cluster MH lamp (03 Nos. each
+                                              150W/230V wattage).
+11.    Lantern
+
+                                                                                          1|Page
+          i)      Diameter                            2.4 m
+          ii)     Height of glazing                   1.5 m
+          iii)    No. of glass panes                  16 Nos.
+          iv)     Ventilators                         7 Nos.
+
+12.     Pedestral                                     Mercury Float (33.5 kg in use)
+
+
+13.       Power supply
+
+          i) Mains                                    3 Phase, 440 V, 50Hz AC Mains supply from SOUTHCO
+
+          ii) Solar
+
+SI. No.      Types of Solar Power       Capacity                No. of Panels     Inverter    Remarks
+  1              ON GRID                15 kWp                  60 (each 250W     l5KVA, Make Net       meter
+                                                                24V)              : Power one installed
+
+          iii) Standby                                             Gensets (02 Nos.)
+
+A.        Details ofEngine
+
+Sl. Engine Sl. No.                 Make               BHP No. of    RPM                Cooling        Date of
+No.                                                        Cylinder                                   Installation
+ 1. 02.2129/1320074                 Kirloskar         20.5    02    1500               Air Cooling    18-11-2013
+ 2      02.8301/1620284             Kirloskar         20.5         02      1500        Air Cooling    10-02-2017
+
+B.        Details ofAlternator
+
+Sl. Alternator Sl. No.           Make            KVA     Voltage        Current Freq.        Phase     RPM
+No.                                                                     (Amp)   (Hz)
+
+1       CS l B0130730-H          Kirloskar       15          230         62.5       50       Single      1500
+2       CS l B016E2817-H         Kirloskar       15          230         62.5       50       Single      1500
+
+14.       Other Equipments
+
+          i) Battery Charger                 :        01 No. Altime make, input voltage : 180 — 250 V AC,
+                                                      output : 12 & 24 VDC, supplied on 30.01.2017. Presently
+                                                      it is working.
+
+          ii) Stabilizer                              NIL
+
+          iii) Inverter
+Sr.                            Particulars                                Qty       Date of           Purpose
+No.                                                                               Installation
+ 1      1450 VA, 24V DC (input), 230V AC (output),                       1 No.    31.08.2015     For Light beacon
+        Exide make
+    2   1400 VA, 24V DC (input), 230V AC (output),                       I No.    09.11.2013          For NAIS
+        Sukam make
+                                                                                                       2|Page
+15.    Remote Monitoring and Control System
+
+All equipment's are remotely monitored by RCS at Paradeep and MCS at Deep Bhavan, Kolkata.
+
+i) Main control Panel                 1 No. installed at power house.
+ii) Remote Panel                      I No. installed at service room.
+iii) UPS                              I No. I KVA, APC make placed inside main Panel.
+iv) Communication                     VSAT
+v) VSAT Antenna                       l No. installed on ground.
+vi) Modem                             l No. placed inside main Panel.
+
+16.    NAIS
+
+i) AIS Base station                   01 Nos. Saab Transponder make, installed at Service room.
+ii) Modem                             01 No. Tellabs, installed at Service room.
+iii) Router                           01 No. Cisco make, installed at Service room.
+iv) Switch                            01 No. Catalyst make, installed at Service room
+v) GPS antenna                        02 Nos. installed at LH tower railing.
+vi) VHF antenna                       02 Nos. installed at LH tower railing
+vii) UPS                              01 No. I KVA, APC make installed at Service room
+viii) Communication                   Lease Line
+ix) Date of commissioning             January 2012
+
+17.    Fire Extinguisher
+
+Sl.         Type         Capacity           Qty      Place of Installation
+No.
+ l     WaterCO2             9Litr       2Nos.        One at oil room and one at power house.
+ 2     Foam                 9Litr        lNo.        Placed at store room
+ 3     DCP                  5KG         2Nos.        One at service room and one at SS equipment room.
+ 4     ABC                  5KG          lNo.        Placed at Power House
+ 5     Fire Buckets         l0Litr      4Nos.        Varandah of power house
+
+18.    7tacon                                     Code “G”, dual band (X + S), Tideland make, Sl. No.
+                                                  6310, installed on 26.09.2005
+
+19.    Water Supply
+
+NAC (Notified area council) water supply is available. Apart from Municipal water supply, LH has I
+HP Jet pump motor (Texmo make) use to pump water from bore well to overhead RCC tank placed
+beside pump house and 1 HP mono block pump motor (Texmo make) use for gardening purpose. Jet
+pump were purchased on 04.10.2016 and Mono block pump were purchased on 16.05.2017.
+
+20.    Land
+
+       i) Area                                           3.15 Acre
+       ii) Demarcation                                   Compound Wall.
+       iii) No. of fruit trees                           13
+       iv) No. of non-fruit bearing trees                NIL
+                                                                                               3|Page
+21.    Buildings
+
+        i) l No. Office cum power house cum store room.
+        ii) l No. IQ
+        iii) l No. NAG-I Qtr.
+        iv) 1 No. NA-II Qtr.
+        v) 1 Twin unit of NA-II Qtr.
+        vi) 1 No. SRT Qtr/Oil room
+        vii) 1 Twin unit of LHA Qtr.
+        viii) l No. Pump House.
+
+22.    Contact Details
+
+         i)     Office Mobile No.                   0680 — 2343441
+         ii)    Office E-Mail                       hlkgopalpur@yahoo.com
+         iii)   Postal Address                      Gopalpur Lighthouse,
+                                                    PO— Gopalpu—  r On- Sea,
+                                                    Dist. Ganjam, Odisha — 761 002.
+
+23.    Mode ofApproach
+
+The station is well connected by all-weather road. The nearest Railway Station is Brahmapur which is
+approx. 15 Km from Gopalpur Lighthouse.
+
+24.    Facilities Available
+
+Post Office, Primary Health Center, Police Station and Kendriya Vidyalaya all are within 5 KM from
+Gopalpur Lighthouse.
+
+
+
+
+                                                                                          4|Page
+5|Page
+

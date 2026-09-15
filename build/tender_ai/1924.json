@@ -1,0 +1,40 @@
+{
+  "nid": 1924,
+  "title": "Special Civil Maintenance and Repairs to North Point Lighthouse Station buildings & Allied facilities, North Bay.",
+  "summary": "Online percentage-rate e-tender for special civil maintenance and repairs to the buildings and allied facilities of North Point Lighthouse Station, North Bay, Andaman & Nicobar Islands.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-01004/1/2022-CM-PB",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "North Point Lighthouse Station, North Bay, A & N Islands", "station_id": "north-point-lighthouse", "kind": "lighthouse", "work": "Special civil maintenance and repairs to station buildings and allied facilities"}
+  ],
+  "scope": [
+    {"item": "Special Civil Maintenance and Repairs to North Point Lighthouse Station buildings & Allied facilities", "qty": null, "unit": null, "site": "North Point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4911473.54,
+    "emd_inr": 98500.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Cost of bid document free. EMD by Deposit at call Receipt/FDR/DD or bank guarantee in favour of Director of Lighthouses and Lightships, Sri Vijaya Puram; valid 6 months from technical bid opening; originals with technical documents by 23.06.2025 15:00. MSME/NSIC registered bidders for similar work eligible for EMD exemption."
+  },
+  "period": {"completion": "4 months", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-06-06", "pre_bid": "2025-06-16", "bid_submission_end": "2025-06-23", "bid_opening": "2025-06-24"},
+  "eligibility": [
+    "Experienced civil contractors with successfully completed similar work of construction/maintenance of buildings in Andaman & Nicobar Islands with Government organizations, without adverse remarks",
+    "Detailed eligibility as per Section-III clause 3.1 of tender document (not included in this file)",
+    "Bidders whose near relatives are accountants/gazetted officers in DGLL not permitted"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NPLHNIT.pdf", "pages": 6, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (NIT) only: pages 1-3 Hindi, pages 4-6 English version with identical values. No BOQ or Section III eligibility details included. Two bid system; bid download/submission 06.06.2025 18:00 to 23.06.2025 15:00; technical bid opening 24.06.2025 15:00 subject to internet availability."
+}

@@ -1,0 +1,44 @@
+{
+  "nid": 2031,
+  "title": "Development work for promotion of tourism at Mount Dilli Lighthouse",
+  "summary": "E-tender for tourism development works at Mount Dilli Lighthouse, Ezhimala, Kannur district, Kerala, with a corrigendum extending the bid dates.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-03/3/2025-MS; I/87252/2025; Tender ID 2025_DGLL_878924_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mount Dilli Lighthouse, Naval Academy P.O., Ezhimala, Kannur (Dist) 670318", "station_id": "mount-dilli-lighthouse", "kind": "lighthouse", "work": "Development work for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Development work for promotion of tourism (no BOQ in these documents)", "qty": null, "unit": null, "site": "Mount Dilli Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 582291.0,
+    "emd_inr": 11646.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents by post or in person."
+  },
+  "period": {"completion": "90 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-09-18", "pre_bid": "2025-09-30", "bid_submission_end": "2025-11-11", "bid_opening": "2025-11-12"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Government/PSU/autonomous bodies",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; similar works = construction of generator shed with truss work, concrete foundation and aluminium work / construction or maintenance of residential, institutional or office buildings, road, lighthouse tower or other related civil construction",
+    "PAN and GST registration",
+    "Annual turnover of last three years certified by Chartered Accountant"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2025-10-28", "change": "Corrigendum-III: last date for bid submission extended to 11.11.2025 15:00; EMD/technical documents (original) to 10.11.2025 15:00; technical bid opening 12.11.2025 15:00"}
+  ],
+  "documents": [
+    {"file": "NIT (2).pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []},
+    {"file": "Corrigendum-III Development Work For Promotion of Tourism at Mount-Dilli Lighthouse Kavaratti Island UT of Lakshadweep.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Original NIT dates: bid download/submission 24.09.2025 18:00 to 08.10.2025 15:00; bid query 29.09.2025; EMD 07.10.2025; opening 09.10.2025 (listing matches original dates). Dates above reflect Corrigendum-III; Corrigenda I and II are not attached. Corrigendum file name wrongly places Mount Dilli on 'Kavaratti Island UT of Lakshadweep'; the NIT gives Ezhimala, Kannur. The similar-works definition mentions a generator shed, same wording as the Kannur generator shed tender (nid 2025)."
+}

@@ -1,0 +1,49 @@
+{
+  "nid": 2118,
+  "title": "Quotation of providing various Hire vehicle for the departmental use for one year period from Mumbai based firms -Reg.",
+  "summary": "Notice inviting sealed quotations from Mumbai-based firms for hiring AC cars (hatchback, sedan, SUV, premium SUV, MUV), a 10/12 ton truck and a 20-seat AC tempo traveller, with driver and fuel, for local and outstation departmental use by the Mumbai Directorate for one year.",
+  "category": "vessels & vehicles",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "ST-Mum-01015(04)/1/2021-Store Section",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Schedule A (local): Hatchback (Maruti Suzuki Swift, WagonR, Tata Tiago, Tata Nexon, Hyundai Santro) - rate for 80km x 8hrs, per additional km beyond 80 km, per additional hr beyond 8 hrs", "qty": null, "unit": null, "site": null},
+    {"item": "Schedule A (local): Sedan (Honda Amaze, Maruti Suzuki Dzire, Hyundai Xcent, Ford Aspire, Honda City)", "qty": null, "unit": null, "site": null},
+    {"item": "Schedule A (local): SUV (Maruti Suzuki Ertiga, Vitara Brezza, Mahindra Scorpio, Maruti Suzuki XL6, Ford Eco sport, Mahindra XUV 300 & XUV 500, Toyota Innova)", "qty": null, "unit": null, "site": null},
+    {"item": "Schedule A (local): Premium SUV (Toyota Innova Crysta, Honda CR-V)", "qty": null, "unit": null, "site": null},
+    {"item": "Schedule A (local): MUV (Mahindra Bolero Camper)", "qty": null, "unit": null, "site": null},
+    {"item": "Schedule B (outstation): same five vehicle types - rate for 300 km x 24 hrs, per additional km beyond 300 km, per night halt", "qty": null, "unit": null, "site": null},
+    {"item": "Schedule C: Truck of 10/12 ton capacity - rate for 300 km / 24 hrs, per additional km beyond 300 km, per night halt", "qty": null, "unit": null, "site": null},
+    {"item": "Schedule C: Tempo Traveller 20 seat capacity A.C - rate for 300 km / 24 hrs, per additional km beyond 300 km, per night halt", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate or EMD printed. Rates for AC vehicles only; GST % quoted separately. No rate increase during contract; toll taxes paid at actuals with proof; no advance payment; payment by bank transfer after invoices, logbook and service feedback. Penalties per Annex-III: third-party hire cost plus 10%/15% of daily hiring cost for non-deployment or breakdown without replacement; warning then 10%/15% (or 8%/10% for breakdown) with replacement; delay of 30 min or more warning then 5%/8%; driver misbehaviour Rs 1000/2000; intoxicated driver Rs 2500; unaddressed deficiencies Rs 500/800/1000."
+  },
+  "period": {"completion": "One year from date of issue of work order (extendable at same rate, terms and conditions)", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-11-11", "pre_bid": null, "bid_submission_end": "2025-11-14", "bid_opening": null},
+  "eligibility": [
+    "Mumbai based firms",
+    "All vehicles with necessary permits/licenses: fitness certificate, PUC, full comprehensive insurance, road permit, registration certificate as per Motor Vehicles Act/RTO (commercial vehicles)",
+    "24-hour telephone facility with firm and drivers"
+  ],
+  "specs": [
+    "AC vehicles with driver and fuel on vehicle-day basis, local and outstation",
+    "Sticker 'ON GOVT OF INDIA DUTY' on front and rear glass; driver in RTO-approved clean dress code; no mobile phone use while driving",
+    "Separate duty slip/log book per vehicle with odometer readings; bills in triplicate certified by in-charges after each trip"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ Vehicle (1).pdf", "pages": 8, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned document with a poor OCR text layer; all 8 pages read from rendered images. Quotations in sealed envelope superscribed 'Quotation for Hire vehicle' to the Director, Deep Bhavan, M.G. Road, Ghatkopar (East), Mumbai-400077 on or before 14/11/2025 16:00. No quantities of vehicle-days given. Listing gives no bid opening date."
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "vembar-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Vembar Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2017,
+  "alol": "F 0737",
+  "position": {"lat_text": "9° 4.633'N", "lon_text": "78° 21.9' E", "lat": 9.077217, "lon": 78.365},
+  "elevation_m": null,
+  "characteristic_text": "Flash (3) White Every 10 Seconds",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "1.25 sec.flash period;3.75sec Dark period;6.25sec group(3)white flash in every 10 seconds",
+    "sequence_s": null,
+    "flash_duration_s": 1.25
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": 14, "text": "Luminous : 20 NM, Geographical : 14 NM"},
+  "tower": {"type": "RCC Octagonal tower", "height_m": 30, "colour_scheme": "Black & White horizontal bands"},
+  "optic": {
+    "make": "Pharos Marine", "model": "APRB-288AC-2PL-006", "type": "Rotating Beacon", "size": "500mm", "order": null,
+    "panels": 3,
+    "rotation_device": "Inbuilt stepper motor",
+    "rpm": 6,
+    "rotates": true,
+    "rotates_evidence": "Optic: APRB-288AC-2PL-006 Rotating Beacon; Rotation Device: Inbuilt stepper motor; R.P.M. 6",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 2,
+    "divergence_text": "Vertical divergence >2°",
+    "illuminant": "230V, Single End Metal Halide Lamp 150W"
+  },
+  "intensity_cd": 912000,
+  "racon": {"present": false, "code": null, "text": "- NA-"},
+  "ais": {"present": false, "text": "NAIS base station fields empty; only 'VSAT Antenna Prodelin 2.4 meter' listed"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": null, "text": "EB supply three phase 440 V 50 Hz from TNEB; standby blank; 4 KW off-grid solar plant (8 x 250W + 8 x 260W panels), 24 x 2V/1000AH batteries"},
+  "issues": [
+    "Elevation value missing (printed only 'm (above MSL)')",
+    "Flash timing '1.25 sec flash period; 3.75 sec dark period; 6.25 sec' does not form a sequence summing to the 10 s period",
+    "No. of lens 3 but 'Lamp changer-(pannels)' row says '8 panels in octagonal form'",
+    "Vertical divergence given as '>2°' (lower bound only)"
+  ]
+}

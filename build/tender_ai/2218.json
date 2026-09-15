@@ -1,0 +1,41 @@
+{
+  "nid": 2218,
+  "title": "Repair & Maintenance work at Arnala lighthouse station.",
+  "summary": "Repair and maintenance work at Arnala Lighthouse station, Post Arnala, via Virar, District Thane, Maharashtra.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-MUM-03020(03)/1/2021-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Arnala lighthouse station", "station_id": "arnala-lighthouse", "kind": "lighthouse", "work": "Repair & maintenance work"}
+  ],
+  "scope": [
+    {"item": "Repair & Maintenance work at Arnala lighthouse station", "qty": null, "unit": null, "site": "Arnala lighthouse station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2168010.0,
+    "emd_inr": 43400.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost inclusive of GST. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, payable at Mumbai, valid three months from technical bid opening; original to be submitted by post/in person. MSME/NSIC registered bidders are also required to submit EMD (no exemption)."
+  },
+  "period": {"completion": "06 Months (from the date of award of contract)", "bid_validity": "90 days from the date of opening of Technical bid", "warranty": null},
+  "dates": {"published": "2026-01-15", "pre_bid": "2026-01-23", "bid_submission_end": "2026-02-05", "bid_opening": "2026-02-09"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category registered with Central Govt/State Govt/Municipal Corporation etc with tender limits equal to or more than estimated cost",
+    "Satisfactory completion of similar works (civil construction, repair and maintenance) in last 7 years: three works each >= 40%, or two works each >= 60%, or one work >= 80% of estimated cost",
+    "Documentary evidence of annual turnover of last three years",
+    "Permanent Account Number (Hindi version also lists GST number)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (6).pdf", "pages": 6, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 15.01.2026. Bid download & submission 15/01/2026 09:00 to 05/02/2026 16:00; pre-bid meeting 23/01/2026 16:00 at Deep Bhavan, Mumbai; last date for original EMD 06/02/2026 17:00; technical bid opening 09/02/2026 11:00. Document is Section I only; no BOQ. Listing start date blank."
+}

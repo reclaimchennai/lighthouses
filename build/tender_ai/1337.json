@@ -1,0 +1,38 @@
+{
+  "nid": 1337,
+  "title": "Installation of 7.5kVA DG Set at Androth (East) Lighthouse",
+  "summary": "E-tender for installation of a 7.5 kVA diesel generator set at Androth (East) Lighthouse, Lakshadweep, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-28001/1/2019-MS; I/43501/2023",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Androth (East) Lighthouse", "station_id": "androth-east-lighthouse", "kind": "lighthouse", "work": "Installation of 7.5 kVA DG set"}
+  ],
+  "scope": [
+    {"item": "Installation of 7.5kVA DG Set", "qty": "1", "unit": null, "site": "Androth (East) Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 480000.0,
+    "emd_inr": 9600.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR from any nationalised/RBI approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam; original due 30.08.2023 15:00. Small Scale Industries with valid NSIC/MSME certificate exempted from EMD."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2023-08-14", "pre_bid": "2023-08-21", "bid_submission_end": "2023-08-31", "bid_opening": "2023-09-01"},
+  "eligibility": [
+    "Reputed OEM or their authorised suppliers, licensed electrical contractors, parties or Government undertakings"
+  ],
+  "specs": ["7.5 kVA DG set"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (2).pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Two-page short Section 1 NIT; no BOQ, completion period or bid validity printed. Bid download 17.08.2023 09:00 and submission 17.08.2023 10:00, both to 31.08.2023 15:00; technical bids opened 01.09.2023 16:00."
+}

@@ -1,0 +1,50 @@
+{
+  "nid": 1719,
+  "title": "Work Contract for issuing tickets and Regulating visitors at Lighthouse stations under Chennai Directorate for the period from 01.09.2024 to 31.03.2025.",
+  "summary": "Short e-tender for a manpower work contract to issue tickets and regulate visitors at seven tourist lighthouses under the Chennai Directorate from 1 September 2024 to 31 March 2025.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, 5/20 Jaffer Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chennai Lighthouse", "station_id": "chennai-lighthouse", "kind": "lighthouse", "work": "Issuing tickets and regulating visitors"},
+    {"name": "Mahabalipuram Lighthouse", "station_id": "mahabalipuram-lighthouse", "kind": "lighthouse", "work": "Issuing tickets and regulating visitors"},
+    {"name": "Dhanuskodi Lighthouse", "station_id": "dhanushkodi-lighthouse", "kind": "lighthouse", "work": "Issuing tickets and regulating visitors"},
+    {"name": "Kanyakumari Lighthouse", "station_id": "kanyakumari-lighthouse", "kind": "lighthouse", "work": "Issuing tickets and regulating visitors"},
+    {"name": "Muttom Lighthouse", "station_id": "muttom-point-lighthouse-and-navtex-station", "kind": "lighthouse", "work": "Issuing tickets and regulating visitors"},
+    {"name": "Pamban Lighthouse", "station_id": "pamban-lighthouse", "kind": "lighthouse", "work": "Issuing tickets and regulating visitors"},
+    {"name": "Kilakkarai Lighthose", "station_id": "kilakkarai-lighthouse", "kind": "lighthouse", "work": "Issuing tickets and regulating visitors"}
+  ],
+  "scope": [
+    {"item": "Work contract for issuing tickets and regulating visitors at lighthouse stations, 01.09.2024 to 31.03.2025 (manpower numbers not given in this notice)", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 2881682.0,
+    "emd_inr": 58000.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost inclusive of 18% GST. EMD by DD/FDR of any scheduled/nationalized bank in favour of The Director of Lighthouses and Lightships, Chennai, payable at Chennai; original EMD by 23/08/2024 15:00. Performance bank guarantee mentioned (forfeiture for false documents) without amount."
+  },
+  "period": {"completion": "01.09.2024 to 31.03.2025", "bid_validity": "Validity of quoted rates 1 year", "warranty": null},
+  "dates": {"published": "2024-08-13", "pre_bid": "2024-08-20", "bid_submission_end": "2024-08-23", "bid_opening": "2024-08-26"},
+  "eligibility": [
+    "Firm registered with Central/State Govt. department/undertaking/autonomous body, with registered establishment/office in Tamilnadu/Puducherry",
+    "Valid labour licence, PAN, EPF/ESI registration and GST registration",
+    "Similar works for Central/State Govt./PSU in last seven years ending 31/03/2024: three works each >= 40% of estimate, or two >= 50%, or one >= 80%; similar work = providing manpower/labour/outsourcing contracts",
+    "Average annual financial turnover 40% of estimated cost for past three years ending 31/03/2024 (P&L and auditor's report)",
+    "Affidavit of not blacklisted; Income Tax returns for last three years; undertaking that bid is unconditional",
+    "Employee strength more than 20; key personnel with PF numbers",
+    "Declaration of no relatives employed in DGLL or MoPSW; certificate per Section VII; tender acceptance letter per Section IX"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Short Bid Notice Inviting e-Tender (Section I); letterhead reads 'Ministry of Shipping'. No file/reference number printed. Bid download and submission 14/08/2024 12:30 to 23/08/2024 15:00; technical bid opening 26/8/2024 10:00. Eligibility list numbering repeats (vii, viii). Hindi text layer garbled; English parallel."
+}

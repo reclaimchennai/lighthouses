@@ -1,0 +1,37 @@
+{
+  "nid": 1401,
+  "title": "Supply of Stepper Motor and Stepper Motor Controller for various Lighthouses at Chennai Directorate - Reg.",
+  "summary": "Notice inviting quotation for four 20 kg-cm and four 40 kg-cm stepper motors with matching controllers for lighthouses under the Chennai Directorate.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-01002(14)/4/2020-MNT-MD; I/47085/2023",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhawan, 5/20 Jaffar Syrang Street, Chennai"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Stepper Motor 20 kg.cm (shaft length 100 mm, shaft dia 12 mm)", "qty": "4", "unit": "Each", "site": null},
+    {"item": "Stepper Motor Controller 20 kg.cm (ON/OFF switch, direction switch, 0-35 RPM, 230V AC/50Hz with provision for 12V DC battery, step angle 1.8 deg full step +/-5% non-cumulative)", "qty": "4", "unit": "Each", "site": null},
+    {"item": "Stepper Motor 40 kg.cm (shaft length 100 mm, shaft dia 12 mm)", "qty": "4", "unit": "Each", "site": null},
+    {"item": "Stepper Motor Controller 40 kg.cm (same features as 20 kg.cm controller)", "qty": "4", "unit": "Each", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Prices inclusive of GST and transportation. 100% payment after receipt of items in good condition and testing. Quantities may be increased or decreased when placing purchase order."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": "Standard warranty one year against manufacturing defects"},
+  "dates": {"published": "2023-10-31", "pre_bid": null, "bid_submission_end": "2023-11-15", "bid_opening": "2023-11-15"},
+  "eligibility": ["Reputed firms or authorized dealer or agent"],
+  "specs": ["Stepper motors 20 kg.cm and 40 kg.cm, shaft 100 mm x 12 mm dia", "Controllers: 0-35 RPM, 230V AC 50Hz plus 12V DC battery supply, step angle 1.8 deg +/-5%"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Stepper Motor.pdf", "pages": 3, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Sealed quotations by 15.11.2023 15:00, opened same day 16:00. Delivery to Directorate office, 5/20 Jaffer Syrang Street, Chennai. OCR text layer garbled for Hindi and missed schedule quantities; pages 1 and 3 read from rendered images. Letterhead office e-mail is a gmail address."
+}

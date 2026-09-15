@@ -1,0 +1,43 @@
+{
+  "nid": 1654,
+  "title": "Construction of NA-II Twin Quarter at Pentakota Lighthouse station along with beautification of the station",
+  "summary": "Percentage-rate e-tender for constructing a NA-II twin staff quarter and beautifying Pentakota Lighthouse station, Anakapalli district, Andhra Pradesh, issued by the Directorate of Lighthouses and Lightships, Visakhapatnam.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MT-VSP-02002(04)/1/2024-Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Pentakota Lighthouse, Satyavaram (post), Anakapalli-531127", "station_id": "pentakota-lighthouse", "kind": "lighthouse", "work": "Construction of NA-II twin quarter and beautification of the station"}
+  ],
+  "scope": [
+    {"item": "Construction of NA-II Twin Quarter along with beautification of the station", "qty": null, "unit": null, "site": "Pentakota Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 8635752.0,
+    "emd_inr": 172800.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST and all other taxes. Tender fee Nil. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships, payable at Visakhapatnam, valid three months from technical bid opening. EMD expressly not exempted for any bidder (including NSIC/MSME) owing to past delays; EMD forfeited if timelines not followed."
+  },
+  "period": {"completion": "09 (Nine) months from commencement of work", "bid_validity": "90 days from the date of opening of tender", "warranty": null},
+  "dates": {"published": "2024-07-03", "pre_bid": "2024-07-11", "bid_submission_end": "2024-07-25", "bid_opening": "2024-07-26"},
+  "eligibility": [
+    "Valid civil registration in appropriate category & class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies, and valid electrical licence",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two >= 50%, or one >= 80%; supported by completion certificates; values enhanced at 7% simple per annum",
+    "Similar works: construction of residential/non-residential buildings, civil and electrical or composite (civil, electrical) works of any number of storeys",
+    "Average annual turnover of last three financial years at least 30% of estimated cost",
+    "PAN and GST registration; key technical personnel; unconditional tender undertaking (Annexure V); tender acceptance letter (Annexure IV); affidavit of not being blacklisted",
+    "Income tax returns for last three years; list of relatives serving in MoPSW/DGLL; activity chart/plan; self-assessing technical evaluation sheet"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled (font mojibake); English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "Extract of Section I (printed pages 3-7 of a 98-page tender document); no BOQ or drawings. Download/submission 04.07.2024 12:00 to 25.07.2024 15:00; pre-bid 11.07.2024 11:00; opening 26.07.2024 15:00. Heavy vehicles permitted to site; damage to pathway tiles/paver blocks/plants to be repaired by contractor. No time extension for document submission. Office e-mail dte-visha@nic.in."
+}

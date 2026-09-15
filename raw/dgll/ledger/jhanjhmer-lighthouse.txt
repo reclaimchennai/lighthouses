@@ -1,0 +1,165 @@
+        मास्टर लेजर/MASTER LEDGER
+                            जज
+                             ां मेर दीपस्तांभ/ ZHANJHMER Lighthouse
+
+क्रमसंख्या/             नाम /Name
+                                                                         वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 0442
+     2        स्थान/Position                     Lat : 21º 10.8’N        Long : 72º 03.7’E
+    3         ऊंचाई/Elevation                    45 M (Above MSL)
+    4         अभिलक्षण/Characteristic            Fl(1)W10 Sec. (1+9=10 Sec)
+    5         नॉटिकलमाइलमेदरू ी                  16 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                          Masonary square room with RCC
+                                                                               slab.
+                                                 Height                        4.7M
+                                                 Colour Scheme                 White
+    7         ऑप्टिकलउपकरण                       Optic
+              Optical equipment                  Make                          Sealite make SL155 LED(Ever on)
+                                                 Type                          --
+                                                 Size                          --
+                                                 No. of lens
+                                                 Area of dioptric portion
+                                                 Area of catadioptricportion
+                                                 Divergence                    2º17.45’ (Vertical)
+                                                 Main/Emergency
+                                                 Duration of Flash             1 Sec
+                                                 Main /Standby/Emergency
+                                                 Pedestal                      G.I.pedestal
+                                                 Rotation Device               --
+                                                 R.P.M.                        --
+                                                 Illumining                    12V/60W led lamp
+                                                 Main                          --
+                                                 Standby                       --
+                                                 Emergency:                    --
+                                                 Date of Installation
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                          20,000 Candela
+              intensity                          Emergency
+    9         लेंिनन/Lantern                     Diameter                      1.5meter
+                                                 Height of glazing
+                                                 No. of panes
+                                                 Ventilators
+     10   RACON                                   Sr. No
+          Make                Model           Code                            Band                       Date of
+                                                                                                         Installation
+
+     11   NAIS –NA
+          Base Station
+
+          Model               Type            Power                           MMSI
+
+          Communication
+          Equipment
+          VSAT Antenna        Band            Modem
+
+          DGPS
+          Transmitter Make    Frequency       Power Output RS 1 ID            RS -II      Beacon         Date of      Dat
+                                                                              ID          ID             commis       e of
+                                                                                                                      Re
+                                                                                                         sioning      cap
+                                                                                                                      itali
+                                                                                                                      zati
+                                                                                                                      on
+
+
+
+     12   ऊर्ानकेसाधन/Sour    Mains                                           230V/1-phase/50 Hz
+                              Power Source
+          ce of energy        Engine 1
+                              Make/Type                    Qty       Rating   No of            RPM              Cooling
+                                                                              Cylinder
+
+                              Alternator
+                              Make/Type                    Qty       Rating   Voltage/Amp      Frequency        Phase
+
+
+                              Solar Plant
+                              Capacity PV                  Numbers            Type       Battery                Bank
+                              12V/70W                      02                 TATA       Okaya make (smf)
+                                                                              BP
+                              Solar Plant for Main RACON
+                              Capacity PV                  Numbers            Type       Battery                Bank
+
+
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make               Model            Capa         Input              Output               Phase        Qty
+                             N/A
+14        बैिरर
+          Batteries
+          Equipment          Type             Make          Volt              Amp/       Qty
+                                                                              Hr
+          PSS NAIS                   -            -                  -           -                   -
+          Genset
+     Automation
+     DGPS
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make               Mode Type                            Ratin     Qty
+                                             l                                    g
+     General Purpose      Aplab-L3220        --   --                              20        01
+                                                                                  Amp
+     Automation                               ---             ----                  --
+16   इांवर्ट रInverter /UPS
+     Equipmen Nos Make               Model                     Type               Rating         Qty input     out
+     t                                                                                                         put
+     Main              ---  ---                 ---                  ---              ---         ---    ---    ---
+     Light
+     NAIS PSS
+     DGPS
+
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE       PLC                 HMI             Power Supply           VSAT             Modem       Band
+
+18   आप्ननशमनउपकरण                           Type of Extinguisher          Capacity              Nos    Make
+     Fire Fighting Equipment                 ABC Type                      4 kg                  3
+                                             Water Co2                     -                     -
+                                             Foam Type                     -                     -
+19   संचार                                   Not Available
+     Communication
+20   र्लपूर्तन                               Two RCC rain water tanks each 12500 liters capacity are
+                                             provided.                              electric pump
+     Water Supply
+                                             provided for rain water.
+21   िूभम                                    Area
+     Land                                    Demarcation
+
+22   इमारतें
+     Buildings                                                                              Two quarters for LHA
+
+
+
+23   कंपाउं डलाइि                            05 Nos Solar LED street
+     Compound Lights                         Light
+
+
+                                                        Gate lights – 2
+                                             Nos. 10 Nos Solar LED
+                                             street Light
+24   सीसीिीिीकमेरा                   Camera
+      CCTV CAMERA                    DVR
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1             LHA-1
+
+26   पहुँचनेकामाध्यम                 By Train up to Bhavnagar , Then 70Km by road up to
+                                     Zanzmer and then 500ms by walk(rocky hill) to Lighthouse
+     Mode of approach
+27   उपलब्धसविधाए                    Police Station, Dispensary and Highschool at Talaja 25 km
+                                     from Lighthouse , Post office at Pithalpur 05Km from
+     Facilities available
+                                     Lighthouse
+
+
+
+28   डाकपताPostal address            Directorate of lighthouse & lightships,
+                                     Zanzmer lighthouse,
+                                     P.O. Zanzmer ,Via- Pithalpur
+                                     Dist: Bhavnagar-364135
+29   मल्ू यकाब्योराCost details      N/A
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          1870
+     Date of commissioning
+

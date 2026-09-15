@@ -1,0 +1,32 @@
+{
+  "nid": 1700,
+  "title": "Special Repairs and civil maintenance to the Lighthouse tower, allied buildings and compound wall and increasing the height of compound wall at Passipattinam Lighthouse",
+  "summary": "Corrigendum from the Directorate of Lighthouses and Lightships, Chennai extending the bid deadline for the e-tender on special repairs and civil maintenance of the lighthouse tower, allied buildings and compound wall (including raising the wall) at Passipattinam Lighthouse.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(16)/1/2020-Civil Maintenance; 2024_DGLL_811901_2",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Passipattinam Lighthouse", "station_id": "passipattinam-lighthouse", "kind": "lighthouse", "work": "Special repairs and civil maintenance of tower, allied buildings, compound wall; increasing compound wall height"}
+  ],
+  "scope": [
+    {"item": "Special Repairs and civil maintenance to the Lighthouse tower, allied buildings and compound wall and increasing the height of compound wall", "qty": null, "unit": null, "site": "Passipattinam Lighthouse"}
+  ],
+  "money": {"estimated_cost_inr": null, "emd_inr": null, "tender_fee_inr": null, "performance_security": null, "notes": null},
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": "2024-08-05", "bid_opening": "2024-08-06"},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-07-23", "change": "Extension of last date: bid document download and online submission extended up to 05.08.2024 15:00; bid opening 06.08.2024 15:00. All other terms unchanged."}
+  ],
+  "documents": [
+    {"file": "EXTPassiCM24.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled"]}
+  ],
+  "confidence": "medium",
+  "notes": "Only the date-extension corrigendum is attached; the original NIT (estimated cost, EMD, eligibility) is not included."
+}

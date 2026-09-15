@@ -1,0 +1,50 @@
+{
+  "nid": 1590,
+  "title": "Supply, Installation, Testing and Commissioning of Integrated Video Conferencing End Point at Deep Bhavan, Goa office.",
+  "summary": "GeM bid for one video conferencing end point with integrated 4K display, supplied, installed and commissioned at the Deep Bhavan office of the Goa Directorate, Bambolim.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2024/B/4892884",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Goa"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, Near GMC Stadium, Bambolim, North Goa", "station_id": null, "kind": "office", "work": "Supply, installation, testing and commissioning of integrated video conferencing end point"}
+  ],
+  "scope": [
+    {"item": "Video Conferencing End Point With Integrated Display", "qty": "1", "unit": "pieces", "site": "Deep Bhavan, Goa"}
+  ],
+  "money": {
+    "estimated_cost_inr": 675000.0,
+    "emd_inr": 15000.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 38 months",
+    "notes": "Estimated bid value per GeM. EMD exemption per GeM GTC for eligible MSE manufacturers/startups. Advisory bank State Bank of India; beneficiary Director, Directorate of Lighthouses and Lightships Goa. MII and MSE purchase preference apply."
+  },
+  "period": {"completion": "30 days delivery", "bid_validity": "90 days from bid end date", "warranty": "3 years from final acceptance / installation (on-site OEM warranty 3 or 5 years or higher)"},
+  "dates": {"published": "2024-05-14", "pre_bid": "2024-05-22", "bid_submission_end": "2024-05-24", "bid_opening": "2024-05-24"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 3 lakh",
+    "OEM average turnover (last 3 years): Rs 25 lakh",
+    "3 years past experience in same/similar products; MSE and startup exemption for experience and turnover",
+    "Past performance: supplied 30% of bid quantity in one of last three financial years to Govt/PSU/listed company",
+    "Past project experience in preceding 3 FYs: one order >= 35%, or two >= 20% each, or three >= 15% each of estimated bid value",
+    "OEM authorisation certificate; OEM net worth positive; BoQ specification compliance",
+    "Only Class-I and Class-II local suppliers (min 50% / 20% local content)",
+    "Two packet bid; total value wise evaluation; no reverse auction"
+  ],
+  "specs": [
+    "OEM integrated display, single/dual, LED backlit LCD, 55/65/70/85 inch or higher, 4K resolution",
+    "Point-to-point upgradable end point; 4K 30/60 fps video; PTZ or non-PTZ camera with automatic voice-activated/face detection/preset positioning",
+    "Content sharing 4K 30/60 fps; 8 or more microphones supported and supplied; integrated Wi-Fi; 1080p recording on end point",
+    "Additional item specifications as per buyer ATC document (not included in this file)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM-Bidding-6346850 (2).pdf", "pages": 8, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Standard GeM bid document with generic GeM clauses (option clause, MII/MSE, GTC). The buyer-uploaded ATC with detailed item specifications is referenced but not attached. Consignee officer named in the bid omitted (personal name). Delivery address printed as 'Directorate of Ligthouses and Lightships, Deep Bhavan, Near GMC stadium, Bambolim, North Goa-403202'."
+}

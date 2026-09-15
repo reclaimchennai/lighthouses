@@ -1,0 +1,201 @@
+                  Ramayapatnam Lighthouse
+                        Estd.1982
+                      VISAKHAPATNAM DIRECTORATE
+                            MASTER LEDGER
+
+1. Name                   : RAMAYAPATNAM LIGHTHOUSE
+     Sr.No.
+2.                        : 0952.5
+     (as per A.L.O.L)
+                            Lat: 15 o 02.45” N
+3. Position               :
+                            Long: 80 o 03.00’ E
+4. Elevation              : 35.29 Mtr. above MSL
+
+5. Characteristic         : Single Flash every 10 Sec.
+
+
+6.   Range in nautical miles
+        i)     Luminous          : 21.7 NM (T 0.74)
+        ii)   Geographical       : 16.5 NM
+7.   Lighthouse Tower
+        i)     Type              : Hexagonal Concrete Tower
+        ii)    Height            : 30 Mtr.
+        iii)   Colour
+                                 : Red and White bands
+               Scheme
+
+8. Optical Equipment
+a)   i)     Make               : Mediterraneo Senalels Maritimas, Spain
+        ii)    Type            : MBR- 300 Marine Rotating Beacon
+        iii)   Sl.No.          : 061
+        iv)    No. of
+                               : 6 Panels (with Dioptric and Catadioptric Prisms)
+               Panels
+        v)     Focal length    : 105 mm
+
+b) Pedestal                    : Made of M.S.Angle with M.S. plate.
+d) Rotation Speed              : 1 RPM
+e) Illuminant
+        i)      Main/Service : 150 W, 220V MH Lamp
+
+f)   Effective Beam Intensity
+       i)    Main/Service : 2, 21,000 cds.
+9.   Lantern
+         i)     Diameter            : 3.50 Mtr.
+         ii)    Height of glazing   : 2.90 Mtr.
+         iii)   No. of panes        : 36 (12 x 3)
+       iv)   Ventilators            : 11 Nos.
+10. Energy Source
+         A) APCPDCL Mains           : 3phase 440V supply
+                                      0.48KW off grid solar power plant for main
+         B) Green Energy            :
+                                      light
+         i)     Solar panels        : 6 No 12V/80W( TATA B.P make)
+                                      6 No 2V /900AH (EXIDE Tubular Lead Acid)
+         ii)    Battery Bank        :
+                                      Installed on – 06/09/2018
+         iii)   PCU / UPS           : Make – Numeric, 1KVA /12V UPS
+      iv)     Date of installation : 20/01/2011
+11. Details of Diesel Engine Generator
+      Make                         : Kirloskar
+        Frame                       :   HA294SR III
+
+        Engine No.                  :   02.2129/1320079
+
+        Model No.                   : KG15AS4 (Canopy)
+        H.P.                        : 20.5
+        No. of Cylinders            : 2 Nos.
+        RPM                         : 1500
+        Cooling                     : Air Cooling
+12. Diesel Engine Alternator
+      Make                          : Kirloskar
+        Frame                       :   CSIB013D1415-H
+
+        KVA                         : 15
+        Voltage                     : 230 V
+      Frequency                    : 50 Hz
+      Phase                        : Single
+      RPM                          : 1500
+    Automatic Voltage
+13.                                : 1 No.
+    Stabilizer
+      Make                         : Supra-hi-tech
+      Model                        : SH-3120
+      Capacity                     : 12 KVA, 3 Phase
+      Input                        : 330-470 V
+      Output                       :     415 V
+14. AMF Panel
+     Make                          : Elect India
+      Model                        : EMF15KM3G1-ICFTDM02
+      Capacity                     : 15 KVA, 3 phase 25A
+15. NAIS Equipment
+     Make                          : M/s SAAB
+      AIS R40 Base Station         : Sl.No.5308
+      AIS R40 Base Station         : Sl.No 5295
+              (Connected with Cisco switch and HT-2300 Satellite modem.)
+      V- SAT Dish Size             : 2.4 Mtrs. dia
+      VHF Antenna                  : 2 Nos.
+      GPS Antenna                  : 2 Nos.
+      Date of Commissioning        : 20/12/2012
+16. Automation of Lighthouse.
+     Make                          : M/s Recktronic Devices & Systems, Pune.
+     RDS Panel                     : 1No. in power house. (S.No.1609)
+     RDS Panel                     : 1No. Service room. (S.No.1602)
+     VSAT Antenna                  : 1.2 Mtr. dia
+     Re configuration done on      : 11/01/2017
+     Date of commissioning         : 28/10/2013
+17. RACON
+      Make                         : Tideland signal Corp., U.S.A.
+      Input Voltage                : 9 to 36 Volts D.C.
+      RACON Sl.No.                 : 6166
+      Morse Code                   : K
+      Date of Commissioning        : 09-12-2004
+                                     Make : Tata Bp Solar India Limited.,
+      Solar Panel                  : Model No : TBP1270
+                                     Nominal peak power : 70 Watt
+      Peak power Voltage (ImV)     : 17 V
+      Peak power Voltage (ImV)     : 4.11 Amps
+      Quantity                     :     1 No.
+18. Batteries
+     For RACON
+      Type                        : Tubular, Exide Powersafe Plus
+      Capacity                    : 12V, 100AH
+      Quantity                    : 1 No.
+      Installation date           : 12/08/2022
+     For D.G.Set
+      Type                        : Exide Express
+      Capacity                    : 12V, 100AH
+      Quantity                    : 1 No.
+      Installation date           : 17/01/2022
+19. Battery Charger               : 1 No.
+      Make                        : Associate Engineers, Madras
+      Input                       : 230 ± 10 % Volts, Single phase, 50Hz
+      Output                      : 0-30 Volts D.C
+      Current                     : 15A
+20. Firefighting equipment
+                                1. D.C.P type (4, 6 & 9 kg Capacity) – 1 No. Each
+       i)      Fire
+                              : 2. Foam Type 9 Ltr - 1 No.
+               Extinguisher
+                                3. CO2 3 Kg Capacity       - 1 No.
+       ii)     Fire Buckets   : 4 Nos.
+                                21 Nos. G.I. Poles with 25 watt LED Lights,
+21. Street Lights             : 2 Nos. Gate Lights, 5Nos. lights on compound
+                                wall mounted.
+                                  i) Pump House provided with a 1 H.P. Mono
+                                      block pump Single phase supply, 230Volts.
+22. Water Supply              :
+                                  ii) Water sump provided for collection of
+                                      Panchayat Water
+23. Land
+     i) Area                  :     1.935 ctares
+                                  Masonry Compound wall
+     ii) Demarcation          :
+
+                                 Coconut trees – 20 Nos.
+     iii)No. of fruit trees   :
+                                 Palm tree – 6 Nos.
+                                 Neem trees – 176 Nos.
+     iv)No. of non- fruit
+                               : Casurina trees-10 Nos.
+        bearing Trees
+                                 Udaya trees -2 Nos.
+                                     1. Power house (office, Store, recreation and
+                                         generator room)
+                                     2. 1 Unit of Inspection quarter
+                                     3. 1 Unit of NA I Quarter
+24. Buildings                  :
+                                     4. 2 Units of Navigational Assistant Qtr.
+                                     5. 1 Twin Unit of LHA Quarter
+                                     6. 1 No. Pump house.
+                                     7. 1 No. Security Cabin
+                                    i.      NA-I - 1 No. (Vacant)
+                                    ii.     NA-II - 2 No.
+25. Staff                     :
+                                    iii.    LHA - 1 No.
+                                    iv.     Field Assistant – 3 Nos. (outsourced)
+                                 By rail up to Kavali & then by road upto 18 Kms
+26. Mode of approach          : from Kavali to Tettu, then 6 Kms from Tettu to
+                                 Ramayapatnam LH
+27. Facilities available          :      a) Post Office within ½ km (Ramayapatnam)
+                                      b) Govt. Hospital within 25 km (Kavali)
+                                      c) Govt. School within 1 km (Ramayapatnam)
+                                      d) Nationalized Bank within 25 km (Kavali)
+                                      e) Police Station – 20 Kms. (Ulavapadu)
+28. Postal Address               : The Navigational Assistant Gr-I,
+                                   Ramayapatnam Lighthouse, Ramayapatnam(Post)
+                                   Ulavapadu (Mandal),
+                                   Dist. Prakasam, Andhra Pradesh,
+                                   Pin: 523 291
+29. Communication Facility       : E-Mail: ramayapatnam-vizag@dgll.nic.in
+30.   Cost Details
+
+          i) Construction              : Rs. 13,82,867/-
+       iii)  Cost of equipment         : Rs. 6,14,826/-
+31. Date of Commissioning              : 26-06-1982
+
+       Subsequent Innovations
+32.                              : 1996, 2010, 2015.
+       (1st)
+

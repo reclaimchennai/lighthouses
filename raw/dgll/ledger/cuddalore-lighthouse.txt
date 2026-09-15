@@ -1,0 +1,159 @@
+                             मास्टर लेज़र/MASTER LEDGER
+
+                                             कडलोर दीपस्तम्भ
+                                          CUDDALORE LIGHTHOUSE
+
+क्रमसंख्या/ Sr.No             नाम / Name                                     वििरण / Description
+       1            ए.एल.ओ.एल/A.L.O.L.            F 0910
+                    स्थान/Position                Lat.11° 42.21’ N
+       2
+                                                  Long. 79° 46.36’ E
+       3            ऊंचाई/Elevation               19M
+       4            अविलक्षण/Characteristic       WHITE FLASH EVERY 5 SECS (FL 2.0 + EC 3.0)
+                    नॉविकलमाइलमेदूरी
+       5                                          12 NM
+                    Range in Nautical miles
+                    दीपस्तं ििािर/L.H.Tower       Type                           CIRCULAR RCC Tower
+       6                                          Height                         19 M
+                                                  Colour Scheme                  White
+                                                  Optic                          -
+                    ऑविकलउपकरण                    Make                           LMV, SPAIN
+                    Optical equipment             Type                           LED FLASHER
+                                                  Size                           -
+                                                  No. of panels                  -
+                                                  Area of dioptric portion       -
+                                                  Area of catadioptric portion   -
+                                                  Divergence
+                                                  Main/Emergency                 -
+       7                                          Duration of Flash
+                                                                                 -
+                                                  Main /Standby/Emergency
+                                                  Pedestal                       -
+                                                  Rotation Device                -
+                                                  R.P.M.                         -
+                                                  Illuminant                     LED FLASHER
+                                                  Main                           -
+                                                  Standby                        -
+                                                  Emergency:                     -
+                                                  Date of Installation           2014
+                    प्रिािीबीमतीव्रता/Effective   Main                           -
+       8            beam intensity                Emergency                      -
+                    लेंिनन/Lantern                Diameter                       2m
+                                                  Height of glazing              1.2 m
+       9
+                                                  No. of panes                   8
+                                                  Ventilators                    Yes – 4 nos.
+       10           RACON                         NA
+     Make                          Model                                                                         Date of
+                                              Code                                  Band
+                                                                                                                 Installation
+     -                             -          -                                     -                            -
+11   NAIS
+     Make                                     -
+     Base Station                             -
+     DGPS                                     -
+                                                                                                                                    Date
+                                                                                                                                    of
+                                                                                                                 Date of
+                                   Frequ                             RS 1                                                           Rec
+     Transmitter Make                         Power Output                          RS -II ID                    commissio
+                                   ency                              ID                                                             apita
+                                                                                                                 ning               lizati
+                                                                                                                                    on
+     -                             -          -                      -              -                    -       -                  -
+
+     ऊर्ान केसाधन/                 Mains                                            State Electricity Board, Tamilnadu
+     Source of energy
+12                                 Emergency                                        -
+                                   Stand by                                         UPS
+                                   Diesel Generator
+                                                                                             No. of                             Coolin
+                                   Make              Qty                 Rating                              RPM
+                                                                                             Cylinder                           g
+                                   -                 -                   -                   -               -                  -
+                                   Solar Plant
+                                                                                                                                No. of
+                                                     No. of
+                                   Capacity                              Type                Inverter        Battery            Batte
+                                                     Panels
+                                                                                                                                ries
+                                   400 w             4                   Off-Grid            -               12 V 150 AH        4
+     स्वचावलतिोल्टे र्स्टे बलाइर्र
+     Automatic Voltage Stabilizers
+13
+     Make                 Model               Capacity Input                        Output              Phase            Qty
+     GLOBUS                                   5KVA     170-270 V                    230V                1                1 NO.
+     बै िरर
+     Batteries
+     Equipment                 Type           Make            Volt                  Amp/Hr               Qty
+14
+     MAIN LIGHT/
+                               -
+     STEPPER MOTOR
+     DGPS                      -
+
+     बै टरिचार्जि/ Battery charger
+     Equipment                 Make           Model        Type                     Rating               Qty
+15
+     General Purpose           AE             -            -                        0-40V 20 A           1
+     Automation                -              -            -                        -                    -
+16   इं वटज िInverter /UPS
+     Equipmen        Nos        Make                             Typ
+     t                                 Model                            Rating      Qty   input           Output
+                                                                 e
+     Main Light      2          -
+     NAIS PSS        -          -
+                     01         -
+     DGPS
+                     01         -
+     स्वचलनउपकिण
+     Automation Equipment
+17
+     MAKE       PLC                  HMI         Power Supply      VSAT          Modem      Band
+     -          -                    -           -                 -             -          -
+     आविशमनउपकरण                           Type of
+                                                          Capacity                Nos     Make
+     Fire Fighting Equipment               Extinguisher
+18
+                                           DCP Type                -
+                                           Co2 FOAM                -
+     सं चार
+19                                         -
+     Communication
+     र्लपूवतन
+20                                         Sump Available for storage of water
+     Water Supply
+     िू वम                                 Area                                           11 CENTS
+21   Land
+                                           Demarcation                                    Compound Wall
+     इमारतें
+                                                    -
+22   Buildings
+
+     कंपाउं डलाइि                          7 nos. street light
+23   Compound Lights                       2 nos. main gate light
+     सीसीिीिीकमेरा                         4 channal DVR Make Dahua
+24   CCTV CAMERA                           4 nos. HD Camera Make Dahua
+     स्टाफ                                 Sl. No          Designations
+     Staff
+25                                         1               Outsourcing staff
+
+     पहुँ चनेकामाध्यम
+26                                         By Bus and Auto
+     Mode of approach
+     उपलब्धसु विधाए                        General Hospital at 10.5 Km,
+     Facilities available                  Post Office at 6 Km,
+27                                         High School/Colleges at 12 Km
+                                           Railway Station at 3 Km
+                                           Bus Stand at 4 Km
+     डाकपताPostal address                  The Asst. Engineer (E),
+                                           Cuddalore Lighthouse,
+28                                         Cuddalore Old Town,
+                                           Cuddalore – 607003
+     मूल्यकाब्योराCost details
+29                                         -
+     (At the time of Construction)
+     प्रितन नमेलानेकादे नां क
+30                                         27-2-1991
+     Date of commissioning
+

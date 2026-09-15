@@ -1,0 +1,164 @@
+                         Pudimadaka Lighthouse
+                              Estd.1971
+                                 MASTER LEDGER
+
+1. Name                      : PUDIMADAKA LIGHTHOUSE
+     Sr.No.
+2.                           : 0968
+     (as per A.L.O.L)
+                                 Lat: 17' 29.3" N
+3. Position                  :
+                                 Long: 83' 00.3" E
+4. Elevation                 :       35 Mtr
+                                 Fl. (2) W 15 Sec.
+5. Characteristic
+                                 (0.4+ 3.4 +0.4 +10.8 =15 sec.)
+6. Range in nautical miles
+        i)        Luminous       :     20 candelas
+        ii)       Geographical : 16.5 NM
+     Lighthouse Tower
+7.
+        i)        Type           : Square Masonry
+        ii) Height               :     26 Mtr
+        iii)Colour
+                                 : Red &white band
+            Scheme
+8. Optical Equipment
+a)   i. Make                     : B.B.T
+        i. Size                  : 300 mm (4th order Large) revolving
+       ii. Focal distance        : 300 MM
+      iii. No. of Panels         : 4 Nos.
+      iv. Area of dioptric
+                                 : 1125 sq cm. (corrected area 2651 sq. cm)
+            portion
+       v. Area of
+            catadioptric         : -
+            portion
+      vi. Divergence
+           Main                  : Horizontal 4 0 35', Vertical 3 0 26.3'
+              Standby            : NIL
+              Emergency          : NIL
+     vii. Duration of flash
+          Main/ Standby          : 0.38 sec. - 0.4 sec.
+              Emergency          : NIL
+
+b) Pedestal                      : Mercury Float (42.5 Kg in use)
+   Rotation Device               : Twin Stepper motor Direct Drive system.
+c)                                 i)Stepper motor :2 No 20Kg-cm (unique make)
+                                   ii) Controller: 2No 20Kg-Cm (unique make)
+d) Rotation Speed                : 2 RPM
+e) Illuminant
+        i)       Main/Service :     70 Metal halide lamp 3 nos. (cluster)
+        ii)      Standby      : Nil
+        iii)   Emergency     : Nil
+f)   Effective Beam Intensity
+        i)       Main/Service : 4,38,480 cds.
+        ii)      Standby      : Nil
+        iii)     Emergency       : Nil
+
+9. Lantern
+        i)       Diameter     : 2.5 Mtr
+        ii)      Height of
+                              : 1.3 Mtr
+                 glazing
+        iii)     No. of panes :    20 Nos.
+        iv)      Ventilators  :    9 Nos.
+
+
+10. Energy Source
+         A) APEPDCL Mains : Single phase 230V supply.
+        B) Green Energy   : 1.36KW off grid solar power plant for main light.
+         i)       Solar panels   :       8 Nos. 24V/170W(TATA B.P make)
+         ii)      Battery
+                                 : 12Nos. 2V /500Ah (Exide SMF)
+                  Bank
+         iii)     PCU            : TATA B.P Make 1KVA /24V
+11.   Diesel Engine Generators
+        Make                         : Kirloskar
+        Model                        : KG15AS4 (Canopy)
+        Rating                       : 15KVA
+        Frequency                    : 50 HZ
+        Phase                        : single phase
+        RPM                          : 1500
+
+12. Automatic Voltage            : 1 No.
+    Stabilizers
+      Make                       : supra- hitech
+       Model                     : SH-1100
+       Capacity                  : 10 KVA
+       Input                     : 170-270 V
+       Output                    :       230
+13.   Automation of Lighthouse.
+         i)       Make               : M/s Recktronic Devices & Systems, Pune.
+         ii)      RDS Panel          : 1No in power house.( S.No. 102946355)
+         iii)   RDS Panel            : 1No Service room.( S.No. 102940476)
+         iv)    V-SAT Dish
+                                     : 1.2 Mtr dia
+                Size
+         v)     Date of
+                commissioning        : 21/02/2013
+14.   Street Lights                  : 10Nos. 25W LED Street lights with GI poles
+15.   Firefighting equipment
+      Fire Extinguishers
+          i)      D.C.P. type
+                                     :       1 No.
+         (5kg Capacity)
+          ii)     Foam type
+                                     : Nil
+           (9 litres capacity)
+         iii)     Fire Buckets       : Nil
+                                          A.E.(E), Dolphin Nose LH
+16.    Communication Facility           : Telephone No. 0891-2973441
+                                          e-mail : dolphsnosedgps@gmail.com
+
+                                        i) Open well with 1 HP pump & 500 Ltrs. O.H.
+17.    Water Supply                :
+                                          Tank
+
+18.    Land
+           i)        Area          : 4.4 Acres (approx.)
+           ii)   Demarcation : Masonry Compound wall
+           iii)  No. of fruit
+                               :    20 Nos.
+                 trees
+          iv)    No.of non
+                 fruit bearing :    2 Nos.
+                 Trees
+                                 2 Nos. (Single unit of Inspection Quarter cum LHA
+19.    Buildings               :
+                                 quarter & Cylinder room)
+
+20.    Staff                       :      L.H.A.
+21.    Mode of approach            : Up to Anakapalli by rail then 26 km. by road.
+
+
+22.    Facilities available        :       a) Police station, Atchuthapuram within 10 km
+                                           b) Govt. Hospital within 10 km
+                                              (Atchuthapuram)
+                                           c) Govt. School within 10 km (Atchuthapuram)
+                                           d) Nationalized Bank within 1
+                                              km(Pudimadaka)
+        Postal Address                 : Lighthouse Attendant,
+23.
+                                         Pudimadaka Lighthouse,
+                                         P.O. Pudimadaka, Via. Achutapuram
+                                         Andhra Pradesh, PIN 531011.
+                                         Andhra Pradesh, Pin: 535 204.
+24.   Cost Details
+
+          i.         Construction : Rs. 3,02,495.00
+        ii.    Cost of
+                           : Rs. 7,75,000.00
+               equipment
+    Year of first Light
+25.                        : 1971
+    Commissioned
+
+      Date of
+26.                        : 21-01-1971
+      Commissioning
+
+      Subsequent
+27.                        : 1991, 2002, 2008
+      Innovation
+

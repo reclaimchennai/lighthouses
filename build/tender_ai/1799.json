@@ -1,0 +1,40 @@
+{
+  "nid": 1799,
+  "title": "Conducting Topography survey at North point Island Lighthouse station in North Bay, A & N islands.",
+  "summary": "E-tender (percentage rate, two-cover) for conducting a topography survey at North Point Lighthouse station, North Bay, Andaman & Nicobar Islands (Sri Vijaya Puram / Port Blair Directorate).",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-01004/1/2022-CM-PB",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "North Point Lighthouse station, North Bay", "station_id": "north-point-lighthouse", "kind": "lighthouse", "work": "Topography survey"}
+  ],
+  "scope": [
+    {"item": "Conducting Topography survey at North Point Island Lighthouse station", "qty": null, "unit": null, "site": "North Point Lighthouse, North Bay"}
+  ],
+  "money": {
+    "estimated_cost_inr": 493013.0,
+    "emd_inr": 9860.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by Deposit at Call Receipt/FDR of any nationalised bank (Hindi: FDR or bank guarantee) in favour of Director of Lighthouses and Lightships, Sri Vijaya Puram, payable at Sri Vijaya Puram; valid 06 months from technical bid opening; originals with technical documents by post or in person; MSME/NSIC registration for similar work eligible for EMD exemption. Bid document free of cost in English table; Hindi table says 'shulk' (fee) without amount."
+  },
+  "period": {"completion": "45 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-12-02", "pre_bid": "2024-12-09", "bid_submission_end": "2024-12-23", "bid_opening": "2024-12-24"},
+  "eligibility": [
+    "Eligible experienced civil contractors with successful completion of similar work of 'Conducting Topography survey in remote island of Andaman & Nicobar Island' with Government organisations and no adverse remarks",
+    "Detailed eligibility as per Section-III clause 3.1 (not included)",
+    "Near relatives posted as accountant or gazetted officer in DGLL/MoPSW bar participation (standard clause)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 6, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only, Hindi (pp.1-3) and English (pp.4-6); no scope details or BOQ. Bid download/submission 02.12.2024 18:00 to 23.12.2024 15:00; technical bid opening 24.12.2024 15:00 subject to internet availability; original EMD by 23.12.2024 15:00."
+}

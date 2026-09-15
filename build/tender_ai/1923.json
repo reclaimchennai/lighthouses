@@ -1,0 +1,47 @@
+{
+  "nid": 1923,
+  "title": "Providing Aluminium partition wall to back veranda of staff quarters & Inspection Quarters at Mount Dilli Lighthouse",
+  "summary": "Sealed tender for powder-coated aluminium partition walls with doors and glazed windows on the back verandahs of staff quarters and the inspection quarter at Mount Dilli Lighthouse (Ezhimala, Kerala), plus aluminium anti-rodent angles on shutters.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "offline",
+    "reference": "MS-Coc-18002/1/2020-MS; I/79327/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mount Dilli Lighthouse, Ezhimala, Payyannoor", "station_id": "mount-dilli-lighthouse", "kind": "lighthouse", "work": "Aluminium partition walls to back verandahs of Inspection Quarter, LHA twin quarters, NA-I quarter and NA-II twin quarters; aluminium angles on shutters"}
+  ],
+  "scope": [
+    {"item": "Demolishing R.C.C. work manually/by mechanical means incl. stacking steel bars and disposal within 50 m lead", "qty": "0.50", "unit": "Cum", "site": "Mount Dilli Lighthouse"},
+    {"item": "12 mm cement plaster 1:3 finished with floating coat of neat cement", "qty": "4.00", "unit": "Sqm", "site": "Mount Dilli Lighthouse"},
+    {"item": "Providing and fixing powder coated heavy gauge aluminium partition wall partially panelled with 4mm ACP sheet, sliding glazed and mosquito net windows, aluminium door with frame, shutter, handle, lock, 4mm float glass", "qty": "33.00", "unit": "Sqm", "site": "Mount Dilli Lighthouse"},
+    {"item": "Providing and fixing aluminium angle 30x30x2mm (0.313 kg/m) to bottom of wooden window/door/cupboard shutters of staff quarters/IQ/office to prevent entry of snakes/rats", "qty": "48.00", "unit": "Each", "site": "Mount Dilli Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 226717.61,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "5% of the quoted amount, by DD/FDR in favour of Director of Lighthouses and Lightships, Cochin, payable at Ernakulam",
+    "notes": "Estimate is the total of the schedule of work (rates: Rs 4,115.19/cum demolition; Rs 509/sqm plaster; Rs 5,808/sqm partition; Rs 645 each angle). Bidders quote percentage below/above, inclusive of GST. No EMD stated. Payment on measured quantities; no escalation."
+  },
+  "period": {"completion": "01 month from the date of issue of work order", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-06-13", "pre_bid": null, "bid_submission_end": "2025-06-26", "bid_opening": null},
+  "eligibility": [
+    "Copy of PAN card and bank account details",
+    "L1 decided on lowest amount quoted (percentage rate on Annexure-I schedule)"
+  ],
+  "specs": [
+    "Powder coated heavy gauge aluminium partition: 92x31.5mm 3-track and vertical/horizontal sections, 4mm ACP sheet panels, sliding glazed window with mosquito net (3 track), door with glass top and ACP bottom",
+    "All door fittings aluminium: 3 hinges, 2 tower bolts, 1 door stopper, inside and outside lock",
+    "Partition widths per drawings: Inspection Quarter back verandah 2.40 m (height 150 cm); LHA twin quarters 2 x 2.80 m (230 cm); NA-I quarter 4.20 m (250 cm); NA-II twin quarters 2 x 2.30 m (240 cm)",
+    "Existing concrete jally at Inspection Quarter back verandah to be demolished"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_0.pdf", "pages": 12, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Pages 1-6 text (NIT, Annexure-II terms, Annexure-I schedule); pages 7-12 are image-only scanned drawings dated 21.03.2025 (quarter plans and aluminium partition elevations), read visually. Blank forms issued 16.06.2025 to 25.06.2025 from Directorate Kochi or Station in charge; sealed tenders by 26.06.2025 15:00. No opening date printed (listing gives 2025-06-30). Hindi text layer on page 1 garbled; English parallel. Listing file named NIT but mode is sealed offline tender."
+}

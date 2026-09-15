@@ -1,0 +1,45 @@
+{
+  "slug": "bitra-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Bitra Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1984,
+  "alol": "F-0750",
+  "position": {"lat_text": "11° 35.8\" N", "lon_text": "72° 11.4\" E", "lat": 11.596667, "lon": 72.19},
+  "elevation_m": 33,
+  "characteristic_text": "Fl (2) White 10 Sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 16.62, "geographical_nm": null, "text": "16.62 Nm (single unlabelled range)"},
+  "tower": {"type": "G I trestle tower", "height_m": 30, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "MSM, Spain", "model": "MBL-160", "type": "LED Flasher", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Optic MBL-160, Type: LED Flasher",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High-intensity power LED"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "RACON : NIL"},
+  "ais": {"present": false, "text": "NAIS: NIL"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "Mains 230V AC; emergency power source NIL; Solar Plant: NIL but solar panels for main light (70W/12V x1) and automation (250W/24V x2)"},
+  "issues": [
+    "Position minutes printed with a double-prime (\") sign; treated as decimal minutes",
+    "Source of energy says 'Solar Plant: NIL' yet lists solar panels for main light and automation",
+    "Year taken from date of commissioning 07.05.1984"
+  ]
+}

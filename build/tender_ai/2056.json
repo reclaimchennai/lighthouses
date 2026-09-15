@@ -1,0 +1,69 @@
+{
+  "nid": 2056,
+  "title": "Improvement work of Kanhoji Angre Island Lighthouse station and premises",
+  "summary": "Two-cover percentage-rate e-tender for improvement works (jungle clearing, plaster repairs, painting, PU floor coating, GI chain-link fencing, steel gate and grating work, name boards, modular toilet, boat hire) at Kanhoji Angre Island Lighthouse, Khanderi Island, Raigad, Maharashtra.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-MUM-03012(03)/1/2021-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, M.G. Road, Ghatkopar (East), Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kanhoji Angre Island Lighthouse Station, Khanderi Island, Raigad, Maharashtra", "station_id": "kanhoji-angre-lighthouse", "kind": "lighthouse", "work": "Improvement work of lighthouse station and premises"}
+  ],
+  "scope": [
+    {"item": "Clearing jungle incl. uprooting vegetation, grass, brush wood, trees and saplings up to 30 cm girth and removal of rubbish; rate 17.60, amount 92,488.00", "qty": "5255.000", "unit": "sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Dismantling steel work in built up sections (angles, tees, flats, pipe, channels); rate 5.65, amount 1,073.50", "qty": "190.000", "unit": "Kg", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Removing distemper/synthetic enamel/cement paint from wall surfaces by scraping and sand papering; rate 25.15, amount 1,131.75", "qty": "45.000", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Repair to plaster 12-20 mm in patches up to 2.5 sqm with white cement based polymer modified self curing mortar; rate 540.35, amount 2,32,350.50", "qty": "430.000", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Premium acrylic smooth exterior paint with silicone additives (Asian/Snowcem/Berger), old work, two or more coats @ 1.43 ltr/10 sqm; rate 108.60, amount 32,037.00", "qty": "295.000", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Synthetic enamel paint (Asian/Berger/Shalimar) in two or more coats over undercoat; rate 131.45, amount 53,894.50", "qty": "410.000", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Polyurethane (PU) floor paint (Asian/Indigo/Dulux) over old paver block internal pathway/road; rate 259.00, amount 1,76,120.00", "qty": "680.000", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Excavation in hard rock (blasting prohibited) in foundation trenches/drains; rate 1,523.05, amount 6,092.20", "qty": "4.000", "unit": "cum", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Cement concrete 1:4:8 (40 mm aggregate) in foundation and plinth; rate 6,812.00, amount 6,812.00", "qty": "1.000", "unit": "cum", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Brick work, class 7.5 FPS bricks in CM 1:4, foundation and plinth; rate 7,311.25, amount 21,933.75", "qty": "3.000", "unit": "cum", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Brick work, class 7.5 FPS bricks in CM 1:4, superstructure above plinth; rate 9,344.35, amount 28,033.05", "qty": "3.000", "unit": "cum", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Cement concrete 1:2:4 in coping incl. centering and shuttering; rate 9,895.20, amount 29,685.60", "qty": "3.000", "unit": "cum", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "18 mm cement plaster in two coats (12 mm 1:5 + 6 mm 1:3) finished rough with sponge; rate 537.45, amount 91,366.50", "qty": "170.000", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Main gate with G.I. pipe 'C' class and M.S. flats/plates, 3.70 m x 2.00 m (drawing MUM/503/2025), incl. rails and synthetic enamel painting; rate 71,521.00", "qty": "1.000", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Steel work welded in built up sections/framed work in gratings, frames, brackets, gates (MS pipe C-class) incl. priming; rate 172.60, amount 3,84,898.00", "qty": "2230.000", "unit": "KG", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "G.I. chain link fabric fencing, 4 mm GI wire PVC coated to >= 5 mm, 50x50 mm mesh; rate 1,067.10, amount 5,54,892.00", "qty": "520.000", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Lighthouse/Department name board in black granite 90 x 120 cm with engraved golden letters in three languages (drawing B/3006); rate 19,348.00", "qty": "1.000", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Department emblem in granite plate 60 x 130 cm with engraved golden letters (drawing MUM82303/2022); rate 10,954.00", "qty": "1.000", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "4-seater modular toilet with cubicles 915 x 915 x 1980 mm and 400 litre sludge tank; rate 1,60,000.00", "qty": "1.000", "unit": "Nos", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Hire of load and passenger mechanised boats/pontoons for potable water (incl. pumping to storage tank), labour and materials from Thal jetty to Kanhoji Angre landing; rate 75,000.00", "qty": "1.000", "unit": "Job", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Labour for carriage of construction material from Kanhoji Angre landing to lighthouse premises and removal of debris at island; rate 50,000.00", "qty": "1.000", "unit": "Job", "site": "Kanhoji Angre Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2099631.0,
+    "emd_inr": 42000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "5% of contract value (FDR or bank guarantee) before work order, released on completion; plus security deposit 5% deducted from each RA bill, released after 6 months defect liability period",
+    "notes": "Estimated cost inclusive of GST (BoQ total Rs 20,99,631.35). EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid three months from technical bid opening; mandatory for all including MSME/NSIC bidders; original by 14/10/2025 17:00. Labour cess 1% deducted from RA bills. Liquidated damages 0.5% per week up to 10%. Water/electricity if provided by department recovered at 1% each of tender cost. Quantities may vary +/-25%."
+  },
+  "period": {"completion": "01 month from date of issue of work order", "bid_validity": "90 days from date of opening of technical bid", "warranty": "6 months maintenance/defect liability period"},
+  "dates": {"published": "2025-10-09", "pre_bid": "2025-10-13", "bid_submission_end": "2025-10-14", "bid_opening": "2025-10-15"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with Central Govt/State Govt/Municipal Corporation etc. having tender limits equal to or more than estimated cost",
+    "Similar works in last 7 years: three works >= 40% (Rs 8.40 lakh), or two >= 60% (Rs 12.59 lakh), or one >= 80% (Rs 16.79 lakh) of estimated cost; certificates from officer not below Executive Engineer; sub-contractor experience not considered",
+    "Similar works: civil construction, repair and maintenance work",
+    "Average annual turnover at least 30% of estimated cost (Rs 6,29,889) over last 3 financial years",
+    "PAN, GST registration, ITRs for 2021-22 to 2023-24, audited turnover/P&L statements",
+    "Annexures: tender acceptance letter, unconditional bid undertaking, bid securing declaration, non-blacklisting affidavit, no-relatives declaration, Make in India self-certification",
+    "Technical evaluation minimum 70/100: statutory requirements 30, financial standing 20, similar experience 20, performance of previous works 20, key technical personnel 10 (1 graduate civil engineer, 2 diploma civil engineers)"
+  ],
+  "specs": [
+    "Works per CPWD specifications volumes I-VI, electrical volumes I-III and horticulture; BIS codes",
+    "53 grade OPC/PPC/SRC cement from manufacturers with >= 1 million tonne/year capacity",
+    "Paint shades: snow/brilliant white for trestle/GI/RCC tower, signal red for trestle tower, bus green for automation box and hand rail, black for gate/pedestal",
+    "Site on island reachable only by boat from Thal (Alibag) or Gateway of India jetty"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "improvementtender.pdf", "pages": 70, "read": "mixed", "language": "bilingual", "unreadable": ["page 70 blank (printed page number 69 only)"]}
+  ],
+  "confidence": "high",
+  "notes": "Listing title is misspelt 'mprovement work of Kanhoji Angre Island Lighthouse station and premises'; cover page spells 'Isalnd'. Eligibility inconsistencies: Hindi NIT page and Section III say two similar works >= 60% while standard is 50%; turnover period stated as ending 31/03/2024 in 3.1.1 but 31/03/2025 in cover-1 list. Index page numbers do not match actual sections (BoQ and evaluation criteria both listed as pages 48-51). Section VII BoQ is included in the PDF (Section VIII annotation says uploaded separately). GCC (Section IV) is standard DGLL boilerplate; bank guarantee proforma dated 2025."
+}

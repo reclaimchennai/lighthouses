@@ -1,0 +1,41 @@
+{
+  "slug": "poompuhar-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Poompuhar Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2010,
+  "alol": "F 0918",
+  "position": {"lat_text": "11° 08' 29\" N", "lon_text": "79° 51' 24\" E", "lat": 11.141389, "lon": 79.856667},
+  "elevation_m": 33.1,
+  "characteristic_text": "Flash(4) every 15 seconds (0.35+2.2+0.35+2.2+0.35+2.2+0.35+7.0=15sec)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 4,
+    "colours": [],
+    "period_s": 15,
+    "sequence_text": "0.35+2.2+0.35+2.2+0.35+2.2+0.35+7.0=15sec",
+    "sequence_s": [0.35, 2.2, 0.35, 2.2, 0.35, 2.2, 0.35, 7.0],
+    "flash_duration_s": 0.35
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20 NM (single unlabelled range)"},
+  "tower": {"type": "RCC Octagonal Tower", "height_m": 30, "colour_scheme": "Red and White vertical Band"},
+  "optic": {
+    "make": "M/s Mediterrano senales Maritimes (MSM), Spain", "model": "MBR-300", "type": "Rotating beacon", "size": "210 mm", "order": null,
+    "panels": 6,
+    "rotation_device": "Inbuilt stepper motor with drive",
+    "rpm": 4,
+    "rotates": true,
+    "rotates_evidence": "Optic: Rotating beacon, MBR-300; Rotation Device: Inbuilt stepper motor with drive; R.P.M. 4",
+    "divergence_horizontal_deg": 2.4,
+    "divergence_vertical_deg": 4.0,
+    "divergence_text": "2.4° (Horizontal), 4.0° (Vertical)",
+    "illuminant": "230V/150W Single ended Metal Halide Lamp; Standby separate flasher device (150 W/230 V halogen lamp)"
+  },
+  "intensity_cd": 170000,
+  "racon": {"present": false, "code": null, "text": "-----"},
+  "ais": {"present": false, "text": "----"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "Tamilnadu electricity board 3 phase/440V AC; Engines 1 and 2 NIL; 1 KW solar plant for main light, 2 KW off grid solar for automation/street light"},
+  "issues": ["Characteristic does not state the light colour"]
+}

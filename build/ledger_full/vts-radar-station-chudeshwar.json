@@ -1,0 +1,131 @@
+{
+  "slug": "vts-radar-station-chudeshwar",
+  "page_count": 7,
+  "title_as_printed": "मास्टर लेजर/ MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1,
+     "fields": [{"label": "A.L.O.L.", "value": "------NA------"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1,
+     "fields": [{"label": "Position", "value": "LAT 22°21.858'N, LONG 69°32.605'E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1,
+     "fields": [{"label": "Elevation", "value": "60Meter"}], "tables": [], "text": null},
+    {"no": "4", "title": "VTS Tower", "title_hi": "वी टी एस टावर", "page": 1,
+     "fields": [
+       {"label": "1)Type", "value": "RCC Circular Tower"},
+       {"label": "2)Height", "value": "60Meter"},
+       {"label": "3)Colour Scheme", "value": "4 Red & 3 White bands"}
+     ], "tables": [], "text": null},
+    {"no": "", "title": "VTS EQUIPMENTS", "title_hi": "वी टी एस उपकरण", "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sr. No", "Description", "Qty", "Location"],
+        "rows": [
+          ["i.", "X-Band RADAR Scanner\nMake: Terma, Scanter 2001", "01", "Eqpt room"],
+          ["ii.", "X-Band RADAR Trans receiver\nScanter 2001, 9410MHz\nRxTx 15: Type: 262001-250, REV: A, Serial No: 3001\nVoltage: 150-242V, Frequency: 47-63 Hz, Power< 500VA\nRxTx 16: Type: 262001-251, REV: A, Serial No: 3001\nVoltage: 150-242V, Frequency: 47-63 Hz, Power< 500VA", "02", "Eqpt room"],
+          ["iii.", "ACU (Antena Control Unit)\nType: 262382-001, REV: H, Serial No: 3022\nVoltage: 3*400 v, Frequency: 47-63 Hz, Power: 4KVA", "01", "Eqpt room"],
+          ["iv.", "CSET\nCSET 01, Make: KONSEBERG, Serial No: 3042651016CSET 02, Make: KONSEBERG, Serial No: 3468251120", "02", "Eqpt room"],
+          ["v.", "RSD (RADAR Service Display)\nMake: HP Compaq, Serial No: 4597", "01", "Eqpt room"],
+          ["vi.", "Cisco Switch\nType: Catalyst 2960 Series, Serial No: FOC1510X0H4", "01", "Eqpt room"],
+          ["vii.", "KVM Switch\nMake: ATEN INTERNATIONAL CO.LTD,Serial No: F3A8M023MFT0368", "01", "Eqpt room"],
+          ["viii.", "Rack Manager\nMake: Austin, Serial No: CN1534X296", "01", "Eqpt room"],
+          ["ix.", "19’’ VALL Rack, HITT", "01", "Eqpt room"],
+          ["x.", "19’’ COMMTEL Rack TCIL", "01", "Eqpt room"],
+          ["xi.", "Microwave Antena\nMake: Faini Telecommunication System,Serial No (01): 08KIMWA0000120057 Serial No (02): 08KIMWA0000120058", "02", "On towerwall"],
+          ["xii.", "Mini Link 6363 32L RAU\nMake: Ericsson, Serial No: CR9N993373Make: Ericsson, Serial No: CR9P727288", "02", ""],
+          ["xiii.", "Mini Link 6691 IDU\nMake: Ericsson, Serial No: CE8A318088", "", ""],
+          ["xiv.", "48 V DC Power Supply Unit\nMake: Mean Well, Serial No: EB93233021", "01", "Eqpt room"],
+          ["xv.", "6KVA UPS\nMake: M/s NGBPS LTD, Serial No: JH1024", "01", "Eqpt room"],
+          ["xvi.", "Battery Bank of 6KVA UPS\nMake: POWERSAFE, Sealed Lead-Acid Battery,Type: EP 26-12E, Volts: 12V, Capacity: 26Ah Date of Installation:19/06/2013", "20", "Eqpt room"],
+          ["xvii.", "15KVA UPS\nMAKE: SCHNEIDER ELECTRIC, Serial No: 9E1904T10204", "01", "Eqpt room"],
+          ["xviii.", "Battery Bank of 15KVA UPS Make: APC, Rating: 12V, 26AhDate of Installation:30/08/2019", "28", "Eqpt room"],
+          ["xxi.", "Battery bank of 30KVA Solar Inverter\nMake: HBL Power System Ltd, Charge Voltage: 2.370 V perCell,\nModel: 360V/600Ah, Date of Installation: 21-11-2015", "180", "Battery room"],
+          ["xx.", "40KVA AMF PANEL\nMake: Indotech Industrial Solutions Pvt Ltd. Pune,Serial No:4473", "01", "Power House"],
+          ["xxi.", "LVDB Panel\nMake: Indotech Industrial Solutions Pvt Ltd. Pune,", "01", "Power House"]
+        ]}
+     ], "text": "Items i.–v. on page 1, vi.–(first) xxi. on page 2, xx. onward on page 3. Serial numbering is printed as shown (xviii. is followed by xxi., then xx., xxi.)."},
+    {"no": "xxii.", "title": "Diesel Generator", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "1. No. of Standby Diesel Generators", "value": "02"},
+       {"label": "Location", "value": "Power House"}
+     ],
+     "tables": [
+       {"caption": "2. A) Details of Engine:", "columns": ["Sr. No", "Engine No.", "EngieType", "Make", "Date of MFG.", "Ratingkw/hp", "RPM"],
+        "rows": [["1", "1120312", "HA 494 T", "KIRLOSKAR", "JULY 2011", "41.21/56", "1500"],
+                 ["2", "1120310", "HA 494 T", "KIRLOSKAR", "JULY 2011", "41.21/56", "1500"]]},
+       {"caption": "B) Details of Alternator:", "columns": ["Sr No", "Frame", "Make", "KVA", "Volts", "Amps", "Freq", "RPM", "M/C No."],
+        "rows": [["1", "KG18E", "Kirloskar", "40", "415", "55.6", "50Hz", "1500", "CS3E011G133198"],
+                 ["2", "KG18E", "Kirloskar", "40", "415", "55.6", "50Hz", "1500", "CS3E011G133196"]]}
+     ], "text": "On the rendered page the M/C No. cells are clipped at the table edge (visible as \"CS3E011G133\"); the full values above are taken from the PDF's text layer."},
+    {"no": "xxiii.", "title": "DG Battery", "title_hi": null, "page": 3,
+     "fields": [{"label": "Qty", "value": "02"}, {"label": "Location", "value": "Power House"}], "tables": [],
+     "text": "(1) DG1 Battery, Make: Exide Express, Rated Capacity: 130AhSerial No: A3C9B0171853C93 OCV: 12.58V, Battery Type: FXPO-XP1300 Date of Installation: 04-07-2019\n(2) DG2 Battery, Make: Exide Express, Rated Capacity: 130AhSerial No: A1F8C3044141G81, OCV: 12.72V, Battery Type: FXPO-XP1300 Date of Installation: 21-08-2018"},
+    {"no": "xxiv.", "title": "Battery Charger", "title_hi": null, "page": 3,
+     "fields": [{"label": "Qty", "value": "02"}, {"label": "Location", "value": "Power House"}], "tables": [],
+     "text": "(1) For DG1 Battery Make: NHP Electronics, Serial No: 2341908200\n(2) For DG2 Battery Make: NHP Electronics, Serial No: 3251611296"},
+    {"no": "", "title": "Energy source", "title_hi": null, "page": 4,
+     "fields": [], "tables": [],
+     "text": "Main supply voltage 230 V, 1 Phase, 50HZ from PGVCL\nDiesel Engine Generator\nKirloskar – 02 Nos. 40 KVA, HA494T."},
+    {"no": "", "title": "Off Grid 30 KW Solar Systems:", "title_hi": null, "page": 4,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Description", "Qty", "Location"],
+        "rows": [
+          ["PV Module\nMake: Su-Kam Power Systems LTDPower (P max): 250w,\nOpen Circuit Voltage (Voc): 37.25,Short Circuit Current (Isc): 8.7A\nCurrent at maximum power (Ipm): 8.35A, Voltage at maximum power (Vpm): 29.95V\nDate of commissioning: 03-11-2015", "120", "Compound"],
+          ["30 KVA Solar Inverter\n(1) Make: Su-Kam, Model: 30KVA/360V SI Serial No: 501F0512651910150002 Supplied by: M/s Neelam Micro Electronics, Rajkot Date of commissioning: 03-11-2015\n(2) Make: Su-Kam, Model: 30KVA/360V COL NEWSerial No: 501F0542002912170001 Supplied by: M/s Deepee Electronics, IndoreDate of commissioning: 11-09-2018", "02", "Power House"]
+        ]}
+     ], "text": null},
+    {"no": "", "title": "Automatic Voltage Stabilizers-", "title_hi": null, "page": 4,
+     "fields": [{"label": "Qty", "value": "09"}, {"label": "Location", "value": "Power House & Store room"}], "tables": [],
+     "text": "1.Make: Servo, Serial No: NA, Capacity: 16 KVA\n2.Make: Servo, Serial No: NA, Capacity: 16 KVA\n3.Make: Servo, Serial No: 1301054, Capacity: 16 KVA (non-ops)\n4.Make: Delta, Serial No: 896/417, Capacity: 10 KVA (non-ops)\n5.Make: Automatic Electric Ltd, Serial No: T477/3757, Capacity: 15 KVA (non-ops)\n6.Make: Uma Powertronics pvt ltd, Serial No: 16020010, Capacity: 15 KVA\n7.Make: Uma Powertronics pvt ltd, Serial No: UA-16020014 Capacity: 15 KVA\n8.Make: KRYCARD, Model: SP7070, Serial No: S20K167070001 Capacity: 16 KVA.\n9.Make: KRYCARD, Model: SP7070, Serial No: S20K167070002 Capacity: 16 KVA\n(Entries 1–2 on page 4; entries 3–9 with Qty and Location on page 5.)"},
+    {"no": "", "title": "HSD oil storage tank:", "title_hi": null, "page": 5,
+     "fields": [], "tables": [],
+     "text": "One number 12000ltrs.Capacity HSD oil storage tank has been provided insidethe campus in the year 2011"},
+    {"no": "", "title": "Lift:", "title_hi": null, "page": 5,
+     "fields": [], "tables": [],
+     "text": "Inside the 60M high RCC radar tower lift has been installed as per below specification:\n• Make: Trio Elevators Co Ltd, Model: EH-150G\n• Serial No: EH01663 RH\n• Motor: 3-ɸ induction motor 5.5KW,\n• Serial No: 5000001965\n• Capacity: 408 Kg\n• Passenger: 06\nThe License valid up to 23/11/2025."},
+    {"no": "", "title": "CCTV:", "title_hi": null, "page": 5,
+     "fields": [
+       {"label": "1) Bullet cameras", "value": ": 08 nos."},
+       {"label": "2) PTZ camera", "value": ": 01 no."},
+       {"label": "3)DVR", "value": ": 01 no."}
+     ], "tables": [],
+     "text": "CCTV cameras have also been installed on dated 15/03/2016. (List continues on page 6.)"},
+    {"no": "", "title": "COMPOUND STREET LIGHTS:", "title_hi": null, "page": 6,
+     "fields": [], "tables": [],
+     "text": "05 Nos. of LED street poles are provided in the compound.\n02 Gate light\n01 LED Light on department display"},
+    {"no": "", "title": "Fire-extinguishers:", "title_hi": null, "page": 6,
+     "fields": [
+       {"label": "ABC Type", "value": ":04 (05 Kg Capacity)"},
+       {"label": "Clean Agent", "value": ":02 (04 Kg Capacity)"},
+       {"label": "Fire Buckets", "value": ":02"}
+     ], "tables": [],
+     "text": "The Following firefighting equipment are provided And Date of Installation: NA\nFire extinguishers"},
+    {"no": "", "title": "LAND:", "title_hi": null, "page": 6,
+     "fields": [
+       {"label": "i) Area", "value": "10000 Sqm."},
+       {"label": "ii) Demarcation", "value": "Masonry compound wall on all the four sides"},
+       {"label": "iii) No. of fruit trees", "value": "60 trees"},
+       {"label": "iv) No. of non- fruit bearing trees", "value": "240"}
+     ], "tables": [], "text": null},
+    {"no": "", "title": "FACILITIES AVAILABLE:", "title_hi": null, "page": 6,
+     "fields": [], "tables": [],
+     "text": "School, Bank, Post office, P.G.V.C.L Office &General Hospital are 30Km far away from the V.T.S RADAR Station Chudeshwar."},
+    {"no": "", "title": "STRUCTURE:", "title_hi": null, "page": 6,
+     "fields": [], "tables": [],
+     "text": "a. VTS tower: 60m high RCC circular tower with internal lift facility and staircase.\nb. Technical Building: 01 unit\nc. Inspection Quarter: 01 unit\nd. Staff Quarters: 04 unit\ne. Compound wall: The masonry compound wall has been provided on foursides for enclosing land buildings with internal cement concrete pathway.\nf. Main gate: M. S gate the entrance.\ng. Area: 9085 Sq. m\n(Items f.–g. on page 7.)"},
+    {"no": "", "title": "WATER SUPPLY:", "title_hi": null, "page": 7,
+     "fields": [], "tables": [],
+     "text": "Water Tanker purchased from outside."},
+    {"no": "", "title": "Mode of Approach", "title_hi": null, "page": 7,
+     "fields": [{"label": "Mode of Approach", "value": "By road, 30Km away from Khambhaliya City"}], "tables": [], "text": null},
+    {"no": "", "title": "ADDRESS & COMMUNICATION", "title_hi": null, "page": 7,
+     "fields": [
+       {"label": "Email", "value": "vts.station.chudeshwar@gmail.com"},
+       {"label": "Mobile No", "value": "+918160709336"}
+     ], "tables": [],
+     "text": "Station In Charge,\nV.T.S RADAR Station Chudeshwar,\nVillage: Chudeshwar,\nPost: Goinj,\nTa: Khambhaliya, Dist: Dev Bhumi Dwarka,Gujarat, Pincode: 361310\nEmail: vts.station.chudeshwar@gmail.com\nMobile No: +918160709336"},
+    {"no": "", "title": "DATE OF COMMISSIONING", "title_hi": null, "page": 7,
+     "fields": [{"label": "DATE OF COMMISSIONING", "value": "13 Feb, 2012"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

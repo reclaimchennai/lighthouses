@@ -1,0 +1,40 @@
+{
+  "nid": 1913,
+  "title": "Special repairs and maintenance of Officers colony, Lambaline.",
+  "summary": "E-tender (percentage rate) for special repairs and maintenance of the DLL officers' colony at Lambaline, Sri Vijaya Puram, Andaman & Nicobar Islands (Port Blair / Sri Vijaya Puram Directorate).",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-02001/2/2022-CM-PB",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Officers colony, Lambaline, Sri Vijaya Puram", "station_id": null, "kind": "office", "work": "Special repairs and maintenance of officers' colony"}
+  ],
+  "scope": [
+    {"item": "Special repairs and maintenance of Officers colony, Lambaline", "qty": null, "unit": null, "site": "Lambaline, Sri Vijaya Puram"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4997043.0,
+    "emd_inr": 100000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by Deposit at Call Receipt/FDR of any RBI-approved nationalised/scheduled bank in favour of Director of Lighthouses and Lightships - Sri Vijay Puram, payable at Sri Vijay Puram; valid 06 months from technical bid opening; originals with technical documents by registered/speed post or in person; MSME/NSIC registration for similar work eligible for EMD exemption. Bid document free of cost."
+  },
+  "period": {"completion": "4 months", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-05-30", "pre_bid": "2025-06-05", "bid_submission_end": "2025-06-10", "bid_opening": "2025-06-10"},
+  "eligibility": [
+    "Eligible experienced civil contractors who have successfully completed similar work of 'Construction/maintenance of Buildings in Andaman & Nicobar Island' with Government organisations and have no adverse remarks",
+    "Detailed eligibility as per Section-III clause 3.1 (not included)",
+    "Near relatives posted as accountant or gazetted officer in DGLL/MoPSW bar participation (standard clause)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "LambalineNIT.pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only (printed pages 4-6); no BOQ. Bid download/submission 30.05.2025 18:00 to 10.06.2025 15:00; technical bid opening 10.06.2025 15:00 (subject to internet availability), yet last date for original EMD is 11.06.2025 15:00, after bid opening. Listing gives end 2025-06-10 and opening 2025-06-11."
+}

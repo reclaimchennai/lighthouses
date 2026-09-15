@@ -1,0 +1,179 @@
+                           मास्टर लेजर/MASTER LEDGER
+
+                           जाफराबाद दीपस्तंभ / Jafarabad Lighthouse
+
+क्रमसंख्या/             नाम /Name
+                                                                            वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0432
+     2        स्थान/Position                     Lat      20º 51.4’ N Long 71º 22.9’ E
+
+    3         ऊंचाई/Elevation                    43 M (Above MSL)
+    4         अभिलक्षण/Characteristic             Fl W 10 Sec. (0.3 + 9.7 = 10 Sec.)
+    5         नॉटिकलमाइलमेदरू ी                  16 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                             White round masonry tower
+                                                 Height                           M
+                                                 Colour Scheme                    White
+    7         ऑप्टिकलउपकरण                       Optic
+              Optical equipment                  Make                             BBT-France
+                                                 Type                             revolving
+                                                 Size                             250mm
+                                                 No. of lens                      -
+                                                 Area of dioptric portion         1805 Sq. cm (Corrected area
+                                                                                  1029 Sq. cm)
+
+                                                 Area of catadioptric portion     -
+                                                 Divergence                       25º 11.99’ (Horizontal)
+                                                 Main/Emergency                   16º 29.67’ (Vertical)
+
+                                                 Duration of Flash                0.3sec
+                                                 Main /Standby/Emergency
+                                                 Pedestal                         Mercury float
+                                                 Rotation Device                  Stepper motor
+                                                 R.P.M.                           2
+                                                 Illuminant
+                                                 Main                             Cluster 70W/230 V MH Lamp
+                                                                                  – 3 nos.
+                                                 Standby                          -
+                                                 Emergency:                       -
+                                                 Date of Installation             -
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                             1,52000 Candela
+              intensity                          Emergency
+    9                                            Diameter                         2.4m
+                                                  Height of glazing            1.6m
+          लेंिनन/Lantern                          No. of panes                 12
+                                                  Ventilators                  11
+     10   RACON                                        Sr. No
+          Make                Model               Code                         Band                    Date of
+                                                                                                       Installation
+
+     11   NAIS
+          Base Station
+
+          Model               Type                Power                        MMSI
+
+          Communication
+          Equipment
+          VSAT Antenna        Band                Modem
+
+          DGPS
+          Transmitter Make    Frequency           Power Output RS 1 ID         RS -II      Beacon      Date of      Dat
+                                                                               ID          ID          commis       e of
+                                                                                                                    Re
+                                                                                                       sioning      cap
+                                                                                                                    itali
+                                                                                                                    zati
+                                                                                                                    on
+
+
+
+     12   ऊर्ानकेसाधन/Sour    Mains                                            Mains 230V, 50 Hz, three
+                                                                               phase
+          ce of energy
+                              Power Source                                     DG Set 15 KVA make Kirloskar
+                              Engine 1 (15 kva)
+                              Make/Type                   Qty         Rating   No of           RPM            Cooling
+                                                                               Cylinder
+                              Kirloskar                   2           56 BHP   2               1500           Air
+
+                              Alternator
+                              Make/Type                   Qty         Rating   Voltage/Am      Frequency      Phase
+                                                                               p
+                              Kirloskar                   12          40 KVA   230V/55.6       50Hz           Single
+                              Solar Plant : (M/L : 3KW)
+                              Capacity PV                 Numbers              Type       Battery             Bank
+                              4 KWp
+                              Solar Plant for Main NAIS
+                              Capacity PV                 Numbers              Type       Battery             Bank
+
+
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make               Model                Capa    Input                Output               Phase     Qty
+          A.E. Make                               10Kv    160–260 Volt         230 V +_ 1           three     03
+                                                  a                            %
+14        बैिरर
+     Batteries
+     Equipment            Type               Make     Volt                      Amp/H Qty
+                                                                                r
+     PSS NAIS
+     Genset                SMF               Exide           12V                100AH                02 Nos
+     Automation
+     DGPS
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make               Model         Type          Rating          Qty
+
+     Automation
+16   इंवटट रInverter /UPS
+     Equipmen Nos Make               Model                    Type              Rating     Qty input            out
+     t                                                                                                          put
+     Main            ---  ---                   ---                ---            ---          ---        ---    ---
+     Light
+     NAIS PSS
+     DGPS
+
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE       PLC                 HMI           Power Supply           VSAT            Modem          Band
+     RDS        Allen Bradley       RENU          24 V                                   Robuste
+                                                                                         l
+18   आप्ननशमनउपकरण                           Type of Extinguisher Capacity                 Nos           Make
+     Fire Fighting Equipment                 DCP Type,ABC         4 kg                     6
+                                             Water Co2            -                        -
+                                             Foam Type            -                        -
+19   संचार                                   P & T telephone No. 02794
+                                             245167
+     Communication
+20   र्लपर्ू तन                              i) Rain water tank of 7000 liters are provided in
+     Water Supply                                 each qtrs.
+                                             ii) Rain storage water underground tank 90000liters
+                                             iii) 4 inch , 50 feet ,bore with half hp submersible water
+                                             pump is provided inside the Lightouse
+21   िभू म                                   Area                                   2.64 hectares.
+     Land                                    Demarcation                                 Masonry wall on all the
+                                                                                         four side
+22   इमारतें                                                                             LH tower, inspection
+                                                                                         quarter, power house,
+     Buildings
+                                                                                         HLK quarter, One twin
+                                                                                         unit and one single unit
+                                                                                         of ALK qtrs., (in
+                                                                                         abandon condition.)
+                                                                                         One twin unit of
+                                                                                         LHA qtrs.
+23   कंपाउं डलाइि                    G.I. Poles 05 Nos. fitted with
+     Compound Lights                 30W led, & 03 fitted With qtrs.
+                                     wall led lights 20 W , 01 Gate
+                                     lights-02 Nos. 18W led light and
+                                     10 Nos. Solar street lights with
+                                     9w led lights,40w solar panel
+                                     and 40AH/12v batteries
+
+
+24   सीसीिीिीकमेरा                   Camera
+     CCTV CAMERA                     DVR
+25       स्िाफ                       Sl. No       Designations
+          Staff                      1           Navigational Assistant –I(01)
+                                     2           Navigational Assistant –II(01)
+                                     3           Navigational Assistant –III(02)
+26   पहुँचनेकामाध्यम                 By road upto Jafrabad town and then 4 km by
+     Mode of approach                road upto Lighthouse.
+27   उपलब्धसविधाए                    Police station, Dispensary, Post office, High school, Bank
+                                     etc. are available in Jafrabad town 4 Km from Lighthouse
+     Facilities available
+
+
+
+
+28   डाकपताPostal address            Station Incharge Jafrabad Lighthouse, P.O Jafrabad, Dist.
+                                     Amreli, Pin – 364 540
+29   मल्
+       ू यकाब्योराCost details       Cost of Construction :
+     (At the time of Construction)   Cost of Equipment :
+
+30   प्रितननमेलानेकादे नांक          15-01-1962
+     Date of commissioning
+

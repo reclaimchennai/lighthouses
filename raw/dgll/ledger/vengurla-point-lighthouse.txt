@@ -1,0 +1,182 @@
+                मास्टर लेजर/MASTER LEDGER
+क्रमसं                नाम /Name
+ ख्या/                                                             वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.                 F0600
+   2     स्थान/Position                     15*51.2’ N 73*37.0’ E
+   3     ऊंचाई/Elevation                    81m
+   4     अविलक्षण/Characteristic            Flash red every 5sec.
+   5     नॉविकलमाइलमे दूरी                  24NM
+         Range in miles
+  6      दीपस्तं ि िािर/L.H.Tower           Type                           Hexagonal Masonry
+                                            Height                         13m
+                                            Colour Scheme                  Black & White Horizontal Band
+  7      ऑविकलउपकरण                         Optic                          Revolving 3rd order
+         Optical equipment
+                                            Make                           BBT Paris
+                                            Type                           Revolving
+                                            Size                           3rd Order 375mm
+                                            No. of lens                    3
+
+                                            Area of dioptric portion
+                                            Area of catadioptric portion
+
+                                            Divergence                     Main/Standby – 2* vertical
+                                            Main/Emergency                 Main/Standby – 6* Horizontal
+                                            Duration of Flash              Single Flash Red every 5Sec.
+                                            Main /Standby/Emergency
+
+                                            Pedestal                       Mercury Float
+                                            Rotation Device                Stepper Motor+Controller
+                                            R.P.M.                         3
+                                            illuminant
+                                            Main                           3 x 150w Metal Halide Lamp
+                                                                           Cluster
+                                            Standby
+                                            Emergency:                     50w 12VDC Halogen Lamp
+                                            Date of Installation           Year 1968
+  8      प्रिािीबीमतीव्रता/Effective beam   Main & Standby                 528000cd
+         intensity                          Emergency                      28000cd
+  9      लें िनन /Lantern                   Diameter                       2.5m
+                                            Height of glazing              1.3m
+                                            No. of panes                   4
+                                            Ventilators
+ 10      RACON                                  Sr. No                       6295
+         Make                  Model        Code                           Band              Date of
+                                                                                             Installation
+11   NAIS
+     Base Station
+
+     Model                Type           Power                       MMSI
+     R40                  SAAB           230v                        4192233
+     Communication
+     Equipment
+     VSAT Antenna         Band           Modem
+       2.4m dia           EX-C           Datum system
+       Parabolic                            M7LT
+       Reflector                         Satellite Terminal
+     DGPS
+     Transmitter Make     Frequency      Power          RS 1 ID      RS -II     Beac       Date          Dat
+                                         Output                      ID         on ID      of            e of
+                                                                                           commi         Rec
+                                                                                           ssioni        apit
+                                                                                                         aliz
+                                                                                           ng
+                                                                                                         atio
+                                                                                                         n
+     -                    -              -              -            -          -          -             -
+
+     NAVTEX
+     Transmitter Make     Frequency      Power          Operation    Transmitter ID        Date        Date
+                                         Output         Slots                              of          of
+                                                                                           com         Reca
+                                                                                           missi       pitali
+                                                                                                       zatio
+                                                                                           onin
+                                                                                                       n
+                                                                                           g
+     Make:Danphone        Internation                   Slots:
+                          al-518Khz,                    01:30,
+                          Regional-                     09:30,                “J”               2015
+                          490Khz)                       13:30,
+                                                        17:50,
+                                                        21:30
+     ऊर्ान केसाधन/Sourc   Mains
+12   e of energy          Standby
+                          Engine 1
+                          Make/Type               Qty       Rating   No of          RPM            Cooling
+                                                                     Cylinder
+                          Eicher                  2         20kva    2              1500           Air
+                          Alternator
+                          Make/Type               Qty       Rating   Voltage/Am     Frequency      Phase
+                                                                     p
+                          AH310200-326            2                  230v           50Hz           1
+                          Engine 2
+                          Make/Type               Qty       Rating   No of          RPM            Cooling
+                                                                     Cylinder
+                          Kirloskar               1         7.5kva   2              1200           Air
+                          Alternator
+                          Make/Type               Qty       Rating   Voltage/Am     Frequency      Phase
+                                                                     p
+                                                  1                  230v           50Hz
+                                                                                                1
+
+
+                             Solar Plant
+                             Capacity PV             Numbers            Type      Battery       Bank
+                             20kw                    56 (345wp- Each)   ON Grid
+                             Solar Plant for Main RACON
+                             Capacity PV             Numbers            Type      Battery       Bank
+
+
+ 13   स्वचावलतिोल्टे र्स्टे बलाइर्र
+      Automatic Voltage Stabilizers
+
+      Make                 Model            Capa     Input              Output       Phas       Qty
+                                            city                                     e
+      V. S. PAAWAR         VSP/SERVO/       5kva     160 to 260         240v         1          1
+                           AIR
+14    बैिरर
+      Batteries
+      Equipment            Type             Make          Volt          Amp/Hr    Qty
+      PSS NAIS             -                -             -             -         -
+      Genset               -                -             -             -         -
+      Automation           EP26-12          Exide         12v           26Ah      2
+      NAVTEX               SMF VRLA         Amaro         12V           42 AH     12
+                                            n
+ 15   बैिररचार्न र/ Battery charger
+
+      Equipment            Make             Mod      Type               Rating    Qty
+                                            el
+      General Purpose         -             -      -                  -          -
+      Automation              -             -      -                  -          -
+ 16   इं वर्ट रInverter /UPS
+      Equipmen Nos Make              Model                  Type      Rating   Qty      input       outp
+      t                                                                                             ut
+      Main
+      Light
+      NAIS PSS        1       Exide  SN.1512037                       0.5kva   1                    230V
+      NAVTEX          1       Hykon AEB-7500                          7.5 KVA 1
+ 17   स्वचलनउपकरण
+      Automation Equipment
+      MAKE           PLC            HMI        Power Supply      VSAT        Mode       Band
+                                                                             m
+      NELCO          Schneider      Telemech 24vdc                           Sky
+                     Electric       aniq                                     Edge
+ 18   आविशमनउपकरण                          Type of Extinguisher  Capacity      Nos          Make
+      Fire Fighting Equipment              DCP Type(u/s)         -             -            -
+                                           DCP Type(u/s)         -             -            -
+                                           Foam Type(u/s)        -             -            -
+                                           Water Type(u/s)       -             -            -
+                                           DCP Type              -             -            -
+19   संचार                           02366-299811                               -
+     Communication
+20   र्लपूवतन                        Borewell
+     Water Supply
+21   िू वम                           Area                                       2.25 Acres
+     Land                            Demarcation                                Compound wall
+
+22   इमारतें                         Quarters-6 Nos.
+     Buildings                       IQ, Power House
+23   कंपाउं डलाइि                    9
+     Compound Lights
+24   सीसीिीिीकमे रा                  Camera
+      CCTV CAMERA                    DVR
+25   स्टाफ                           Sl. No        Designations
+     Staff
+                                     1             Navigation Asst Gr-II-01
+                                     2             LHA-01
+26   पहुँ चने कामाध्यम               By road
+     Mode of approach
+27   उपलब्धसुविधाए                   Marine Police
+     Facilities available            Station
+                                     Dispensary              5km Appx
+                                     High School             7km Appx
+                                     Post office             3km Appx
+28   डाकपताPostal address            Station In-Charge, Vengurla Point Lighthouse, P.O.- Vengurla,
+                                     Dist.- Sindhudurg, Maharashtra - 416516
+29   मू ल्यकाब्योराCost details      Equipment-Rs.3,43,750/-
+     (At the time of Construction)
+30   प्रितननमे लाने कादे नां क       Year - 1968
+     Date of commissioning
+

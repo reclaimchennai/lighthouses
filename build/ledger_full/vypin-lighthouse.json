@@ -1,0 +1,137 @@
+{
+  "slug": "vypin-lighthouse",
+  "page_count": 4,
+  "title_as_printed": "मास्टर लेजर/MASER LEDGER",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1, "fields": [{"label": "A.L.O.L.", "value": "F 0698"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1, "fields": [{"label": "Position", "value": "Lat.09° 59’82” N , Long 76° 13’ 34” E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1, "fields": [{"label": "Elevation", "value": "49 m (Above MSL)"}], "tables": [], "text": null},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1, "fields": [{"label": "Characteristic", "value": "Fl (4) W 20 sec (fl 0.41)"}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in NM", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1, "fields": [{"label": "Range in NM", "value": "27.0 NM"}], "tables": [], "text": null},
+    {"no": "6", "title": "L.H.Tower", "title_hi": "दीपस्तंभ टावर", "page": 1, "fields": [
+      {"label": "Type", "value": "Circular Ribbed double shell RCC"},
+      {"label": "Height", "value": "46 m"},
+      {"label": "Colour Scheme", "value": "Red and White Band"}
+    ], "tables": [], "text": null},
+    {"no": "7", "title": "Optical equipment", "title_hi": "ऑप्टिकल उपकरण", "page": 1, "fields": [
+      {"label": "Optic", "value": ""},
+      {"label": "Make", "value": "M/s J. Stone & Co., Calcutta"},
+      {"label": "Focal Length", "value": "375mm"},
+      {"label": "Type", "value": "3rd Order Small"},
+      {"label": "No. of Panels", "value": "4"},
+      {"label": "Area of dioptric portion", "value": "-"},
+      {"label": "Area of catadioptricportion", "value": "-"},
+      {"label": "Total Area", "value": "4552 Sq cm"},
+      {"label": "Divergence", "value": "11º 27’ 32” (Horizontal) 6º 6’ 39” (Vertical)"},
+      {"label": "Main/Emergency Lamps", "value": ""},
+      {"label": "Duration of Flash", "value": "Fl (4) W 20 sec (fl 0.41) 0.41+2.92+0.41+2.92+0.41+2.92+0.41 + 9.6 seconds"},
+      {"label": "Main /Standby/Emergency", "value": "Only Main Lamp"},
+      {"label": "Pedestal", "value": "Ball bearing type"},
+      {"label": "Rotation Device", "value": "Dual Stepper motor (20 Kg cm)"},
+      {"label": "R.P.M.", "value": "3"},
+      {"label": "Illuminant", "value": "Metal Halide Lamps"},
+      {"label": "Main", "value": "Cluster 4 Nos-230V/150W MHL,600 Watts"},
+      {"label": "Standby", "value": "NA"},
+      {"label": "Emergency:", "value": "NA"},
+      {"label": "Date of Installation", "value": "09-08-2003"}
+    ], "tables": [], "text": null},
+    {"no": "8", "title": "Effective beam intensity", "title_hi": "प्रभावी बीम तीव्रता", "page": 1, "fields": [
+      {"label": "Main", "value": "1938500 cds"},
+      {"label": "Emergency", "value": "NA"}
+    ], "tables": [], "text": null},
+    {"no": "9", "title": "Lantern", "title_hi": "लेंटर्न", "page": 1, "fields": [
+      {"label": "Diameter", "value": "2.4m"},
+      {"label": "Height of glazing", "value": "1.380 m"},
+      {"label": "No. of panes", "value": "12"},
+      {"label": "Ventilators", "value": "8"}
+    ], "tables": [], "text": null},
+    {"no": "10", "title": "RACON", "title_hi": null, "page": 1, "fields": [{"label": "Sr. No", "value": "6572"}], "tables": [
+      {"caption": null, "columns": ["Make", "Model", "Code", "Band", "DoI"], "rows": [["Tideland, USA", "Sea Beacon 2 Sysytem 6", "K", "X + S Band", "04-05-2009"]]}
+    ], "text": "Header on page 1; data row on page 2."},
+    {"no": "11", "title": "NAIS", "title_hi": null, "page": 2, "fields": [
+      {"label": "Base Station", "value": "2 Nos - AIS1 & AIS2"}
+    ], "tables": [
+      {"caption": null, "columns": ["Model", "Type", "Power", "MMSI", ""], "rows": [
+        ["R40", "Class A", "AC-230V & DC-12V", "", ""],
+        ["Communication Equipment", "Satellite Modem", "1KVA UPS 12V/100AHBattery", "", ""]
+      ]},
+      {"caption": null, "columns": ["VSAT Antenna", "Band", "Modem", "", ""], "rows": [["2.4m dia Parabolic reflector", "EX-C", "M/s HugesPvt Ltd", "", ""]]},
+      {"caption": "DGPS", "columns": ["Transmitter Make", "Frequency", "Power Output", "RS 1 ID", "RS -II ID", "Beacon ID", "Date of commissioning", "Date of Recapitalization"], "rows": [["NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA"]]}
+    ], "text": null},
+    {"no": "12", "title": "Source of energy", "title_hi": "ऊर्जा के साधन", "page": 2, "fields": [
+      {"label": "Mains", "value": "440V AC 3ø - Local State Electricity"},
+      {"label": "Stand by Source -2 Nos", "value": "DG Set 25 KVA&7.5KVAKirloskar make"}
+    ], "tables": [
+      {"caption": "Engine 1- 25KVA for Elevator", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"], "rows": [["Kirloskar Green /HA394", "1", "32 BHP", "3", "1500", "Air"]]},
+      {"caption": "Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"], "rows": [["Kirloskar", "1", "25 KVA", "230 V/34.7A /1ø", "50Hz", "3 ø"]]},
+      {"caption": "Engine 2- 7.5KVA for Main Lamp", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"], "rows": [["Kirloskar Green /EA-16", "1", "16 BHP", "3", "1500", "Air"]]},
+      {"caption": "Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"], "rows": [["Kirloskar", "1", "7.5 KVA", "240V/ 31.25A", "50Hz", "1 ø"]]},
+      {"caption": "Solar Plant-2KW offline", "columns": ["Capacity PV", "Panels Nos", "Type", "Battery", "Bank"], "rows": [["2 KW Offline", "8 Nos 250Watts each", "Mono Crystalline", "48 Nos 2V/200 AH", "01 No."]]},
+      {"caption": "Solar Plant for RACON- Morse Code-K", "columns": ["Capacity PV", "Numbers", "Type", "Battery", "Bank"], "rows": [["70W/12V", "02Nos", "TBP 1275", "01 No 12V/100AH", "01 No."]]}
+    ], "text": null},
+    {"no": "13", "title": "Automatic Voltage Stabilizers", "title_hi": "स्वचालित वोल्टेज स्टेबलाइजर", "page": 2, "fields": [], "tables": [
+      {"caption": null, "columns": ["Make", "Model", "Capacity", "Input", "Output", "Phase", "Qty"], "rows": [
+        ["AE- Main Lamp", "EMS-12-J", "5 KVA", "160-260V", "230±1%", "1ø", "1 No"],
+        ["Unitek- Elevator", "K-5000", "30 KVA", "320-470", "400±1%", "3ø", "1 No"]
+      ]}
+    ], "text": null},
+    {"no": "14", "title": "Batteries", "title_hi": "बैटरि", "page": 2, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Type", "Make", "Volt", "Amp/Hr", "Qty", ""], "rows": [
+        ["NAISPSS", "SMF", "Exide", "12V", "150 AH", "2 Nos", ""],
+        ["Genset", "SMF", "SFM Sonic", "12V", "100 AH", "1 No", "7.5KVA"],
+        ["", "Lead Acid", "Exide Xp100", "12V", "100 AH", "1 No", "25 KVA"],
+        ["Automation", "SMF", "Exide", "12V", "7 AH", "2Nos", ""],
+        ["DGPS", "NA", "NA", "NA", "NA", "NA", "NA"]
+      ]}
+    ], "text": "Table continues from page 2 to page 3."},
+    {"no": "15", "title": "Battery charger", "title_hi": "बैटरि चार्जर", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Make", "Model", "Input", "Output", "Rating", "Qty"], "rows": [["Stepper Motor – Battery", "Ruttonsha", "BC-12/10", "230 V AC", "0-100V DC", "50 A", "1"]]}
+    ], "text": null},
+    {"no": "16", "title": "Inverter /UPS", "title_hi": "इंवर्टर", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Make", "Model", "Type", "Rating", "Input", "Output", "Qty", ""], "rows": [
+        ["Main Light", "Su-Kam", "Shiny", "Pure sine", "900VA", "12 V DC", "230 AC", "04", ""],
+        ["NAIS PSS", "Microteck", "", "Pure sine", "1 KVA", "12 V DC", "230 AC", "01", ""],
+        ["", "Su-Kam", "Shiny", "Pure sine", "1 KVA", "12 V DC", "230 AC", "01", ""],
+        ["DGPS", "NA", "NA", "NA", "NA", "NA", "NA", "NA", ""]
+      ]}
+    ], "text": null},
+    {"no": "17", "title": "Automation Equipment", "title_hi": "स्वचलन उपकरण", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["MAKE", "PLC", "HMI", "Power Supply", "VSAT", "Modem", "Band"], "rows": [["M/s RDS Pvt Ltd", "Allen Bradley", "Renu Electronic Pvt Ltd", "24 V DC", "1.8m dia Parabolic reflector", "Hugues", "EX.C"]]}
+    ], "text": null},
+    {"no": "18", "title": "Fire Fighting Equipment", "title_hi": "अग्नि शमन उपकरण", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Type of Extinguisher", "Capacity", "Nos", "Make"], "rows": [
+        ["DCP Type", "1 / 2 / 4 Kg", "3/3/2", "Map90"],
+        ["Co2", "4.5 Kg", "1", ""],
+        ["Foam Type", "9 Ltr", "3", ""]
+      ]}
+    ], "text": null},
+    {"no": "19", "title": "Communication", "title_hi": "संचार", "page": 3, "fields": [{"label": "Communication", "value": "BSNL Line - 0484 2502443"}], "tables": [], "text": null},
+    {"no": "20", "title": "Water Supply", "title_hi": "जल पूर्ति", "page": 3, "fields": [], "tables": [], "text": "Kerala Water Authority water supply (1 Separate Lines) up to Sump. 2 Nos. Overhead water tank of capacity 2000 Ltrs & 1800 Ltrs is installed for staff quarters and visitor’s toilet respectively."},
+    {"no": "21", "title": "Land", "title_hi": "भूमि", "page": 3, "fields": [
+      {"label": "Area", "value": "32.20 Acre"},
+      {"label": "Demarcation", "value": "Compound wall"}
+    ], "tables": [], "text": null},
+    {"no": "22", "title": "Buildings", "title_hi": "इमारतें", "page": 3, "fields": [
+      {"label": "RCC Structure: 08 Nos", "value": "Lighthouse Tower; Power House cum office, stores & recreation room; NA-II/Inspection Qtr( Double storey Building); NA-I Qtr; NA-II Qtr; LHA-Qtr ( Twin ); Ticket Counter cum Security room; Pump House"}
+    ], "tables": [], "text": "The eight buildings are printed as separate rows in the right-hand column; joined here with semicolons."},
+    {"no": "23", "title": "Compound Lights", "title_hi": "कंपाउंड लाइट", "page": 3, "fields": [{"label": "Compound Lights", "value": "NA"}], "tables": [], "text": "Both value cells printed \"NA\"."},
+    {"no": "24", "title": "Elevator", "title_hi": null, "page": 3, "fields": [{"label": "M/s Axis Eleveators and Escalators, Cochin", "value": "Capacity 5 Persons -320 kgs"}], "tables": [], "text": null},
+    {"no": "25", "title": "CCTV CAMERA", "title_hi": "सीसीटीवी कमेरा", "page": 4, "fields": [
+      {"label": "M/s HawksightTechnoliges, Cochin", "value": "8 Nos"},
+      {"label": "DVR- 2TB", "value": "01 Nos"}
+    ], "tables": [], "text": null},
+    {"no": "25", "title": "Staff", "title_hi": "स्टाफ", "page": 4, "fields": [], "tables": [
+      {"caption": null, "columns": ["Sl. No", "Designations"], "rows": [
+        ["1", "Navigational Assistant Gr-I"],
+        ["2", "Navigational Assistant Gr-II- 1 No"],
+        ["2", "LHA -1 No"]
+      ]}
+    ], "text": "Item number 25 is printed twice (CCTV CAMERA and Staff)."},
+    {"no": "26", "title": "Mode of approach", "title_hi": "पहुँचने का माध्यम", "page": 4, "fields": [], "tables": [], "text": "Ernakulam Railway Station Bus service – 12 Km"},
+    {"no": "27", "title": "Facilities available", "title_hi": "उपलब्ध सुविधाए", "page": 4, "fields": [], "tables": [], "text": "Post Office at 100 Mtr, Hospital at 100 Mtr, High school at 1 Km and Police Station is at 5 Km limit available."},
+    {"no": "28", "title": "Postal address", "title_hi": "डाक पता", "page": 4, "fields": [], "tables": [], "text": "The Head Lightkeeper\nVypin Lighthouse, Puthuvaipe P.O\nErnakulam-682508\nKerala"},
+    {"no": "29", "title": "Cost details (At the time of Construction)", "title_hi": "मूल्य का ब्योरा", "page": 4, "fields": [{"label": "Cost details (At the time of Construction)", "value": "N/A"}], "tables": [], "text": null},
+    {"no": "30", "title": "Date of commissioning", "title_hi": "प्रवर्तन मे लाने का देनांक", "page": 4, "fields": [{"label": "Date of commissioning", "value": "10.10.1979"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

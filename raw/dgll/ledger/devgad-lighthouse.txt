@@ -1,0 +1,183 @@
+           मास्टर लेजर/MASTER LEDGER
+क्रमसं         नाम /Name
+ ख्या/                                                 वििरण/Description
+Sr.No
+   1       ए.एल.ओ.एल/A.L.O.L.                               F 0590
+   2          स्थान/Position                            Lat 16° 23.3' N
+                                                       Long 73° 22.6' E
+  3         ऊंचाई/Elevation                                  29 M
+  4      अविलक्षण/Characteristic             Group Flash(4) white for every 30Sec
+  5        नॉविकलमाइलमेदूरी                                 25 NM
+             Range in miles
+  6      दीपस्तंििािर/L.H.Tower             Type                  Circular and Masonary
+                                           Height                          10.67 M
+                                       Colour Scheme              White and Black bands
+  7          ऑविकलउपकरण                    Optic                3rd Order Small Revolving
+           Optical equipment                                                Optic
+                                            Make              B.B.T. ( Except source changer
+                                                                          system )
+                                           Type                           Revolving
+                                            Size                           375mm
+                                         No. of lens                   4 (each of 60°)
+
+                                   Area of dioptric portion    1756 sq. cm (corrected area
+                                                                      1264 sq.cm)
+                                     Area of catadioptric      2838 sq. cm (corrected area
+                                           portion                    2186 sq.cm)
+                                         Divergence            Horizontal - 8.36°, Vertical -
+                                      Main/Emergency                      6.08°
+                                      Duration of Flash                  0.70 sec
+                                            Main
+                                    /Standby/Emergency
+
+                                         Pedestal              Mercury float (30kg in use)
+                                      Rotation Device          Dual stepper motor 40kgcm
+                                                                 with autochange-over
+                                            R.P.M.                          2
+                                         illuminant
+                                             Main             3 × 150watt Metal Halide Lamp
+                                                                      Cluster, 230V
+                                          Standby                          NA
+                                        Emergency:                         NA
+                                     Date of Installation              10-04-1960
+  8                                   Main & Standby                    90000 cd
+       प्रिािीबीमतीव्रता/Effective              Emergency                                    NA
+             beam intensity
+9             लेंिनन /Lantern                    Diameter                                2.0 M
+                                              Height of glazing                          1.3 M
+                                               No. of panes                                  16
+                                                Ventilators                                   7
+10            RACON                                Sr. No                                    NA
+          Make              Model                  Code                         Band                Date of
+                                                                                                  Installation
+            NA               NA                      NA                            NA                 NA
+11                                                  NAIS
+             Base Station
+
+         Model              Type                   Power                      MMSI
+          PSS               R-40                   25watt                   004192232
+     Communication
+       Equipment
+      VSAT Antenna          Band                 Modem
+       1.8m VSAT              S               Hughes HT2300
+
+          DGPS
+       Transmitter       Frequency        Power             RS 1 ID       RS -II    Beacon        Date     Date
+          Make                            Output                           ID         ID            of      of
+                                                                                                           Reca
+                                                                                                   com     pitali
+                                                                                                  missi    zatio
+                                                                                                  oning      n
+            NA               NA               NA             NA            NA           NA          NA      NA
+
+12   ऊर्ान केसाधन/Sour                     Mains                           MSEDCL 3phase 440V, 50Hz
+      ce of energy                        Standby                          Genset 7.5kva single phase
+                                                              Engine 1
+
+                             Make/Type             Qty      Rating         No of             RPM          Coolin
+                                                                          Cylinder                          g
+                          Kirloskar (Canopy        1        16BHP             2              1500          Air
+                                     type)
+                                                             Alternator
+                             Make/Type             Qty      Rating        Voltage/       Frequency        Phase
+                                                                            Amp
+                              Kirloskar            1        7.5kva        240V/31.           50Hz           1
+                                                                           2Amps
+                                        Solar Plant
+                             Capacity PV            Numbers                 Type             Battery      Bank
+                                 NA                    NA                    NA                NA          NA
+                                   Solar Plant for Main
+                             Capacity PV            Numbers                 Type          Battery         Bank
+                            200W -02NOS                03                  Mono-        12V, 150AH         NA
+                            190W – 01NOS                                  cystalline     (03 nos)
+13                                    स्वचावलतिोल्टे र्स्टे बलाइर्र
+                                     Automatic Voltage Stabilizers
+
+         Make            Model     Capa             Input              Output          Phase    Qty
+                                    city
+        VS power       VSP/servo/a   5           160-260Volts          240volts         1        1
+         system          ir/India  KVA
+14                                            बैिरर
+                                            Batteries
+       Equipment          Type         Make        Volt               Amp/Hr           Qty      Condi
+                                                                                                 tion
+        PSS NAIS       EP-150-12       Exide          12v             150AH            2         U/S
+         Genset         FXP5-XP-       Exide          12v             100AH            1        Good
+                          1000
+      Automation        EP-26-12       Exide           12v             26AH             2       Good
+         DGPS              NA            NA            NA               NA             NA        NA
+15                                    बैिररचार्नर/ Battery charger
+
+       Equipment         Make          Mod           Type              Rating          Qty      Condi
+                                        el                                                       tion
+     General Purpose       NA          NA             Na                NA                        NA
+
+       Automation        Nagoba          -             -              24v/10A          1        Good
+                       Electronics
+16                                      इं वर्ट रInverter /UPS
+     Equipme    Nos    Make            Model               Type       Rating      Qt    input    out
+         nt                                                                       y              put
+       Main        3   Lumin          1050/12V       Eco watt 1050VA         12VDC3              230
+       Light            ous                            Neo                                       Vac
+     NAIS PSS      1   Exide    Exide/1450/DSP       Sinewav 1450VA 1        24VDC               240
+                                      PST                e                                       Vac
+       DGPS       NA      NA          NA                NA         NA   NA    NA                 NA
+17                                      स्वचलनउपकरण
+                                     Automation Equipment
+      MAKE           PLC        HMI      Power Supply        VSAT     Modem       Band
+      NELCO      Telemecani Schneide         24VDC             -       Dlink        -
+                     que         r
+18         आविशमनउपकरण                    Type of            Capacity    Nos      Make
+        Fire Fighting Equipment         Extinguisher
+                                         DCP Type              1kg         2   Chandrakan
+                                                                                   t&
+                                                                                Company
+                                       DCP Type(u/s)
+                                      Foam Type(u/s)
+                                        Water Type            9litre       1    Supremex
+                                         DCP Type
+19             संचार                            Not available
+           Communication
+20            र्लपूवतन                Open well is available in compound and water is pumped
+            Water Supply             to tank using 0.5HP water pump. Insufficient water during
+                                     summer season. Also borewell s available with 2HP water
+                                                 pump used for gardening purpose.
+21               िूवम                                Area                      0.991 Hectare
+                 Land                           Demarcation                   Demarcation
+                                                                             carried in sept-
+                                                                                  2019.
+                                                                              Covered with
+                                                                             compound wall.
+22              इमारतें                One unit of Inspection Quarter               -
+               Buildings              (attached powerhouse),oil store
+                                       room,NA-1 quarter 1No, NA-2
+                                     quarter 1No, NA-3 quarter 1No,LHA
+                                                quarter 2No
+23          कंपाउं डलाइि                            7Nos
+          Compound Lights
+24         सीसीिीिीकमेरा                           Camera                          NA
+           CCTV CAMERA                              DVR                            NA
+25             स्टाफ                  Sl. No                     Designations
+                Staff                   1                Navigational Assistant Grade I
+                                        2                     Lighthouse Attendant
+26         पहुँ चनेकामाध्यम            By rail upto kankavli. 60km by road from kankavli to
+          Mode of approach                                     Devgad.
+                                       Walk/Auto rikshaw 3kms distance from Bus Depo to
+                                                             Lighthouse
+27          उपलब्धसुविधाए              Marine Police                      3kms
+          Facilities available            Station
+                                        Dispensary                       3.5kms
+                                        High School                      3.5kms
+                                        Post office                       3kms
+28     डाकपताPostal address                             Head light keeper
+                                                        Devgad lighthouse
+                                                            Devgad fort
+                                                               Devgad
+                                                          Taluka Devgad
+                                                        District Sindhudurg
+                                                            Pin 416613
+29     मूल्यकाब्योराCost details                          Rs. 1,86,185.11
+     (At the time of Construction)
+30    प्रितननमेलानेकादे नां क   10-04-1960
+     Date of commissioning
+

@@ -1,0 +1,44 @@
+{
+  "slug": "aguada-lighthouse-and-dgps-station",
+  "pages_read": [1, 2],
+  "name": "Aguada Lighthouse and DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1998,
+  "alol": "F0606",
+  "position": {"lat_text": "15° 29.32' N", "lon_text": "73° 46.20' E", "lat": 15.488667, "lon": 73.77},
+  "elevation_m": 85,
+  "characteristic_text": "Flash 3 white every 20 sec.",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.41
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 26.8, "geographical_nm": 19.8, "text": "Luminous: 26.8, Geographical: 19.8"},
+  "tower": {"type": "Rectangular R.C.C White Tower", "height_m": 18, "colour_scheme": "White"},
+  "optic": {
+    "make": "J. stone calcutta", "model": null, "type": "Revolving with cut & polished prisms.", "size": "375mm (3rd order small)", "order": "3rd order small",
+    "panels": 3,
+    "rotation_device": "Dual stepper motor (40 kg-cm)",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving with cut & polished prisms; Rotation Device: Dual stepper motor (40 kg-cm); R.P.M. 3",
+    "divergence_horizontal_deg": 7.333333,
+    "divergence_vertical_deg": 2.75,
+    "divergence_text": "7°.20' (horizontal) & 2°45' (vertical)",
+    "illuminant": "3×150W MH cluster"
+  },
+  "intensity_cd": null,
+  "racon": {"present": true, "code": "O", "text": "Sr. No. ALORS 78980; Pharos Marine PMAPI-RACON-2; Code O; Band X; installed 07.07.2018"},
+  "ais": {"present": true, "text": "NAIS Base Station: Model R-40, Type SAAB, Power 230V, MMSI 4192234"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 3 phase; Standby DG Set (2 x Kirloskar 32HP engines, 25KVA alternators); Solar plant 25kW on grid, 67 PV; solar plant for RACON 150 W"},
+  "issues": [
+    "Date of commissioning given as June 1998, which matches the DGPS commissioning date (05.06.1998); optic installation date printed as 'se1976'",
+    "Effective beam intensity left blank"
+  ]
+}

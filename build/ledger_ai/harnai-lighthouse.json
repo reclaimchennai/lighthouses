@@ -1,0 +1,43 @@
+{
+  "slug": "harnai-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Harnai Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F0564",
+  "position": {"lat_text": "17° 48.53'N", "lon_text": "73° 05.36'E", "lat": 17.808833, "lon": 73.089333},
+  "elevation_m": 29,
+  "characteristic_text": "fl R 05 Sec. (Fl 0.5 )",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["R"],
+    "period_s": 5,
+    "sequence_text": "Fl 0.5",
+    "sequence_s": null,
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 8, "geographical_nm": null, "text": "Luminous-08Miles"},
+  "tower": {"type": "White missionary tower", "height_m": 10, "colour_scheme": "White"},
+  "optic": {
+    "make": "MG Nickon, (Finland)", "model": "LED 350-2NR", "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": "RedFlashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Rotation Device: RedFlashing Light; R.P.M. NA; Pedestal GI pipe stand; Illuminant LED Light",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "LED Light"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "----"},
+  "ais": {"present": false, "text": "Base Station -N/A-"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": false, "text": "Solar Plant: Solar Panels (no capacity given); Standby -N/A-; engines ----/N/A; SMF Exide 12V 100AH batteries x2"},
+  "issues": [
+    "Date of commissioning blank; only 'Date of Installation of New LED Flashing Light: 12.07.2018' given"
+  ]
+}

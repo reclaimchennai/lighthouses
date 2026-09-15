@@ -1,0 +1,32 @@
+{
+  "nid": 1658,
+  "title": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP basis",
+  "summary": "Corrigendum from the Directorate of Lighthouses and Lightships, Chennai extending the bid deadline for engaging an Independent Engineer for the PPP tourism development project at Mahabalipuram Lighthouse.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(31)/1/2024-Civil Maintenance; 2024_DGLL_806882_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mahabalipuram Lighthouse", "station_id": "mahabalipuram-lighthouse", "kind": "lighthouse", "work": "Independent Engineer for PPP tourism development project"}
+  ],
+  "scope": [
+    {"item": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP basis", "qty": null, "unit": null, "site": "Mahabalipuram Lighthouse"}
+  ],
+  "money": {"estimated_cost_inr": null, "emd_inr": null, "tender_fee_inr": null, "performance_security": null, "notes": null},
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": "2024-07-23", "bid_opening": "2024-07-24"},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-07-05", "change": "Extension of last date: bid document download and online submission extended up to 23.07.2024 15:00; bid opening 24.07.2024 15:00. All other terms unchanged."}
+  ],
+  "documents": [
+    {"file": "EXTIndeEngineerIII.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled"]}
+  ],
+  "confidence": "medium",
+  "notes": "Only the date-extension corrigendum is attached (file name suggests third extension); the original RFP/NIT is not included."
+}

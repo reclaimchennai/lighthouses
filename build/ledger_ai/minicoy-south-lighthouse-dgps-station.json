@@ -1,0 +1,45 @@
+{
+  "slug": "minicoy-south-lighthouse-dgps-station",
+  "pages_read": [1, 2],
+  "name": "Minicoy DGPS & Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1885,
+  "alol": "F 0758",
+  "position": {"lat_text": "08° 16.0' N", "lon_text": "73° 01.6' E", "lat": 8.266667, "lon": 73.026667},
+  "elevation_m": 89,
+  "characteristic_text": "Fl (1) W 15 sec (0.66 + 14.34)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "0.66 + 14.34",
+    "sequence_s": [0.66, 14.34],
+    "flash_duration_s": 0.66
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 27.3, "geographical_nm": 18.95, "text": "Luminous: 27.3 Nm, Geographical: 18.95 Nm"},
+  "tower": {"type": "Tapering circular brick masonry Tower", "height_m": 48, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "B.B.T, Paris", "model": null, "type": "Revolving", "size": "920mm (1ST Order) Revolving", "order": "1st Order",
+    "panels": 3,
+    "rotation_device": "Stepper motor",
+    "rpm": 1.333,
+    "rotates": true,
+    "rotates_evidence": "Size: 920mm (1ST Order) Revolving; Rotation Device: Stepper motor; R.P.M. 4/3 RPM",
+    "divergence_horizontal_deg": 2.49,
+    "divergence_vertical_deg": 4.668611,
+    "divergence_text": "2° 29' 24\" (Horizontal), 4° 40' 07\" (Vertical)",
+    "illuminant": "230V/150W 4nos. Metal Halide Lamps"
+  },
+  "intensity_cd": 33215773,
+  "racon": {"present": true, "code": "G", "text": "Sr. No 6295; TideLand; Code G; Band X+S; installed 26-04-2010"},
+  "ais": {"present": true, "text": "NAIS Base Station 2 Nos-AIS1 & AIS2; Model R40, Class A, AC-230V & DC-12V; MMSI '-'"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440 V 3ø 50 Hz from Lakshadweep Electricity Department; DG Set 25 KVA (2 x Eicher 46BHP, Stamford 25 KVA alternators); TATA BP solar panel for RACON"},
+  "issues": [
+    "Effective beam intensity printed as '3,32,15,773 cds' (33.2 million cd)",
+    "Tower height '48m (up to lantern top)' highlighted in red/underlined on the page",
+    "RACON Sr. No 6295 is the same serial printed in other ledgers (e.g. Anjengo)"
+  ]
+}

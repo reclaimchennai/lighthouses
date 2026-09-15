@@ -1,0 +1,46 @@
+{
+  "slug": "navinal-lighthouse-and-vts-station",
+  "pages_read": [1, 2, 3, 4, 5, 6, 7],
+  "name": "Navinal VTS & Lighthouse Station",
+  "station_type": "lighthouse",
+  "established_year": 1965,
+  "alol": "F0361.82",
+  "position": {"lat_text": "22.7679° N", "lon_text": "69.6725° E", "lat": 22.7679, "lon": 69.6725},
+  "elevation_m": 48,
+  "characteristic_text": "Gp Fl 2 (W) every 10 Second",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 15, "geographical_nm": null, "text": "15 NM (single unlabelled range)"},
+  "tower": {"type": "RCC Circular concrete Tower (Light is installed at the height of 45 mtr)", "height_m": 60, "colour_scheme": "4 black and 3 white bands. (Bottom band black)"},
+  "optic": {
+    "make": "Sealite", "model": "SL-155-2.5D-W", "type": "LED Flasher", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Optical Equipment: SL-155 With 9 degree elevation; Type of Light (LED Flasher); LED LANTERN",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": "SL-155 With 9 degree elevation",
+    "illuminant": "White LED 12 volt supply by 12 volt 170 watt solar panel"
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": "70 watt Solar panel with 12 Volt 100 AH Battery for Recon PMPI X band"},
+  "ais": {"present": true, "text": "AIS - KONGSBERG Make, Model BS 500 AIS Base Stn., Part No B500-01, S/N 5001126"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Light: 100 watt solar panel with 12 V 100 AH battery; station: Adani SEZ mains 415V 3-phase; 02 DG sets (Sudhir 125 KVA, Kirloskar 62.5 KVA); on-grid 30 KW solar system"},
+  "issues": [
+    "RACON mentioned only in power source line ('Recon PMPI X band'); no RACON section or make/code details",
+    "Illuminant cites a 170 watt solar panel while power source lists a 100 watt solar panel for the light",
+    "Date of commissioning 13/02/2012 (VTS) differs from Year First Light Commissioned 01.06.1965; subsequent development 1988, 1993, 1997, 2003",
+    "Effective beam intensity not stated"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "nid": 1889,
+  "title": "Special Civil Maintenance to Lighthouse Tower and allied buildings including improvement of Internal Roads/Pathways and provision of Bio-toilets at Kuthenkuli Lighthouse in Chennai Directorate.",
+  "summary": "E-tender (percentage rate, two-cover) for special civil maintenance of the lighthouse tower and allied buildings, improvement of internal roads/pathways and provision of bio-toilets at Kuthenkuli Lighthouse, Tirunelveli District, Tamil Nadu (Chennai Directorate); deadline extended to 19.05.2025.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(24)/1/2020-Civil Maintenance; Tender ID 2025_DGLL_856999_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kuthenkuli Lighthouse, Kuthenkuli, Tirunelveli Dist, Tamilnadu", "station_id": "kuthenkuli-lighthouse", "kind": "lighthouse", "work": "Special civil maintenance to tower and allied buildings, improvement of internal roads/pathways, provision of bio-toilets"}
+  ],
+  "scope": [
+    {"item": "Special Civil Maintenance to Lighthouse Tower and allied buildings including improvement of Internal Roads/Pathways and provision of Bio-toilets", "qty": null, "unit": null, "site": "Kuthenkuli Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4025555.0,
+    "emd_inr": 80511.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of any scheduled/nationalised bank in favour of Director of Lighthouses and Lightships, Chennai, payable at Chennai; validity three months (table) / 90 days (clause 1.1) from technical bid opening; exempted for valid MSME/NSIC certificate. Tender fee Nil."
+  },
+  "period": {"completion": "06 (Six) months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-04-17", "pre_bid": "2025-04-30", "bid_submission_end": "2025-05-19", "bid_opening": "2025-05-20"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Similar works in last seven years: three each >= 40%, two each >= 50%, or one >= 80% of estimated cost; completed works only; value updated at 7% p.a.; certificates below Executive Engineer rank not considered",
+    "Similar works: repairs and civil maintenance of buildings or construction of any type of building/compound wall/retaining wall/RCC works",
+    "PAN/ITR/GST registration",
+    "Average annual turnover on construction works (CA certified) at least 40% of estimated cost in last 3 financial years ending 31 March 2025",
+    "Key technical personnel for supervision and execution",
+    "Unconditional tender undertaking (Annexure III), tender acceptance letter (Annexure II), non-blacklisting affidavit, declaration of relatives in MoPSW/DGLL, Make in India self-certification (Annexure VI)"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2025-05-08", "change": "Extension of last date (administrative reasons): online bid submission extended to 19.05.2025 15:00; bids opened 20.05.2025 15:00 (originally 08.05.2025 / 09.05.2025)"}
+  ],
+  "documents": [
+    {"file": "KuthenkuliNIT.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []},
+    {"file": "08-05-2025_Kuthenkuli.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section I NIT only; no BOQ or bio-toilet specification. Original download/submission 18.04.2025 10:00 to 08.05.2025 15:00; EMD up to 08.05.2025 15:00; opening 09.05.2025 15:00. Spelled 'Kuthenkuli' in NIT (listing: Kuthenkuli). Corrigendum signed by Deputy Director for Director. Listing end date 2025-05-08 is the original deadline; listing opening 2025-05-27 matches neither the NIT nor the corrigendum (possibly a later extension not in the listing documents)."
+}

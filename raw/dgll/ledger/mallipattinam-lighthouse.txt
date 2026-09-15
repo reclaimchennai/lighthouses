@@ -1,0 +1,171 @@
+                         मास्टर लेज़र/MASTER LEDGER
+
+                    मल्लिपट्टीनम दीपस्तंभ/Mallipattinam Lighthouse
+क्रमसंख्या/               नाम /Name
+   Sr.No                                                                    वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0901.9
+    2         स्थान/Position                     Lat.10° 16’12” N , long 79° 18’48” E
+    3         ऊंचाई/Elevation                    48.40M (Above MSL)
+    4         अभिलक्षण/Characteristic            Fl (1) W 5 sec (fl 0.5)
+
+    5         नॉटिकलमाइलमेदरू ी                  22 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                              RCC Octagonal Tower
+                                                 Height                            45 M
+                                                 Colour Scheme                     Red and White vertical Band
+    7         ऑप्टिकलउपकरण                       Optic                             Rotating beacon, MBR-300
+                                                 Make                              M/s Mediterrano senales Maritimes
+              Optical equipment
+                                                                                   (MSM),Spain
+                                                 Type
+                                                 Size                              210 mm
+                                                 No. of lens                       6
+                                                 Area of dioptric portion
+                                                 Area of catadioptric portion
+                                                 Divergence                        2.4º (Horizontal)
+                                                 Main/Emergency                    4.0º (Vertical)
+                                                 Duration of Flash                 0.5 sec
+                                                 Main /Standby/Emergency
+                                                 Pedestal                          -
+                                                 Rotation Device                   Inbuilt stepper motor with drive
+                                                 R.P.M.                            2 r.p.m
+                                                 illumining
+                                                 Main                              230V/150W Single ended Metal
+                                                                                   Halide Lamp
+                                                 Standby                           -
+                                                 Emergency:                        -
+                                                 Date of Installation              15.10.2010
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                              166000 cds
+              intensity                          Emergency                         -
+    9         लेंिनन/Lantern                     Diameter                          2.4 m
+                                                 Height of glazing                 1.4 m
+                                                 No. of panes                      12 Nos Toughened glass
+                                                 Ventilators                       6 Nos
+    10        RACON                                   Sr. No
+          Make                  Model               Code                                 Band                       Date of
+                                                                                                                    Installation
+
+     11   NAIS
+          Base Station
+
+          Model                 Type                Power                                MMSI
+
+          Communication
+          Equipment
+          VSAT Antenna          Band                Modem
+            2.4m dia            EX-C                Datum system
+            Parabolic                                   M7LT
+            reflector                               Satellite Terminal
+          DGPS
+          Transmitter Make      Frequency           Power Output        RS 1 ID          RS -II      Beacon         Date of        Dat
+                                                                                         ID          ID             commis         e of
+                                                                                                                    sioning        Re
+                                                                                                                                   cap
+                                                                                                                                   itali
+                                                                                                                                   zati
+                                                                                                                                   on
+
+
+
+     12   ऊर्ानकेसाधन/Source    Mains                                                    Tamilnadu electricity board
+          of energy             Power Source                                             3 phase /440V AC supply
+                                Engine 1                                                                (NIL)
+                                Make/Type                    Qty         Rating          No of            RPM               Cooling
+                                                                                         Cylinder
+
+                                Alternator
+                                Make/Type                    Qty         Rating          Voltage/Amp      Frequency         Phase
+
+
+                                Engine 2                                                                (NIL)
+                                Make/Type                    Qty         Rating          No of            RPM               Cooling
+                                                                                         Cylinder
+
+                                Solar Plant for Main light
+                                Capacity PV                  Numbers                     Type       Battery                 Bank
+                                1 KW (24 V/250 W)            4 Nos                         Access 12 Nos                    01 No.
+                                                                                           solar     2 V/ 1000 AH
+                                Solar Plant for 2KW off grid (used in automation, street light and etc
+                                Capacity PV                  Numbers                     Type       Battery                 Bank
+                                2 KW (24 V/ 250 W)           08 No.                      HBL        02 Nos                    01 No.
+                                                                                         make       12V/200AH
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make                 Model                Capa     Input                       Output                 Phase       Qty
+                                                    city
+          Globus               Servo                5        170-270 V                   230 V                  1 phase     1 No
+                               controlled           KVA
+14        बैिरर
+     Batteries
+     Equipment              Type                    Make          Volt                    Amp/      Qty
+                                                                                          Hr
+     PSS NAIS                          -                  -                  -               -               -
+     Genset                            -                  -                  -               -               -
+     Automation                        -                  -                  -               -               -
+     DGPS                              -                  -                  -               -               -
+15   बैिररचार्नर/ Battery charger
+
+     Equipment              Make                    Model Type                            Rating Qty
+     General Purpose        Associate               -     -                               0-30   1 No
+                            engineer                                                      V/ 30
+                                                                                          A
+
+16   इंवटट रInverter /UPS
+     Equipment Nos          Make            Model                            Type         Rating       Qty       input      out
+                                                                                                                            put
+     Main Light    1 No        Hidal                      ---                Pure sine    1450 VA      1No       24 V/ DC & 230
+                                                                             wave                                 230 V AC VAC
+     2 KW off      1 No     Glow                          --                 Pure sine    2500 VA      1No       48 V/ DC & 230
+     grid                   power                                            wave                                230 V AC   VAC
+                            technol
+                            ogies
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE        PLC                       HMI                Power Supply          VSAT            Modem          Band
+     RDS         Allen Bradley             Renu               24 V DC               1.8 m dia       Hughes         EX.C
+                                           electronics                              Parabolic
+                                                                                    reflector
+18   आप्ननशमनउपकरण                                  Type of Extinguisher            Capacity          Nos      Make
+     Fire Fighting Equipment                        DCP Type                        5 kg              3        Ronak
+                                                    Co2                             2 Kg              1        Intime
+                                                    Foam Type                       9 Ltr             3        Excellent
+19   संचार                                          BSNL telephone                                  04373-212421
+     Communication
+20   र्लपर्ू तन                                     Local panchayath water supply and 2 Nos of well
+     Water Supply
+21   िभू म                                          Area                                            0.46 hectares
+     Land                                           Demarcation                                     Not Available
+
+22   इमारतें                                        RCC Structure: 04 Nos                           Power House-cum Office
+     Buildings                                                                                      room, Inspection
+                                                                                                    quarters, NA-II quarter
+                                                                                                    and LHA quarter
+23   कंपाउं डलाइि                                   LED Light fitted on G.I Pole-06 Nos
+                                                    Garden light-1 No
+     Compound Lights
+                                                    Gate light- 2 Nos
+
+24   सीसीिीिीकमेरा                                  NIL
+     CCTV CAMERA
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1            Navigational Assistant Gr-II – 1 No
+                                     2            Outsorced staff for Housekeeping- 1 No
+26   पहुँचनेकामाध्यम                 Nearby Railway station is Thanjavur,
+     Mode of approach                Nearest airport is Tiruchirapalli airport,
+                                     from Thanjavur to Mallipattinam by road about 70 KM
+                                     From Pattukottai to Mallipattinam by road about 20 KM
+27   उपलब्धसविधाए                    The nearest Post office local panchayat office, High School and
+     Facilities available            Dispensary at Mallipattinam, Police Station are available at
+                                     Sethubavachathiram.
+
+28   डाकपताPostal address            The Navigational Assistant Gr-I
+                                     Mallipattinam Lighthouse,
+                                     Near Manora,
+                                     Pattukottai Taluk
+                                     Thanjavur, Tamilnadu-614725
+29   मल्ू यकाब्योराCost details      2.05 crores
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          15th October 2010
+     Date of commissioning
+

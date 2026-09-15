@@ -1,0 +1,41 @@
+{
+  "slug": "satpati-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5, 6],
+  "name": "Satpati Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2009,
+  "alol": "F 0492",
+  "position": {"lat_text": "19° 43.34’ N", "lon_text": "72° 42.16’” E", "lat": 19.722333, "lon": 72.702667},
+  "elevation_m": 38,
+  "characteristic_text": "Fl(2) w 20 Sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.267
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20 NM (unlabelled)"},
+  "tower": {"type": "Circular RCC Tower", "height_m": 30, "colour_scheme": "Red & White band (3 Red 2 White)"},
+  "optic": {
+    "make": "Tideland signal Corporation, USA", "model": "TRB-220", "type": "Tideland TRB-220 Marine Rotating Beacon", "size": "110 mm focal Length", "order": null,
+    "panels": 6,
+    "rotation_device": "Stepper Motor, Torque 10 Kgcm 2.8 A, 04 Wire, single Gearless direct drive, Microprocessor controlled, operated on 12 V DC",
+    "rpm": 1.5,
+    "rotates": true,
+    "rotates_evidence": "Type: Tideland TRB-220 Marine Rotating Beacon; Rotation Device: Stepper Motor gearless direct drive; R.P.M. 1.5",
+    "divergence_horizontal_deg": 2.4,
+    "divergence_vertical_deg": 2.42,
+    "divergence_text": "Horizontal-2.40°, Vertical-2.42°",
+    "illuminant": "230 V AC/70 W M.H LAMP, Blast 70 Watt CDM-T Philips certa Vision"
+  },
+  "intensity_cd": 139990,
+  "racon": {"present": false, "code": null, "text": "NIL"},
+  "ais": {"present": false, "text": "Base Station NIL"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "440 V 3 phase MSEDCL mains; standby Kirloskar EA/16 16 HP DG set with 10 KVA Crompton alternator; 06 x 75 W Tata BP solar panels"},
+  "issues": ["No. of lens given as '06 (04 fresnel lense + 2 blanks)'"]
+}

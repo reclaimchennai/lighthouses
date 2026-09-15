@@ -1,0 +1,48 @@
+{
+  "nid": 697,
+  "title": "Construction of Compound wall, Cement Concrete Road, UG Sump and Security Cabin at Kovilthottam Lighthouse",
+  "summary": "Two-cover online e-tender for building a compound wall, cement concrete road, underground sump and security cabin at Kovilthottam Lighthouse, Chavara, Kollam, Kerala, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-07002/1/2019-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kovilthottam Lighthouse, Chavara, Kollam, Kerala", "station_id": "kovilthottam-lighthouse", "kind": "lighthouse", "work": "Construction of compound wall, cement concrete road, UG sump and security cabin"}
+  ],
+  "scope": [
+    {"item": "Construction of Compound wall", "qty": null, "unit": null, "site": "Kovilthottam Lighthouse"},
+    {"item": "Cement Concrete Road", "qty": null, "unit": null, "site": "Kovilthottam Lighthouse"},
+    {"item": "UG Sump", "qty": null, "unit": null, "site": "Kovilthottam Lighthouse"},
+    {"item": "Security Cabin", "qty": null, "unit": null, "site": "Kovilthottam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4222382.0,
+    "emd_inr": 84500.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/bank guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam. Originals of EMD (or MSME certificate) and all technical documents to reach the office by registered/speed post or in person by the scheduled date. Tender fee Nil."
+  },
+  "period": {"completion": "04 Month", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2022-11-25", "pre_bid": "2022-12-06", "bid_submission_end": "2022-12-13", "bid_opening": "2022-12-14"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous body",
+    "Similar works completed in last 7 years: three >= 40%, or two >= 50%, or one >= 80% of estimated cost",
+    "PAN and GST registration",
+    "Key technical personnel for supervision and execution with qualification and experience",
+    "Unconditional bid undertaking (Annexure V) and tender acceptance letter (Annexure IV)",
+    "Affidavit of not being blacklisted on Rs 100 non-judicial stamp paper (Annexure VIII)",
+    "List of relatives serving in Ministry of Shipping or DGLL (Annexure VII)",
+    "Documentary evidence of annual turnover of last three years"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "2e6e2f42-ca29-47b5-b614-09eef472f3e3.pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only the 3-page Section I NIT is posted (no BOQ or drawings); OCR text layer missed the highlighted values (estimated cost, EMD, opening date), so all pages were read from rendered images. NIT dated 23.11.2022; download/submission 25.11.2022 11:00 to 13.12.2022 15:00; bid queries by 05.12.2022 12:00; EMD original by 12.12.2022 15:00; technical bid opening 14.12.2022 15:00. Listing bid_opening 2022-11-23 is the NIT date, not the opening date. Listed under DGLL, but issued by the Cochin directorate. Published date taken as start of download period."
+}

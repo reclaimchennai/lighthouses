@@ -1,0 +1,41 @@
+{
+  "slug": "baruva-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Baruva Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F 0985",
+  "position": {"lat_text": "18° 52' 8\" N", "lon_text": "84° 35' 8\" E", "lat": 18.868889, "lon": 84.585556},
+  "elevation_m": 40,
+  "characteristic_text": "FL (I) W 15 SEC",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.8
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 17, "geographical_nm": 20, "text": "Luminous 17 NM, Geographical 20 NM"},
+  "tower": {"type": "RCC structure (Octagonal Shape)", "height_m": 30, "colour_scheme": "Black and White Bands"},
+  "optic": {
+    "make": "Tideland Signal Corporation, USA", "model": "TRB 220", "type": "Revolving", "size": "915 mm height & 445 mm Dia.; Focal Length 110 mm", "order": null,
+    "panels": 6,
+    "rotation_device": null,
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Optical Equipment: TRB 220 (Revolving); RPM 2",
+    "divergence_horizontal_deg": 2.4,
+    "divergence_vertical_deg": 1.15,
+    "divergence_text": "2.40 (Horiz.) & 1.15 (Vert.)",
+    "illuminant": "70 Watt MH Lamp, 230 volts AC"
+  },
+  "intensity_cd": 26928,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "NAIS: 02 Nos. Saab Transponder make AIS base stations, commissioned 01-12-2012"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "3 phase 440V APEPDCL mains; 11 kWp on-grid solar; standby Kirloskar 20.8 BHP genset with 15 KVA alternator"},
+  "issues": ["Two elevations given: 'Elevation of ground 9 m' and 'Elevation of tower 40 m'; 40 m used", "Divergence printed '2.40 (Horiz.) & 1.15 (Vert.)' without units or degree sign", "Intensity labelled 'Luminous Intensity' (26928 cd)"]
+}

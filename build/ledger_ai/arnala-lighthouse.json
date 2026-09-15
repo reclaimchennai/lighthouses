@@ -1,0 +1,46 @@
+{
+  "slug": "arnala-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Arnala Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2019,
+  "alol": "F 0494",
+  "position": {"lat_text": "19° 27.40' N", "lon_text": "72° 44.80' E", "lat": 19.456667, "lon": 72.746667},
+  "elevation_m": 48,
+  "characteristic_text": "FL 3 WR 15 Sec. (FL 0.83 Sec.)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W", "R"],
+    "period_s": 15,
+    "sequence_text": "FL 0.83 Sec.",
+    "sequence_s": null,
+    "flash_duration_s": 0.83
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 25, "geographical_nm": null, "text": "25NM (single unlabelled range)"},
+  "tower": {"type": "RCC tower by using slip from method with spiral half round staircase and lift", "height_m": 45, "colour_scheme": "Spiral Band White & Black"},
+  "optic": {
+    "make": "Vega Marine Rotating Beacon", "model": null, "type": "VRB-25-LED-8P-2T", "size": "2Tire LED -8P-2T", "order": null,
+    "panels": 8,
+    "rotation_device": "motor drive brushless direct drive motor",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: motor drive brushless direct drive motor; R.P.M. 2",
+    "divergence_horizontal_deg": 1.6,
+    "divergence_vertical_deg": 1.6,
+    "divergence_text": "Horizontal 1.6° vertical 1.6°",
+    "illuminant": "Marine Rotating Becon Vega VRB – 25-LED -8P-2T; Main 12V DC"
+  },
+  "intensity_cd": 209000,
+  "racon": {"present": false, "code": null, "text": null},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V 3PH 50Hz; standby DG-Set 01 (Kirloskar AT94 23.54KW, 25KVA alternator); solar plant 12/325W x3, battery 12/1000AH"},
+  "issues": [
+    "Colour given as 'WR' with no sector bearings",
+    "No. of lens '08 ( 06 In sevies)' is unclear",
+    "Duration of Flash field reads '15 Sec , 2rpm'; 2 rpm with 8 lenses does not obviously match 3 flashes per 15 s",
+    "RACON and NAIS sections are blank tables"
+  ]
+}

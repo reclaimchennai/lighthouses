@@ -1,0 +1,38 @@
+{
+  "nid": 1452,
+  "title": "Fabrication, Supply, Installation and Commissioning of LTCT Panel, Fuse Panel and Distribution Panel for 125KVA Generator Set at Deep Bhavan Chennai",
+  "summary": "Fabrication, supply, installation and commissioning of LTCT, fuse and distribution panels for the 125 kVA generator set at Deep Bhavan, the Chennai Directorate office.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan Chennai", "station_id": null, "kind": "office", "work": "LTCT panel, fuse panel and distribution panel for 125 kVA generator set"}
+  ],
+  "scope": [
+    {"item": "Fabrication, Supply, Installation and Commissioning of LTCT Panel, Fuse Panel and Distribution Panel for 125KVA Generator Set", "qty": null, "unit": null, "site": "Deep Bhavan Chennai"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1402588.0,
+    "emd_inr": 28052.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR of any nationalised bank in favour of The Director of Lighthouses and Lightships, Chennai, valid 90 days from technical bid opening. Tender fee Rs 500 non-refundable by DD. Tender fee and EMD exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "30 Days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-02-01", "pre_bid": "2024-02-08", "bid_submission_end": "2024-02-15", "bid_opening": "2024-02-16"},
+  "eligibility": [
+    "OEMs or their authorised agents, or appropriate class contractors registered with CPWD, State PWD, Railways, MES, BSNL etc or other State/Central Govt/PSU/autonomous bodies, having experience in the works"
+  ],
+  "specs": ["125 kVA generator set (panels for)"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "tender.pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer has broken conjuncts (font extraction); English text complete"]}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 31/01/2024; two-cover online bids. Download/submission 01/02/2024 16:00 to 15/02/2024 14:00; technical bid opening 16/02/2024 14:30. No file number, BOQ or specifications in the document. Similar panel work for static sensors at Pulicat/Portonova/Nagapattinam is nid 1698."
+}

@@ -1,0 +1,38 @@
+{
+  "nid": 1702,
+  "title": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP basis.",
+  "summary": "Corrigendum extending the bid deadline of the e-tender to engage an Independent Engineer for the PPP tourism development project at Mahabalipuram Lighthouse (Chennai Directorate).",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(31)/1/2024-Civil Maintenance; Tender ID 2024_DGLL_806882_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mahabalipuram Lighthouse", "station_id": "mahabalipuram-lighthouse", "kind": "lighthouse", "work": "Independent Engineer for tourism development project on PPP basis"}
+  ],
+  "scope": [
+    {"item": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP basis", "qty": null, "unit": null, "site": "Mahabalipuram Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": null
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": "2024-07-30", "bid_opening": "2024-07-31"},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-07-24", "change": "Extension of last date: bid document download and online submission extended to 30.07.2024 15:00; bids opened 31.07.2024 15:00"}
+  ],
+  "documents": [
+    {"file": "EXTIndeEngineerIV.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only a date-extension corrigendum is in the listing (filename suggests extension IV); original NIT with cost/EMD/eligibility not included. An earlier extension of the same Tender ID (dated 04-06-2024, to 19.06.2024) is nid 1600. Official e-mail dlhlschennai@gmail.com printed."
+}

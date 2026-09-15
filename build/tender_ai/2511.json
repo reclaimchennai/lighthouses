@@ -1,0 +1,38 @@
+{
+  "nid": 2511,
+  "title": "Supply and Installation of ESE Lightning Arrestor for 13 Lighthouses and Deep Bhavan under Mumbai Directorate.",
+  "summary": "Supply and installation of ESE (early streamer emission) lightning arrestors at 13 lighthouses and Deep Bhavan under the Directorate of Lighthouses and Lightships, Mumbai.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-Mum-01001/1/2020-Electrical",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, M. G. Road, Ghatkopar (East), Mumbai"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Supply and Installation of ESE Lightning Arrestor for 13 Lighthouses and Deep Bhavan (locations as per Annexure-VI, not included in this notice)", "qty": "14", "unit": "locations", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 3018536.0,
+    "emd_inr": 60400.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost inclusive of GST. EMD by Demand Draft/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid three months from technical bid opening; originals by registered/speed post or in person by 13/08/2026 17:00. Firms registered with MSME, NSIC etc. also required to submit EMD."
+  },
+  "period": {"completion": "03 months", "bid_validity": "180 days from the date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2026-07-23", "pre_bid": "2026-07-27", "bid_submission_end": "2026-08-13", "bid_opening": "2026-08-14"},
+  "eligibility": [
+    "Reputed contractors/firms of appropriate category registered with CPWD, State PWD, MES, Railways, BSNL or other Central/State Government/public sector organisations",
+    "Eligibility criteria as defined in clause 3.1 of tender document (not included in this notice)",
+    "Bidders with near relatives posted as accountant or Gazetted Officer in DGLL not permitted"
+  ],
+  "specs": ["ESE (Early Streamer Emission) type lightning arrestor"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ (2).pdf", "pages": 5, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Listing file is named NIQ but document is a Notice Inviting e-Tender (Hindi pages 1-3, English pages 4-5). The 13 lighthouses are listed only in Annexure-VI, which is not part of this document, so individual stations are not recorded. Bid submission 23/07/2026 15:00 to 13/08/2026 15:00; pre-bid meeting at Deep Bhavan, Mumbai."
+}

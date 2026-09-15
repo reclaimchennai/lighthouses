@@ -1,0 +1,45 @@
+{
+  "slug": "ruvapari-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Ruvapari Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1891,
+  "alol": "F 0456",
+  "position": {"lat_text": "21° 46.7' N", "lon_text": "72° 14.0' E", "lat": 21.778333, "lon": 72.233333},
+  "elevation_m": 20,
+  "characteristic_text": "Fl (W) 12Sec. (0.5 + 11.5 = 12Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 12,
+    "sequence_text": "0.5 + 11.5 = 12Sec",
+    "sequence_s": [0.5, 11.5],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 11, "geographical_nm": null, "text": "11 NM (unlabelled range)"},
+  "tower": {"type": "Grey hut o piles", "height_m": 10, "colour_scheme": "Grey"},
+  "optic": {
+    "make": "Chance Brother", "model": null, "type": null, "size": "300 mm", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Illuminant: SL 155 LED LANTERN; Rotation Device and R.P.M. blank",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": "3° 26.18'",
+    "illuminant": "SL 155 LED LANTERN"
+  },
+  "intensity_cd": 3817,
+  "racon": {"present": false, "code": null, "text": "RACON section empty"},
+  "ais": {"present": false, "text": "NAIS –NA"},
+  "dgps": {"present": false},
+  "power": {"mains": false, "solar": true, "generator": false, "text": "Mains NA; Solar Powered Light: 3 x 12V/70W mono panels, 12V/200 AH battery"},
+  "issues": [
+    "Divergence 3° 26.18' not labelled horizontal or vertical",
+    "Tower type printed 'Grey hut o piles'; pedestal '40 feet wrought iron tapering mast fixed Screw Pile'",
+    "Date of commissioning given only as year 1891"
+  ]
+}

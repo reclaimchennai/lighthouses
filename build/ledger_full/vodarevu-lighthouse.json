@@ -1,0 +1,123 @@
+{
+  "slug": "vodarevu-lighthouse",
+  "page_count": 5,
+  "title_as_printed": "Vodarevu Lighthouse Estd.2003. VISAKHAPATNAM DIRECTORATE MASTER LEDGER",
+  "sections": [
+    {"no": "1.", "title": "Name", "title_hi": null, "page": 1, "fields": [{"label": "Name", "value": "VODAREVU LIGHTHOUSE"}], "tables": [], "text": "[photo: black and white banded lighthouse tower, top right of page 1]"},
+    {"no": "2.", "title": "Sr.No. (as per A.L.O.L)", "title_hi": null, "page": 1, "fields": [{"label": "Sr.No. (as per A.L.O.L)", "value": "F 0952.9"}], "tables": [], "text": null},
+    {"no": "3.", "title": "Position", "title_hi": null, "page": 1, "fields": [{"label": "Position", "value": "Lat: 15º 47'42\" N Long: 80º 24' 36\" E"}], "tables": [], "text": null},
+    {"no": "4.", "title": "Elevation", "title_hi": null, "page": 1, "fields": [{"label": "Elevation", "value": "34 Mtr above MSL"}], "tables": [], "text": null},
+    {"no": "5.", "title": "Characteristic", "title_hi": null, "page": 1, "fields": [{"label": "Characteristic", "value": "Gp FL (2) White, every 15 Seconds (Fl 0.6 +ec1.9 + Fl 0.6 + ec 11.9)"}], "tables": [], "text": null},
+    {"no": "6.", "title": "Range in nautical miles", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Luminous", "value": "24 M at 074 ATF"},
+      {"label": "i) Geographical", "value": "17 NM"}
+    ], "tables": [], "text": null},
+    {"no": "7.", "title": "Lighthouse Tower", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Type", "value": "Circular R.C.C. Tower by SLIP FORM"},
+      {"label": "ii) Height", "value": "30 Mtr"},
+      {"label": "iii) Colour Scheme", "value": "Black and White bands"}
+    ], "tables": [], "text": null},
+    {"no": "8.", "title": "Optical Equipment", "title_hi": null, "page": 1, "fields": [
+      {"label": "a) i) Make", "value": "M/S Stone Chance Limited, London"},
+      {"label": "a) ii) Size", "value": "4TH Order Revolving"},
+      {"label": "a) iii) Focal distance", "value": "250 mm"},
+      {"label": "a) iv) No. of Panels", "value": "4 (in 90° each)"},
+      {"label": "a) v) Area of dioptric portion", "value": "665 sq.cm (corrected to 470 sq.cm)"},
+      {"label": "a) vi) Area of catadioptric portion", "value": "1300 sq.cm (corrected to 1080 sq.cm)"},
+      {"label": "a) vii) Divergence Main", "value": "Horizontal : 3.41°, Vertical : 5.7°"},
+      {"label": "a) viii) Duration of flash Main", "value": "0.6 seconds"},
+      {"label": "b) Pedestal", "value": "Mercury Float 28 kg .in use. Cast iron Pedestal"},
+      {"label": "c) Rotation Device", "value": "i) Optical table driven by twin stepper 20kg. cm motor with auto change over using microcontroller - 1No ii) Stand by stepper motor controller-01"},
+      {"label": "d) Rotation Speed", "value": "1 RPM"},
+      {"label": "e) Illuminant i) Main/Service", "value": "150 watts Metal Halide Lamps"},
+      {"label": "f) Effective Beam Intensity i) Main/Service", "value": "5,22,000 cds."}
+    ], "tables": [], "text": "Continues on page 2."},
+    {"no": "9.", "title": "Lantern", "title_hi": null, "page": 2, "fields": [
+      {"label": "i) Diameter", "value": "2.16 Mtr"},
+      {"label": "ii) Height of glazing", "value": "1.13 Mtr"},
+      {"label": "iii) No. of panes", "value": "8 Nos."},
+      {"label": "iv) Ventilators", "value": "7 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "10.", "title": "Energy Source", "title_hi": null, "page": 2, "fields": [
+      {"label": "A) APSPDCL Mains", "value": "440 V AC, 3 Phase, 50 Hz"},
+      {"label": "B) Green Energy", "value": "1.2 KW off grid solar system for main light"},
+      {"label": "i) Solar panels", "value": "8 Nos 24V/150W solar module (TATA BP Make) 12Nos 2V/900Ah battery bank (TATA BP Make) Date of installation 21/10/2019,"},
+      {"label": "ii) Battery Bank", "value": "4nos 12V150AH battery bank (Exide Make) (Date of installation 15/07/22, 60month warranty)"},
+      {"label": "iii) UPS", "value": "2KVA/ 24V UTL make"}
+    ], "tables": [], "text": null},
+    {"no": "11.", "title": "Details of Diesel Engine Generators", "title_hi": null, "page": 2, "fields": [
+      {"label": "Make", "value": "Kirloskar Green"},
+      {"label": "Model No.", "value": "KG15AS4 (Canopy)"},
+      {"label": "H.P.", "value": "15 KVA"},
+      {"label": "No. of Cylinder", "value": "02 Nos."},
+      {"label": "RPM", "value": "1500"}
+    ], "tables": [], "text": "Continues on page 3."},
+    {"no": "12.", "title": "Diesel Engine Alternator", "title_hi": null, "page": 3, "fields": [
+      {"label": "Make", "value": "Kirloskar Green"},
+      {"label": "Model", "value": "CSIBO14F64"},
+      {"label": "KVA", "value": "15"},
+      {"label": "Voltage", "value": "230 V"},
+      {"label": "Frequency", "value": "50 Hz"},
+      {"label": "Phase", "value": "Single"},
+      {"label": "RPM", "value": "1500"}
+    ], "tables": [], "text": null},
+    {"no": "13.", "title": "Automatic Voltage Stabilizers", "title_hi": null, "page": 3, "fields": [
+      {"label": "Automatic Voltage Stabilizers", "value": "1 No."},
+      {"label": "Make", "value": "M/s. Supra-hi-tech"},
+      {"label": "Model", "value": "SH-390"},
+      {"label": "Capacity", "value": "9 KVA 3 Phase"},
+      {"label": "Input", "value": "330-470V AC"},
+      {"label": "Output", "value": "415 V"}
+    ], "tables": [], "text": null},
+    {"no": "14.", "title": "NAIS Equipment", "title_hi": null, "page": 3, "fields": [
+      {"label": "Make", "value": "M/s SAAB"},
+      {"label": "AIS R40 Base Station", "value": "Sl.No.5298"},
+      {"label": "AIS R40 Base Station", "value": "Sl.No 5348 (Connected with Cisco Switch and PSM-500L Satellite Modem)"},
+      {"label": "V- SAT Dish Size", "value": "2.4 Mtr. dia"},
+      {"label": "VHF Antenna", "value": "2 Nos."},
+      {"label": "GPS Antenna", "value": "2 Nos."},
+      {"label": "Date of Commissioning", "value": "20/12/2011"}
+    ], "tables": [], "text": null},
+    {"no": "15.", "title": "Automation of Lighthouse.", "title_hi": null, "page": 3, "fields": [
+      {"label": "Make", "value": "M/s Recktronic Devices & Systems, Pune."},
+      {"label": "RDS Panel", "value": "1No. in power house."},
+      {"label": "RDS Panel", "value": "1No. Service room."},
+      {"label": "VSAT Antenna", "value": "1.2 Mtr. dia"},
+      {"label": "Date of commissioning", "value": "21/02/2013"}
+    ], "tables": [], "text": "VSAT Antenna and Date of commissioning on page 4."},
+    {"no": "16.", "title": "Street Lights", "title_hi": null, "page": 4, "fields": [{"label": "Street Lights", "value": "i) G.I Poles with 25W LED light - 8 Nos. ii) Main Gate Light CFL - 2 Nos. iii) Wicket gate Light CFL-2 Nos"}], "tables": [], "text": null},
+    {"no": "17.", "title": "Firefighting equipment", "title_hi": null, "page": 4, "fields": [
+      {"label": "Fire Extinguishers i) D.C.P. type (3.2kg Capacity)", "value": "4 Nos."},
+      {"label": "ii) Foam type (9 litres capacity)", "value": "1 No."},
+      {"label": "iii) Fire Buckets", "value": "4 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "18.", "title": "Communication Facility", "title_hi": null, "page": 4, "fields": [
+      {"label": "Telephone No.", "value": "08594 – 248352 with broadband (Disconnected)"},
+      {"label": "e-mail", "value": "vodarevu-vizag@dgll.nic.in"}
+    ], "tables": [], "text": null},
+    {"no": "19.", "title": "Water Supply", "title_hi": null, "page": 4, "fields": [{"label": "Water Supply", "value": "i) Rain water collecting tank -1.20 lakh capacity ii) Bore well - using 1 HP Motor- 2 Nos."}], "tables": [], "text": null},
+    {"no": "20.", "title": "Land", "title_hi": null, "page": 4, "fields": [
+      {"label": "i) Area", "value": "Ac. 1.75 Cts."},
+      {"label": "ii) Demarcation", "value": "Masonry Compound wall"}
+    ], "tables": [], "text": null},
+    {"no": "21.", "title": "Buildings", "title_hi": null, "page": 4, "fields": [{"label": "Buildings", "value": "i) Power House, Store & Office Room ii) Inspection quarter iii) NA-I quarter iv) One Twin unit of NA-II quarter v) One Twin unit of LHA and LHS quarter"}], "tables": [], "text": null},
+    {"no": "22.", "title": "Staff", "title_hi": null, "page": 4, "fields": [{"label": "Staff", "value": "i. NA-I - 1 No. ii. NA-II - 1 No. iii. LHA - 1 No. (Vacant)"}], "tables": [], "text": null},
+    {"no": "23.", "title": "Mode of approach", "title_hi": null, "page": 4, "fields": [{"label": "Mode of approach", "value": "By Rail up to Chirala and then by bus up to Lighthouse about 8 km by road."}], "tables": [], "text": null},
+    {"no": "24.", "title": "Facilities available", "title_hi": null, "page": 4, "fields": [
+      {"label": "a)", "value": "Post Office within 0.5 km (Vodarevu)"},
+      {"label": "b)", "value": "Govt. Hospital within 8 km (Vodarevu)"},
+      {"label": "c)", "value": "Govt. School within 8 km (Vodarevu)"},
+      {"label": "d)", "value": "Nationalized Bank within 8 km (Vodarevu)"}
+    ], "tables": [], "text": "Item d) on page 5."},
+    {"no": "25.", "title": "Postal Address", "title_hi": null, "page": 5, "fields": [{"label": "Postal Address", "value": "The Navigational Assistant Gr-I, Vodarevu Lighthouse, Vodarevu Post, Chirala, Andhra Pradesh, Pin: 523 157"}], "tables": [], "text": null},
+    {"no": "26.", "title": "CC camera", "title_hi": null, "page": 5, "fields": [{"label": "CC camera", "value": ":4Nos ( Date of installation 25/12/2021"}], "tables": [], "text": null},
+    {"no": "27.", "title": "Cost Details", "title_hi": null, "page": 5, "fields": [
+      {"label": "i) Construction", "value": "Rs. 70,00,000/-"},
+      {"label": "iii) Cost of equipment", "value": "Taken from Visakhapatnam Port Light"}
+    ], "tables": [], "text": null},
+    {"no": "28.", "title": "Year of Commission", "title_hi": null, "page": 5, "fields": [{"label": "Year of Commission", "value": "2003"}], "tables": [], "text": null},
+    {"no": "29.", "title": "Date of Commissioning", "title_hi": null, "page": 5, "fields": [{"label": "Date of Commissioning", "value": "25th September, 2003"}], "tables": [], "text": null},
+    {"no": "30.", "title": "Subsequent Innovation", "title_hi": null, "page": 5, "fields": [{"label": "Subsequent Innovation", "value": "2006"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

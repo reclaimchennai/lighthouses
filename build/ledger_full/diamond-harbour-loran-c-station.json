@@ -1,0 +1,41 @@
+{
+  "slug": "diamond-harbour-loran-c-station",
+  "page_count": 1,
+  "title_as_printed": "DIAMOND HARBOUR LORAN C STATION MASTER LEDGER",
+  "sections": [
+    {"no": "", "title": "Introduction", "title_hi": null, "page": 1,
+     "fields": [], "tables": [],
+     "text": "LORAN C Station at Diamond Harbour was de-commissioned on 2006, since then one LHA was posted to look after the station."},
+    {"no": "1", "title": "Land", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "i. Area", "value": "30 Acre"},
+       {"label": "ii. Demarcation", "value": "Fencing Posts."},
+       {"label": "iii. No. of Fruit Bearing Trees", "value": "4"},
+       {"label": "iv. No. of Non-Fruit Trees", "value": "NIL"}
+     ], "tables": [], "text": null},
+    {"no": "2", "title": "Buildings", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "26", "value": "1 No. IQ."},
+       {"label": "27", "value": "7 Nos. Staff Quarter."}
+     ], "tables": [], "text": null},
+    {"no": "3", "title": "Contact Details", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "x. Office No.", "value": "033-24013978"},
+       {"label": "xi. Office E-Mail", "value": "dte-kol@gov.in"},
+       {"label": "xii. Postal Address", "value": "Diamond Harbour, LORAN C Station PO & PS - Diamond Harbour Dist. South 24 Parganas West Bengal — 743 331"}
+     ], "tables": [], "text": null},
+    {"no": "4", "title": "Electricity", "title_hi": null, "page": 1,
+     "fields": [], "tables": [],
+     "text": "3 Phase, 440V, 50Hz Electric Mains Supply is available from WBDCEL."},
+    {"no": "5", "title": "Water Supply", "title_hi": null, "page": 1,
+     "fields": [], "tables": [],
+     "text": "Bore well water is available in the Station."},
+    {"no": "6", "title": "Mode ofApproach", "title_hi": null, "page": 1,
+     "fields": [], "tables": [],
+     "text": "The station is well connected by all weather road. The nearest Railway Station is Diamond Harbour railway station which is approx.6 Km and nearest Airport is Kolkata which is approx. 86 km from Station."},
+    {"no": "7", "title": "Facilities Available", "title_hi": null, "page": 1,
+     "fields": [], "tables": [],
+     "text": "Post Office, Primary Health Center, Police Station and School all are within radius of 8 KM from Diamond Harbour LORAN C Station."}
+  ],
+  "unreadable": []
+}

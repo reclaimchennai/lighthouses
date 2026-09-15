@@ -1,0 +1,45 @@
+{
+  "slug": "point-calimere-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Point Calimere Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1890,
+  "alol": "F 0918",
+  "position": {"lat_text": "10° 17'.24\" N", "lon_text": "79° 52'18\" E", "lat": 10.287333, "lon": 79.871667},
+  "elevation_m": 16,
+  "characteristic_text": "Fl (3) W 10 sec (0.3f +1.5+0.3f+1.5+0.3f+6.1)sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "0.3f +1.5+0.3f+1.5+0.3f+6.1",
+    "sequence_s": [0.3, 1.5, 0.3, 1.5, 0.3, 6.1],
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 12, "geographical_nm": null, "text": "12 NM (unlabelled range)"},
+  "tower": {"type": "circular", "height_m": 16, "colour_scheme": "White circular"},
+  "optic": {
+    "make": "LMV", "model": "BDL 250", "type": "LED Flasher", "size": "22cm x 50cm", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; illuminant 90 watts LED Flasher, 2 Array LED Flasher; Rotation Device and R.P.M. blank",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "90 watts LED Flasher (2 Array LED Flasher)"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "RACON section empty"},
+  "ais": {"present": false, "text": "NAIS section empty"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": false, "text": "Mains '--'; Engine 1 and 2 NIL; Solar plant for main light 2 KW (8 x 24 V/250 W, Access solar), 24 x 2 V/1000 AH; Solar plant for IQ 1.5 KW"},
+  "issues": [
+    "Latitude printed as 10° 17'.24\" (mixed notation); converted as 10° 17.24'",
+    "Optic lists 'No. of Array 2 Nos' (LED arrays), not lens panels",
+    "Date of commissioning given as '1890 and remoulded on 1933'"
+  ]
+}

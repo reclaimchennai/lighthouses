@@ -1,0 +1,149 @@
+{
+  "slug": "baruva-lighthouse",
+  "page_count": 5,
+  "title_as_printed": "BARUVA LIGHTHOUSE MASTER LEDGER",
+  "blank_pages": [5],
+  "sections": [
+    {"no": null, "title": "Header photo", "title_hi": null, "page": 1,
+     "fields": [], "tables": [], "text": "[photo: lighthouse tower with black and white bands, beside title box]"},
+    {"no": "1", "title": "Name", "title_hi": null, "page": 1,
+     "fields": [{"label": "Name", "value": "Baruva Lighthouse"}], "tables": [], "text": null},
+    {"no": "2", "title": "Sl. No. (in ALOL)", "title_hi": null, "page": 1,
+     "fields": [{"label": "Sl. No. (in ALOL)", "value": "F 0985"}], "tables": [], "text": null},
+    {"no": "3", "title": "Position", "title_hi": null, "page": 1,
+     "fields": [{"label": "Position", "value": "Lat. 18° 52’8” N Long. 84° 35'8” E"}], "tables": [], "text": null},
+    {"no": "4", "title": "Elevation of ground", "title_hi": null, "page": 1,
+     "fields": [{"label": "Elevation of ground", "value": "9 m"}], "tables": [], "text": null},
+    {"no": "5", "title": "Elevation of tower", "title_hi": null, "page": 1,
+     "fields": [{"label": "Elevation of tower", "value": "40 m"}], "tables": [], "text": null},
+    {"no": "6", "title": "Character ofLight", "title_hi": null, "page": 1,
+     "fields": [{"label": "Character ofLight", "value": "FL (I) W 15 SEC"}], "tables": [], "text": null},
+    {"no": "7", "title": "Range in nautical miles", "title_hi": null, "page": 1,
+     "fields": [{"label": "i.) Luminous", "value": "17 NM"}, {"label": "ii.) Geographical", "value": "20 NM"}], "tables": [], "text": null},
+    {"no": "8", "title": "Lighthouse Tower", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "i.) Type", "value": "RCC structure (Octagonal Shape)"},
+       {"label": "ii.) Height", "value": "30 m."},
+       {"label": "iii.) Color Scheme", "value": "Black and White Bands"}
+     ], "tables": [], "text": null},
+    {"no": "9", "title": "Optical Equipment", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "Optical Equipment", "value": "TRB 220 (Revolving)"},
+       {"label": "i.) Make", "value": "Tideland Signal Corporation, USA"},
+       {"label": "ii.) Size", "value": "915 mm height & 445 mm Dia."},
+       {"label": "iii.) No. of panels", "value": "6"},
+       {"label": "iv) Focal Length", "value": "110 mm"},
+       {"label": "v) RPM", "value": "2"},
+       {"label": "vi) Duration of Flash", "value": "0.8 Sec"},
+       {"label": "vii) Illuminant", "value": "70 Watt MH Lamp, 230 volts AC"},
+       {"label": "viii) Divergence", "value": "2.40 (Horiz.) & 1.15 (Vert.)"},
+       {"label": "ix) Luminous Intensity", "value": "26928 cd"}
+     ], "tables": [], "text": null},
+    {"no": "10", "title": "Innovation", "title_hi": null, "page": 1,
+     "fields": [], "tables": [],
+     "text": "Innovation was carried out on August 2013. l00W/12V Halogen lamp of TRB 220 was replaced with 70W/230V MH Lamp."},
+    {"no": "11", "title": "Lantern", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "i) Diameter", "value": "2.4 m"},
+       {"label": "ii) Height of glazing", "value": "1.3 m"},
+       {"label": "iii) No. of glass panes", "value": "8 Nos."},
+       {"label": "iv) No. of Ventilators", "value": "6 Nos."}
+     ], "tables": [], "text": "Item iv) printed at top of page 2."},
+    {"no": "12", "title": "Pedestal", "title_hi": null, "page": 2,
+     "fields": [{"label": "Pedestal", "value": "Local Make"}], "tables": [], "text": null},
+    {"no": "13", "title": "Power supply", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "i) Mains", "value": "3 Phase, 440V, 50Hz Electric Mains Supply from APEPDCL."},
+       {"label": "ii) Solar", "value": ""},
+       {"label": "iii) Standby", "value": "Genset (01 No.)"}
+     ],
+     "tables": [
+       {"caption": "ii) Solar", "columns": ["Sl.No.", "Types of Solar Power", "Capacity", "No. of Panels", "Inverter", "Remarks"],
+        "rows": [["l", "ON GRID", "11 kWp", "48 (each 235W 29 V DC)", "l5KVA, Make : DELTA", "Net meter installed"]]},
+       {"caption": "A. Details ofEngine", "columns": ["Sr No", "Engine SI. No", "Make", "BHP", "No. of Cylinder", "RPM", "Cooling", "Date of installation"],
+        "rows": [["1", "D4.1616.9211100098", "Kirloskar", "20.8", "2", "1500", "Air Cooled", "July-2012"]]},
+       {"caption": "B. Details ofAlternator", "columns": ["Sr No", "Alternator Sl. No", "Make", "KVA", "Voltage", "Frequency", "Phase", "RPM"],
+        "rows": [["1", "CSIB012A19713-H", "Kirloskar", "15", "230", "50 Hz", "Single", "1500"]]}
+     ], "text": null},
+    {"no": "14", "title": "Other Equipments", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "i) Battery Charger", "value": "l No. APLAB Make, 0-32 V DC , 0-20 A max supply installed on 19.09.2012"},
+       {"label": "ii) Stabilizer", "value": ""},
+       {"label": "iii) inverter", "value": ""}
+     ],
+     "tables": [
+       {"caption": "ii) Stabilizer", "columns": ["Sr No", "Input voltage", "Output voltage", "KVA", "Make", "Freq.", "Phase", "Date of Installation"],
+        "rows": [["1", "170-270 V AC", "230 V AC", "5", "ITL", "50Hz", "Single", "19-09-2012"]]},
+       {"caption": "iii) inverter", "columns": ["Sr. No.", "Particulars", "Qty", "Date of Installation", "Purpose"],
+        "rows": [
+          ["1", "1.4 KVA, 24V DC (input), 230V AC (output), SUKAM make", "I No.", "19.09.2012", "For Light beacon"],
+          ["2", "1.4 KVA, 24V DC (input), 230V AC (output), SUKAM make", "l No.", "01.12.2012", "For NAIS"]
+        ]}
+     ], "text": null},
+    {"no": "15", "title": "Remote Monitoring and Control System", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "i) Main control Panel", "value": "1 No. installed at power house."},
+       {"label": "ii) Remote Panel", "value": "1 No. installed at service room (interface between main panel and Equipment's in service room)."},
+       {"label": "iii) UPS", "value": "1 No. I KVA, APC make placed inside main Panel."},
+       {"label": "iv) Communication", "value": ": VSAT"},
+       {"label": "v) VSAT Antenna", "value": "I No. installed on ground."},
+       {"label": "vi) Modem", "value": "I No. placed inside main Panel."},
+       {"label": "viii) Date of commissioning", "value": ": May-2013"}
+     ], "tables": [],
+     "text": "All equipment's are remotely monitored by RCS at Kalingapatnam and MCS at Deep Bhavan, Kolkata. (Sub-items i) to viii) printed on page 3; no item vii) is printed.)"},
+    {"no": "16", "title": "NAIS", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "i) AIS Base station", "value": "02 Nos. Saab Transponder make, installed at Service room."},
+       {"label": "ii) Modem", "value": "01 No. Tellabs, installed at Service room."},
+       {"label": "iii) Router", "value": "01 No. Cisco make, installed at Service room."},
+       {"label": "iv) Switch", "value": "01 No. Catalyst make, installed at Service room"},
+       {"label": "v) GPS antenna", "value": "02 Nos. installed at LH tower railing."},
+       {"label": "vi) VHF antenna", "value": "02 Nos. installed at LH tower railing"},
+       {"label": "vii) UPS", "value": "01 No. 1KVA, APC make installed at Service room"},
+       {"label": "viii) Communication", "value": "Lease Line (BSNL)"},
+       {"label": "ix) Date of commissioning", "value": ": 01-12-2012"}
+     ], "tables": [], "text": null},
+    {"no": "17", "title": "Fire Extinguisher", "title_hi": null, "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sr. No.", "Type", "Capacity", "Qty", "Installed place"],
+        "rows": [
+          ["1", "DCP", "5 kg", "02 Nos.", "01 No. at LH & 01 No. at Power House."],
+          ["2", "ABC", "6 kg", "01 No.", "LH Service room"],
+          ["3", "Water CO2", "9 Ltrs", "02 Nos.", "Office & Store"],
+          ["4", "Fire Buckets", "10 Ltrs", "04 Nos.", "Placed outside the Power house."]
+        ]}
+     ], "text": null},
+    {"no": "18", "title": "Water Supply", "title_hi": null, "page": 3,
+     "fields": [], "tables": [],
+     "text": "Crompton make ’/z HP Jet pump Installed on 08- l 1-2012 fitted to bore well is used to sump for stock water and one Crompton Make I HP mono block pump installed on 08-11-2012 fitted to pump house used for sump to over head tank for supply water to technical building and Quarters."},
+    {"no": "19", "title": "Land", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "i. Area", "value": "0.79 Acre"},
+       {"label": "ii. Demarcation", "value": "Compound Wall"},
+       {"label": "iii. No. of Fruit Bearing Trees", "value": "15"},
+       {"label": "iv. No. of Non-Fruit Trees", "value": "11"}
+     ], "tables": [], "text": null},
+    {"no": "20", "title": "Buildings", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "i)", "value": "1 No. Office cum power house cum store room."},
+       {"label": "ii)", "value": "1 No. IQ"},
+       {"label": "iii)", "value": "I No. NAG-I Qtr."},
+       {"label": "iv)", "value": "I No. LHA Qtr."},
+       {"label": "v)", "value": "I No. pump house."}
+     ], "tables": [], "text": null},
+    {"no": "21", "title": "Contact Details", "title_hi": null, "page": 4,
+     "fields": [
+       {"label": "i) Office No.", "value": "9553779014"},
+       {"label": "ii) Office E-Mai1", "value": "baruvalh@gmail.com"},
+       {"label": "iii) Postal Address", "value": "Baruva Lighthouse, Post-Baruva, Sompeta mondal, Dist. - Srikakulam, PIN-532 263, Andhra Pradesh"}
+     ], "tables": [], "text": null},
+    {"no": "22", "title": "Mode of Approach", "title_hi": null, "page": 4,
+     "fields": [], "tables": [],
+     "text": "The station is well connected by all weather road. The nearest Railway Station is Sompeta which is approx. 14 Km from Baruva Lighthouse. Nearest Airport is Bhubaneswar which is approx. 200 km from Baruva LH."},
+    {"no": "23", "title": "Facilities Available", "title_hi": null, "page": 4,
+     "fields": [], "tables": [],
+     "text": "Post Office, Primary Health center, Police Station, High school and Degree College all are within radius of 5 kms from Baruva Lighthouse."}
+  ],
+  "unreadable": []
+}

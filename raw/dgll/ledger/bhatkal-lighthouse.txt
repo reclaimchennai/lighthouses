@@ -1,0 +1,181 @@
+                     मास्टर लेजर/MASTER LEDGER
+
+क्रमसं         नाम /Name
+ ख्या/                                                  वििरण/Description
+Sr.No
+   1       ए.एल.ओ.एल/A.L.O.L.                                    F 0648
+   2         स्थान/Position                      Lat. 130 57.9’N , Long. 740 32.0’E
+   3        ऊंचाई/Elevation                                        56 m
+   4     अविलक्षण/Characteristic                            fl (2) W 20 Sec.
+                                                 (fl 0.23, Oc 4.77, fl 0.23, ec. 14.77)
+                                             absurd by Hog Island 1298 to 1320 x 3’
+  5        नॉविकलमाइलमेदूरी                   i)        Luminous                 :20 NM
+             Range in miles                   ii)       Geographical             :19 NM
+
+  6      दीपस्तंििािर/L.H.Tower            Type                    Square Masonry Tower
+                                          Height                             14m
+                                      Colour Scheme                         White
+  7          ऑविकलउपकरण                   Optic                          Fresnel Lens
+           Optical equipment
+                                          Make                             B.B.T.
+                                          Type                           Revolving
+                                           Size                      250 mm (4th order)
+                                        No. of lens                    2 (each 1350)
+
+                                     Area of dioptric         755 sq. cm.(corrected area 536
+                                        portion                           sq.cm)
+
+                                    Area of catadioptric       3222 sq. cm. (corrected area
+                                          portion                       1772sq.cm)
+                                        Divergence          Horizontal – 12.540, Vertical – 9.120
+                                     Main/Emergency
+                                     Duration of Flash                    0.70 Sec.
+                                           Main
+                                   /Standby/Emergency
+
+                                        Pedestal              Mercury Float (21.75 Kg in use)
+                                     Rotation Device         Dual Stepper Motor 40 Kgcm with
+                                                                     auto change over
+                                           R.P.M.                           3
+                                        illumining
+                                            Main               3 x 150W Metal Halide Lamp
+                                                                         cluster
+                                                          Standby
+                                                        Emergency:                        220V, 1000 W electric lamp
+                                                     Date of Installation                        18.03.1954
+8     प्रिािीबीमतीव्रता/Effective beam                Main & Standby                              123505 cd
+                 intensity                              Emergency                                 26000 cd
+9                 लेंिनन /Lantern                        Diameter                                  1.80 m
+                                                      Height of glazing                            1.05 m
+                                                       No. of panels                                  6
+                                                        Ventilators                                   7
+10            RACON n/a                                    Sr. No                                   6295
+          Make          Model                              Code                             Band             Date of
+                                                                                                           Installation
+             --                     --                         --                            --                  --
+11                                                            NAIS
+               Base Station
+          Model              Type                             Power                        MMSI
+            R40              SAAB                              230V                       4192237
+      Communication
+        Equipment
+       VSAT Antenna          Band                         Modem
+         2.4m dia            EX-C                     Datum system                                -                       -
+         Parabolic                                          M7LT
+         Reflector                                   Satellite Terminal
+           DGPS               N/A
+     Transmitter Make     Frequency              Power Output             RS 1     RS -II ID          Beac        Date of Date of
+                                                                           ID                         on ID       commis Recapita
+                                                                                                                            lization
+                                                                                                                  sioning
+              -                     -                     -                 -             -             -            -          -
+              -                     -                           -                                 -                       -
+12     ऊर्ान केसाधन/                             Mains                                                        -
+     Source of energy                           Standby                                                       -
+                                                                           Engine 1
+                                         Make/Type                  Qty   Rating      No of Cylinder              RPM          Coolin
+                                                                                                                                 g
+                                    KIRLOSKAR/ EA-16                01    11.8k               2                   1500          AIR
+                                                                                   w
+                                                                           16
+                                                                                   b
+                                                                                   h
+                                                                                   p
+                                                                          Alternator
+                                         Make/Type                  Qty   Rating      Voltage/Amp             Frequency        Phase
+                                         KIRLOSKAR                  01    7.5KV     240V/ 31.2A                   50HZ           1
+                                                                            a
+                                                                           Engine 2
+                                         Make/Type                  Qty   Rating      No of Cylinder              RPM         Cooling
+
+
+                                                                          Alternator
+                                         Make/Type                  Qty   Rating      Voltage/Amp             Frequency        Phase
+                                                  Solar Plant
+                                       Capacity PV                Numbers             Type               Battery          Bank
+                                   Power max 200Wp                     3         Monocrystalline         Exide 150          1
+                                 Voltage at pmpp 17.5V,                                                   AH/12V
+                                 Current at pmpp 11.42A
+                                       Solar Plant for Main RACON
+                                       Capacity PV                Numbers             Type               Battery          Bank
+                                           ---                     ---                 ---                  ---             ---
+13                                           स्वचावलतिोल्टे र्स्टे बलाइर्र
+                                            Automatic Voltage Stabilizers
+
+         Make                    Model             Capacity         Input            Output                Phase            Qt
+                                                                                                                             y
+        V S POWER         VSP/SERVO/AIR               5kva       160-260               240                    1             01
+         SYSTEMS              - INDIA
+                            22001069
+14                                                         बैिरर
+                                                         Batteries
+       Equipment                 Type                 Make         Volt            Amp/Hr                   Qty
+        PSS NAIS                  MF                    HBL            12V           150ah                   02
+
+        Genset                    MF                LUMINOUS           12V           150AH                   01
+      Automation
+         DGPS
+15                                               बैिररचार्नर/ Battery charger
+
+       Equipment                 Make                Model        Type             Rating                   Qty
+     General Purpose             KDB                            EXTERNAL           12V/7A                   01
+       Automation
+16                                                   इं वर्ट रInverter /UPS
+     Equipmen    Nos           Make                  Model              Type       Rating          Qt       input         outp
+         t                                                                                         y                       ut
+       Main         03     EXIDE                  EXIDEP850                12V   850VA/68          3      220VAC          220V
+       Light                                                                        0W                      5A
+     NAIS PSS       01     EXIDE         EXIDE 1450 DSP PST                24V                     1
+                                                UPS
+      DGPS
+17                                                स्वचलनउपकरण
+                                              Automation Equipment
+      MAKE               PLC               HMI          Power      VSAT                      Modem                 Band
+                                                        Supply
+      NELCO     Telemecaniqu            SCHNEIDER      24V DC       --                         SKY
+                  e 4 PORT               ELECTRIC                                             EDGE
+                   SWITCH
+18            आविशमनउपकरण                                 Type of                Capacity          Nos               Make
+                                                        Extinguisher
+       Fire Fighting Equipment         DCP Type(u/s)             -NA-           -             -
+                                       DCP Type(u/s)             -NA-           -             -
+                                      Foam Type(u/s)             -NA-           -             -
+                                      Water Type(u/s)            -NA-           -             -
+                                         DCP Type                -NA-           -             -
+
+
+19             संचार                     BSNL Tel. No : 08385- 295007                     -
+           Communication
+20            र्लपूवतन               Natural Spring Source pumped by Centrifugal Pump coupled
+            Water Supply                         to 1 HP Single Stage Electric Motor.
+21              िूवम                                 Area                       0.678 Hectare
+               Land                              Demarcation                        Boundary wall
+
+22              इमारतें                One unit of power house, pump house, one unit of Insp.
+               Buildings              Qtrs 3 rooms attached to Tower, one Unit of HLK quarters,
+                                     Twin unit of ALK quarters, one unit of ALK Qr., one twin unit
+                                                     of LHA &Safaiwala quarters.
+
+23          कंपाउं डलाइि                                         11 nos.
+          Compound Lights
+24         सीसीिीिीकमेरा                               Camera                             -
+           CCTV CAMERA                                  DVR                               -
+25             स्टाफ                    Sl. No                          Designations
+                Staff                      1              NAVIGATIONAL ASSISTANT GRADE II
+                                           2              NAVIGATIONAL ASSISTANT GRADE III
+26          पहुँ चनेकामाध्यम           By rail upto Bhatkal and 10 Km by road uptoMavinKurve
+          Mode of approach                     village and by road on hill upto lighthouse.
+27          उपलब्धसुविधाए              Marine Police        Coastal Police 42km, Town Police 6 km
+          Facilities available             Station
+                                        Dispensary                            7 km
+                                        High School                           6 km
+                                         Post office                       6 km
+28     डाकपताPostal address                               STATION IN CHARGE
+                                                          Bhatkal Lighthouse,
+                                                     P.O. Marvinkurve Via Bhatkal
+                                                  Dist. Uttara Kannada PIN – 581320
+29     मूल्यकाब्योराCost details                                   --
+     (At the time of Construction)
+30        प्रितननमेलानेकादे नां क                               15.04.1959
+        Date of commissioning
+

@@ -1,0 +1,44 @@
+{
+  "nid": 2286,
+  "title": "Urgent repairs & minor works at Deep Bhawan office, Chennai Directorate.",
+  "summary": "Percentage-rate e-tender for urgent repairs and minor civil works at the Deep Bhavan office of the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(01)/1/2020-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhawan office, Chennai (Deep Bhavan, 5/20, Jaffer Syrang Street, Chennai-600001)", "station_id": null, "kind": "office", "work": "Urgent repairs and minor works"}
+  ],
+  "scope": [
+    {"item": "Urgent repairs & minor works at Deep Bhawan office, Chennai Directorate", "qty": null, "unit": null, "site": "Deep Bhawan office, Chennai"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1149911.0,
+    "emd_inr": 23000.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. Percentage rate contract, two cover system. EMD by DD/FDR of scheduled/nationalised bank in favour of Director of Lighthouses and Lightships, Chennai, valid three months (clause 1.1 says 90 days) from technical bid opening. Tender fee and EMD exempted for valid MSME/NSIC certificate; tender fee amount not stated."
+  },
+  "period": {"completion": "03 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2026-03-13", "pre_bid": "2026-03-23", "bid_submission_end": "2026-03-27", "bid_opening": "2026-04-02"},
+  "eligibility": [
+    "Valid registration in appropriate category & class with CPWD, State PWD, Railways, MES, BSNL or other State/Central Govt/PSU/Autonomous bodies",
+    "Similar works completed in last seven years: three works each >= 40%, or two each >= 50%, or one >= 80% of estimated cost; values updated at 7% p.a.; certificates from officer not below Executive Engineer",
+    "Similar works: construction of lighthouse/building/compound wall/retaining wall/RCC structure/RCC work, and repairs and civil maintenance of building",
+    "PAN/ITCC/GST registration",
+    "Average annual turnover on construction works (CA certified) at least 40% of estimated cost during last 3 financial years ending 31 March 2025",
+    "Key technical personnel for supervision and execution",
+    "Unconditional tender undertaking (Annexure III), tender acceptance letter (Annexure II), not-blacklisted affidavit, list of relatives serving in MoPSW/DGLL, Make in India self-certification (Annexure VI)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITDB.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 12.03.2026. Bid document download 13/03/2026 10:00 to 27/03/2026 15:00; bid submission 16/03/2026 10:00 to 27/03/2026 15:00; EMD submission up to 01/04/2026 15:00 (after bid submission end; listing end date 2026-04-01); opening 02/04/2026 15:00. Document is Section I (NIT) only: no BOQ, scope details or annexures included. Published date taken as start of download period."
+}

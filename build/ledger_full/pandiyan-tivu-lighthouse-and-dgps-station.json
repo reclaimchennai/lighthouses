@@ -1,0 +1,172 @@
+{
+  "slug": "pandiyan-tivu-lighthouse-and-dgps-station",
+  "page_count": 4,
+  "title_as_printed": "मास्टर लेज़र/MASTER LEDGER — पांडियन तिवु दीपस्तंभ और डीजीपीएस स्टेशन/ Pandiyan Tivu Lighthouse and DGPS Station",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1,
+     "fields": [{"label": "A.L.O.L.", "value": "F 0734"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1,
+     "fields": [{"label": "Position", "value": "Lat.8° 47.1’ N , Long 78° 11.9’ E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1,
+     "fields": [{"label": "Elevation", "value": "49.5M (Above MSL)"}], "tables": [], "text": null},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1,
+     "fields": [{"label": "Characteristic", "value": "Flashing white every 10sec"}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in miles", "title_hi": "नॉटिकलमाइलमेंदूरी", "page": 1,
+     "fields": [{"label": "Range in miles", "value": "21NM"}], "tables": [], "text": null},
+    {"no": "6", "title": "L.H.Tower", "title_hi": "दीपस्तंभटावर", "page": 1,
+     "fields": [
+       {"label": "Type", "value": "Circular tower"},
+       {"label": "Height", "value": "45.7M"},
+       {"label": "Colour Scheme", "value": "Black and White spiral Band"}
+     ], "tables": [], "text": null},
+    {"no": "7", "title": "Optical equipment", "title_hi": "ऑप्टिकलउपकरण", "page": 1,
+     "fields": [
+       {"label": "Optic", "value": ""},
+       {"label": "Make", "value": "J.Stone & Co."},
+       {"label": "Type", "value": "3rd order small"},
+       {"label": "Size", "value": "375mm"},
+       {"label": "No. of lens", "value": "2 each of 180"},
+       {"label": "Area of dioptric portion", "value": "4552 Sq. cm"},
+       {"label": "Area of catadioptric portion", "value": "4552 Sq. cm"},
+       {"label": "Divergence Main/Emergency", "value": "7.20º (Horizontal) 2.45º (Vertical)"},
+       {"label": "Duration of Flash Main /Standby/Emergency", "value": "0.5 Sec"},
+       {"label": "Pedestal", "value": "Mounted upon Journal and Thrust Bearings."},
+       {"label": "Rotation Device", "value": "20 kg/cm Stepper motor"},
+       {"label": "R.P.M.", "value": "3"},
+       {"label": "Illumining", "value": ""},
+       {"label": "Main", "value": "230V/150W Metal Halide Lamp"},
+       {"label": "No. of Lamps & Make", "value": "3Nos Metal Halide Lamps"},
+       {"label": "No. Of Ballast & Make", "value": "3No’s,Kwicklite"}
+     ], "tables": [], "text": null},
+    {"no": "8", "title": "Effective beam intensity", "title_hi": "प्रभावीबीमतीव्रता", "page": 1,
+     "fields": [
+       {"label": "Main", "value": "1,77,127 cds"},
+       {"label": "Emergency", "value": "-"}
+     ], "tables": [], "text": null},
+    {"no": "9", "title": "Lantern", "title_hi": "लेंटर्न", "page": 1,
+     "fields": [
+       {"label": "Diameter", "value": "2.4 m"},
+       {"label": "Height of glazing", "value": "1.4m"},
+       {"label": "No. of panes", "value": "12"},
+       {"label": "Ventilators", "value": "8"}
+     ], "tables": [], "text": null},
+    {"no": "10", "title": "RACON", "title_hi": null, "page": 1,
+     "fields": [{"label": "Sr. No", "value": "6187"}],
+     "tables": [
+       {"caption": null, "columns": ["Make", "Model", "Code", "Band", "Date of Installation"],
+        "rows": [["Tideland", "SeaBeacon 2", "O", "X-BAND S-BAND", "26.09.2004"]]}
+     ], "text": "Sr. No on page 1; table on page 2."},
+    {"no": "11", "title": "NAIS", "title_hi": null, "page": 2,
+     "fields": [{"label": "Base Station", "value": "2 Nos-AIS1 & AIS2"}],
+     "tables": [
+       {"caption": "Base Station", "columns": ["Model", "Type", "Power", "Sr. No", ""],
+        "rows": [["R40", "Class A", "AC-230V & DC-12V", "5334,5243", ""],
+                 ["Communication Equipment", "", "", "", ""]]},
+       {"caption": "VSAT Antenna", "columns": ["VSAT Antenna", "Band", "Modem", "", ""],
+        "rows": [["2.4m dia Parabolic reflector", "EX-C", "Hughes HT2300", "", ""],
+                 ["DGPS", "", "", "", ""]]},
+       {"caption": "DGPS", "columns": ["Transmitter Make", "Frequency", "Power Output", "RS 1 ID", "RS -II ID", "Beacon ID", "Date of commissioning", "Date of Recapitalization"],
+        "rows": [["Southern Avionics Company", "309 KHz", "500 Watts", "424", "425", "112", "31.12.02", "N/A"],
+                 ["", "", "", "", "", "", "", ""]]}
+     ], "text": null},
+    {"no": "12", "title": "Source of energy", "title_hi": "ऊर्जाकेसाधन", "page": 2,
+     "fields": [
+       {"label": "Mains", "value": "Main supply:3Ph,440V,50Hz"},
+       {"label": "Stand By", "value": "Gen set:230V,1Ph,50 Hz, 2 No’s"}
+     ],
+     "tables": [
+       {"caption": "Engine 1", "columns": ["Make/Type", "Qty", "HP", "No of Cylinder", "RPM", "Cooling"],
+        "rows": [["Kirloskar", "1", "32", "3", "1500", "Air"]]},
+       {"caption": "Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage", "Frequency", "Phase"],
+        "rows": [["Kirloskar", "1", "20 KVA", "240V", "50Hz", "Single"]]},
+       {"caption": "Engine 2", "columns": ["Make/Type", "Qty", "HP", "No of Cylinder", "RPM", "Cooling"],
+        "rows": [["Kirloskar", "1", "32", "3", "1500", "Air"]]},
+       {"caption": "Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage", "Frequency", "Phase"],
+        "rows": [["Kirloskar", "1", "20 KVA", "240V", "50Hz", "Single"]]},
+       {"caption": "Solar Plant : ON Grid", "columns": ["Capacity PV", "Make", "Type", "Ratings/Voltage", "Quantity"],
+        "rows": [["25 KW", "Delta", "Mono Crystalline", "250 W", "100"]]},
+       {"caption": "Solar Panel for RACON", "columns": ["Capacity PV", "Numbers", "Type", "Battery"],
+        "rows": [["70 W/12V", "01 No.", "TBP 1270M", "01 Nos 12V/100AH"]]}
+     ], "text": null},
+    {"no": "13", "title": "Automatic Voltage Stabilizers", "title_hi": "स्वचालितवोल्टेजस्टेबलाइजर", "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Make", "Capacity", "Input", "Output", "Phase", "Qty"],
+        "rows": [["ITL", "12.5 KVA", "170-270V", "230V", "Single", "3 No’s"]]}
+     ], "text": "Hindi heading on page 2; English heading and table on page 3."},
+    {"no": "14", "title": "Batteries", "title_hi": "बैटरि", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Type", "Make", "Volt", "Amp/ Hr", "Qty", ""],
+        "rows": [["Main Light", "SMF", "Exide", "12V", "150 AH", "4", ""],
+                 ["Genset", "Lead acid", "Exide", "12V", "150 AH", "2", ""],
+                 ["Automation", "", "Numeric", "", "", "", ""],
+                 ["DGPS", "SMF", "Exide", "12V", "42 AH", "15", ""]]}
+     ], "text": null},
+    {"no": "15", "title": "Battery charger", "title_hi": "बैटरिचार्जर", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Make", "Volts", "Capacity", "Qty", ""],
+        "rows": [["General Purpose", "Delta electric corporation", "Input-230V, Output-0-30V Dc", "15 A", "1 No", ""],
+                 ["", "AE Make", "Input-230V, Output-0-30V Dc", "15 A", "2 No", ""]]}
+     ], "text": null},
+    {"no": "16", "title": "Inverter /UPS", "title_hi": "इंवर्टर", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Nos", "Make", "Model", "Type", "Rating", "Qty", "input", "Out put"],
+        "rows": [["Main Light", "05", "UTL", "---", "---", "800 VA", "5", "12V DC& 230 AC", "230 VAC"],
+                 ["NAIS PSS", "02", "APC", "----", "Pure sine wave", "1 KVA", "2", "36V DC& 230 AC", "230 VAC"],
+                 ["DGPS", "01", "Hykon", "----", "Pure sine wave", "5 KVA", "10", "130V DC & 230 AC", "230 VAC"]]}
+     ], "text": null},
+    {"no": "17", "title": "Automation Equipment", "title_hi": "स्वचलनउपकरण", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["MAKE", "PLC", "HMI", "Power Supply", "VSAT", "Modem", "Band"],
+        "rows": [["Recktronic Devices & System", "Allen Bradley MicroLogix 1400", "Recktronic Devices & System", "24 V DC", "1.8m dia Parabolic reflector", "Hughes", "EX.C"]]}
+     ], "text": null},
+    {"no": "18", "title": "Fire Fighting Equipment", "title_hi": "अग्निशमनउपकरण", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Type of Extinguisher", "Capacity", "Nos", "Make"],
+        "rows": [["DCP Type", "6 kg", "3", ""],
+                 ["Water Co2", "4.5 kg", "3", ""],
+                 ["Foam Type", "9 Ltr", "3", ""]]}
+     ], "text": null},
+    {"no": "19", "title": "Communication", "title_hi": "संचार", "page": 3,
+     "fields": [
+       {"label": "Telephone", "value": "04612902033"},
+       {"label": "Email id", "value": "pandiyantivudgps@gmail.com"}
+     ], "tables": [], "text": null},
+    {"no": "20", "title": "Water Supply", "title_hi": "जलपूर्ति", "page": 4,
+     "fields": [{"label": "Water Supply", "value": "From V.O.C Port Trust Water tank through Pvt. Lorry water supply to Lighthouse."}], "tables": [], "text": null},
+    {"no": "21", "title": "Land", "title_hi": "भूमि", "page": 4,
+     "fields": [
+       {"label": "Area", "value": "1.39 Hectres"},
+       {"label": "Demarcation", "value": "Compound wall"}
+     ], "tables": [], "text": null},
+    {"no": "22", "title": "Buildings", "title_hi": "इमारतें", "page": 4,
+     "fields": [{"label": "RCC Structure", "value": "Power House, Store room, Workshop,Office room, DGPS room, Coil hut, I.Q-1 No, A.E Qtrs-1No, NA.Gr-II Qtrs-2No’s, LHA&LHS- 1 No.twin Qtrs."}], "tables": [], "text": null},
+    {"no": "23", "title": "Compound Lights", "title_hi": "कंपाउंडलाइट", "page": 4,
+     "fields": [{"label": "Compound Lights", "value": "LED Light fitted on G.I Pole-11 Nos"}], "tables": [], "text": null},
+    {"no": "24", "title": "CCTV CAMERA", "title_hi": "सीसीटीवीकमेरा", "page": 4,
+     "fields": [{"label": "CCTV CAMERA", "value": "N/A"}], "tables": [], "text": null},
+    {"no": "25", "title": "Staff", "title_hi": "स्टाफ", "page": 4,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Sl. No", "Designations"],
+        "rows": [["1", "Navigational Assistant Gr-I"], ["2", "Navigational Assistant Gr-II"]]}
+     ], "text": null},
+    {"no": "26", "title": "Mode of approach", "title_hi": "पहुँचनेकामाध्यम", "page": 4,
+     "fields": [{"label": "Mode of approach", "value": "Up to Tuticorin by Rail/Road & then 18km by road up to Green gate with Bus facility & 5km by road up to Lighthouse without Bus facility"}], "tables": [], "text": null},
+    {"no": "27", "title": "Facilities available", "title_hi": "उपलब्धसुविधाए", "page": 4,
+     "fields": [{"label": "Facilities available", "value": "The nearest Post office, High School and Police Station is 8km and Govt.Hospital at 23km from Lighthouse."}], "tables": [], "text": null},
+    {"no": "28", "title": "Postal address", "title_hi": "डाकपता", "page": 4,
+     "fields": [], "tables": [],
+     "text": "The Assistant Engineer (E)\nPandiyan Tivu Lighthouse cum DGPS Station.\nHarbor Estate Post Office, Tuticorin District, Tamilnadu,\nPin: 628004."},
+    {"no": "29", "title": "Cost details (At the time of Construction)", "title_hi": "मूल्यकाब्योरा", "page": 4,
+     "fields": [{"label": "Cost details (At the time of Construction)", "value": "Rs.16,11,000/-"}], "tables": [], "text": null},
+    {"no": "30", "title": "Date of commissioning", "title_hi": "प्रवर्तनमेलानेकादेनांक", "page": 4,
+     "fields": [{"label": "Date of commissioning", "value": "28.04.1980"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

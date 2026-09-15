@@ -1,0 +1,38 @@
+{
+  "nid": 1967,
+  "title": "Provision of Distribution panel, air conditioners, LED lights and Garden lights at Chennai Lighthouse",
+  "summary": "E-tender (two-cover) for providing a distribution panel, air conditioners, LED lights and garden lights at Chennai Lighthouse, Tamil Nadu (Chennai Directorate).",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01002(03)/7/2020-MNT-MD (e-3334)",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chennai Lighthouse", "station_id": "chennai-lighthouse", "kind": "lighthouse", "work": "Provision of distribution panel, air conditioners, LED lights and garden lights"}
+  ],
+  "scope": [
+    {"item": "Provision of Distribution panel, air conditioners, LED lights and Garden lights", "qty": null, "unit": null, "site": "Chennai Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4091039.0,
+    "emd_inr": 81821.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR of any nationalised bank in favour of The Director of Lighthouses and Lightships, Chennai, payable at Chennai; valid 90 days from technical bid opening; exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "120 Days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-07-09", "pre_bid": "2025-07-18", "bid_submission_end": "2025-07-24", "bid_opening": "2025-07-25"},
+  "eligibility": [
+    "OEMs or authorised agents, or appropriate class contractors registered with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies, having experience in electrification, rewiring of buildings and UG cable works (Hindi version also mentions street light pole erection)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITCHENNAI.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section 1 NIT only (printed pages 3-4); no BOQ or equipment specification. Download, bid and EMD submission 10.07.2025 10:00 to 24.07.2025 15:00; technical bid opening 25.07.2025 15:30. Page 4 shows faint bleed-through of the previous page."
+}

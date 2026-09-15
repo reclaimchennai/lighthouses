@@ -1,0 +1,57 @@
+{
+  "nid": 1755,
+  "title": "Provision of Lightning Conductor at Valiyakara Lighthouse",
+  "summary": "Notice inviting quotation for installing a copper lightning conductor and earthing on the trestle tower of Valiyakara Lighthouse, Lakshadweep (materials supplied by department), with a corrigendum extending the submission date.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-34001/1/2019-MS; I/64698/2024; Tender ID 2024_DGLL_773222_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Valiyakara Lighthouse, Valiyakara Island, UT of Lakshadweep (C/o Station In-Charge, Kavaratti Lighthouse)", "station_id": "valiyakara-lighthouse", "kind": "lighthouse", "work": "Installation of lightning conductor and earthing on trestle tower"}
+  ],
+  "scope": [
+    {"item": "Earthing with copper earth plate 600mm x 600mm x 3mm incl. accessories, masonry enclosure with locking cover plate, 2.7m watering pipe, charcoal/coke and salt (without materials)", "qty": "1", "unit": "Job", "site": "Valiyakara Lighthouse"},
+    {"item": "Excavation on surface alluvial soil for earth strip laying and refilling, removal and refixing of paver blocks with concreting, construction of earth pit chamber with materials", "qty": "1", "unit": "Job", "site": "Valiyakara Lighthouse"},
+    {"item": "Providing and fixing double scaffolding system (cup lock type) up to seven storey height, 40mm dia M.S. tube", "qty": "81", "unit": "sqm", "site": "Valiyakara Lighthouse"},
+    {"item": "Labour charges for annealing copper strip & plate, fabrication of clamps, fabrication of GI pipe C class 2m with flange/base plate & top cover for air conductor, misc. civil works, soldering earth connections", "qty": "1", "unit": "Job", "site": "Valiyakara Lighthouse"},
+    {"item": "Fixing of 25x6mm prefabricated copper clamps along trestle tower and copper earth strip on each clamp incl. brazing joints", "qty": "1", "unit": "Job", "site": "Valiyakara Lighthouse"},
+    {"item": "Transportation of all items from Deep Bhavan, Cochin to Agatti/Kavaratti Lighthouse by courier and onward to Valiyakara Lighthouse by hired boat (materials provided by department)", "qty": "1", "unit": "Job", "site": "Valiyakara Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 152600.0,
+    "emd_inr": 3052.0,
+    "tender_fee_inr": null,
+    "performance_security": "FDR equivalent to 10% of the tendered amount",
+    "notes": "EMD by DD/FDR from any Nationalised/RBI approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Cochin, payable at Ernakulam; Small Scale Industries with valid NSIC/MSME certificate exempt. 100% payment within 30 days of satisfactory completion. Rates to show basic cost and taxes separately."
+  },
+  "period": {"completion": "90 days from the date of supply/work order", "bid_validity": "90 days from the date of opening of quotations", "warranty": null},
+  "dates": {"published": "2024-09-25", "pre_bid": null, "bid_submission_end": "2024-11-07", "bid_opening": "2024-11-07"},
+  "eligibility": [
+    "Reputed OEMs or their authorized suppliers, licensed electrical contractors, parties or Government undertakings",
+    "Company/service engineers with minimum 3 years' experience in the relevant field",
+    "Work experience of equivalent or higher value (supply orders/work completion)",
+    "Last 3 years income tax returns, PAN card, GST registration certificate, NSIC/MSME certificate or EMD",
+    "Bidder to obtain permits for personnel to Agatti & Kavaratti islands from Lakshadweep Administration and ship tickets at own cost"
+  ],
+  "specs": [
+    "Copper strip 25mm x 6mm annealed at site for aerial conductor/earth tape along one main leg of trestle tower",
+    "1.5m long copper air electrode with spikes (heavy duty) on GI pole",
+    "GI pipe C class, 2m length, with GI flange/base plate and top cover, fixed with 12mm GI bolt; zinc primer and 2 coats synthetic enamel",
+    "Copper strip in 40mm dia GI pipe (medium) to earth electrode at 0.5m below ground",
+    "Copper earth plate 600mm x 600mm x 3mm with 2.7m watering pipe, charcoal/coke and salt/backfill compound",
+    "ER test of lightning conductor and earthing; safety harness, helmets, gloves by contractor; works to relevant Indian standards"
+  ],
+  "corrigenda": [
+    {"date": "2024-10-28", "change": "Corrigendum (II): last date for sealed quotation and original EMD/EMD exemption certificate extended to 07.11.2024 15:00; opening 07.11.2024 16:00; firms that already quoted need not resubmit"}
+  ],
+  "documents": [
+    {"file": "NIQValiyakara27092024.pdf", "pages": 11, "read": "mixed", "language": "bilingual", "unreadable": []},
+    {"file": "CorrValiyaII.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Original schedule: quotation format download 30.09.2024 09:00 to 14.10.2024 14:00; submission 30.09.2024 14:00 to 14.10.2024 15:00; opening 14.10.2024 16:00. Dates above reflect Corrigendum (II). Corrigendum (I) is not among the listed documents. Page 2 of NIQ scanned (read visually); pages 9-11 are clamp/schematic drawings. File name date 27092024 differs from notice date 25.09.2024. Corrigendum prints opening as '07.11.2024.2024'."
+}

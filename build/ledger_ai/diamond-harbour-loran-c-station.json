@@ -1,0 +1,43 @@
+{
+  "slug": "diamond-harbour-loran-c-station",
+  "pages_read": [1],
+  "name": "Diamond Harbour LORAN C Station",
+  "station_type": "decommissioned",
+  "established_year": null,
+  "alol": null,
+  "position": {"lat_text": null, "lon_text": null, "lat": null, "lon": null},
+  "elevation_m": null,
+  "characteristic_text": null,
+  "light": {
+    "kind": null,
+    "flashes_per_period": null,
+    "colours": [],
+    "period_s": null,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": null, "geographical_nm": null, "text": null},
+  "tower": {"type": null, "height_m": null, "colour_scheme": null},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": "No optic section; LORAN C station de-commissioned in 2006",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": null, "generator": null, "text": "3 Phase, 440V, 50Hz Electric Mains Supply from WBDCEL"},
+  "issues": [
+    "One-page ledger: LORAN C station de-commissioned in 2006; no position, light or equipment data given"
+  ]
+}

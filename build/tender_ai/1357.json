@@ -1,0 +1,37 @@
+{
+  "nid": 1357,
+  "title": "Procurement of Metal Halide Lamps & Lamp Holder for Various Lighthouses",
+  "summary": "Notice inviting sealed quotations for supply of metal halide lamps (70 W and 150 W) and double-ended lamp holders for various lighthouses, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-02016/1/2019-MS; I/45089/2023",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "70 W metal halide lamp, single ended, day white, preferably Osram/Philips/Havells or equivalent", "qty": "02", "unit": "Nos", "site": null},
+    {"item": "150 W metal halide lamp, single ended, day white, preferably Osram/Philips/Havells or equivalent", "qty": "12", "unit": "Nos", "site": null},
+    {"item": "150 W metal halide lamp, double ended, day white, preferably Osram/Philips/Havells or equivalent", "qty": "26", "unit": "Nos", "site": null},
+    {"item": "150 W double ended metal halide lamp holder", "qty": "27", "unit": "Nos", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate or EMD printed. Rates FOR destination; GST to be shown separately, otherwise deemed inclusive. Payment within 15 days of supply."
+  },
+  "period": {"completion": "Supply within 15 days from date of supply order", "bid_validity": "45 days from date of opening of quotations", "warranty": "As per OEM, to be specified for each item"},
+  "dates": {"published": "2023-09-13", "pre_bid": null, "bid_submission_end": "2023-09-22", "bid_opening": "2023-09-22"},
+  "eligibility": [],
+  "specs": ["Metal halide lamps day white, single and double ended; OEM technical brochure and specification sheets required"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ MH Lamp.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "One-page NIQ with schedule (rates blank); lighthouses not named. Quotations due 22.09.2023 15:00, opened 16:00 same day. Similar later NIQ for the same file number is nid 1561."
+}

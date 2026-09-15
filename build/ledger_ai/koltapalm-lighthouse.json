@@ -1,0 +1,41 @@
+{
+  "slug": "koltapalm-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Koltapalm Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2015,
+  "alol": "F 1224.9",
+  "position": {"lat_text": "7° 00.94' N", "lon_text": "93° 56.02' E", "lat": 7.015667, "lon": 93.933667},
+  "elevation_m": 42,
+  "characteristic_text": "Fl (2) W 10 Sec (1+1+1+7=10 sec)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "1+1+1+7=10 sec",
+    "sequence_s": [1, 1, 1, 7],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 10, "geographical_nm": null, "text": "10 NMiles (single unlabelled range)"},
+  "tower": {"type": "G I Trestle Tower", "height_m": 12, "colour_scheme": "Painted White"},
+  "optic": {
+    "make": "Sealite", "model": "SL155-5D", "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Rotation Device: 'White Flashing Light'; R.P.M.: NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "NA"},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar Plant: 70 W, 01, Mono Crystline, 12V/100AH battery"},
+  "issues": ["Rotation Device field filled with 'White Flashing Light'", "NAIS base station fields empty though VSAT Antenna 'Prodelin 2.4 meter' is listed"]
+}

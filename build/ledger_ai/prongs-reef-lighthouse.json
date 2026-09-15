@@ -1,0 +1,41 @@
+{
+  "slug": "prongs-reef-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Prongs Reef LH",
+  "station_type": "lighthouse",
+  "established_year": 1875,
+  "alol": "F 0514",
+  "position": {"lat_text": "18° 52.76' N", "lon_text": "72° 48.98' E", "lat": 18.879333, "lon": 72.816333},
+  "elevation_m": 41,
+  "characteristic_text": "Fl W 10 Sec.",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.27
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 23, "geographical_nm": null, "text": "23 (unlabelled single range, no unit)"},
+  "tower": {"type": "Circular Masonry Tower", "height_m": 41, "colour_scheme": "Red, White and Black bands"},
+  "optic": {
+    "make": "Wealth Marine Pvt. Ltd., Singapore", "model": "WM-RB 500", "type": "WM-RB 500 Marine Rotating Beacon", "size": "500mm dia. 6 clear \"Bulls Eye\" Acrylic lens panels equally spaced at 60° (Hexagonal)", "order": null,
+    "panels": 6,
+    "rotation_device": "2 Nos. Stepper Motors, microprocessor controlled, one service and one standby",
+    "rpm": 1,
+    "rotates": true,
+    "rotates_evidence": "Optic: Marine Rotating Beacon; Rotation Device: 2 Nos. Stepper Motors; R.P.M. 1",
+    "divergence_horizontal_deg": 1.5,
+    "divergence_vertical_deg": 2.42,
+    "divergence_text": "Horizontal - 1.5°, Vertical 2.42°",
+    "illuminant": "230VAC, 70W MH Lamp; Emergency 12 V DC/100 W"
+  },
+  "intensity_cd": 126623,
+  "racon": {"present": false, "code": null, "text": "All fields '-'"},
+  "ais": {"present": false, "text": "Base Station NA"},
+  "dgps": {"present": false},
+  "power": {"mains": false, "solar": true, "generator": true, "text": "Mains NA; Standby NA; portable Honda generator 2.5KVA; solar 18 x 75W (Tata BP) and 20 x 80W (Jain)"},
+  "issues": ["R.P.M. given as 1 but rotation device says speed selectable from 0.5-0.6 RPM", "Range '23' printed without unit or luminous/geographical label", "Date of commissioning lists both 1875 and 29.06.2008 (taken over from Mumbai Port Trust 11.10.2007)", "Standby NA yet a portable Honda 2.5KVA generator is listed"]
+}

@@ -1,0 +1,50 @@
+{
+  "nid": 1560,
+  "title": "Hiring of Vehicles for Official Purpose at Cochin Directorate during the period April 2024 to March 2025",
+  "summary": "Sealed two-cover quotations from travel agencies/tour operators to supply various classes of hired vehicles with drivers, on km/hour/day basis as required, for official use by the Cochin (Kochi) Directorate from April 2024 to March 2025.",
+  "category": "vessels & vehicles",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "ST-Coc/11/2019-Store",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Toyota Innova Crysta (AC) - rates up to 80 km/8 hrs, additional km, additional hours, driver allowance after 8 hrs", "qty": null, "unit": null, "site": null},
+    {"item": "Mahindra Xylo / Marazzo / Maruti Suzuki Ertiga / XL6 (7 or 8 seater MUV, AC)", "qty": null, "unit": null, "site": null},
+    {"item": "Maruti Suzuki Swift Dezire / Toyota Etios / Honda Amaze (5 seater sedan, AC)", "qty": null, "unit": null, "site": null},
+    {"item": "Maruti Suzuki Swift / Tata Tiago / Tata Punch (5-seater hatchback, AC)", "qty": null, "unit": null, "site": null},
+    {"item": "Tempo Traveller 17-seater (AC)", "qty": null, "unit": null, "site": null},
+    {"item": "Tempo Traveller 24-seater (AC)", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": 2000.0,
+    "tender_fee_inr": null,
+    "performance_security": "Rs 10,000 (FDR or bank guarantee), valid 3 months beyond contract tenure",
+    "notes": "EMD by DD in favour of The Director, Directorate of LH & LS, Cochin, payable at Ernakulam (NIT says DD/FDR valid three months). NSIC/MSME certificate holders may seek exemption. Rates inclusive of POL, fuel, maintenance, driver allowance; GST paid on billing; rates fixed for 12 months, no escalation. L1 on consolidated total of schedule; financial evaluation assumes 100 km / 10 hrs trip. The bank guarantee proforma mentions 10% of contract value and a footnote says 3%, inconsistent with the fixed Rs 10,000."
+  },
+  "period": {"completion": "April 2024 to March 2025 (rates valid 12 months)", "bid_validity": "Rates valid for 12 months, until March 2025", "warranty": null},
+  "dates": {"published": "2024-03-28", "pre_bid": null, "bid_submission_end": "2024-04-08", "bid_opening": "2024-04-09"},
+  "eligibility": [
+    "Company registration in Kerala and a local office in Kochi (proof by BSNL bill, registration certificate or Govt document; rental agreement not accepted)",
+    "PAN card and GST registration",
+    "At least three years of experience providing hired vehicles to Government/Semi-Govt/PSUs",
+    "At least 10 vehicles of its own (RC/ownership/lease documents)",
+    "Not blacklisted, unconditional bid and acceptance of terms (Annexure III affidavits); no near relatives affidavit",
+    "Last 3 years income tax returns and proof of financial stability"
+  ],
+  "specs": [
+    "Vehicles not older than five years, commercially registered, with 'ON GOVT OF INDIA DUTY' sticker",
+    "Drivers with valid licence and 5 years experience, uniform, mobile phone; Malayalam plus Hindi/English",
+    "Substitute vehicle within one hour on breakdown; 24-hour telephone facility"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ.pdf", "pages": 17, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIQ dated 27.03.2024. Download 28.03.2024 09:00 to 08.04.2024 14:00; submission 28.03.2024 14:00 to 08.04.2024 15:00; technical bid opening 09.04.2024 16:00. No estimated cost or vehicle quantities printed (orders as per actual requirement). Schedule (Annexure II) lists only AC vehicle rates. Rest of document is standard proformas (BG, EMD, acceptance, undertaking, non-blacklist, near relatives)."
+}

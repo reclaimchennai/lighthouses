@@ -1,0 +1,54 @@
+{
+  "slug": "navlakhi-lighthouse",
+  "page_count": 2,
+  "title_as_printed": "मास्टर लेजर/ MASTER LEDGER",
+  "sections": [
+    {"no": "1.", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1,
+     "fields": [{"label": "A.L.O.L.", "value": ": F 0370"}], "tables": [], "text": null},
+    {"no": "2.", "title": "Position", "title_hi": "स्थान", "page": 1,
+     "fields": [{"label": "Position", "value": ": Lat 22.961°N , Long 70.4439° E"}], "tables": [], "text": null},
+    {"no": "3.", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1,
+     "fields": [{"label": "Elevation", "value": ": 31 Meter"}], "tables": [], "text": null},
+    {"no": "4.", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1,
+     "fields": [{"label": "Characteristic", "value": ": Fl (W) 10Sec. (1 + 9 = 10Sec)"}], "tables": [], "text": null},
+    {"no": "5.", "title": "Range in miles", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1,
+     "fields": [{"label": "a) Luminous", "value": ": 12NM"}], "tables": [], "text": null},
+    {"no": "6.", "title": "Visibility sector", "title_hi": null, "page": 1,
+     "fields": [{"label": "Visibility sector", "value": ": 360º"}], "tables": [], "text": null},
+    {"no": "7.", "title": "Structure", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "Type", "value": ": Circular RCC tower"},
+       {"label": "Height", "value": ": 30 M."},
+       {"label": "Colour scheme", "value": ": White and red Alternate Horizontalbands"}
+     ], "tables": [], "text": null},
+    {"no": "8.", "title": "Optical Equipment: - Type of Light (LED Flasher)", "title_hi": "ऑप्टिकल उपकरण", "page": 1,
+     "fields": [
+       {"label": "Lantern", "value": ":12NM MLB-200-13 marine LED lantern"},
+       {"label": "Light Source", "value": ":High intensity LED."},
+       {"label": "Make", "value": ": Advance Navigation and Solar Technologies, New Delhi"},
+       {"label": "Character", "value": ":3fl (W) every 10Sec. {(0.5+1.5)2+0.5+5.5=10Sec.}"},
+       {"label": "Date of Installation", "value": ": 15/06/2015"}
+     ], "tables": [], "text": null},
+    {"no": "9.", "title": "Solar Panel", "title_hi": null, "page": 1,
+     "fields": [], "tables": [], "text": "02nos of 12V/75W solar modules, Make: JJ PV Solar, Rajkot Installed on27/07/2015 on GI bracket"},
+    {"no": "10.", "title": "Battery", "title_hi": null, "page": 1,
+     "fields": [], "tables": [], "text": "SMF 12V/100AH, Exide Power Safe, Battery voltage: 14.5V S.No. 4WF0417223007005 installed in2017"},
+    {"no": "11.", "title": "Charge controller", "title_hi": null, "page": 1,
+     "fields": [], "tables": [], "text": "01no.Sukam make, 12V-14VDC/20A Rated."},
+    {"no": "12.", "title": "RACON", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "Model", "value": ":Seabeacon2 system 6 Tideland Racon"},
+       {"label": "Make", "value": ":Tideland Signal, Texas"},
+       {"label": "Racon S.No.", "value": "6269"},
+       {"label": "Chassis No.", "value": "263"},
+       {"label": "Code", "value": ":“B” (As per advertised in ALOL)"}
+     ], "tables": [], "text": "Code row is on page 2."},
+    {"no": "13.", "title": "Address & Communication", "title_hi": null, "page": 2,
+     "fields": [], "tables": [], "text": "VTS Station Navlakhi port, Dist. Morbi, Pin-363680 (Gujarat) e-mail ID: navlakhivtms@gmail.com"},
+    {"no": "14.", "title": "Year of Establishment", "title_hi": null, "page": 2,
+     "fields": [{"label": "Year of Establishment", "value": "1910 and re-established in 2012"}], "tables": [], "text": null},
+    {"no": null, "title": "Page footer", "title_hi": null, "page": 2,
+     "fields": [], "tables": [], "text": "Page 2 of 8 (page 1 footer 'Page 1 of 8' is hidden behind the table in rendering)"}
+  ],
+  "unreadable": []
+}

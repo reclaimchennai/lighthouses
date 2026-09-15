@@ -1,0 +1,41 @@
+{
+  "slug": "east-island-lighthouse-and-dgps-station",
+  "pages_read": [1, 2, 3],
+  "name": "East Island Lighthouse and DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1969,
+  "alol": "F 1201",
+  "position": {"lat_text": "13° 37.79' N", "lon_text": "93° 02.94' E", "lat": 13.629833, "lon": 93.049},
+  "elevation_m": 89,
+  "characteristic_text": "Fl (1) W 15 sec (fl 0.8)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "fl 0.8",
+    "sequence_s": null,
+    "flash_duration_s": 0.8
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 24, "geographical_nm": null, "text": "24 NM (single unlabelled range)"},
+  "tower": {"type": "C.I. Circular tower on RCC Base", "height_m": 37, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "BBT", "model": null, "type": null, "size": "920mm", "order": null,
+    "panels": 3,
+    "rotation_device": "Stepper motor",
+    "rpm": 1.333,
+    "rotates": true,
+    "rotates_evidence": "Pedestal: Mercury float; Rotation Device: Stepper motor; R.P.M. 1.333",
+    "divergence_horizontal_deg": 1.24,
+    "divergence_vertical_deg": 2.48,
+    "divergence_text": "1.24° (Horizontal), 2.48° (Vertical)",
+    "illuminant": "Main: 230V/400W Metal Halide Lamp; Emergency: SL-155-5D LED Equipment, Lens Dia 171 mm optic, Make: Sealite"
+  },
+  "intensity_cd": 1500000,
+  "racon": {"present": true, "code": "D", "text": "Weath Marine WM-RB-II, Sr. No 6295, Code D, Band X, installed 26-09-2011"},
+  "ais": {"present": true, "text": "NAIS 02 Nos AIS1 & AIS2, Model R40, Class A, MMSI 4198001"},
+  "dgps": {"present": true},
+  "power": {"mains": false, "solar": true, "generator": true, "text": "Mains N/A; 4 x DG Set 30 KVA Eicher 48.2 BHP with Stamford alternators; Solar Plant 9 KWp (60 Nos); 70 W/12V solar for RACON"},
+  "issues": ["Characteristic says fl 0.8 but Duration of Flash field says 0.16 Sec"]
+}

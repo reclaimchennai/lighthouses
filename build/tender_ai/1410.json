@@ -1,0 +1,38 @@
+{
+  "nid": 1410,
+  "title": "Provision of Streetlights and Landscaping Lights for Tourism at Kadalur Point Lighthouse",
+  "summary": "Provision of streetlights and landscaping lights as part of tourism development at Kadalur Point Lighthouse, Kochi Directorate.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-15001/1/2020-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kadalur Point Lighthouse", "station_id": "kadalur-point-lighthouse", "kind": "lighthouse", "work": "Provision of streetlights and landscaping lights for tourism"}
+  ],
+  "scope": [
+    {"item": "Provision of Streetlights and Landscaping Lights for Tourism", "qty": null, "unit": null, "site": "Kadalur Point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2304295.0,
+    "emd_inr": 46086.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of any nationalised/RBI approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam; to reach tender inviting authority one day before last date of bid submission. Small scale industries with valid NSIC/MSME certificate exempted from EMD. Table mentions 'EMD and tender fee' submission but no tender fee amount is printed."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2023-11-03", "pre_bid": "2023-11-08", "bid_submission_end": "2023-11-16", "bid_opening": "2023-11-17"},
+  "eligibility": [
+    "Reputed OEMs or their authorised suppliers, licensed electrical contractors, parties or Government undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (9).pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 02.11.2023; two-cover online bids. Download/submission 03.11.2023 09:00 to 16.11.2023 15:00; EMD in original by 15.11.2023 15:00; technical bid opening 17.11.2023 16:00. Section I short notice only; no BOQ, completion period or eligibility details."
+}

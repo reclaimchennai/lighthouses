@@ -1,0 +1,46 @@
+{
+  "nid": 2136,
+  "title": "Special repairs and maintenance work of Lighthouse Tower & Visitor Toilet at Dolphin Nose Lighthouse cum DGPS Station along with external painting of Staff Quarters, Retaining Wall, Inspection Quarter and miscellaneous improvement works in the station.",
+  "summary": "Percentage-rate e-tender for special repairs and maintenance of the lighthouse tower and visitor toilet, external painting of staff quarters, retaining wall and inspection quarter, and miscellaneous improvements at Dolphin Nose Lighthouse cum DGPS Station, Yarada Hill, Visakhapatnam.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MT-VSP-02002(02)/1/2025-Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Dolphin Nose Lighthouse cum DGPS Station, Yarada Hill, Visakhapatnam 530005", "station_id": "dolphin-nose-lighthouse", "kind": "lighthouse", "work": "Special repairs to lighthouse tower and visitor toilet; external painting of staff quarters, retaining wall, inspection quarter; miscellaneous improvement works"}
+  ],
+  "scope": [
+    {"item": "Special repairs and maintenance of Lighthouse Tower & Visitor Toilet", "qty": null, "unit": null, "site": "Dolphin Nose Lighthouse"},
+    {"item": "External painting of Staff Quarters, Retaining Wall, Inspection Quarter", "qty": null, "unit": null, "site": "Dolphin Nose Lighthouse"},
+    {"item": "Miscellaneous improvement works in the station", "qty": null, "unit": null, "site": "Dolphin Nose Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3830041.0,
+    "emd_inr": 76600.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST and all other taxes. Percentage rate tender, two cover system. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships, Visakhapatnam, valid four months from technical bid opening (Hindi text of clause 1.2 says three months). EMD not exempted for any bidder (including NSIC/MSME) and forfeited if timelines not followed. Tender fee nil."
+  },
+  "period": {"completion": "06 months from site handover", "bid_validity": "90 days from the date of opening of tender", "warranty": null},
+  "dates": {"published": "2025-11-29", "pre_bid": "2025-12-03", "bid_submission_end": "2025-12-09", "bid_opening": "2025-12-10"},
+  "eligibility": [
+    "Valid registration in appropriate category & class with Central Govt/CPWD/State Govt/Railways/MES/BSNL/PSU",
+    "Similar works satisfactorily completed in last seven years: three each >= 40%, or two each >= 50%, or one >= 80% of estimated cost; values updated at 7% p.a.; completion certificates required",
+    "Similar works: construction/maintenance works of buildings and other civil structures",
+    "PAN and GST registration; key technical personnel; unconditional tender undertaking (Annexure V); tender acceptance letter (Annexure IV)",
+    "Not-blacklisted affidavit; ITR for FY 2022-23, 2023-24, 2024-25; list of relatives serving in MoPSW/DGLL",
+    "Average annual turnover of last three financial years minimum 30% of estimated cost",
+    "Activity chart/plan, self-assessed technical evaluation sheet, valid labour licence or self-declaration, bank mandate form with cancelled cheque"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (5).pdf", "pages": 5, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 29/11/2025; pages 3-7 of a 102-page tender document (Section I only; no BOQ). Bid download/submission 29/11/2025 12:00 to 09/12/2025 18:00; EMD original up to 09/12/2025 18:00; opening 10/12/2025 12:00. Heavy vehicles permitted to work site. Office e-mail dte-visha@nic.in."
+}

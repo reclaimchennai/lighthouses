@@ -1,0 +1,43 @@
+{
+  "slug": "kanai-creek-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Kanai Creek Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1983,
+  "alol": "F 0479",
+  "position": {"lat_text": "20° 48.7' N", "lon_text": "72° 49.7' E", "lat": 20.811667, "lon": 72.828333},
+  "elevation_m": 34,
+  "characteristic_text": "fl (2) W 20 Sec. (fl 0.5, ec 3,fl 0.5, ec 16)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "fl 0.5, ec 3, fl 0.5, ec 16",
+    "sequence_s": [0.5, 3, 0.5, 16],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 17, "geographical_nm": null, "text": "17NM (single unlabelled range)"},
+  "tower": {"type": "Circular concrete Tower", "height_m": 30, "colour_scheme": "Black & White bands (3 black & 2 white)"},
+  "optic": {
+    "make": "Wealth Marine Pvt. Ltd. Singapore", "model": null, "type": "WM – RB 500 Marine Rotating Beacon", "size": "200 MM", "order": null,
+    "panels": 6,
+    "rotation_device": "2 Nos. 12V DC Stepper Motors",
+    "rpm": 1.5,
+    "rotates": true,
+    "rotates_evidence": "Type: WM-RB 500 Marine Rotating Beacon; Rotation Device 2 Nos. 12V DC Stepper Motors; R.P.M. 1.5",
+    "divergence_horizontal_deg": 1.5,
+    "divergence_vertical_deg": 2.42,
+    "divergence_text": "Horizontal-1.5°, Vertical-2.42°",
+    "illuminant": "1 No. MH Lamp – 70 Watt, 230 AC"
+  },
+  "intensity_cd": 41600,
+  "racon": {"present": false, "code": null, "text": "-"},
+  "ais": {"present": true, "text": "R40 Base Station AIS-1, AIS-2; Model R 40, Class A, 12.5W, MMSI 4192222; VSAT 2.4 m Ex-C band, Datum Systems PSM-500L modem"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Local mains 440V 3 phase 50Hz; standby Gen-Set 01 No. (Kirloskar EA-16 16HP, 7.5 KVA alternator); solar 75W x5 and 80W x6, SMF 12V 150 amp/hr x4"},
+  "issues": [
+    "6 lens panels equally spaced at 1.5 RPM does not obviously produce Fl(2) every 20 s"
+  ]
+}

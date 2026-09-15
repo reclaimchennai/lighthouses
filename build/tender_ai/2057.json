@@ -1,0 +1,38 @@
+{
+  "nid": 2057,
+  "title": "Rewiring of Inspection Quarters, Visitors Rest room, and Reception centre at Mahabalipuram Lighthouse",
+  "summary": "E-tender (two-cover) for rewiring of the Inspection Quarters, visitors' rest room and reception centre at Mahabalipuram Lighthouse, Tamil Nadu (Chennai Directorate).",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01002(04)/4/2020-MNT-MD (e3247)",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mahabalipuram Lighthouse", "station_id": "mahabalipuram-lighthouse", "kind": "lighthouse", "work": "Rewiring of Inspection Quarters, visitors' rest room and reception centre"}
+  ],
+  "scope": [
+    {"item": "Rewiring of Inspection Quarters, Visitors Rest room, and Reception centre", "qty": null, "unit": null, "site": "Mahabalipuram Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1131802.0,
+    "emd_inr": 22636.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR of any nationalised/RBI-approved bank in favour of The Director of Lighthouses and Lightships, Chennai, payable at Chennai; valid 90 days from technical bid opening; exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "60 days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-10-09", "pre_bid": "2025-10-15", "bid_submission_end": "2025-10-22", "bid_opening": "2025-10-23"},
+  "eligibility": [
+    "OEMs or authorised agents, or appropriate class contractors registered with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies, having experience in electrification, rewiring of buildings and UG cable works (Hindi version also mentions street light pole erection)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section 1 NIT only (printed pages 3-4); no BOQ. Download, bid submission and EMD submission 10.10.2025 10:00 to 22.10.2025 15:00; technical bid opening 23.10.2025 15:30. Bid validity not stated."
+}

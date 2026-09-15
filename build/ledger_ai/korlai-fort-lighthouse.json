@@ -1,0 +1,41 @@
+{
+  "slug": "korlai-fort-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Korlai Fort Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1956,
+  "alol": "F 0558",
+  "position": {"lat_text": "18° 32' 15.73\" N", "lon_text": "72° 54' 21.85\" E", "lat": 18.537703, "lon": 72.906069},
+  "elevation_m": 33,
+  "characteristic_text": "fl. W 3 Sec. (fl. 1, ec 2)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 3,
+    "sequence_text": "fl. 1, ec 2",
+    "sequence_s": [1, 2],
+    "flash_duration_s": 0.95
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 23.5, "geographical_nm": 16, "text": "Luminous 23.5 NM, Geographical 16 NM"},
+  "tower": {"type": "Rectangular Masonry Tower", "height_m": 12.7, "colour_scheme": "Black & White bands (3 bands 4.30 m each)"},
+  "optic": {
+    "make": "ANA Navaids, New Delhi", "model": "GRB-48, MK-II", "type": "Revolving with acrylic flat Fresnel lenses", "size": "200 mm", "order": null,
+    "panels": 8,
+    "rotation_device": "Stepper Motor with electronic control",
+    "rpm": 2.5,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving with acrylic flat Fresnel lenses; Rotation Device: Stepper Motor; R.P.M. 2.5",
+    "divergence_horizontal_deg": 5.7,
+    "divergence_vertical_deg": 9.5,
+    "divergence_text": "Horizontal 5.7°, Vertical 9.5°",
+    "illuminant": "230V AC 150W MH lamp (2 Pin Single end); Emergency 12 VDC 50W Halogen lamp"
+  },
+  "intensity_cd": 468750,
+  "racon": {"present": true, "code": "O", "text": "Tideland Sr. No.6296, Sea Beacon 2 System 6, Code 'O', Band X & S, installed 10.11.2005"},
+  "ais": {"present": true, "text": "SAAB R 40, Class A, 80 Watt, MMSI 4192227; AIS-1, AIS-2 base stations"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440v 50 Hz 3 Phase; DG set 7.5 KVA Kirloskar Green; Solar Plant N/A except 70 watt Tata BP panel for RACON"},
+  "issues": ["Characteristic sequence gives fl 1 s but optic Duration of Flash is 0.95 sec"]
+}

@@ -1,0 +1,36 @@
+{
+  "nid": 1577,
+  "title": "Hiring of Vehicles for Official Purpose at Cochin Directorate during the period April 2024 to March 2025",
+  "summary": "Corrigendum II extending the deadline for sealed quotations for hiring vehicles for official purposes at the Cochin Directorate for April 2024 to March 2025.",
+  "category": "vessels & vehicles",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "ST-Coc/11/2019-Store; Tender ID 2024_DGLL_751730_1; I/56254/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Hiring of Vehicles for Official Purpose at Cochin Directorate during the period April 2024 to March 2025", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD (in original) or valid hardcopy of EMD exemption certificate required (amount not stated in this corrigendum)."
+  },
+  "period": {"completion": "April 2024 to March 2025", "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": null, "bid_opening": null},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-04-22", "change": "Corrigendum II: last date for submission of sealed quotation and EMD (original)/EMD exemption certificate extended to '30.04.2023 (14.00 Hrs)'; technical bids to be opened '30.04.2023 at 16.00 Hrs' (year printed as 2023 in a notice dated 22.04.2024)"}
+  ],
+  "documents": [
+    {"file": "CORRIGENDUM II _1.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only Corrigendum II is in the listing; original tender and Corrigendum I not included, so vehicle types, numbers, cost and EMD are unknown. Extended dates printed as 30.04.2023, evidently a typo for 30.04.2024 (listing end date 2024-04-30); dates left null rather than guessed. Tender ID printed split across lines as '2024_DGLL_7 51730_1'. Signed by the Director (name printed)."
+}

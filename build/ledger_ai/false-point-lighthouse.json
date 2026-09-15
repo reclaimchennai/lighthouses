@@ -1,0 +1,44 @@
+{
+  "slug": "false-point-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "False Point Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F 1006",
+  "position": {"lat_text": "20° 19.43 N", "lon_text": "86° 44.50 E", "lat": 20.323833, "lon": 86.741667},
+  "elevation_m": 26,
+  "characteristic_text": "Fl (2) W 20 Sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.25
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 23.3, "geographical_nm": 17, "text": "Luminous 23.3 NM, Geographical 17 NM"},
+  "tower": {"type": "Circular Masonry Tower", "height_m": 32, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "M/s B.B.T, Paris", "model": null, "type": null, "size": "250 mm (4th order small), revolving", "order": "4th order small",
+    "panels": 2,
+    "rotation_device": null,
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Size: 250 mm (4th order small), revolving; R.P.M. 3; Pedestal: Mercury Float",
+    "divergence_horizontal_deg": 4.56,
+    "divergence_vertical_deg": 9.12,
+    "divergence_text": "4.56° (Horiz) & 9.12° (Vertical)",
+    "illuminant": "400W, 230V Metal Halide Lamp"
+  },
+  "intensity_cd": 132500,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": null, "generator": true, "text": "3 PH mains supply 440 V AC 50Hz; standby gensets (02 Nos.) Kirloskar 15 KVA and 12.5 KVA"},
+  "issues": [
+    "Ledger gives 'Elevation of ground 6 m' and 'Elevation of tower 26 m' (tower height 32 m); 26 m used as elevation",
+    "No year of establishment or commissioning stated"
+  ]
+}

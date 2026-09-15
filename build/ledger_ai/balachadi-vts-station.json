@@ -1,0 +1,41 @@
+{
+  "slug": "balachadi-vts-station",
+  "pages_read": [1],
+  "name": "Balachadi VTS Station",
+  "station_type": "vts station",
+  "established_year": 2012,
+  "alol": null,
+  "position": {"lat_text": "22°31.0'N", "lon_text": "70° 14.47'E", "lat": 22.516667, "lon": 70.241167},
+  "elevation_m": 60,
+  "characteristic_text": null,
+  "light": {
+    "kind": null,
+    "flashes_per_period": null,
+    "colours": [],
+    "period_s": null,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": null, "geographical_nm": null, "text": null},
+  "tower": {"type": "RCC Circular concrete Tower", "height_m": 50, "colour_scheme": "White color. (Bottom to Top)"},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": null,
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "PGVCL mains 415V 3-phase 50 Hz; 02 Kirloskar 50 KVA DG sets; 30KWp on-grid solar system (96 panels)"},
+  "issues": []
+}

@@ -1,0 +1,38 @@
+{
+  "nid": 1834,
+  "title": "Provision for Air Conditioners in Deep Bhavan - Electrical works",
+  "summary": "Two-cover e-tender for electrical works for provision of air conditioners at the Deep Bhavan office, Cochin.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-02006/1/2019-MS; I/71889/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, Cochin", "station_id": null, "kind": "office", "work": "Electrical works for provision of air conditioners"}
+  ],
+  "scope": [
+    {"item": "Provision for air conditioners in Deep Bhavan - electrical works", "qty": null, "unit": null, "site": "Deep Bhavan, Cochin"}
+  ],
+  "money": {
+    "estimated_cost_inr": 788878.0,
+    "emd_inr": 15778.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR from any nationalised/RBI approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam; to reach one day before last day of bid submission. Small scale industries exempt from EMD with valid NSIC/MSME certificate covering the work."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-02-10", "pre_bid": "2025-02-14", "bid_submission_end": "2025-02-25", "bid_opening": "2025-02-26"},
+  "eligibility": [
+    "Reputed OEMs or their authorized suppliers, licensed electrical contractors, parties or Government undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_0.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned 2-page short tender notice only; no scope, number of AC units, BOQ, completion period or bid validity. Download/submission 11.02.2025 (09:00) to 25.02.2025 (15:00); EMD in original by 24.02.2025 15:00; technical bid opening 26.02.2025 16:00."
+}

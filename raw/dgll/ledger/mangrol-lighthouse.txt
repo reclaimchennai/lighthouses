@@ -1,0 +1,188 @@
+                       मास्टर लेजर/MASTER LEDGER
+
+क्रमसंख्या/             नाम /Name
+                                                                         वििरण/Description
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0406
+     2        स्थान/Position                     Lat : 21° 06. 30' N Long : 70° 06.20' E
+    3         ऊंचाई/Elevation                    37.335 Meter from M.S.L.
+    4         अभिलक्षण/Characteristic            FL 2 (W) every (0.5+2+0.5+17=20s) 20Sec.
+    5         नॉटिकलमाइलमेदरू ी                  18NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                           Hexagonal Concrete Tower
+                                                 Height                         35M
+                                                 Colour Scheme                  Red and White bands.
+    7         ऑप्टिकलउपकरण                       Optic
+              Optical equipment                  Make                           Mediterraneo Senales Maritimas
+                                                                                (MSM)
+                                                 Type                           MBR-300
+                                                 Size                           ---
+                                                 No. of lens                    4
+                                                 Area of dioptric portion       ---
+                                                 Area of catadioptric portion   ---
+                                                 Divergence                     9º (Horizontal)
+                                                 Main/Emergency                 9º (Vertical)
+                                                 Duration of Flash              ---
+                                                 Main /Standby/Emergency
+                                                 Pedestal                       2 Nos. Pedestal (Total 2 mtr
+                                                                                height)
+                                                 Rotation Device                Stepper motor
+                                                 R.P.M.                         1.5
+                                                 Illumining
+                                                 Main                           230V/150W Single CDM-T Lamp
+                                                 Standby                        ---
+                                                 Emergency:                     ----
+                                                 Date of Installation           05-09-2010
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                           ----
+              intensity                          Emergency                      ----
+    9         लेंिनन/Lantern                     Diameter                       3.0m
+                                                 Height of glazing              2.0m
+                                                 No. of panes                   24
+                                                 Ventilators                    11
+    10        RACON                              -----                              ----
+          Make                Model           Code                             Band                       Date of
+                                                                                                          Installation
+
+     11   NAIS
+          Base Station                         02 Nos.
+
+          Model               Type             Power                           MMSI
+          P/N:7000 100-971    R-40 AIS         AC Supply                       004192215
+                              Base Station
+                              (IEC 62320 -
+                              1)
+          Communication
+          Equipment
+          VSAT Antenna        Band             Modem
+          2.4 Meter           C band           Hughes ,Model- HT2300
+          DGPS                ----
+          Transmitter Make    Frequency        Power                 RS 1 ID   RS -II       Beacon        Date of      Dat
+                                               Output                          ID           ID            commis       e of
+                                                                                                                       Rec
+                                                                                                          sioning      apit
+                                                                                                                       aliz
+                                                                                                                       atio
+                                                                                                                       n
+
+
+
+     12   ऊर्ानकेसाधन/        Mains                                            440V/3-phase/50 Hz
+          Source of energy    Power Source                                     DG Set 15 KVA make Kirloskar
+                              Engine 1
+                              Make/Type                    Qty       Rating    No of            RPM              Cooling
+                                                                               Cylinder
+                              Kirloskar                    1         20.5 HP   2                1500             Air
+                              Alternator
+                              Make/Type                    Qty       Rating    Voltage/Amp      Frequency        Phase
+                              Kirloskar                    1         15 KVA    230V/62.5A       50Hz             Single
+                              Solar Plant
+                              Capacity PV                  Numbers             Type             Battery          Bank
+                              9 KWp                        36 Nos              Mono             48 Nos           01 No.
+                                                                               Crystalline      2V/900AH
+                                                                               (34) + Poly
+                                                                               Crystalline(2)
+                              Solar Plant for Main RACON                       ----
+                              Capacity PV                  Numbers             Type       Battery                Bank
+
+
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make               Model            Capa         Input               Output               Phase        Qty
+          SERVO(Voltag       VSP/8/160/1/     8KV          160 – 260 V         240                  1            1
+          e Stabilizer)      SERVO            A
+14        बैिरर
+          Batteries
+     Equipment              Type             Make        Volt                     Amp/Hr      Qty
+     PSS NAIS                   -              -                   -                  -               -
+     Genset                 VRLA             OKA         12V                      200         1
+                                             YA                                   AH
+     Automation
+     DGPS
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make               Model       Type                     Rating      Qty
+     General Purpose
+     Automation                                ---              ----
+16   इंवटट रInverter /UPS
+     Equipm Nos           Make       Model                      Type              Rating     Qty input              out
+     ent                                                                                                            put
+     Main        01       UTL                  ----                    AC          800VA         01       230       230
+                 inverter
+     Light       with 01
+                 no,12V/
+                 150Ah
+                 Battery,
+                 Make-
+                 SFSONIC
+     NAIS
+     PSS
+     DGPS
+
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE       PLC                 HMI              Power Supply           VSAT           Modem           Band
+     RDS, Pune    ALLEN-            REENU            MEAN WELL              ---            ROUBUSTEL       ---
+                  BRADLEY                            ENTERPRISES
+18   आप्ननशमनउपकरण                           Type of Extinguisher           Capacity         Nos           Make
+                                             DCP Type                       4 kg             8             SAFETY
+     Fire Fighting Equipment                                                                               FIRE
+                                             Water Co2             -                         -
+                                             Foam Type             -                         -
+19   संचार                                   Telephone No. : 02878-222280
+     Communication
+20   र्लपर्ू तन                              02 tap Connection from Mangrol municipality.
+                                             PVC tank capacity 1500 Ltrs An electric water pump is
+     Water Supply
+                                             provided to lift the water to elevated tank for distribution to
+                                             each building and quarters.
+                                             Another electric water pump is provided water for to
+                                             gardening and maintenance.
+21   िूभम                                    Area                                  1.50 hectors.
+     Land                                    Demarcation                                   Compound wall on all
+                                                                                           sides
+22   इमारतें                                 RCC Structure                                 LH tower, Inspection
+                                                                                           quarter, Power House,
+     Buildings                                                             HLK quarter,
+                                                                           Two unit of ALK quarters
+                                                                           LHA and Safaiwala
+                                                                           quarters
+
+
+
+
+                                                                                     quarters,
+                                                                           Over head water tank
+                                                                           tower.
+                                     Timber Construction above plith
+                                     level
+23   कंपाउं डलाइि                    10 Nos. G.I. Poles with 25W LED
+                                     AC lamp fitted,
+     Compound Lights
+                                     Main Gate Light-02,
+                                     10 Nos Solar LED street Light with
+                                     G.I.Poles.
+24   सीसीिीिीकमेरा                   Camera                                -----
+      CCTV CAMERA                    DVR                                   -----
+25   स्िाफ                           Sl. No       Designations
+     Staff                           1              Navigational Assistant -I
+                                     2              Navigational Assistant -III
+                                     3              Lighthouse Attendant
+26   पहुँचनेकामाध्यम                 By rail up to Keshod and then 28 km by road up to Lighthouse.
+                                     (1/2 km approach road)
+     Mode of approach
+27   उपलब्धसविधाए                    Post office, Hospital, High school etc. are within 8 km from
+                                     LH at Mangrol town.
+     Facilities available
+
+
+28   डाकपताPostal address            The Lighthouse In-Charge
+                                     Mangrol lighthouse, Bander Road,
+                                     P.O. – Mangrol, Dist-Junagadh, Pin-362226
+
+29   मूल्यकाब्योराCost details       Rs.16,60,555/- (Construction)
+                                     Rs.19,46,900/- (Equipement)
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          5-03-1986
+     Date of commissioning
+

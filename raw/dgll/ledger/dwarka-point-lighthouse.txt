@@ -1,0 +1,159 @@
+                                   मास्टर लेजर/MASTER LEDGER
+
+                  द्वारका पॉइं ट   दीपस्तंभ/ DWARKA POINT LIGHTHOUSE
+क्रमसंख्या/              नाम /Name
+   Sr.No                                                                 वििरण/Discription
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0396
+     2        स्थान/Position                     Lat 22º 14.29' N
+                                                 Long 68º 57.47'E
+
+    3         ऊंचाई/Elevation                    48 m (above MSL
+    4         अभिलक्षण/Characteristic            Fl (2)W 20 sec. (0.31+4.69+0.31+14.69=20sec.)
+    5         नॉटिकलमाइलमेदरू ी                  25.5 NMiles
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                           Square masonry stone tower
+                                                 Height                         43 m
+                                                 Colour Scheme                  Black and White bands
+    7         ऑप्टिकलउपकरण                       Optic
+              Optical equipment                  Make                           Stone Chance
+                                                 Type
+                                                 Size                           500 mm
+                                                 No. of lens                    2
+                                                 Area of dioptric portion
+                                                 Area of catadioptric portion
+
+                                                 Divergence                     12º35.99' (Horizontal)
+                                                 Main/Emergency                 8º 14.83' (Vertical.)
+                                                 Duration of Flash
+                                                 Main /Standby/Emergency
+                                                 Lamp changer
+                                                 Pedestal                       Mercury float
+                                                 Rotation Device                Stepper motor
+                                                 R.P.M.                         3
+                                                 illumining                     Cluster of 3 numbers of Master
+                                                                                colour CDMT-D 150W/942
+                                                 Main                           150W/230V
+                                                 Standby / Auxiliary
+                                                 Emergency:
+                                                 Date of Installation
+    8         प्रिािीबीमतीव्रता/Effective beam   Main & Standby                 7,07,007 Candela
+              intensity
+                                                 Emergency
+    9         लेंिनन/Lantern                     Diameter                       3.2
+                                                 Height of glazing              1.78
+                                               No. of panes                          12
+                                               Ventilators                           11
+10   RACON          - NA-
+     Make                    Model             Code                                  Band                            Date of
+                                                                                                                     Installation
+            Tide Land                -                              G                            X&S                     Oct-2005
+11   NAIS
+     Base Station                              PSS Dwarka
+
+     Model                   Type              Power                                 MMSI
+
+     Communication           Leased
+     Equipment               Line
+
+     VSAT Antenna
+     Prodelin 2.4 meter
+     DGPS                        -NA-                  -                                         -                                -
+     Trasmitter Make         Frequency         Power Output RS 1 ID                  RS -II          Beacon          Date of          Date of
+                                                                                     ID              ID              commis           Recapit
+                                                                                                                                      alizatio
+                                                                                                                     sioning          n
+               -                 -                        -                     -         -            -                -               -
+              -                  -                                      -                    -                                 -
+12   ऊर्ानकेसाधन/Sour        Mains                                                   440V/3-phase/50Hz
+     ce of energy            Standby                                                 15KVA DG set
+                             Engine 1
+                             Make/Type                        Qty           Rating   No of             RPM                  Cooling
+                                                                                     Cylinder
+                             Kirloskar                        1             20.5Hp   2                 1500                 Air
+                             Alternator
+                             Make/Type                        Qty           Rating   Voltage/Amp       Frequency            Phase
+                             Kirloskar                        1             15KVA    230V              50Hz                 Single
+                             Solar Plant                                             Solar panels.
+                             Capacity PV                      Numbers                Type                  Battery          Bank
+                             10WKp                            01                     Mono                  2V/1000A                01
+                                                                                     Crystline
+                                                                                                           H x 48Nos
+                             Solar Plant for Main Light
+                             Capacity PV                      Numbers                Type                  Battery          Bank
+                                                                                                                                   -
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                   Model              Capa Input                            Output                Phase            Qty
+                                               city
+
+14   बैिरर
+     Batteries
+     Equipment              Type               Make Volt                             Amp/Hr                Qty
+     PSS NAIS             SMF         Exid     12V                  90AH           01 Nos
+     Main Light                       e
+     Genset               SMF         Exid     12V                  90AH           01 Nos
+                                      e
+     Automation
+     Racon                SMF                         12V                 100AH         01Nos
+                                      Amar
+                                      a
+                                      Raja
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make        Mode Type                     Rating         Qty
+                                      l
+                          Argo make   S.No                          0-             01
+                                      . 403                         80V/10A
+                                                                    mp
+     Automation                                                                                          -
+16   इंवटट रInverter /UPS
+     Equipmen Nos Make Model                 Type     Rating        Qty            input               output
+     t
+     Main
+     Light
+     NAIS PSS
+     DGPS
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE          PLC    HMI            Power Supply          VSAT          Modem         Band
+
+18   आप्ननशमनउपकरण                    Type of Extinguisher     Capacity           Nos           Make
+     Fire Fighting Equipment          DCP                      4kg                08
+                                      Foam                     -                  -             -
+                                      Co2
+                                      Fire bucket                                 04
+
+
+19   संचार                            P & T telephone No.02892-234536
+     Communication
+20   र्लपूर्तन                        Municipal water mains, rain water collection Tanks are
+                                      provided in each quarter of 6000 liter capacity each
+     Water Supply
+21   िूभम                             2.671 hector
+     Land
+
+22   इमारतें
+     Buildings
+23   कंपाउं डलाइि                    10 Nos. G.I. poles with LED 25W
+                                     fixture and 2nos. LED 23W gate light
+     Compound Lights
+24   सीसीिीिीकमेरा                   -
+      CCTV CAMERA
+25   स्िाफ                           Navigational Asst.- I
+                                     Navigational Asst.- II
+     Staff
+                                     Lighthouse Attendants-02
+26   पहुँचनेकामाध्यम                 By rail up to Dwarka and then 3 km. by road up to lighthouse
+     Mode of approach
+27   उपलब्धसविधाए                    Police station
+     Facilities available            Dispensary
+                                     Post office
+                                     High School
+28   डाकपताPostal address            Station In-charge, Dwarka Lighthouse,P.O Dwarka,Dist.
+                                     Devbhumi Dwarka Pin 361 335
+29   मल्ू यकाब्योराCost details      2,48,960/-
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          15-07-1962
+     Date of commissioning
+

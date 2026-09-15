@@ -1,0 +1,75 @@
+{
+  "nid": 2055,
+  "title": "Repairs & maintenance of Kanhoji Angre Island Lighthouse Station",
+  "summary": "E-tender for civil repairs and maintenance (dismantling, plumbing and sanitary fittings, rainwater pipes, painting, plastering, granite and boat hire) at Kanhoji Angre Lighthouse on Khanderi Island, Raigad, Maharashtra.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-MUM-03012(03)/1/2021-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, M.G. Road, Ghatkopar (East), Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kanhoji Angre Lighthouse Station, Khanderi Island, Raigad, Maharashtra", "station_id": "kanhoji-angre-lighthouse", "kind": "lighthouse", "work": "Repairs and maintenance: dismantling, plumbing/sanitary, rainwater pipes, fittings, granite, painting, plastering, brickwork, boat and labour carriage"}
+  ],
+  "scope": [
+    {"item": "Dismantling existing unserviceable wooden/steel doors, windows, ventilators, cupboards (area 3 sqm and below)", "qty": "2", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Dismantling aluminium sheet roofing incl. ridges, hips, valleys, gutters", "qty": "130", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Dismantling old plaster or skirting, raking joints and cleaning surface", "qty": "525", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Dismantling C.I./asbestos 100 mm rain water pipe with fittings and clamps", "qty": "110", "unit": "Metre", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Demolishing R.C.C. work manually/mechanically", "qty": "2", "unit": "Cum", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Dismantling W.C. pan and flushing cistern", "qty": "2", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "CPVC pipes for hot and cold water, concealed: 15 mm (11 Rmt), 20 mm (6 Rmt), 25 mm (6 Rmt), 32 mm (25 Rmt); 40 mm exposed (30 Rmt)", "qty": "78", "unit": "Rmt", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Wall mounted white vitreous china single piece syphonic water closet with integrated 10 litre dual flush cistern (Jaquar/Parryware/Hindware)", "qty": "1", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "White vitreous china wash basin 550x400 mm with 15 mm CP brass single hole basin mixer", "qty": "2", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "600x450 mm bevelled edge mirror", "qty": "2", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "PTMT towel rail 600 mm", "qty": "2", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "CP brass napkin holder", "qty": "2", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "PTMT soap dish holder", "qty": "2", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "600x120x5 mm glass shelf on anodised aluminium frame", "qty": "2", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Water supply fittings (2 each): CP bib cock, concealed stop cock, angle valve, 100 mm shower rose, PTMT waste coupling, 40 mm PVC waste pipe, mosquito proof coupling, single lever telephonic wall mixer, jet with flexible tube, flush cock, PVC connection pipe, 25/32/40 mm CPVC valves, 15 mm flexible geyser pipe", "qty": null, "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Unplasticised rigid PVC rain water pipe 110 mm (IS 13592 Type A), single socketed", "qty": "70", "unit": "Rmt", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "110 mm PVC fittings: pushfit coupler, single tee with door, 87.5 deg bend, CI grating inlet (6 each)", "qty": "24", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Renewing galvanised wire mesh", "qty": "5", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Replacement of door/window fittings: MS sliding door bolts (6), brass door handles (6), hooks and eyes (4), aluminium tower bolts 150 mm (8) and 100 mm (8), brass butt hinges heavy (6) and ordinary (7)", "qty": "45", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "18 mm black granite, gang saw cut, mirror polished, on 20 mm CM 1:4", "qty": "10", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Removing distemper/enamel/cement paint from interior and exterior walls", "qty": "4215", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "White cement based putty 1 mm on interior walls (Asian/Berger/Shalimar)", "qty": "3310", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Premium acrylic smooth exterior paint with silicone additives, two or more coats (Asian/Snowcem/Berger)", "qty": "1185", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Synthetic enamel paint two or more coats (Asian/Berger/Shalimar)", "qty": "3760", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Polyurethane floor paint over old paver block internal pathway/road (Asian/Indigo/Dulux)", "qty": "240", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Brick work with common burnt clay FPS bricks class 7.5 in CM 1:4", "qty": "4", "unit": "Cum", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "18 mm cement plaster in two coats (12 mm 1:5 + 6 mm 1:3)", "qty": "537", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Hire of mechanised boats/pontoons for potable water (incl. pumping to storage tank), labour and materials from Thal jetty to Kanhoji Angre landing", "qty": "1", "unit": "Job", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Labour for carriage of construction material from Kanhoji Angre landing to lighthouse premises", "qty": "1", "unit": "Job", "site": "Kanhoji Angre Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2120958.0,
+    "emd_inr": 42500.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "Performance guarantee 5% of contract value (FDR/BG) before work order, released on completion; plus security deposit 5% deducted from RA bills, released after 6 months defect liability period",
+    "notes": "Estimated cost inclusive of GST; BOQ total Rs 21,20,958.40 including boat hire Rs 75,000 and carriage labour Rs 30,000. EMD by DD/FDR of scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid three months; MSME/NSIC bidders must also pay EMD. Minimum average annual turnover 30% of estimate (Rs 6,36,287)."
+  },
+  "period": {"completion": "01 month from date of issue of work order", "bid_validity": "90 days from the date of opening of technical bid", "warranty": "Defect liability period 6 months"},
+  "dates": {"published": "2025-10-09", "pre_bid": "2025-10-13", "bid_submission_end": "2025-10-14", "bid_opening": "2025-10-15"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with Central Govt./State Govt./Municipal Corporation, with tender limit equal to or more than estimated cost",
+    "Similar works (civil construction, repair and maintenance) in last 7 years with Central/State/UT Government organisations: three works each >= Rs 8.48 lakh (40%), or two each >= Rs 12.72 lakh (60%), or one >= Rs 16.96 lakh (80%); only fully completed works; certificates from officers below Executive Engineer not considered; sub-contractor experience not considered",
+    "Average annual turnover at least 30% of estimated cost over last 3 financial years, CA certified",
+    "PAN, GST registration, income tax returns for three years",
+    "Tender acceptance letter, unconditional bid undertaking, bid securing declaration, notarised non-blacklisting affidavit, declaration of no relatives in DGLL/MoPSW, Make in India self-certification",
+    "Technical evaluation score of at least 70/100 (statutory 30, financial 20, experience 20, client performance certificates 20, key personnel 10: one graduate civil engineer and two diploma civil engineers)"
+  ],
+  "specs": [
+    "Works to CPWD specifications; cement 53 grade OPC/PPC from ISI-licensed manufacturers; sand to IS 2686; bricks to IS 1077",
+    "Paint shades: snow/brilliant white (trestle, GI and RCC tower), signal red (trestle tower), bus green (automation box and hand rail), black (gate, pedestal, RCC tower)",
+    "Site is on an island reachable only by boat from Thal (Alibag) or Gateway of India jetty"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "repairandmainttender.pdf", "pages": 71, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Full 70-page tender document; GCC (Section IV), SCC (Section V) and annexure forms are standard boilerplate. BOQ in Section VII carries estimated rates. Bid download/submission 09/10/2025 16:00 to 14/10/2025 16:00, only five days, with a one-month completion period for a Rs 21 lakh island work. Tender acceptance letter template cites reference CM-MUM-03012(01)/1/2021 while the NIT cites CM-MUM-03012(03)/1/2021. Clause 3.1 mentions turnover years ending 31/03/2024 and 31/03/2025 inconsistently. Page 71 contains only a page number."
+}

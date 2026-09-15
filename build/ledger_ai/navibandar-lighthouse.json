@@ -1,0 +1,44 @@
+{
+  "slug": "navibandar-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Navibandar Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1986,
+  "alol": "F 0404",
+  "position": {"lat_text": "21° 27.0' N", "lon_text": "69° 47.2' E", "lat": 21.45, "lon": 69.786667},
+  "elevation_m": 18,
+  "characteristic_text": "Fl(1)W10 Sec. (1+9=10 Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "1+9=10 Sec",
+    "sequence_s": [1, 9],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 13, "geographical_nm": null, "text": "13 NM (single unlabelled range)"},
+  "tower": {"type": "Round concrete Tower", "height_m": 15, "colour_scheme": "White"},
+  "optic": {
+    "make": "Sealite", "model": null, "type": "LED lantern", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": "NIL",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED lantern; Rotation Device NIL; R.P.M. NIL",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 5,
+    "divergence_text": "5° (Vertical)",
+    "illuminant": "LED"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "NIL"},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "Mains 230V/1-phase/50 Hz; Diesel Generators NIL; solar plant 60 panels with 48 x 2V/600Ah batteries; 70 Watt x 2 for main light"},
+  "issues": [
+    "Optic Duration of Flash printed as '10 Sec', inconsistent with characteristic 1+9=10 Sec",
+    "Effective beam intensity fields are blank"
+  ]
+}

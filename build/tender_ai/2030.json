@@ -1,0 +1,47 @@
+{
+  "nid": 2030,
+  "title": "Procurement and installation of Air - Conditioner unit for Inspection quarter (Storm Signal) at Puri Lighthouse, Odisha",
+  "summary": "GeM bid for supply and installation of two 1.5-ton split air conditioners and two 4 kVA voltage stabilizers for the inspection quarter (Storm Signal) at Puri Lighthouse, Odisha, for the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/6666224; MS-Kol-07001/1/2019-MAINTENANCE; I/85027/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Puri Lighthouse, Baliapanda, Puri-752001, Odisha (Inspection quarter, Storm Signal)", "station_id": "puri-lighthouse", "kind": "lighthouse", "work": "Supply and installation of split ACs and voltage stabilizers in inspection quarter"}
+  ],
+  "scope": [
+    {"item": "Split Air Conditioner Including Green AC, Wall Mount Type (V2): 1.5 Ton, non-inverter, 3 star, with G.I. outdoor stand, 10 m drain pipe, 2 rolls wrapping tape; including un-installation of existing AC", "qty": "2", "unit": "pieces", "site": "Puri Lighthouse"},
+    {"item": "Automatic Line Voltage Correctors (Step Type) for Domestic Use - IS 8448, 4 kVA, wall mounting, digital voltmeter", "qty": "2", "unit": "pieces", "site": "Puri Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 124570.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated bid value Rs 1,24,570 including GST. GeM bid: EMD not required, ePBG not required; but buyer ATC evaluation table lists EMD (DD/FDR or MSME/NSIC certificate) as compulsory. MSE purchase preference applicable; MII purchase preference not applicable. Payment after satisfactory supply and installation; TDS and GST deducted."
+  },
+  "period": {"completion": "Delivery within 15 days", "bid_validity": "90 days", "warranty": "AC: 1 year comprehensive onsite OEM warranty, compressor 5 years or higher; stabilizer: 36 months or higher"},
+  "dates": {"published": "2025-09-22", "pre_bid": null, "bid_submission_end": "2025-10-03", "bid_opening": "2025-10-03"},
+  "eligibility": [
+    "GeM: minimum average annual turnover Rs 1 lakh (3 years); 3 years past experience; past performance 80% of bid quantity; no MSE/startup exemption",
+    "ATC mandatory: OEM authorization certificate; non-blacklisting undertaking/notarised affidavit; bid acceptance form; PAN and GST; product data sheet and technical compliance statement; 5-year residual market life undertaking; no refurbished components; MII certificate on OEM letterhead",
+    "ATC technical: one similar work >= 80% of estimated value, or two >= 50%, or three >= 40% in last seven years (7% escalation); similar work defined as supply of air-conditioner related work (ATC Section 1) or electrical installation/wiring (evaluation table)",
+    "Average annual turnover minimum 30% of estimate for three years ending March 2025 (CA certified); solvency certificate 40% of estimate; ITR for 3 years; valid electrical licence",
+    "Technical evaluation minimum 70/100 (experience 60, turnover 12, solvency 10, ITR 12, PAN 3, GST 3)"
+  ],
+  "specs": [
+    "Split AC 1.5 ton, cooling only, 3 star (ISEER 3.8-4.39), non-inverter fixed speed, eco-friendly zero-ODP refrigerant, copper condenser coil, 4-way swing, 3 m copper pipe; IS 1391 (Part 2), BEE notification 19 April 2022",
+    "ATC Section 2 allows 1.5 ton non-inverter 3 to 5 star",
+    "Voltage corrector: 4 kVA, copper winding, digital voltmeter, wall mounting, with time delay; IS 8448"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "ACGeMbid.pdf", "pages": 18, "read": "mixed", "language": "bilingual", "unreadable": ["GeM pages Hindi text layer partly garbled; English values read"]}
+  ],
+  "confidence": "high",
+  "notes": "Pages 1-8 are the system-generated GeM bid document (standard GeM GTC/STC boilerplate); pages 9-18 are scanned buyer ATC (Sections 1-4, Form-A). Consignee is the Station In-charge, Puri Lighthouse; the named contact person's mobile number: [personal contact removed]. ATC contradicts the GeM bid on EMD (GeM says not required) and includes eligibility beyond GeM filters. Similar-work definition differs between ATC sections."
+}

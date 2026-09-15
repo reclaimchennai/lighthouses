@@ -1,0 +1,41 @@
+{
+  "slug": "nanwel-point-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Nanvel Point",
+  "station_type": "lighthouse",
+  "established_year": 1964,
+  "alol": "F 0562",
+  "position": {"lat_text": "18° 16.84' N", "lon_text": "72° 56.18' E", "lat": 18.280667, "lon": 72.936333},
+  "elevation_m": 64,
+  "characteristic_text": "fl (3) W 15 Sec. (FL 0.33, ec. 12.7 ) fl 0.33, ec. 2.17, fl 0.33, ec. 9.67)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "FL 0.33, ec. 12.7, fl 0.33, ec. 2.17, fl 0.33, ec. 9.67",
+    "sequence_s": [0.33, 12.7, 0.33, 2.17, 0.33, 9.67],
+    "flash_duration_s": 0.52
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 16, "geographical_nm": null, "text": "Luminous: 16 Miles; Geographical blank"},
+  "tower": {"type": "Octagonal Masonry Tower", "height_m": 18.3, "colour_scheme": "Red, White & Red Bands"},
+  "optic": {
+    "make": "Stone Chance", "model": null, "type": "Revolving with cut and polished prisms", "size": "250 mm", "order": "4th order small",
+    "panels": 3,
+    "rotation_device": "Dual Stepper Motor 40 Kgcm with automatic changeover",
+    "rpm": 4,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving; Rotation Device: Dual Stepper Motor 40 Kgcm; R.P.M. 4",
+    "divergence_horizontal_deg": 12.54,
+    "divergence_vertical_deg": 9.12,
+    "divergence_text": "Horizontal - 12.54°, Vertical - 9.12°",
+    "illuminant": "3 x 150 W Metal Halide lamp cluster"
+  },
+  "intensity_cd": 78318,
+  "racon": {"present": false, "code": null, "text": "All fields '----'"},
+  "ais": {"present": false, "text": "Base Station '-'; fields '----'"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": null, "generator": false, "text": "Mains rows blank; Standby -N/A-; Engine 2 and Alternator -N/A-; solar plant fields blank"},
+  "issues": ["Headline says every 15 s but itemised sequence (0.33, 12.7, 0.33, 2.17, 0.33, 9.67) sums to 25.53 s; first eclipse 12.7 likely a typo for 2.17", "Sequence flash 0.33 s differs from Duration of Flash 0.52 Sec", "Panels printed as '3 to 60° each'", "Tower height '18.3' printed without unit", "Geographical range blank"]
+}

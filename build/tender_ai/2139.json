@@ -1,0 +1,44 @@
+{
+  "nid": 2139,
+  "title": "Development works for promotion of tourism at Krishnapatnam Lighthouse Station.",
+  "summary": "Percentage-rate e-tender for tourism development works at Krishnapatnam Lighthouse, Muthukuru, Nellore district, Andhra Pradesh.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MT-VSP-02002(15)/1/2025-Maintenance; I/89377/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Port Residential Area, Saligramapuram, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Krishnapatnam Lighthouse, Muthukuru, Gopalapuram Post, Nellore Dist., Andhra Pradesh 524344", "station_id": "krishnapatnam-lighthouse", "kind": "lighthouse", "work": "Development works for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Development works for promotion of tourism (no BOQ in these pages)", "qty": null, "unit": null, "site": "Krishnapatnam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1340122.0,
+    "emd_inr": 26800.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST and all other taxes. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships, Visakhapatnam; validity four months (table) or three months (clause 1.2). Clause 1.2 Hindi says no bidder exempted from EMD, but English note exempts MSEs registered in MSME on submission of a bid-securing declaration."
+  },
+  "period": {"completion": "03 months from the site handover", "bid_validity": "90 days from the date of opening of tender", "warranty": null},
+  "dates": {"published": "2025-12-01", "pre_bid": "2025-12-05", "bid_submission_end": "2025-12-11", "bid_opening": "2025-12-12"},
+  "eligibility": [
+    "Valid registration in appropriate category & class with Central Government/CPWD/State Government/Railways/MES/BSNL/PSU, and valid electrical licence",
+    "Similar works completed in last seven years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; similar works = construction/maintenance of buildings and other civil structures; values updated at 7% per annum",
+    "PAN and GST registration; key technical personnel; unconditional tender undertaking (Annexure V); tender acceptance letter (Annexure IV)",
+    "Non-blacklisting affidavit; income tax returns FY 2022-23, 2023-24, 2024-25",
+    "List of relatives serving in MoPSW or DGLL",
+    "Average annual turnover of last three financial years at least 30% of estimated cost",
+    "Activity chart/plan; self-assessing technical evaluation sheet; valid labour licence or self-declaration; bank mandate form with cancelled cheque"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT 2.pdf", "pages": 5, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Extract of pages 3-7 of a 102-page tender document (Section I NIT only); no BOQ. Bid download/submission 01/12/2025 18:00 to 11/12/2025 15:00. Heavy vehicles permitted to site. Director's signature dated 1/12/25."
+}

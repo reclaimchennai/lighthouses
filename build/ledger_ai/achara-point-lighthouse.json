@@ -1,0 +1,45 @@
+{
+  "slug": "achara-point-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Achara Point Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2012,
+  "alol": "F0592",
+  "position": {"lat_text": "16°12.0' N", "lon_text": "73° 25.9' E", "lat": 16.2, "lon": 73.431667},
+  "elevation_m": 17,
+  "characteristic_text": "Flash(2) White every 06 sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 6,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 8, "geographical_nm": null, "text": "08 NM (unlabelled range)"},
+  "tower": {"type": "Circular RCC Tower", "height_m": 17, "colour_scheme": "White"},
+  "optic": {
+    "make": "Automatic power,USA", "model": null, "type": "Marine Signal Lantern", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Optic: High efficiency LED flashing beacon, Marine Signal Lantern; Rotation Device NA; R.P.M. NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "LED"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "Sr. No 6295; Make/Model/Code/Band NA"},
+  "ais": {"present": false, "text": "NAIS: Model, Type, Power, MMSI NA"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": false, "text": "Mains row: 1000AH 12V x 2 battery, solar charged battery bank, 6 solar panels of 100W each; Standby NA; engines NA"},
+  "issues": [
+    "Duration of flash given as '06 Sec', same as the period; not a plausible flash duration, not transcribed as flash_duration_s",
+    "RACON Sr. No 6295 listed but all RACON details NA",
+    "Solar plant shown under 'Solar Plant for Main RACON' although RACON is NA; 'Mains' row describes a solar battery bank"
+  ]
+}

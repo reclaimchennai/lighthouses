@@ -1,0 +1,41 @@
+{
+  "slug": "kaup-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Kaup Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1935,
+  "alol": "F 0658",
+  "position": {"lat_text": "13° 13.4' N", "lon_text": "74° 44.20' E", "lat": 13.223333, "lon": 74.736667},
+  "elevation_m": 43,
+  "characteristic_text": "fl (3) W 20 Sec. (fl 0.25, ec 3.75, fl 0.25, ec 3.75, Fl 0.25, ec 11.75)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "fl 0.25, ec 3.75, fl 0.25, ec 3.75, fl 0.25, ec 11.75",
+    "sequence_s": [0.25, 3.75, 0.25, 3.75, 0.25, 11.75],
+    "flash_duration_s": 0.25
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 25, "geographical_nm": 17.5, "text": "Luminous 25 NM, Geographical 17.5 NM"},
+  "tower": {"type": "Circular stone Masonry Tower", "height_m": 34, "colour_scheme": "Black and white bands (Band width 5.44m, Bottom band black, No. of bands 5)"},
+  "optic": {
+    "make": "Stone Chance", "model": null, "type": "Fresnel Lens, Cut and Polished Revolving", "size": "700 mm (2nd order)", "order": "2nd order",
+    "panels": 3,
+    "rotation_device": "Dual Stepper Motor 40 Kgcm 12 V DC operated. Clock machine as standby",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: Cut and Polished Revolving; Rotation Device: Dual Stepper Motor; R.P.M. 3",
+    "divergence_horizontal_deg": 4.48,
+    "divergence_vertical_deg": 3.26,
+    "divergence_text": "Horizontal 4.48°, Vertical 3.26°",
+    "illuminant": "3 X 150W Metal Halide Lamp Cluster"
+  },
+  "intensity_cd": 725322,
+  "racon": {"present": null, "code": null, "text": "Sr. No 6295; Make, Model, Code, Band, Date of Installation all '--'"},
+  "ais": {"present": true, "text": "SAAB R-40, Type QWZR4, Mains 230V, MMSI 4192238"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "KSEB 3 Phase 440 V AC mains; standby DG set 7.5KVA; 5.5KW solar plant (550W x 10)"},
+  "issues": ["RACON section lists Sr. No 6295 but make, model, code, band and installation date are all '--'"]
+}

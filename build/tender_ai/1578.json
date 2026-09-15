@@ -1,0 +1,39 @@
+{
+  "nid": 1578,
+  "title": "Supply, installation and commissioning of Air conditioners and Replacement of existing switch board with modular switches and LED fittings at Deep Bhavan.",
+  "summary": "Supply, installation and commissioning of air conditioners and replacement of existing switch boards with modular switches and LED fittings at Deep Bhavan, the Chennai Directorate office building.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan", "station_id": null, "kind": "office", "work": "Supply/installation of air conditioners; replacement of switch boards with modular switches and LED fittings"}
+  ],
+  "scope": [
+    {"item": "Supply, installation and commissioning of Air conditioners", "qty": null, "unit": null, "site": "Deep Bhavan"},
+    {"item": "Replacement of existing switch board with modular switches and LED fittings", "qty": null, "unit": null, "site": "Deep Bhavan"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3072396.0,
+    "emd_inr": 61448.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR of any nationalised/scheduled bank in favour of The Director of Lighthouses and Lightships, Chennai, valid 90 days from technical bid opening. Tender fee Rs 500 (non-refundable) by DD. Tender fee and EMD exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "90 Days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-04-26", "pre_bid": "2024-05-06", "bid_submission_end": "2024-05-16", "bid_opening": "2024-05-17"},
+  "eligibility": [
+    "Authorised agents or appropriate class contractors registered with CPWD, State PWD, Railways, MES, BSNL etc or other State/Central Govt/PSU/autonomous bodies, with experience in the works (Hindi text also names OEMs)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "ACNIT.pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer has broken conjuncts (font extraction); English text complete"]}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 25/04/2024; two-cover online bids. Download/submission 26/04/2024 10:00 to 16/05/2024 14:00; technical bid opening 17/05/2024 14:30. Pages are numbered 3-4 (extract of a larger tender document); no file number, BOQ, quantities or AC specifications included."
+}

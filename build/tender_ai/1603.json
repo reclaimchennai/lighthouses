@@ -1,0 +1,34 @@
+{
+  "nid": 1603,
+  "title": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP basis.",
+  "summary": "Corrigendum to the e-tender for engaging an Independent Engineer for the PPP tourism development project at Mahabalipuram Lighthouse, correcting the name of a board in the eligibility criteria, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(31)/1/2024-Civil Maintenance; Tender ID 2024_DGLL_806882_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mahabalipuram Lighthouse", "station_id": "mahabalipuram-lighthouse", "kind": "lighthouse", "work": "Independent Engineer for PPP tourism development project"}
+  ],
+  "scope": [
+    {"item": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP basis", "qty": null, "unit": null, "site": "Mahabalipuram Lighthouse"}
+  ],
+  "money": {"estimated_cost_inr": null, "emd_inr": null, "tender_fee_inr": null, "performance_security": null, "notes": null},
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": null, "bid_opening": null},
+  "eligibility": [
+    "Eligibility/pre-qualification criteria refer to Tamilnadu Infrastructure Development Board (TNIDB) (corrected from 'Tamilnadu Industrial Development Board'); full criteria not in this document"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-06-11", "change": "In eligibility/pre-qualification details, 'Tamilnadu Industrial Development Board' to be read as 'Tamilnadu Infrastructure Development Board (TNIDB)'; other terms unchanged"}
+  ],
+  "documents": [
+    {"file": "CorrigendumIEdated12062024.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": ["Hindi letterhead text garbled"]}
+  ],
+  "confidence": "medium",
+  "notes": "Only this one-line corrigendum is published; the original tender (cost, EMD, dates, full eligibility) is not available. File name says dated 12.06.2024 while the corrigendum is dated 11.06.2024. Listing dates (end 2024-06-19, opening 2024-06-20) are not printed in the document."
+}

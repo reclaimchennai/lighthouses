@@ -1,0 +1,45 @@
+{
+  "slug": "porbandar-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Porbandar Lighthouse and DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1985,
+  "alol": "F 0400",
+  "position": {"lat_text": "21° 37' 19.56\" N", "lon_text": "69° 37' 11.78\" E", "lat": 21.6221, "lon": 69.619939},
+  "elevation_m": 47.6,
+  "characteristic_text": "Fl(1)W5 Sec. (0.25+4.75=5 Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": "0.25+4.75=5 Sec",
+    "sequence_s": [0.25, 4.75],
+    "flash_duration_s": 0.25
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 19.8, "geographical_nm": null, "text": "19.8 NM (single unlabelled range)"},
+  "tower": {"type": "Round concrete Tower", "height_m": 41, "colour_scheme": "Black and White bands"},
+  "optic": {
+    "make": "M/s.MEDITERRANEO SENALES MARITIMAS.", "model": null, "type": "MBR-300", "size": null, "order": null,
+    "panels": 6,
+    "rotation_device": "Stepper motor",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: Stepper motor; R.P.M. 2",
+    "divergence_horizontal_deg": 9,
+    "divergence_vertical_deg": 9,
+    "divergence_text": "9° (Horizontal), 9° (Vertical)",
+    "illuminant": "150W single CDM-T; Main 230V/150W Metal Halide Lamp"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": null},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V/3-phase/50 Hz; DG Set 25 KVA (2 Eicher 35.5HP engines, 2 Crompton 25KVA alternators); 15 KWp on-grid solar (60 panels); 70 W solar for RACON and main light"},
+  "issues": [
+    "Optic 'Duration of Flash 5 Sec' conflicts with flash 0.25 s in characteristic",
+    "Effective beam intensity blank",
+    "RACON and NAIS tables blank, yet a 70 W 'Solar Plant for RACON' is listed"
+  ]
+}

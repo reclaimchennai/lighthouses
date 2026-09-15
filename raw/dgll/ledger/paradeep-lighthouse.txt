@@ -1,0 +1,201 @@
+     PARADEEP LIGHTHOUSE
+        MASTER LEDGER
+
+1.     Name                           Paradeep Lighthouse
+
+2.     Sr. No. (in ALOL)              F 1004.4
+
+3.     Position                       Lat. 200 15’3”N
+                                      Long. 860 39'5”E
+
+4.    Elevation of Ground             4m
+
+5.    Elevation of tower              40.4 m
+
+6.    Character of light               Fl (3) W 30 Sec.
+
+7.    Range in nautical miles
+       i)     Luminous                17 NM
+       ii)    Geographical            17.5 NM
+8.   Lighthouse Tower
+       i)    Type                     Tapering Circular RCC Tower
+       ii)       Height               40.86 m
+       iii)      Colour Scheme        Black and White Band
+9.   Optical equipment                TRB 220 (Revolving)
+
+       (i)       Make                 Tideland Signal Corporation, USA.
+
+       (ii)      Size                 915 mm height & 445 mm Dia.
+
+       (iii)     No. of Panels        6
+
+       (iv)      Focal Length         110 mm
+
+       (v)       RPM                  2
+
+       (vi)      Duration of Flash    0.75 Sec
+
+       (vii)     Illuminant           70 Watt MH Lamp, 230 volts AC
+
+       viii)     Divergence           2.40 (Horiz.) & 1.15 (Vert.)
+
+       ix)       Luminous Intensity   26928 cd
+
+10. innovation                        Innovation was carried out on August 2013. l00W/l2V
+                                                                                  1|Page
+                                                   Halogen lamp of TRB 220 was replaced with 70W/230V
+                                                   MH Lamp.
+
+11. Lantern
+
+          i)       Diameter                                           3.0 m
+          ii)      Height of glazing                                  2.0 m
+          iii)     No. of glass panes                                 24 Nos.
+          iV)      No. of Ventilators                                 6 Nos.
+
+12. Pedestal                                                          Local Make
+
+13. Power supply
+          i) Mains                                                    3 Phase, 440V, 50Hz Electric Mains
+                                                                      Supply from Paradeep Port Trust.
+          ii) Solar
+
+SI.No. Types of Solar Power             Capacity               No. of Panels     Inverter          Remarks
+  1       OFF GRID                       5 kWp                 20 (each 250W     5KVA, Make
+                                                               24V)              Genus
+
+          iii) Standby                                                Gensets (02 Nos.)
+
+     A. Details ofEngine
+
+SI.No. Engine Sl. No.           Make              BHP         No. of   RPM           Cooling            Date of
+                                                              Cylinder                                  Installation
+    1.     0200113               Kirloskar             32        03    1500          Air Cooling        13.8.2002
+    2      0100243               Kirloskar             32        03    1500          Air Cooling        09.01.2003
+
+     B. Details ofAlternator
+
+Sl. Alternator SI. No.         Make          KVA            Voltage    Current      Freq.   Phase           RPM
+No.                                                                    (Amp)        (Hz)
+
+1        0200113               Kirloskar          20         230           83       50Hz       Single        1500
+2        0100243               Kirloskar          20         230           83       50Hz       Single        1500
+
+
+14. Other Equipments
+
+          i) Battery Charger                       01 No. inbuilt Battery Charger in AMF Panel.
+
+          ii) Stabilizer
+
+Sr Input voltage             Output        KVA          Make             Freq.     Phase       Date of Installation
+No                           Voltage
+1        120V-240V         230 V AC          15         Delta            50Hz      Single       17.01 2009
+         AC                                             Electronic
+
+                                                                                                         2|Page
+iii) Inverter
+
+Sr.                         Particulars                       Qty        Date of              Purpose
+No.                                                                   Installation
+ 1     1500 VA, 24V DC (input), 230V AC (output),            I No.   12.04.2014           For Light beacon
+       Sukam make
+
+15. Remote monitoring and control system
+
+All equipment's are remotely monitored by MCS at Deep Bhavan, Kolkata
+
+i) Main Panel                             1 No. installed at power house.
+ii) Remote Panel                          1 No. installed at service room of the Lighthouse tower.
+iii) UPS                                  I No.I KVA, APC make placed inside main Panel.
+iv) Communication                         VSAT
+iv)VSAT                                   I No. installed on ground near power house.
+v) Modem                                  I No. placed inside main Panel.
+
+16. NAIS
+
+x) AIS Base station                       02 Nos. Saab make, installed at Service room (NAIS Rack).
+xi) Modem                                 01 No. Datum make, installed at Service room (NAIS Rack).
+xii) Router                               01 No. Cisco make, installed at Service room (NAIS Rack).
+xiii) Switch                              01 No. Cisco make, installed at Service room (NAIS Rack).
+xiv) GPS antenna                          02 Nos. installed at LH tower railing.
+xv) VHF antenna                           02 Nos. installed at LH tower railing.
+xvi) UPS                                  01 No.1KVA, APC make installed at Service room (NAIS Rack)
+xvii) Communication                              Lease Line (BSNL).
+xviii) Date of commissioning                     February 2012
+
+17. DGPS
+
+i) Make                                   Leica (USA)
+ii)Transmitter                            NAUTEL (USA)
+iii) Frequency                            290 KHz
+iv) Power Output                          500 W
+v) Reference Station I, ID                 440,
+vi) Reference Station II, ID               441,
+vii) Beacon ID                            120
+viii) Integrity Monitor I&II              GR 30.,LEICA-02 Nos.
+ix)Personal Computer                      Make — HP Compaq with Key Board & Mouse
+                                          With 01 No Printer Make — Epson
+x) UPS:Capacity —                         10 KVA for Transmitter, Make-APC, 03 KVA for DGPS UPS-1
+                                          Capacity — 1 KVA for DGPS Rack, Make-APC, 01 No. KVA for
+                                          Printer.
+xi) Batteries                             16 Nos. SMF (42AH/12V), EXIDE make for Transmitter.
+                                          06Nos. SMF (12AH/12V), EXIDE make for DGPS Rack.
+xii) Date of Installation                 19.12.2019
+
+18.     Fire Extinguisher
+
+                                                                                                 3|Page
+Sl.             Type            Capacity       Qty     Installed Place
+No.
+ 1            DCP                 5 Kg        3 Nos.   I No. at service room and 2 Nos. at Power House.
+ 2            CO2                 9 ltr.      2 Nos.   Both placed at Office room.
+ 3            ABC                 5 Kg         l No.   Placed at DGPS room.
+ 4        Fire Buckets          10 Litres     4 Nos.   Placed outside power house.
+
+19.      Water Supply
+
+Local port water is provided twice in a day for 30 minutes. Bore well for gardening purpose only.
+
+20.      Land
+
+          i) Area                                       3 Acre
+         ii) Demarcation                                Compound Wall.
+         iii) No. of fruit trees                        60
+         iv) No. of non-fruit bearing trees             12
+
+21.      Building
+
+      19 lNo. Office cum power house.
+      20 lNo. IQ
+      21 1 No. AE (E) Qtr.
+      22 Twin Qtr for SRT & NA-I.
+      23 1 No. Qtr for NA-II.
+      24 Twin Qtrs for LHA.
+      25 01 No. Coil Hut.
+
+22.      Contact details
+
+ i.        LH Land line No.                      06722-222332
+ ii.       Office E-Mai1                         assistantengineerpdlh@gmail.com
+ iii.      Postal Address                        Paradeep Lighthouse& DGPS Station,
+                                                 PO — Paradeep, Dist. Jagatsingpur,
+                                                 Odisha — 754 142.
+
+23.      Mode ofApproach
+
+The station is well connected by all weather road. The nearest Railway Station is Paradeep which is 10
+Km from Paradeep Lighthouse. Nearest Airport is Bhubaneswar which is approx. 120 km from
+Paradeep LH..
+
+24.      Facilities Available
+
+Post Office, Primary Health Center, Police Station and High School all are within 10 KM from Sagar
+Island Lighthouse.
+
+
+
+
+                                                                                              4|Page
+5|Page
+

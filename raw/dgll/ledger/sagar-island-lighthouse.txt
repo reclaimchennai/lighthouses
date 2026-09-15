@@ -1,0 +1,193 @@
+1.    Name                          Saugor Island Lighthouse & DGPS Station
+
+
+2.    Sr. No. (A.L.O.L.)            F 1028
+
+3.    Position                      Lat. 210 39.4’N
+                                    Long. 880 02.9’E
+
+4.    Elevation of ground           2m
+
+5.    Elevation of tower            26 m
+
+6.    Character of light            FL (W) in every 3 Sec
+
+7.    Range in nautical miles
+      i)    Luminous                25 NM
+      ii)   Geographical            17 NM
+
+8.    Lighthouse Tower
+      i)     Type                   Circular Cast Iron Tower
+      ii)      Height               24 m
+      iii)     Color Scheme         Red and White Band
+
+
+9.    Optical equipment
+
+      (i)      Make                 Chance Brothers, Birmingham, England
+      (ii)     Size                 4'h order (focal length 250mm)
+      (iii)    No. of Panels        8
+      (iv)     Focal Length         250 mm
+      (v)      RPM                  7
+      (vi)     Duration of Flash    0.3 Sec
+      (vii)    Illuminant           400W MH Lamp
+      (viii)   Divergence           4.35 (Horiz.) & 2.10 (Vert.)
+      (ix)     Luminous intensity   1,32,500 cd
+
+10.   Innovation                    No innovation has been carried out since take over from
+                                    Kolkata Port Trust on 2011.
+
+
+                                                                                   1|Pegc
+11.       Lantern
+          i)     Diameter                          3m
+          ii)    Height of glazing                 1.93 m
+          iii)   No. of glass panes                80 Nos.
+          iv)    Ventilators                       6 Nos.
+
+12.       Pedestral                                Mercury float (24 Kg in use)
+
+13.       Power Supply
+
+          i) Mains                                 3 Phase, 440 V, 50Hz AC Mains supply from WBSEDCL
+
+         ii) Solar
+
+SI.No. Types of Solar Power             Capacity             No. of Panels     Inverter         Remarks
+  1       OFF GRID                       5 kWp               20 (each 250W     5KVA, Make
+                                                             24V)              Genus
+
+          iii) Standby                             Gensets (02 Nos.)
+
+          A) Details of Engine
+
+SI.No. Engine Sl. No.            Make            BHP         No. of   RPM         Cooling         Date of
+                                                             Cylinder                             Installation
+    1.     3.2107/1120683         Kirloskar         32          03    1500        Air Cooling     28.11.2016
+    2      03.8901/1620602        Kirloskar         32          03    1500        Air Cooling     06.07.2012
+
+          B) Details ofAlternator
+
+Sl. Alternator SI. No.              Make         KVA         Voltage Current      Freq.     Phase     RPM
+No.                                                                  (Amp)        (Hz)
+
+1        CS l D01 l Al 19980        Kirloskar 20              230         83       50Hz     Single      1500
+2        CS l D016C23382-H          Kirloskar 20              230         83       50Hz     Single      1500
+
+14. Other Equipments
+
+          i) Battery Charger                       NIL
+
+          ii) Stabilizer
+
+Sr Input voltage            Output        KVA       Make               Freq.    Phase       Date of Installation
+No                          Voltage
+1        170-270VAC        230VAC           15      ServoMax           50Hz     Single       27.10.2017
+2        170-270VAC        230VAC           15      ServoMax           50Hz     Single       27.10.2017
+3        170-270VAC        230VAC           15      ServoMax           50Hz     Single       27.10.2017
+
+
+                                                                                                     2|Page
+iii) Inverter
+
+Sr.                        Particulars                      Qty        Date of              Purpose
+No.                                                                 Installation
+1      1600 VA, 24V DC (input), 230V AC (output),          1 No.   24.12.2016        For Light beacon
+       Sukam make
+
+15.     Remote monitoring and control system
+
+All equipment's are remotely monitored by MCS at Deep Bhavan, Kolkata
+
+i) Main Panel                            1 No. installed at power house.
+ii) Remote Panel                         1 No. installed at base of the Lighthouse tower.
+iii)UPS                                  1 No.1 KVA, APC make placed inside main Panel.
+iv) Communication                        VSAT
+iv)VSAT                                  1 No. installed on roof top of power house.
+v) Modem                                 1 No. placed inside main Panel.
+
+16. NAIS
+
+i) AIS Base station                      02 Nos. Saab make, installed at DGPS room (NAIS Rack).
+ii) Modem                                01 No. Datum make, installed at DGPS room (NAIS Rack).
+iii) Router                              01 No. Cisco make, installed at DGPS room (NAIS Rack).
+iv) Switch                               01 No. Cisco make, installed at DGPS room (NAIS Rack).
+v) GPS antenna                           02 Nos. installed at roof top of IQ.
+vi) VHF antenna                          02 Nos. installed at LH tower railing.
+vii) UPS                                 02 Nos. 1KVA, APC make installed at DGPS room (NAIS Rack)
+viii) Communication                      VSAT installed at rooftop of IQ.
+ix) Date of commissioning                February 2012
+
+17. DGPS
+i) Transmitter                           Nautel (Canada)
+ii) Frequency                            318 Hz
+iii) Power Output                        500 W
+iv) Reference Station I, ID              434
+v) Reference Station II, ID              435
+vi) Integrity Monitor I&II               GR 30 LEICA
+vii) Beacon ID                  117
+viii) Personal Computer                  Make — Dell with Key Board & Mouse
+                                         With 01 No. Laser Printer Make — HP
+ix) UPS                                         Capacity — 10 KVA for Transmitter & ATU, Make-APC,
+                                         Capacity — 03 KVA for DGPS Rack, Make-APC,
+                                         Capacity — 01 KVA for Printer, Make-APC,
+x) Batteries                             16 Nos. SMF (42AH/12V), EXIDE make for l0KVA UPS.
+                                         06 Nos. SMF (42AH/l2V), EXIDE make for 3KVA UPS.
+xi) Date of Installation                 27.11.2017
+
+
+
+
+                                                                                               3|Page
+17.     Fire Extinguisher
+
+Sl.            Type            Capacity         Qty       Installed Place
+No.
+ I             DCP                5 Kg         4 Nos.     1 No. at service room, 1 No. at power house
+                                                          and 2 Nos. at store room.
+ 2           CO2                 9 ltr.        2 Nos.     1 No. at power house & 1 No. at store room.
+ 3           CO2                6.5 ltr.       2 Nos.     Both at DGPS room
+ 4           ABC                 5 Kg           1 No.     Placed at power house
+ 5       Fire Buckets          10 Litres       4 Nos.     Placed inside power house
+
+18.     Water Supply
+
+2 HP motor (Crompton make) use to pump water from bore well to overhead tanks (04 Nos.) placed at
+roof top of staff quarters. 2 HP motor were supplied onl2.03.2016
+
+19.     Land
+
+         i) Area                                      6 Acre
+        ii) Demarcation                               Compound Wall.
+        iii) No. of fruit trees                       10
+        iv) No. of non-fruit bearing trees            35
+
+20.     Building
+
+         i. 1No.Office cum power house cum IQ.
+         ii. I No. building which consist of AE (E) & NA-II Quarters (total 6 quarters).
+         iii. I No. twin LHA Qtr.
+         iv. I No. pump house.
+         v. I No. Coil Hut.
+
+21.     Contact details
+
+ i.      Incharge Mobile No.                 9601899925
+ ii.     Office E-Mai1                       saugardgps@gmail.com
+ iii.     Postal Address                     Sagar Island Lighthouse& DGPS Station,
+                                             P O— Beguakhali, Via Rudranagar, Sagar,
+                                             Dist. South 24 Parganas,West B e n g a—
+                                                                                   l 743 373.
+
+22.     Mode ofApproach
+
+To visit the station one has to cross the Hooglyriver through Vessels from Lot No.8 Ghat to
+KachuberiaGhat. Distance from KachuberiaGhat to Lighthouse is approx. 32 Km. Nearest Railway
+Station is Kakdwip which is approx. 44 Km from Lighthouse.
+
+23.     Facilities Available
+Post Office, Primary Health Center, Police Station and High School all are within 10 KM from Sagar
+Island Lighthouse.
+
+                                                                                            4|Pegc
+

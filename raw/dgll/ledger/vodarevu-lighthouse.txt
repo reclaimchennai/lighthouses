@@ -1,0 +1,168 @@
+                           Vodarevu Lighthouse
+                               Estd.2003.
+                    VISAKHAPATNAM DIRECTORATE
+                          MASTER LEDGER
+
+1. Name                     : VODAREVU LIGHTHOUSE
+     Sr.No.
+2.                          : F 0952.9
+     (as per A.L.O.L)
+                              Lat: 15o 47'42" N
+3. Position                 :
+                              Long: 80o 24' 36" E
+4. Elevation                : 34 Mtr above MSL
+                                Gp FL (2) White, every 15 Seconds
+5. Characteristic           :
+                                (Fl 0.6 +ec1.9 + Fl 0.6 + ec 11.9)
+
+6.    Range in nautical miles
+          i) Luminous             :     24 M at 074 ATF
+         i)    Geographical :           17 NM
+7.    Lighthouse Tower
+          i)     Type             : Circular R.C.C. Tower by SLIP FORM
+          ii)    Height           : 30 Mtr
+          iii)   Colour
+                                  : Black and White bands
+                 Scheme
+
+8. Optical Equipment
+a) i) Make                      : M/S Stone Chance Limited, London
+     ii) Size                   : 4TH Order Revolving
+     iii) Focal distance        : 250 mm
+     iv) No. of Panels          : 4 (in 900 each)
+     v) Area of dioptric
+                                : 665 sq.cm (corrected to 470 sq.cm)
+         portion
+     vi) Area of
+         catadioptric           : 1300 sq.cm (corrected to 1080 sq.cm)
+         portion
+     vii) Divergence
+           Main                 : Horizontal : 3.410, Vertical : 5.70
+     viii) Duration of flash
+           Main              : 0.6 seconds
+
+                                   Mercury Float 28 kg .in use.
+b)    Pedestal                   :
+                                   Cast iron Pedestal
+                                    i) Optical table driven by twin stepper 20kg. cm
+                                        motor with auto change over using
+c)    Rotation Device            :
+                                        microcontroller - 1No
+                                    ii) Stand by stepper motor controller-01
+d)    Rotation Speed             : 1 RPM
+
+      Illuminant
+e)
+         i)     Main/Service : 150 watts Metal Halide Lamps
+f)    Effective Beam Intensity
+         i)   Main/Service : 5,22,000 cds.
+9.    Lantern
+      i) Diameter                : 2.16 Mtr
+      ii) Height of glazing      : 1.13 Mtr
+      iii) No. of panes          : 8 Nos.
+    iv) Ventilators              : 7 Nos.
+10. Energy Source
+         A) APSPDCL Mains        : 440 V AC, 3 Phase, 50 Hz
+         B) Green Energy         : 1.2 KW off grid solar system for main light
+         i)      Solar panels : 8 Nos 24V/150W solar module (TATA BP Make)
+                                12Nos 2V/900Ah battery bank (TATA BP Make)
+                                Date of installation 21/10/2019,
+         ii)     Battery Bank : 4nos 12V150AH battery bank (Exide Make)
+                                (Date of installation 15/07/22, 60month
+                                warranty)
+      iii)       UPS          : 2KVA/ 24V UTL make
+11. Details of Diesel Engine Generators
+      Make                   : Kirloskar Green
+      Model No.              : KG15AS4 (Canopy)
+      H.P.                   : 15 KVA
+      No. of Cylinder        : 02 Nos.
+      RPM                    : 1500
+12. Diesel Engine Alternator
+      Make                  : Kirloskar Green
+      Model                  : CSIBO14F64
+      KVA                    : 15
+      Voltage                : 230 V
+      Frequency              : 50 Hz
+      Phase                  : Single
+      RPM                    : 1500
+    Automatic Voltage
+13.                          : 1 No.
+    Stabilizers
+      Make                   : M/s. Supra-hi-tech
+      Model                  : SH-390
+      Capacity               : 9 KVA 3 Phase
+      Input                  : 330-470V AC
+      Output                 : 415 V
+14. NAIS Equipment
+     Make                           : M/s SAAB
+      AIS R40 Base Station          : Sl.No.5298
+      AIS R40 Base Station          : Sl.No 5348
+              (Connected with Cisco Switch and PSM-500L Satellite Modem)
+      V- SAT Dish Size              : 2.4 Mtr. dia
+      VHF Antenna                   : 2 Nos.
+      GPS Antenna                   : 2 Nos.
+      Date of Commissioning         : 20/12/2011
+15. Automation of Lighthouse.
+     Make                           : M/s Recktronic Devices & Systems, Pune.
+      RDS Panel                     : 1No. in power house.
+      RDS Panel                     : 1No. Service room.
+      VSAT Antenna               : 1.2 Mtr. dia
+      Date of commissioning      : 21/02/2013
+
+
+
+                                          i)     G.I Poles with 25W LED light - 8 Nos.
+16. Street Lights                :        ii)    Main Gate Light CFL - 2 Nos.
+                                          iii)   Wicket gate Light CFL-2 Nos
+17. Firefighting equipment
+    Fire Extinguishers
+       i)      D.C.P. type
+                                     : 4 Nos.
+           (3.2kg Capacity)
+       ii)     Foam type
+                                     :     1 No.
+           (9 litres capacity)
+        iii)   Fire Buckets          : 4 Nos.
+
+                                         Telephone No. 08594 – 248352 with broadband
+18.   Communication Facility         :   (Disconnected)
+                                         e-mail : vodarevu-vizag@dgll.nic.in
+                                          i) Rain water collecting tank -1.20 lakh capacity
+19.   Water Supply                   :
+                                          ii) Bore well - using 1 HP Motor- 2 Nos.
+20.   Land
+         i)       Area               :   Ac. 1.75 Cts.
+         ii)      Demarcation        :   Masonry Compound wall
+                                            i)    Power House, Store & Office Room
+                                            ii)   Inspection quarter
+21.   Buildings                      :      iii)  NA-I quarter
+                                            iv)   One Twin unit of NA-II quarter
+                                            v)    One Twin unit of LHA and LHS quarter
+                                            i.    NA-I - 1 No.
+22.   Staff                          :      ii.   NA-II - 1 No.
+                                            iii.  LHA - 1 No. (Vacant)
+                                         By Rail up to Chirala and then by bus up to
+23.   Mode of approach               :
+                                         Lighthouse about 8 km by road.
+24.   Facilities available           :       a) Post Office within 0.5 km (Vodarevu)
+                                             b) Govt. Hospital within 8 km (Vodarevu)
+                                             c) Govt. School within 8 km (Vodarevu)
+                                   d) Nationalized Bank within 8 km (Vodarevu)
+25.   Postal Address        :   The Navigational Assistant Gr-I,
+                                Vodarevu Lighthouse, Vodarevu Post,
+                                Chirala, Andhra Pradesh, Pin: 523 157
+26.   CC camera
+                                :4Nos ( Date of installation 25/12/2021
+27.   Cost Details
+
+          i) Construction   :   Rs. 70,00,000/-
+          iii) Cost of
+                            :   Taken from Visakhapatnam Port Light
+               equipment
+
+28. Year of Commission      : 2003
+29. Date of Commissioning   : 25th September, 2003
+
+
+30. Subsequent Innovation   : 2006
+

@@ -1,0 +1,36 @@
+{
+  "nid": 1860,
+  "title": "Supply of Battery Charger for various Lighthouse under Chennai Directorate",
+  "summary": "Open two-cover e-tender on CPPP for supply of battery chargers for various lighthouses under the Chennai Directorate.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01002(14)/4/2020-MNT-MD; 2025_DGLL_851527_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Supply of Battery Charger for various Lighthouse under Chennai Directorate", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 444300.0,
+    "emd_inr": 8886.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender value shown in public domain. EMD fixed, exemption not allowed, payable to Director of Lighthouses and Lightships at Chennai by DD/FDR (offline). Product category: Batteries and cells and accessories / Battery Charger. GeMARPTS non-availability reason: urgent nature of procurement, one time purchase. PPP-MII and MSE orders marked not applicable."
+  },
+  "period": {"completion": "30 days", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2025-03-03", "pre_bid": "2025-03-11", "bid_submission_end": "2025-03-27", "bid_opening": "2025-03-28"},
+  "eligibility": [
+    "Reputed Original Equipment Manufacturers (OEM) or authorized dealers of OEMs, licensed contractors, parties or Government Undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Published Tender.pdf", "pages": 3, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "File is only the CPPP 'Tender Details' printout. The actual tender document (BatteryChargerTender.pdf), BOQ (BOQ_895142.xls) and Tendernotice_1.pdf are referenced but not included, so quantities, charger specifications and stations are not available. Bid openers' personal details omitted."
+}

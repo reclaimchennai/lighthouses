@@ -1,0 +1,190 @@
+                            मास्टर लेज़र/MASTER LEDGER
+                           कारैकाल दीपस्तंभ/Karaikal Lighthouse
+क्रमसंख्या/                 नाम /Name                                      वििरण/Description
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0916
+    2         स्थान/Position                     Lat.10° 54’99” N , long 79° 51’14” E
+    3         ऊंचाई/Elevation                    89M (Above MSL)
+    4         अविलक्षण/Characteristic            Fl (2) W every10 sec
+
+    5         नॉविकलमाइलमे दूरी                  Luminous Range-12NM
+              Range in miles                     Geographical Range-13NM
+
+    6         दीपस्तं ििािर/L.H.Tower            Type                              Circular RCC structure
+                                                 Height                           15.09 M
+                                                 Colour Scheme                    Complete White colour Band
+    7         ऑविकलउपकरण                         Optic                            Rotating Beacon, TRB-220
+              Optical equipment                  Make                             Tideland signal corporation
+                                                 Type                             TRB-220 Maxlumina
+                                                 Size                             110mm
+                                                 No. of lens                      4
+                                                 Area of dioptric portion
+                                                 Area of catadioptricportion
+                                                 Divergence
+                                                 Main/Emergency
+                                                 Duration of Flash                10 Sec
+                                                 Main /Standby/Emergency
+                                                 Pedestal                         Lamp pedestal provided
+                                                 Rotation Device                  12v/DC Stepper motor
+                                                 R.P.M.                           3
+                                                 Illumining
+                                                 Main                             230V/70W Metal Halide Lamp
+                                                 Standby
+                                                 Emergency:
+                                                 Date of Installation             30.09.2010
+    8         प्रिािीबीमतीव्रता/Effective beam   Main
+              intensity                          Emergency
+    9         लें िनन /Lantern                   Diameter                         2 m
+                                                 Height of glazing                1m
+                                                 No. of panes                     8
+                                                 Ventilators                      4
+    10        RACON                                        N.A
+              Make                   Model       Code                             Band                  Date of
+                                                                                                        Installation
+11   NAIS                     N.A
+     Base Station
+
+
+     Model                Type           Power                         MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna
+       2.4m dia
+       Parabolic
+       reflector
+     DGPS                    N.A
+     Transmitter Make     Frequency      Power Output        RS 1 ID   RS -II     Beacon     Date of   Dat
+                                                                       ID         ID         commis    e of
+                                                                                             sioning   Re
+                                                                                                       cap
+                                                                                                       itali
+                                                                                                       zati
+                                                                                                       on
+
+
+
+12   ऊर्ान केसाधन/Sourc   Mains                                        3 phase,440v,Puducherry
+     e of energy                                                       ElectricitySupply
+                          Power Source
+                          Engine 1               N.A
+                          Make/Type              Qty         Rating    No of         RPM           Cooling
+                                                                       Cylinder
+
+                          Alternator
+                          Make/Type              Qty         Rating    Voltage/Amp   Frequency     Phase
+
+
+                          Engine 2                     N.A
+                          Make/Type              Qty         Rating    No of         RPM           Cooling
+                                                                       Cylinder
+
+                          Alternator
+                          Make/Type              Qty         Rating    Voltage/Amp   Frequency     Phase
+
+
+                          Engine 3                     N.A
+                          Make/Type              Qty         Rating    No of         RPM           Cooling
+                                                                       Cylinder
+
+                          Alternator
+                          Make/Type              Qty         Rating    Voltage/Amp   Frequency     Phase
+
+
+                          Engine 4                     N.A
+                          Make/Type              Qty         Rating    No of         RPM           Cooling
+                                                                       Cylinder
+
+                          Alternator
+                          Make/Type              Qty         Rating    Voltage/Amp   Frequency     Phase
+
+
+                          Solar Plant
+                                    Capacity PV             Numbers                    Type      Battery                Bank
+                                    12v/80w                 4 Nos                      Make-
+                                                                                       Tata      12V/150AH-2 Nos
+                                                                                       BP
+                                    Solar Plant for Main RACON         N.A
+                                    Capacity PV                Numbers                 Type      Battery                Bank
+
+
+     13   स्वचावलतिोल्टे र्स्टे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make                   Model             Capa     Input                      Output              Phase        Qty
+                                                   city
+          M/s ITL                Servo             5        170v-240v                  230v                Single       1 no
+                                 controlled        KVA                                                     phase
+
+          M/s GLOBUS             Servo             5        170v-240v                  230v                Single       1 no
+                                 controlled        KVA                                                     phase
+
+14        बैिरर
+          Batteries
+          Equipment              Type              Make       Volt                     Amp/      Qty
+                                                                                       Hr
+          PSS NAIS                     -              -                  -                -                -
+          Main Light             Lead acid         Exide      12V                      150       2
+                                                                                       AH
+          CCTV                   SMF               Exide      12V                      150       2
+                                                                                       AH
+          DGPS
+     15   बैिररचार्न र/ Battery charger
+
+          Equipment              Make              Model Type                          Rating Qty
+          General Purpose        “AE”                    Input-230v AC &               40     1 no
+                                                         Output-0-30v DC               Amp
+                                 “GLOBUS”                Input-230v AC &               40     1 no
+                                                         Output-0-40v DC               Amp
+     16   इं वर्ट रInverter /UPS
+          Equipment Nos          Make             Model                  Type          Rating        Qty       input    Output
+          Main Light 1 no           “UTL                                 Pure sine      800 VA         1         12v    230v/A
+                                   COMBO”                                wave                         no                  C
+          CCTV             1 no “LUMINOUS                                Pure sine      850 VA         1        12v     230v/A
+                                 ”                                       wave                         no                  C
+          DGPS
+
+     17   स्वचलनउपकरण
+          Automation Equipment N.A
+          MAKE        PLC          HMI                    Power Supply          VSAT             Modem           Band
+
+     18   आविशमनउपकरण                              Type of Extinguisher         Capacity             Nos         Make
+          Fire Fighting Equipment                  DCP Type                     6 kg                 1           “IN TIME”
+                                                   Foam Type                    9 Ltr                1           “IN TIME”
+     19   संचार                                    Ph no:04368-294929
+          Communication
+20   र्लपूवतन                        Local municipality water supply connection-1 no available.
+     Water Supply                    50,000 Lits capacity water sump with motor room provided.
+                                     Borewells are provided for alternate use.
+21   िू वम                           Area                                      0.11.40 Hectares
+     Land                            Demarcation                              Available
+22   इमारतें                         RCC Structure:                     No allied Buildings in side
+     Buildings                                                        the premises.
+                                     Timber Construction above plinth Inspection Qtr – One unit
+                                                                      (in side the tower)
+                                     level
+23   कंपाउं डलाइि                    LED Light fitted on G.I Pole- 10 Nos
+     Compound Lights
+24   सीसीिीिीकमे रा                  Camera                                   04 Nos
+      CCTV CAMERA                    DVR                                      01 Nos
+25   स्टाफ                           Sl. No           Designations
+     Staff
+                                     1            Navigational Assistant II -1 no
+                                     2            LHA -1 no
+26   पहुँ चने कामाध्यम               By Bus/Rail.
+     Mode of approach
+27   उपलब्धसुविधाए                   The nearest Post office, Dispensary, High School, Police Station
+     Facilities available            are available at 5 km distance.
+
+
+
+
+28   डाकपताPostal address            Navigational Assistant – I,
+                                     Karaikal Lighthouse
+                                     Karaikal, Puducherry state.
+                                     Pin: 609602
+29   मू ल्यकाब्योराCost details      N/A
+     (At the time of Construction)
+30   प्रितननमे लाने कादे नां क       12.09.1992, then renovated lighthouse opened by the
+     Date of commissioning           DGLL/Noida on 15/04/2019
+

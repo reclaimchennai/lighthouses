@@ -1,0 +1,43 @@
+{
+  "nid": 1589,
+  "title": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP basis.",
+  "summary": "E-tender (two-cover) inviting TIDB Panel-10 empanelled consultants to act as Independent Engineer for the DBFOT PPP project for tourism development (approx. Rs 6 crore) at Mahabalipuram Lighthouse, Chengalpattu District, Tamil Nadu (Chennai Directorate).",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(31)/1/2024-Civil Maintenance; I/57353/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mahabalipuram Lighthouse, Chengalpattu District, Tamil Nadu", "station_id": "mahabalipuram-lighthouse", "kind": "lighthouse", "work": "Independent Engineer for DBFOT tourism development project"}
+  ],
+  "scope": [
+    {"item": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP (DBFOT) basis", "qty": null, "unit": null, "site": "Mahabalipuram Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": 36000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tentative project cost of the underlying DBFOT project Rs 6.00 crores approx. (not the consultancy estimate). EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships, Chennai, payable at Chennai, valid three months from technical bid opening. No tender fee."
+  },
+  "period": {"completion": "14 months (tentative) from Appointed Date: 08 months for minimum development obligations and restaurant/cafeteria operation + 06 months from commercial operations", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-05-13", "pre_bid": "2024-05-27", "bid_submission_end": "2024-06-04", "bid_opening": "2024-06-05"},
+  "eligibility": [
+    "Consultants empanelled with Tamil Nadu Industrial Development Board under Panel no. 10 with engineering consultancy experience as Independent Engineer for PPP projects",
+    "Similar assignments in last seven years (IE or PMC/engineering consultancy for PPP tourism, hospitality and recreational infrastructure): one project with capital cost >= Rs 4.80 crore, or two >= Rs 3.00 crore, or three >= Rs 2.40 crore (excluding land)",
+    "PAN/ITCC/GST registration",
+    "Average annual turnover from professional fees/engineering consultancy >= Rs 5.4 lakh in last 3 financial years ending 31 March 2023",
+    "P&L statement and audited balance sheet for past five years ending 31 March 2023; ITRs and sales tax clearance for last three years",
+    "Litigation/blacklisting information for last 5 years; key personnel details; unconditional bid undertaking (Annexure III); tender acceptance letter (Annexure II); non-blacklisting affidavit; relatives declaration; Section VI technical evaluation documents"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "IETendernotice.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only (printed pages 1, 3, 4; page 2 not in PDF). Download/submission 13.05.2024 10:00 to 04.06.2024 15:00; pre-bid 27.05.2024 15:00; EMD original by 03.06.2024 15:00, a day before bid submission end; opening 05.06.2024 15:00. Eligibility clause oddly says experience certificates from an officer 'not below' Executive Engineer rank shall not be considered (likely a drafting error). CPPP digital signature dated 10.05.2024 (signer name not transcribed)."
+}

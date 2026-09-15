@@ -1,0 +1,38 @@
+{
+  "nid": 2001,
+  "title": "Dismantling and Re-installation of Solar panels during construction of truss work at Deep Bhavan, Cochin",
+  "summary": "Corrigendum (I) to a re-tender for dismantling and re-installing solar panels while truss work is built at Deep Bhavan, Cochin, extending the bid dates.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-02041/2/2020-MS; I/83965/2025; Tender ID 2025_DGLL_871439_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, Cochin", "station_id": null, "kind": "office", "work": "Dismantling and re-installation of solar panels during construction of truss work"}
+  ],
+  "scope": [
+    {"item": "Dismantling and Re-installation of Solar panels during construction of truss work", "qty": null, "unit": null, "site": "Deep Bhavan, Cochin"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Tender fee and EMD (in original) or valid hardcopy of exemption certificate due by 15.09.2025 15:00."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": "2025-09-15", "bid_opening": "2025-09-16"},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2025-09-02", "change": "Corrigendum (I) (re-tender): online bid submission and submission of tender fee/EMD originals or exemption certificate extended to 15.09.2025 15:00; technical bids opened 16.09.2025 16:00; firms that already quoted need not resubmit"}
+  ],
+  "documents": [
+    {"file": "CorrigendumI_Solar_.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only the corrigendum is attached; no NIT, cost, EMD amount or scope details. Marked as re-tender."
+}

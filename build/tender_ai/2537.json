@@ -1,0 +1,65 @@
+{
+  "nid": 2537,
+  "title": "Supply of Geyser, Refrigerator, Air Conditioner and Washing Machine at various Lighthouse under Kolkata Directorate",
+  "summary": "GeM bid for supply, installation and testing of 3 geysers, 2 refrigerators, 3 split air conditioners and 4 washing machines at six lighthouse/DGPS/NAVTEX stations under the Kolkata Directorate.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2026/B/7845220; F. No. MS-Kol-01010/2/2019-MAINTENANCE",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhawan, D-372/2, Taratala Road, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Sagar Island LH & DGPS Station", "station_id": "sagar-island-lighthouse", "kind": "lighthouse", "work": "Supply of 1 geyser and 1 washing machine"},
+    {"name": "Gopalpur LH", "station_id": "gopalpur-lighthouse", "kind": "lighthouse", "work": "Supply of 1 washing machine"},
+    {"name": "Paradip LH & DGPS Station", "station_id": "paradeep-lighthouse", "kind": "lighthouse", "work": "Supply of 1 geyser, 1 washing machine, 1 refrigerator and 1 air conditioner"},
+    {"name": "Balasore Navtex Station", "station_id": null, "kind": "NAVTEX", "work": "Supply of 1 air conditioner"},
+    {"name": "Kalingapatnam LH", "station_id": "kalingapatnam-lighthouse", "kind": "lighthouse", "work": "Supply of 1 air conditioner and 1 washing machine"},
+    {"name": "False Point Lighthouse", "station_id": "false-point-lighthouse", "kind": "lighthouse", "work": "Supply of 1 geyser and 1 refrigerator"}
+  ],
+  "scope": [
+    {"item": "Electric Water Heater (Geyser)", "qty": "1", "unit": "Nos", "site": "Sagar Island LH & DGPS Station"},
+    {"item": "Domestic Textile Washing Machine", "qty": "1", "unit": "Nos", "site": "Sagar Island LH & DGPS Station"},
+    {"item": "Domestic Textile Washing Machine", "qty": "1", "unit": "Nos", "site": "Gopalpur LH"},
+    {"item": "Electric Water Heater (Geyser)", "qty": "1", "unit": "Nos", "site": "Paradip LH & DGPS Station"},
+    {"item": "Domestic Textile Washing Machine", "qty": "1", "unit": "Nos", "site": "Paradip LH & DGPS Station"},
+    {"item": "Refrigerator", "qty": "1", "unit": "Nos", "site": "Paradip LH & DGPS Station"},
+    {"item": "Air Conditioner", "qty": "1", "unit": "Nos", "site": "Paradip LH & DGPS Station"},
+    {"item": "Air Conditioner", "qty": "1", "unit": "Nos", "site": "Balasore Navtex Station"},
+    {"item": "Air Conditioner", "qty": "1", "unit": "Nos", "site": "Kalingapatnam LH"},
+    {"item": "Domestic Textile Washing Machine", "qty": "1", "unit": "Nos", "site": "Kalingapatnam LH"},
+    {"item": "Electric Water Heater (Geyser)", "qty": "1", "unit": "Nos", "site": "False Point Lighthouse"},
+    {"item": "Refrigerator", "qty": "1", "unit": "Nos", "site": "False Point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 608868.0,
+    "emd_inr": 18300.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 15 months",
+    "notes": "EMD by DD/FDR/Bank Guarantee; MSME bidders seeking exemption to submit Bid Securing Declaration (Annexure-III). MII purchase preference L1+20% (50% qty); MSE purchase preference L1+15% (25% qty). Option clause +/-25% quantity."
+  },
+  "period": {"completion": "Delivery 15 days (per GeM consignee schedule)", "bid_validity": "90 days from bid end date", "warranty": "1 year from final acceptance (compressor 10 years for refrigerator; motor 10 years for washing machine per GeM spec)"},
+  "dates": {"published": "2026-07-28", "pre_bid": null, "bid_submission_end": "2026-08-07", "bid_opening": "2026-08-07"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 2 lakh; OEM average turnover: Rs 24 lakh (MSE and startup relaxation: complete)",
+    "3 years past experience; past performance 30% of bid quantity",
+    "Technical evaluation by marks: average annual turnover (min 30% of estimated cost per year) 16 marks, solvency certificate (min 40% of estimated cost) 4 marks, experience 30 marks, time over-run 20 marks, quality 30 marks; minimum total 60",
+    "Similar works in last 7 years: three >= 40%, two >= 50% or one >= 80% of estimated cost; ATC defines similar works as 'Supply and installation of batteries'",
+    "Mandatory: EMD or Bid Securing Declaration, PAN, GST, authorised dealership/distributor/OEM/reseller certificate for the appliances, non-blacklisting affidavit (2026), ITRs for 2023-24, 2024-25, 2025-26, unconditional price bid undertaking, bid acceptance letter, technical compliance sheet",
+    "Joint ventures/consortia not permitted",
+    "Only Class-I and Class-II local suppliers (MII); minimum local content 50%/20%"
+  ],
+  "specs": [
+    "Geyser: closed water heater, 10 litre, BEE 4 star, wall mount, ISI marked to IS 2082",
+    "Refrigerator: double door; GeM spec frost-free 301-350 L, BEE 3 star or higher, IS 17550; ATC compliance sheet says 261-300 L, 3 shelves",
+    "Split AC: wall mount, 5 star, inverter, cooling only; GeM spec 1.3-1.7 ton (medium, 130-180 sq ft), ATC says 1.5-1.7 ton with ODU stand, drain pipe and cable; IS 1391 (Part 2)",
+    "Washing machine: fully automatic front load, 8 kg, water heating, toughened glass lid, stainless steel drum and cabinet, digital touch panel, Wi-Fi IoT"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Sign bid ATC (1).pdf", "pages": 25, "read": "mixed", "language": "bilingual", "unreadable": ["page 25 blank"]}
+  ],
+  "confidence": "high",
+  "notes": "Pages 1-13 GeM bid (text); pages 14-24 scanned ATC, evaluation criteria, compliance sheet, quantity sheet and annexures. Inconsistencies: ATC 'similar works' is 'Supply and installation of batteries' and EMD exemption mentions 'relevant category of battery' (apparently copied from another tender); refrigerator volume and AC capacity differ between GeM spec and ATC compliance sheet. GeM marked as short-duration bid for emergency procurement. Listing title says 'Procurement of...' while documents say 'Supply of...'. Station contact names and mobile numbers in delivery addresses not recorded."
+}

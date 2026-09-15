@@ -1,0 +1,44 @@
+{
+  "nid": 1573,
+  "title": "Supply, Installation, Testing and commissioning of fire alarm system for Conference hall at Deep Bhavan Office, Chennai",
+  "summary": "Notice inviting sealed quotations for supply, installation, testing and commissioning of a 2-zone conventional fire alarm system for the conference hall at Deep Bhavan office of the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MNT-CH-03001(01)/2/2020-MNT-MD; I/55654/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan Office, 5/20 Jaffer Syrang Street, Chennai 600001 (conference hall)", "station_id": null, "kind": "office", "work": "SITC of fire alarm system"}
+  ],
+  "scope": [
+    {"item": "Supply of 2 Zone Fire Alarm Conventional Panel, UL approval, reputed make", "qty": "1", "unit": "No", "site": "Deep Bhavan, Chennai"},
+    {"item": "Supply of smoke detector, reputed make", "qty": "8", "unit": "Nos", "site": "Deep Bhavan, Chennai"},
+    {"item": "Supply of flash hooter, reputed make", "qty": "2", "unit": "Nos", "site": "Deep Bhavan, Chennai"},
+    {"item": "Supply of 1.5 sq.mm x 2 core armoured cable, reputed make", "qty": "100", "unit": "Mtrs", "site": "Deep Bhavan, Chennai"},
+    {"item": "Supply of manual call point, reputed make", "qty": "2", "unit": "Nos", "site": "Deep Bhavan, Chennai"},
+    {"item": "Supply of channel 50mm x 50mm, 2 m", "qty": "10", "unit": "Mtrs", "site": "Deep Bhavan, Chennai"},
+    {"item": "Supply of left and right bends, reputed make", "qty": "6", "unit": "Nos", "site": "Deep Bhavan, Chennai"},
+    {"item": "Supply of 12 V, 7 AH battery, reputed make", "qty": "2", "unit": "Nos", "site": "Deep Bhavan, Chennai"},
+    {"item": "Labour charges for installation, testing, fixing, laying and commissioning of fire alarm system including fittings, fastening accessories, rental of special machines, tools and tackles", "qty": "1", "unit": "lot", "site": "Deep Bhavan, Chennai"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate or EMD printed. 100% payment after successful installation and satisfactory working; final account bill on measured quantities; no escalation."
+  },
+  "period": {"completion": "20 days from date of work order", "bid_validity": null, "warranty": "1 year from date of installation"},
+  "dates": {"published": "2024-04-10", "pre_bid": null, "bid_submission_end": "2024-04-25", "bid_opening": "2024-04-25"},
+  "eligibility": ["Reputed firms or authorised dealers/agents; credentials and descriptive brochures to accompany quotation"],
+  "specs": ["2-zone conventional fire alarm panel with UL approval; smoke detectors; flash hooters; manual call points; 1.5 sq.mm 2-core armoured cable; 12 V 7 Ah batteries; items to BIS where applicable"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "CCF10042024_0003_0.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned NIQ: notice, Annexure A schedule (rates blank), Annexure B terms. Quotations due 25.04.2024 15:00, opened 16:00 same day. Notice specifies the conference hall, while the listing title says only 'Deep Bhavan Office'."
+}

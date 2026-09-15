@@ -1,0 +1,45 @@
+{
+  "slug": "anjengo-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Anjengo Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1988,
+  "alol": "F-0715",
+  "position": {"lat_text": "08° 40.4' N", "lon_text": "76° 48.5' E", "lat": 8.673333, "lon": 76.808333},
+  "elevation_m": 39.6,
+  "characteristic_text": "Fl (2) W 20 sec (fl 0.44+3.33+0.44+15.79 Sec)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "fl 0.44+3.33+0.44+15.79 Sec",
+    "sequence_s": [0.44, 3.33, 0.44, 15.79],
+    "flash_duration_s": 0.44
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20NM (unlabelled range)"},
+  "tower": {"type": "Circular RCC tower", "height_m": 38, "colour_scheme": "Black and White Band"},
+  "optic": {
+    "make": "M/s Tideland Signal Corporation, Texas", "model": "TRB-220 Max Lumina with modified 40 Kg Cm stepper motor", "type": "Revolving Beacon", "size": "220mm", "order": null,
+    "panels": 6,
+    "rotation_device": "Stepper motor (40 Kg cm)",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving Beacon; Rotation Device: Stepper motor (40 Kg cm); R.P.M. 3",
+    "divergence_horizontal_deg": 2.4,
+    "divergence_vertical_deg": null,
+    "divergence_text": "2.40º (Horizontal)",
+    "illuminant": "230V/70W Philips Metal Halide Lamp"
+  },
+  "intensity_cd": 86445,
+  "racon": {"present": false, "code": null, "text": "Sr. No 6295; Make/Model/Code/Band NA"},
+  "ais": {"present": false, "text": "NAIS: Base Station NA; Model/Type/Power/MMSI NA"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": null, "text": "Local Mains 440 V, 3ø, 50 Hz; Emergency back-up UPS from battery bank; Stand By 340 Watt off-grid solar plant with 24 V 600 AH battery bank"},
+  "issues": [
+    "No. of lens given as '06Nos (2Nos fixed and others blocked)'",
+    "Divergence printed as '2.40º'; unclear whether 2.40 decimal degrees or 2°40'",
+    "RACON Sr. No 6295 listed but all RACON details NA"
+  ]
+}

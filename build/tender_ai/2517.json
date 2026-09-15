@@ -1,0 +1,44 @@
+{
+  "nid": 2517,
+  "title": "Plantation under the \"EK PED MAA KE NAAM\" Campaign at Diamond Harbour FFM Station for the year 2026-27 under Kolkata Directorate",
+  "summary": "E-tender for tree plantation under the \"Ek Ped Maa Ke Naam\" campaign at Diamond Harbour FFM Station, West Bengal, for 2026-27, issued by the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "other",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Kol-01002/1/2026-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Diamond Harbour FFM Station, West Bengal", "station_id": null, "kind": "other", "work": "Tree plantation under Ek Ped Maa Ke Naam campaign"}
+  ],
+  "scope": [
+    {"item": "Plantation under the \"EK PED MAA KE NAAM\" Campaign at Diamond Harbour FFM Station for the year 2026-27", "qty": null, "unit": null, "site": "Diamond Harbour FFM Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 455000.0,
+    "emd_inr": 9100.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata, payable at Kolkata, valid 3 months from technical bid opening; exemption not allowed; original EMD to reach office on or before last date of bid submission."
+  },
+  "period": {"completion": "60 days", "bid_validity": "180 days", "warranty": null},
+  "dates": {"published": "2026-07-27", "pre_bid": "2026-08-10", "bid_submission_end": "2026-08-17", "bid_opening": "2026-08-18"},
+  "eligibility": [
+    "Valid registration of appropriate class in appropriate category (building civil work) with Central Govt department/undertaking/autonomous body or State Govt",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two works each >= 50%, or one work >= 80%; executed values updated at 7% simple interest per annum",
+    "Similar works: tree plantation, landscaping or gardening works at Central Govt/State Govt/other reputed private organisation/NGO firm, supported by client certificates",
+    "Valid PAN card and GST registration",
+    "Notarized affidavit (current year 2026) that bidder is neither blacklisted nor debarred by any Central/State Govt organisation",
+    "Undertaking on letter pad that price bid is unconditional; Tender Acceptance Letter as per format",
+    "All other documents as given in Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled; English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "File is named NIQ but contains a two-cover Notice Inviting e-Tender (printed pages 3-6); no BOQ, quantities of trees or species given. NIT dated 27.07.2026; bid document download 27/07/2026 15:00 to 17/08/2026 15:00; technical bid opening 18/08/2026 16:00; pre-bid meeting 10/08/2026 11:00. Diamond Harbour FFM Station is not in station_names.tsv. Bidders asked to visit the site before quoting."
+}

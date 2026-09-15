@@ -1,0 +1,171 @@
+                       मास्टर लेजर/MASTER LEDGER
+
+                                  घोघा दीपस्तंभ / Ghogha Lighthouse
+
+क्रमसंख्या/             नाम /Name
+                                                                      वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.              F 0452
+     2        स्थान/Position                  Lat 21º 41.5’ N        Long 72º 16.6’ E
+
+    3         ऊंचाई/Elevation                 18 M (Above MSL)
+    4         अभिलक्षण/Characteristic          Occulting Red 15 Sec. (11 + 4= 15 Sec.)
+    5         नॉटिकलमाइलमेदरू ी               11 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower          Type                        Square masonry tower with
+                                                                          semicircular.
+                                              Height                      16M
+                                              Colour Scheme               2 Red and 1 White bands (Bottom
+                                                                          band Red)
+    7         ऑप्टिकलउपकरण                    Optic
+              Optical equipment               Make                        B.B.T, Drum optic (fixed)
+
+                                              Type                        1000 mm dia (Provided with red
+                                                                          color filter)
+                                              Size                        1000 mm diameter
+                                              No. of lens
+                                              Area of dioptric portion
+                                              Area of catadioptric portion
+                                              Divergence                   4 º 0.54’(vertical)
+                                              Main/Emergency               0 º41’ (vertical)
+                                              Duration of Flash           11 Sec
+                                              Main /Standby/Emergency
+                                              Pedestal                    Fixed
+                                              Rotation Device
+                                              R.P.M.
+                                              Illuminant                  Dhumketu Flasher made by JELs,
+                                                                          Jamnagar
+                                              Main                        240V/1000W Electric Lamp
+                                              Standby
+                                              Emergency:                  100W/12V Halogen Lamp
+                                              Date of Installation
+    8                                         Main                        32230 candela
+     प्रिािीबीमतीव्रता/Effective beam    Emergency                      7444 candela
+     intensity
+9    लेंिनन/Lantern                      Diameter                       2.0 m
+                                         Height of glazing              0.80 m
+                                         No. of panes                   08
+                                         Ventilators                    07
+10   RACON                                    Sr. No
+     Make                 Model          Code                           Band                  Date of
+                                                                                              Installation
+
+11   NAIS –NA
+     Base Station
+
+     Model                Type           Power                           MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna         Band           Modem
+
+     DGPS
+     Transmitter Make     Frequency      Power Output RS 1 ID            RS -II     Beacon    Date of Date
+                                                                         ID         ID        commis of
+                                                                                              sioning Rec
+                                                                                                      apit
+                                                                                                      aliza
+                                                                                                      tion
+
+
+12   ऊर्ानकेसाधन/Sour     Mains                                          440V/3-phase/50 Hz
+     ce of energy         Power Source                                   DG Set 15 KVA make Kirloskar
+                          Engine 1
+                          Make/Type              Qty         Rating      No of         RPM           Cooling
+                                                                         Cylinder
+                          Kirloskar              1           20.5 BHP    2             1500          Air
+                          Alternator
+                          Make/Type              Qty         Rating      Voltage/A Frequency         Phase
+                                                                         mp
+                          Kirloskar              1           15 KVA      230V/62A 50Hz               Single
+                          Solar Plant
+                          Capacity PV            Numbers                 Type     Battery            Bank
+                          6 KWp                  24 Nos                  Mono     48 Nos             01 No.
+                                                                         Cryst    2V/600AH
+                                                                         alline
+                          Solar Plant for Main RACON
+                          Capacity PV           Numbers                  Type     Battery            Bank
+
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+          Make                 Model              Capa     Input                       Output               Phase            Qty
+          Servo                N/A                8        180 To 260V                 240                  1                1
+                                                  KV
+                                                  A
+14        बैिरर
+          Batteries
+          Equipment            Type               Make           Volt                  Amp/Hr               Qty
+          PSS NAIS                   -                 -                  -                -                      -
+          Genset               Lead acid          SF Sonic       12V                   150AH                1
+          Automation
+          DGPS
+     15   बैिररचार्नर/ Battery charger
+
+          Equipment            Make               Mode Type                            Ratin    Qty
+                                                  l                                    g
+          General Purpose
+          Automation                               ---             ----
+     16   इंवटट रInverter /UPS
+          Equipmen Nos Make               Model                     Type               Rating     Qty input                  output
+          t
+          Main            ---  ---                   ---                  ---             ---         ---         ---          ---
+          Light
+          NAIS PSS
+          DGPS
+
+     17   स्वचलनउपकरण
+          Automation Equipment
+          MAKE       PLC                 HMI             Power Supply           VSAT            Modem             Band
+          RDS        Allen Bradley       RENU            24V                                    Robuste
+                                                                                                l
+     18   आप्ननशमनउपकरण                           Type of Extinguisher  Capacity                  Nos                 Make
+          Fire Fighting Equipment                 DCP Type,ABC          4 kg                      11
+                                                  Water Co2             -                         -
+                                                  Foam Type             -                         -
+     19   संचार                                   P & T Telephone 02782882530
+          Communication
+     20   र्लपूर्तन                               6 nos &1 no underground rain water storage tanks provided
+          Water Supply
+     21   िूभम                                    Area                                          0.6657 hectares
+          Land                                    Demarcation                                   Masonary compound wall
+                                                                                                on all the four sides
+     22   इमारतें                                 RCC Structure: 09 Nos                         LH Tower,Inspection
+          Buildings                                                                             Quarter, Powerhouse,
+                                                                                                Store,
+                                                                        One HLK Quarter,One
+                                                                        twin unit of ALK
+                                                                        Quarters & One twin unit
+                                                                        of LHA Quarters
+
+
+
+
+23   कंपाउं डलाइि                    7 Nos. G.I. Poles with
+     Compound Lights                 LED lamp fitted
+                                     Gate Light-02
+                                     10 Nos Solar LED street
+                                     Light
+
+
+                                                  Gate lights
+                                     – 2 Nos. 10 Nos Solar
+                                     LED street Light
+24   सीसीिीिीकमेरा                   Camera
+      CCTV CAMERA                    DVR
+25   स्िाफ                           Sl. No       Designations
+     Staff                           1           Navigational Assistant -I
+                                     2           Navigational Assistant –II and LHA -2 Nos
+26   पहुँचनेकामाध्यम                 By Train up to Bhavnagar , Then 19 Km by road up by upto
+                                     Ghogha Lighthouse
+     Mode of approach
+27   उपलब्धसविधाए                    Police Station, Dispensary , Highschool ,Bank, Post office
+                                     are available in Ghogha Town 2Km from Lighthouse
+     Facilities available
+
+
+28   डाकपताPostal address            N.A-I,Ghogha Lighthouse,P.O Ghogha,Dist.Bhavnagar,PIN-364110
+29   मूल्यकाब्योराCost details       Rs.70000/- and Equipments Rs.214000/-
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          06-03-1943
+     Date of commissioning
+

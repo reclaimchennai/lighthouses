@@ -1,0 +1,41 @@
+{
+  "slug": "dolphin-nose-lighthouse",
+  "pages_read": [1, 2, 3, 4, 7, 8, 9],
+  "name": "Dolphin's Nose Lighthouse cum D.G.P.S. Station",
+  "station_type": "lighthouse",
+  "established_year": 1940,
+  "alol": "0970",
+  "position": {"lat_text": "17° 40.5' N", "lon_text": "83° 17.7' E", "lat": 17.675, "lon": 83.295},
+  "elevation_m": 173,
+  "characteristic_text": "FL.W. 10 Sec (Fl 0.33 Sec. Ec 9.67 Sec.)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "Fl 0.33 Sec. Ec 9.67 Sec.",
+    "sequence_s": [0.33, 9.67],
+    "flash_duration_s": 0.33
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 32, "geographical_nm": 31, "text": "Luminous: 32 M, Geographical: 31 NM"},
+  "tower": {"type": "Square Masonry Tower", "height_m": 19, "colour_scheme": "Black & White bands"},
+  "optic": {
+    "make": "BBT", "model": null, "type": "Revolving", "size": "375 mm", "order": "3rd order small",
+    "panels": 1,
+    "rotation_device": "Twin Stepper motor Direct Drive system; Stepper motor 2 No 40Kg-cm (unique make)",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Size: 375 mm (3rd order small) Revolving; Rotation Device: Twin Stepper motor Direct Drive; Rotation Speed 3 RPM",
+    "divergence_horizontal_deg": 5.95,
+    "divergence_vertical_deg": 2.016667,
+    "divergence_text": "Horizontal 5°57', Vertical 2° 1'",
+    "illuminant": "MH Lamp 150W-230V, 3 Nos. (cluster arrangement)"
+  },
+  "intensity_cd": 939600,
+  "racon": {"present": true, "code": "O", "text": "Tideland Signal Corp., U.S.A., S.No. 6314, Morse Code O, commissioned 01-12-2005"},
+  "ais": {"present": true, "text": "NAIS Physical Shore Station: R 40 AIS Base station A Sl.No.5204, B Sl.No.5304"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APEPDCL mains 440V 3 phase 50 Hz; 15 kW on-grid solar (60 x 250W panels); 2 x Kirloskar 70 KVA DG sets"},
+  "issues": ["Elevation printed as '173 above MSL' without unit", "Luminous range printed as '32 M' (unit presumably NM)", "1 panel at 3 RPM gives one flash every 20 s, but characteristic is Fl every 10 s", "Year of first light 1940; present lighthouse commissioned 15-06-1957"]
+}

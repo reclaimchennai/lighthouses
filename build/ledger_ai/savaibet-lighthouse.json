@@ -1,0 +1,45 @@
+{
+  "slug": "savaibet-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Savaibet Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1967,
+  "alol": "F 0436",
+  "position": {"lat_text": "20° 54.2' N", "lon_text": "71° 31.5' E", "lat": 20.903333, "lon": 71.525},
+  "elevation_m": 45,
+  "characteristic_text": "Fl (4)W 30 sec.[(0.3+4.7)3+0.3 +14.7=30 sec.)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 4,
+    "colours": ["W"],
+    "period_s": 30,
+    "sequence_text": "(0.3+4.7)3+0.3 +14.7=30 sec.",
+    "sequence_s": [0.3, 4.7, 0.3, 4.7, 0.3, 4.7, 0.3, 14.7],
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 22.6, "geographical_nm": null, "text": "22.6NM (unlabelled range)"},
+  "tower": {"type": "Square stone masonry tower", "height_m": 27, "colour_scheme": "Red and white bands"},
+  "optic": {
+    "make": "BBT", "model": null, "type": "Revolving", "size": "250mm", "order": null,
+    "panels": 4,
+    "rotation_device": "Stepper motor",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving; Rotation Device: Stepper motor; R.P.M. 2",
+    "divergence_horizontal_deg": 4.55,
+    "divergence_vertical_deg": 6.833333,
+    "divergence_text": "4° 33' (Horizontal), 6° 50' (Vertical)",
+    "illuminant": "70W/230V MH lamp"
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": false, "text": "NAIS –NA"},
+  "dgps": {"present": null},
+  "power": {"mains": false, "solar": true, "generator": true, "text": "Mains '-'; DG Set 15 KVA Kirloskar (20.5 HP); solar plant 12 Nos mono crystalline, battery 96 V/400 AH*48"},
+  "issues": [
+    "Effective beam intensity left blank",
+    "No RACON section, but a Racon 12V/100Ah battery is listed",
+    "Characteristic bracket unbalanced as printed"
+  ]
+}

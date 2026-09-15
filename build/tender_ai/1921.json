@@ -1,0 +1,43 @@
+{
+  "nid": 1921,
+  "title": "Providing and laying water supply and Sewer connection from CMWSSB to Chennai Lighthouse.",
+  "summary": "E-tender (percentage rate) for laying water supply and sewer connections from the Chennai Metro Water (CMWSSB) network to Chennai Lighthouse, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(03)/1/2020-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chennai Lighthouse, Chennai, Tamilnadu", "station_id": "chennai-lighthouse", "kind": "lighthouse", "work": "Water supply and sewer connection from CMWSSB"}
+  ],
+  "scope": [
+    {"item": "Providing and laying water supply and sewer connection from CMWSSB to Chennai Lighthouse", "qty": null, "unit": null, "site": "Chennai Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 707091.0,
+    "emd_inr": 14150.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of any scheduled/nationalized bank in favour of Director of Lighthouses and Lightships, Chennai; validity three months (table) / 90 days (clause 1.1) from technical bid opening; exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "03 (Three) months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-06-05", "pre_bid": "2025-06-13", "bid_submission_end": "2025-06-19", "bid_opening": "2025-06-20"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous body",
+    "Similar works in last seven years: three works each >= 40%, or two each >= 50%, or one >= 80% of estimated cost; completed works only; value enhanced at 7% per annum; certificates from officers not below Executive Engineer",
+    "Similar works: repairs and civil maintenance of buildings or construction of any type of building/compound wall/retaining wall/RCC structures",
+    "Average annual turnover on civil construction/repair works at least 40% of estimated cost over last 3 financial years ending 31 March 2025, CA certified",
+    "PAN, GST registration, ITR for last three assessment years; key technical personnel",
+    "Tender acceptance letter (Annexure II), unconditional bid undertaking (Annexure III), non-blacklisting affidavit (Annexure IV), relatives declaration (Annexure V), bid security declaration (Annexure VI), Make in India self-certification (Annexure VII)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITCMWSSB_0.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section I NIT only; no BOQ, pipe lengths or drawings. Download and bid submission 05.06.2025 15:00 to 19.06.2025 15:00; EMD up to 19.06.2025 15:00; opening 20.06.2025 15:00."
+}

@@ -1,0 +1,67 @@
+{
+  "nid": 1822,
+  "title": "Supply, Installation, testing and commissioning of the CCTV system at Mallipattinam, Ammapattinam, Passipattinam, Pamban and Vembar Lighthouses",
+  "summary": "GeM two-packet BOQ bid by the Directorate of Lighthouses and Lightships, Chennai for supply, installation, testing and commissioning of CCTV systems (cameras, NVRs, PoE switches, cabling, monitors, UPS, racks, poles) at five stations in Tamil Nadu.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/5772897",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mallipatinam Lighthouse, Near Manora, Pattukottai Taluk, Thanjavur District - 614723", "station_id": "mallipattinam-lighthouse", "kind": "lighthouse", "work": "CCTV system: 15 cameras, NVR, switches, 500 m-class cabling and trenching, monitor, UPS, 4 racks"},
+    {"name": "Ammapattinam Lighthouse, Ammapatinam Post, Pudukottai District - 614617", "station_id": "ammapattinam-lighthouse", "kind": "lighthouse", "work": "CCTV system: 16 cameras, NVR, switches, cabling and trenching, monitor, UPS, 4 racks"},
+    {"name": "Passipatinam Lighthouse, Passipattinam Post, Ramanathapuram District - 623409", "station_id": "passipattinam-lighthouse", "kind": "lighthouse", "work": "CCTV system: 16 cameras, NVR, switches, cabling and trenching, monitor, UPS, 4 racks"},
+    {"name": "Rameswaram DGPS Station, Anna Nagar (Near Karuppanna Samy koil), Rameswaram, Ramanathapuram District - 623526", "station_id": "rameshwaram-dgps-station", "kind": "DGNSS", "work": "CCTV system: 11 cameras, NVR, switches, cabling and trenching, monitor, UPS, 3 racks, 2 SS poles"},
+    {"name": "Vembar Lighthouse, Vembar Post, Tuticorin District - 628906", "station_id": "vembar-lighthouse", "kind": "lighthouse", "work": "CCTV system: 13 cameras, NVR, switches, cabling and trenching, monitor, UPS, 3 racks, 1 SS pole"}
+  ],
+  "scope": [
+    {"item": "Supply of 05 MP Bullet Camera or Dome Camera including back box", "qty": "71", "unit": null, "site": "Mallipattinam 15, Ammapattinam 16, Passipattinam 16, Rameswaram 11, Vembar 13"},
+    {"item": "Supply and Installation of NVR for CCTV system 32 channel", "qty": "5", "unit": null, "site": "1 per site"},
+    {"item": "Supply and Installation of Hard Disk 10 TB surveillance drive", "qty": "5", "unit": null, "site": "1 per site"},
+    {"item": "Supply and Installation of 8 Port POE Switch", "qty": "14", "unit": null, "site": "3 each at Mallipattinam, Ammapattinam, Passipattinam, Rameswaram; 2 at Vembar"},
+    {"item": "Supply and Installation of 16 Port POE Switch", "qty": "5", "unit": null, "site": "1 per site"},
+    {"item": "Supply and Installation of CAT 6 STP or SFTP cable for CCTV", "qty": "2260", "unit": null, "site": "500 each at Mallipattinam, Ammapattinam, Passipattinam; 380 each at Rameswaram, Vembar"},
+    {"item": "Supply and Installation of CAT 6 Armored cable with SS clamps and screws for CCTV", "qty": "2240", "unit": null, "site": "500 each at Mallipattinam, Ammapattinam, Passipattinam; 370 each at Rameswaram, Vembar"},
+    {"item": "Supply and Installation of 43 inch LED monitor display with wall mount bracket", "qty": "5", "unit": null, "site": "1 per site"},
+    {"item": "Supply and Installation of 1 KVA UPS of minimum 30 minutes backup", "qty": "5", "unit": null, "site": "1 per site"},
+    {"item": "Supply and Installation of 0.6 KVA UPS of minimum 30 minutes backup", "qty": "13", "unit": null, "site": "3 each at Mallipattinam, Ammapattinam, Passipattinam; 2 each at Rameswaram, Vembar"},
+    {"item": "Installation and Commissioning charges for CCTV cameras", "qty": "71", "unit": null, "site": "Same split as cameras"},
+    {"item": "Supply and Installation charges for PVC pipes or casing capping with SS clamps and screws", "qty": "2260", "unit": null, "site": "500 each at Mallipattinam, Ammapattinam, Passipattinam; 380 each at Rameswaram, Vembar"},
+    {"item": "Digging charges of trench for underground laying cables with HDPE pipe up to 45cm depth", "qty": "2240", "unit": null, "site": "500 each at Mallipattinam, Ammapattinam, Passipattinam; 370 each at Rameswaram, Vembar"},
+    {"item": "Supply and Installation of Steel wall Rack 4U, 500D wall mount Network Rack", "qty": "18", "unit": null, "site": "4 each at Mallipattinam, Ammapattinam, Passipattinam; 3 each at Rameswaram, Vembar"},
+    {"item": "Supply and Installation of 6 mtr high S.S poles", "qty": "3", "unit": null, "site": "Rameswaram 2, Vembar 1"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3114869.0,
+    "emd_inr": 62300.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG not required",
+    "notes": "Estimated bid value Rs 31,14,869. EMD Rs 62,300 (advisory bank State Bank of India), also payable by DD or FDR in favour of Director of Lighthouses and Lightships, Chennai, with hard copy within 5 days of bid end/opening; MSE exemption only for manufacturers/service providers. MII and MSE purchase preference apply; only Class-I and Class-II local suppliers eligible. Option clause +/-25% of quantity."
+  },
+  "period": {"completion": "Delivery 60 days (each consignee)", "bid_validity": "90 days from bid end date", "warranty": "2 years from final acceptance / completion of installation, commissioning and testing"},
+  "dates": {"published": "2025-01-01", "pre_bid": "2025-01-21", "bid_submission_end": "2025-01-29", "bid_opening": "2025-01-29"},
+  "eligibility": [
+    "Minimum average annual turnover (3 years) Rs 15 lakh",
+    "3 years past experience of same/similar category products to Central/State Govt/PSU (buyer ATC says 2 years)",
+    "Past performance: supplied same/similar products for 80% of bid quantity in one of last three financial years to Govt/PSU",
+    "No MSE or startup exemption for experience and turnover",
+    "Documents: experience, past performance, turnover, ATC certificates, OEM authorisation, additional documents, BoQ specification compliance",
+    "Installation/commissioning/testing by OEM, OEM-certified resource or OEM-authorised reseller; service centres near consignee locations",
+    "Vendor code documents: PAN, GSTIN, cancelled cheque, EFT mandate"
+  ],
+  "specs": [
+    "5 MP bullet or dome cameras; 32-channel NVR; 10 TB surveillance HDD",
+    "8-port and 16-port PoE switches; CAT 6 STP/SFTP and CAT 6 armoured cable",
+    "43 inch LED monitor; 1 kVA and 0.6 kVA UPS with minimum 30 minutes backup",
+    "4U 500D wall-mount network racks; 6 m SS poles; HDPE pipe trenching to 45 cm depth"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM-Bidding-7323416.pdf", "pages": 51, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Standard GeM bid document; technical specification, BOQ detail and buyer ATC attachments are links only (not included). Title and bid text name Pamban Lighthouse, but the fourth consignee in every item is Rameswaram DGPS Station; no Pamban consignee appears. Item quantities sum to the printed total quantity 9215. Cable/trench quantity units not printed. Bid end 29-01-2025 17:00, opening 17:30; pre-bid 21-01-2025 15:00 at the Chennai office. Evaluation: total value wise, two packet, no reverse auction. Named consignee officers and buyer's personal-style e-mail omitted."
+}

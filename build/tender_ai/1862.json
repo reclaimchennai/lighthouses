@@ -1,0 +1,34 @@
+{
+  "nid": 1862,
+  "title": "Dry Docking and Afloat Repairs of M.V Indira Point (GRT-2477)",
+  "summary": "Open e-tender (works) for dry docking and afloat repairs of the DGLL vessel M.V. Indira Point (GRT 2477), issued by DGLL headquarters, Noida.",
+  "category": "vessels & vehicles",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MC-08030(9)/1/2020-MC; 2025_DGLL_852173_1",
+    "issuing_office": "Directorate General of Lighthouses and Lightships, Noida"
+  },
+  "scope_level": "national",
+  "sites": [],
+  "scope": [
+    {"item": "Dry Docking and Afloat Repairs of M.V Indira Point (GRT-2477)", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 262500000.0,
+    "emd_inr": 3625000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender value Rs 26,25,00,000 shown in public domain. EMD Rs 36,25,000 fixed, EMD exemption allowed; CPPP page shows 'EMD Payable To: FCI Aravali Gypsum and Minerals India Limited, Payable At: Jodhpur' (apparently erroneous portal entry). Tender fee Nil. Payment mode offline."
+  },
+  "period": {"completion": null, "bid_validity": "180 days", "warranty": null},
+  "dates": {"published": "2025-03-06", "pre_bid": "2025-03-18", "bid_submission_end": "2025-03-27", "bid_opening": "2025-03-28"},
+  "eligibility": ["Pre-qualification: refer tender documents (not included)"],
+  "specs": ["Vessel M.V. Indira Point, GRT 2477"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (1)_0.pdf", "pages": 3, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Document is a printout of the CPPP 'Tender Details' page (06-Mar-2025), not the NIT or tender document (TD_MVIP.pdf and BOQ_895811.xls referenced but not included). Two covers: technical (EMD scan, eligibility, financial standing per clause 3.2, affidavits, acceptance letter) and finance (schedule of works .xls). Pre-bid meeting 18-Mar-2025 14:00 at Deep Bhavan, Noida; clarification end 18-Mar-2025. Page lists bid openers with personal e-mail login IDs: [personal contact removed]. Tender created by an Assistant Executive Engineer (Electronics). Product category Shipping/Transportation/Vehicle. Scope level set to national as work is on a DGLL HQ vessel with no station."
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "kalpeni-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Kalpeni Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1976,
+  "alol": "F 1201",
+  "position": {"lat_text": "10° 04.50' N", "lon_text": "73° 58.54' E", "lat": 10.075, "lon": 73.975667},
+  "elevation_m": 44.01,
+  "characteristic_text": "GP.FL.3(W)EVERY 20SECS",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.53
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": null, "text": "18NM (single unlabelled range)"},
+  "tower": {"type": "Circular RCC block masonry tower", "height_m": 37, "colour_scheme": "Black and White Band"},
+  "optic": {
+    "make": "J.stone&co", "model": null, "type": null, "size": "300mm 4th revolving optic", "order": "4th",
+    "panels": 3,
+    "rotation_device": "Stepper motor",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Size: 300mm 4th revolving optic; Rotation Device: Stepper motor; R.P.M. 3 RPM",
+    "divergence_horizontal_deg": 9.533333,
+    "divergence_vertical_deg": 8.583333,
+    "divergence_text": "9° 32' (Horizontal), 8° 35' (Vertical)",
+    "illuminant": "230V/400W Metal Halide Lamp"
+  },
+  "intensity_cd": 256989,
+  "racon": {"present": true, "code": null, "text": "Sr. No 6295; make, model, code, band and date blank"},
+  "ais": {"present": true, "text": "NAIS 2 Nos AIS1 & AIS2, Model R40, Class A, MMSI 4198001"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": null, "generator": true, "text": "Mains EB; DG Set 7.5 KVA make kirlosker (16 BHP) with Stamford 7.5KVA alternator"},
+  "issues": ["Intensity printed '2.56.989 candelas' (read as 2,56,989)", "ALOL F 1201, RACON Sr. No 6295 and NAIS MMSI 4198001 are identical to East Island ledger values - possibly copied", "RACON lists only a serial number with make/model/code blank"]
+}

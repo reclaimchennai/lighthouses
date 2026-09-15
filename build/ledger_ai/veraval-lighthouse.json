@@ -1,0 +1,41 @@
+{
+  "slug": "veraval-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Veraval Lighthouse and RCS Station",
+  "station_type": "lighthouse",
+  "established_year": 1967,
+  "alol": "F 0410",
+  "position": {"lat_text": "20° 54.6' N", "lon_text": "70° 21.2' E", "lat": 20.91, "lon": 70.353333},
+  "elevation_m": 33,
+  "characteristic_text": "F l W15 Sec. (10+5=15 Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "10+5=15 Sec",
+    "sequence_s": [10, 5],
+    "flash_duration_s": 10
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 15, "geographical_nm": null, "text": "15 NM (single unlabelled range)"},
+  "tower": {"type": "Square Masonry Tower with Semi Circular Front", "height_m": 34, "colour_scheme": "Black and White bands - 5 Nos."},
+  "optic": {
+    "make": "BBT France", "model": null, "type": "1000 mm drum optic with catadioptric", "size": "1000 mm", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Size: 1000 mm drum optic; Pedestal: Fixed Large Size; Rotation Device: N/A; R.P.M.: N/A",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 11.4545,
+    "divergence_text": "11° 27.27' (Vertical)",
+    "illuminant": "Cluster of 230 V/500 W Halogen lamps 3 nos. in each tier (upper & lower)"
+  },
+  "intensity_cd": 20902,
+  "racon": {"present": true, "code": "K", "text": "Pharos Marine, Sr. No 11-X-201607-06, Code K, x-band, installed 02/09/2016"},
+  "ais": {"present": true, "text": "NAIS - 22/06/2012; VHF & GPS Antenna; Modem CISCO Router 2900; base station model/MMSI blank"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V/3-phase/50 Hz; DG Set 15 KVA Kirloskar; 7.5 KWp off-grid and 10 KWp on-grid solar; RACON and Dhum Ketu flasher solar units"},
+  "issues": ["Characteristic 'Fl W 15 Sec (10+5=15 Sec)' with Duration of Flash 10 Sec - light longer than eclipse, inconsistent with a flashing light", "Tower height 34 M exceeds stated elevation 33 M", "NAIS section has date and router/antenna but no base station model or MMSI"]
+}

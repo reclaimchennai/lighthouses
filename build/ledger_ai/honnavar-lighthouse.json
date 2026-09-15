@@ -1,0 +1,41 @@
+{
+  "slug": "honnavar-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Honavar Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2008,
+  "alol": "F 0644",
+  "position": {"lat_text": "14° 16.5' N", "lon_text": "74° 26.6' E", "lat": 14.275, "lon": 74.443333},
+  "elevation_m": 38,
+  "characteristic_text": "fl W 15 Sec.",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": 19, "text": "Luminous 18 NM, Geographical 19 NM"},
+  "tower": {"type": "Octagonal RCC column Tower", "height_m": 21, "colour_scheme": "Red & White bands"},
+  "optic": {
+    "make": "Wealth Marine Pvt. Ltd., Singapore", "model": "WM - RB 500", "type": "Marine Rotating Beacon", "size": "200mm", "order": null,
+    "panels": 6,
+    "rotation_device": "2 Nos. Stepper Motors.",
+    "rpm": 0.67,
+    "rotates": true,
+    "rotates_evidence": "Type: WM - RB 500 Marine Rotating Beacon; Rotation Device: 2 Nos. Stepper Motors; R.P.M. 0.67",
+    "divergence_horizontal_deg": 1.65,
+    "divergence_vertical_deg": 2.42,
+    "divergence_text": "Horizontal - 1.65°, Vertical 2.42°",
+    "illuminant": "70 W Metal Halide Lamp (Main: 230 v /70w lamp)"
+  },
+  "intensity_cd": 56757,
+  "racon": {"present": false, "code": null, "text": "N/A"},
+  "ais": {"present": true, "text": "NAIS Model R40, Power 230 V, MMSI 4192236"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V, 3 phase 50H, Solar panels (75W/12V x5, 80W/12V x4); Standby Genset Kirloskar EA/16 with 7.5 KVA alternator"},
+  "issues": ["No. of lens given as '6 (3 fresnel lense + 3 blanks)'", "Page 1 has no station name header; name taken from postal address"]
+}

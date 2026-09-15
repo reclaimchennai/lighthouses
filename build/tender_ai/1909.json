@@ -1,0 +1,42 @@
+{
+  "nid": 1909,
+  "title": "Providing Consultancy services for obtaining CRZ Clearance for Establishment of VTMS at Sri Vijayapuram at identified locations Atlanta point & shore point",
+  "summary": "E-tender for consultancy services to obtain Coastal Regulation Zone (CRZ) clearance for establishing a Vessel Traffic Management System (VTMS) at Atlanta Point and Shore Point, Sri Vijaya Puram, South Andaman.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-01004/1/2022-CM-PB",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Atlanta point, Sri Vijayapuram, South Andaman", "station_id": null, "kind": "VTS", "work": "CRZ clearance consultancy for proposed VTMS site"},
+    {"name": "Shore point, South Andaman", "station_id": null, "kind": "VTS", "work": "CRZ clearance consultancy for proposed VTMS site"}
+  ],
+  "scope": [
+    {"item": "Providing Consultancy services for obtaining CRZ Clearance for Establishment of VTMS at Atlanta point & shore point", "qty": null, "unit": null, "site": "Atlanta point & shore point"}
+  ],
+  "money": {
+    "estimated_cost_inr": 6136000.0,
+    "emd_inr": 123000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. Bid document free of cost. EMD as Deposit at call receipt/FDR of any nationalized/scheduled bank in favour of Director of Lighthouses and Lightships, Sri Vijaya Puram, valid 6 months from technical bid opening; originals with technical documents to reach office by submission deadline. MSME/NSIC registered bidders for similar work eligible for EMD exemption."
+  },
+  "period": {"completion": "180 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-05-20", "pre_bid": "2025-05-27", "bid_submission_end": "2025-06-02", "bid_opening": "2025-06-03"},
+  "eligibility": [
+    "Experienced contractors with successful completion of similar work of 'Consultancy Services for obtaining CRZ Clearance' with Government organizations and no adverse remarks",
+    "Detailed eligibility as per Section-III clause 3.1 of tender document (not included in this file)",
+    "Bidders whose near relatives are accountants or gazetted officers in DGLL not permitted; names of such relatives among employees to be intimated",
+    "Retired gazetted officers may not work as contractor within two years without Govt permission"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_2.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": ["text layer entirely garbled (font mojibake); all 3 pages rendered and read from images"]}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (NIT) only, printed pages 4-6; no BOQ or Section III eligibility. Bid download/submission period printed as '20.06.2025 (1800 Hrs.) to 02.06.2025 (15-00 Hrs)' - start date evidently a typo for 20.05.2025 (NIT dated 20.05.2025). Pre-bid 27.05.2025 15:00; technical bid opening 03.06.2025 15:00 subject to internet availability. Heading 'Item Rate Tenders from Eligible Experienced Civil Contractors' despite consultancy scope."
+}

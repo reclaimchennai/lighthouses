@@ -1,0 +1,43 @@
+{
+  "slug": "narcondum-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Narcondum Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1983,
+  "alol": "F 1201.1",
+  "position": {"lat_text": "13° 27.40' N", "lon_text": "94° 15.30' E", "lat": 13.456667, "lon": 94.255},
+  "elevation_m": 61,
+  "characteristic_text": "F (3)W 20 Sec (fl 0.8, ec 1.2) x 2, fl 0.8, ec15.2",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "(fl 0.8, ec 1.2) x 2, fl 0.8, ec 15.2",
+    "sequence_s": [0.8, 1.2, 0.8, 1.2, 0.8, 15.2],
+    "flash_duration_s": 0.8
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 8, "geographical_nm": null, "text": "08 NMiles (unlabelled range)"},
+  "tower": {"type": "GI Trestle Tower", "height_m": 14, "colour_scheme": "Painted White"},
+  "optic": {
+    "make": "Sealite", "model": "SL155-5D", "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Rotation Device: WhiteFlashing Light; R.P.M. NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "- NA-"},
+  "ais": {"present": false, "text": "NAIS section empty (only 'VSAT Antenna Prodelin 2.4 meter' written)"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar plant 70W x 01 mono crystalline, 12V/100AH battery; Mains/Standby/engines blank"},
+  "issues": [
+    "Characteristic printed as 'F (3)W' although the sequence describes three flashes (group flashing)"
+  ]
+}

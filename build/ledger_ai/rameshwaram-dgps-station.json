@@ -1,0 +1,41 @@
+{
+  "slug": "rameshwaram-dgps-station",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Rameshwaram DGPS Station",
+  "station_type": "dgps station",
+  "established_year": 2010,
+  "alol": null,
+  "position": {"lat_text": "N 09 17 01.944", "lon_text": "E 079 18 31.681", "lat": 9.283873, "lon": 79.3088},
+  "elevation_m": null,
+  "characteristic_text": null,
+  "light": {
+    "kind": null,
+    "flashes_per_period": null,
+    "colours": null,
+    "period_s": null,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": null, "geographical_nm": null, "text": "Range in Km: 400 (DGPS coverage)"},
+  "tower": {"type": null, "height_m": null, "colour_scheme": null},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": "Optic: N/A",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "Sr. No N/A"},
+  "ais": {"present": false, "text": "Base Station N/A"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "TNEB mains 3 Ø 440 V 50Hz; standby 2 x 20 KVA Kirloskar DG sets; 12 KWp on-grid solar (48 x 250W)"},
+  "issues": []
+}

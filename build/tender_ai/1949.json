@@ -1,0 +1,40 @@
+{
+  "nid": 1949,
+  "title": "Rewiring of Power house, IQ, Staff Quarters, Pump House, Coil hut, wiring of Lighthouse Tower and Replacement of street light poles, cables for Puducherry Lighthouse and DGNSS Station.",
+  "summary": "Corrigendum cancelling the tender for rewiring of buildings, lighthouse tower wiring and replacement of street light poles and cables at Puducherry Lighthouse and DGNSS Station; a fresh tender was to follow.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01002(06)/5/2020-MNT-MD (e-3740); 2025_DGLL_866810_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Puducherry Lighthouse and DGNSS Station", "station_id": "puducherry-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Rewiring of power house, IQ, staff quarters, pump house, coil hut; wiring of lighthouse tower; replacement of street light poles and cables (tender cancelled)"}
+  ],
+  "scope": [
+    {"item": "Rewiring of Power house, IQ, Staff Quarters, Pump House, Coil hut", "qty": null, "unit": null, "site": "Puducherry Lighthouse and DGNSS Station"},
+    {"item": "Wiring of Lighthouse Tower", "qty": null, "unit": null, "site": "Puducherry Lighthouse and DGNSS Station"},
+    {"item": "Replacement of street light poles, cables", "qty": null, "unit": null, "site": "Puducherry Lighthouse and DGNSS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": null
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-07-01", "pre_bid": null, "bid_submission_end": null, "bid_opening": null},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2025-07-08", "change": "Tender published on CPP Portal on 01/07/2025 cancelled due to administrative reasons; a fresh tender to be invited shortly"}
+  ],
+  "documents": [
+    {"file": "Cancellation  of Tender.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled; English portions read"]}
+  ],
+  "confidence": "medium",
+  "notes": "Only the cancellation corrigendum is listed; the original NIT is not available, so cost, EMD, dates and eligibility are unknown. Listing dates (end 2025-07-14, opening 2025-07-15) are not stated in the corrigendum."
+}

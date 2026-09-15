@@ -1,0 +1,44 @@
+{
+  "slug": "vodarevu-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Vodarevu Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2003,
+  "alol": "F 0952.9",
+  "position": {"lat_text": "15° 47' 42\" N", "lon_text": "80° 24' 36\" E", "lat": 15.795, "lon": 80.41},
+  "elevation_m": 34,
+  "characteristic_text": "Gp FL (2) White, every 15 Seconds (Fl 0.6 +ec1.9 + Fl 0.6 + ec 11.9)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "Fl 0.6 + ec 1.9 + Fl 0.6 + ec 11.9",
+    "sequence_s": [0.6, 1.9, 0.6, 11.9],
+    "flash_duration_s": 0.6
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 24, "geographical_nm": 17, "text": "Luminous 24 M at 074 ATF, Geographical 17 NM"},
+  "tower": {"type": "Circular R.C.C. Tower by SLIP FORM", "height_m": 30, "colour_scheme": "Black and White bands"},
+  "optic": {
+    "make": "M/S Stone Chance Limited, London", "model": null, "type": "Revolving", "size": "250 mm focal distance", "order": "4TH Order",
+    "panels": 4,
+    "rotation_device": "Optical table driven by twin stepper 20kg. cm motor with auto change over using microcontroller",
+    "rpm": 1,
+    "rotates": true,
+    "rotates_evidence": "4TH Order Revolving; twin stepper motor rotation device; Rotation Speed 1 RPM",
+    "divergence_horizontal_deg": 3.41,
+    "divergence_vertical_deg": 5.7,
+    "divergence_text": "Horizontal : 3.41°, Vertical : 5.7°",
+    "illuminant": "150 watts Metal Halide Lamps"
+  },
+  "intensity_cd": 522000,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "M/s SAAB; AIS R40 Base Station Sl.No.5298 and Sl.No 5348; V-SAT 2.4 Mtr; commissioned 20/12/2011"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APSPDCL mains 440 V AC 3 phase 50 Hz; 1.2 KW off grid solar for main light (8 Nos 24V/150W); Kirloskar Green KG15AS4 15 KVA DG"},
+  "issues": [
+    "Luminous range printed as '24 M at 074 ATF' (unit unclear)",
+    "4 panels of 90° each at 1 RPM does not obviously produce Gp Fl(2) every 15 s"
+  ]
+}

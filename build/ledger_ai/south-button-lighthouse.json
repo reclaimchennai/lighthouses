@@ -1,0 +1,41 @@
+{
+  "slug": "south-button-lighthouse",
+  "pages_read": [1, 2],
+  "name": "South Button Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1983,
+  "alol": "F 1202.64",
+  "position": {"lat_text": "12° 13.38' N", "lon_text": "93° 01.30' E", "lat": 12.223, "lon": 93.021667},
+  "elevation_m": 25,
+  "characteristic_text": "Fl (1) W 15 Sec fl 1.0",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "fl 1.0",
+    "sequence_s": null,
+    "flash_duration_s": 1.0
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 8, "geographical_nm": null, "text": "8 NMiles (single unlabelled range)"},
+  "tower": {"type": "GI Trestle Tower", "height_m": 14, "colour_scheme": "Red and White bands"},
+  "optic": {
+    "make": "Sealite", "model": "SL155-5D", "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Rotation Device: 'White Flashing Light'; R.P.M.: NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "- NA-"},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar Plant: 75W, 01, Mono Crystline, 12V/100AH battery"},
+  "issues": ["Rotation Device field filled with 'White Flashing Light'", "NAIS base station fields empty though VSAT Antenna 'Prodelin 2.4 meter' is listed"]
+}

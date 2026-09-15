@@ -1,0 +1,43 @@
+{
+  "nid": 1882,
+  "title": "Provision of Internal Elevator at Beypore Lighthouse in Kochi Dte",
+  "summary": "Two-cover e-tender for providing an internal elevator (lift) in Beypore Lighthouse, Chaliyam, Kozhikode, Kerala.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-03030/1/2024-Admin; I/74256/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Beypore Lighthouse, Chaliyam, Kozhikode-673301", "station_id": "beypore-lighthouse", "kind": "lighthouse", "work": "Provision of internal elevator"}
+  ],
+  "scope": [
+    {"item": "Provision of internal elevator at Beypore Lighthouse", "qty": null, "unit": null, "site": "Beypore Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 7454996.0,
+    "emd_inr": 149100.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents to be submitted physically."
+  },
+  "period": {"completion": "180 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-03-20", "pre_bid": "2025-03-28", "bid_submission_end": "2025-04-16", "bid_opening": "2025-04-17"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Lift manufacturing agency with valid licence/registration from State CEIG or other State/Central licensing authority and experience in fabrication/erection of structural steel lift towers and lift installation; OR registered civil contractor in joint venture consortium with a lift manufacturer",
+    "Similar works in last 7 years: three >= 40%, two >= 50% or one >= 80% of estimated cost (completed works with completion certificates only)",
+    "Similar work: supply, installation, testing and commissioning of elevator; for JV: any civil engineering works (RCC tower, steel structures, multi-storeyed building, bridge, water tank) for first party plus lift manufacturer experience for second party",
+    "JV documents: legal status, registration, power of attorney for both parties; second party's CEIG manufacturing licence; a JV member may not bid individually or in another JV",
+    "PAN and GST registration; CA-certified turnover of last three years"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITB.pdf", "pages": 4, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT Section I only; no lift specification or BOQ. Bid download/submission 21.03.2025 (15:00) to 16.04.2025 (15:00); bid query last date 27.03.2025 11:00; EMD original by 15.04.2025 15:00. Eligibility table numbers two separate items as '1)'."
+}

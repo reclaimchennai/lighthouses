@@ -1,0 +1,51 @@
+{
+  "nid": 2239,
+  "title": "Supply of Furniture items for Rameswaram DGNSS Station under Chennai directorate",
+  "summary": "Notice inviting sealed quotations for supply of teak wood furniture (cots, sofa, dining set, teapoys) to Rameswaram DGNSS Station for the Dhanushkodi twin quarters, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-01005(04)/6/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Rameswaram DGNSS Station, Anna Nagar (near Karupana swamy temple), Rameswaram, Ramanathapuram Dist, Tamil Nadu 623526", "station_id": "rameshwaram-dgps-station", "kind": "DGNSS", "work": "Delivery point for furniture items"},
+    {"name": "Dhanushkodi twin quarters", "station_id": null, "kind": "other", "work": "Furniture items (cots, dining set, teapoys) intended for these quarters"}
+  ],
+  "scope": [
+    {"item": "Supply of Teak Wood Single Cot, size 6 1/4' x 3', inclusive of loading, unloading, packing, forwarding, freight up to Rameshwaram DGNSS Station (for Dhanushkodi twin quarters)", "qty": "3", "unit": "Nos", "site": "Rameswaram DGNSS Station"},
+    {"item": "Supply of Wooden Sofa single seater, standard size, inclusive of loading, unloading, packing, forwarding, freight up to Rameshwaram DGNSS Station", "qty": "1", "unit": "No", "site": "Rameswaram DGNSS Station"},
+    {"item": "Supply of Teak Wood Dining table, size 5' x 3', with 4 chairs, inclusive of loading, unloading, packing, forwarding, freight up to Rameshwaram DGNSS Station (for Dhanushkodi twin quarters)", "qty": "1", "unit": "No", "site": "Rameswaram DGNSS Station"},
+    {"item": "Supply of Teak Wood tea poy, size 2.75' x 1.5', inclusive of loading, unloading, packing, forwarding, freight up to Rameshwaram DGNSS Station (for Dhanushkodi twin quarters)", "qty": "3", "unit": "Nos", "site": "Rameswaram DGNSS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value (PBG/FDR), valid 60 days beyond warranty period and all contractual obligations",
+    "notes": "No estimated cost or EMD printed. Payment on final account basis after satisfactory supply; no extra payment beyond quoted rate."
+  },
+  "period": {"completion": "15 days from date of supply order", "bid_validity": null, "warranty": "1 year against manufacturing defects for all wooden items"},
+  "dates": {"published": "2026-02-10", "pre_bid": null, "bid_submission_end": "2026-02-17", "bid_opening": "2026-02-18"},
+  "eligibility": [
+    "At least one similar work >= Rs 1,95,200, or two similar works each >= Rs 1,22,000, or three similar works each >= Rs 97,600, during last seven years ending 31 March 2025",
+    "Similar work: supply of office furniture items in Central Govt/State Govt/public listed/PSUs; proof by completion certificates from clients (Manager/AEE/Administrative officer or equivalent) with purchase order or GeM CRAC",
+    "GST registration certificate and PAN",
+    "Non-blacklisting affidavit on firm letter head for last 3 years",
+    "Valid registration and office address in Tamil Nadu/Puducherry (MSME certificate, business registration certificate)",
+    "Detailed technical specifications of items as per Annexure A"
+  ],
+  "specs": [
+    "Teak wood single cot 6.25' x 3'; wooden single-seater sofa; teak wood dining table 5' x 3' with 4 chairs; teak wood teapoy 2.75' x 1.5'",
+    "Design of teak wood items as per photo images in Annexure C",
+    "Stage inspection by DLL Chennai representative (raw material before polishing/varnishing, then built quantity and aesthetics); reputed brands and good quality only"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Furn RamDGNSS_0.pdf", "pages": 6, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned NIQ: cover letter, Annexure A schedule of work (rates blank), Annexure B terms and conditions, Annexure C reference photos. Quotation due 17.02.2026 15:00, opened 18.02.2026 10:00. Station spelled both Rameswaram and Rameshwaram. Experience thresholds (80% = Rs 1,95,200) imply an estimate of about Rs 2,44,000, but no estimate is printed."
+}

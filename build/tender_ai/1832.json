@@ -1,0 +1,62 @@
+{
+  "nid": 1832,
+  "title": "Providing Comprehensive Annual maintenance for VTS Gulf of Kachchh for 01 year from 16.04.2025 to 15.04.2026",
+  "summary": "GeM BoQ bid for one-year comprehensive annual maintenance (CAMC) of the Vessel Traffic Service Gulf of Kachchh equipment (servers, consoles, radars, microwave links, AIS, DG sets, UPS, etc.), April 2025 to April 2026, for the VTS Directorate, Gandhidham.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/5904342",
+    "issuing_office": "Directorate of Lighthouses and Lightships, VTS Directorate, Gandhidham"
+  },
+  "scope_level": "directorate",
+  "sites": [
+    {"name": "VTS Gulf of Kachchh (MCC Kandla); consignee Directorate of Lighthouses and Lightships, Deep Bhavan, Plot No. 17, Sector-8, Gandhidham-370201", "station_id": null, "kind": "VTS", "work": "Comprehensive annual maintenance of VTS system"}
+  ],
+  "scope": [
+    {"item": "VTS C scope servers", "qty": "2", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "VHF servers", "qty": "2", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "Web server system", "qty": "1", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "VTS operator consoles", "qty": "17", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "VoIP VHF consoles", "qty": "11", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "VoIP VHF radios", "qty": "27", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "X-band radars", "qty": "9", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "S-band radars", "qty": "2", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "Dual duplex microwave links", "qty": "30", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "Point to point microwave links", "qty": "5", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "AIS base station", "qty": "6", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "Meteo sensor", "qty": "6", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "DG sets of various capacities", "qty": "24", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "Radio direction finders", "qty": "2", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "1.5, 2 ton air conditioners", "qty": "41", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "15 KVA UPS with batteries", "qty": "11", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "6 KVA UPS with batteries", "qty": "5", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "3 KVA UPS with batteries", "qty": "7", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "Lightning conductors", "qty": "12", "unit": null, "site": "VTS Gulf of Kachchh"},
+    {"item": "ENC chart updation for MCC Kandla", "qty": "1", "unit": null, "site": "MCC Kandla"}
+  ],
+  "money": {
+    "estimated_cost_inr": 8728847.0,
+    "emd_inr": 174600.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 15 months (advisory bank State Bank of India)",
+    "notes": "Estimated bid value Rs 87,28,847. EMD Rs 1,74,600 (advisory bank SBI); MSE service providers eligible for EMD exemption per GeM GTC. EMD/PBG beneficiary: Deputy Director General, DLL VTS Directorate Gandhidham. MII and MSE purchase preference applicable (Class 1 local content 50%, Class 2 20%). Evaluation total value wise; reverse auction not enabled."
+  },
+  "period": {"completion": "01 year, 16.04.2025 to 15.04.2026 (delivery days 365 per item)", "bid_validity": "180 days", "warranty": null},
+  "dates": {"published": "2025-02-03", "pre_bid": "2025-02-13", "bid_submission_end": "2025-02-24", "bid_opening": "2025-02-24"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder Rs 27 lakh (3 years); OEM average turnover Rs 300 lakh (last 3 years)",
+    "3 years past experience of same/similar service; no MSE or startup exemption for experience/turnover",
+    "Past performance 80% of bid quantity in one of last three financial years",
+    "Documents: experience, past performance, turnover, ATC certificates, OEM authorization, OEM turnover, BoQ specification compliance",
+    "Only Class-I and Class-II local suppliers eligible (MII order 04.06.2020)",
+    "Imported products: OEM/authorised seller must have registered office in India; dedicated/toll-free service number and escalation matrix required"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM Bid for 01 year CAMC of VTS GoK.pdf", "pages": 19, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled; English values read"]}
+  ],
+  "confidence": "high",
+  "notes": "System-generated GeM bid document only; technical specification, BoQ detail and buyer ATC documents are linked ('View File') but not included. GeM GTC/disclaimer text is boilerplate. Total quantity 221 across 20 BoQ lines. Searched string returned 'category not available on GeM'; notification categories Radio communication test set and Digital repeater set. Consignee/reporting officer named per item (official). Station-level VTS sites not named, so sites list the VTS system only."
+}

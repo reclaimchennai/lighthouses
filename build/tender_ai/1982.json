@@ -1,0 +1,44 @@
+{
+  "nid": 1982,
+  "title": "Special repair and maintenance of Lighthouse Tower, Power house and recreation room at Alang Lighthouse",
+  "summary": "Item-percentage e-tender for special repairs and maintenance of the lighthouse tower, power house and recreation room at Alang Lighthouse, Bhavnagar district, Gujarat, issued by the Directorate of Lighthouses and Lightships, Jamnagar.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-JM-02017/1/2025-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Jamnagar"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Alang Lighthouse, P.O. Alang Shipbreaking Yard, Via Trapaj, Dist. Bhavnagar (Gujarat), Pin 364081", "station_id": "alang-lighthouse", "kind": "lighthouse", "work": "Special repair and maintenance of lighthouse tower, power house and recreation room"}
+  ],
+  "scope": [
+    {"item": "Special repair and maintenance of Lighthouse Tower, Power house and recreation room", "qty": null, "unit": null, "site": "Alang Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2385043.0,
+    "emd_inr": 47700.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR/deposit at call receipt of scheduled (nationalised/RBI approved) bank in favour of the Director of Lighthouses and Lightships, valid 180 days from technical bid opening; original by 30/07/2025. MSME-registered firms must pay EMD; no exemption."
+  },
+  "period": {"completion": "240 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": null, "pre_bid": "2025-07-22", "bid_submission_end": "2025-07-30", "bid_opening": "2025-07-31"},
+  "eligibility": [
+    "Similar works in Central/State Govt department/undertaking in last 7 years: three works each >= 40% of estimated cost, or two >= 50%, or one >= 80%; values enhanced at 7% simple per annum; client certificates required",
+    "Similar works: civil construction or maintenance of any type of building or civil structure",
+    "Valid PAN; valid GST registration; joint ventures and consortia not permitted",
+    "Valid registration of appropriate class and category (civil) in Central/State Govt department/undertaking",
+    "Non-blacklisting declaration; unconditional price bid undertaking; tender acceptance letter",
+    "Bank solvency certificate minimum 40% of estimated cost, not older than 1 year",
+    "ITR and CA-certified average annual turnover (minimum 30% of estimated cost) for FY 2021-22, 2022-23 and 2023-24"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITalangrepair.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled/missing (font mojibake); English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "NIT (Section-I) only; no BOQ. Date printed as 'Dated /07/2025' (day blank); download period 15/07/2025 17:30 to 30/07/2025 15:00. Listing title begins 'maintenance of...' while NIT says 'Special repair and maintenance of...'. EMD 'payable at' place left blank."
+}

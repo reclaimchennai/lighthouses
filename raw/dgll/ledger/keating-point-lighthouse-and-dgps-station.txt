@@ -1,0 +1,212 @@
+                             मास्टर लेजर/MASTER LEDGER
+
+किटटिंग पॉइिंट दीपस्तिंभ और डी जी पी एस स्टे शन/ KEATING POINT LIGHTHOUSE AND DGPS
+STATION
+क्रमसंख्या/ Sr.No             नाम /Name
+                                                                        वििरण/Discription
+       1            ए.एल.ओ.एल/A.L.O.L.        F 1220
+       2            स्थान/Position            Lat.9° 15.48’ N
+                                              Long 92° 46.30’ E
+       3            ऊंचाई/Elevation           37 M (Above MSL)
+       4            अभिलक्षण/Characteristic   Fl (1) W 10 sec
+                                              (fl 0.15, ec 9.85 sec)
+       5            नॉटिकलमाइलमेदरू ी         26 NM
+                    Range in miles
+       6            दीपस्तंििािर/L.H.Tower    Type                           C.I. Circular tower on RCC Base
+                                              Height                         35M
+                                              Colour Scheme                  Red and White Band
+       7            ऑप्टिकलउपकरण              Optic                          VRB-25 LED
+                    Optical equipment         Make                           Vega
+                                              Type                           Rotating Beacon
+                                              Size                           -
+                                              No. of lens                    -
+                                              Area of dioptric portion       -
+                                              Area of catadioptric portion   -
+                                              Divergence                     1.5º (Horizontal)
+                                              Main/Emergency                 1.5º (Vertical)
+                                              Duration of Flash              0.25 Sec
+                                              Main /Standby/Emergency
+                                              Pedestal
+                                              Rotation Device                 Motor drive- 3Ph, electronically
+                                                                             commuted 30 pole direct drive
+                                              R.P.M.
+                                              illumining                     i) Electronic Flasher MF-12 (256
+                                                                                programmable character
+                                                                             ii) High intensity LED diodes 6Watts
+                                              Main
+                                              Standby                        Model-SL155-5D Lens dia 171 mm
+                                                                             make: Sealite
+                                              Emergency:
+                                              Date of Installation           2017
+       8                                      Main                           1500 cds
+     प्रिािीबीमतीव्रता/Effective beam   Emergency
+     intensity
+9    लेंिनन/Lantern                     Diameter
+                                        Height of glazing
+                                        No. of panes
+                                        Ventilators
+10   RACON                                   Sr. No                        6295
+     Make              Model            Code                             Band                    Date of
+                                                                                                 Installation
+     Tideland          Sea beacon 2             O                        X and S                 26-08-2005
+                       system 6
+                       Racon
+11   NAIS
+     Base Station                         2 Nos-AIS1 & AIS2
+
+
+     Model             Type             Power                            MMSI
+     R40               Class A          AC-230V & DC-12V                 4198005
+     Communication
+     Equipment
+     VSAT Antenna      Band             Modem
+       2.4m dia        EX-C             Datum system
+       Parabolic                            M7LT
+       reflector                        Satellite Terminal
+     DGPS
+     Transmitter       Frequency        Power Output RS 1 ID             RS -II        Beacon    Date of      Date of
+     Make                                                                ID            ID        commis       Recapit
+                                                                                                              alizatio
+                                                                                                 sioning      n
+     Nautel            317 KHz          1000 Watts          438          439           119                    N/A
+     NAVTEX
+     Transmitter       Frequency        Power Output Transmitt           AVR           UPS       Date of      Date of
+     Make                                            er Model                                    commis       Recapit
+                                                                                                              alizatio
+                                                                                                 sioning      n
+     Danphone          518/490 Khz      1000W               Futronic     15       7.5                         N/A
+                                                            Navtex       KVA      KVA/14
+                                                            Transmitte   Servo 4V          ----
+                                                            r T-507M-    Srabili Online
+                                                            D            zer
+12   ऊर्ानकेसाधन/So    Mains                                             3 phase 440 V 50Hz Electricity Board
+                                                                         supply
+     urce of energy
+                       Standby                                           DG Set 20 KVA
+                       Engine 1
+                       Make/Type                Qty         Rating       No of           RPM            Cooling
+                                                                         Cylinder
+                       Kirloskar                1           32 HP        3               1500           Air
+                       Alternator
+                       Make/Type                Qty         Rating       Voltage/Amp     Frequency      Phase
+                       Kirloskar                1           20 KVA       240V/83.3 A     50Hz           Single
+                       Engine 2
+                              Make/Type                    Qty        Rating    No of            RPM          Cooling
+                                                                                Cylinder
+                              Kirloskar                    1          32 HP     3                1500         Air
+                              Alternator
+                              Make/Type                    Qty        Rating    Voltage/Amp      Frequency    Phase
+                              Kirloskar                    1          20 KVA    240V/83.3 A      50Hz         Single
+                              Engine 3
+                              Make/Type                    Qty        Rating    No of            RPM          Cooling
+                                                                                Cylinder
+                              Kirloskar                    1          25.5 HP   3                1500         Air
+                              Alternator
+                              Make/Type                    Qty        Rating    Voltage/Amp      Frequency    Phase
+                              Kirloskar                    1          20 KVA    240V/86.9 A      50Hz         Single
+                              Engine 4
+                              Make/Type                    Qty        Rating    No of            RPM          Cooling
+                                                                                Cylinder
+                              Kirloskar                    1          25.5 HP   3                1500         Air
+                              Alternator
+                              Make/Type                    Qty        Rating    Voltage/Amp      Frequency    Phase
+                              Kirloskar                    1          20 KVA    240V/86.9 A      50Hz         Single
+                              Solar Plant
+                              Capacity PV                  Numbers              Type       Battery            Bank
+                              30 KWp                       90 Nos               Mono       120 Nos            01 No.
+                                                                                Crystall   2 V/600 AH
+                                                                                ine
+                              Solar Plant for Main RACON
+                              Capacity PV                  Numbers              Type       Battery            Bank
+                              35 W/12V                     01 No.               TBP        01 Nos             01 No.
+                                                                                1275       12V/100AH
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make                 Model             Capa      Input                Output               Phase    Qty
+                                                 city
+          AE                   EMS-12-1          12.5      230 V 50 Hz          230 V 50Hz           Single   01
+                                                 KVA                                                 Phase
+14        बैिरर
+          Batteries
+          Equipment            Type              Make          Volt             Amp/       Qty
+                                                                                Hr
+          PSS NAIS                   -              -                 -            -                 -
+          Genset               Lead acid         Exide         12V              150        4
+                                                                                AH
+          Automation           SMF               Exide         12V              42         2
+                                                                                AH
+          DGPS                 SMF               Exide         12 V             42         19
+                                                                                AH
+     15   बैिररचार्नर/ Battery charger
+     Equipment            Make              Mode Type                         Ratin    Qty
+                                            l                                 g
+     General Purpose
+     Automation
+16   इिंवटट रInverter /UPS
+     Equipmen Nos Make              Model                      Type           Rating     Qty       input     output
+     t
+     Main             ---    ---               ---                 ---           ---         ---       ---     ---
+     Light
+     NAIS PSS 02           APC                 ----            Pure sine      1 KVA      2         12V DC    230VA
+                                                               wave                                &         C
+                                                                                                   230 AC
+                  01      APC                  ---             Pure sine      5KVA       1         12V DC    230VA
+     DGPS                                                      wave                                &         C
+                                                                                                   230 AC
+                  01      Hykon                ---             Pure sine      3KVA       1         12V DC    230VA
+                                                               wave                                &         C
+                                                                                                   230 AC
+17   स्वचलनउपिरण
+     Automation Equipment
+     MAKE          PLC             HMI             Power Supply          VSAT          Modem        Band
+     NELCO         Schneider       Schneider       24 V DC               1.8m dia      SkyEdg       EX.C
+                   &                                                     Parabolic     e
+                   Telemecaniq                                           reflector
+                   ue
+18   आप्ननशमनउपकरण                          Type of Extinguisher Capacity                Nos         Make
+     Fire Fighting Equipment                DCP Type             5 kg                    3           Kanex
+                                            Water Type           9 Ltr                   1           Kanex
+                                            Co2 Type             4.5 Ltr                 3           Kanex
+19   संचार                                  BSNL mobile communication
+                                            available
+     Communication
+20   र्लपूर्तन                              Water pipe line connection from Water supply board available and
+                                            Rain Water Harvesting of tank capacity 20000 ltrs
+     Water Supply
+21   िूभम                                   Area                                       13 acre
+     Land                                   Demarcation                                Not Available
+
+22   इमारतें                                RCC Structure: 05 Nos                      Power House-cum
+                                                                                       Transmitter and DGPS room,
+     Buildings
+                                                                                       Coil Hut-02 nos, Inspection
+                                                                                       Qtr, Nav. Asst. Qtr.,Navtex
+                                                                                       Operators Qtrs.-06 nos.
+
+23   कंपाउं डलाइि                           Solar street light LED Light fitted on
+                                            G.I Pole-16 Nos
+     Compound Lights
+24   सीसीिीिीकमेरा                          Camera                                     08 Nos
+                                            DVR                                        01 Nos
+      CCTV CAMERA
+25   स्िाफ                           Sl. No         Designations
+     Staff                           1              Navigational Assistant Gr-II -03 Nos
+                                                    Navigational Assistant Gr-III -01 No.
+                                     2              LHA -02 Nos.
+26   पहुँचनेकामाध्यम                 Travel to island in sea route from Port Blair by DSS vessel or
+                                     Departmental Vessel to Keating point Jetty, further travel by road in
+     Mode of approach
+                                     vehicle upto 5 Km to reach lighthouse.
+27   उपलब्धसविधाए                    Medical ,market etc and other basic facilities are available 15 KM
+                                     away from the station
+     Facilities available
+28   डाकपताPostal address            Assistant Engineer (E)
+                                     Keating Point Lighthouse
+                                     Mus village, Car Nicobar
+                                     Pin: 744301.
+29   मूल्यकाब्योराCost details       N/A
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          1969
+     Date of commissioning
+

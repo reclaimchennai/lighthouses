@@ -1,0 +1,43 @@
+{
+  "slug": "little-andaman-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Little Andaman Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1986,
+  "alol": "F 1214",
+  "position": {"lat_text": "10° 30.93' N", "lon_text": "92° 30.05' E", "lat": 10.5155, "lon": 92.500833},
+  "elevation_m": 50,
+  "characteristic_text": "fl (1) W 10 sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.25
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20 NM (unlabelled range)"},
+  "tower": {"type": "Circular RCC Concrete tower", "height_m": 46, "colour_scheme": "Blak and White Band"},
+  "optic": {
+    "make": "Vega", "model": "VRB-25 LED", "type": "Rotating Beacon", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": "Motor drive- 3Ph, electronically commuted 30 pole direct drive",
+    "rpm": null,
+    "rotates": true,
+    "rotates_evidence": "Type: Rotating Beacon; Rotation Device: Motor drive- 3Ph, electronically commuted 30 pole direct drive (R.P.M. blank)",
+    "divergence_horizontal_deg": 1.5,
+    "divergence_vertical_deg": 1.5,
+    "divergence_text": "1.5º (Horizontal), 1.5º (Vertical)",
+    "illuminant": "Electronic Flasher MF-12 (256 programmable character); High intensity LED diodes 6Watts; Standby: Marine Flashing Lantern MBL 160, Make MSM, lens dia 140mm"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "RACON section empty"},
+  "ais": {"present": true, "text": "NAIS Base Station 2 Nos-AIS1 & AIS2; Model R40, Class A, AC-230V & DC-12V, MMSI 4198004"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": true, "text": "Standby DG Set 15 KVA Kirloskar (20 BHP); Solar Plant-1 4.5 KWp, Solar Plant-2 1.8 KWp; solar for main and standby light 4 x 70 W/12V; Mains blank"},
+  "issues": [
+    "Optic R.P.M. left blank although a rotating beacon with motor drive is listed"
+  ]
+}

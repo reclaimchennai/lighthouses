@@ -1,0 +1,39 @@
+{
+  "nid": 2119,
+  "title": "Procurement of Glasspanes, Replacement of Glasspanes at Kodiakkarai Lighthouse station under Chennai directorate",
+  "summary": "E-tender for procurement and replacement of lantern glass panes at Kodiakkarai (Kodikkarai / Point Calimere) Lighthouse station, Tamil Nadu, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kodiakkarai Lighthouse station", "station_id": "kodikkarai-lighthouse", "kind": "lighthouse", "work": "Procurement and replacement of glass panes"}
+  ],
+  "scope": [
+    {"item": "Procurement of Glasspanes, Replacement of Glasspanes", "qty": null, "unit": null, "site": "Kodiakkarai Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 444338.0,
+    "emd_inr": 8886.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD as FDR (original)/Demand Draft from any nationalised/RBI approved bank in favour of Director, Directorate of Lighthouses and Lightships, Chennai, payable at Chennai, to reach tender inviting authority by 25.11.2025 15:00. Tender fee not mentioned."
+  },
+  "period": {"completion": "90 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-11-07", "pre_bid": "2025-11-21", "bid_submission_end": "2025-11-25", "bid_opening": "2025-11-26"},
+  "eligibility": [
+    "Bids invited from bonafide fabricators and registered contractors of State/Central/PSUs",
+    "Bid document to be signed by bidder on all pages and submitted with technical bid"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Tendernotice_1 (7).pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section I NIT only (printed pages 3-4); no file number, BOQ, glass-pane sizes or quantities printed. Download/bid submission 07.11.2025 to 25.11.2025 15:00; technical bid opening 26.11.2025 11:00. Published date taken from start of download period and the eProcure digital signature dated 2025-11-07. Station spelled 'Kodiakkarai'; matched to Kodikkarai Lighthouse in station list (point-calimere-lighthouse is listed separately)."
+}

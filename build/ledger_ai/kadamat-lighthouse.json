@@ -1,0 +1,44 @@
+{
+  "slug": "kadamat-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Kadamat Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1984,
+  "alol": "F-0755.5",
+  "position": {"lat_text": "11° 15.43″ N", "lon_text": "72° 47.44″ E", "lat": 11.257167, "lon": 72.790667},
+  "elevation_m": 34,
+  "characteristic_text": "Fl (4) White 20 Sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 4,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 16.8, "geographical_nm": null, "text": "16.8 Nm (unlabelled range)"},
+  "tower": {"type": "G I trestle tower", "height_m": 30, "colour_scheme": "White Band"},
+  "optic": {
+    "make": "MsM, Spain", "model": "MBL-160", "type": "LED Flasher", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Optic MBL-160, Type: LED Flasher",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High-intensity power LED 6W"
+  },
+  "intensity_cd": null,
+  "racon": {"present": true, "code": "G", "text": "Tideland Sea Beacon, Code G, Band X & S, installed 2008"},
+  "ais": {"present": false, "text": "NAIS: NIL"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "Mains 230V AC; emergency power source NIL; solar panels 70 W/12V x2 (main light), 70 W/12V x1 (RACON), 250W/24V x2 (automation)"},
+  "issues": [
+    "Position printed with seconds sign after decimal minutes (11°15.43″, 72°47.44″); converted as decimal minutes",
+    "Solar section headed 'Solar Plant: NIL' yet lists solar panels for main light, RACON and automation"
+  ]
+}

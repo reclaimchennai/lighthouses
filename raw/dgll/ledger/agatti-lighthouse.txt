@@ -1,0 +1,190 @@
+                               मास्टर ले जर/MASTER LEDGER
+क्रमसं/Sr                     नाम/Name
+   .No
+                                                                     वििरण/Description
+
+   1        ए.एल.ओ.एल/ A.L.O.L.                  F 0754.7
+
+   2        स्थान/ Position                      Lat.10° 52’3”N, long 72° 12’18” E
+
+   3        ऊंचाई/ Elevation                     35M (Above MSL)
+
+   4        अविलक्षण/Characteristic              Fl (30) W 30 sec
+
+            नॉविकल माइल में दू री                Luminous:11.3 NM
+   5
+            Range in miles                       Geographical:16.98 NM
+
+                                                 Type                      G I. Trestle tower on RCC Base
+            दीपस्तंि िािर/L.H. Tower
+   6                                             Height                    30M
+
+                                                 Colour Scheme             White Band
+
+                                                 Optic
+
+                                                                           Mediterraneo Senales
+                                                 Make
+                                                                           Maritimas (MsM)
+
+                                                 Model                     MBL 160
+
+                                                                           OCL 12LED with 3 Fresnel
+            ऑविकल उपकरण                          Type                      Elements arranged in 2 levels
+   7
+            Optical equipment                                              arrayed in circular way
+
+                                                                           140MM Lens Diameter)
+                                                 Size
+                                                                           (Methacrylate material)
+
+                                                 Flasher                   MF-12 Electronic Flasher
+
+                                                 Date of Installation      23.10.2012
+
+            प्रिािी बीम तीव्रता/Effective beam   Main
+   8        intensity
+                                                 Emergency
+
+                                                 Diameter
+
+                                                 Height of glazing
+   9        लेंिनन /Lantern
+                                                 No. of panes
+
+                                                 Ventilators
+
+   10       RACON                                       Sr. No               6574
+             Make                Model                          Code                       Band             Date of
+                                                                                                          Installation
+
+                              Sea Beacon -2
+            Tideland                                             B                          X+S           31.01.2008
+                                System 6
+
+11   NAIS                NA
+
+                                                                                   230V, 50 Hz,1 Փ
+                         Mains                                                     From Lakshadweep Electricity
+                                                                                   Department
+
+                         Solar Panel for Main Light
+
+                               Capacity PV        Numbers                      Type           Battery
+
+                                                                              Photo         12V,100 Ah
+                                12V,70W                    01
+                                                                              voltaic       (02 Nos)
+      ऊजान के साधन/      Solar Panel for Light Automation
+12
+     Source of energy           Capacity PV            Nos.             Type            Battery         Bank
+
+                                                                       Photo          12V,200Ah
+                                 24V,250W                  02                                            01
+                                                                       voltaic          (02 Nos)
+
+                         Solar Panel forRACON
+
+                                Capacity PV           Nos.             Type             Battery
+
+                                                                       Photo             01 No
+                                 12V,70W          01 No.
+                                                                       voltaic        12V/100AH
+
+     स्वचावलत िोल्टे ज स्टे बलाइजर/
+13
+     Automatic Voltage StabilizersN. A
+
+     बै िरी/ Batteries
+     Equipment                        Type       Make                  Volt             Amp/Hr.         Qty
+
+14   Main Light                      Solar Gel   Exide                  12V             100 Ah           02
+
+     Automation                      Solar Gel   Exide                  12V             200 Ah           02
+
+     RACON                           Solar Gel   Exide                  12V             100 Ah           01
+
+     बै िरी चाजनर/ Battery charger
+15           Equipment                Make       Model                 Type              Rating         Qty
+
+     General Purpose                    --            --                 --             12V, 25A         01
+                                         NHP Power
+          Automation                                       ---              ----        24V,20A            01
+                                          Systems
+
+16        इं ििन र/Inverter /UPS -N. A
+
+          स्वचलनउपकरण/ Automation Equipment
+
+                  MAKE               PLC      HMI          Power Supply                VSAT          Mode              Band
+                                                                                                      m
+     17
+                                              RENU                                   1.8m dia
+                                   Allen-
+                                            Electroni                                                Hughe
+                   RDS             Bradle                        24 V DC             Parabolic                          C
+                                              cs Pvt                                                   s
+                                      y
+                                               LTD                                   reflector
+
+                                                             Type of                  Capacity        Nos          Make
+          आवि शमन उपकरण/
+     18                                                    Extinguisher
+          Fire Fighting Equipment
+                                                         MAP90 N2 Based                 2Kg                3
+
+     19   संचार/ Communication                          Network providers: BSNL, Airtel
+
+                                                        01 Nos OpenWell
+     20   जल पू वतन/ Water Supply
+                                                        01 Nos Syntax water Tank
+
+                                                        Area                                         2320 m2
+     21   िूवम/ Land
+                                                        Demarcation                                  N. A
+
+                                                                                                     Twin units of
+                                                                                                     Qtrs.
+                                                        RCC Masonry Structure: 01 Nos                LHA Quarter
+     22   इमारतें/Buildings                                                                          now functioning
+                                                                                                     as Office Room
+
+                                                        Timber construction above plinth                        N. A
+
+                                                        -LED Street Light (02Nos,25W) fitted
+          कंपाउं ड लाइि/                                on G.I Pole
+     23
+          Compound Lights                               -10” Dome shaped gate light (02
+                                                        Nos,15W LED)
+
+          सीसीिीिी कमेरा/
+     24                                                 Camera                                       N. A
+          CCTV CAMERA
+
+                                                           Sl. No                         Designations
+     25   स्टाफ/Staff
+                                                               1.          Navigational Assistant Gr.III
+     पहुँ चने का माध्यम/             There is regular air service between
+26                                   Kochi/Mysuru/Bangaluru and Agatti. Island is well
+     Mode of approach                connected with Indian mainland by waterways.
+
+     उपलब्ध सुविधाए/                 Facilities like, Hospital, Schools, Police station, Post
+27
+     Facilities available            office etc. are there in Agatti Island
+
+                                     Station Incharge,
+
+                                     Agatti Lighthouse,
+28   डाक पता/Postal address
+                                     Agatti Island, U.T of Lakshadweep,
+
+                                     Pin: 682553
+
+     मूल्य का ब्योरा/Cost details
+29
+     (At the time of Construction)
+
+     प्रितननमे लाने का वदनांक/
+30                                   28.02.1986
+     Date of commissioning
+

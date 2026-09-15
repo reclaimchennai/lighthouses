@@ -1,0 +1,245 @@
+                   मास्टर लेजर/MASTER LEDGER
+क्रम        नाम /Name
+ सं
+ख्या/                                                     वििरण/Description
+Sr.N
+  o
+  1      ए.एल.ओ.एल/A.L.O.L.                                      F 0634
+  2        स्थान/Position                                   Lat. 140 49.2’ N
+                                                           Long. 740 03.7’ E
+ 3        ऊंचाई/Elevation                                         62 m
+ 4      अविलक्षण/Characteris                        fl. W 10 Sec. (fl 0.25, ec 9.75)
+                tic
+ 5       नॉविकलमाइलमेदूरी                        i)Luminous            :      24.8 NM
+           Range in miles                    ii)Geographical                :     20 NM
+
+ 6      दीपस्तंििािर/L.H.Tow            Type                         Circular Masonry Tower
+                  er
+                                       Height                                  20 m
+                                   Colour Scheme                       Red & White Bands
+ 7         ऑविकलउपकरण                  Optic                              Fresnel Lens
+         Optical equipment
+                                        Make                                         B.B.T.
+
+                                        Type                                 Revolving
+                                        Size                                700 mm (2nd order)
+
+                                     No. of lens                               2 (each 1440)
+
+                               Area of dioptric portion    5124 sq. cm.(corrected area 38880 sq.cm)
+
+                                 Area of catadioptric                      34,384 sq. cm.
+                                       portion
+                                     Divergence                    Horizontal – 4.480, Vertical – 3.260
+                                  Main/Emergency
+                                  Duration of Flash                          0.25 Sec.
+                                        Main
+                                /Standby/Emergency
+
+                                      Pedestal                      Mercury Float (222.26 Kg in use)
+
+                                  Rotation Device             Dual Stepper Motor 40 Kgcm 12 V
+                                                          DC Operated.Weight Driven clock machine
+                                                            with hand winding is kept as Standby
+
+                                       R.P.M.                                    3
+                                    illumining                3 x 70W Metal Halide Lamp cluster
+                                       Main
+                                     Standby                                  ----
+                                   Emergency:                                 -----
+                                Date of Installation
+8    प्रिािीबीमतीव्रता/Effect    Main & Standby                               703836 cd
+        ive beam intensity         Emergency
+9          लेंिनन /Lantern          Diameter                                3.65 m
+
+                                 Height of glazing                          3.05 m
+
+                                   No. of panes                      48 (3 different shapes)
+
+                                    Ventilators                               8
+10             RACON                  Sr. No                                 6295
+     Ma          Model                Code                    Band             Date of Installation
+     ke
+     Tid      Seabeacon2             Code‘D’                (X+S) Band                05.12.2005
+     ela    System 6 Racon
+     nd
+     Sr.
+     No.
+     63
+     00
+11                                                   NAIS
+           Base Station
+
+     Model          Type              Power                  MMSI
+     R-40        QWZR4-AIS      Exide home UPS;             4192235
+                  P/N:7000
+                 100-971 S/N
+                                  I/P24vdc;O/P
+                    5247             230VAC
+     Comm
+     unicati
+       on
+      Equip
+      ment
+      VSAT           Band            Modem
+     Antenn
+        a
+      2.4m           EX-C        Datum system
+       dia                             M7LT
+     Parabo                     Satellite Terminal
+       lic
+     reflect
+       or
+      DGPS
+     Transm     Frequency         Power Output           RS 1        RS -II ID      Beaco       Date of         Date of
+      itter                                               ID                         n ID     commissionin     Recapitaliz
+                                                                                                                 ation
+      Make                                                                                        g
+
+
+12   ऊर्ान के                      Mains
+     साधन/S                       Standby
+                                                                   Engine 1
+      ource
+                 Make/Type            Qty            Rating          No of Cylinder           RPM             Cooling
+       of
+                                      1            4 STROKE,             SINGLE               3000           FORCED AIR
+     energy     Kirloskar                          OVERHEAD             CYLINDER
+                                                      VALVE
+                                                     418 CC
+                                                1.65 LTR ENGINE
+                                                12.5 L FUEL TANK
+                                                                   Alternator
+                 Make/Type            Qty            Rating           Voltage/Amp           Frequency          Phase
+                 KIRLOSKAR            1           5 KVA @ 0.8PF          230 V                50 HZ      SINGLE PHASE
+                                                 (4KW) 230V 50
+                                                       HZ
+
+                                                                   Engine 2
+                 Make/Type            Qty            Rating          No of Cylinder           RPM             Cooling
+                 KIRLOSKAR            1              DAF8                SINGLE               1500           FORCED AIR
+                                                     8 BHP              CYLINDER
+                                                   4 STROKE
+
+                                                                   Alternator
+                 Make/Type            Qty            Rating           Voltage/Amp           Frequency          Phase
+                 KIRLOSKAR            1           230 V 50HZ             230 V                50HZ       SINGLE PHASE
+                                                    5KVA                  20 A
+                                                     20A
+                                  Solar Plant
+                        Capacity PV                 Numbers               Type               Battery           Bank
+                          100 W                         54                JJPV
+                                                                                         Exide
+                                                                                       powersafe
+                        Solar Plant for Main RACON
+                        Capacity PV                 Numbers               Type               Battery           Bank
+                          70W                           1             TATA BP            Exide
+                                                                                       powersafe
+13                                             स्वचावलतिोल्टे र्स्टे बलाइर्र
+                                              Automatic Voltage Stabilizers
+
+     M          Model              Capacity          Input               Output               Phase             Qty
+     ak
+     e
+      -           -                       -             -                       -                -               -
+14                                                            बैिरर
+                                                            Batteries
+     Equip          Type         Make           Volt         Amp/Hr               Qty
+     ment
+     MAIN          VRLA          EXIDE           2V          500 AH               36
+     LIGHT
+      PSS          VRLA          EXIDE           2V          500 AH               72
+      NAIS
+     Gense          DRY          KOEL           12 V          32 AH               1
+        t        MAINTENAN
+                  CE FREE
+     Auto          VRLA          EXIDE          12V          150 AH               6
+     matio
+      n
+     DGPS            -             -              -             -                  -
+15                                       बैिररचार्नर/ Battery charger
+
+     Equipm         Make        Model          Type          Rating               Qty
+       ent
+     General
+     Purpose
+     Automa
+       tion
+16                                      इं वर्ट रInverter /UPS
+     Equi    N Make               Model              Type    Rating        Qt          inpu     output
+     pme     o                                                             y             t
+      nt     s
+     Mai     1 ESSMA        SINE WAVE HOME UPS         INV      800VA         1        12V       230 V
+       n
+     Ligh
+       t
+     NAI     1    EXIDE         DST PST UPS            UPS     1450 VA        1        24V       230 V
+       S
+     PSS
+     DGP
+       S
+17                                         स्वचलनउपकरण
+                                        Automation Equipment
+     MAK     PLC      HMI          Power Supply         VSAT             Mode                  Band
+      E                                                                    m
+     NELC    SC
+              MAGELI                   24V SMPS              PARABOLI    Skyedg               X band
+      O      HN  S                                            C DISH        e
+             EID
+              TELECO                                                      gilat
+             ER
+              MMUNI
+               QUE
+18     आविशमनउपकरण                  Type of             Capacity        Nos                   Make
+                                  Extinguisher
+                                 DCP Type(u/s)
+         Fire Fighting        DCP Type(u/s)
+          Equipment          Foam Type(u/s)
+                             Water Type(u/s)
+                                DCP Type
+                              FIRE BUCKET                  9L          4
+
+19         संचार
+       Communication
+20        र्लपूवतन             2 Nos. open wells provided with electric water    pump. 6 Nos.
+        Water Supply                        rainwater collection tanks provided.
+
+21           िूवम                              Area                            1 acre approx.
+             Land                        Demarcation                               Not done
+
+22          इमारतें          One unit of Inspection Qtrs. and HLK
+           Buildings                         Qtrs.
+                                   two units of ALK Qtrs.
+                                     4 Unit of LHA Qtrs.
+                                     One Safaiwala Qtrs.
+                                      Oil and storeroom
+                               observation cabin & workshop
+
+23       कंपाउं डलाइि                           5
+       Compound Lights
+24      सीसीिीिीकमेरा                         Camera                                   None
+        CCTV CAMERA                            DVR
+25          स्टाफ               Sl. No                              Designations
+             Staff                1                         Navigational Assistant Gr.-II
+                                  2                        Navigational Assistant Gr.-III
+                                  3                           Lighthouse Attendent
+26      पहुँ चनेकामाध्यम              By rail upto Karwar and 11 Km by sea upto Lighthouse.
+      Mode of approach
+27      उपलब्धसुविधाए         Marine Police                            Within 15 km
+      Facilities available       Station
+                               Dispensary                              Within 15 km
+                               High School                             Within 15 km
+                                Post office                             Within 15 km
+28   डाकपताPostal address                                 Head Lightkeeper,
+                                                        Oyster Rocks Lighthouse
+                                                        R/T Building, Kaju Baug,
+                                                       Post Karwar, Dist. Kanera,
+                                                             PIN – 581 301.
+29      मूल्यकाब्योराCost      Not available
+             details
+         (At the time of
+          Construction)
+30   प्रितननमेलानेकादे नां क       1934
+             Date of
+         commissioning
+

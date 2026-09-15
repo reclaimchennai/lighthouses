@@ -1,0 +1,59 @@
+{
+  "nid": 618,
+  "title": "Shifting of Powerhouse to Existing ALK Quarter at Manakodam Lighthouse",
+  "summary": "Notice inviting quotations to dismantle, shift, reinstall and commission the 7.5 kVA DG set, 5 kW solar plant and power panels from the powerhouse to an existing ALK quarter (temporary powerhouse) at Manakkodam Lighthouse, Alleppey district.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-10001/1/2019-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Manakkodam Lighthouse, P.O. Andhakaranazhi, Pattanakkadu, Alleppey (Dist)", "station_id": "manakkodam-lighthouse", "kind": "lighthouse", "work": "Shifting of powerhouse equipment (DG set, solar plant, panels) to existing ALK quarter with earthing, cabling and DG shed"}
+  ],
+  "scope": [
+    {"item": "Earthing with G.I. earth plate 600x600x6 mm with masonry enclosure, watering pipe, charcoal/salt (for DG set, lightning conductor for solar panel and LT panel)", "qty": "4", "unit": "Set", "site": "Manakkodam Lighthouse"},
+    {"item": "Supplying and laying 25x5 mm G.I strip 0.50 m below ground as strip earth electrode (4 earths, 15 m each)", "qty": "60", "unit": "metre", "site": "Manakkodam Lighthouse"},
+    {"item": "Provision of SMC junction boxes (Sintex make) and termination of cables at first landing of tower and at temporary power house", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Dismantling of 7.5kVA DG set, EAMF panel, voltage stabilizer and all electrical/electronic switchgear and wiring", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Shifting of 7.5kVA DG set, EAMF panel, voltage stabilizer and switchgear to ALK Quarter (rain water tank slab to be DG foundation after demolition of tank)", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Installation of 7.5kVA single phase DG set, EAMF panel, voltage stabilizer, LT panel and switchgear incl. wiring and terminations in temporary power house", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Fabrication and fixing of DG shed shelter with GI sheet, 3m x 3m, square tube truss", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Dismantling of 5kW solar panels including GI stand and wirings", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Shifting of 5kW solar panels including stand and wirings to temporary store", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Installation of 5kW solar panels including GI stand on concrete base on top of temporary powerhouse", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Earthwork excavation and 1:2:4 concrete foundation with post pipe for ladder type cable supporting pole", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Fabrication of ladder type cable supporting pole with 3 inch GI medium class pipe, 10 m height", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Temporary meter shifting and temporary connection charges to KSEB with switchgears from pump house 3Ph feeder", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Supply of 4C x 6 sqmm aluminium XLPE PVC sheathed unarmoured cable, 650/1100V, IS 7098 (Part 1)", "qty": "150", "unit": "meter", "site": "Manakkodam Lighthouse"},
+    {"item": "Labour charges for overhead laying of flexible aluminium cable incl. termination and GI stay wire", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Miscellaneous items (screws, bolts, nuts, washers, drill bits, cable ties, bends, tees, cable glands, PVC junction boxes etc.)", "qty": "1", "unit": "LS", "site": "Manakkodam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 213638.0,
+    "emd_inr": 4273.0,
+    "tender_fee_inr": null,
+    "performance_security": "10% of the tendered amount/value",
+    "notes": "Refundable EMD by DD/FDR in original in favour of Director, Lighthouses and Lightships, Cochin; NSIC/MSME registered firms exempted. Rates to show basic cost and taxes separately; no escalation. 100% payment within 30 days of satisfactory completion. L1 on consolidated total of schedule."
+  },
+  "period": {"completion": "30 days from the date of work order", "bid_validity": "45 days from the date of opening of quotations", "warranty": "Warranty for each item to be specified by bidder"},
+  "dates": {"published": "2022-11-18", "pre_bid": null, "bid_submission_end": "2022-12-05", "bid_opening": "2022-12-05"},
+  "eligibility": [
+    "EMD in original or NSIC/MSME registration certificate",
+    "Work experience of equivalent/similar electrical works of NIQ value or higher (supply orders/work completion)",
+    "Last 3 years income tax returns, PAN card, GST registration certificate"
+  ],
+  "specs": [
+    "7.5 kVA single phase DG set with EAMF panel, voltage stabilizer, LT panel",
+    "5 kW solar plant",
+    "4C x 6 sqmm XLPE aluminium cable to IS 7098 (Part 1) 1988; GI plate and strip earthing"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "4174ffdb-a846-43dd-85bc-42c7dd9c4297.pdf", "pages": 6, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIQ dated 17.11.2022. Download 18.11.2022 09:00 to 05.12.2022 14:00; submission 18.11.2022 14:00 to 05.12.2022 15:00; opening 05.12.2022 16:00. Terms clause says quotation to reach by 12:00 on 05.12.2022, conflicting with the 15:00 in the table. Listing shows end 2022-12-15 and opening 2022-11-17 (the NIQ date), which do not match the document. Title spells Manakodam; body also uses Manakkodam."
+}

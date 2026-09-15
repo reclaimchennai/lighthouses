@@ -1,0 +1,41 @@
+{
+  "slug": "samiyani-island-lighthouse-station",
+  "pages_read": [1, 2],
+  "name": null,
+  "station_type": "lighthouse",
+  "established_year": 1876,
+  "alol": "F 0390",
+  "position": {"lat_text": "22° 29 3\" N", "lon_text": "69° 05' 2\" E", "lat": 22.484167, "lon": 69.083889},
+  "elevation_m": 22,
+  "characteristic_text": "Flashing (W) every5 sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W", "R"],
+    "period_s": 5,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": "W160° (057-217) W 13° (247-260) R 30° (217-247) R 30° (260-290) W 79° (290-009)",
+  "range": {"luminous_nm": 11, "geographical_nm": 9, "text": "Luminous 11 NM, Geographical 09 NM"},
+  "tower": {"type": "Round stone masonry tower", "height_m": 20, "colour_scheme": "White"},
+  "optic": {
+    "make": "Sealite, Australia", "model": "SL-155, 2.5D", "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Optical equipment: Sealite SL-155 2.5D lantern, 'White flash every5 sec'; battery/solar powered, no rotation device",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "12 V, 100 Ah Battery charged by 120 watt solar panel (JJ PV) with Sukam SC-12-24-48/45A controller; automation solar 335W x 2"},
+  "issues": ["No station name printed; address is 'C/o Station in-Charge, Okha Lighthouse and VTS Station'", "Latitude printed '22°29 3\"N' with missing minute mark; read as 22° 29' 3\"", "Characteristic says white flashing only but visibility sectors include red sectors", "Date of commissioning: original 1876, present lighthouse 1927"]
+}

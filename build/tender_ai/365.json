@@ -1,0 +1,44 @@
+{
+  "nid": 365,
+  "title": "Civil maintenance to the Lighthouse, allied buildings and compound wall at Vembar Lighthouse.",
+  "summary": "E-tender for civil maintenance of the lighthouse tower, allied buildings and compound wall at Vembar Lighthouse, Tuticorin district, Tamil Nadu, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(21)/1/2021-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, 5/20 Jaffer Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Vembar Lighthouse, Tuticorin district, Tamilnadu", "station_id": "vembar-lighthouse", "kind": "lighthouse", "work": "Civil maintenance of lighthouse, allied buildings and compound wall"}
+  ],
+  "scope": [
+    {"item": "Civil maintenance to the Lighthouse, allied buildings and compound wall", "qty": null, "unit": null, "site": "Vembar Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 647770.0,
+    "emd_inr": 12955.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": null,
+    "notes": "Estimated cost includes 18% GST. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships, Chennai, valid three months from technical bid opening; tender fee (non-refundable) by DD. Originals due by 22.09.2022 15:00."
+  },
+  "period": {"completion": "03 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2022-09-08", "pre_bid": "2022-09-15", "bid_submission_end": "2022-09-22", "bid_opening": "2022-09-26"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Government/PSU/autonomous bodies",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; value updated at 7% simple per annum; certificates from officers below Executive Engineer not considered",
+    "Similar works: repairs and civil maintenance of building or construction of any building/compound wall/retaining wall/CC road",
+    "PAN/ITCC/GST registration",
+    "Key technical personnel for supervision and execution with qualifications and experience",
+    "Unconditional tender undertaking (Annexure III); tender acceptance letter (Annexure II); non-blacklisting affidavit",
+    "List of relatives serving in Ministry of Ports, Shipping and Waterways or DGLL"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "tender 2_0.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only; no BOQ. Hindi text layer garbled but English values legible. Bid download/submission 09.09.2022 10:00 to 22.09.2022 15:00. Listing gives no bid opening date; NIT says 26.09.2022 15:00."
+}

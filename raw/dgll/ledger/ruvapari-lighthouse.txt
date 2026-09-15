@@ -1,0 +1,154 @@
+                     मास्टर लेजर/MASTER LEDGER
+
+                                रुवापरी दीपस्तंभ / Ruvapari Lighthouse
+
+क्रमसंख्या/             नाम /Name
+                                                                          वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0456
+     2        स्थान/Position                     Lat 21º 46.7' N Long 72º 14.0' E
+    3         ऊंचाई/Elevation                    20M (Above MSL)
+    4         अभिलक्षण/Characteristic            Fl (W) 12Sec. (0.5 + 11.5 = 12Sec)
+    5         नॉटिकलमाइलमेदरू ी                  11 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                           Grey hut o piles
+                                                 Height                         10M
+                                                 Colour Scheme                  Grey
+    7         ऑप्टिकलउपकरण                       Optic
+              Optical equipment                  Make                           Chance Brother
+                                                 Type
+                                                 Size                           300 mm
+                                                 No. of lens
+                                                 Area of dioptric portion
+                                                 Area of catadioptric portion
+                                                 Divergence                     3º 26.18'
+                                                 Main/Emergency
+                                                 Duration of Flash              0.5 Sec
+                                                 Main /Standby/Emergency
+                                                 Pedestal                       40 feet wrought iron tapering mast
+                                                                                fixed Screw Pile
+
+                                                 Rotation Device
+                                                 R.P.M.
+                                                 Illuminant                     SL 155 LED LANTERN
+                                                 Main
+                                                 Standby
+                                                 Emergency:
+                                                 Date of Installation
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                           3817 Candela
+              intensity                          Emergency
+    9         लेंिनन/Lantern                     Diameter                       300mm
+                                                 Height of glazing
+                                                 No. of panes
+                                                 Ventilators
+     10   RACON                                     Sr. No
+          Make                Model             Code                          Band                       Date of
+                                                                                                         Installation
+
+     11   NAIS –NA
+          Base Station
+
+          Model               Type              Power                         MMSI
+
+          Communication
+          Equipment
+          VSAT Antenna        Band              Modem
+
+          DGPS
+          Transmitter Make    Frequency         Power Output RS 1 ID          RS -II      Beacon         Date of      Date
+                                                                              ID          ID             commis       of
+                                                                                                                      Reca
+                                                                                                         sioning      pitali
+                                                                                                                      zatio
+                                                                                                                      n
+
+
+
+     12   ऊर्ानकेसाधन/Sour    Mains                                           NA
+          ce of energy        Power Source                                    Solar Powered Light
+                              Engine 1
+                              Make/Type                    Qty       Rating   No of            RPM              Cooling
+                                                                              Cylinder
+
+                              Alternator
+                              Make/Type                    Qty       Rating   Voltage/Amp      Frequency        Phase
+
+
+                              Solar Plant For Main Light
+                              Capacity PV                  Numbers            Type       Battery                Bank
+                              12V/70W                      03                 mono       12V / 200 AH           NA
+                              Solar Plant for Main RACON
+                              Capacity PV                  Numbers            Type       Battery                Bank
+
+
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make               Model              Capa       Input              Output               Phase        Qty
+
+14        बैिरर
+          Batteries
+          Equipment          Type               Make        Volt              Amp/       Qty
+                                                                              Hr
+          PSS NAIS                   -              -                -           -                   -
+          Genset
+          Automation
+     DGPS
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make               Mode Type                           Ratin    Qty
+                                             l                                   g
+     General Purpose
+     Automation
+16   इंवटट रInverter /UPS
+     Equipmen Nos Make               Model                    Type               Rating     Qty input          outp
+     t                                                                                                         ut
+     Main            ---  ---                    ---                ---             ---         ---   ---        ---
+     Light
+     NAIS PSS
+     DGPS
+
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE          PLC              HMI           Power Supply            VSAT     Modem           Band
+     RDS           Allen Bradley    RENU          24 V                             Microwave Link
+18   आप्ननशमनउपकरण                           Type of Extinguisher         Capacity       Nos      Make
+     Fire Fighting Equipment                 DCP Type,ABC                 4 kg           2
+                                             Water Co2                    -              -
+                                             Foam Type                    -              -
+19   संचार                                   Not Available
+     Communication
+20   र्लपूर्तन                               Syntex Rain Water Tank -02 Nos,500 Ltr Each
+     Water Supply
+21   िूभम                                    Area                                         400sq. feet constructed
+                                                                                          area
+     Land
+                                             Demarcation                                  Located Near Bhavnagar new
+                                                                                          port
+22   इमारतें
+                                             Wooden Structure on Wooden Pillar
+     Buildings
+23   कंपाउं डलाइि
+     Compound Lights
+24   सीसीिीिीकमेरा                           Camera
+      CCTV CAMERA                            DVR
+25   स्िाफ                                   Sl. No        Designations
+     Staff                                   1             Attended by Outsourced staff
+
+26   पहुँचनेकामाध्यम                         By road from 15 Km Bhavnagar, (By walk 3km in mud up to
+                                             LH)
+     Mode of approach
+27   उपलब्धसविधाए                    Nil
+     Facilities available
+
+
+
+
+28   डाकपताPostal address             C/o. Ghogha light house, P.O. Ghogha ,Dist: Bhavnagar
+
+29   मल्ू यकाब्योराCost details      Cost of Construction : 70000/-, Cost of Equipments :
+                                     450000/-
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          1891
+     Date of commissioning
+

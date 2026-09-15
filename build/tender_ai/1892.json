@@ -1,0 +1,43 @@
+{
+  "nid": 1892,
+  "title": "Soil investigation for establishment of new Lighthouse RCC tower 25mtr height at Bogibeel, Assam",
+  "summary": "E-tender for soil investigation ahead of building a new 25 m RCC lighthouse tower at Bogibeel, Assam, issued by the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Bogibeel, Assam", "station_id": null, "kind": "lighthouse", "work": "Soil investigation for proposed new 25 m RCC lighthouse tower"}
+  ],
+  "scope": [
+    {"item": "Soil investigation for establishment of new Lighthouse RCC tower 25mtr height", "qty": null, "unit": null, "site": "Bogibeel, Assam"}
+  ],
+  "money": {
+    "estimated_cost_inr": 634840.0,
+    "emd_inr": 12680.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata, valid three months from technical bid opening; exemption not allowed. Original EMD due date printed as 18/04/2025 in item 4 but 19/05/2025 15:00 in item 7. Tender fee Nil."
+  },
+  "period": {"completion": "60 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-04-28", "pre_bid": "2025-05-13", "bid_submission_end": "2025-05-19", "bid_opening": "2025-05-20"},
+  "eligibility": [
+    "Valid registration of appropriate class in appropriate category (building civil work) with Central Govt department/undertaking/autonomous body or State Govt",
+    "Similar works in last 7 years: three works each >= 40% of estimated cost, or two >= 50%, or one >= 80%; values enhanced at 7% simple per annum; client certificates required",
+    "Similar works: soil investigation for building construction",
+    "Valid PAN and GST registration",
+    "Notarised affidavit (2025) of not being blacklisted or debarred; undertaking that price bid is unconditional",
+    "ITR for FY 2021-22, 2022-23 and 2023-24; tender acceptance letter; other documents per Section VI"
+  ],
+  "specs": ["Proposed new RCC lighthouse tower of 25 m height"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITBGL.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled (font mojibake); English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "NIT only (printed pages 3-6); no scope details, borehole count or BOQ. No file/reference number or date printed. Download period 28/04/2025 11:00 to 19/05/2025 11:00 while submission closes 15:00. EMD original due date 18/04/2025 predates the download start (apparent error). Bogibeel is an inland (Brahmaputra) site not in station list."
+}

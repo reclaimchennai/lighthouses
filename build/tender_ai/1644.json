@@ -1,0 +1,32 @@
+{
+  "nid": 1644,
+  "title": "Special Repair and Civil Maintenance of Lighthouse Tower, Compound wall etc. at Karaikal Lighthouse.",
+  "summary": "Corrigendum extending the bid deadline for special repair and civil maintenance of the lighthouse tower and compound wall at Karaikal Lighthouse, Chennai Directorate.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(10)/1/2021-Civil Maintenance; Tender ID: 2024_DGLL_810648_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Karaikal Lighthouse", "station_id": "karaikal-lighthouse", "kind": "lighthouse", "work": "Special repair and civil maintenance of lighthouse tower, compound wall etc."}
+  ],
+  "scope": [
+    {"item": "Special Repair and Civil Maintenance of Lighthouse Tower, Compound wall etc.", "qty": null, "unit": null, "site": "Karaikal Lighthouse"}
+  ],
+  "money": {"estimated_cost_inr": null, "emd_inr": null, "tender_fee_inr": null, "performance_security": null, "notes": null},
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": "2024-07-18", "bid_opening": "2024-07-19"},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-07-03", "change": "Extension of last date: bid download and online submission extended up to 18.07.2024 15:00; bid opening 19.07.2024 15:00. All other terms unchanged."}
+  ],
+  "documents": [
+    {"file": "EXTKaraikalCM24.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only the date-extension corrigendum is attached. The original NIT (dated 07/06/2024, estimated cost Rs 4,95,970, EMD Rs 9,920) is listed separately as nid 1602. Hindi header text layer has broken conjuncts; English text complete."
+}

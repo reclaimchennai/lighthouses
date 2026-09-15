@@ -1,0 +1,50 @@
+{
+  "nid": 1884,
+  "title": "Comprehensive Annual Maintenance Contract (CAMC) of Air Conditioning Plants at 'Deep Bhawan', of Goa Directorate - Reg.",
+  "summary": "Short-duration GeM service bid for a one-year comprehensive annual maintenance contract covering 17 split air conditioners at the Deep Bhavan office of the Goa Directorate, Bambolim.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/6005358",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Goa"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, Near GMC Stadium, Bambolim, Goa 403202", "station_id": null, "kind": "office", "work": "CAMC of 17 air conditioners"}
+  ],
+  "scope": [
+    {"item": "CAMC of Voltas inverter AC, 1.5 ton, purchased 2022", "qty": "9", "unit": "nos", "site": "Deep Bhavan, Goa"},
+    {"item": "CAMC of Voltas inverter AC, 1.5 ton, purchased 2019", "qty": "4", "unit": "nos", "site": "Deep Bhavan, Goa"},
+    {"item": "CAMC of IFB inverter AC, 1.5 ton, purchased 2019", "qty": "3", "unit": "nos", "site": "Deep Bhavan, Goa"},
+    {"item": "CAMC of Lloyd non-inverter AC, 1.5 ton, purchased 2019", "qty": "1", "unit": "nos", "site": "Deep Bhavan, Goa"}
+  ],
+  "money": {
+    "estimated_cost_inr": 125000.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 14 months",
+    "notes": "Estimated bid value per GeM. GeM bid says EMD not required, but buyer ATC asks for EMD (BG/FDR/DD valid at least 3 months) or bid security declaration (Form 6) from MSME bidders. All spare parts and refrigerant gas included in quoted amount. Penalty 1% of contract value for the quarter if an AC is not rectified within three days of complaint. Bills with job sheets quarterly. MSE purchase preference applies."
+  },
+  "period": {"completion": "Contract period 1 year", "bid_validity": "90 days from bid end date", "warranty": null},
+  "dates": {"published": "2025-03-26", "pre_bid": "2025-04-01", "bid_submission_end": "2025-04-05", "bid_opening": "2025-04-05"},
+  "eligibility": [
+    "Minimum average annual turnover (3 years): Rs 5 lakh",
+    "3 years past experience of similar services to Central/State Govt/PSU (GeM); ATC asks minimum 2 years with Central/State Govt, local administration, Govt undertaking or private firm",
+    "Past similar services: three >= 40%, two >= 50% or one >= 80% of estimated cost",
+    "MSE and startup exemption from experience and turnover",
+    "Only local bidders within Goa suburb area considered; office of service provider in Goa (GST registration in Goa or incorporation/shop proof)",
+    "Proof of similar works in last seven years; non-blacklist affidavit (Form 5); tender acceptance letter (Form 3); undertaking (Form 4)",
+    "Dedicated/toll-free service telephone number and escalation matrix"
+  ],
+  "specs": [
+    "GeM category: Annual Maintenance service - Air Conditioner (IS 1391), high wall split AC, Voltas, 1.5 ton, inverter, vintage up to 5 years, comprehensive AMC, functional at time of bidding",
+    "Routine monthly check with dry cleaning; quarterly servicing with wet cleaning; complaint response within 24 hours (up to three days if spares unavailable)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "document - 2025-04-01T144834.130.pdf", "pages": 17, "read": "mixed", "language": "bilingual", "unreadable": ["ATC 'Page 4 of 12' not present in the PDF"]}
+  ],
+  "confidence": "high",
+  "notes": "PDF = 6-page GeM bid document plus scanned 12-page buyer ATC/item specification (OCR layer poor; AC table and cover read from images). Page 4 of 12 missing. Short duration bid citing emergency procurement. Pre-bid and AC inspection at Deep Bhavan, Bambolim (inspection 11:30-16:00 on working days). Bid end 05-04-2025 12:00, opening 12:30. GeM spec lists all 17 units as Voltas inverter although ATC table includes IFB and Lloyd units. Consignee officer name, personal e-mail and mobile numbers in the GeM document not recorded [personal contact removed]. PBG form note says 'three percent (5%)'."
+}

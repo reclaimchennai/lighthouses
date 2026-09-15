@@ -1,0 +1,44 @@
+{
+  "slug": "menchal-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Menchal Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2004,
+  "alol": "F 1223.8",
+  "position": {"lat_text": "7° 23.75' N", "lon_text": "93° 45.63' E", "lat": 7.395833, "lon": 93.7605},
+  "elevation_m": 47,
+  "characteristic_text": "Fl (1) W 10 Sec (fl 0.8)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "fl 0.8",
+    "sequence_s": null,
+    "flash_duration_s": 0.8
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 10, "geographical_nm": null, "text": "10 NMiles (unlabelled range)"},
+  "tower": {"type": "G I Trestle Tower", "height_m": 30, "colour_scheme": "Red and White Bands"},
+  "optic": {
+    "make": "Sealite", "model": "SL155-5D", "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; R.P.M.: NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "RACON NA"},
+  "ais": {"present": false, "text": "NAIS section blank (only 'VSAT Antenna Prodelin 2.4 meter' label)"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": false, "text": "Solar plant 70 W x 01 Mono Crystline, 12V/100AH battery; mains/standby blank; engine rows blank/dashes"},
+  "issues": [
+    "Rotation Device field reads 'White Flashing Light'",
+    "established_year taken from date of commissioning 28/03/2004"
+  ]
+}

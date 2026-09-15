@@ -1,0 +1,176 @@
+                     Machilipatnam Lighthouse
+                                    Estd.1858
+                                       MASTER LEDGER
+
+
+1. Name                                : MACHILIPATNAM LIGHTHOUSE
+
+2. Sr.No. (In A.L.O.L)                 : 0955
+3. Position                            : Lat:16o 14' 48'' N
+                                         Long: 81o 14' 00'' E
+
+4. Elevation                           : 50.56 Mts. above MSL
+5. Characteristic.                     :Gr. FL(3) W.20 Seconds
+                                        F1 0.5, EC 2.0,F2 0.5, EC 2.0, F3
+                                        0.5,EC 14.5 sec.)
+
+6. Range in nautical miles
+      i) Luminous                      : 20 NM
+      ii) Geographical                 : 16.5 NM
+
+7. Lighthouse Tower
+       i) Type                         : Circular R.C.C.Tower
+       ii) Height                      : 50 Mtr.
+       iii) Colour Scheme              : Black and White bands
+
+8. Optical Equipment
+
+a)      i) Make                        : MBR 300 MSM
+        ii) Date of installation       : 01 -07-2010
+        iii) Size                      : Focal lenth 105 mm,150 W/220 V AC MH Lamp
+        iv) No.of Panels               : 3 Nos.
+        v) Divergence Main             : Horizontal : 90, Vertical : 90
+        vi) Duration of flashMain      : 0.5 seconds
+
+b) Rotation Speed                      : 3 RPM
+    c) Illuminant
+         i) Main/Service               : 150 Watts Metal Halide Lamps
+         ii) Date of installation      : 03 -07-2015
+D) Effective Beam Intensity
+         i) Main/Service               : 1,66,000cds
+
+9. Lantern
+       i) Diameter                     : 3.0Mtrs
+       ii) Height of glazing           : 2.0Mtrs
+       iii) No. of panels              : 12 Nos. (2 panes blanked) Reglazing: 12-08-1992
+        iv)Ventilators              : 11 Nos.(8 Nos. hit and miss Ventilators) (3 No.
+                                    Exhaust Fans)
+
+10. Main-Light UPS                  : 1 No.
+       i) Make                      : UTL
+       ii) Capacity                 : 800 VA
+       iii) Input                   : 12 V DC
+       iv) Output                   : 230V AC
+       v) Model Number              : UTL Combo
+                           .
+
+11. Energy Source
+A) APCPDCL
+        i) Mains                    : 3 phase 440 V,50 Hz
+B) Green Energy                     : 0.48 KW off grid solar system for Main-light
+        i) Solar Panels             : 6 Nos. 12V/80 W Panels (TATA BP Make)
+        ii) Battery Bank            : Nos. 2V/900 AH Battery Bank (TATA BP Make)
+        iii) PCU                     : UTL Make 1 KVA 12 V UPS
+
+12. Battery Charger                 : 1No.
+       i) Make                      : Blue Line
+       ii) Capacity                 : 36 Amps
+       iii) Input                   : 220V-250V
+       iv) Output                   : 18 V DC
+
+13. Details of Diesel Engine Generators
+        i) Make                     : Kirloskar
+        ii) Model No.               : KG12AS4(Canopy)
+        iii) Rating                 : 15 KVA
+        iv) Frequency               : 50 Hz
+        v) Phase                    : Single Phase
+        vi) RPM                     : 1500
+        vii) Cooling                : Air Cooling
+
+14. Diesel Engine Alternator
+       i) Make                      : Kirloskar
+       ii) Capacity                 : 15 KVA
+       iii) Voltage                 : 240 V
+       iv) Frequency                : 50 Hz
+       v) Phase                     : Single Phase
+       vi) RPM                      : 1500
+15.Servo Stabilizer                       : 1 No.
+       i) Make.                            : Supra Hi-tech Electro Equipments Pvt Ltd.
+       ii) Model.                         : SH -3120W
+       iii) Capacity                      : 12KVA
+       iv) Input.                         : 200V - 240V
+       v) Output.                         : 230V
+
+16.AMF Panel
+     i) Make                              : Elect. India
+     ii) Model                            : EMF 15KM3G1-ICFCDM02
+     iii) Capacity                        : 15 KVA
+
+17. NAIS Equipment
+          i) Make                : M/S SAAB
+          AIS R40 Base Station : S1 No.5320
+          AIS R40 Base Station : S1 No.5231
+                   (Connected with Cisco Switch and PSM-500L Satellite Modem)
+          V-SAT Dish Size                 : 2.4Mtr. Dia
+          VHF Antenna                     : 2 Nos.
+          GPS Antenna                     : 2 Nos.
+          Date of Commissioning           : 01-05-2012
+          Back up for NAIS
+       i)      Numaric make 1 KVA UPS with 2 Nos. 150 Ah Battery(installation on Dt:03.02.2013)
+
+
+
+1. Automation of Lighthouse.
+       Make                               : M/S Recktronics Devices & Systems, Pune.
+       RDS Panel                          : 1No. in power House.(S.No.1608)
+       RDS Panel                          : 1No. in Service Room.(S.No.1603)
+       VSAT Antenna                       : 1.2Mtr. Dia
+       Date of Commissioning              : 18-02-2013
+
+19. Street Light                           : 11 Nos. G.I. poles with 25W LEW fittings, 2 Nos. Gate
+                                          Lights
+
+20. Firefighting Equipment
+          Fire Extinguishers
+         i) D.C.P. Type(3.2 kg Capacity): 1No
+         ii) Foam Type                    : 2 Nos.(9 Liters Capacity)
+         iii)Fire Buckets                 : 4 Nos.
+
+ 21.Communication Facility                : BSNL Telephone No.08672-242233 with Broad band
+                                          internet. NA-I Mobile No.E-mail :machilipatnam-
+                                          vizag@dgll.nic.in
+22.Water Supply                      :Open well is provided with electric pump set of 1HP with
+                                     over head tank and supply to Buildings.(Pump set ‘Texmo’
+                                     Make Mono block type)
+
+23.Land
+           i) Area                   : 1.210 Hectares
+           ii) Demarcations          : Compound wall
+           iii) No. of fruit trees   : 21 Nos.
+           iv) No. of non fruit
+                nearing trees        : 84 Nos.
+
+24.Buildings                         :Lighthouse tower, Powerhouse, one unit of Inspection
+                                     quarter, one unit of NA-I quarter, one twin unit of NA-II
+                                     quarter and one twin unit of LHA and LHS quarter, one unit
+                                     of Jeep Driver quarter.
+25.Staff                             : i) NA-I-1 No.
+                                       ii) NA-II-1 No.
+                                       iii) NA-III-1 No.
+                                       iv) LHA-1 No.
+                                       v) Field Assistant -3 Nos(Outsource)
+                                       vi) Security guard-3 Nos(Outsource)
+
+
+26.Mode of approach                  : By Rail up to Machilipatnam and then by Auto
+                                     to Lighthouse for about 10 Km or by S.T.Bus up
+                                     to Machilipatnam and then by auto up to
+                                     Lighthouse.
+27.Facilities Available              : a) Post office within 4 Km (tallapalem P.O)
+                                       b) Govt. Hospital within 15 Km (Machilipatnam)
+                                       c) Govt. School within 6 Km (Gokavaram)
+                                       d) Nationalized Bank within 15 Km (Canara Bank,
+                                          Machilipatnam)
+28.Postal Address                    : The Navigational Assistant Gr-I,
+                                       Machilipatnam Lighthouse, BeachRoad,
+                                     TallapalemPost, Via
+                                     Chilakalapudi, Dist. Krishna, Andhra Pradesh, PIN-
+                                     521002.
+29.Cost Details
+       i) Construction                       : Rs.26,86,434/-
+       ii) Cost of Equipment                 : Rs.12,97,005/-
+30. Year First Light Commissioned            : 1858
+
+31. Commissioning of Present Lighthouse      : 15-12-1984
+32: Subsequent Innovation                    : 1903, 1930, 1939, 1984, 1996, 2015
+

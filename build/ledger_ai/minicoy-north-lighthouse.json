@@ -1,0 +1,41 @@
+{
+  "slug": "minicoy-north-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Minicoy North Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2008,
+  "alol": "F 0758.1",
+  "position": {"lat_text": "08° 17.74' N", "lon_text": "73° 03.95' E", "lat": 8.295667, "lon": 73.065833},
+  "elevation_m": 23,
+  "characteristic_text": "Flash (2) white every 10 seconds.",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 10, "geographical_nm": 14, "text": "Luminous: 10Nm, Geographical: 14Nm"},
+  "tower": {"type": "17m BMT Square + 5m trestle tower", "height_m": 22, "colour_scheme": "Black and white Band"},
+  "optic": {
+    "make": "MBL-160 Marine Flasher", "model": "MBL-160", "type": "LED", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Make: MBL-160 Marine Flasher; Type: LED",
+    "divergence_horizontal_deg": 360,
+    "divergence_vertical_deg": null,
+    "divergence_text": "360° (Horizontal), <30° (Vertical)",
+    "illuminant": "LED"
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": null, "text": "Lakshadweep Electricity Dept. 230V single phase 50Hz; Solar Panel 12V 70W for main light with 2 x 12V 100AH batteries"},
+  "issues": ["Elevation printed as '1m above sea level + 22m' (taken as 23 m)", "Vertical divergence given only as '<30°'", "Postal address names 'Minicoy south Lighthouse'"]
+}

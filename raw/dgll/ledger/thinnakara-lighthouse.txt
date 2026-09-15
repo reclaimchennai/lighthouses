@@ -1,0 +1,182 @@
+                                मास्टर ले जर/MASTER LEDGER
+क्रमसं/Sr.N           नाम/Name
+     o
+                                                              वििरण/Description
+
+    1         ए.एल.ओ.एल/A.L.O.L.       F 0754.6
+
+    2         स्थान/Position           Lat.10° 56’6”N, long 72° 19’0” E
+
+    3         ऊंचाई/Elevation          24M (Above MSL)
+
+              अविलक्षण/Characterist
+    4                                  Fl (W)5 sec
+              ic
+
+              नॉविकल माइल में दू री    11.3 NM
+    5
+              Range in miles
+
+                                       Type                               Square Masonry
+              दीपस्तंि िािर/L.H.
+    6                                  Height                             22M
+              Tower
+                                       Colour Scheme                      White Band
+
+                                       Optic
+
+                                                                          Mediterraneo Senales
+                                       Make
+                                                                          Maritimas (MsM)
+
+                                       Model                              MBL 160
+
+                                                                          OCL 12LED with 3 Fresnel
+              ऑविकल उपकरण              Type
+                                                                          Elements arranged in 2
+    7         Optical equipment                                           levels arrayed in circular
+                                                                          way
+
+                                                                          140MM Lens Diameter)
+                                       Size
+                                                                          (Methacrylate material)
+
+                                       Flasher                            MF-12 Electronic Flasher
+
+                                       Date of Installation               27.10.2012
+
+              प्रिािी बीम              Main
+    8         तीव्रता/Effective beam   Emergency
+              intensity
+
+                                       Diameter
+
+    9         लेंिनन /Lantern          Height of glazing                               N. A
+
+                                       No. of panes
+                                       Ventilators
+
+     10   RACON                        N. A
+
+     11   NAIS-N. A
+
+                                                                            5KVA Solar Inverter Off-
+                              Solar Power Plant
+                                                                            Grid
+
+                              Solar Panel for Main Light
+
+                                  Capacity PV        Number        Type         Battery
+                                                       s
+
+                                                                                12V,100
+             ऊजान के                                               Photo
+                                   12V,70W             01          voltai         Ah
+     12
+             साधन/
+            Source of                                                c          (02 Nos)
+             energy
+                              Solar Panel for Light Automation
+
+                                  Capacity PV        Number        Type         Battery
+                                                       s
+
+                                                                   Photo    12V,200A
+                                  24V,250W             02                   h (02 Nos)
+                                                                   voltai
+                                                                            c
+
+          स्वचावलत िोल्टे ज स्टे बलाइजर/
+     13
+          Automatic Voltage StabilizersN. A
+
+          बै िरी/ Batteries
+          Equipment            Type       Make              Volt                Amp/Hr.    Qty
+
+                               Solar
+     14   Main Light            Gel       Exide             12V                 100 Ah     02
+                               type
+
+                               Solar
+          Automation            Gel       Exide             12V                 200 Ah     02
+                               type
+
+     15   बै िरी चाजनर/ Battery charger- N.A
+
+
+
+16        इं ििन र/Inverter /UPS - N. A
+
+
+
+     17   स्वचलन उपकरण/ Automation Equipment
+        MAKE             PLC       HMI          Power           VSAT            Mode      Ban
+                                                Supply                           m         d
+
+                                                              1.8m dia
+                                  RENU
+                       Allen-                                                  Hughe
+         RDS                    Electronic    24 V DC         Parabolic                       C
+                      Bradley                                                    s
+                                s Pvt LTD
+                                                              reflector
+
+     आवि शमन उपकरण/
+18                              N. A
+     Fire Fighting Equipment
+
+19   संचार/Communication        Not Available
+
+20   जल पू वतन/ Water Supply    01 Nos RCC Rain water Storage (10,000L)
+
+                                Area                                           N. A
+21   िूवम/ Land
+                                Demarcation                                    N. A
+
+                                                                               Inspection
+22   इमारतें/Buildings          RCC Masonry Structure: 01 Nos
+                                                                               Quarter
+
+                                 Street Lights (25w, LED) Mounted on GI
+     कंपाउं ड लाइि/                                Tube
+23
+     Compound Lights
+                                                   02 Nos
+
+     सीसीिीिी कमेरा/
+24                              Camera                                         N. A
+     CCTV CAMERA
+
+                                  Sl. No                       Designations
+25   स्टाफ/ Staff                             Navigational Assistant on tour from
+                                    1.
+                                              AgattiLighthouse
+
+     पहुँ चने का माध्यम/        By air from Bangalore via Kochi up to Agatti island and
+26                              from Agatti island by boat.
+     Mode of approach
+
+                                Thinnakara Island is uninhabited.
+     उपलब्ध सुविधाए/
+27                              Nearest Hospital, Schools, Police station, Post office etc.
+     Facilities available       are available at Agatti Island, which is 8NM from
+                                Thinnakara.
+
+                                C/O Station Incharge,
+
+     डाक पता/Postal             Agatti Lighthouse,
+28
+     address                    Agatti Island, U.T of Lakshadweep,
+
+                                Pin: 682553
+     मूल्य का ब्योरा/Cost
+     details
+29                           N/A
+     (At the time of
+     Construction)
+
+     प्रितनन मे लाने का
+30   वदनांक/
+                             1993
+     Year of commissioning
+

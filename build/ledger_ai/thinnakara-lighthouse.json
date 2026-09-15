@@ -1,0 +1,41 @@
+{
+  "slug": "thinnakara-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Thinnakara Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1993,
+  "alol": "F 0754.6",
+  "position": {"lat_text": "10° 56' 6\" N", "lon_text": "72° 19' 0\" E", "lat": 10.935, "lon": 72.316667},
+  "elevation_m": 24,
+  "characteristic_text": "Fl (W)5 sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 11.3, "geographical_nm": null, "text": "11.3 NM (single unlabelled range)"},
+  "tower": {"type": "Square Masonry", "height_m": 22, "colour_scheme": "White Band"},
+  "optic": {
+    "make": "Mediterraneo Senales Maritimas (MsM)", "model": "MBL 160", "type": "OCL 12LED with 3 Fresnel Elements arranged in 2 levels arrayed in circular way", "size": "140MM Lens Diameter (Methacrylate material)", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "MBL 160 LED lantern with MF-12 Electronic Flasher; no rotation device listed",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "12 LED; MF-12 Electronic Flasher"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "N. A"},
+  "ais": {"present": false, "text": "NAIS-N. A"},
+  "dgps": {"present": null},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar power plant with 5KVA off-grid solar inverter; main light 12V,70W panel x1 with 12V 100Ah x2; automation 24V,250W x2 with 12V 200Ah x2"},
+  "issues": []
+}

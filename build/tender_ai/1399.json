@@ -1,0 +1,45 @@
+{
+  "nid": 1399,
+  "title": "Supply of Battery Charger for various Lighthouses at Chennai Directorate - Reg.",
+  "summary": "Notice inviting sealed quotations for supply of five heavy-duty battery chargers (four 0-120V DC 40 A and one 0-40V DC 50 A) delivered to Vembar, Kuthenkuli, Dhanushkodi and Pamban lighthouses under the Chennai Directorate.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-01002(14)/4/2020-MNT-MD; 1/47086/2023",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Vembar Lighthouse, Vembar, Tuticorin Dist., Tamilnadu - 628906", "station_id": "vembar-lighthouse", "kind": "lighthouse", "work": "Delivery of one 0-120V DC, 40 A battery charger"},
+    {"name": "Kuthenkuli Lighthouse, Radhapuram taluk, Tirunelveli district, Tamilnadu - 627104", "station_id": "kuthenkuli-lighthouse", "kind": "lighthouse", "work": "Delivery of one 0-120V DC, 40 A battery charger"},
+    {"name": "Dhanushkodi Lighthouse, Ramanathapuram Dist, Tamilnadu - 623526", "station_id": "dhanushkodi-lighthouse", "kind": "lighthouse", "work": "Delivery of one 0-120V DC, 40 A battery charger and one 0-40V DC, 50 A battery charger"},
+    {"name": "Pamban Lighthouse, Ramanathapuram Dist, Tamilnadu - 623521", "station_id": "pamban-lighthouse", "kind": "lighthouse", "work": "Delivery of one 0-120V DC, 40 A battery charger"}
+  ],
+  "scope": [
+    {"item": "Battery Charger, input 230V AC, output 0-120V DC 40 A, heavy duty copper dimmer stat controlled, with voltmeter, ammeter, input/output protection fuses, compact size, ISI certified, reputed make (including transportation to Pamban, Dhanushkodi, Vembar and Kuthenkuli lighthouses)", "qty": "4", "unit": "Each", "site": "Pamban, Dhanushkodi, Vembar and Kuthenkuli Lighthouses"},
+    {"item": "Battery Charger, input 230V AC, output 0-40V DC 50 A, heavy duty copper dimmer stat controlled, with voltmeter, ammeter, input/output protection fuses, compact size, ISI certified, reputed make (including transportation to Dhanushkodi Lighthouse)", "qty": "1", "unit": "Each", "site": "Dhanushkodi Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate or EMD printed. Terms: GST inclusive, transportation inclusive, 100% payment after receipt of items in good condition and testing; paying authority Director, DLL Chennai."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": "Standard warranty one year against any manufacturing defects"},
+  "dates": {"published": "2023-10-31", "pre_bid": null, "bid_submission_end": "2023-11-15", "bid_opening": "2023-11-15"},
+  "eligibility": [
+    "Reputed firms or authorised dealer or agent; quotation with necessary credentials and descriptive brochures"
+  ],
+  "specs": [
+    "Heavy duty copper dimmer stat controlled chargers, 230V AC input, ISI certified, reputed make",
+    "4 x 0-120V DC 40 A; 1 x 0-40V DC 50 A; voltmeter, ammeter, input and output protection fuses"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Battery Charger.pdf", "pages": 3, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned 3-page NIQ with OCR text layer; English notice read from text, pages 2 and 3 (delivery table and schedule) verified from rendered images. NIQ dated 31/10/2023; quotations due 15.11.2023 15:00, opened same day 16:00. Delivery table lists named station-in-charge staff with mobile numbers for each lighthouse: [personal contact removed]."
+}

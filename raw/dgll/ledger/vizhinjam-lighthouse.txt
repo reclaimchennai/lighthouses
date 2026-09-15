@@ -1,0 +1,228 @@
+मास्टर लेजर/MASER LEDGER
+क्रमसं                    नाम /Name
+ ख्या/                                                               वििरण/Description
+Sr.No
+  1      ए.एल.ओ.एल/A.L.O.L.           F-0718
+
+  2      स्थान/Position               Lat.08° 22.8’ N , Longitude 93° 58.9’ E
+
+  3      ऊंचाई/Elevation(MSL)         57 m
+
+  4      अविलक्षण/Characteristic      Fl(White)- 15 seconds(FL- 0.55+ ec-14.5 sec)
+
+
+  5      नॉविकल माइल मे दू री         31 NM
+
+         Range in miles
+  6      दीपस्तं ि िािर/L.H.Tower     Type                               Circular Masonsry Tower
+
+                                      Height                             36 m
+
+                                      Colour Scheme                      Red and White Band
+  7      ऑविकल उपकरण                  Optic                              Revolving Beacon
+
+         Optical equipment            Make                               BBT
+                                      Type
+                                      Size                               500mm / 3rd Order Large
+                                      No. of panels                      3
+                                      Area of dioptric portion           3265 Sq.cm(corrected area 2318 Sq. cm)
+                                      Area of catadioptric portion       10733 Sq.cm(corrected area 8909 Sq.cm)
+                                      Divergence                         4º 27’(Horizontal)
+                                      Main/Emergency                     1º 29’ (Vertical)
+                                      Duration of Flash                  0.55Sec
+                                      Main /Standby/Emergency
+                                      Pedestal                           Mercury float
+                                      Rotation Device                    Dual Stepper motor(20 Kg /cm2)
+                                      R.P.M.                             4/3 RPM
+                                      Illuminant                         Metal Halide Lamps
+
+                                      Main                               Cluster of 3 Nos 150W/230V
+                                      Standby                            Diesel Engine Generator set- 2 Nos with Auto
+                                                                         ON-OFF
+                                      Emergency:                         Back-up UPS supply from Battery Bank
+                                      Date of Installation               14-02-2003
+8    प्रिािी बीम तीव्रता/Effective beam          Main                           68,38,000 Candellas
+     intensity
+
+
+
+
+9    लेंिनन/Lantern                              Diameter                       3m
+                                                 Height of glazing              1.78m
+                                                 No. of panes                   24 Nos
+                                                 Ventilators                    11 Nos
+10   RACON                                        Sr. No                        6548
+     Make                      Model             Code                           Band                  Date of Installation
+     Tideland, Sea Beacon-2    WM-RB-II                         O               X+S                   25-12-2007
+     System-6(X+S Band)
+11   NAIS
+     Base Station                                  2 Nos-AIS1 & AIS2
+
+     Model                     Type              Power                          MMSI
+     R40                       Class B           AC-230V & DC-12V               ------
+     Communication
+     Equipment
+     VSAT Antenna              Band              Modem
+     Prodelin,                 EX.C              Hughes
+     (2.4m Dia)
+
+
+12   ऊर्ान के साधन/Source      Mains                                            440V, 3 Phase, 50Hz AC
+     of energy                 Power Source
+                               Engine 1
+                               Make/Type                    Qty      Rating     No of         RPM              Cooling
+                                                                                Cylinder
+                               Kirloskar Green              1        20.5 BHP     2           1500             Air
+                               Alternator
+                               Make/Type                    Qty      Rating     Voltage/Amp   Frequency        Phase
+                                                            1         15 KVA    230V/65.2A    50Hz             Single
+                               Engine 2
+                               Make/Type                    Qty      Rating     No of         RPM              Cooling
+                                                                                Cylinder
+                               Kirloskar Green              1        32 HP        3           1500             Air
+                               Alternator
+                               Make/Type                    Qty      Rating     Voltage/Amp   Frequency        Phase
+                                                                  1              25 KVA   415V/34.7A         50Hz         Three
+                                     Solar Plant on Grid
+                                     Capacity PV                  Numbers                 Type       Battery              Bank
+                                            5 KW                          20              Mono         -------             ------
+                                                                                          Crystall
+                                                                                          ine
+                                     Solar Plant for Main RACON
+                                     Capacity PV                  Numbers                 Type       Battery              Bank
+
+                                     70 W/12VDC                   01 No.                  Tata       01 No Exide Make     -----
+                                                                                          BP/70
+                                                                                                     12V/150AH
+                                                                                          W
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र
+          Automatic Voltage Stabilizers(2 Nos.) 1) Main Lamp, 2) Elevator
+          Make                     Model               Capac      Input                   Output                 Phase    Qty
+                                                       ity
+          ITL                      N/A                 5KVA       170-270V                230V                   ----     1 NO.
+          Hykon Servo                                  30
+          Stabilizer
+                                   SAN 330             KVA        320-470V                400V                   ------   1 NO.
+
+
+14        बै िरर Batteries
+          Equipment                Type                Make               Volt            Amp/       Qty
+                                                                                          Hr
+          Main Lamp-1              Lead                Exide              12V             150        1 No.
+                                   Acid,Tubular
+                                                                                          AH
+          Main Lamp-2              Lead                Exide              12V             150        1 No.
+                                   Acid,Tubular
+                                                                                          AH
+          Main Lamp-3              Lead                Exide              12V             150        1 No.
+                                   Acid,Tubular
+                                                                                          AH
+          Stepper Motor            Lead                Exide              12V             150        1 No.
+                                   Acid,Tubular
+                                                                                          AH
+          NAIS                     Lead                Amaron             12V             150        2 Nos.
+                                   Acid,Tubular
+                                                                                          AH
+          RACON                    Lead                Exide              12V             150        1 No.
+                                   Acid,Tubular
+                                                                                          AH
+          DG-15KVA                 Lead Acid           Exide              12V             100        1 No.
+                                                                                          AH
+
+          DG-25KVA                 Lead Acid           Exide(SF           12V             100        1 No.
+                                                       Sonic)                             AH
+     Water Fountain            Lead               Luminous            12V                    200       2 Nos.
+                               Acid,Tubular
+                                                                                             AH
+15   बै िरर चार्नर/ Battery Charger
+
+
+     Equipment                 Make               Model        Type                          Rating    Qty
+     General Purpose           Delta Electric                                                15        1 No.
+                                                                                             Amps,
+                                                                                             0-30V
+16   इं वर्ट र Inverter /UPS
+     Equipment        Nos      Make               Model                     Type             Rating       Qty      input          Output
+     Main Lamp          01     VGUARD              NEXTGEN1250               OFFLINE         1100 VA         01     170-230V       230V
+
+     Main Lamp          01     VGUARD              NEXTGEN1250              OFFLINE          1100 VA         01    170-230V        230V
+     Main Lamp          01     VGUARD              NEXTGEN1250               OFFLINE         1100 VA         01    170-230V        230V
+     Main Lamp          01     VGUARD              NEXTGEN1250               OFFLINE         1100 VA         01    170-230V        230V
+
+     NAIS PSS          01      SUPRA                    GP1012              OFFLINE          1 KVA           01    170-230V        230V
+17   स्वचलन उपकरण Automation Equipment
+
+     MAKE            PLC                 HMI             Power Supply              VSAT                Modem         Band
+     Recktronic      1)Allen Bradley,    Renu            24 V DC                   1.2m Dia            Hughes        EX.C
+     Devices         Micro               Electronics
+                                                                                   Parabolic
+     And             Logix1400,          Pvt. Ltd,HMI
+     Systems                             Display-                                  reflector
+                     2) Mitsubhishi
+     ,Pune                               FP5070T
+                     Electric,
+                     NEXGEN 2000
+                     plus
+
+
+18   आवि शमन उपकरण                                Type of Extinguisher             Capacity               Nos         Make
+
+     Fire Fighting Equipment                      DCP Type                         3,2 Kg                 2 Nos.
+                                                  DCP(ABC type)                    4 Kg                   4 Nos.
+                                                  FOAM                             9 Ltrs                 1 No.
+                                                  Water/Sand Buckets(with             ----                   ---      2+2 Nos.
+                                                  stand)
+                                                  Fire Alarm Control Panel            ----                   ---           ----
+19   सं चार                                             (i)           BSNL Phone                       0471-2480337
+                                                        (ii)          Computer
+     Communication                                                                                     Computer-HP, Printer- Brother,
+                                                                                                       Modem-tp link
+20   र्लपूवतन                                     (i)Water Supply available-Kerala Water Authority
+
+     Water Supply                                 (ii) Open well provided in the Lighthouse compound.
+                                                  (iii) Water supplied from the Kerala Water Authority is collected at tank of capacity
+                                                  5000 litres.
+21   िू वम                                 Area                                             3 Acre 28 Cent
+
+     Land                                  Demarcation                                      Masonry Compound Wall
+
+
+                                           No. of fruit bearing trees                       NIL
+                                           No of fruit bearing Coconut trees                113 Nos.
+                                           No of non-fruit bearing trees                    Palm tree – 1 No.
+                                                                                            Casuarina tree – 3 Nos.
+22   इमारतें                               Masonry/RCC – 9 Nos.                             Power House with office, Store,
+                                                                                            and Recreation room, NA-I, NA-
+     Buildings
+                                                                                            II, LHA(2 Nos.), IQ-1, IQ-2 , Kiosk
+                                                                                            room, clock room, Cafeteria and
+                                                                                            Ticket counter.
+
+
+23   कंपाउं ड लाइि/ Compound Lights        LED Light fitted on G.I Pole                     9 Nos.GI Poles with 12 Nos. of LED
+                                                                                            Lights
+24   सीसीिीिी कमेरा                        Camera                                           CP PLUS(2 MP)- 16 Nos
+
+     CCTV CAMERA                           DVR                                              Dahua DVR –1 No.(16 Channel)
+
+25   स्टाफ                                 Sl. No            Designations
+
+     Staff                                 1                 Navigational Assistant Gr-I : 1 No.
+                                           2                 Navigational Assistant Gr-II : 1 No.
+                                           3.                Lighthouse Attendant        : 1 No.
+26   पहुँ चने का माध्यम Mode of approach   By rail up to Trivandrum then 16 KM by road up to Vizhinjam Lighthouse.
+
+27   उपलब्ध सु विधाए                       Police station at Kovalam 3 Km from Lighthouse and primary health center
+                                           2 km from Light house. Post Office at Vizhinjam from Light house.
+     Facilities available
+28   डाक पताPostal address                 The Navigational Assistant Grade-I,
+                                           Vizhinjam Lighthouse,
+                                           Vizhinjam (PO),
+                                           Thiruvananthapuram Dist., Kerala
+                                           Pin: 695521
+29   मूल्य का ब्योराCost details           N/A
+     (At the time of Construction)
+30   प्रितन न मे लाने का दे नां क          20.05.1972
+
+     Date of commissioning
+

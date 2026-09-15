@@ -1,0 +1,214 @@
+                            मास्टर लेजर/MASER LEDGER
+क्रमसं                नाम /Name
+ ख्या/                                                                 वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.                   F-0715
+   2     स्थान/Position                       Lat.08° 40.4’ N , long 76° 48.5’ E
+   3     ऊंचाई/Elevation                      38M+1.69M =39.6M(Above MSL)
+   4     अविलक्षण/Characteristic              Fl (2) W 20 sec (fl 0.44+3.33+0.44+15.79 Sec)
+
+  5      नॉविकल माइल मे दू री                 20NM
+         Range in miles
+  6      दीपस्तं ििािर/L.H.Tower              Type                          Circular RCC tower
+                                              Height                        38M
+                                              Colour Scheme                 Black and White Band
+  7      ऑविकल उपकरण                          Optic
+         Optical equipment                    Make                          M/s Tideland Signal
+                                                                            Corporation.Texas Model :TRB-
+                                                                            220Max Lumina with modified 40 Kg
+                                                                            Cm stepper motor
+                                              Type                          Revolving Beacon
+                                              Size                          220mm
+                                              No. of lens                   06Nos (2Nos fixed and others
+                                                                            blocked)
+                                              Area of dioptric portion
+                                              Area of catadioptric portion
+                                              Divergence                   2.40º (Horizontal)
+                                              Main/Emergency
+                                              Duration of Flash             2 flashes in every 20 Sec
+                                              Main /Standby/Emergency
+                                              Pedestal                      Fixed stand arrangement
+                                              Rotation Device               Stepper motor (40 Kg cm)
+                                              R.P.M.                        3
+                                              Illumining                    Metal Halide Lamp
+                                              Main                          230V/70W Philips Metal Halide Lamp
+                                              Standby                       NA
+                                              Emergency:
+                                              Date of Installation          03-02-2009
+  8      प्रिािी बीम तीव्रता/Effective beam   Main                          86445 Candelas
+         intensity                            Emergency
+  9      लें िनन /Lantern                     Diameter                      2.4 m
+                                              Height of glazing             0.88 m
+                                              No. of panes                  12
+                                              Ventilators                   06
+ 10      RACON                                    Sr. No                      6295
+      Make                  Model         Code                            Band                Date of
+                                                                                              Installation
+      NA                    NA            NA                              NA                  NA
+ 11   NAIS
+      Base Station                        NA
+
+      Model                 Type          Power                   MMSI
+      NA                    NA            NA                      NA
+      Communication
+      Equipment
+      VSAT Antenna          Band          Modem
+      NA                    NA            NA
+      DGPS
+      Transmitter Make      Frequency     Power        RS 1 ID    RS -II ID        Beacon     Date of    Date of
+                                          Output                                   ID         commis     Recapi
+                                                                                              sioning    talizati
+                                                                                                         on
+      NA                    NA            NA           NA           NA             NA         NA         NA
+ 12   ऊर्ान के साधन/        Mains                                   Local Mains 440 V, 3ø, 50 Hz, AC Supply
+      Source of energy          Emergency                           Back-up UPS Supply from Battery Bank
+                                Stand By                            340Watt off Grid solar Plant with 24 V 600
+                                                                    AH Battery Bank
+                                Solar Plant Main Light         DOI- 12-07-2010
+                                Capacity PV            Numbers            Type Battery                Bank
+                                170W/24V               02 Nos             Poly    12 Nos              01 No.
+                                                                          Cryst 2V/6000AH
+                                                                          alline
+                                Solar Plant for Street Light    DOI- 21-04-2017
+                                Capacity PV            Numbers            Type Battery                Bank
+                                250 W                  08 Nos             Mon 24 Nos                  01 No.
+                                                                          o       2V/200AH
+                                                                          Cryst
+                                                                          alline
+ 13   स्वचावलत िोल्टे र् स्टे बलाइर्र
+      Automatic Voltage Stabilizers
+
+      Make                   Model      Capacity  Input                   Output           Phase     Qty
+      Instrument             SVS500L 5KVA         170-270V                230V             1ø        01
+      Techniques Pvt
+      Ltd
+14    बैिरर Batteries
+      Equipment                Type         Make                   Volt            Amp/Hr                Qty
+           Main Lamp             Tubular       Amaron-Quanta              12V         150 AH                1
+         Stepper Motor           Tubular       Amaron-Quanta              12V         150 AH                1
+      Main Lamp back- up          SMF               HBL                   01V         600 AH               12
+           Street Light           SMF               HBL                   02V         200 AH               24
+           Main Lamp             Tubular       Amaron-Quanta              12V         150 AH                1
+ 15   बैिररचार्न र/ Battery charger
+
+      Sr No Make                                  Capacity                          Volt           Qty
+     1            AE                                    50 Amps                          50 Volts           01 Nos
+
+16   इं वर्ट र Inverter /UPS
+     Sr No             Make               Input Volts
+                                                              Output Volts      Capacity     Used for
+                                              AC
+         01              V-Guard             180-260V             230V          1100VA               Main Lamp
+         02              V-Guard             180-260V             230V          1100VA             Stepper Motor
+         03            UTL Gamma+            170-230V             230V           1KVA             Main Lamp Back up
+
+         04        Statcon Energiaa          170-230V            230 V           2KVA                Street Light
+
+17   स्वचलन उपकरण
+     Automation Equipment
+      MAKE        PLC                        HMI             Power Supply        VSAT             Modem       Band
+         RDS      Allen Bradley              Renu                24 V DC         1.2 m Dia        Hughes      Band C
+                                             Electronics                         Parabolic
+                                             Pvt .Ltd                            reflector
+
+         Sl. No          Name of the equipment’s                Make               Rating               Quantity
+                                                           Power Room RTU
+              1        Panel Monitor (HMI)                 Renu Electronics       HMI Display-             01 No
+                                                               Pvt .Ltd           FP5070T-S0
+                                                                                     Sr. No
+                                                                                 CI4812178199
+              2        PLC unit                             Allen Bradley     Micro Logix 1400             01 No
+              3        V-SAT Modem                             Hughes                  ---                 01 No
+              4        V-SAT Antenna                          1.2 m Dia                ---                 01 No
+              4        D-Link switch Ethernet                     ---                  ---                  ---
+              5        SMPS unit                                 NHP            I/P-230AC O/P-             01 No
+                                                                                   24VDC/5A
+              6        Adapter for D-Link                        ---                   ---                  ---
+              7        Adapter for V-sat modem                 Hughes         I/P- 100-240VAC/             01 No
+                                                                                 2A O/P- 64 W
+              8        Relays                               IDEC / Omron      RU4S D24/12VDC           05+04 Nos
+                                                                                     MY2N
+            9          MCB                               Schneider Electric      4 Pole/ 2 pole        01+03 Nos
+           10          Transducer                         Adept Fluidyne               ---              04 Nos
+           11          Rotary On-OFF Switch                     ---                    ---              04 Nos
+           12          Indication Lamp                          ---                    ---              29 Nos
+           13          Buzzer with indicating lamp              ---                    ---               01 No
+           14          Push button switch                       ---                    ---              02 Nos
+           15          CT/ Shunt                         Amol Electricals      50/5A Sr No-520           01 No
+           16          Surge Protecting Device             Hakel-B20M/         255 AC/ 320 AC           02 Nos
+                                                            PIIIM 320
+           17          UPS                                     APC            1100 VA/660 W                01 No
+                                                        Service Room RTU
+              1        PLC unit                                PSU            Sr No-P2112 (4)              01 No
+              2        SMPS unit                               NHP            I/P-230V/ O/P-               01 No
+                                                                                 24V/5A DC
+         3       Transducer                        Adept Fluidyne             ---                04 Nos
+         4       Relays                              IDEC/IDEC         RU4S D24/RJ1S-           01+02 Nos
+                                                                           CL-D24
+         5       MCB                             Schneider Electric     2 Pole/ 1 pole          02+01 Nos
+         6       Rotary On-OFF Switch                   ---                   ---                04 Nos
+         7       Indication Lamp                        ---                   ---                11 Nos
+         8       Buzzer with indicating lamp            ---                   ---                 01 No
+         9       Push button switch                     ---                   ---                 01 No
+        10       Proximity Switch                       ---                   ---                  ---
+        11       Light Intensity Sensor          ABLE Instruments       10-20000 Lux              01 No
+                                                    & Controls         O/P-4-20mA/0-
+                                                                           10VDC
+
+18   आवि शमन उपकरण                        Type of Extinguisher      Capacity      Nos          Make
+     Fire Fighting Equipment              CO2                       4.5 kg        2            Flameblitzz
+                                          Map90 Foam Type           4 Kg          2            Flameblitzz
+                                          Map90 Foam Type           2 Kg          3            Flameblitzz
+                                          Map90 Foam Type           1 Kg          1            Flameblitzz
+                                          Water/ Sand Buckets                     4
+                                          (with stand)
+                                          Smoke Detector                          1            Agni systems by
+                                                                                               microsensors
+19   संचार                                0470-2656658
+     Communication                        Facility provided Office
+20   र्ल पूवतन                            1.Water Supply available-KeralaWater Authority Attingal
+     Water Supply                         ,Thiruvananthapuram.
+                                          2.02 Nos of Open well provided in the Lighthouse compound
+                                          contain salty water.
+                                          3.Water supplied from the Kerala Water Authority is collected at
+                                          sump of capacity 4000 liters from there it pumped to an overhead
+                                          tank of capacity 1000 liters using 1HP Crompton make, 230 V, 1ø
+                                          motor.
+
+21   िू वम                                Area                            0.3167 Hectare
+     Land                                 Demarcation                     Masonry Compound Wall
+
+22   इमारतें                              RCC Structure: 04 Nos            Power House cum office, Store,Kitchen
+     Buildings                                                             and Recreation room,, NA-I, NA-II,
+                                                                           LHA(02 Nos.)
+                                          Timber Construction above One unit of NA-I Qtr., One units of
+                                                                           NA-II ,Twin LHA Qtrs, office cum
+                                          level
+                                                                           Power house,store,kitchen ,and
+                                                                           recreation rooms
+23   कंपाउं ड लाइि                        There are 09 Nos of Street lightsLED with 07 GI poles
+     Compound Lights
+24   सीसीिीिी कमे रा                      Camera                          --
+      CCTV CAMERA                         DVR                             --
+25   स्टाफ                                Sl. No        Designations
+     Staff
+                                          1             Navigational Assistant Gr-II : 01 No
+                                     2             Navigational Assistant Gr-III : 01 No
+26   पहुँ चने का माध्यम              About 06 Km by road from Kadakkavoor railway station on
+     Mode of approach                Eranakulam-Thiruvananthapuram route and is about 08 km by road
+                                     from Attingal on NH-47 to Anjengo Lighthouse.
+27   उपलब्ध सुविधाए                  Police station at Anjengo 2.5 Km and 4Km coastal police station
+     Facilities available            Muthalapozhi from Lighthouse. Fishing harbour 04 Km from
+                                     Lighthouse.Thiruvananthapuram international airport 35 Km from
+                                     Lighthouse. Primary health centre near to Lighthouse. Post office at
+                                     Anjengo1.2km from Lighthouse.
+
+28   डाक पताPostal address           Navigational Assistant Gr-I,
+                                     Anjengo Lighthouse,
+                                     Anjengo P.O
+                                     Thiruvananthapuram Dist. Kerala-695309
+29   मू ल्य का ब्योराCost details    --
+     (At the time of Construction)
+30   प्रितनन मे लाने का दे नां क     30.04.1988
+     Date of commissioning
+

@@ -1,0 +1,254 @@
+                मास्टर लेजर/ MASTER LEDGER
+क्रमसं                   नाम /Name
+ ख्या/                                                                वििरण/ Discription
+Sr.No
+    1.      ए.एल.ओ.एल/A.L.O.L.                             : F 0365
+    2.      स्थान/Position                                 : Lat 22.9096°N,
+                                                             Long 69.9135°
+   3.      ऊंचाई/Elevation (Above MSL)                     : 48M
+   4.    अविलक्षण/Characteristic                    :White 3 flash every 20 Sec
+                                                  [(fl 1s, ec 2s)X2, fl 1s, ec13s]
+
+   5.    नॉविकलमाइलमेदूरी                                  : 16 NM
+         Range in miles
+   6.    दीपस्तंि िािर/L.H.Tower                i)     Type      : Circular RCC tower
+                                                ii)    Height    : 60M
+                                                iii)    Colour : White
+
+   7.         ऑप्टिकल उपकरण                     : SL300-1D5-1-W ( 13 – 19NM AT@ 0.74)
+          Optical Equipment:-
+          Type of Light (LED Flasher)
+   8.         LED flasher Input Voltage          : 24 V DC (Range 24V – 48V DC)
+
+   9.         Load current                       : 16A DC at 24V DC
+
+   10.         Peak Power                        : 384W (In Continuous Light)
+
+   11.         Colour of Light                   : White
+
+   12.         Horizontal Output                 : 360°
+
+   13.         Vertical Divergence               : >1.5°
+
+   14.   Physical Characteristic
+         I) Body of Material                      : Marine Grade Two part epoxy coating to
+                                                 resist the elements
+         ii) Lens Material                        : UV -stabilised acrylic
+         Iii) Lens Diameter                       : 373mm
+         iv) Lens Design                          : Multiple LED Optic
+         v) Mounting                              : 3 & 4 hole 200mm bolt pattern
+         vi) Height                               : 302mm
+         vii) Width                  Page 1 of 8 : 373mm
+         viii) Weight                             : 18.5kg
+         ix) Circuit Protection                   : Polarity Protected
+                                                  : Polarity Protected
+        x) Water proof                               : Up to 12 Years
+        xi) Product Life Expectancy                  : 12/03/2022
+        xii) Date of Installation                    : Sealite, Australia
+        xiii) Make
+        xiv) Type of Light structure                 : Stationary LED Flashing Light
+
+
+
+वी टी एस ररपीटर स्टे शन उपकरण/ VTS Repeater station equipments:
+
+ क्रम                       वििरण/ Discription                               Qty     Location
+ संख्या/
+ Sr.No
+      i. UPS – 3KVA                                                         01     Eqpt
+         Make - APC                                                                room
+         Sr. No. – B21834007707 DOI: 20/07/2019
+     ii. Batteries for UPS – 12V/26AH                                       06     Eqpt room
+         Make – Amaron
+         DOI: 20/07/2019
+    iii. Microwave – Antenna                                                04     VTS
+         Make – FAINI COMMUNICATIONS SYSTEM(KATHREIN                               Tower
+         INDIA PVT. LTD.)
+         DOI : 11/2020
+    iv. ODU/RFU – Flex twist for Antenna                                    04     Eqpt room
+         Sr. No. R – 440 68292
+         Sr. No. R – 020 69716
+         Sr. No. R – 320 85514
+         Make – HARRIES STRATEX
+         DOI:11/2020
+     v. Microwave Mini link ML 6691 Config. 06                              02     Eqpt
+         IDU Sr. No. CE8A312089 with Mini link 6363 7/324 Make:                    room
+         Ericson
+         DOI: 09/08/2019
+    vi. RFU/ODU Make- Ericsson                                              04     Eqpt room
+         S. No. CR9PQ59231 Kandla
+         S. No. CR9N993372 Navinal DOI: 09/08/2019 (02 Nos.)
+         S. No. CR9Q240353Kandla
+         S. No. CR9Q240362Navinal DOI: 17/07/2020 (02 Nos.)
+   vii. RECTIFIER – 48V/350W                                                01     Eqpt room
+         Make – BMSC
+         SR. No. – BS 350/B/4359DOI: 11/2011
+   viii. DG Set, 30KVA, 3 Ф                                                 01     VTS
+         Voltage – 415 volts Sr. No. – 042121/1020142                              TOWER
+         Model – HA – 494 Sr. No. – 042121/1020150 DOI:
+         11/2011
+                                       Page 2 of 8
+  ix. AMF Control Panel                                               01       Power
+     Sterling Generators Pvt. Ltd                                              house
+     30 KVA, 415V, 3 Ф, 100 Amps S. No:04-10/187/04,
+     Controller Make: DSE Model: DSE 4520 MKIIS. No. 7204333
+     S. No. 7204345
+     DOI: 01/08/2020
+  x. Exhaust Fan –                                                    02       Eqpt room
+     Make – Bajaj – 60W/2030v/50HZ
+     Sweep – 350mmDOI: 11/2011
+  xi. Automatic voltage stabilizer – 15 KVA                           01       Power
+     Sr. No. 692/670                                                           house
+     Make – Delta Electronic
+ xii. TPN – 125 Amp                                                   01       Power
+     Make – L & TDOI: 11/2011                                                  house
+ xiii. LVDB Panel                                                     01       Power
+     Make – Sterling Generators Pvt. Ltd.                                      house
+     Sr. No. 03-10/187/04
+     DOI: 11/2011
+
+xiv. Solar Panel Module                                               01       Power
+     Capacity: 70W                                                             house
+     Rated Voltage: 17.00 V Rated Current: 4.20 Amp Make: Vikram
+     Solar Pvt. Ltd.
+     DOI: 16/01/2014
+ xv. Battery for Solar Panel                                          24       Stn
+     Make Exide Power safe, Type SMFCapacity 2V/300Ah
+     DOI: 27/02/2020
+xvi. Solar Control Panel                                              01       Power
+     DOI: 16/01/2014                                                           house
+xvii. Bird Spring S.S 304L                                            120      Stn
+      DOI: 16/01/2014
+xviii. G.I Bus bar control panel                                      01       Eqptroom
+       DOI: 16/01/2014
+ xix. Solar charge controller – 48 v/45 Amp                           01       Power
+       Make – Su-KamDOI: 16/01/2014                                            house
+ xx. Automatic Voltage stabilizer                                     05       Power
+     Make- RS Power, Input: 140-280V, Output: 230V,Capacity-10KVA, (02         house
+                                                                      spare)
+     Frequency-50Hz, S. No. 1301052 DOI: 11/2011
+     Make- RS Power, Input: 140-280V, Output: 230V,Capacity-10KVA,
+     Frequency-50Hz, S. No. 1301050 DOI: 11/2011
+     Make- Uma Powertonics, Input: 140-280V, Output:230V, Capacity-
+     10KVA, Frequency-50Hz,
+     S. No. UA-1602012DOI: 10/12/2017
+     Make- Delta Electronic, Input: 140-280V, Output: 230V, Capacity-
+     15 KVA, Frequency-50Hz, Sr. No.692/670
+     Make- Uma Powertonics, Input: 140-280V, Output:
+     230V,Capacity-10KVA, Frequency-50Hz, S. No.UA-16020006
+xxi. Air Conditioner                  Page 3 of 8                     03       Eqpt room
+     Spilt A/C 1.5Ton Make: Blue star
+     Sl. No. 181Y009031791
+     DOI: 11/2011
+         Spilt A/C 1.5Ton Make: Blue star
+         Sl. No. 181Y009031989
+         DOI: 11/2011
+         3.Spilt A/C- 1.5 Ton Make: Videocon
+         Sl. No. 11081574200230
+         DOI: 12/2015
+    xxii. Isolation Transformer – 3 KVA                            01   Eqpt room
+          Make – Trusine Electronics Pvt. Ltd.
+          Sr. No. – TRU-IT 005
+          DOI: 06/2016
+   xxiii. Surge Protection Unit (For main light)                   01   Eqpt room
+          Make – JMV-LPS LTD
+          (Single Phase)DOI: 6/2016
+   xxiv. Surge Protection Unit (For Microwave Equipment)           01   Eqpt
+          (Three Phase)                                                 room
+          Make – JMV-LPS Ltd
+          DOI: 06/2016
+   xxv. 10 KWp ONGRID TIED SOLAR POWER PLANT                       40   Stn
+          Solar Panel Capacity:250 W
+          Rated Voltage: 31.00 V
+          Rated Current: 8.10 Amp, Make: Topsun Energy Pvt. Ltd.
+          DOI: 28/03/2018
+ Energy source
+
+          Mains Supply– PGVCL Mains – 415V
+          3-Phase, 50 Hz is available
+          Standby supply – 02 Nos DG set
+On Grid 10 KW Solar Systems:
+
+
+          Inverter
+          Make – Delta
+          Part No: RPI 103 FAOE 1000
+          Model – RPI M10ADOI: 28/03/2018.
+Lift:
+
+
+          Lift                                                     01   VTS
+          Make – TRIO                                                   Tower
+          Motor – 5.5 KW 14 Amp (Traction Motor)
+          Sr. No. - 10000 73653
+          Model – EH – 150GDOI: 11/2011
+CCTV:
+
+
+          CCTV SYSTEM: -
+          IR Dome CameraMake: HI Vision (04 no’s)
+          IR Bullet CameraMake: HI Vision (01 no)
+          IR PTZ CameraMake: HI Vision (01 no)
+          DVR 16 CH Make: HI Vision (01   no)4 of 8
+                                        Page
+          Sr No: 628593079
+          4TB Surveillance HDD WD (02 no’s)
+          LCD Monitor 22’’Make: AOC (01 no)
+COMPOUND STREET LIGHTS:
+
+
+         Total 15 number LED street lights are provided at station. Two
+         number lights are fitted on gate.
+
+Fire-extinguishers:
+
+
+         ABC Dry Powder – 5KG                                             04
+         Clean Agent - 4KG                                                02
+         DOI: 11/2011.
+
+
+
+
+LAND:
+
+                   i)     Area                  : 4897.223 Sq.m.
+                   ii)    Demarcation                  : Masonry
+                          compound wall on all the four sides
+                   iii)   No. of fruit trees           :40 trees
+                   iv)    No. of non- fruit bearing trees:65
+
+STRUCTURE:
+
+
+                   a.     LH cum Radar tower: - 60m high
+                          RCC circular tower with internal lift
+                          facility and staircase.
+                   b.     Inspection Quarter: - 01 Unit.
+                   c.     Group D Quater: 01 No.
+                   d.     Tech building
+                   e.     Compound wall: - The masonry
+                          compound wall with barbed wire coping
+                          on the top has been provided on four
+                          sides for enclosing land buildings with
+                          internal cement concrete pathway.
+                   f.     Main gate: - M. S. gate has been provided
+                          on the entrance.
+
+WATER SUPPLY:
+
+
+         Capacity: 60000 L
+
+
+ADDRESS& COMMUNICATION                  Page 5 of 8                       Station In-charge,
+                                                                          Bhadreshwar VTS
+                                                                          station,Taluka: Mundra
+                                                                          Dist: Kutch: 370 411
+DATE OF COMMISSIONING                 13/02/2012
+
+
+
+
+                        Page 6 of 8
+

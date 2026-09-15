@@ -1,0 +1,38 @@
+{
+  "nid": 1666,
+  "title": "Special Repairs and civil maintenance to the Lighthouse tower, allied buildings and compound wall and increasing the height of compound wall at Passipattinam Lighthouse.",
+  "summary": "Corrigendum announcing that the e-tender for special repairs and civil maintenance of the tower, allied buildings and compound wall (including raising the wall height) at Passipattinam Lighthouse is re-tendered as a percentage rate tender instead of an item rate tender.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(16)/1/2020-Civil Maintenance; Tender ID 2024_DGLL_811901_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Passipattinam Lighthouse", "station_id": "passipattinam-lighthouse", "kind": "lighthouse", "work": "Special repairs and civil maintenance to tower, allied buildings and compound wall; increasing compound wall height"}
+  ],
+  "scope": [
+    {"item": "Special Repairs and civil maintenance to the Lighthouse tower, allied buildings and compound wall and increasing the height of compound wall", "qty": null, "unit": null, "site": "Passipattinam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": null
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": null, "bid_opening": null},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-07-09", "change": "Due to administrative reasons the e-tender is re-tendered, changing from 'Item Rate Tender' to 'Percentage Rate Tender'"}
+  ],
+  "documents": [
+    {"file": "RetenderPassipattinam24.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only the re-tender corrigendum is attached; no NIT, cost, EMD or dates. Listing gives end date 2024-07-09 and opening 2024-07-10, not printed in this document. Official e-mail dlhlschennai@gmail.com printed."
+}

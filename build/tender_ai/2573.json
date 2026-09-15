@@ -1,0 +1,45 @@
+{
+  "nid": 2573,
+  "title": "Lighthouse Tower Modification works at Manakkodam Lighthouse",
+  "summary": "E-tender for modification works to the lighthouse tower at Manakkodam Lighthouse, Andhakaranazhy, Kerala, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-1001/1/2021-Admin; I/106183/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Manakkodam Lighthouse, Andhakaranazhy - 688 531", "station_id": "manakkodam-lighthouse", "kind": "lighthouse", "work": "Lighthouse tower modification works"}
+  ],
+  "scope": [
+    {"item": "Lighthouse Tower Modification works at Manakkodam Lighthouse", "qty": null, "unit": null, "site": "Manakkodam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1352859.0,
+    "emd_inr": 27057.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents to reach office by 22.09.2026 1500 hrs. Bid Securing Declaration listed among required documents."
+  },
+  "period": {"completion": "180 days", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2026-09-02", "pre_bid": "2026-09-15", "bid_submission_end": "2026-09-23", "bid_opening": "2026-09-24"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous body; OR, for contractors from Lakshadweep Group of Islands, experience in island works with any Government department during last 7 years",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two works each >= 50%, or one work >= 80%",
+    "Similar works: erection of trestle/lighthouse/communication tower or construction/maintenance of residential, institutional or office building, road etc. or other related civil construction works",
+    "PAN and GST registration",
+    "Annual turnover of last three years certified by Chartered Accountant",
+    "Declaration that bid is unconditional; affidavit on Rs 100 stamp paper that bidder is not blacklisted",
+    "Undertaking listing relatives serving as Gazetted/Account officers in MoPSW or DGLL",
+    "Copy of EPF / labour registration certificate; Tender Acceptance Letter; Bid Securing Declaration"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Manakko.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled (font mojibake); English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (NIT) only, printed page numbers 2-6; no BOQ, drawings or description of the modification works included. NIT dated 02.09.2026; bid submission period 02.09.2026 18:00 to 23.09.2026 15:00; bid query last date 14.09.2026 15:00. Eligibility items 4 and 5 are duplicates (CA-certified turnover)."
+}

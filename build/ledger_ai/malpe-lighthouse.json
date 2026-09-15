@@ -1,0 +1,45 @@
+{
+  "slug": "malpe-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Malpe Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1901,
+  "alol": "F0655",
+  "position": {"lat_text": "13° 13.6' N", "lon_text": "74° 41.4' E", "lat": 13.226667, "lon": 74.69},
+  "elevation_m": 28,
+  "characteristic_text": "Fl(White)3sec.",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 3,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 2.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 12, "geographical_nm": null, "text": "12 NM (unlabelled range)"},
+  "tower": {"type": "Rectangular Masonary Tower", "height_m": 12, "colour_scheme": "White"},
+  "optic": {
+    "make": null, "model": null, "type": "SL 155", "size": "180mm", "order": null,
+    "panels": 1,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Optic: Drum optic; Rotation Device --; R.P.M. --",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "20Watt"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "Sr. No 6295; make/model/code/band blank"},
+  "ais": {"present": false, "text": "Base station blank; VSAT Antenna 2.4m dia parabolic reflector, EX-C, Datum system M7LT satellite terminal listed"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": false, "text": "Mains '-', Standby '-'; engines '-'; solar plant 80 Watt x1 monocrystalline, 12V/100AH"},
+  "issues": [
+    "Duration of flash 2.5 Sec in a 3 sec period (flash longer than eclipse)",
+    "RACON Sr. No 6295 listed but all RACON details blank",
+    "Commissioning 1901 with subsequent innovations 1973, 2012"
+  ]
+}

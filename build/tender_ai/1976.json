@@ -1,0 +1,82 @@
+{
+  "nid": 1976,
+  "title": "Special repairs & maintenance work at Kelshi Lighthouse Station",
+  "summary": "Percentage-rate e-tender for special repairs and maintenance at Kelshi Lighthouse, Anjarle, Ratnagiri district, Maharashtra: scaffolding, repainting of lighthouse tower inside and out, concrete repairs, waterproofing, uPVC windows, paver-block relaying, plumbing and door/window fittings.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-MUM-03017(01)/1/2020-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kelshi Lighthouse, P.O. Anjarle, Dist. Ratnagiri, Maharashtra, Pin-415714", "station_id": "kelshi-lighthouse", "kind": "lighthouse", "work": "Special repairs and maintenance of lighthouse tower and premises"}
+  ],
+  "scope": [
+    {"item": "Double cup-lock scaffolding on exterior, all heights", "qty": "400", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Removing old distemper/enamel/cement paint from interior and exterior walls of lighthouse tower, doors, windows", "qty": "4107", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "White cement based putty 1 mm on interior of lighthouse tower", "qty": "1120", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Water thinnable cement primer (VOC < 50 g/l)", "qty": "3990", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Synthetic enamel paint on interior and exterior walls of lighthouse tower", "qty": "1350", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "French spirit polishing on woodwork", "qty": "35", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "FRP chajja 4 mm (RTM technology)", "qty": "5", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "uPVC two-track two-panel sliding windows, R4 series, multi-point locking", "qty": "40", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "PU sealant filling of frame gaps", "qty": "290", "unit": "Rmt", "site": "Kelshi Lighthouse"},
+    {"item": "Clearing jungle and vegetation", "qty": "2260", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Dismantling doors/windows (3 sqm and below)", "qty": "2", "unit": "Each", "site": "Kelshi Lighthouse"},
+    {"item": "Dismantling tile work in floors and roofs", "qty": "120", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Chipping unsound concrete from slabs, beams, columns (50 mm)", "qty": "35", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Cleaning rust from reinforcement bars up to 12 mm", "qty": "490", "unit": "Rmt", "site": "Kelshi Lighthouse"},
+    {"item": "Hard drawn steel wire fabric 75x25 mm anchored to concrete", "qty": "35", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Epoxy bonding adhesive (Roff/Fosroc/BASF) on chipped RCC/plaster", "qty": "155", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "25 mm SBR polymer modified cement mortar 1:4 in 2 layers", "qty": "155", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "3 mm APP modified five-layer waterproofing membrane", "qty": "130", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Repair to plaster in patches with polymer modified mortar", "qty": "330", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Acrylic emulsion paint, interior (two coats)", "qty": "1300", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Premium acrylic smooth exterior paint with silicone additives", "qty": "1437", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Synthetic enamel paint on old metal/wood/concrete surfaces", "qty": "670", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Taking out existing CC interlocking paver blocks", "qty": "700", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Cement concrete 1:2:4 in pavements", "qty": "60", "unit": "Cum", "site": "Kelshi Lighthouse"},
+    {"item": "Relaying old CC interlocking paver blocks on 50 mm sand bed", "qty": "700", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Polyurethane floor paint over paver block pathway/road", "qty": "1400", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "18 mm black granite for kitchen platforms, vanity counters, sills", "qty": "20", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "35 mm ISI flush door shutters", "qty": "5", "unit": "Sqm", "site": "Kelshi Lighthouse"},
+    {"item": "Taking out, repairing, painting and refixing door/window shutters", "qty": "56", "unit": "Each", "site": "Kelshi Lighthouse"},
+    {"item": "Polyethylene two-layer water storage tank ISI 12701 (Sintex/National/INFRA)", "qty": "5000", "unit": "Litre", "site": "Kelshi Lighthouse"},
+    {"item": "CPVC pipes 15/20/25/32 mm concealed and 40 mm exposed", "qty": "8; 20; 20; 20; 20", "unit": "Rmt", "site": "Kelshi Lighthouse"},
+    {"item": "110 mm uPVC rain water pipes with couplers, tees, bends, CI gratings", "qty": "40 (pipe); 14 each (fittings)", "unit": "Rmt / Each", "site": "Kelshi Lighthouse"},
+    {"item": "CP brass water supply fittings: bib cocks, stop cocks, angle valves, shower roses, couplings, wall mixers, jets, bottle traps, CPVC valves", "qty": "5-10 each", "unit": "Each", "site": "Kelshi Lighthouse"},
+    {"item": "Replacement of door/window fittings: sliding bolts, handles, hooks, tower bolts, butt hinges", "qty": "11-34 each", "unit": "Each", "site": "Kelshi Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4046594.0,
+    "emd_inr": 81000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "5% of contract value (FDR/BG) before work order, released on satisfactory completion; plus 5% security deposit from each RA bill released after 6 months defect liability period",
+    "notes": "Estimated cost inclusive of GST (BoQ total Rs 40,46,594.40). EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid three months; originals by 15/08/2025 16:00. MSME/NSIC bidders also required to submit EMD. Percentage-rate BoQ."
+  },
+  "period": {"completion": "06 months from date of award of contract", "bid_validity": "90 days from the date of opening of technical bid", "warranty": "6 months maintenance/defect liability period"},
+  "dates": {"published": "2025-07-21", "pre_bid": "2025-07-30", "bid_submission_end": "2025-08-13", "bid_opening": "2025-08-18"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with Central/State Govt/Municipal Corporation having tender limits >= estimated cost",
+    "Similar works (civil construction, repair and maintenance) in last 7 years: three works each >= Rs 16.18 lakh, or two each >= Rs 27.27 lakh, or one >= Rs 32.37 lakh (stated as 40%/60%/80%); sub-contractor experience not considered",
+    "Average annual turnover at least 30% of estimated cost (Rs 12,13,978) in last 3 financial years, CA certified",
+    "PAN, GST registration, ITRs for FY 2021-22 to 2023-24",
+    "Tender acceptance letter, unconditional-bid undertaking, bid securing declaration, notarised non-blacklisting affidavit, no-relatives declaration",
+    "Declaration under Official Secrets Act 1923 for secrecy of bid documents",
+    "Technical evaluation minimum 70/100: statutory 30, financial 20, experience 20, performance 20, key personnel 10"
+  ],
+  "specs": [
+    "Work per CPWD specifications; General Specifications for Civil Works (Section VI) including 53 grade OPC",
+    "Paints Asian/Berger/Shalimar/Indigo/Nerolac; PU floor paint Asian/Indigo/Dulux; epoxy Roff/Fosroc/BASF",
+    "uPVC windows EN 12608, IS 1367; FRP chajja IS 6746/IS 11551; APP membrane tested per ASTM D-5147; PU sealant ASTM C920",
+    "CPVC Astral/Prince/Finolex; CP fittings Jaquar/Parryware/Cera/Hindware; water tank ISI 12701 Sintex/National/INFRA"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "tender.pdf", "pages": 73, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled (font mojibake); English portions read", "page 73 is blank (scanned page)"]}
+  ],
+  "confidence": "high",
+  "notes": "Full tender document with priced BoQ. Inconsistencies: similar-work lakh values (16.18/27.27/32.37) do not match 40/60/80% of estimate; two-work threshold 60%; EMD original due 15/08/2025 (a holiday) after bid submission end 13/08/2025; technical opening 18/08/2025; turnover period ending 31.03.2024 vs 31.03.2025. Listing bid_opening null, end 2025-08-15. GCC/SCC and annexures boilerplate."
+}

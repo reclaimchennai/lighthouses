@@ -1,0 +1,68 @@
+{
+  "nid": 2013,
+  "title": "Engagement of event management agency to organizing 05th IALA Level-1 AtoN Manager Training at MNTI, Kolkata from 27.10.2025 to 21.11.2025.",
+  "summary": "Request for Proposal on GeM to engage an event management agency for the 5th IALA Level-1 AtoN Manager Training at the Marine Navigation Training Institute, Kolkata (27.10.2025 to 21.11.2025): opening ceremony at a 4/5-star hotel, catering, transport, accommodation, housekeeping, visits and closing ceremony.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "MNTI-01/1/2023-MNTI; I/84590/2025",
+    "issuing_office": "Marine Navigation Training Institute, Directorate of Lighthouses and Lightships, Taratala Road, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Marine Navigation Training Institute (MNTI), Deep Bhavan, Taratala Road, Kolkata", "station_id": null, "kind": "office", "work": "Venue of 25-day IALA Level-1 AtoN Manager course, catering, housekeeping and closing ceremony"},
+    {"name": "4- or 5-star hotel within 10 km of MNTI towards Kolkata city (to be proposed by agency)", "station_id": null, "kind": "other", "work": "Opening ceremony, working lunch/high tea, accommodation for IALA faculty"}
+  ],
+  "scope": [
+    {"item": "Arrangement of opening ceremony (stage 20'x10'x1', executive chairs, banner 20'x8', round tables, red carpet, 04/06 sofa sets, bouquets, flower decoration, shawl/gift, AV system with laptop, stationery) at banquet hall of 4/5-star hotel within 10 km of MNTI", "qty": "1", "unit": "LS", "site": "Hotel"},
+    {"item": "Working lunch (buffet) on opening day at 4/5-star hotel as per menu Annex VII", "qty": "50", "unit": "Each", "site": "Hotel"},
+    {"item": "Welcome dinner for dignitaries, faculties, participants on day 1 at MNTI", "qty": "50", "unit": "Each", "site": "MNTI Kolkata"},
+    {"item": "Working high tea (twice) on opening day at 4/5-star hotel", "qty": "100", "unit": "Each", "site": "Hotel"},
+    {"item": "Breakfast, lunch, dinner for 20 members for 25 days (25 x 20) as per menu Annex VII", "qty": "500", "unit": "Each", "site": "MNTI Kolkata"},
+    {"item": "Tea & snacks (twice) for 20 members for 25 days (25 x 20 x 2) at MNTI", "qty": "1000", "unit": "Each", "site": "MNTI Kolkata"},
+    {"item": "Hiring of vehicles for pickup & drop from Kolkata airport/railway stations to MNTI", "qty": "40", "unit": "trip", "site": null},
+    {"item": "Full-day technical visit of trainees to lighthouses in 25-seater AC bus", "qty": "1", "unit": "LS", "site": null},
+    {"item": "Full-day cultural visit of trainees to Kolkata city in 25-seater AC bus", "qty": "1", "unit": "LS", "site": null},
+    {"item": "Course materials, carry case, printing, information brochures, study materials", "qty": "16", "unit": "Each", "site": null},
+    {"item": "Mementos for participants and dignitaries as approved by DLL", "qty": "50", "unit": "Each", "site": null},
+    {"item": "Photography & videography on opening, closing and all training days", "qty": "1", "unit": "LS", "site": null},
+    {"item": "Linen and toiletries for trainees in 10 MNTI rooms incl. weekly laundry", "qty": "1", "unit": "LS", "site": "MNTI Kolkata"},
+    {"item": "02 housekeeping staff per day for mopping and wet cleaning of rooms, toilets, classrooms, library, kitchen, gym, conference hall", "qty": "28", "unit": "Days", "site": "MNTI Kolkata"},
+    {"item": "Hotel accommodation for 03 or 04 IALA faculties/dignitaries with breakfast and one major meal at 4/5-star hotel", "qty": "25", "unit": "Days", "site": "Hotel"},
+    {"item": "Arrangement of closing ceremony (stage 20'x10'x2', 4 sofa sets, banner, round tables, flowers, canopies, lighting) for 50 persons with cultural evening in open lawn", "qty": "1", "unit": "LS", "site": "MNTI Kolkata"},
+    {"item": "Farewell dinner for dignitaries, faculties, participants at MNTI on last day", "qty": "50", "unit": "Nos.", "site": "MNTI Kolkata"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2429000.0,
+    "emd_inr": 52000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "5% of contract value, PBG within 05 days of work order, valid 60 days beyond completion",
+    "notes": "Estimated cost printed as Rs. 24.29 Lakh. EMD by DD/FDR of any commercial bank in favour of Director, Lighthouses and Lightships, payable at Kolkata, valid at least 90 days; 'No exemption from EMD is permitted' (yet Annexure I is a Bid Security Declaration for EMD waiver). Bid price inclusive of GST (BOQ adds GST @18%). 100% payment on completion of event. LD 0.5% of contract value per day, max 10%."
+  },
+  "period": {"completion": "Event 27.10.2025 to 21.11.2025", "bid_validity": "90 days from date of opening of technical bid (financial bids valid at least 3 months from submission)", "warranty": null},
+  "dates": {"published": "2025-09-11", "pre_bid": "2025-09-23", "bid_submission_end": "2025-10-03", "bid_opening": "2025-10-03"},
+  "eligibility": [
+    "Company/partnership/LLP/society registered under the relevant Act, with Income Tax and GST registration (valid GST and PAN)",
+    "In event management business for at least last 10 years",
+    "Similar works for GoI/State Govts/PSUs/corporates in last 7 years ending 31.03.2025: one work >= Rs 19.43 lakh, or two >= Rs 12.14 lakh each, or three >= Rs 9.72 lakh each; similar work = planning and organising indoor/outdoor events attended by VIPs (Union Secretary, Joint Secretary, Director General, foreign delegates)",
+    "Not blacklisted by Central/State Govt or any department; not debarred by DGLL",
+    "Positive net worth in last 03 financial years",
+    "EMD as per RFP",
+    "Technical evaluation (100 marks, min 70 to qualify): experience 40, key personnel CVs 10, average turnover >= 30% of estimate 10, ITR 3 years 9, non-blacklisting affidavit 9, PAN 6, GST 6, solvency certificate >= 40% of estimate 10",
+    "Creative/concept presentation (max 25-30 minutes) before evaluation committee; QCBS 70% technical / 30% financial"
+  ],
+  "specs": [
+    "Opening/closing stages 20'x10'x1' and 20'x10'x2'; banners 20'x8'",
+    "Hotel must be 4 or 5 star with convention hall not less than 2500 sq ft within 10 km of MNTI",
+    "Vehicles: SUVs like Innova Crysta for delegates/VIPs; 25-seater AC bus for visits",
+    "No disposables in dining: ceramic plates/bowls, steel cutlery, cloth napkins; max 06 contractor staff in MNTI kitchen",
+    "Detailed daily menus in Annexure VII"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "ATCIALA.pdf", "pages": 39, "read": "mixed", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "39-page RFP; cover page read from image, rest from text layer. No GeM bid number printed; 'File No:' left blank on NIT. Inconsistencies: EMD submission deadline 09.10.2025 15:00 is after technical bid opening 03.10.2025 16:00; concept presentation 04.10.2025. Experience window ends 31.03.2025 in eligibility but 31.07.2024 in technical evaluation table. 'No exemption from EMD' conflicts with the EMD-waiver Bid Security Declaration (Annexure I) and clause 5.4 allowing MSME certificate. Tea/snacks BOQ quantity printed across a page break as '100' / '0' (read as 1000, consistent with 25x20x2). Tender acceptance letter is Annexure III in section II but Annexure VI in section III; menu refers to Day 26 dinner while course is 25 days. Page 27 (Section V) is blank. Participants from Australia, France, Timor Leste, Philippines, Bangladesh, Tanzania, Kenya, Trinidad and Tobago etc. Bid submission 12.09.2025 16:00 to 03.10.2025 15:00."
+}

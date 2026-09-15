@@ -1,0 +1,41 @@
+{
+  "slug": "navadra-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Navdra Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1986,
+  "alol": "F 0398",
+  "position": {"lat_text": "21° 56.5' N", "lon_text": "69° 13.9' E", "lat": 21.941667, "lon": 69.231667},
+  "elevation_m": 55,
+  "characteristic_text": "Fl(3)W15 Sec. (0.4+1.5)2+0.4+10.8=15 Sec)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "(0.4+1.5)2+0.4+10.8=15 Sec",
+    "sequence_s": [0.4, 1.5, 0.4, 1.5, 0.4, 10.8],
+    "flash_duration_s": 0.4
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": null, "text": "18 NM (single unlabelled range)"},
+  "tower": {"type": "Circular concrete Tower", "height_m": 35, "colour_scheme": "3 Red and 2 White bands"},
+  "optic": {
+    "make": "MSM", "model": "MBR-300", "type": "MBR-300", "size": null, "order": null,
+    "panels": 3,
+    "rotation_device": "Stepper motor",
+    "rpm": 4,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: Stepper motor; R.P.M. 4",
+    "divergence_horizontal_deg": 9,
+    "divergence_vertical_deg": 9,
+    "divergence_text": "9° (Horizontal), 9° (Vertical)",
+    "illuminant": "CDMT-150 Watt-01 (Main: 230V/150W CDMT)"
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": false, "text": "NAIS - NA"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V/3-phase/50 Hz; DG Set 15 KVA Kirloskar; Solar Plant 9 KWP (36 Nos) with 48 Nos 2V/900AH battery"},
+  "issues": ["Effective beam intensity blank", "Name printed 'NAVDRA Lighthouse' (postal address 'Navadra')"]
+}

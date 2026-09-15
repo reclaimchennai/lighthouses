@@ -1,0 +1,42 @@
+{
+  "nid": 1050,
+  "title": "Routine maintenance for water supply/sanitary works for staff quarters and office building at Noida.",
+  "summary": "Routine maintenance of water supply and sanitary works for the staff quarters and office building of the Directorate General of Lighthouses and Lightships at Noida, under a three-year contract.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "N-14/2/2018-NC",
+    "issuing_office": "Directorate General of Lighthouses & Lightships, Noida"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "DGLL staff quarters and office building, A-13 Sector-24, Noida", "station_id": null, "kind": "office", "work": "Routine maintenance of water supply and sanitary works"}
+  ],
+  "scope": [
+    {"item": "Routine maintenance for water supply/sanitary works for staff quarters and office building", "qty": null, "unit": null, "site": "Noida"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1000000.0,
+    "emd_inr": 20000.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": null,
+    "notes": "Expected estimated cost Rs 10,00,000 for one year, inclusive of GST (printed 'Rs.10,00000/-'); contract period three years. Tender fee (non-refundable) and EMD by DD in favour of Pay & Accounts Officer, Lighthouses & Lightships, Noida, in original by 30/06/2023 15:00."
+  },
+  "period": {"completion": "03 Year (Three Year) contract", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2023-06-19", "pre_bid": "2023-06-26", "bid_submission_end": "2023-06-30", "bid_opening": "2023-07-03"},
+  "eligibility": [
+    "Enlisted contractor with CPWD, State PWD, Railways, MES, NOIDA authority or other Central/State organisations in appropriate class",
+    "Similar works completed in last 7 years: three works >= 40%, or two >= 50%, or one >= 80% of estimated cost",
+    "Valid registration certificate; contractors who satisfactorily completed works in this department in last 7 years and meet para 2 are deemed eligible",
+    "Annual financial turnover not less than 30% of estimated cost",
+    "Permanent Account Number"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT ENGLISH (2).pdf", "pages": 2, "read": "mixed", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Listing title is only the generic 'NOTICE INVITING e- TENDER'; the document's actual work is routine water supply/sanitary maintenance at DGLL Noida. NIT dated 15/06/2023; download/submission 19/06/2023 to 30/06/2023 15:00; opening 03/07/2023 16:00. Page 2 rendered to confirm (text layer showed an extra empty page). English-only NIT with bilingual letterhead."
+}

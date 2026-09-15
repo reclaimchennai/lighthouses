@@ -1,0 +1,48 @@
+{
+  "slug": "betul-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Betul Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2014,
+  "alol": "F 0631",
+  "position": {"lat_text": "15° 08’.41.7” N", "lon_text": "73° 57’29.6“ E", "lat": 15.144917, "lon": 73.958222},
+  "elevation_m": 89,
+  "characteristic_text": "FL4 (W) 15S",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 4,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 22, "geographical_nm": null, "text": "22NM (unlabelled)"},
+  "tower": {"type": "octagonal shaped RCC", "height_m": 15, "colour_scheme": "spiral band red & white"},
+  "optic": {
+    "make": "3STECHS", "model": null, "type": "Revolving", "size": "Dia 550 mm Height 900mm", "order": null,
+    "panels": 3,
+    "rotation_device": "Stepper motor",
+    "rpm": 4,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving; Rotation Device: Stepper motor; R.P.M. 4 RPM",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": "2.5 degrees",
+    "illuminant": "3X 30 Watts=90 watts Led lamp"
+  },
+  "intensity_cd": null,
+  "racon": {"present": true, "code": null, "text": "RACON Sr. No 6295; make, model, code, band blank"},
+  "ais": {"present": false, "text": "NAIS base station model/type/MMSI blank; VSAT 2.4m dia, EX-C, Datum system M7LT modem listed"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "State electricity 230VAC; Kirloskar 15kva DG set (1500 RPM, air cooled); solar plant 400W (100Wx4)"},
+  "issues": [
+    "Characteristic says FL4 (W) 15S but Duration of Flash field says 'Flash (1) white 15 sec'",
+    "Latitude printed in mixed format (15° 08’.41.7”); interpreted as 15° 08' 41.7\"",
+    "No. of lens given as '3 tyre 3 panel (each panel 3 led lights)'",
+    "Divergence 2.5 degrees not labelled horizontal or vertical",
+    "Effective beam intensity blank",
+    "RACON lists only Sr. No 6295 with no make/model/code"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "kachhigadh-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Kachhigadh Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F 0397",
+  "position": {"lat_text": "22º 19.87’ N", "lon_text": "68º 56.92’ E", "lat": 22.331167, "lon": 68.948667},
+  "elevation_m": 33,
+  "characteristic_text": "Fl(4)W15 Sec. (0.4+1.5)3+0.4+8.9=15 Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 4,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "(0.4+1.5)3+0.4+8.9=15 Sec",
+    "sequence_s": [0.4, 1.5, 0.4, 1.5, 0.4, 1.5, 0.4, 8.9],
+    "flash_duration_s": 0.4
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 25.7, "geographical_nm": null, "text": "25.7 NM (unlabelled)"},
+  "tower": {"type": "Circular concrete Tower", "height_m": 30, "colour_scheme": "3 Red and 2 White bands (Bottom band Red)"},
+  "optic": {
+    "make": "BBT", "model": "MBR-300", "type": "MBR-300", "size": null, "order": null,
+    "panels": 4,
+    "rotation_device": "Stepper motor",
+    "rpm": 4,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: Stepper motor; R.P.M. 4; Pedestal: Mercury float",
+    "divergence_horizontal_deg": 9,
+    "divergence_vertical_deg": 9,
+    "divergence_text": "9º (Horizontal), 9º (Vertical)",
+    "illuminant": "230V/150W Metal Halide Lamp"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": null},
+  "ais": {"present": false, "text": "NAIS –NA"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "440V/3-phase/50 Hz mains; DG Set 15 KVA Kirloskar (20.5 BHP); 3 KWp solar plant (12 panels, 48 x 2V/300AH)"},
+  "issues": ["Effective beam intensity blank", "Date of commissioning blank"]
+}

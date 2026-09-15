@@ -1,0 +1,45 @@
+{
+  "nid": 2125,
+  "title": "Construction of security cabin at Paradeep DGPS and Lighthouse Station",
+  "summary": "E-tender for construction of a security cabin at Paradeep DGPS and Lighthouse Station, Jagatsinghpur district, Odisha, issued by the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Paradeep DGPS and Lighthouse Station, District Jagatsinghpur, Odisha-754142", "station_id": "paradeep-lighthouse", "kind": "lighthouse", "work": "Construction of security cabin"}
+  ],
+  "scope": [
+    {"item": "Construction of security cabin at Paradeep DGPS and Lighthouse Station", "qty": null, "unit": null, "site": "Paradeep DGPS and Lighthouse Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 943958.89,
+    "emd_inr": 19000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata, payable at Kolkata, valid 3 months from technical bid opening; exemption not allowed; original EMD to reach office on or before last date of bid submission."
+  },
+  "period": {"completion": "90 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-11-20", "pre_bid": "2025-12-02", "bid_submission_end": "2025-12-11", "bid_opening": "2025-12-12"},
+  "eligibility": [
+    "Valid registration of appropriate class in appropriate category (building civil work) with Central Govt department/undertaking/autonomous body or State Govt",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two works each >= 50%, or one work >= 80%; executed values updated at 7% simple interest per annum",
+    "Similar works: repairs and maintenance or construction work of any type of building (RCC or masonry), supported by client certificates",
+    "Valid PAN card and GST registration",
+    "Notarized affidavit (current year 2025) that bidder is neither blacklisted nor debarred by any Central/State Govt organisation",
+    "Undertaking on letter pad that price bid is unconditional",
+    "Income tax returns for FY 2022-23, 2023-24 and 2024-25",
+    "Tender Acceptance Letter as per format; all other documents as given in Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITPARADEEP.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled; English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "NIT (printed pages 3-6) carries no file/reference number and no issue date; 'published' taken from the start of the bid document download period (20/11/2025 16:00). Bid submission until 11/12/2025 15:00; technical bid opening 12/12/2025 16:00. No BOQ or drawings included. Bidders asked to visit the site before quoting."
+}

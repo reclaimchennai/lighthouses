@@ -1,0 +1,44 @@
+{
+  "nid": 2002,
+  "title": "Civil Maintenance to the Lighthouse tower, Allied buildings, Aerial masts and compound wall at Portonovo Lighthouse Station",
+  "summary": "Two-cover percentage-rate e-tender for civil maintenance of the lighthouse tower, allied buildings, aerial masts and compound wall at Portonovo Lighthouse near Parangipettai, Cuddalore District, Tamil Nadu.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(08)/1/2021-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, 5/20 Jaffer Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Portonovo Lighthouse Station, near Parangipettai, Cuddalore District, Tamilnadu", "station_id": "portonovo-lighthouse-and-navtex-station", "kind": "lighthouse", "work": "Civil maintenance to lighthouse tower, allied buildings, aerial masts and compound wall"}
+  ],
+  "scope": [
+    {"item": "Civil maintenance to the lighthouse tower, allied buildings, aerial masts and compound wall", "qty": null, "unit": null, "site": "Portonovo Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2145159.0,
+    "emd_inr": 42903.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of any scheduled/nationalized bank in favour of Director of Lighthouses and Lightships, Chennai; validity stated as three months (table) and 90 days (clause 1.1) from technical bid opening; EMD exempted for valid MSME/NSIC certificate. Tender fee Nil."
+  },
+  "period": {"completion": "04 (four) months", "bid_validity": "Six months", "warranty": null},
+  "dates": {"published": "2025-09-03", "pre_bid": "2025-09-17", "bid_submission_end": "2025-09-23", "bid_opening": "2025-09-24"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Similar works completed in last seven years: three >= 40%, two >= 50% or one >= 80% of estimated cost; values updated at 7% simple interest per annum; certificates from officer not below Executive Engineer",
+    "Similar works: repairs and civil maintenance of building or construction of any type of building/compound wall/retaining wall/RCC work",
+    "PAN/ITR/GST registration",
+    "CA-certified average annual turnover on construction works at least 40% of estimated cost in last 3 financial years ending 31 March 2025",
+    "Key technical personnel for supervision and execution",
+    "Unconditional tender undertaking (Annexure III), tender acceptance letter (Annexure II), non-blacklisting affidavit, relatives declaration, Make in India self-certification (Annexure VI)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITPORTONOVO.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only Section I (NIT, printed pages 3-6) included; no BOQ. Times of submission/opening not printed. Clause numbering in terms jumps (1.5 followed by an unnumbered '1.' then 1.7)."
+}

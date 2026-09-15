@@ -1,0 +1,44 @@
+{
+  "nid": 1759,
+  "title": "Providing and laying CC road from Lighthouse entrance gate to main road (Highway) at Chandrabhaga Lighthouse, Odisha.",
+  "summary": "Offline notice inviting quotations (percentage rate) for building a cement concrete approach road from the lighthouse entrance gate to the main highway at Chandrabhaga Lighthouse, Puri district, Odisha, issued by the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Kol-08007(01)/1/2019-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chandrabhaga Lighthouse, Dist. Puri, Odisha 752111", "station_id": "chandrabhaga-lighthouse", "kind": "lighthouse", "work": "CC approach road from lighthouse entrance gate to main road (highway)"}
+  ],
+  "scope": [
+    {"item": "Earth work excavation in trenches for foundation, lift up to 1.5 m, disposal within 1 km lead and back-filling (Rs 189.34 per cum, Rs 6,816.21)", "qty": "36.00", "unit": "CUM", "site": "Chandrabhaga Lighthouse"},
+    {"item": "Cement concrete 1:3:6 with 20 mm graded aggregate including mixing, placing, consolidation, curing (Rs 7,657.57 per cum, Rs 1,83,781.74)", "qty": "24.00", "unit": "CUM", "site": "Chandrabhaga Lighthouse"},
+    {"item": "Cement concrete 1:2:4 with 20 mm aggregate for CC road and pathway in panels, 150 mm thick, including form work, vibrating, curing (Rs 8,404.00 per cum, Rs 3,02,543.85)", "qty": "36.00", "unit": "CUM", "site": "Chandrabhaga Lighthouse"},
+    {"item": "Centering and shuttering including strutting, propping and removal of form (Rs 418.31 per sqm, Rs 12,549.19)", "qty": "30.00", "unit": "SQM", "site": "Chandrabhaga Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 505691.0,
+    "emd_inr": 10200.0,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value (FDR/BG) within 2 days of letter of intent, valid 6 months from completion (warranty period)",
+    "notes": "Estimated cost inclusive of GST. EMD by DD/FDR of any nationalized/RBI approved bank in favour of Director of Lighthouses and Lightships, Kolkata; bids without EMD not considered. Percentage rate quotation; L1 on total basic amount. Penalty 0.5% per week, max 10%."
+  },
+  "period": {"completion": "07 days from date of award of work", "bid_validity": "180 days from date of opening of bid", "warranty": "06 months from date of completion"},
+  "dates": {"published": "2024-10-03", "pre_bid": null, "bid_submission_end": "2024-10-07", "bid_opening": "2024-10-07"},
+  "eligibility": [
+    "Valid PAN and GST registration",
+    "At least one similar work >= 80%, or two each >= 50%, or three each >= 40% of estimated value in last seven years",
+    "Similar work: experience in any civil works at Central Govt/State Govt/PSU/autonomous body",
+    "Tender acceptance letter (Annexure I) and undertaking on letterhead"
+  ],
+  "specs": ["CC road in panels, 150 mm thick, M15-equivalent 1:2:4 mix over 1:3:6 base concrete"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Tendernotice_1.pdf", "pages": 15, "read": "text", "language": "en", "unreadable": ["Section 6 mentions a drawing but none is present in the text"]}
+  ],
+  "confidence": "high",
+  "notes": "15-page NIQ with percentage-rate price bid. Dates inconsistent: sealed quotations to reach by 06.10.2024 15:00 in the NIQ text, but table gives last date of submission 07.10.2024 15:00 and opening 07.10.2024 16:00 (table dates recorded). Completion period of only 7 days. Same site as the later bituminous road tender nid 1915."
+}

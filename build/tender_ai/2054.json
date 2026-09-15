@@ -1,0 +1,79 @@
+{
+  "nid": 2054,
+  "title": "Development of IQ at Kanhoji Angre Lighthouse Station",
+  "summary": "Percentage-rate e-tender for renovating the inspection quarter at Kanhoji Angre Lighthouse, Khanderi Island, Raigad, Maharashtra: partitions, doors, windows, flooring, false ceiling, washroom plumbing and sanitary fittings, septic tank, painting and boat transport of materials.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-MUM-03012(03)/1/2021-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kanhoji Angre Lighthouse Station (Island Station), Khanderi Island, Raigad, Maharashtra", "station_id": "kanhoji-angre-lighthouse", "kind": "lighthouse", "work": "Development (renovation) of Inspection Quarter"}
+  ],
+  "scope": [
+    {"item": "Dismantling existing unserviceable wooden/steel doors, windows, ventilators, cupboards (area 3 sqm and below)", "qty": "8", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Dismantling old plaster or skirting, raking out joints", "qty": "20", "unit": "sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "66 mm partition with 8 mm double-skin cement board (IS 14862) on GI frame", "qty": "95", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "35 mm ISI flush door shutters, decorative teak veneer, SS butt hinges", "qty": "9", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Fully glazed aluminium sliding windows, powder coated, 5 mm tinted glass", "qty": "10", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Brass 100 mm mortice latch and lock with 6 levers", "qty": "4", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "125 mm brass handles", "qty": "8", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "250x10 mm brass tower bolts", "qty": "4", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Brass hanging type floor door stopper", "qty": "4", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Hydraulic door closer (IS 3564)", "qty": "3", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Vitrified floor tiles 600x600 mm (Johnson/Kajaria/Nelco)", "qty": "10", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "False ceiling with PVC mat board on hardwood frame", "qty": "70", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "CPVC hot & cold water pipes 15/20/25/32 mm concealed and 40 mm exposed", "qty": "10; 7; 8; 15; 25", "unit": "Rmt", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Wall mounted single piece syphonic water closet with 10 L cistern (Jaquar/Parryware/Hindware)", "qty": "1", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Urinal basin with 5 L PVC automatic flushing cistern", "qty": "1", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Vitreous china wash basin 550x400 mm with CP brass basin mixer", "qty": "2", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "600x450 mm bevelled mirror", "qty": "2", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "PTMT towel rail; CP brass napkin holder; PTMT soap dish; glass shelf", "qty": "2 each", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Water supply fittings: bib cocks, stop cocks, angle valves, shower roses, waste couplings, waste pipes, mosquito proof couplings, telephonic wall mixers, jets, flush cocks, connection pipes, CPVC valves 25/32/40 mm, geyser flexible pipes", "qty": "4 each", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "110 mm uPVC rain water pipes with couplers, tees, bends, CI gratings", "qty": "45 (pipe); 3 each (fittings)", "unit": "Rmt / Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Brick masonry gully chamber 50x45x60 cm", "qty": "1", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Masonry septic tank, 5 user capacity (drawing B/1831)", "qty": "1", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Soak pit 1.20x1.20x1.20 m", "qty": "1", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "100 mm CI grating for gully trap", "qty": "2", "unit": "Each", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Repair to plaster with polymer modified mortar", "qty": "20", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "18 mm black granite for kitchen platforms, vanity counters, sills", "qty": "20", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Removing old distemper/paint from walls", "qty": "220", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "White cement based putty 1 mm on interior walls", "qty": "220", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Premium acrylic smooth paint with silicone additives", "qty": "220", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Polyurethane floor paint over old paver block pathway", "qty": "40", "unit": "Sqm", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Hire of mechanised boats/pontoons for potable water, labour and material transport from Thal jetty to Kanhoji Angre landing", "qty": "1", "unit": "Job", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Labour for carriage of construction material from Kanhoji Angre landing to lighthouse premises", "qty": "1", "unit": "Job", "site": "Kanhoji Angre Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 833880.0,
+    "emd_inr": 16700.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "5% of contract value (FDR/BG) before work order, released on satisfactory completion; plus 5% security deposit from each RA bill released after 6 months defect liability period",
+    "notes": "Estimated cost inclusive of GST (BoQ total Rs 8,33,880.60; boat hire Rs 30,000 and carriage labour Rs 30,000 included). EMD by DD/FDR in favour of Director of Lighthouses and Lightships - Mumbai, valid three months; MSME/NSIC bidders also required to pay EMD. Percentage-rate BoQ; quantities may vary +/-25%."
+  },
+  "period": {"completion": "01 month from date of award of contract / issue of work order", "bid_validity": "90 days from the date of opening of technical bid", "warranty": "6 months maintenance/defect liability period"},
+  "dates": {"published": "2025-10-09", "pre_bid": "2025-10-13", "bid_submission_end": "2025-10-14", "bid_opening": "2025-10-15"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with Central/State Govt/Municipal Corporation having tender limits >= estimated cost",
+    "Similar works (civil construction, repair and maintenance) in last 7 years: three works each >= 40% (Rs 3.34 lakh), or two each >= 60% (Rs 5.00 lakh), or one >= 80% (Rs 6.67 lakh); completion certificates from officer not below Executive Engineer; sub-contractor experience not considered",
+    "Average annual turnover at least 30% of estimated cost (Rs 2,50,164) in last 3 financial years, CA certified",
+    "PAN, GST registration, ITRs for FY 2021-22 to 2023-24",
+    "Tender acceptance letter, unconditional-bid undertaking, bid securing declaration, notarised non-blacklisting affidavit, no-relatives declaration, Make in India self-certification",
+    "Technical evaluation minimum 70/100: statutory 30, financial 20, experience 20, performance 20, key personnel 10 (1 graduate civil engineer, 2 diploma civil engineers)"
+  ],
+  "specs": [
+    "Work per CPWD specifications Vol I-II and General Specifications for Civil Works (Section VI)",
+    "Cement board partition IS 14862 Type-B Cat-III; flush doors IS 2202 Part I; aluminium sections IS 733/IS 1285, Jindal or equivalent; Saint Gobain tinted glass",
+    "Vitrified tiles IS 15622 (Johnson/Kajaria/Nelco); sanitaryware Jaquar/Parryware/Hindware; paints Asian/Berger/Shalimar; PU floor paint Asian/Indigo/Dulux",
+    "uPVC rain water pipes IS 13592 Type A with seal rings IS 5382"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "improvementiqtender.pdf", "pages": 72, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled (font mojibake); English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "Full tender document including priced BoQ (estimated rates). Inconsistencies: two-work experience threshold 60% (not the usual 50%); turnover period stated as ending 31.03.2024 in one place and 31.03.2025 in another; ITR years 2021-22 to 2023-24. Island site reachable only by boat from Thal (Alibag)/Gateway of India jetty. GCC/SCC and annexures are standard boilerplate."
+}

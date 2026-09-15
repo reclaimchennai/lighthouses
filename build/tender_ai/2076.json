@@ -1,0 +1,44 @@
+{
+  "nid": 2076,
+  "title": "Development work for promotion of tourism at Kiltan South Lighthouse.",
+  "summary": "Two-cover e-tender for tourism development works at Kiltan South Lighthouse, Kiltan island, UT of Lakshadweep.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kiltan Lighthouse, Kiltan- 682 558, U T of Lakshadweep (Kiltan South Lighthouse)", "station_id": "kiltan-lighthouse-south", "kind": "lighthouse", "work": "Development work for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Development work for promotion of tourism", "qty": null, "unit": null, "site": "Kiltan South Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3417498.0,
+    "emd_inr": 68350.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by Demand Draft/Fixed Deposit receipt; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents to reach office by 12.11.2025 15:00. Tender fee Nil."
+  },
+  "period": {"completion": "120 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-10-27", "pre_bid": "2025-11-06", "bid_submission_end": "2025-11-13", "bid_opening": "2025-11-14"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous body; OR, for Lakshadweep contractors, work experience with any Government department in island works during last 7 years",
+    "Similar works in last 7 years: three >= 40%, two >= 50% or one >= 80% of estimated cost",
+    "Similar works: roof sheet truss work of multistorey building, solar frame truss work, waterproofing, residential/institutional/office buildings, lighthouse tower or related civil construction",
+    "PAN and GST registration",
+    "Annual turnover of last three years certified by Chartered Accountant",
+    "Unconditional bid declaration; not-blacklisted affidavit on Rs 100 stamp paper; list of relatives (Gazetted/Accounts officers) in MoPSW/DGLL",
+    "EPF / labour registration certificate; tender acceptance letter; bid securing declaration"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (5).pdf", "pages": 3, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I only (pages 2-4); no BOQ or scope details. NIT dated 27.10.2025. Bid download/submission 27.10.2025 18:00 to 13.11.2025 15:00; queries by 05.11.2025 15:00; pre-bid 06.11.2025 15:00; original EMD by 12.11.2025 15:00; technical opening 14.11.2025 15:00. No file/tender reference number printed. Location printed as Kiltan Lighthouse; name of work says Kiltan South Lighthouse."
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "battimalv-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Battimalv Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1986,
+  "alol": "F 1222.4",
+  "position": {"lat_text": "8° 50.20' N", "lon_text": "92° 51.60' E", "lat": 8.836667, "lon": 92.86},
+  "elevation_m": 20,
+  "characteristic_text": "Fl (4) W 20 Sec (fl 0.5, ec 1, fl 0.5, ec 1, fl 0.5, ec 1, fl 0.5, ec 15)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 4,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "fl 0.5, ec 1, fl 0.5, ec 1, fl 0.5, ec 1, fl 0.5, ec 15",
+    "sequence_s": [0.5, 1, 0.5, 1, 0.5, 1, 0.5, 15],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 8, "geographical_nm": null, "text": "8 NMiles (single unlabelled range)"},
+  "tower": {"type": "G.I. Trestle Tower", "height_m": 14, "colour_scheme": "Painted White"},
+  "optic": {
+    "make": "ANA", "model": null, "type": "LED Flasher", "size": "300 mm", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Optic: Cut and Polished drum optic inside Lantern; Type: LED Flasher; R.P.M.: NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "T.F 3B Micropower flasher with 6 way lamp changer (Tideland); 12 V 20 W quartz Halogen Crystal lamp"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "NA"},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar plant 40 W, 01 panel, Mono Crystalline, 12V/100AH battery; mains and engine fields blank"},
+  "issues": [
+    "Optic type listed as 'LED Flasher' but illuminant lists a T.F 3B micropower flasher with 12 V 20 W quartz halogen lamp",
+    "NAIS section has no equipment details (only template label 'VSAT Antenna Prodelin 2.4 meter')"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "nid": 1727,
+  "title": "Design, fabrication and supply of Buoy and Lighthouse models for Marine Navigation Training Institute, Kolkata",
+  "summary": "E-tender (two-cover) for design, fabrication and supply of buoy and lighthouse models for the Marine Navigation Training Institute (MNTI), Kolkata (Kolkata Directorate).",
+  "category": "other",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MNTI/1/2023-MNTI",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Marine Navigation Training Institute, Kolkata", "station_id": null, "kind": "office", "work": "Supply of buoy and lighthouse models for training"}
+  ],
+  "scope": [
+    {"item": "Design, fabrication and supply of Buoy and Lighthouse models", "qty": null, "unit": null, "site": "Marine Navigation Training Institute, Kolkata"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3522300.0,
+    "emd_inr": 70500.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR from any nationalised/commercial bank in favour of Director, DLL Kolkata, or valid MSME/NSIC certificate (exemption for registration in the subject work); original EMD/hard copy of certificate to reach office by 18.09.2024. Tender fee 'Not Applicable'."
+  },
+  "period": {"completion": "90 days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-08-22", "pre_bid": "2024-09-04", "bid_submission_end": "2024-09-18", "bid_opening": "2024-09-19"},
+  "eligibility": [
+    "Reputed firms with experience in similar works: design, fabrication and supply of small-scale proportionate models to Central Govt/State Govt/PSU/autonomous bodies/reputed private establishments"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT3.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled"]}
+  ],
+  "confidence": "high",
+  "notes": "Section 1 NIT only; number, types and scale of models not stated. Bid submission 22.08.2024 to 18.09.2024 15:00; technical bid opening 19.09.2024 16:00; pre-bid 04.09.2024 15:00. Bid validity not stated in NIT."
+}

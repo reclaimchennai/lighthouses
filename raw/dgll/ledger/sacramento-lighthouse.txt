@@ -1,0 +1,215 @@
+                        Sacramento Lighthouse
+                           Estd.1985/2015
+                      VISAKHAPATNAM DIRECTORATE
+                            MASTER LEDGER
+
+1. Name                          : SACRAMENTO LIGHTHOUSE
+     Sr.No.
+2.                               : 0958
+     (as per A.L.O.L)
+                                   Lat: 16o 35.2' N
+3. Position                      :
+                                   Long: 82o 16.8' E
+4. Elevation                     :        48 Mtr
+                                     FL White in every 5 Seconds
+5. Characteristic                :
+                                         (Fl .0.2, ec 4.8 )
+6. Range in nautical miles
+        i)          Luminous         :       24 andelas
+      ii)   Geographical : 18 NM
+7. Lighthouse Tower
+      i)    Type         : Circular Masonry Tower
+        ii)         Height           : 45 Mtr
+        iii)        Colour
+                                     : Red and White spiral bands
+                    Scheme
+        iv)         Visibility
+                                     : 2250--0450 (1800)
+                    Sector
+
+8.     Optical Equipment
+a)           i)       Make               : M/s Chance Brothers, U.K.
+             ii)   Size                  : 500 mm 3rd Order large Revolving
+             iii)  Focal
+                                         : 500
+                   distance
+             iv)   No. of
+                                         : 2 Nos.
+                   Panels
+             v)    Divergence
+                Main                     : Horizontal : 60 45 5', Vertical : 60 18'
+                vi) Duration of flash
+                  Main             : 0.19 seconds
+
+                                        Mercury Float 55 kg in use.
+b) Pedestal                     :
+                                        Cast iron pedestal
+
+                                  Twin Stepper motor Direct Drive system.
+c) Rotation Device              :
+                                  i)Stepper motor :2 No 40Kg-cm (unique make)
+                                  ii) Controller: 2No 40Kg-Cm (unique make)
+d) Rotation Speed               : 6 RPM
+
+e)    Illuminant
+         i)     Main/Service : 150 watts Metal Halide Lamp 3 Nos. (Cluster)
+f)    Effective Beam Intensity
+         i)      Main/Service : 9,39,600 cds.
+         ii)     Standby      : --------
+         iii) Emergency             : --------
+9.    Lantern
+         i)      Diameter           : 3.65 Mtr
+         ii)     Height of
+                                    :       1.83 Mtr
+                 glazing
+         iii)    No. of panes       :       31 Nos. (10 panes blanked on land side)
+      iv)    Ventilators            :       12 Nos.
+10. Main light UPS                  : 4 Nos. in use. 1 No. spare
+     Make                           : UTL
+        Capacity                    : 800 VA
+        Input                       : 12V DC
+        Output                      : 230V AC
+        Model Number                : UTL combo
+
+
+11.   Energy Source
+          A) APEPDCL Mains : Three phase 415 V, 50 Hz
+          B) Green Energy  : 3KW off grid solar power plant for main light.
+         i)      Solar panels   : 12 No 24V/250W( Vikram make)
+         ii)     Battery Bank : 12 No 12V /150Ah (Exide SMF)
+         iii)    PCU          : HBL Make 3KVA /48V PCU
+
+12.   Details of Diesel Engine Generators
+        Make                    : Kirloskar HA294
+        Model No.               : KG15AS4 (Canopy)
+        HP                      : 19 HP
+        No. of Cylinder         : 02 Nos.
+        Output voltage          : 240V/50Hz
+        RPM                     : 1500
+        Cooling                 : Air Cooling
+13.   Diesel Engine Alternator
+        Make                    : Kirloskar
+        KVA                     : 15
+        Voltage                 : 240
+        Frequency               : 50
+        Phase                   : Single
+        RPM                     : 1500
+14.   Servo Stabilizer          : 1 No.
+        Make                    : Supra-hi-tech
+        Model                   : SH-3120
+        Capacity                : 12 KVA 3 phase
+        Input                   : 330 V - 470 V
+        Output                  : 400 ± 1%
+15.   AMF Panel
+        Make                    : Elect India
+        Model                   : EMF15KM3G1-ICFTDM02
+        Capacity                : 0     VA, 3 phase 25A
+
+
+16.   NAIS Equipment
+        Make                            : M/s SAAB
+        AIS R40 Base Station                 : Sl.No.5229
+        AIS R40 Base Station                 : Sl.No 5256
+                                               (Connected with Cisco switch and PSM-
+                                               500LSatilite modem.)
+        V- SAT Dish Size                     : 2.4 Mtr. dia
+        VHF Antenna                          : 2 Nos.
+        GPS Antenna                          : 2 Nos.
+        Date of Commissioning                : May, 2016
+
+17. Automation of Lighthouse.
+     Make                                   : M/s Recktronic Devices & Systems, Pune.
+      RDS Panel                             : 1No. in power house. (S.No.1610)
+      RDS Panel                             : 1No Service room. (S.No.1605)
+      VSAT Antenna                          : 1.2 Mtr. dia
+      Date of commissioning                 : March, 2016
+
+                                              i) G.I Poles with 25W LED light – 8 Nos.
+18. Street Lights                           : ii) Gate Light CFL - 2 Nos.
+                                              iii) 10 Nos 18W Solar Street light
+
+19. No of Batteries                : 5 Nos.
+                                   : 4 No. Exide 12 V/ 150 AH Battery for Main Light
+                                     1 No. Exide 12 V/ 100 AH Battery for Gen Set
+                                   :
+                                     Starting
+
+20.   Firefighting equipment
+      Fire Extinguishers
+         i)       D.C.P. type
+                                        :       2 Nos.
+             (5kg Capacity)
+         ii)      Foam type
+                                        :       3 Nos.
+             (9 litres capacity)
+         iii)   Fire Buckets            :       4 Nos.
+21.   Communication Facility           : NA-II , Ph. No.9989572305
+                                         e-mail : sacramentolh@gmail.com
+
+                                                    i)     Open well
+                                                    ii)    4 Nos. Bore well with Hand
+22.   Water Supply                             :
+                                                           Pump
+
+23.   Land
+         i)       Area         : 99.94 Acres
+         ii)      Demarcation : Masonry Compound wall
+         iii)     No. of fruit
+                                : 35 Nos.
+                  trees
+         iv)      No.of non
+                  fruit bearing :    400 Nos.
+                  Trees
+
+                                 One unit of Inspection quarter, Store, One unit of
+24.   Buildings                : NA I quarter, two unit of NA II quarter, Two unit
+                                 of LHA quarter and One unit of LHS quarter.
+
+                                        i.         NA-I - 1 No. (Vacant)
+                                        ii.        NA-II - 2 Nos. (1 No. Vacant)
+                                        iii.       LHA - 2 Nos. (1 No. Vacant)
+25.   Staff                    :
+                                        iv.        Field Assistant - 3 Nos. (outsourced)
+                                        v.         Security Guards - 3nos. (outsourced)
+
+                                        i) By Rail up to Rajamundry and then by bus
+                                            up to 90 kilometers up to Mulletimoga
+                                            village and then by walk up to Lighthouse 3
+                                            Kms.
+26.   Mode of approach         :
+                                        ii) Upto Rajamundry by rail. From Rajamundry
+                                            to Kandikuppa by bus 50 kms. Via.
+                                            Amalapuram, then 15 kms. Mulletimoga
+                                            village to Lighthouse.
+
+27.    Facilities available        :    a) Post Office within 20 km (Katrinikona)
+                                        b) Govt. Hospital within 17 km (Katrinikona)
+                                         c) Govt. School within 18 km (Katrinikona)
+                                         d) Nationalized Bank within 20 km (Katrinikona)
+
+28. Postal Address                    : The Navigational Assistant Gr-I,
+                                        Sacramento Lighthouse,
+                                        Bojjararipeta post, Katrenikona Via,
+                                        Dist. East Godavari, Andhra Pradesh,
+                                        Pin: 533 212
+29.   Cost Details
+          i.         Construction old
+                                      : Not available
+                     LH
+          ii.        Cost of
+                                      : Not available
+                     equipment
+          iii.       Construction of
+                                      : Rs.1,36,33,329/- (March, 2015)
+                     new LH Tower
+
+
+
+      Date of
+30.                               : 1895
+      Commissioning
+
+      Subsequent
+31.                               : 1902, 1997, 2004, 17-02-2015
+      Innovation
+

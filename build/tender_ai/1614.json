@@ -1,0 +1,32 @@
+{
+  "nid": 1614,
+  "title": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP basis.",
+  "summary": "Corrigendum extending the bid deadline for engaging an Independent Engineer for the PPP tourism development project at Mahabalipuram Lighthouse.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(31)/1/2024-Civil Maintenance; Tender ID: 2024_DGLL_806882_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mahabalipuram Lighthouse", "station_id": "mahabalipuram-lighthouse", "kind": "lighthouse", "work": "Independent Engineer for PPP tourism development project"}
+  ],
+  "scope": [
+    {"item": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP basis", "qty": null, "unit": null, "site": "Mahabalipuram Lighthouse"}
+  ],
+  "money": {"estimated_cost_inr": null, "emd_inr": null, "tender_fee_inr": null, "performance_security": null, "notes": null},
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": "2024-07-04", "bid_opening": "2024-07-05"},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-06-20", "change": "Extension of last date: bid download and online submission extended up to 04.07.2024 15:00; bid opening 05.07.2024 15:00. All other terms unchanged."}
+  ],
+  "documents": [
+    {"file": "EXTIndeEngineerII.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only the date-extension corrigendum is attached (file name suggests second extension); the original NIT is not in this listing, so cost, EMD and scope details are not printed. Hindi header text layer has broken conjuncts; English text complete."
+}

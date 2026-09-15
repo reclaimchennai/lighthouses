@@ -1,0 +1,47 @@
+{
+  "nid": 1584,
+  "title": "Periodical Repair and Maintenance of Chowra Lighthouse Tower under Port Blair Directorate.",
+  "summary": "Periodical repair and maintenance of the 24 m trestle tower at Chowra Lighthouse, Chowra Island, Nicobar: synthetic enamel repainting plus dinghy trips for site inspection.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "offline",
+    "reference": "CM-PB-01027/1/2022-CM-PB",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Port Blair"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chowra Lighthouse, Chowra Island, Nicobar", "station_id": "chowra-lighthouse", "kind": "lighthouse", "work": "Repainting of trestle tower (24 m), cleaning of premises, replacing trestle tower angles where required"}
+  ],
+  "scope": [
+    {"item": "Synthetic enamel painting to the previously painted surface of Trestle power (24m high) with approved first quality brand (Asian/Berger/Dulux/Nerolac high glossy) in two or more coats at all heights, including removing worn out paint, primer on worn places, bosun chair/jhulla/scaffolding", "qty": "199.59", "unit": "Sqm", "site": "Chowra Lighthouse"},
+    {"item": "Engaging mechanised dinghy along with safety boat with one operator and one helper for the inspection of site by officials, including fuel, water, labour, tools & plants", "qty": "3.00", "unit": "Trip", "site": "Chowra Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 93838.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "Performance Bank Guarantee 10% of contract value, valid sixty days beyond completion; refunded 3 months after completion subject to no defects",
+    "notes": "Bid Security Declaration in prescribed format instead of EMD (bidder suspended 3 years if withdrawing or failing to sign/submit performance security). Rates inclusive of all taxes including GST. First & final bill on actual measurement after TDS."
+  },
+  "period": {"completion": "03 months from the date of issue of Work Order", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2024-05-01", "pre_bid": null, "bid_submission_end": "2024-05-07", "bid_opening": "2024-05-07"},
+  "eligibility": [
+    "Proof of satisfactory completion of similar works during last 7 years in Central/State Government; similar work means civil works including painting",
+    "PAN and GST registration",
+    "Bid acceptance letter, undertaking and bid securing declaration",
+    "Site-in-charge: graduate engineer with 2 years or diploma engineer with 5 years professional service"
+  ],
+  "specs": [
+    "Synthetic enamel paint conforming to IS 2933; approved makes Asian/Berger/Dulux/Nerolac or equivalent approved by DLL",
+    "Waterproofing compound: Pidilite/Dr. Fixit/Fosroc; metal surface putty: Iroseal or equivalent",
+    "Shades: trestle tower Snow white/Brilliant White and Signal Red; automation box & handrail Bus green; gate, pedestal Black",
+    "Scope: painting of trestle tower, cleaning of lighthouse premises, replacing angles of trestle tower wherever required"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "ChowraNIT (1).pdf", "pages": 11, "read": "mixed", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned document with OCR text layer; pages 1-2 (NIT and schedule of works) rendered and read visually to confirm amounts and quantities (OCR had '19959 | Sam' for 199.59 Sqm). Sealed bid submitted physically at Deep Bhavan, 44 B.S. Road, Port Blair; documents downloadable from CPPP (eprocure.gov.in/epublish). NIT prints opening '07/05/2024 upto 1530 hrs' while listing shows opening 2024-05-08. Schedule reads 'Trestle power' (typo for tower). Office e-mail on letterhead partly illegible in OCR."
+}

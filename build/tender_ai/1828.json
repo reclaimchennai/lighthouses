@@ -1,0 +1,40 @@
+{
+  "nid": 1828,
+  "title": "Replacement of street light poles and LED street lights at Lamba Line Officer Housing Complex",
+  "summary": "Two-cover e-tender for replacement of street light poles and LED street lights at the Lamba Line Officer Housing Complex, Sri Vijaya Puram, Andaman & Nicobar Islands.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-PB-08010/1/2022-M",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Lamba Line Officer Housing Complex", "station_id": null, "kind": "office", "work": "Replacement of street light poles and LED street lights"}
+  ],
+  "scope": [
+    {"item": "Replacement of street light poles and LED street lights", "qty": null, "unit": null, "site": "Lamba Line Officer Housing Complex"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1104372.0,
+    "emd_inr": 22090.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. Cost of bid document Nil. EMD by FDR of scheduled nationalized bank in favour of Director of Lighthouses and Lightships, Sri Vijaya Puram; valid 6 months from technical bid opening. NSIC/MSME registered bidders considered for exemption from EMD/tender fee/past experience/turnover as per Govt norms."
+  },
+  "period": {"completion": "45 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-01-29", "pre_bid": "2025-02-04", "bid_submission_end": "2025-02-08", "bid_opening": "2025-02-10"},
+  "eligibility": [
+    "Reputed firms/contractors with experience in similar works with Central Govt./State Govt./PSU/Public Listed Company in remote island of Andaman & Nicobar",
+    "Similar work: supply and installation of street light work in Central Govt./State Govt./public listed/PSUs in remote island of Andaman & Nicobar Island",
+    "Initial eligibility criteria as per Section 3 (not included in this file)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_2.pdf", "pages": 5, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (NIT) only, printed pages 3-7 of 54; no BOQ. Hindi version file number reads EM-PB-08004/1/2022-M while English version reads EM-PB-08010/1/2022-M. English table gives NIT publishing date as '29.02.2025' (an invalid date; Hindi version and download period give 29.01.2025)."
+}

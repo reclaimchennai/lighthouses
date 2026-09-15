@@ -1,0 +1,48 @@
+{
+  "nid": 1598,
+  "title": "Disposal of Unserviceable Computer, Printer and UPS under the Cochin Directorate",
+  "summary": "Sealed-bid auction, on an as-is-where-is basis, of unserviceable all-in-one computers, printers, UPS units and old printer cartridges of the Directorate of Lighthouses and Lightships, Cochin, open only to authorised e-waste producers, refurbishers and recyclers.",
+  "category": "disposal & auction",
+  "procurement": {
+    "mode": "e-auction",
+    "portal": "offline",
+    "reference": "MS-Coc-02050(02)/2/2024-Admin; I/58437/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "directorate",
+  "sites": [
+    {"name": "Deep Bhavan, Gandhi Nagar, Kadavanthra P.O., Cochin - 682020", "station_id": null, "kind": "office", "work": "Disposal of unserviceable IT equipment"}
+  ],
+  "scope": [
+    {"item": "HP 24G025IN AIO Desktop with accessories", "qty": "17", "unit": "Sets", "site": "Deep Bhavan, Cochin"},
+    {"item": "Dell OptiPlex 7440 AIO Desktop with accessories", "qty": "8", "unit": "Sets", "site": "Deep Bhavan, Cochin"},
+    {"item": "HP LaserJet P1008 printer", "qty": "8", "unit": "Nos", "site": "Deep Bhavan, Cochin"},
+    {"item": "Brother HL-L2321D printer", "qty": "10", "unit": "Nos", "site": "Deep Bhavan, Cochin"},
+    {"item": "Brother DCP 1601 all-in-one printer", "qty": "7", "unit": "Nos", "site": "Deep Bhavan, Cochin"},
+    {"item": "HP All-In-One ink jet printer", "qty": "1", "unit": "No", "site": "Deep Bhavan, Cochin"},
+    {"item": "V-Guard Slender Plus 600VA UPS", "qty": "8", "unit": "Nos", "site": "Deep Bhavan, Cochin"},
+    {"item": "INTEX GAMMA 1000VA UPS", "qty": "17", "unit": "Nos", "site": "Deep Bhavan, Cochin"},
+    {"item": "Old unserviceable LaserJet printer cartridges (to be taken by highest bidder without extra payment)", "qty": "127", "unit": "Nos", "site": "Deep Bhavan, Cochin"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Reserve price for items 1-3 Rs 12,500. EMD 25% of quoted price by DD in favour of The Director, Directorate of Lighthouses & Lightships, Cochin, valid 3 months; balance 75% within 7 days of order. Taxes/duties borne by bidder; no GST receipt provided. Removal within 5 days of release order, else Rs 500/day rent. Hard disks formatted before handover."
+  },
+  "period": {"completion": "Removal within 05 days from date of release order", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-06-03", "pre_bid": null, "bid_submission_end": "2024-06-24", "bid_opening": "2024-06-24"},
+  "eligibility": [
+    "Only authorised producers, refurbishers and recyclers under E-waste Rules 2016, with proof of registration",
+    "Undertaking to store/process/dispose e-waste per E-waste Management and Handling rules",
+    "Authorised person taking delivery to produce address proof (Aadhaar/election ID)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQComputer (3).pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled"]}
+  ],
+  "confidence": "high",
+  "notes": "Mode set to e-auction as closest schema value, but this is an offline sealed-bid auction (not electronic). Date conflict: notice says submission by 24.06.2024 15:00 and document issue 04.06-24.06.2024, while terms clauses 4-6 say inspection/document issue 01.06-19.06.2024 and submission by 20.06.2024 15:00. Website written as 'www.dgll@nic.in'/'www.dgll@gov.in'."
+}

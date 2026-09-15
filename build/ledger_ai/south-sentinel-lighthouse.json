@@ -1,0 +1,44 @@
+{
+  "slug": "south-sentinel-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "South Sentinel Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1997,
+  "alol": "F 1212.8",
+  "position": {"lat_text": "10° 58.90' N", "lon_text": "92° 13.60' E", "lat": 10.981667, "lon": 92.226667},
+  "elevation_m": 37,
+  "characteristic_text": "Fl (1) W 15 Sec (fl 0.3, ec 14.7 sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "fl 0.3, ec 14.7 sec",
+    "sequence_s": [0.3, 14.7],
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 10, "geographical_nm": null, "text": "10 NMiles (single unlabelled range)"},
+  "tower": {"type": "G.I. Trestle Tower", "height_m": 36, "colour_scheme": "Red and White band"},
+  "optic": {
+    "make": "Tideland", "model": "ML-300, Maxlumina Marine Lantern", "type": "LED Flasher", "size": "300 mm Fresnel lens", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Maxlumina Marine Lantern; R.P.M.: NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "12V, 20 W Quartz Halogen Crystal Lamp"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "NA"},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar plant 70 W, 01 panel, Mono Crystalline, 12V/100AH battery; mains and engine fields blank"},
+  "issues": [
+    "Optic type listed as 'LED Flasher' but illuminant is a 12V, 20 W Quartz Halogen Crystal Lamp",
+    "NAIS section has no equipment details (only template label 'VSAT Antenna Prodelin 2.4 meter')"
+  ]
+}

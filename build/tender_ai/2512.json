@@ -1,0 +1,38 @@
+{
+  "nid": 2512,
+  "title": "Rewiring for Deep Bhavan, Cochin including Provision for False Ceiling Lights and Fans",
+  "summary": "E-tender for rewiring of Deep Bhavan, the Directorate office building at Cochin, including provision of false ceiling lights and fans.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-02006/1/2019-MS; I/103849/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, Cochin", "station_id": null, "kind": "office", "work": "Rewiring including provision for false ceiling lights and fans"}
+  ],
+  "scope": [
+    {"item": "Rewiring for Deep Bhavan, Cochin including provision for false ceiling lights and fans", "qty": null, "unit": null, "site": "Deep Bhavan, Cochin"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4039003.0,
+    "emd_inr": 80780.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam, submitted in original by 05.08.2026 1500 hrs. Small Scale Industries with valid NSIC/MSME certificate exempted from EMD."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2026-07-23", "pre_bid": "2026-07-29", "bid_submission_end": "2026-08-06", "bid_opening": "2026-08-07"},
+  "eligibility": [
+    "Bids invited from reputed OEMs or their authorized suppliers, licensed electrical contractors, parties or Government Undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Short NIT only (2 pages); detailed BOQ, completion period and eligibility are in the CPPP tender document, not included. Bid document download/submission 24.07.2026 18:50 to 06.08.2026 15:00."
+}

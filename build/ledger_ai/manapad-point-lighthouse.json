@@ -1,0 +1,44 @@
+{
+  "slug": "manapad-point-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Manapad Point Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1888,
+  "alol": "F 0730",
+  "position": {"lat_text": "8°22'.3\" N", "lon_text": "78°03'9\" E", "lat": 8.371667, "lon": 78.0525},
+  "elevation_m": 45,
+  "characteristic_text": "Group Flash 2(White) every 10Sec's (F1: 0.187+sec.2.376+F1:0.187+sec.7.250)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "F1: 0.187+sec.2.376+F1:0.187+sec.7.250",
+    "sequence_s": [0.187, 2.376, 0.187, 7.250],
+    "flash_duration_s": 0.187
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 26, "geographical_nm": null, "text": "Luminous : 26 NM; Luminous : 18 NM"},
+  "tower": {"type": "Masonary Tower", "height_m": 18, "colour_scheme": "Red & White Spiral Bands (diagonal strips)"},
+  "optic": {
+    "make": "Chance Bros", "model": null, "type": "Revolving Optic", "size": "500mm", "order": "3rd Order Large (F.D 500mm)",
+    "panels": 2,
+    "rotation_device": "40 kg/sq.cm Stepper Motor with Drive controller",
+    "rpm": 6,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving Optic; Rotation Device: Stepper Motor with Drive controller; R.P.M. 6 RPM",
+    "divergence_horizontal_deg": 6.733333,
+    "divergence_vertical_deg": 6.266667,
+    "divergence_text": "Horizontal : 6°44', Vertical : 6°16'",
+    "illuminant": "Cluster of 3x150w, 230v, MH Lamp (single ended, 3 No's)"
+  },
+  "intensity_cd": 336294,
+  "racon": {"present": true, "code": "G", "text": "Pharos Marine Automation power PMAPI RACON; S.No: II-X-201607-04; G-Code; X-Band; installed Sep - 2016"},
+  "ais": {"present": true, "text": "NAIS Model: SAAB-R-40 AIS Base station; MMSI blank"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains Tamilnadu electricity board 3 phase/440V AC; Engine 1 KOEL 20 HP with 15 KVA alternator, Engine 2 Nil; ON Grid Solar Plant 25 KWH (100 x 36 V/250 W)"},
+  "issues": [
+    "Range lists 'Luminous : 26 NM' and 'Luminous : 18 NM'; the second label is probably meant to be geographical but is printed as luminous",
+    "Latitude printed as 8°22'.3\" (mixed notation); converted as 8°22.3'"
+  ]
+}

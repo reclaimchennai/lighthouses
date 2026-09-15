@@ -1,0 +1,165 @@
+{
+  "slug": "harudi-vts-repeater-station",
+  "page_count": 4,
+  "title_as_printed": "मास्टर लेजर/ MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "Positon / Tower", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "Positon", "value": ": Lat 23.5052° N, Long 68.6851° E"},
+       {"label": "Tower", "value": ":GI Trestle tower 55 Meter height"},
+       {"label": "Qty", "value": ""}
+     ], "tables": [], "text": null},
+    {"no": "2", "title": "Microwave Antenna", "title_hi": null, "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Microwave Antenna\nMake -Faini Tele communication System, (Kathrein)\nSNo: 08KIMWA0000120040\nSNo: 08KIMWA0000120041\nSNo: 08KIMWA0000120044\nSNo: 08KIMWA0000120045\nDOI: 12/2011", "04"]]}
+     ], "text": null},
+    {"no": "3", "title": "RFU/ODU", "title_hi": null, "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["RFU/ODU Make- Ericsson\nS. No. R9N993381 Koteshwar\nS. No. R9N998316 Jakhau\nDOI: 23/08/2019 (02 Nos.)\nS. No. R9Q240360 Koteshwar\nS. No. R9Q240346 Jakhau\nDOI: 08/07/2020 (02 Nos.)", "04"]]}
+     ], "text": null},
+    {"no": "4", "title": "SPU", "title_hi": null, "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["SPU- Ericsson mini link 6363 7/32L\nModel: ML 6691\nS. No: CE8A312088\nDOI: 23/08/2019", "01"]]}
+     ], "text": null},
+    {"no": "5", "title": "Rectifier", "title_hi": null, "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Rectifier Make- BSMC Power Systems\nS. No: BS-350/B/4282\nDOI: 12/2011", "01"]]}
+     ], "text": null},
+    {"no": "6", "title": "3KVA UPS", "title_hi": null, "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["3KVA UPS, Make NGBPS,\nModel NG 30\nS. No. JH 1035\nDOI: 12/2011", "01"]]}
+     ], "text": null},
+    {"no": "7", "title": "12V, 26AH Battery", "title_hi": null, "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["12V, 26AH Battery,\nMake- Quanta Amaron\nDOI: 19/07/2019", "08"]]}
+     ], "text": null},
+    {"no": "8", "title": "DG SET", "title_hi": null, "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["DG SET-1\n15 KVA,230 V, 1Φ, Make- Kirloskar\nEngine Type- HA 294 SR 111 S. No. 02 .2129/1021624With 150 litre storage tanks\nDOI: 12/2011", ""],
+                 ["DG SET-2\n15 KVA,230 V, 1Φ, Make-Kirloskar\nEngine Type- HA 294 SR 111 Sl. No. 02 .2130/1020041\nWith 150 litre storage tanks\nDOI: 12/2011", "02"],
+                 ["DG Sets Starting Batteries\nDG Set-1\n12V/130AH Battery\nMake- Exide, Type Lead Acid\nDOI: 10/01/2018\nDG Set-2\n12V/130AH Battery\nMake- Exide Type Lead Acid\nDOI: 12/02/2018", "02"]]}
+     ], "text": "DG SET-1 on page 1; DG SET-2 and starting batteries on page 2. The Qty \"02\" for starting batteries is a single merged cell spanning the DG Set-1 and DG Set-2 battery entries."},
+    {"no": "9", "title": "AMF Control Panel", "title_hi": null, "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["AMF Control Panel\nSterling Generators Pvt. Ltd\n12.5 KVA, 230 V, 1Φ, 63 Amps\nS. No: 04-10/05/14,\nController Make: DSE\nModel: DSE 4520 MKII\nS. No. 7204339-01\nS. No. 7204339-01\nDOI: 15/08/2020", "01"],
+                 ["LVDB Panel\nMake – Sterling Generators Pvt. Ltd\nDOI: 12/2011", "01"]]}
+     ], "text": null},
+    {"no": "10", "title": "Automatic Voltage stabilizer", "title_hi": null, "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Automatic Voltage stabilizer\nMake- Uma Powertonics, Input: 140-280V, Output: 230V, Capacity-16 KVA, Frequency-50Hz, S. No. UA-1602012\nDOI: 26/05/2018", "01"]]}
+     ], "text": null},
+    {"no": "11", "title": "Split A/C", "title_hi": null, "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Split A/C, 1.5 Ton, Make Blu Star\nS. No. C101229470310524130660\nDOI: 12/2011\nSplit A/C, 1.5Ton, Make Blu star\nS. No. C101229470310524130548\nDOI: 12/2011\nSpilt A/C- 1.5 Ton Make: Video Con\nSl. No. 11081574200228\nDOI: 05/09/2015", "03"]]}
+     ], "text": null},
+    {"no": "12", "title": "Fire Extinguisher", "title_hi": null, "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Fire Extinguisher\nABC Dry Powder – 02 Nos.\nClean Agent - 02 Nos.\nDOI: 11/2011", "04"]]}
+     ], "text": "Page footer: \"Page 2 of 8\"."},
+    {"no": "13", "title": "Solar Panels", "title_hi": null, "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Solar Panels\nCapacity: 250 W\nRated Voltage: 31.00 V\nRated Current: 8.10 Amp, Make: Topsun Energy Pvt. Ltd.\nDOI: 10/05/2017", "20"]]}
+     ], "text": null},
+    {"no": "14", "title": "Inverter", "title_hi": null, "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Inverter\nMake – Delta\nSr. No. O0U16901196WP\nPart No: RPI 502NA0E0000\nModel – RPI H5\nDC Input 200-1000Vdc\nOutput 220/230Vac, 50 Hz/60Hz\n5KVA nom 24.5A max.\nDOI: 10/05/2017", "01"]]}
+     ], "text": null},
+    {"no": "15", "title": "SPD (Surge Protection Device)", "title_hi": null, "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["SPD (Surge Protection Device)\n3Φ SPD\n1Φ SPD\nDOI: 06/2016", "02"]]}
+     ], "text": null},
+    {"no": "16", "title": "Isolation Transformer – 3 KVA", "title_hi": null, "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Isolation Transformer – 3 KVA\nMake – Trusine Electronics Pvt. Ltd.\nSr. No. – TRU-IT 004\nDOI: 06/2016", "16"]]}
+     ], "text": null},
+    {"no": "17", "title": "Water Pump (Submersible)", "title_hi": null, "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Water Pump (Submersible) with\nDOL starter & TPN 32A\nCapacity: 2 HP\nMake: Kirloskar\nMono Block Water Pump 1- Phase\nMake: Angel\nDOI: 11/2011", "02"]]}
+     ], "text": null},
+    {"no": "18", "title": "Solar Panels", "title_hi": null, "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Solar Panels\nCapacity: 70W\nRated Voltage: 17.00V\nRated Current: 4.40 Amp\nMake: Vikram Solar Pvt. Ltd.\nDOI: 25/02/2015", "20"],
+                 ["Solar Charge Controller\n12V-24V-48V, 45 Amp\nMake: Su-Kam\nDOI: 25/02/2015", "02"],
+                 ["Batteries\nMake Exide Power Safe, Type SMF\n2V/300AH\nDOI: 20/03/2020", "24"]]}
+     ], "text": null},
+    {"no": "19", "title": "Exhaust Fan", "title_hi": null, "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Exhaust Fan\nDOI: 12/2011", "03"]]}
+     ], "text": null},
+    {"no": "20", "title": "Commtel Rack", "title_hi": null, "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Commtel Rack\nDOI: 12/2011", "01"]]}
+     ], "text": null},
+    {"no": "21", "title": "CCTV SYSTEM", "title_hi": null, "page": 4,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["CCTV SYSTEM: -\nIP Dome Camera\nMake: CP Plus\nSr. No: CP4C037ESPAG00135", "01"],
+                 ["IP Bullet Camera\nMake: CP Plus\nSr. No: CP4C037E4PAG00220\n: CP4C037E4PAG00260\n: CP3E04905PAA00159\n: CP4C037E4PAG00025", "04"],
+                 ["IP PTZ Camera\nMake: CP Plus\nSr. No: CP2K02463PAN00110", ""],
+                 ["NVR 16 CH\nMake: CP Plus\nSr No: CP4E0549APAZ00722", "01"],
+                 ["4TB Surveillance HDD WD\nSR. No: - WCC7K44XNL4H8\nSR. No: - WCC7KOFVVIZN", "01"],
+                 ["LCD Monitor 22’’\nMake: LG\nSr No: 805NTGY2D703 Model No: - 22M38D", "02"],
+                 ["UPS 600VA\nMake: APC\nSr. No: 106N3014472\nModel: UT600E", "01"],
+                 ["8 Port PoE Switch\nMake: CP Plus\nSr. No. 20200910446205\nDOI: 30/10/2018", "01"]]}
+     ], "text": "Item 21 is printed as one cell with no internal borders; the Qty values 01, 04, 01, 01, 02, 01, 01 are printed down the Qty column in that order. Rows here follow the vertical position of each Qty value: the third value (01) sits between the IP PTZ Camera and NVR 16 CH entries, and the fourth (01) sits at the last line of the HDD entry, so which of IP PTZ Camera / NVR / HDD each of those two quantities belongs to is not unambiguous on the page."},
+    {"no": "22", "title": "Water Tank (U/G)", "title_hi": null, "page": 4,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Water Tank (U/G)\nCapacity: 50000 L", "01"]]}
+     ], "text": null},
+    {"no": "23", "title": "Power Supply", "title_hi": null, "page": 4,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Discription", "Qty"],
+        "rows": [["Power Supply –\nMains Supply – PGVCL Mains – 415V\n3-Phase, 50 Hz is available\nStandby supply – 02 Nos DG set", "01"]]}
+     ], "text": null},
+    {"no": "24", "title": "Area", "title_hi": null, "page": 4,
+     "fields": [{"label": "Area", "value": "2750 Sq.m"}], "tables": [], "text": null},
+    {"no": "25", "title": "Address & Communication", "title_hi": null, "page": 4,
+     "fields": [{"label": "Address & Communication", "value": ": Station in-charge, Harudi VTS station, Lakhpat, Dist: Kachchh-370 411"}], "tables": [], "text": null},
+    {"no": "26", "title": "Date of Commissioning", "title_hi": null, "page": 4,
+     "fields": [{"label": "Date of Commissioning", "value": ": 13-02-2012"}], "tables": [],
+     "text": "Page footer: \"Page 4 of 8\" (the PDF itself has 4 pages; pages 1 and 3 carry no visible footer)."}
+  ],
+  "unreadable": []
+}

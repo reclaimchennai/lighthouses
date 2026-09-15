@@ -1,0 +1,231 @@
+                                 मास्टर लेजर/MASTER LEDGER
+
+
+
+
+                 तालकेश्वर पॉइंटदीपस्तंभ/Talkeshwar Point Lighthouse
+
+क्रमसंख्या/                     नाम /Name
+                                                                       वििरण/Description
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0566
+    2         स्थान/Position                     Lat. 170 33’ 59.76’’N
+                                                 Long. 730 08’ 14.74’’E
+    3         ऊंचाई/Elevation                    104 m
+    4         अभिलक्षण/Characteristic            GP fl W (3) every 15 Sec.
+                                                 (W) 0.35+2.65+0.35+2.65+0.35+8.65=15 sec.
+    5         नॉटिकलमाइलमेदरू ी                  22 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                           Rectangular Masonry Tower
+                                                 Height                         13.5 m
+                                                 Colour Scheme                  White
+    7         ऑप्टिकलउपकरण                       Optic
+              Optical equipment
+                                                 Make                           Stone Chance
+
+                                                 Type                           Revolving
+                                                 Size                           375 mm (3rd order small)
+                                                                                revolving
+
+                                                 No. of lens                    3 to 500 each (1 0F 1100&
+                                                                                2nd OFF 1000 each)
+                                                 Area of dioptric portion       1700 Sq.cm. (corrected are
+                                                                                1235 Sq.cm.)
+                                                 Area of catadioptric portion   5500 Sq.cm. (corrected are
+                                                                                4570 Sq.cm.)
+                                                 Divergence                     Horizontal – 8.360, Vertical
+                                                 Main/Emergency                 – 6.080
+
+                                                 Duration of Flash              0.35 sec.
+                                                 Main /Standby/Emergency
+                                                 Lamp changer                   NA
+                                                 Pedestal                       Mercury float pedestal
+                                                                                complete with optic turn
+                                                                                table, trough float support,
+                                                                                float central column and
+                                                                                     holding 54.300 Kgs. of
+                                                                                     mercury .
+                                                     Rotation Device                 Dual Stepper Motor 40 Kgcm
+                                                                                     with auto changeover (
+                                                                                     standard 4 hrs clock
+                                                                                     machine kept as standby )
+
+                                                     R.P.M.                          4
+                                                     illumining                      3 x 150W Metal Halide lamp
+                                                                                     cluster Philips Make
+                                                     Main
+                                                     Standby                         NA
+                                                     Emergency:                      NA
+                                                     Date of Installation            15.02.1960
+8    प्रिािीबीमतीव्रता/Effective beam intensity      Main & Standby                  263883 cd
+
+                                                     Emergency                       NA
+9    लेंिनन/Lantern                                  Diameter                        2.70 m
+                                                     Height of glazing               1.42 m
+                                                     No. of panes                    1.27 m (10 Nos.)
+                                                     Ventilators                     2.68 m (9 Nos.)
+10   RACON                                           NA                              ---
+     Make                   Model                    Code                            Band         Date of
+                                                                                                  Installation
+              ---                     ---                          ---                   ---             ---
+11   NAIS
+     Base Station
+
+
+     Model                  Type            Power                           MMSI
+     SAAB                   R 40            230vac to 24 vdc, 5 amp
+     Communication
+     Equipment
+     VSAT Antenna           Band -          Modem – PSM – 500L
+                            Datum
+     DGPS                   ----            ----                            ----                  ----
+     Trasmitter Make        Frequency       Power Output      RS 1 ID       RS -II     Beacon     Date of        Dat
+                                                                            ID         ID         commis         e of
+                                                                                                  sioning        Rec
+                                                                                                                 apit
+                                                                                                                 aliz
+                                                                                                                 atio
+                                                                                                                 n
+
+
+
+12   ऊर्ानकेसाधन/Source     Mains . - MSEDCL                                Main supply 440V AH, 50 Hz, 3
+     of energy                                                              Phase.
+
+                            Standby                                         DG set7.5KVA
+
+                            Engine - D8 4812 91/070069
+                             Make/Type                    Qty       Rating          No of          RPM           Cooling
+                                                                                    Cylinder
+                             KirloskarGreen           1 no          16 HP           2              1500          AIR
+                             EA-16
+                             Alternator - BS-1 H007 E11563H
+                             Make/Type                    Qty       Rating          Voltage/Amp    Frequency     Phase
+                             Kirloskar                    1 no      7.5 KVA         240 V / 31.2   50 HZ         Single
+                                                                                    A
+                             Engine 2 - NA
+                             Make/Type                    Qty       Rating          No of          RPM           Cooling
+                                                                                    Cylinder
+
+                             Alternator
+                             Make/Type                    Qty       Rating    Voltage/Amp          Frequency     Phase
+
+
+
+
+                             Solar Plant
+                             Capacity PV                  Numbers             Type                 Battery       Bank
+                             200 W , 17.5 V               3 nos               Monocrystalline      150 AH, 12V   Single
+                             Solar Plant for Main RACON
+                             Capacity PV                  Numbers             Type                 Battery       Bank
+                             ---                          ---                 ---                  ---           ---
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                   Model                Capa     Input                     Output         Phase         Qty
+                                                 city
+     V. S. Power            2007020              10       120 to 280 VAC            240 Vac        Single        1 no
+                                                 KVA
+14   बैिरर
+     Batteries
+     Equpment               Type                 Make     Volt                      Amp/Hr         Qty
+     PSS NAIS               SMF                  Relic    12 volt                   150 AH         2 nos
+                                                 ell
+     Genset                 SMF                  Exide    12 Volt                   100 AH         1 no
+     Automation             SMF                  Exide    12 Volt                   26 AH          2 nos
+     DGPS                   ---                  ---      ---                       ---            ---
+15   बैिररचार्नर/ Battery charger
+
+     Equipment              Make           Model Type                               Rating         Qty
+     General Purpose        Aplab l-3230                                            0 - 30A        1 no
+     Automation             Powerex Elect.                                          0 – 10 A       1 no
+16   इंवटट रInverter /UPS
+     Equipment Nos          Make          Model      Type           Rating          Qty            input         output
+     Main Light 3           Exide         850 DSP    Home           850VA           3 nos          220 VAC       220
+                    nos                              UPS                                                         +_7
+                                                                                                                 VAC
+     NAIS PSS      1 no     Exide         1450       Home           1450 VA         1 no           220 VAC       220
+                                          DSP        UPS                                                         +_7
+                                                                                                                 VAC
+     DGPS         ---     ---       ---             ---         ---               ---           ---                ---
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE           PLC            HMI         Power Supply              VSAT              Modem    Band
+     Nelco          Telemechaniq   Schneide MW mean well                 ---               Sky Edge ---
+                    ue             r                                                       Gilat
+18   आप्ननशमनउपकरण                      Type of Extinguisher             Capacity             Nos       Make
+     Fire Fighting Equipment            i) D.C.P. Type                   2 kg                 2 nos     Chandrakant
+                                                                                                        a
+                                              ii) D.C.P. Type            3.2 kg               1 no      Chandrakant
+                                                                                                        a
+                                          ii)Foam type                   9 liters             1 no      ----
+                                          iii) Water type                9 litetrs            1 no      Chandrakant
+                                                                                                        a
+
+                                          Sand bucket                    10 kgs              2 nos
+                                          Water bucket                   10 litrs            2 nos
+
+19   संचार                                NA
+     Communication
+20   र्लपर्ू तन                           Wasp water pump which can be run by Crompton Greaves electric
+     Water Supply                         motor 3 phase5 HP 1430 RPM. 2000 Ltr. Capacity sintex water tank
+                                          installed on roof of Inspection quarters and water supply provided
+                                          to each staff quarter and inspection quarter by tap. Mains MSEB
+                                          supply provided to electric motor with meter No. 225370005895
+                                          at water Pump House.
+
+21   िभू म                                Area                               Area 25 Guntas, serve
+     Land                                                                    No.8132,10813,108
+                                                                             FN 32, 108 FN 34 and 109 FN 15
+
+                                          Demarcation
+22   इमारतें                              Quarters                           Inspection Qtr. - 1 no
+     Buildings                                                               Nav. Asst. Qtr. - 2 nos
+                                                                             LHA Qtr.          - 2 nos
+                                                                             D.G. room        - 1 no
+                                                                              Office attached with old IQ ( as a used
+                                                                             store room ) Stone masonry compound
+                                                                             all with cast iron net and G.I. fabricated
+                                                                             Main gate.
+
+23   कंपाउं डलाइि                         15 w LED Streeet light             9 street lights and 2 gate lights
+     Compound Lights
+24   सीसीिीिीकमेरा                        Camera                             NA
+      CCTV CAMERA                         DVR                                NA
+25   स्िाफ                                Sl. No      Name                                  Designations
+     Staff                                1           Shri S. M. Chaudhari                  Navigational Asst. - I
+                                          2           Shri Koro Besra                       Navigational Asst. - II
+                                          3           ---------------                       -------------------------
+                                          4           ------------------                    ----------------
+                                     5         -----------------                    ---------------------
+
+
+
+                                     6          -----------------               --------------------
+                                     7          --------------                  --------------------
+26   पहुँचनेकामाध्यम                 By Konkan Railway or S.T. Bus upto Ciplun situated on NH-17 at
+     Mode of approach                about 270 Km fromMumbai. By road from Chiplun to Guhagar at a
+                                     distance of 46Km. The final approach isfrom village of Anjanvel
+                                     situated at about12Km from Guhaghar, Earlier the station was
+                                     approached by walking ( or full Auto rickshah ) another 2 km. on
+                                     the hill is now approachable by Asphalt road made by the Gram
+                                     Panchayat up to the Lighthouse station.
+
+27   उपलब्धसविधाए                    Marine Police Station         Guhagar at 14 Kms. from Lighthouse
+     Facilities available            Dispensary                    Guhagar at 14 Kms. from Lighthouse
+                                     High School                   Guhagar at 14 Kms. from Lighthouse
+                                     Post office                   Anjanvel at 1.5 kms from Lighthouse
+28   डाकपताPostal address            Head Lightkeeper
+                                     Talkeshwar Point Lighthouse
+                                     Post - Anjanvel, Tal. - Guhagar,
+                                     Dist.- Ratnagiri,
+                                     Maharashtra, Pin – 415634
+                                     Email id - tplight1960@gmail.com
+
+29   मल्
+       ू यकाब्योराCost details       2,47,302.52
+     (At the time of Construction)   Equipments - 169000 F.O.R.
+
+30   प्रितननमेलानेकादे नांक          15.02.1960 (PV 55 mm Burner)
+     Date of commissioning           31.01.1997 (Conversion PV to Electric)
+

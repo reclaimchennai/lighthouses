@@ -1,0 +1,166 @@
+                        मास्टर लेजर/MASER LEDGER
+क्रसंSr.            नाम /Name                                       वििरण/Description
+   No
+    1      ए.एल.ओ.एल/A.L.O.L.             F 0698
+    2      स्थान/Position                 Lat.09° 59’82” N , Long 76° 13’ 34” E
+    3      ऊंचाई/Elevation                49 m (Above MSL)
+    4      अविलक्षण/Characteristic        Fl (4) W 20 sec (fl 0.41)
+
+   5       नॉविकल माइल मे दू रीRange in   27.0 NM
+           NM
+   6       दीपस्तं ि िािर/L.H.Tower       Type                            Circular Ribbed double shell RCC
+                                          Height                          46 m
+                                          Colour Scheme                   Red and White Band
+   7       ऑविकल उपकरण                    Optic
+           Optical equipment              Make                            M/s J. Stone & Co., Calcutta
+                                          Focal Length                    375mm
+                                          Type                            3rd Order Small
+                                          No. of Panels                   4
+                                          Area of dioptric portion        -
+                                          Area of catadioptricportion     -
+                                          Total Area                      4552 Sq cm
+                                          Divergence                      11º 27’ 32” (Horizontal)
+                                                                          6º 6’ 39” (Vertical)
+                                          Main/Emergency Lamps
+                                          Duration of Flash               Fl (4) W 20 sec (fl 0.41)
+                                                                          0.41+2.92+0.41+2.92+0.41+2.92+0.41
+                                                                          +
+                                                                          9.6 seconds
+                                          Main /Standby/Emergency         Only Main Lamp
+                                          Pedestal                        Ball bearing type
+                                          Rotation Device                 Dual Stepper motor (20 Kg cm)
+                                          R.P.M.                          3
+                                          Illuminant                      Metal Halide Lamps
+                                          Main                            Cluster 4 Nos-230V/150W MHL,600
+                                                                          Watts
+                                          Standby                         NA
+                                          Emergency:                      NA
+                                          Date of Installation            09-08-2003
+   8       प्रिािी बीम तीव्रता/           Main                            1938500 cds
+           Effective beam intensity       Emergency                       NA
+   9       लें िनन /Lantern               Diameter                        2.4m
+                                          Height of glazing               1.380 m
+                                          No. of panes                    12
+                                          Ventilators                     8
+  10       RACON                              Sr. No                        6572
+           Make              Model        Code                            Band               DoI
+      Tideland, USA       Sea Beacon      K                                     X + S Band                 04-05-2009
+                          2 Sysytem
+                          6
+ 11   NAIS
+      Base Station                         2 Nos - AIS1 & AIS2
+
+      Model               Type            Power                                 MMSI
+      R40                 Class A         AC-230V & DC-12V
+      Communication       Satellite       1KVA UPS
+      Equipment           Modem           12V/100AHBattery
+      VSAT Antenna        Band            Modem
+        2.4m dia          EX-C            M/s HugesPvt Ltd
+      Parabolic
+      reflector
+      DGPS
+      Transmitter         Frequency       Power Output             RS 1 ID      RS -II ID     Beac         Date of    Date of
+      Make                                                                                    on ID        commis     Recapital
+                                                                                                           sioning    ization
+      NA                  NA              NA                       NA           NA            NA           NA         NA
+ 12   ऊर्ान के साधन/      Mains                                                 440V AC 3ø - Local State Electricity
+      Source of           Stand by Source -2 Nos                                DG Set 25 KVA&7.5KVAKirloskar make
+      energy              Engine 1- 25KVA for Elevator
+                          Make/Type                      Qty          Rating    No of Cylinder      RPM              Cooling
+                          Kirloskar Green /HA394         1            32 BHP    3                   1500             Air
+                          Alternator
+                          Make/Type                      Qty          Rating    Voltage/Amp         Frequency        Phase
+                          Kirloskar                      1            25 KVA    230 V/34.7A         50Hz             3ø
+                                                                                /1ø
+                          Engine 2- 7.5KVA for Main Lamp
+                          Make/Type                      Qty          Rating    No of Cylinder      RPM              Cooling
+                          Kirloskar Green /EA-16         1            16 BHP    3                   1500             Air
+                          Alternator
+                          Make/Type                      Qty          Rating    Voltage/Amp         Frequency        Phase
+                          Kirloskar                      1            7.5 KVA   240V/ 31.25A        50Hz             1ø
+                          Solar Plant-2KW offline
+                          Capacity PV                    Panels Nos             Type             Battery             Bank
+                          2 KW Offline                   8 Nos 250Watts each    Mono             48 Nos              01 No.
+                                                                                Crystalline      2V/200 AH
+                          Solar Plant for RACON- Morse Code-K
+                          Capacity PV                    Numbers                Type             Battery             Bank
+                          70W/12V                        02Nos                  TBP 1275         01 No               01 No.
+                                                                                                 12V/100AH
+ 13   स्वचावलत िोल्टे र् स्टे बलाइर्र / Automatic Voltage Stabilizers
+      Make                    Model        Capacity Input                       Output                Phase          Qty
+      AE- Main Lamp           EMS-12-J     5 KVA      160-260V                  230±1%                1ø             1 No
+      Unitek- Elevator K-5000              30 KVA     320-470                   400±1%                3ø             1 No
+14    बैिरर / Batteries
+      Equipment               Type         Make          Volt                   Amp/Hr           Qty
+      NAISPSS                 SMF          Exide         12V                    150 AH           2 Nos
+      Genset                  SMF          SFM Sonic     12V                    100 AH           1 No                7.5KVA
+                        Lead Acid     Exide         12V                  100 AH       1 No            25 KVA
+                                      Xp100
+     Automation             SMF       Exide         12V                  7 AH         2Nos
+     DGPS                   NA        NA            NA                   NA           NA              NA
+15   बैिरर चार्न र/ Battery charger
+     Equipment              Make      Model      Input        Output       Rating     Qty
+     Stepper Motor – Ruttonsha        BC-        230 V        0-100V       50 A       1
+     Battery                          12/10      AC           DC
+16   इं वर्ट र / Inverter /UPS
+     Equipment              Make      Model      Type         Rating      Input       Output       Qty
+     Main Light             Su-Kam    Shiny      Pure         900VA       12 V DC      230 AC      04
+                                                 sine
+     NAIS PSS           Microteck                  Pure       1 KVA       12 V DC      230 AC      01
+                                                    sine
+                        Su-Kam         Shiny       Pure       1 KVA       12 V DC      230 AC      01
+                                                    sine
+     DGPS               NA      NA               NA  NA                   NA          NA         NA
+17   स्वचलन उपकरण / Automation Equipment
+     MAKE               PLC     HMI        Power Supply                VSAT           Modem       Band
+     M/s RDS Pvt Ltd Allen      Renu       24 V DC                     1.8m dia       Hugues      EX.C
+                        Bradley Electron                               Parabolic
+                                ic Pvt                                 reflector
+                                Ltd
+18   आवि शमन उपकरण              Type of Extinguisher                   Capacity       Nos         Make
+     Fire Fighting Equipment    DCP Type                               1 / 2 / 4 Kg   3/3/2       Map90
+                                Co2                                    4.5 Kg         1
+                                Foam Type                              9 Ltr          3
+19   संचार / Communication      BSNL Line - 0484 2502443
+
+20   र्ल पूवतन / Water Supply         Kerala Water Authority water supply (1 Separate Lines) up to Sump. 2
+                                      Nos. Overhead water tank of capacity 2000 Ltrs & 1800 Ltrs is installed
+                                      for staff quarters and visitor’s toilet respectively.
+21   िू वम                            Area                                            32.20 Acre
+     Land                             Demarcation                                     Compound wall
+
+22   इमारतें                          RCC Structure: 08 Nos                           Lighthouse Tower
+     Buildings                                                                        Power House cum office,
+                                                                                      stores & recreation room
+                                                                                      NA-II/Inspection Qtr(
+                                                                                      Double storey Building)
+                                                                                      NA-I Qtr
+                                                                                      NA-II Qtr
+                                                                                      LHA-Qtr ( Twin )
+                                                                                      Ticket Counter cum
+                                                                                      Security room
+                                                                                      Pump House
+23   कंपाउं ड लाइि/Compound           NA                                              NA
+     Lights
+24            Elevator                M/s Axis Eleveators and Escalators,             Capacity 5 Persons -320
+                                      Cochin                                          kgs
+25   सीसीिीिी कमे रा                 M/s HawksightTechnoliges, Cochin            8 Nos
+      CCTV CAMERA                    DVR- 2TB                                    01 Nos
+25   स्टाफ                           Sl. No         Designations
+     Staff                           1              Navigational Assistant Gr-I
+                                     2              Navigational Assistant Gr-II- 1 No
+                                     2              LHA -1 No
+26   पहुँ चने का माध्यम              Ernakulam Railway Station Bus service – 12 Km
+     Mode of approach
+27   उपलब्ध सुविधाए                  Post Office at 100 Mtr, Hospital at 100 Mtr, High school at 1 Km and
+     Facilities available            Police Station is at 5 Km limit available.
+
+28   डाक पताPostal address           The Head Lightkeeper
+                                     Vypin Lighthouse, Puthuvaipe P.O
+                                     Ernakulam-682508
+                                     Kerala
+29   मू ल्य का ब्योराCost details    N/A
+     (At the time of Construction)
+30   प्रितनन मे लाने का दे नां क     10.10.1979
+     Date of commissioning
+

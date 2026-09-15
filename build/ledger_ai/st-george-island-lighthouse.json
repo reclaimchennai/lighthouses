@@ -1,0 +1,45 @@
+{
+  "slug": "st-george-island-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "St. George Island Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1977,
+  "alol": "F 0628",
+  "position": {"lat_text": "15° 21.1' N", "lon_text": "73° 45.8' E", "lat": 15.351667, "lon": 73.763333},
+  "elevation_m": 93,
+  "characteristic_text": "Fl. WR (4) ev 20Sec. (fl. 0.5, ec 1.5, fl. 0.5, ec 1.5 fl. 0.5, ec 1.5 fl. 0.5, L.ec 13.5)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 4,
+    "colours": ["W", "R"],
+    "period_s": 20,
+    "sequence_text": "fl 0.5, ec 1.5, fl 0.5, ec 1.5, fl 0.5, ec 1.5, fl 0.5, L.ec 13.5",
+    "sequence_s": [0.5, 1.5, 0.5, 1.5, 0.5, 1.5, 0.5, 13.5],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": "R 185° to 225° = 40°, W 225° to 185° = 320°",
+  "range": {"luminous_nm": null, "geographical_nm": null, "text": "W - 5.6 NM, R - 6.3 NM"},
+  "tower": {"type": "Circular RCC Tower with external spiral", "height_m": 16, "colour_scheme": "Black & White bands (3)"},
+  "optic": {
+    "make": "Sealite", "model": "SL-125/3", "type": "Ultra bright 108 LEDs", "size": "200 mm", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Sealite SL-125/3 LED lantern (Ultra bright 108 LEDs); Rotation Device and R.P.M. blank; horizontal divergence 360°",
+    "divergence_horizontal_deg": 360,
+    "divergence_vertical_deg": 9,
+    "divergence_text": "Horizontal - 360°, Vertical - 9°",
+    "illuminant": "Ultra bright 108 LEDs"
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": "Sr. No 6295; Make ---"},
+  "ais": {"present": false, "text": "Model --"},
+  "dgps": {"present": false},
+  "power": {"mains": false, "solar": true, "generator": false, "text": "Mains -NA-; engines -NA-; solar plant 140Watt (2x70w) monocrystalline, 12V/75AH 2 Nos"},
+  "issues": [
+    "Range given per colour (W 5.6 NM, R 6.3 NM), not luminous/geographical; red range exceeds white",
+    "Effective intensity given per colour: Red 176 cd, White 121 cd",
+    "RACON lists 'Sr. No 6295' (same serial as Belekeri ledger) but Make is '---'; presence unclear"
+  ]
+}

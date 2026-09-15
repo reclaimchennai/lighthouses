@@ -1,0 +1,353 @@
+           मास्टर लेजर/ MASTER LEDGER
+क्रम                    नाम /Name
+संख्या /                                                     वििरण/ Discription
+Sr.No
+    1.        ए.एल.ओ.एल/A.L.O.L.               F 0355
+    2.        स्थान/Position                   Lat 23°14.36” N,
+                                               Long 68°36.43” E
+    3.     अविलक्षण/Characteristic             FI W 10 sec. (0.3 flash+9.7eclipse =10
+                                               sec.)
+    4.     दीपस्तंि टािर/L.H.Tower
+            (i) Type                    Double shell RCC Circular tower
+           (ii) Height of tower         41M
+           iii) Colour scheme           4 red and 3 white bands (Band width
+                                        5.6 mtrs, bottom band red, nos. of
+                                        bands – 7)
+    5.     ऊंचाई/Elevation Height above 46 Mtr.
+           MSL
+    6.     नॉवटकल माइल मे दू री
+           Range in miles               17 NM at T=0.74
+           i) Luminous                  18 NM
+           ii) Geographical
+    7.     ऑप्टिकल उपकरण
+           Optical equipment
+           Optic                               Stone chance
+               i) Make                         375mm(3rd order small) revolving type
+             ii) Size                          3 (each 120 degrees)
+            iii) No. of panels                 16° 47.99' (Horizontal)
+           iv) Divergence Main                 10° 59.70' (Vertical)
+
+                                                Mercury float
+                                               (As per tech block measure 34.5 kg. in
+           v) Pedestal                         use)
+
+                                               i) Electrically operated stepper motor
+           vi) Rotation device                     for dual drive system
+
+                                               2
+           vii) R.P.M
+                                               Cluster of MH lamp 150 W 230 V with 3
+           viii) Illuminate Main               Nos. Electronics Ballast & 3 Nos. 0.65
+                                               KVA Inverters.
+            Lantern
+              i)Diameter
+           ii) Height of glazing Page 1 of 8
+           iii) No. of panes                   2.16 m
+           iv) Ventilators                     1.23 m
+                                               8
+                                         7
+   8.     Source of energy               03 Inverter with battery backup of 12v,
+                                         120Ah each for the cluster of 03 metal
+                                         halide lamp
+                                         Input supply provided by PGVCL
+                                         mains/ DG sets of 50 KVA
+                                         (The offgrid solar system is non-
+                                         operational and the process of
+                                         converting it to ongrid is in progress)
+   9.     Year       of       Lighthouse 1957
+          commissioned
+   10.    Years of Upgradation              1965, 1993, 1996, 1999, 2004 and
+                                            2014
+   11.    Postal Address                    Jakhau Lighthouse & VTS Station,
+                                            PO- Jakhau, Taluka – Abdasa
+                                            Distt. Kutch
+                                            Gujarat – 370640
+   12.    RACON (X-band)                    Make – Pharos Marine (replaced on
+          Code ‘M’                          14.03.2019, earlier RACON make
+          DOI: 14.03.2019                   Tideland installed on 21 Aug 2004)
+                                            S/N – 20180763SJP
+                                            Power supply: 12 V, 100 AH MF Exide
+                                            battery
+                                            Charging by solar panel 12V/50 W
+                                            installed on 08/08/2018.
+VTS EQUIPMENTS:
+SNO.  Particulars                           Qty Location              Remark
+1     Radar X- Band 18’ Scanner             01 Tower top
+      Make TERMA Sl no.3001
+      Part No:314240-001
+2.    Radar S Band Scanner/Antenna          01   Tower top
+      Make TERMA
+      P.No-305501-001 S.No-3571002
+3.    Radio Direction Finder,               01   Tower top
+       16 Element Antenna
+       Make Servo light
+      Model 7010, SNo.1120
+      (with lightening arrestor)
+4.    Radar Transceiver Unit 1 (            01   VTS         tower
+      Scanter 2001)                              Equipment room at
+      Make TERMA, 9375 MHz                       5th floor
+      X -Band Type -262001-024
+      SNo.3014
+5.    Radar       Transceiver Unit 2        01   VTS         tower
+      (Scanter 2001)                             Equipment room at
+      Make –TERMA, 9375 MHz                      5th floor
+                              Page 2 of 8
+      X – Band Type -262001-017
+      SNo.3018
+6.    X- band , Scanter ACU                 01   VTS          tower
+      ACS550-01-012A-4                     Equipment room at
+      Make TERMA, SNo: 3016                5th floor
+      Type 262382-001
+      3- ɸ, 400V, 47-63Hz
+      Power 4KVA
+7.    Radar S –Band, Scanter-2001     01   VTS         tower
+      Transceiver Unit-1                   Equipment room at
+       Make – TERMA, Type -262001-         5th floor
+      093
+      REV-B, 3050MHz, SNo.3001
+      3050Mhz
+8.    Radar S –band, Scanter 2001     01   VTS         tower
+      Transceiver Unit-2                   Equipment room at
+      Make – TERMA, Type -262001-          5th floor
+      094
+      REV-B, 3050MHz, SNo.3001
+      3050MHz
+9.    S-Band ACU –ACS550-01-012A-     01   VTS         tower
+      4                                    Equipment room at
+      Make TERMA, Type 262382-001          5th floor
+      SNo.3026
+      3 -ɸ, 400V,47-63Hz power-4KVA
+10.    Rack Manager,                  01   VTS         tower
+       (Make – SAMSUNG AUSTIN              Equipment room at
+      HUGES)                               5th floor
+      Type A117e
+       SNo:2060110094165-05Z
+11.   RSD X-Band                      02   VTS         tower
+      S\N: 4589                            Equipment room at
+      RSD S-Band                           5th floor
+      S\N: 4601
+      DOI:13/02/2020
+12.   KONGSBERG C-SET, radar data     01   VTS         tower
+      processor (X - Band)                 Equipment room at
+      S\N: 3053172216                      5th floor
+      DOI:30/12/2019
+      KONGSBERG C-SET radar data      01   VTS         tower
+13.   processor (S - Band)                 Equipment room at
+      S\N: 3053192216                      5th floor
+      DOI:30/12/2019
+14.   KVM Switch, KVM -02             01   VTS         tower
+      SNo:Z3B1Y143DDH0179                  Equipment room at
+                                           5th floor
+15.   RDF Receiver                  01     VTS         tower
+      Make- Servo Light, Model –           Equipment room at
+      DF2110M, SNo-1067 Page 3 of 8        5th floor
+      With Monitor HP 1940
+      Sr.No: CNP534X29D
+16.   CISCO Switch, Catalyst 2960            01   VTS         tower
+      series                                      Equipment room at
+      SNo-FOC1445Y1GW                             5th floor
+17.   15 KVA UPS                             01   VTS         tower
+      Make –Schneider                             Equipment room at
+      SNo:9E1904T10170                            5th floor
+      DOI:19/08/2019
+18.   Battery (SMF)                          32   VTS         tower
+      Make-APC                                    Equipment room at
+      12V, 26AH for 15 KVA UPS                    5th floor
+19.   SPU -1                                 01   VTS         tower
+      Make Harries True Point 4040                Equipment room at
+      SNo:A0125958                                5th floor
+      PNo.201-902595-502
+20.   SPU -2                                 01   VTS         tower
+      Make Harries, True Point 4040               Equipment room at
+      SNo:A0125922                                5th floor
+
+21.   7.5 KVA UPS                                 VTS         tower
+      Make – Protek-G                             Equipment room at
+      S/N – PG011074075377                        5th floor
+22.   Battery (SMF)                          15   VTS         tower
+      Make-Amaron                                 Equipment room at
+      12V, 42AH for 7.5 KVA UPS                   5th floor
+      make Protek-G
+23.   Air conditioner, split type ,1.5 Ton   03   VTS         tower
+      Make -Blue Star (02 nos.)                   Equipment room at
+      SNo:C101229470310527130574                  5th floor
+      SNo:C101229470310526130615
+      Videocon (01no.)
+      SNo:11081574200233
+24.   Micro Wave Antenna                     01   Tower wall
+      Type -THP-12-071SWB
+      SNo.08K1MWA0000120021
+      Freq-7.15 to 8.5GHz
+25.   RFU mini link to harudi                01   With antenna
+      R9N979454
+      Make: Ericsson
+      DOI: 19/08/2019
+
+26.   Micro Wave Antenna                     01   On tower wall
+      Type -THP-12-071SWB
+      SNo.08K1MWA0000120022
+27.   RFU mini link to vanku                 01   With Antenna
+      R9N963221
+      Make: Ericsson
+      DOI: 19/08/2019       Page 4 of 8
+
+28.   Micro Wave Antenna                     01   On tower wall
+      Type -THP-12-071SWB
+      SNo.08K1MWA0000120024
+29.   RFU                                  01   With Antenna
+      7310-7373TR-154, 48V
+      Make - Ericsson
+      SNo:CR9N958698
+30.   Micro Wave Antenna                   01   On tower wall
+      Type -THP-12-071SWB
+      SNo.08KIMWA0000120026
+31.   RFU                                  01   With Antenna
+      7310-7373TR-154, 48V
+      Make - - Ericsson
+      SNo: CR9N958637
+32.   DG SET -I                            02   Power house
+      Type HA694.
+      Model -KG50AS ,415V, 3-
+      ɸ,50KVA 50 Hz
+      Alternator                   M/c
+      DS3D010L17033H
+      Engine no: 06.2145/1000021
+      Control        Panel      Sl.no.
+      WCPL/02/11/1810
+      With 120 Liter HSD storage tank
+      STARTING BATTERY
+      SL No. A3E1B0272593F13 (FOR
+      DG1)
+      MAKE -EXIDE 12V 130AH
+      DOI: 28/07/2021
+
+      DG SET -II
+      Type HA694.
+      Model-KG50AS,415V,3-
+      ɸ,50KVA, 50HZ
+      Alternator        M/c          No-
+      DS3D011A19085-H
+      Engine No-06.2145/1100001
+      Control        Panel         S.no.
+      WCPL/02/11/ 1809
+      With 120 Liter HSD storage tank
+      STARTING BATTERY
+      SL No. A4A1B0081423A12
+      MAKE -EXIDE 12V 130AH
+      DOI:07/05/2011
+33.   DG AMF Panel 50 KVA                  01   Power house
+      415 V ,100 Amp,3 Phase
+      SNo:04-10/05/02
+34.   LVDB Panel                           01   Power house
+      SNo:099                Page 5 of 8
+35.   1.Voltage Stabilizer 16 KVA          03   Power house
+           Make- Krykard                   +
+           S/N: S20K1670700005             02
+           2.Voltage Stabilizer 16 KVA
+                Make- Krykard
+                S/N: S20K167070006
+           2.Voltage Stabilizer 16 KVA
+                Make- ALFA
+                S/N:
+
+           4.Voltage Stabilizer 16 KVA
+              Make- Power +
+                                                      U/S
+           6. Voltage Stabilizer
+              Make- ALFA
+
+36.        VHF sets                              03   Equipment room
+           SNo:874
+           SNo:877
+           SNo:875
+           DOI: 30/12/2019
+37.        AIS Base station                      01   Equipment room
+           Make – KONGSBERG
+           Type BS-500/01
+           SNo:5001105
+           PART No. B500-001
+38.        Solar Power System                    01   Solar System room
+           Make – Su-kam
+           Capacity – 30 KW Off-grid
+           Solar Inverter – 01No.
+           Solar Charge Controller – 03No.
+           Solar Panels – 120Nos.
+           Solar Battery Bank – 180Nos.
+           DOI: 02/11/2015
+39.        New       M/W       link     (S\N     01   Coast      Guard,
+           18E829703327)                              Jakhau
+           DOI: 11/07/2020
+40.        New                    Radio(S\N:     01   VTS Tower
+           18E8297C33CC)                              Link setup with
+           DOI: 11/07/2020                            coast       guard
+                                                      Jakhau.
+41.        APC Rack PDU                          01   Equipment Room
+           S\N: 5A-1922E03979
+           DOI: 12/10/2019
+42.         new batteries                        08   Coast       Guard
+           12 V 26AH                                  Jakhau
+           DOI:25/08/2019
+D G Set:                                         02   3PHASE,450V,50KVA
+                                                      Make: KIRLOSKAR
+                                   Page 6 of 8        Model:KG50AS. S.No. HA694
+                                                      EngineNo:06.2145/1100001
+                                                      AlternatorNo:DS3D010L17033H
+                                                      EngineNo:06.2145/1000021
+                                                   Alternator No:DS3D010A19085H
+                                                   Panel S.No:WCPL/02/11/1809
+
+Off-Grid” Solar Power System : 30 KW          PV ModuleSilicon,(Solar Panel):120
+                                              nos.Make:SUKAM
+                                              Solar Inverter,
+                                              30 KW
+                                              Make:SUKAM
+                                              : 01 no.
+                                              Solar battery, 2V,600AH: 180 nos.
+                                              Make- HBL Power System Ltd
+                                              Sukam Charging Controller: 03 nos.
+     13. POWER SUPPLY                         Mains supply - PGVCL 415V, 3-
+                                              phase415V, 50 Hz
+     14. STRUCTURES                           VTS Tower : 60 m hight
+                                              LHtower
+                                                           :41mhighRCCcirculartowe
+                                              r.
+                                              Technical Building : 1 Unit/old power
+                                              house - 01              Unit
+                                              Inspection Quarter :1 Unit / old IQ 01
+                                              Unit to SRT
+                                              Compound wall: The compound wall
+                                              has been provided on four sides for
+                                              enclosing perimises with internal
+                                              cement concrete pathway
+                                              Main gate : 01 nos
+                                              Area : 11998.5717 Sq.m
+                                              Staff quarter:
+                                                           (i)     HLK quarter – 1
+                                                                   Unit
+                                                           (ii)    ALK quarter – 1
+                                                                   Unit
+                                                           (iii)   LHA quarter – 1
+                                                                   Unit
+                                                           (iv) Touring staff
+                                                                quarter –1 Unit
+COMPOUND STREET LIGHT                         LED Lights
+                                              On G.I bi-poles – 16 nos.
+                                              On main gate – 2 nos
+Mode of Approach                              By rail up to Bhuj, then 107 KMs via
+                                              NaliyaStateHighway
+Address & Communication
+                                              Jakhau lighthouse & VTS station,
+                                Page 7 of 8   Post JakhauTa-
+                                              Abdasa, Dist–
+                                              Kutch,Gujrat-
+                                              370641
+                                      Ph.02831-2863683
+                                      Email: jakhauvts@gmail.com
+Date of Commissioning                 1st April 1965 (Lighthouse)
+                                      13 Feb 2012 (VTS)
+
+
+
+
+                        Page 8 of 8
+

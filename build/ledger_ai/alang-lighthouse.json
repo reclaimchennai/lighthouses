@@ -1,0 +1,41 @@
+{
+  "slug": "alang-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Alang Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1992,
+  "alol": "F 0446",
+  "position": {"lat_text": "21° 24.2' N", "lon_text": "72° 11.1' E", "lat": 21.403333, "lon": 72.185},
+  "elevation_m": 39,
+  "characteristic_text": "Fl W 3 Sec. (0.42+2.58=3 Sec.)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 3,
+    "sequence_text": "0.42+2.58=3 Sec.",
+    "sequence_s": [0.42, 2.58],
+    "flash_duration_s": 0.42
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20 NM (single unlabelled range)"},
+  "tower": {"type": "Hexagonal masonry tower", "height_m": 24, "colour_scheme": "Black and White bands"},
+  "optic": {
+    "make": "BBT-France", "model": null, "type": "revolving", "size": "250mm", "order": null,
+    "panels": null,
+    "rotation_device": "Stepper motor",
+    "rpm": 5,
+    "rotates": true,
+    "rotates_evidence": "Type: revolving; Pedestal: Mercury float; Rotation Device: Stepper motor; R.P.M. 5",
+    "divergence_horizontal_deg": 25.199833,
+    "divergence_vertical_deg": 16.4945,
+    "divergence_text": "25° 11.99' (Horizontal), 16° 29.67 (Vertical)",
+    "illuminant": "Cluster 150W/230V M.H Lamp; Main: 230V/70W Metal Halide Lamp"
+  },
+  "intensity_cd": 136916,
+  "racon": {"present": true, "code": "C", "text": "Make Tide Land, Model Tide Land Sea Becon-6, Code \"C\", installed 12.08.2004"},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 230V 50Hz three phase; DG Set 15 KVA Kirloskar; Solar Plant (M/L: 3KW) 4 KWp"},
+  "issues": ["Illuminant listed as 'Cluster 150W/230V M.H Lamp' but Main listed as '230V/70W Metal Halide Lamp'", "No. of lens given as '-'"]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "vanku-vts-repeater-station",
+  "pages_read": [1, 2, 3, 4],
+  "name": "VTS Repeater Station Vanku",
+  "station_type": "radar/repeater station",
+  "established_year": 2012,
+  "alol": null,
+  "position": {"lat_text": "23.1283° N", "lon_text": "68.8574° E", "lat": 23.1283, "lon": 68.8574},
+  "elevation_m": 47,
+  "characteristic_text": null,
+  "light": {
+    "kind": null,
+    "flashes_per_period": null,
+    "colours": [],
+    "period_s": null,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": null, "geographical_nm": null, "text": null},
+  "tower": {"type": "GI 30M Trestle tower", "height_m": 30, "colour_scheme": null},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": "No light or optic listed; VTS repeater equipment only",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains PGVCL 415V 3-Phase; standby 02 Nos DG set 15 KVA; solar panels 20 x 250 W and 20 x 70W with Delta 5KVA inverter"},
+  "issues": [
+    "ALOL not applicable ('---')",
+    "Elevation given as 'Trestle Tower Elevation: 47 M'",
+    "Pages numbered 'Page n of 8' but PDF has only 4 pages"
+  ]
+}

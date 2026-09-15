@@ -1,0 +1,46 @@
+{
+  "nid": 2130,
+  "title": "Special repairs and maintenance of Lighthouse Tower at Navadra Lighthouse Station",
+  "summary": "Item percentage rate e-tender for special repairs and maintenance of the lighthouse tower at Navadra Lighthouse, Dev Bhumi Dwarka district, Gujarat.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-JM-02011/1/2021-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Jamnagar"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Navadra Lighthouse, P.O. Bhatiya, Dist. Dev Bhumi Dwarka (Gujarat) 361315", "station_id": "navadra-lighthouse", "kind": "lighthouse", "work": "Special repairs and maintenance of lighthouse tower"}
+  ],
+  "scope": [
+    {"item": "Special repairs and maintenance of Lighthouse Tower", "qty": null, "unit": null, "site": "Navadra Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1992525.0,
+    "emd_inr": 39855.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR/Deposit at call receipt of scheduled bank in favour of Director of Lighthouses and Lightships, valid 180 days from technical bid opening; firms registered with MSME must submit EMD, no exemption. Original EMD within 04/12/2025."
+  },
+  "period": {"completion": "180 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-11-20", "pre_bid": "2025-12-02", "bid_submission_end": "2025-12-04", "bid_opening": "2025-12-05"},
+  "eligibility": [
+    "Similar works completed in central/state govt department/undertaking in last 7 years: three works each >= 40%, or two >= 50%, or one >= 80% of estimated cost; values enhanced at 7% p.a.",
+    "Similar works: civil construction or maintenance of any type of lighthouse tower or any civil structure; client certificates required",
+    "Valid PAN and GST registration",
+    "Joint ventures and consortium not permitted",
+    "Valid registration of appropriate class and category (civil) in central/state govt department/undertaking",
+    "Not blacklisted/debarred declaration (Annex-11.2(A)); unconditional price bid undertaking (Annex-11.2(B)); tender acceptance letter (Annex-11.2(C))",
+    "Bank solvency certificate of at least 40% of estimated cost, not older than 1 year",
+    "Income tax returns for 2021-22, 2022-23, 2023-24",
+    "Average annual turnover (2021-22 to 2023-24) at least 30% of estimated cost, CA certified"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITNavadraSpecialRepair (1)_0.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer missing/garbled throughout; English portion complete"]}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section-I (NIT) only, pages numbered 3-7; no BOQ. NIT dated 20/11/2025; bid download/submission 20/11/2025 15:00 to 04/12/2025 15:00; pre-bid 02/12/2025 16:00 at Deep Bhavan, Jamnagar; technical bid opening 05/12/2025 16:00. Payable-at place for EMD is blank in the text layer. Listing gives no bid opening date."
+}

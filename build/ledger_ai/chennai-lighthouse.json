@@ -1,0 +1,45 @@
+{
+  "slug": "chennai-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5, 6],
+  "name": "Chennai Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1977,
+  "alol": "F 0936",
+  "position": {"lat_text": "13° 02' 22\" N", "lon_text": "80° 16' 51\" E", "lat": 13.039444, "lon": 80.280833},
+  "elevation_m": 58,
+  "characteristic_text": "White Group Flash (2) Every 2 Sec (0.57+1.93+0.57+6.93)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 2,
+    "sequence_text": "0.57+1.93+0.57+6.93",
+    "sequence_s": [0.57, 1.93, 0.57, 6.93],
+    "flash_duration_s": 0.57
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 22, "geographical_nm": 19.3, "text": "Luminous - A.T.F. 0.74 @ 22 NM, A.T.F. 0.84 @ 35 NM; Geographical - 19.3 NM"},
+  "tower": {"type": "Triangular PRISM - RCC tower", "height_m": 45.72, "colour_scheme": "Red & White - Horizontal band"},
+  "optic": {
+    "make": "B.B.T", "model": null, "type": "3rd Order Revolving Optic", "size": "375 mm (3rd Order Small) Revolving", "order": "3rd Order Small",
+    "panels": 4,
+    "rotation_device": "Stepper Motor",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Optic/Type: 3rd Order Revolving Optic; Rotation Device: Stepper Motor; R.P.M. 3",
+    "divergence_horizontal_deg": 6,
+    "divergence_vertical_deg": 2,
+    "divergence_text": "6° 00' (Horizontal), 2° 00' (Vertical)",
+    "illuminant": "Cluster of 3 Nos. of 150 Watt/230 V AC MH Lamps"
+  },
+  "intensity_cd": 230983,
+  "racon": {"present": true, "code": "K", "text": "WM (Wealth Marine) Pvt Ltd., Singapore, WM RB II Sl.No. RB 2-0093, Code K, X-Band 9300-9500 Mhz, installed 19-11-2010"},
+  "ais": {"present": true, "text": "SAAB R 40 Base Station Sl.No. 5371 & 5235"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Tamilnadu Electricity Board 3 Phase/440V AC mains; Kirloskar 50 KVA DG set; 3 KWp off-grid solar plant for main light"},
+  "issues": [
+    "Headline says Group Flash (2) every 2 sec but sequence 0.57+1.93+0.57+6.93 sums to 10 s",
+    "Duration of Flash (Main) printed as '10 sec', inconsistent with 0.57 s flashes in the sequence",
+    "Luminous range given for two atmospheric transmission factors (A.T.F. 0.74 @ 22 NM, A.T.F. 0.84 @ 35 NM); 22 NM used"
+  ]
+}

@@ -1,0 +1,13 @@
+# Large binary backups: kept on disk (and mirrored to the site), re-fetchable, not versioned.
+raw/tenders/docs/
+raw/photos/
+raw/dgll/**/*.pdf
+raw/basemap/
+build/tender_pages/
+build/tender_text/
+web/tenders/
+web/photos/
+# caches
+__pycache__/
+*.pyc
+.DS_Store

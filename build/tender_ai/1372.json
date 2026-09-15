@@ -1,0 +1,38 @@
+{
+  "nid": 1372,
+  "title": "Provision of Streetlights and Landscaping Lights for Tourism at Chetwai Lighthouse",
+  "summary": "Two-cover e-tender for providing streetlights and landscaping lights for tourism at Chetwai Lighthouse, Kerala, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-13001/1/2019-MS; I/45623/2023",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chetwai Lighthouse", "station_id": "chetwai-lighthouse", "kind": "lighthouse", "work": "Streetlights and landscaping lights for tourism"}
+  ],
+  "scope": [
+    {"item": "Provision of Streetlights and Landscaping Lights for Tourism", "qty": null, "unit": null, "site": "Chetwai Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1420738.0,
+    "emd_inr": 28415.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR from any nationalised/RBI-approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam; original to reach the tender inviting authority by 12.10.2023 15:00. Small scale industries with valid NSIC/MSME certificate covering the work are exempt from EMD. No tender fee row printed."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2023-09-27", "pre_bid": "2023-10-05", "bid_submission_end": "2023-10-13", "bid_opening": "2023-10-16"},
+  "eligibility": [
+    "Reputed OEMs or their authorised suppliers, licensed electrical contractors, parties or Government undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (1).pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled; English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "Two-page short NIT only; no BOQ, completion period or eligibility details. Download/submission 29.09.2023 09:00 to 13.10.2023 15:00; pre-bid 05.10.2023 12:00; technical bid opening 16.10.2023 16:00. Companion tenders for Alleppey (nid 1402) and Thangasseri Point (nid 1420). Office e-mail dte-koc@gov.in."
+}

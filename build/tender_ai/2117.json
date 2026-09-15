@@ -1,0 +1,36 @@
+{
+  "nid": 2117,
+  "title": "Supply of Battery Charger for various Lighthouse under Chennai Directorate",
+  "summary": "Online two-cover tender for supply of battery chargers for various lighthouses under the Chennai Directorate of Lighthouses and Lightships.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01002(14)/4/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Supply of Battery Charger for various Lighthouse under Chennai Directorate", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 444300.0,
+    "emd_inr": 8886.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD in the form of FDR/DD. EMD & tender fee (in original) to be submitted up to 11.12.2025 1500 hrs; tender fee amount not printed."
+  },
+  "period": {"completion": "30 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-11-10", "pre_bid": "2025-11-19", "bid_submission_end": "2025-12-11", "bid_opening": "2025-12-12"},
+  "eligibility": [
+    "Reputed Original Equipment Manufacturers (OEM) or authorized dealers of OEMs, licensed contractors, parties or Government Undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Tendernotice_1 (9).pdf", "pages": 2, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (NIT) only, printed page number 3; page 2 carries only an eProcure digital-signature stamp. No BOQ, quantities or specifications included. Bid download/submission period 10.11.2025 1800 hrs to 11.12.2025 1500 hrs; technical bid opening 12.12.2025 1500 hrs. Portal inferred from 'eProcure-EPROC' signature location."
+}

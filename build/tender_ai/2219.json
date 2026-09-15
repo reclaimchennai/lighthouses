@@ -1,0 +1,43 @@
+{
+  "nid": 2219,
+  "title": "Development of works for promotion of tourism at Luhara point Lighthouse",
+  "summary": "E-tender (two-bid) for development works to promote tourism at Luhara Point Lighthouse, Taluka Vaghara, District Bharuch, Gujarat (Mumbai Directorate).",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-MUM-03026/1/2025-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Luhara Point lighthouse station, Taluka Vaghara, District Bharuch, Gujarat", "station_id": "luhara-point-lighthouse", "kind": "lighthouse", "work": "Development works for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Development of works for promotion of tourism at Luhara Point Lighthouse", "qty": null, "unit": null, "site": "Luhara Point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2263469.0,
+    "emd_inr": 45300.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost inclusive of GST. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships, Mumbai, payable at Mumbai, valid three months from technical bid opening; original by registered/speed post or in person; MSME/NSIC-registered bidders must also submit EMD. Cost of bid document Nil."
+  },
+  "period": {"completion": "06 months from date of award of contract", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2026-01-12", "pre_bid": "2026-01-21", "bid_submission_end": "2026-01-28", "bid_opening": "2026-01-29"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with Central Govt/State Govt/Municipal Corporation etc. having tender limits equal to or more than estimated cost",
+    "Similar works in last 7 years: three each >= 40%, or two each >= 60%, or one >= 80% of estimated cost",
+    "Similar works: beautification, development of public/children parks/gardens, landscaping, horticultural works, civil works",
+    "Documentary evidence of annual turnover of last three years",
+    "PAN; GST number (Hindi version)",
+    "Near relatives posted as accountant or gazetted officer in DGLL/MoPSW bar participation (standard clause)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Luhara NIT_0.pdf", "pages": 7, "read": "mixed", "language": "bilingual", "unreadable": ["Hindi text layer garbled; pages 3-5 and 7 rendered and read visually"]}
+  ],
+  "confidence": "medium",
+  "notes": "Only the cover, index and Section I NIT plus start of Section II (7 pages) are in the PDF; the index lists a 70-page document with BOQ (uploaded separately), GCC, SCC and specifications, none included, so no BOQ items. Hindi NIT dated 12.01.2026, English NIT dated 04.11.2025 (same file number). Bid download/submission 14.01.2026 16:00 to 28.01.2026 16:00; technical bid opening 29.01.2026 16:00 (printed '600 hrs' in English table). Last date for original EMD: Hindi 29.01.2026 17:00 vs English 28.01.2026 17:00. Listing has no bid opening date. Document breaks off mid-sentence at clause 18 / Section II."
+}

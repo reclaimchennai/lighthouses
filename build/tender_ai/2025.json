@@ -1,0 +1,46 @@
+{
+  "nid": 2025,
+  "title": "Provision of Generator shed at Kannur Lighthouse",
+  "summary": "E-tender for constructing a generator shed at Kannur Lighthouse, Kerala, with a corrigendum extending the bid dates.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-03029/1/2024-Admin; I/85026/2025; I/87262/2025; Tender ID 2025_DGLL_878731_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kannur Lighthouse, Kannur 670018", "station_id": "kannur-lighthouse", "kind": "lighthouse", "work": "Provision of generator shed"}
+  ],
+  "scope": [
+    {"item": "Provision of Generator shed (no BOQ in these documents)", "qty": null, "unit": null, "site": "Kannur Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 663973.0,
+    "emd_inr": 13280.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents by post or in person. Bid Securing Declaration listed among required documents."
+  },
+  "period": {"completion": "90 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-09-23", "pre_bid": "2025-09-30", "bid_submission_end": "2025-11-11", "bid_opening": "2025-11-12"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Government/PSU/autonomous bodies",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; similar works = construction of generator shed with truss work, concrete foundation and aluminium work / construction or maintenance of residential, institutional or office buildings, road, lighthouse tower or other related civil construction",
+    "PAN and GST registration; annual turnover of last three years certified by CA",
+    "Declaration that bid is unconditional; affidavit on Rs 100 stamp paper of not being blacklisted",
+    "Undertaking listing relatives serving as Gazetted/Account Officers in MoPSW or DGLL",
+    "Copy of EPF/labour registration certificate; Tender Acceptance Letter; Bid Securing Declaration"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2025-10-28", "change": "Corrigendum-III: last date for bid submission extended to 11.11.2025 15:00; EMD/technical documents (original) to 10.11.2025 15:00; technical bid opening 12.11.2025 15:00"}
+  ],
+  "documents": [
+    {"file": "NIT_0.pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []},
+    {"file": "CORRIGENDUM-III Provision of Generator Shed at Kannur Lighthouse.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Original NIT dates: bid download/submission 24.09.2025 10:00 to 08.10.2025 15:00; bid query 29.09.2025; EMD 07.10.2025; opening 09.10.2025 (listing matches original dates). Dates above reflect Corrigendum-III; Corrigenda I and II are not attached. No generator shed dimensions or BOQ."
+}

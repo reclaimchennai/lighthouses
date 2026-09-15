@@ -1,0 +1,44 @@
+{
+  "nid": 1992,
+  "title": "Replacement of Trestle tower at Agatti Lighthouse in the UT of Lakshadweep - Fabrication & Supply of 30m high GI Trestle tower (Hot dipped Galvanized) at Deep Bhavan, Kochi",
+  "summary": "Two-cover e-tender for fabrication and supply, at Deep Bhavan Kochi, of a 30 m high hot-dip galvanized GI trestle tower to replace the trestle tower at Agatti Lighthouse, Lakshadweep.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, Kochi", "station_id": null, "kind": "office", "work": "Delivery location for fabricated 30m GI trestle tower"},
+    {"name": "Agatti Lighthouse, UT of Lakshadweep", "station_id": "agatti-lighthouse", "kind": "lighthouse", "work": "Trestle tower to be replaced (tower fabricated and supplied at Kochi)"}
+  ],
+  "scope": [
+    {"item": "Fabrication & Supply of 30m high GI Trestle tower (Hot dipped Galvanized)", "qty": "1", "unit": "tower", "site": "Deep Bhavan, Kochi"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1974941.0,
+    "emd_inr": 39500.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents by 27.08.2025 15:00. Tender fee Nil."
+  },
+  "period": {"completion": "120 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-08-08", "pre_bid": "2025-08-13", "bid_submission_end": "2025-08-28", "bid_opening": "2025-08-29"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous body",
+    "Similar works in last 7 years: three >= 40%, two >= 50% or one >= 80% of estimated cost",
+    "Similar work: fabrication & hot dip galvanizing and supply of transmission line towers/communication/trestle tower, or structural steel works",
+    "PAN and GST registration; CA-certified annual turnover of last three years",
+    "Unconditional bid undertaking; not-blacklisted affidavit on Rs 100 stamp paper; list of relatives (Gazetted/Accounts officers) in MoPSW/DGLL",
+    "EPF/labour registration certificate; tender acceptance letter; bid securing declaration"
+  ],
+  "specs": ["30 m high GI trestle tower, hot dipped galvanized"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_07082025.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I only (pages 2-4), dated 07.08.2025; bilingual header only, body in English. No BOQ/drawings. Bid download/submission 08.08.2025 10:00 to 28.08.2025 15:00; queries by 12.08.2025 15:00; pre-bid 13.08.2025 15:00; technical opening 29.08.2025 15:00. No reference number printed."
+}

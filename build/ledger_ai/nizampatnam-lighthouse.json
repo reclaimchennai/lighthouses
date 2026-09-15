@@ -1,0 +1,41 @@
+{
+  "slug": "nizampatnam-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Nizampatnam Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2004,
+  "alol": "0952.95",
+  "position": {"lat_text": "15° 53.02' N", "lon_text": "80° 38.30' E", "lat": 15.883667, "lon": 80.638333},
+  "elevation_m": 35.83,
+  "characteristic_text": "Flash White, every 5Seconds (Fl 0.5 + ec4.5 = 5 sec.)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": "Fl 0.5 + ec 4.5 = 5 sec.",
+    "sequence_s": [0.5, 4.5],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 23.0, "geographical_nm": 17, "text": "Luminous 23.0 NM, Geographical 17 NM"},
+  "tower": {"type": "Circular R.C.C. Tower by SLIP FORM", "height_m": 30, "colour_scheme": "Red & White bands"},
+  "optic": {
+    "make": "M/s ANA Navaids Ltd, New Delhi", "model": null, "type": "8 panel \"Fresnel\" Lens", "size": "413 mm diameter (Height 272 mm & width 160 mm); focal distance 413 mm", "order": null,
+    "panels": 8,
+    "rotation_device": "Stepper motor 7 kg-cm - 1 Nos. (Gearless drive)",
+    "rpm": 1.5,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: Stepper motor 7 kg-cm (Gearless drive); Rotation Speed 1.5 RPM",
+    "divergence_horizontal_deg": 4.56,
+    "divergence_vertical_deg": 7.22,
+    "divergence_text": "Horizontal 4.56°, Vertical 7.22°",
+    "illuminant": "150 W/230V Metal Halide Lamp"
+  },
+  "intensity_cd": 392857,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APCPDCL mains 230 V AC 1 phase 50 Hz; 0.9KW off-grid solar plant for main light (6 x 24V/150W); Kirloskar 20.5 BHP standby diesel engine with 15 KVA alternator"},
+  "issues": []
+}

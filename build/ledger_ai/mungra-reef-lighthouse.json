@@ -1,0 +1,41 @@
+{
+  "slug": "mungra-reef-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Mungra Reef Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1999,
+  "alol": "0367.8",
+  "position": {"lat_text": "22° 45.59' N", "lon_text": "70° 11.01' E", "lat": 22.759833, "lon": 70.1835},
+  "elevation_m": 7,
+  "characteristic_text": "Fl (2) W 15Sec. 0.75+1+0.75+12.5 = 15Sec.",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "0.75+1+0.75+12.5 = 15Sec.",
+    "sequence_s": [0.75, 1, 0.75, 12.5],
+    "flash_duration_s": 0.75
+  },
+  "sectors_text": "Visibility sector: 360°",
+  "range": {"luminous_nm": 12, "geographical_nm": 8, "text": "Luminous 12NM at T=0.74, Geographical 8NM"},
+  "tower": {"type": "White round concrete tower, red bands", "height_m": 10, "colour_scheme": "White - red band"},
+  "optic": {
+    "make": "Navaid", "model": "NE-9", "type": "LED Light Beacon, drum optic", "size": "drum optic", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Navaid NE-9 LED Light Beacon, drum optic, Type of flasher: Auto-flash; Pedestal N/A",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 2.290833,
+    "divergence_text": "Divergence (Vertical): 2° 17.45'",
+    "illuminant": "12V/24W LED Light"
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": false, "solar": true, "generator": false, "text": "Energy Source: Solar power light; KAUMO 100W x 2 panels for LH battery, VIKRAM SOLAR 335W x 2 for automation"},
+  "issues": ["Effective Beam Intensity value missing (only unit 'Candela' printed)"]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "isakapalli-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Isakapalli Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2009,
+  "alol": null,
+  "position": {"lat_text": "14° 44' N", "lon_text": "80° 6' E", "lat": 14.733333, "lon": 80.1},
+  "elevation_m": 34.4,
+  "characteristic_text": "Group Flash(2) White, every 10 Seconds (0.3+3.2+0.3+6.2) Sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "0.3+3.2+0.3+6.2 Sec",
+    "sequence_s": [0.3, 3.2, 0.3, 6.2],
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": 17, "text": "Luminous 18 NM, Geographical 17 NM"},
+  "tower": {"type": "Circular R.C.C. Tower", "height_m": 30, "colour_scheme": "Red & White diagonal bands"},
+  "optic": {
+    "make": "M/s Wealth marine", "model": null, "type": "Rotating Beacon", "size": "500mm (Rotating Beacon), Focal distance 250 mm", "order": null,
+    "panels": 4,
+    "rotation_device": "Stepper motor 20 kg-cm - 1 No (Unique make), Stepper motor Controller - 1 No (Unique make)",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Size: 500mm (Rotating Beacon); Rotation Device: Stepper motor 20 kg-cm; Rotation Speed 3RPM",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "150W/230V Metal Halide Lamp"
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APSPDCL 440VAC 3 phase mains; 0.42KW off-grid solar for main light (6 x 12V/70W); Kirloskar 16 HP diesel generator with 7.5 KVA alternator"},
+  "issues": [
+    "A.L.O.L. number given as 'Awaited from NHO'",
+    "No. of panels given as '4 \"Fresnel\" Lens & 2 black (Set of 2+1 of 180°)'",
+    "Effective beam intensity given as '15NM' instead of candela",
+    "Illuminant rows on page 2 are unlabelled ('150W/230V Metal Halide Lamp', 'Nil')"
+  ]
+}

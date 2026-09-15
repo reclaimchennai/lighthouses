@@ -1,0 +1,163 @@
+                             मास्टर लेजर/MASTER LEDGER
+
+                      सर हुज़ रोस दीपस्तंभ/ SIR HUGH ROSE LIGHTHOUSE
+क्रमसं
+                    नाम /Name
+ख्या/                                                                वििरण/Discription
+Sr.No
+  1      ए.एल.ओ.एल/A.L.O.L.                 F 1203
+  2      स्थान/Position                     Lat. 110 47.20’N
+                                            Long. 920 05.10’E
+
+  3      ऊंचाई/Elevation                    57 m (above MSL)
+  4      अभिलक्षण/Characteristic            Fl (1) W 7 Sec
+                                            fl 0.35, ec 6.65
+  5      नॉटिकलमाइलमेदरू ी                  20 NMiles
+         Range in miles
+  6      दीपस्तंििािर/L.H.Tower             Type                           Circular Cast Iron Tower
+                                            Height                         22 m
+                                            Colour Scheme                  Red and White band
+  7      ऑप्टिकलउपकरण                       Optic                          Model ML-300, Maxlumina Marine
+         Optical equipment                                                 Lantern
+                                            Make                           Tideland
+                                            Type                           LED Flasher
+                                            Size                           300 mm Acrylic drum optic
+                                            No. of lens
+                                            Area of dioptric portion
+                                            Area of catadioptric portion
+                                            Divergence
+                                            Main/Emergency
+                                            Duration of Flash
+                                            Main /Standby/Emergency
+                                            Lamp changer
+                                            Pedestal
+                                            Rotation Device                White Flashing Light
+                                            R.P.M.                         NA
+                                            illumining                     12 V LED cluster Lamp
+                                            Main
+                                            Standby / Auxiliary
+                                            Emergency:
+                                            Date of Installation
+  8      प्रिािीबीमतीव्रता/Effective beam   Main & Standby                 1500 cds
+         intensity
+                                            Emergency
+  9      लेंिनन/Lantern                     Diameter                       2M
+                                            Height of glazing              1.3 M
+                                               No. of panes                            16 (in 2 tiers)
+                                               Ventilators                             07
+10   RACON          - NA-
+     Make                   Model              Code                                    Band                              Date of
+                                                                                                                         Installation
+              -                    -                                  -                            -                               -
+11   NAIS
+     Base Station
+
+     Model                  Type               Power                                   MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna
+     Prodelin 2.4 meter
+     DGPS                       -NA-                   -                                           -                               -
+     Trasmitter Make        Frequency          Power Output RS 1 ID                    RS -II          Beacon            Date of       Date of
+                                                                                       ID              ID                commis        Recapit
+                                                                                                                                       alizatio
+                                                                                                                         sioning       n
+               -                -                        -                        -       -                -                 -                 -
+              -                 -                                         -                            -                           -
+12   ऊर्ानकेसाधन/Sour       Mains
+     ce of energy           Standby
+                            Engine 1
+                            Make/Type                        Qty              Rating   No of               RPM                   Cooling
+                                                                                       Cylinder
+
+                            Alternator
+                            Make/Type                        Qty              Rating   Voltage/Amp         Frequency             Phase
+
+
+                            Engine 2
+                            Make/Type                        Qty              Rating   No of               RPM                   Cooling
+                                                                                       Cylinder
+                                           -                      -               -         -                      -                   -
+                            Alternator
+                            Make/Type                        Qty              Rating   Voltage/Amp         Frequency             Phase
+                                       -                          -               -           -                     -                      -
+
+
+
+                            Solar Plant                                                Solar panels.
+                            Capacity PV                      Numbers                   Type                    Battery           Bank
+                            70 W                             01                        Mono                    12V/100AH               01
+                                                                                       Crystline
+                            Solar Plant for Main Light
+                            Capacity PV                      Numbers                   Type                    Battery           Bank
+                                                                                                                                       -
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+     Make                 Model     Capa     Input                       Output       Phase               Qty
+                                    city
+
+14   बैिरर
+     Batteries
+     Equipment             Type     Make Volt                            Amp/Hr       Qty
+     Main Light            SMF      Exide 12V                            100AH        01 Nos
+     Genset
+     Automation
+     DGPS                  -          -                -                       -              -
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make      Mode Type                            Rating       Qty
+                                    l
+
+
+
+     Automation                                                                                             -
+16   इंवटट रInverter /UPS
+     Equipmen Nos Make Model              Type        Rating             Qty          input               output
+     t
+     Main
+     Light
+     NAIS PSS
+     DGPS
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE          PLC    HMI          Power Supply             VSAT               Modem          Band
+
+18   आप्ननशमनउपकरण                  Type of Extinguisher        Capacity            Nos            Make
+     Fire Fighting Equipment        DCP
+                                    DCP
+                                    Foam
+                                    Co2
+                                    Fire bucket
+19   संचार                          NA
+     Communication
+20   र्लपूर्तन                      2 Nos. rain water collection tanks
+     Water Supply
+21   िभू म                          0.093 Hect.
+     Land
+
+22   इमारतें
+     Buildings
+23   कंपाउं डलाइि
+     Compound Lights
+24   सीसीिीिीकमेरा
+      CCTV CAMERA
+25   स्िाफ
+     Staff                           Unmanned Lighthouse
+26   पहुँचनेकामाध्यम                 21NM from portblair, Sea route travel by departmental vessel M.V
+                                     Sagardeep-II, M.V Indira Point or any chartered vessel upto
+     Mode of approach
+                                     anchorage Point, then use dinghy upto shore, landing point to the
+                                     lighthouse by walk through dense forest and hilly terrain.
+27   उपलब्धसविधाए
+     Facilities available
+
+
+
+28   डाकपताPostal address            N/A
+
+29   मूल्यकाब्योराCost details
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          14.04.1969
+     Date of commissioning
+

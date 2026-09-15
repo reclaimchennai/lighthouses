@@ -1,0 +1,47 @@
+{
+  "slug": "prayagi-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Prayagi Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F 1000",
+  "position": {"lat_text": "19° 28.00'N", "lon_text": "85° 10.00'E", "lat": 19.466667, "lon": 85.166667},
+  "elevation_m": 38.1,
+  "characteristic_text": "GR FL (2) W 10 SEC",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.2
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 17, "geographical_nm": 16.4, "text": "Luminous 17 NM, Geographical 16.4 NM"},
+  "tower": {"type": "Circular RCC Tower", "height_m": 30, "colour_scheme": "Spiral Red and White Bands"},
+  "optic": {
+    "make": "Tideland Signal Corporation, USA", "model": "TRB 220", "type": null, "size": "915 mm height & 445 mm Dia.; focal length 110 mm", "order": null,
+    "panels": 3,
+    "rotation_device": null,
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Optical Equipment TRB 220; RPM 3",
+    "divergence_horizontal_deg": 2.4,
+    "divergence_vertical_deg": 1.15,
+    "divergence_text": "2.40 (Horiz.) & 1.15 (Vert.)",
+    "illuminant": "70 Watt MH Lamp, 230 volts AC"
+  },
+  "intensity_cd": 26928,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "AIS Base station 02 Nos. Saab Transponder make; Cisco switch; Datum system modem; GPS and VHF antennas 2 each; commissioned 01.12.2012"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "3 Phase 440V 50Hz mains from SOUTHCO; 10 kWp on-grid solar (32 x 320W, Delta 10KVA inverter); standby gensets 02 Nos. Kirloskar with 15 KVA alternators"},
+  "issues": [
+    "Elevation given as 'Elevation of ground 8.1 m' and 'Elevation of tower 38.1 m'; 38.1 m used",
+    "Divergence printed '2.40 (Horiz.) & 1.15 (Vert.)' without units; taken as degrees",
+    "No date of commissioning given (only innovation August 2013)",
+    "3 panels at 3 RPM does not obviously match GR FL (2) every 10 sec",
+    "Intensity labelled 'Luminous Intensity' rather than effective beam intensity"
+  ]
+}

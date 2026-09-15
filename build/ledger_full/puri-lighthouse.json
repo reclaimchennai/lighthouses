@@ -1,0 +1,120 @@
+{
+  "slug": "puri-lighthouse",
+  "page_count": 5,
+  "title_as_printed": "PURI LIGHTHOUSE MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "Name", "title_hi": null, "page": 1, "fields": [{"label": "Name", "value": "Puri Lighthouse"}], "tables": [], "text": "[photo: black and white lighthouse tower behind compound gate, framed, beside the title box on page 1]"},
+    {"no": "2", "title": "Sl. No. (in ALOL)", "title_hi": null, "page": 1, "fields": [{"label": "Sl. No. (in ALOL)", "value": "F 1002"}], "tables": [], "text": null},
+    {"no": "3", "title": "Position", "title_hi": null, "page": 1, "fields": [{"label": "Position", "value": "Lat. 19⁰ 47’24” N Long. 85⁰ 48’22” E"}], "tables": [], "text": null},
+    {"no": "4", "title": "Elevation of ground", "title_hi": null, "page": 1, "fields": [{"label": "Elevation of ground", "value": "5.2 m"}], "tables": [], "text": null},
+    {"no": "5", "title": "Elevation of tower", "title_hi": null, "page": 1, "fields": [{"label": "Elevation of tower", "value": "30.2 m"}], "tables": [], "text": null},
+    {"no": "6", "title": "Character ofLight", "title_hi": null, "page": 1, "fields": [{"label": "Character ofLight", "value": "FL (3) W 20 SEC"}], "tables": [], "text": null},
+    {"no": "7", "title": "Range in nautical miles", "title_hi": null, "page": 1, "fields": [
+      {"label": "i.) Luminous", "value": "17 NM"},
+      {"label": "ii.) Geographical", "value": "15 NM"}
+    ], "tables": [], "text": null},
+    {"no": "8", "title": "Lighthouse Tower", "title_hi": null, "page": 1, "fields": [
+      {"label": "i.) Type", "value": "Circular RCC Tower"},
+      {"label": "ii.) Height", "value": "25 m."},
+      {"label": "iii.) Color Scheme", "value": "Black and White Bands"}
+    ], "tables": [], "text": null},
+    {"no": "9", "title": "Optical Equipment", "title_hi": null, "page": 1, "fields": [
+      {"label": "Optical Equipment", "value": "TRB 220 (Revolving)"},
+      {"label": "i) Make", "value": "Tideland Signal Corporation, USA"},
+      {"label": "ii) Size", "value": "915 mm height & 445 mm Dia."},
+      {"label": "iii) No. of panels", "value": "6"},
+      {"label": "iv) Focal Length", "value": "110 mm"},
+      {"label": "v) RPM", "value": "3"},
+      {"label": "vi) Duration of Flash", "value": "0.11 Sec"},
+      {"label": "vii) Illuminant", "value": "70 Watt MH Lamp, 230 volts AC"},
+      {"label": "viii) Divergence", "value": "2.40 (Horiz.) & 1.15 (Vert.)"},
+      {"label": "ix) Luminous Intensity", "value": "26928 cd"}
+    ], "tables": [], "text": null},
+    {"no": "10", "title": "innovation", "title_hi": null, "page": 1, "fields": [{"label": "innovation", "value": ": Innovation was carried out on august 2013. l00W/12V Halogen lamp of TRB 220 was replaced with 70W/230V MH Lamp."}], "tables": [], "text": null},
+    {"no": "11", "title": "Lantern", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Diameter", "value": "2.4 m"},
+      {"label": "ii) Height of glazing", "value": "1.3 m"},
+      {"label": "iii) No. of glass panes", "value": "12 Nos."},
+      {"label": "iv) No. of Ventilators", "value": "6 Nos."}
+    ], "tables": [], "text": "Items iii) and iv) are on page 2."},
+    {"no": "12", "title": "Pedestal", "title_hi": null, "page": 2, "fields": [{"label": "Pedestal", "value": "Local Make"}], "tables": [], "text": null},
+    {"no": "13", "title": "Power supply", "title_hi": null, "page": 2, "fields": [
+      {"label": "i) Mains", "value": "3 Phase, 440V, 50Hz Electric Mains Supply from CESU."},
+      {"label": "ii) Solar", "value": ""},
+      {"label": "iii) Standby", "value": "Gensets (02 Nos.)"}
+    ], "tables": [
+      {"caption": "ii) Solar", "columns": ["Sl.No.", "Types of Solar Power", "Capacity", "No. of Panels", "Inverter", "Remarks"], "rows": [["1", "ON GRID", "10 kWp", "40 (each 250W 24V)", "10KVA, Make : Power one", "Net meter installed"]]},
+      {"caption": "A. Details ofEngine", "columns": ["Sr No", "Engine Sl. No", "Make", "BHP", "No. of Cylinder", "RPM", "Cooling", "Date of installation"], "rows": [
+        ["l", "21.1042/0100923", "Kirloskar", "12", "2", "1500", "Air Cooled", "14.04.2002"],
+        ["2", "21.1042/0100675", "Kirloskar", "12", "2", "1500", "Air Cooled", "14.04.2002"]
+      ]},
+      {"caption": "B. Details ofAlternator", "columns": ["Sr No", "Alternator Sl. No", "Make", "KVA", "Voltage", "Frequency", "Phase", "RPM"], "rows": [
+        ["l", "MK20750783", "Kirloskar", "7.5", "230", "50Hz", "Single", "1500"],
+        ["2", "MK20750783", "Kirloskar", "7.5", "230", "50Hz", "Single", "1500"]
+      ]}
+    ], "text": null},
+    {"no": "14", "title": "Other Equipments", "title_hi": null, "page": 2, "fields": [
+      {"label": "i) Battery Charger", "value": "02 Nos. AE make, each capacity 0-32 VDC, 15A. 01 No. installed at Power House were supplied on 04.12.2009 & another installed at service room, supplied on 02.11.2013."}
+    ], "tables": [
+      {"caption": "ii) Stabilizer", "columns": ["Sr No", "Input voltage", "Output voltage", "KVA", "Make", "Freq.", "Phase", "Date of Installation"], "rows": [["1", "160-260 V AC", "230 V AC", "5", "AE Ltd", "50Hz", "Single", "29.05.2011"]]},
+      {"caption": "iii) Inverter", "columns": ["Sr. No.", "Particulars", "Qty", "Date of Installation", "Purpose"], "rows": [
+        ["1", "1500 VA, 24V DC (input), 230V AC (output), Sukam make", "I No.", "18.11.2013", "For Light beacon"],
+        ["2", "1400 VA, 24V DC (input), 230V AC (output), Sukam make", "I No.", "09.03.2013", "For NAIS"]
+      ]}
+    ], "text": "\"Sukam make\" of inverter row 2 is printed at the top of page 3."},
+    {"no": "15", "title": "Remote Monitoring and Control System", "title_hi": null, "page": 3, "fields": [
+      {"label": "i) Main control Panel", "value": "1 No. installed at power house."},
+      {"label": "ii) Remote Panel", "value": "1 No. installed at service room (interface between main panel and equipments in service room)."},
+      {"label": "iii) UPS", "value": "l No. l KVA, APC make placed inside main Panel."},
+      {"label": "iv) Communication", "value": "VSAT"},
+      {"label": "iv) VSAT Antenna", "value": "1 No. installed on ground."},
+      {"label": "v) Modem", "value": "1 No. placed inside main Panel."}
+    ], "tables": [], "text": "All equipments are remotely monitored by RCS at Paradeep and MCS at Deep Bhavan, Kolkata."},
+    {"no": "16", "title": "NAIS", "title_hi": null, "page": 3, "fields": [
+      {"label": "i) AIS Base station", "value": "02 Nos. Saab Transponder make, installed at Service room."},
+      {"label": "ii) Modem", "value": "01 No. Tellabs, installed at Service room."},
+      {"label": "iii) Router", "value": "01 No. Cisco make, installed at Service room."},
+      {"label": "iv) Switch", "value": "01 No. Catalyst make, installed at Service room"},
+      {"label": "v) GPS antenna", "value": "02 Nos. installed at LH tower railing."},
+      {"label": "vi) VHF antenna", "value": "02 Nos. installed at LH tower railing"},
+      {"label": "vii) UPS", "value": "01 No. I KVA, APC make installed at Service room"},
+      {"label": "viii) Communication", "value": "Lease Line (BSNL)"},
+      {"label": "ix) Date of commissioning", "value": ": March 2012"}
+    ], "tables": [], "text": null},
+    {"no": "17", "title": "Fire Extinguisher", "title_hi": null, "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Sr. No.", "Type", "Capacity", "Qty", "Installed place"], "rows": [
+        ["l", "DCP", "5 kg", "02 Nos.", "01 No. at Service room & 01 No. at Power House."],
+        ["2", "ABC", "5 kg", "01 No.", "Power house"],
+        ["3", "Water CO2", "9 Ltrs", "02 Nos.", "01 No. at Service room & 01 No. at Power House."],
+        ["4", "Fire Buckets", "10 Ltrs", "04 Nos.", "Placed at corridor of Power house."]
+      ]}
+    ], "text": null},
+    {"no": "18", "title": "Water Supply", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "Municipal Water supply is available. Apart from Municipal water supply, LH has 1 HP motor (Crompton make) use to pump water from bore well to overhead tank at staff quarters and technical building. I HP motor were supplied on August 2002."},
+    {"no": "19", "title": "Land", "title_hi": null, "page": 3, "fields": [
+      {"label": "A) Lighthouse i. Area", "value": "0.606 Acre"},
+      {"label": "A) Lighthouse ii. Demarcation", "value": "Compound Wall"},
+      {"label": "A) Lighthouse iii. No. of Fruit Bearing Trees", "value": "21"},
+      {"label": "A) Lighthouse iv. No. of Non-Fruit Trees", "value": "100"},
+      {"label": "B) Storm Signal Control Centre i. Area", "value": "0.085 Acre"},
+      {"label": "B) Storm Signal Control Centre ii. Demarcation", "value": "Compound Wall"},
+      {"label": "B) Storm Signal Control Centre iii. No. of Fruit Bearing Trees", "value": "NIL"},
+      {"label": "B) Storm Signal Control Centre iv. No. of Non-Fruit Trees", "value": "NIL"}
+    ], "tables": [], "text": "Item B) iv. is on page 4."},
+    {"no": "20", "title": "Buildings", "title_hi": null, "page": 4, "fields": [
+      {"label": "i)", "value": "I No. Office cum power house cum store room."},
+      {"label": "ii)", "value": "I No. IQ"},
+      {"label": "iii)", "value": "I No. NAG-I Qtr."},
+      {"label": "iv)", "value": "I No. LHA Qtr."},
+      {"label": "v)", "value": "I No. pump house."},
+      {"label": "vi)", "value": "I No. Storm Signal Control Centre cum LHA Qtr."}
+    ], "tables": [], "text": null},
+    {"no": "21", "title": "Contact Details", "title_hi": null, "page": 4, "fields": [
+      {"label": "i) Office No.", "value": "06752-230622"},
+      {"label": "ii) Office E-Mail", "value": "purihlk@yahoo.com"},
+      {"label": "iii) Postal Address", "value": "Puri Lighthouse, Baliapanda Puri-752001, Dist. Puri, Odisha"}
+    ], "tables": [], "text": null},
+    {"no": "22", "title": "Mode ofApproach", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "The station is well connected by all weather road. The nearest Railway Station is Puri which is 6 Km from Puri Lighthouse. Nearest Airport is Bhubaneswar which is approx. 60 km from Puri LH."},
+    {"no": "23", "title": "Facilities Available", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "Post Office, Primary Health Center, Police Station and Kendriya Vidyalaya all are within radius of 8 KM from Puri Lighthouse.\n(Page 5 is blank apart from the footer \"5 | Page\".)"}
+  ],
+  "unreadable": []
+}

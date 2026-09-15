@@ -1,0 +1,37 @@
+{
+  "nid": 368,
+  "title": "Supply of Tubular batteries for Dhanushkodi Lighthouse",
+  "summary": "Notice inviting sealed quotations for supplying four Exide 12V/200Ah C10 tall tubular lead-acid solar batteries to Dhanushkodi Lighthouse, Rameswaram, Tamil Nadu, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-01003(13)/1/2021-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Dhanushkodi Lighthouse, Dhanushkodi Post, Rameswaram Taluk, Ramanathapuram Dist.", "station_id": "dhanushkodi-lighthouse", "kind": "lighthouse", "work": "Supply of tubular batteries"}
+  ],
+  "scope": [
+    {"item": "Supply of Exide make 12V/200Ah C10 tall tubular lead acid battery, 60 months warranty, suitable for solar applications", "qty": "4", "unit": "Nos", "site": "Dhanushkodi Lighthouse"},
+    {"item": "Packing and transportation charges to Dhanushkodi Lighthouse", "qty": "1", "unit": "Job", "site": "Dhanushkodi Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "GST paid as per actual. 100% payment after receipt of items in good condition. Paying authority: The Director, Directorate of Lighthouses & Lightships, Chennai."
+  },
+  "period": {"completion": "Supply within 30 days from acceptance of purchase order", "bid_validity": null, "warranty": "60 months (5 years from date of supply)"},
+  "dates": {"published": "2022-09-05", "pre_bid": null, "bid_submission_end": "2022-09-19", "bid_opening": "2022-09-19"},
+  "eligibility": ["Reputed firms or authorised dealers or agents; quotation with credentials and descriptive brochures"],
+  "specs": ["Exide 12V/200Ah C10 tall tubular lead acid battery for solar applications, 60 months warranty"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "tender 5.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Quotations due 19/09/2022 15:00, opened 16:00. No estimated cost or EMD. Brand specified (Exide). Listing directorate 'DGLL' though issued by Chennai Directorate."
+}

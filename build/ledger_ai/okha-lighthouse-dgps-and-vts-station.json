@@ -1,0 +1,47 @@
+{
+  "slug": "okha-lighthouse-dgps-and-vts-station",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Okha Lighthouse, VTS & DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1956,
+  "alol": "F.0388",
+  "position": {"lat_text": "22° 28' 34.87\" N", "lon_text": "69° 04' 11.38\" E", "lat": 22.476353, "lon": 69.069828},
+  "elevation_m": 26,
+  "characteristic_text": "Fl (3) W.25 sec.(Fl-1. 0.41, ec. 4.59, Fl-2.0.41, ec.4.59, Fl-3. 0.41, ec.14.59)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 25,
+    "sequence_text": "Fl-1 0.41, ec 4.59, Fl-2 0.41, ec 4.59, Fl-3 0.41, ec 14.59",
+    "sequence_s": [0.41, 4.59, 0.41, 4.59, 0.41, 14.59],
+    "flash_duration_s": 0.41
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 25, "geographical_nm": 15, "text": "Luminous 25 NM, Geographical 15 NM"},
+  "tower": {"type": "Square Masonry tower", "height_m": 23, "colour_scheme": "Red and White alternate horizontal band"},
+  "optic": {
+    "make": "Chance Brother Ltd., U.K", "model": null, "type": "revolving", "size": "250 mm dia", "order": "4th order",
+    "panels": 3,
+    "rotation_device": "20 kg.cm stepper motor for direct drive",
+    "rpm": 2.4,
+    "rotates": true,
+    "rotates_evidence": "250 mm dia (4th order) revolving; Rotation device 20 kg.cm stepper motor; R.P.M 2.4",
+    "divergence_horizontal_deg": 2.733333,
+    "divergence_vertical_deg": 6.15,
+    "divergence_text": "Main: 2° 44' (Hori.), 6° 09' (Verti.); Emergency: 0° 38' (Hori.), 0° 68' (Verti.)",
+    "illuminant": "150W CDMT lamp"
+  },
+  "intensity_cd": 386400,
+  "racon": {"present": true, "code": "O", "text": "Tideland, USA; Sea Beacon 2 system 6, Frequency agile; swept 9300 to 9500 MHz; code \"O\" (---); 12v 100 Ah battery, 35 W solar panel; installed 10-03-2004"},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V/230V 3-phase 50Hz; diesel engine generator set 2 nos 50 KVA; 30 kw on grid solar power (commissioned 17/12/2016, ALPHA)"},
+  "issues": [
+    "Position printed with seconds using a single prime (34.87', 11.38'); treated as degrees-minutes-seconds",
+    "Emergency vertical divergence printed as 0° 68' (minutes >= 60)",
+    "Optic 'Duration: 5 sec.' conflicts with flash duration 0.41 s in characteristic",
+    "RACON and DGPS aerial label/value rows are misaligned on the page (e.g. Output pulse power / Code / Power supply values shifted)",
+    "DGPS Date Commissioning listed as 30-10-1998 and also 'Date of Commissioning 22/03/2018' / May 2004 in misaligned rows"
+  ]
+}

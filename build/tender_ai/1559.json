@@ -1,0 +1,40 @@
+{
+  "nid": 1559,
+  "title": "Fabrication, Supply, Installation and Commissioning of Distribution Panel for 2 Nos. 40KVA Gensets at Pulicat Lighthouse and DGPS Station under Chennai Directorate.",
+  "summary": "E-tender (two-cover) for fabrication, supply, installation and commissioning of a distribution panel for two 40 kVA generator sets at Pulicat Lighthouse and DGPS Station, Tamil Nadu (Chennai Directorate).",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Pulicat Lighthouse and DGPS Station", "station_id": "pulicat-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Fabrication, supply, installation and commissioning of distribution panel for 2 nos. 40 kVA gensets"}
+  ],
+  "scope": [
+    {"item": "Fabrication, Supply, Installation and Commissioning of Distribution Panel for 2 Nos. 40KVA Gensets", "qty": "1", "unit": "panel", "site": "Pulicat Lighthouse and DGPS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 943417.0,
+    "emd_inr": 18900.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR of any nationalised bank in favour of The Director of Lighthouses and Lightships, Chennai, payable at Chennai, valid 90 days from technical bid opening. Tender fee Rs 500 (non-refundable) by DD. Tender fee and EMD exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "30 Days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-03-21", "pre_bid": "2024-04-02", "bid_submission_end": "2024-04-08", "bid_opening": "2024-04-09"},
+  "eligibility": [
+    "OEMs or their authorised agents, or appropriate class contractors registered with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies, having experience in the work"
+  ],
+  "specs": [
+    "Distribution panel for 2 nos. 40 kVA gensets"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "PULICATNIT.pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled"]}
+  ],
+  "confidence": "high",
+  "notes": "Section 1 NIT only; no file number, BOQ or panel specification. Download, bid and EMD/fee submission 25.03.2024 15:00 to 08.04.2024 14:00; pre-bid 02.04.2024 15:00; technical bid opening 09.04.2024 14:30. Hindi tender-fee row repeats the EMD wording (Rs 18,900) while English states Rs 500 (English value recorded). Bid validity not stated."
+}

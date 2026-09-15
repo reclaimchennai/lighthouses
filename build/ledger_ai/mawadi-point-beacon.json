@@ -1,0 +1,41 @@
+{
+  "slug": "mawadi-point-beacon",
+  "pages_read": [1, 2],
+  "name": "Mawadi Point Beacon",
+  "station_type": "other",
+  "established_year": 1958,
+  "alol": "0378",
+  "position": {"lat_text": "22º 37.2' N", "lon_text": "69º 58.3' E", "lat": 22.62, "lon": 69.971667},
+  "elevation_m": 5,
+  "characteristic_text": "Fl (R) 10Sec. (1 + 9 = 10Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["R"],
+    "period_s": 10,
+    "sequence_text": "1 + 9 = 10Sec",
+    "sequence_s": [1, 9],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 5, "geographical_nm": 7, "text": "Luminous 5NM at T=0.74, Geographical 7NM; visibility sector 360º"},
+  "tower": {"type": "White pyramidal concrete tower, red bands", "height_m": 8, "colour_scheme": "White – red band"},
+  "optic": {
+    "make": "Sealite, Australia", "model": "SL125", "type": "Marine LED Flasher", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type of Light (LED Flasher); Type of flasher: Marine LED Flasher",
+    "divergence_horizontal_deg": 360,
+    "divergence_vertical_deg": 9,
+    "divergence_text": "Divergence (Vertical) 9º, Divergence (Horizontal) 360º",
+    "illuminant": "High Intensity LED"
+  },
+  "intensity_cd": 500,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": false, "solar": true, "generator": false, "text": "Solar power light"},
+  "issues": ["Elevation 5 Meter is less than tower height 8 Meter"]
+}

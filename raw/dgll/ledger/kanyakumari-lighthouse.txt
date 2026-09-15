@@ -1,0 +1,194 @@
+                            मास्टर लेज़र/MASTER LEDGER
+          कन्याकुमारी दीपस्तंभ/KANYAKUMARI LIGHTHOUSE
+ क्रम                 नाम /Name
+                                                                        वििरण/Description
+संख्या/
+Sr.No
+   1      ए.एल.ओ.एल/A.L.O.L.                 F 0726
+  2       स्थान/Position                     Lat.8° 04’8” N , long 77° 32’8” E
+  3       ऊंचाई/Elevation                    34 M (Above MSL)
+  4       अभिलक्षण/Characteristic            GROUP OF (2) W 20 sec (.66+3.38+.66+15.3=20
+                                             Se)
+
+  5       नॉटिकलमाइलमेदरू ी                  Luminous 18 NM
+                                             Geographical 21 NM
+          Range in miles
+  6       दीपस्तंििािर/L.H.Tower             Type                                Square stone massonary Tower
+                                             Height                              30.5 M
+                                             Colour Scheme                       Red and White
+  7       ऑप्टिकलउपकरण                       Optic                               375 mm 3rd order small
+                                             Make                                M/s BBT Ltd Paris
+          Optical equipment
+                                             Type
+                                             Size                                375 mm
+                                             No. of lens                         4
+                                             Area of dioptric portion            1518 Sq.cm (corrected area 1077
+                                                                                 sq.cm)
+                                             Area of catadioptric portion        4220 Sq.cm ( corrected area 3503
+                                                                                 sq.cm)
+                                             Divergence                          5º56’ (Horizontal)
+                                             Main/Emergency                      1º59’ (Vertical)
+                                             Duration of Flash                   2 flash every 20 seconds
+                                             Main /Standby/Emergency
+                                             Pedestal                            Fixed
+                                             Rotation Device                      stepper motor with drive
+                                             R.P.M.                              1.5 r.p.m
+                                             illumining
+                                             Main                                230V/150W Single ended Metal
+                                                                                 Lamp Halide 3 in cluster
+                                             Standby                             -
+                                             Emergency:                          -
+                                             Date of Installation
+  8       प्रिािीबीमतीव्रता/Effective beam   Main                                110908 cds
+          intensity                          Emergency                           -
+  9       लेंिनन/Lantern                     Diameter                            2.5 m
+                                             Height of glazing                   1.3 m
+                                             No. of panes                        20 Nos
+                                             Ventilators                         9 Nos
+  10      RACON                                   Sr. No
+     Make                 Model              Code                                Band                    Date of
+                                                                                                         Installation
+     TideLand             Sea Beacon 2       C                                   X+S Band                02.01.2008
+                          system 6
+11   NAIS
+     Base Station                                R40   2 Nos
+
+     Model                Type               Power                               MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna         Band               Modem
+                          EX-C               Datum system
+                                                 M7LT
+                                             Satellite Terminal
+     DGPS
+     Transmitter Make     Frequency          Power Output        RS 1 ID         RS -II      Beacon      Date of        D
+                                                                                 ID          ID          commis         at
+                                                                                                         sioning        e
+                                                                                                                        of
+                                                                                                                        R
+                                                                                                                        e
+                                                                                                                        c
+                                                                                                                        a
+                                                                                                                        pi
+                                                                                                                        ta
+                                                                                                                        li
+                                                                                                                        z
+                                                                                                                        at
+                                                                                                                        io
+                                                                                                                        n
+
+
+
+12   ऊर्ानकेसाधन/Source   Mains                                                  Tamilnadu electricity board
+     of energy            Power Source                                           3 phase /440V AC supply
+                          Engine 1                                                              (NIL)
+                          Make/Type                    Qty        Rating         No of           RPM             Coolin
+                                                                                 Cylinder                        g
+                          Kiloskar                     1          32 bhp/20kva                   1500            Air
+                                                                                                                             c
+                                                                                                                             o
+                                                                                                                             o
+                                                                                                                             l
+                          Alternator
+                          Make/Type                    Qty        Rating         Voltage/Amp     Frequency       Phase
+                          kirloskar                    1          20kva          230/            50 Hz           3
+                                                                                                                 Phase
+                          Engine 2                                                              (NIL)
+                          Make/Type                    Qty        Rating         No of           RPM             Coolin
+                                                                                 Cylinder                        g
+                          KOEL Green                   1          56 BHP/        3               1500            Air
+                                                                                                                             c
+                                                                                                                             o
+                                                                                                                             o
+                                                                                                                             l
+                          Solar Plant for Main light
+                          Capacity PV                  Numbers                   Type       Battery              Bank
+                                    Solar Plant for 2KW off grid (used in automation, street light and etc
+                                    Capacity PV                  Numbers                      Type       Battery                    Bank
+                                    3 KW (24 V/ 250 W)           12 No.                       hykon      12 Nos                     01
+                                                                                              make       12V/200AH                  No.
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make                    Model                Capa      Input                        Output               Phase            Qty
+                                                       city
+          Globus                  Servo                5         170-270 V                    230 V                1 phase          1 No
+                                  controlled           KVA
+14        बैिरर
+          Batteries
+          Equipment               Type                 Make        Volt                       Amp/       Qty
+                                                                                              Hr
+          PSS NAIS                        -               -                   -                  -                 -
+          Genset                          -             Koel                12 V               100                 2
+                                                        green
+          Automation                      -               -                  -                   -                 -
+          RACON                   SMF                   Exide               12V                150A                1
+                                                                                                H
+     15   बैिररचार्नर/ Battery charger
+
+          Equipment               Make                 Model Type                             Rating Qty
+          DELTA                   DELTA                -     -                                0-30   1 No
+                                                                                              V/ 30
+                                                                                              A
+     16   इंवर्ट रInverter /UPS
+          Equipment Nos           Make         Model                         Type             Rating         Qty       input          ou
+                                                                                                                                      tp
+                                                                                                                                      ut
+
+          3 KW off       1 No     hykon                Ssp 3000                               3kw/48V        1No       48 V/ DC &     23
+          grid                                                                                                         230 V AC       0V
+                                                                                                                                      A
+                                                                                                                                      C
+     17   स्वचलनउपकरण
+          Automation Equipment
+          MAKE        PLC                     HMI             Power Supply            VSAT               Modem           Band
+          RDS         Allen Bradley           Renu            24 V DC                 1.8 m dia          Hughes          EX.C
+                                              electronics                             Parabolic
+                                                                                      reflector
+     18   आप्ननशमनउपकरण                                Type of Extinguisher           Capacity               Nos          Make
+          Fire Fighting Equipment                      DCP Type                        2Kg                   5            Intime
+                                                       Co2                            9 Kg                   1            Intime
+                                                       Foam Type                      9 Ltr                  2            Excellent
+     19   संचार                                        BSNL telephone                                    04652-246269
+          Communication
+     20   र्लपर्ू तन                                   Local panchayath water supply 2 nos of bore wells at Quarters,
+          Water Supply
+21   िभू म                           Area                                    0.461 Hectare LH +
+                                                                             1Acre(Quarters Compound)
+     Land                            Demarcation                             Not Available
+
+22   इमारतें                         RCC Structure: 04 Nos                   Office: Power house, store
+                                                                             room, office room and
+     Buildings                                                               bathroom
+                                                                             Staff Quarters: IQ, NA-I,
+                                                                             NA-II, NA-III, LHA,LHS,
+                                                                             Watchman quarters(Twin
+                                                                             Complex), Recreation
+                                                                             Room, Pump house (2
+                                                                             Nos)
+23                                                                           9 nos street light pole & 4 nos
+     कंपाउं डलाइि                                                            of gate light & 2 no of light
+     Compound Lights                                                         display board
+24   सीसीिीिीकमेरा                   NIL
+      CCTV CAMERA
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1            Navigational Assistant Gr-I – 1 No
+                                     2            Navigational Assistant Gr-I I– 1 No &1 LHA
+26   पहुँचनेकामाध्यम                 Nearby Railway station is Kanyakumari,
+     Mode of approach                Nearest airport is Tiruvanadapuram airport,
+
+27   उपलब्धसविधाए                    The nearest Post office local panchayat office, High School and
+     Facilities available            hospital, Police Station are available at Kanyakuamri.
+
+
+28   डाकपताPostal address            The Navigational Assistant Gr-I
+                                     Kanyakumari Lighthouse,
+                                     Kayakumari post,
+                                     Kanyakumari Dist
+                                     Pin 629702
+29   मल्ू यकाब्योराCost details
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          04.11.1971
+     Date of commissioning
+

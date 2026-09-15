@@ -1,0 +1,70 @@
+{
+  "nid": 2159,
+  "title": "Supply and Installation of Street Light and gate light at Patpur Far Field Monitoring Station, Odisha.",
+  "summary": "GeM BOQ bid for supply, installation, testing and commissioning of GI street light poles, LED street/post-top lights, gate lights, UG cabling, switchgear and earthing at Patpur Far Field Monitoring Station, Odisha (Kolkata Directorate); consignee listed at Chandrabhaga Lighthouse.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/6935756",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Patpur Far Field Monitoring Station, Odisha", "station_id": null, "kind": "other", "work": "Supply and installation of street lights and gate lights, cabling, switchgear, earthing"},
+    {"name": "Chandrabhaga Lighthouse, PO Konark, Dist. Puri, Odisha 752111", "station_id": "chandrabhaga-lighthouse", "kind": "lighthouse", "work": "Consignee/reporting address for all items"}
+  ],
+  "scope": [
+    {"item": "G I Street Light Pole", "qty": "15", "unit": null, "site": null},
+    {"item": "3 Core Copper Single Strand Armoured UG Cable", "qty": "500", "unit": null, "site": null},
+    {"item": "Single Core Copper Multi Strand PVC Cable", "qty": "500", "unit": null, "site": null},
+    {"item": "Supply and fixing of LED Street Light Fittings", "qty": "17", "unit": null, "site": null},
+    {"item": "Supply and fixing of PVC Junction Box", "qty": "18", "unit": null, "site": null},
+    {"item": "Single Pole MCB", "qty": "18", "unit": null, "site": null},
+    {"item": "Supply and fixing of LED Post Top", "qty": "2", "unit": null, "site": null},
+    {"item": "Supplying and fixing of Main switch fuse unit", "qty": "1", "unit": null, "site": null},
+    {"item": "PVC Flexible Hose Pipe", "qty": "20", "unit": null, "site": null},
+    {"item": "Insulation tape", "qty": "20", "unit": null, "site": null},
+    {"item": "Supply and fixing of Ceramic kit kat fuse unit", "qty": "2", "unit": null, "site": null},
+    {"item": "Supplying and fixing of DP sheet steel enclosure on surface or recess", "qty": "2", "unit": null, "site": null},
+    {"item": "Earthing", "qty": "1", "unit": null, "site": null},
+    {"item": "Supplying and laying 25mm X 5mm GI strip", "qty": "10", "unit": null, "site": null},
+    {"item": "Labour charges for excavation of trench", "qty": "500", "unit": null, "site": null},
+    {"item": "G I Channel for MCB fixing", "qty": "3", "unit": null, "site": null},
+    {"item": "SS Nut bolt and washers", "qty": "50", "unit": null, "site": null},
+    {"item": "Labour charges for fixing of gate light with GI pipe fixing or grouting and supply connection", "qty": "2", "unit": null, "site": null},
+    {"item": "G I pipe for fixing gate light", "qty": "2", "unit": null, "site": null},
+    {"item": "Labour charges including materials", "qty": "15", "unit": null, "site": null},
+    {"item": "Shifting and re installation of existing solar street light pole with concrete base", "qty": "5", "unit": null, "site": null},
+    {"item": "Labour charges for Painting of GI street light pole", "qty": "23", "unit": null, "site": null},
+    {"item": "Labour charges for removing of old PCC base", "qty": "8", "unit": null, "site": null},
+    {"item": "Re-arrangement of electrical switchgears items", "qty": "1", "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 516611.0,
+    "emd_inr": 10300.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 15 months (FDR also accepted)",
+    "notes": "Estimated bid value per GeM (for guidance only). EMD advisory bank SBI; EMD also by DD in favour of Director of Lighthouses and Lightships, Kolkata, payable at Kolkata, hardcopy within 5 days of bid end; MSE manufacturer exemption per GeM GTC. MII purchase preference 20% (max 50% quantity); MSE preference 15% (max 25% quantity). Option clause +/-25%."
+  },
+  "period": {"completion": "60 days delivery (per consignee schedule)", "bid_validity": "90 days from bid end date", "warranty": null},
+  "dates": {"published": "2025-12-02", "pre_bid": "2025-12-08", "bid_submission_end": "2025-12-23", "bid_opening": "2025-12-23"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 3 lakh; OEM average turnover: Rs 3 lakh",
+    "3 years past experience supplying same/similar category products to Central/State Govt/PSU",
+    "Past performance: supplied 80% of bid quantity in at least one of last three financial years",
+    "No MSE or startup exemption for experience and turnover",
+    "Only Class-I/Class-II local suppliers (Make in India); minimum local content 50% (Class 1) / 20% (Class 2)",
+    "Documents: experience, past performance, turnover, OEM authorization, OEM turnover, ATC certificates, BoQ specification compliance"
+  ],
+  "specs": [
+    "Relevant GeM categories: LED Luminaire for Road and Street Lights (V2) conforming to IS 10322 (Part 5/Sec 3); Tubular Street Light Poles (V2); XLPE cable up to 1.1 kV per IS 7098 (Part 1)",
+    "Scope of supply: supply, installation, testing and commissioning; detailed specification and BOQ in attached files (not included in this PDF)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM-Bidding-8639342.pdf", "pages": 21, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "GeM bid document dated 02-12-2025, bid end 23-12-2025 11:00, opening 11:30; pre-bid at Deep Bhavan, Taratala Road, Kolkata. Filename 'GeM-Bidding-8639342' does not match the printed bid number GEM/2025/B/6935756. Location 'Patpur FFM' appears only in the BOQ title/GeMARPTS string; all consignee rows point to Chandrabhaga Lighthouse (consignee officer's personal name omitted). Units for BOQ quantities are not printed. Two-packet bid, total quantity 1735, total-value-wise evaluation. Buyer ATC file and BOQ specification documents referenced but not included."
+}

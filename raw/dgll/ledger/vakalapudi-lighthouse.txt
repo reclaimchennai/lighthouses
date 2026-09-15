@@ -1,0 +1,291 @@
+                       Vakalapudi Lighthouse
+                             Estd.1878
+                      VISAKHAPATNAM DIRECTORATE
+                            MASTER LEDGER
+
+0   Name                  : VAKALAPUDI LIGHTHOUSE
+    Sr.No.
+1                         : 0964
+    (as per A.L.O.L)
+                            Lat: 170 00.8’ N
+2   Position              :
+                            Long: 820 17. 1' E
+3   Elevation             : 47.88 Mtr
+
+4   Characteristic            FL(3) white, every 15 sec
+
+
+5   Range in nautical miles
+       i)      Luminous       :     26 M
+       ii)   Geographical : 19 NM
+6   Lighthouse Tower
+       i)      Type           : Circular R.C.C. Tower
+       ii)     Height         : 45 Mtr
+       iii)    Colour
+                              : Red and White bands
+               Scheme
+
+7 Optical Equipment
+a)  i)     Make               : M/s BBT
+       ii)     Size           : 350 mm (4th order) revolving
+       iii)    No. of
+                              : 3 Nos.
+               Panels
+       iv)     Area of
+               dioptric       : -
+               portion
+       v)      Area of
+               catadioptric   : -
+               portion
+       vi)     Divergence
+              Main            : Horizontal. 60 45.5', Vertical 60 18'
+        vii) Duration of flash
+          Main/ Standby     : 0.19 seconds
+              Emergency       : ---
+
+                                  Mercury float (28kg in use)
+b) Pedestal                   :
+                                  Cast iron pedestal
+
+
+c) Rotation Device
+                                  Twin stepper motor Direct Drive system.
+     i) Stepper Motor         :
+                                  2 No’s Unique make, Capacity 20 Kgs
+   ii) Stepper Motor
+                              : 2 No’s Unique make
+   Controller
+d) Rotation Speed             : 4 RPM
+e) Illuminant
+        i)       Main/Service : 3 Nos.150 W Metal Halide Lamp (cluster type)
+        ii)      Standby      : Nil
+        iii)   Emergency     : Nil
+f)   Effective Beam Intensity
+        i)       Main/Service : 9,39,600 Cds.
+        ii)      Standby      : N/A
+        iii)     Emergency    : N/A
+
+8    Lantern
+        i)       Diameter     : 2.4 Mtr
+        ii)      Height of
+                              :    1.5 Mtr
+                 glazing
+        iii)     No. of panes : 9 Nos.
+        iv)      Ventilators  :    8 Nos.
+
+10 Main light UPS             : 4 Nos.
+    Make                      : UTL
+       Capacity               : 800 VA
+     Input                 : 12V DC
+     Output                : 230V AC
+     Model Number          : UTL combo
+
+
+11   Energy Source
+        A) APEPDCL Mains : 440 V/50Hz 3 Phase.
+
+       B) Green Energy         : 3KW off grid solar power plant for main light.
+        i)      Solar panels   : 10 os 24V/250W solar Modules (Vikram make)
+        ii)     Battery Bank : 11 os 12V /150Ah Battery bank Exide SMF
+        iii)    PCU          : 3 KVA Rating, HBL make
+
+12   Diesel Engine Generator
+       Make                    : Kirloskar, HA294
+       Engine No.              : 02.1186/0400940
+       Rating                  : 19 HP/ 02 cylinders
+       Output voltage          : 240V/50Hz
+       RPM                     : 1500/ Air cooling
+13   Diesel Engine Alternator
+       Make                    : Kirloskar
+       Engine No.              : KG180M1
+       Rating                  : 12.5 KVA/ single phase
+       Output voltage          : 240V/50Hz
+       RPM                     : 1500
+14   Servo Stabilizers         : 1 No.
+       Sl.No.                  : 1290/24348
+       Make                    : Supra-Hitech
+       Model                   : SH-3150
+       Capacity                : 15 KVA
+       Input                   : 330 - 460 V
+       Output                  :    400
+15   AMF Panel
+       Make                   : Elect India
+       Model                  : EMF15KM3G1-ICFTDM02
+       Capacity               : 10    VA/ 3 Phase
+16   No of Batteries          : 1 No. Exide 12 V/ 150 AH Battery for Gen Set
+                              : 3 Nos. Exide 12 V/ 150 AH Batteries for Main Light
+                              : 0    No. Exide 12 V/ 150 AH Battery for Rotation
+17   RACON
+       Make                          : Tideland signal Corp., U.S.A.
+       Input Voltage                 : 9 to 36 Volts D.C.
+       RACON Sl.No.                  : 6165
+       Morse Code                    : G
+       Date of Commissioning         : December 2004
+       Solar Panel                   : Tata BP , 12V/70 watt
+       Battery                       : Tubular Battery 12V/ 90AH
+18   NAIS Equipment
+       Make                          : M/s SAAB
+       AIS R40 Base Station          : Sl.No.5253
+       AIS R40 Base Station          : Sl.No 5202
+       V- SAT Dish Size              : 2.4 Mtr. Dia ( with BUC 5 watt capacity)
+       VHF Antenna                   : 2 Nos.
+       GPS Antenna                   : 2 Nos.
+       Indoor (Data Modem)           : 1 No.(HUGHES)
+       Ethernet Switch               : 1 No. (CISCO)
+                                     : 2 Nos., 1 KVA inbuilt 48V battery for AIS
+       UPS
+                                       Base station and AIS Satellite Modem.
+       Date of Commissioning         : 20/12/2011
+19   Automation of Lighthouse.
+       Make                          : M/s Recktronic Devices & Systems, Pune.
+       RDS Panel                     : 1No. in power house. (S.No.1692)
+       RDS Panel                     : 1No Service room. (S.No.1714)
+       PLC units                     : 2 Nos.
+       Power Transducers             : 3 Nos.
+          Adepts                       : 6 Nos.
+          Modem                        : 1 No.
+                                         1 No, (1KVA, APC Make, Model- BR1000G-IN,
+          DC Power Supply Unit         :
+                                         Sl.No.214450744.)
+          VSAT Antenna                 : 1.5 Mtr. dia
+          Date of commissioning        : 05/02/2013
+
+20   NAVTEX
+                                     2 No’s, DANPHONE Make provided in Dual
+       Transmitter (1Kilo watt)    :
+                                     transmitter rack (5.4 feet height)
+       Power Supply unit           : 2 Nos. capacity 0-300Volt for each Transmitter
+                                     1 No. (for Power control remotely),
+       IP Power switch             : Ethernet Switch (router): 1 No.,
+                                     Transmitter switch: 1 No. Tuner
+       Ethernet Switch(router)     : 1 No. (For connected NAIS Modem unit)
+       Receiver with antenna       : 1 No.
+       ATU                         : 2 Nos.(In ATU room)
+       ATU Controller              : 1 No.(In ATU room)
+                                     1 No. Mounted on 30 Meter Height GI trestle
+       T Antenna                   :
+                                     tower 2 Nos.
+       Smoke Detector(Fire
+                                   : 1 No. in Tx Room.
+       Alarm)
+                                      1No, Make: Blue Bird, Sl No.6-2014 104, 15
+       Servo Stabilizer            :
+                                      KVA
+                                      1No, 7.5 KVA, Make; Power Gun, Model: PI, Sl
+       UPS                          : No.EXNBN/14-15/CCS/11,
+                                      Batteries 10 Nos. Exide,42AH,12 Volts
+     Details of Diesel Engine Generators
+       Details of Engine          : 2 Nos.
+       Engine No.                 : 522828906709
+       Make/Tape                  : Eicher
+       H.P.                       : 26
+       No. of Cylinder            : 3 Nos.
+  RPM                   : 1500
+  Cooling               : Air Cooled
+  Engine No.            : 522828906709
+  Make/Tape             : Eicher
+  H.P.                  : 26
+  No. of Cylinder       : 3 Nos.
+  RPM                   : 1500
+  Cooling               : Air Cooled
+Details of Alternator   : 2 Nos.
+  Frame                 : AH310200-318
+  Make                  : Pinnacle
+  KVA                   : 20.0
+  Vol                   : 230 V
+  Frequency             : 50 Hz
+  Phase                 : Single
+  RPM                   : 1500
+  Frame                 : AH310200-327
+  Make                  : Pinnacle
+  KVA                   : 20.0
+  Vol                   : 230 V
+  Frequency             : 50 Hz
+  Phase                 : Single
+  RPM                   : 1500
+
+AC with stabilizer      : 2 No’s, 1.5 Ton split type
+  Model                 : S185CUR-TV
+  Make                  : ONIDA
+  Total unit            : 02 Nos.
+Computer                : 1No. Hp make CPU with Monitor 25”
+                          2No’s(1No. HPdeskjet, model 3545 all-
+Printers                : One, 1No. Epson LQ50 for Navtex
+                          messages
+     Date of Commissioning            : 03/03/2015
+
+                                            i) 8 Nos. GI poles with 25W LED
+21   Street Lights                        : ii) 8 Nos. 15W solar street light
+                                            iii) Gate Light CFL - 2 Nos.
+
+22    Firefighting equipment
+      Fire Extinguishers
+          i)      D.C.P. type
+                                      : 3 Nos.
+         (2kg Capacity)
+          ii)     Foam type
+                                      :        1 No.
+           (9 litres capacity)
+        iii) Fire Buckets             : 4 Nos.
+23    Communication Facility          : e-mail : Vakalpudi-vizag@dgll.nic.in
+
+                                              Ground water & Connection from
+24 Water Supply                           :
+                                              Gram panchayat
+
+25 Land
+        i)     Area              : 5 Acres
+        ii)    Demarcation : Compound wall
+        iii)   No. of fruit
+                             : 9 Nos.
+               trees
+        iv)    No.of non
+               fruit bearing : 25 Nos.
+               Trees
+
+                                   Powerhouse attached with Office and NAVTEX
+                                   Room, Store-1 No., Inspection qtr, NA-I Qtr-1No.,
+26 Buildings                     :
+                                   NA-II Qtr-1 No., LHA Qtr., NAVTEX Operator
+                                   Building.
+
+                                    i) NA- II-01no, LHA – 01no, Navtex operator-
+27    Staff                       :    02nos(Outsourcing) andSecurity Guards -
+                                       01no(Outsourcing).
+                                   By train up to Samalkot, by road Samalkot to
+28    Mode of approach           : Kakinada 15 km. By Auto Kakinada to Vakalapudi
+                                   LH 8 km.
+
+29    Facilities available       : a) Post Office within 5 km (Valasapakala)
+                                   b) Govt. Hospital within 12 km (Kakinada)
+                                   c) Govt. School within 5 km (Valasapakala)
+                                   d) Nationalized Bank within 6 km (Sarpavaram)
+                                   e) Police Station within 6 km (Sarpavaram)
+
+30    Postal Address             : The Navigational Assistant Gr-I,
+                                   Vakalapudi Lighthouse,
+                                   Tammavaram Post, Kakinada,
+                                   East Godavari Dist.
+                                   Andhra Pradesh, Pin: 533005
+
+
+31   Cost Details
+
+         i) Construction     : Rs.1.3 Crore
+         ii)  Cost of
+                             : Not available
+              equipment
+
+
+     Year of first Light          2004 (Taken over from Port Department of
+32                           :
+     Commissioned                 Andhra Pradesh)
+
+     Date of
+33                           : 08-11-2004
+     Commissioning
+
+     Subsequent
+34                           : Nil
+     Innovation
+

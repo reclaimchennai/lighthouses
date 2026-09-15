@@ -1,0 +1,45 @@
+{
+  "slug": "karaikal-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Karaikal Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1992,
+  "alol": "F 0916",
+  "position": {"lat_text": "10° 54'99\" N", "lon_text": "79° 51'14\" E", "lat": 10.9275, "lon": 79.853889},
+  "elevation_m": 89,
+  "characteristic_text": "Fl (2) W every10 sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 12, "geographical_nm": 13, "text": "Luminous Range-12NM, Geographical Range-13NM"},
+  "tower": {"type": "Circular RCC structure", "height_m": 15.09, "colour_scheme": "Complete White colour Band"},
+  "optic": {
+    "make": "Tideland signal corporation", "model": "TRB-220", "type": "TRB-220 Maxlumina", "size": "110mm", "order": null,
+    "panels": 4,
+    "rotation_device": "12v/DC Stepper motor",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Optic: Rotating Beacon, TRB-220; Rotation Device 12v/DC Stepper motor; R.P.M. 3",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "230V/70W Metal Halide Lamp"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "N.A"},
+  "ais": {"present": false, "text": "NAIS N.A (VSAT Antenna 2.4m dia Parabolic reflector listed)"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "Mains 3 phase 440v Puducherry Electricity Supply; Engines 1-4 N.A; solar plant 12v/80w x 4 (Tata BP), 12V/150AH x2"},
+  "issues": [
+    "Latitude seconds printed as 99\" (>= 60): '10° 54'99\" N'; converted as printed",
+    "Duration of flash given as '10 Sec', equal to the period; not transcribed as flash_duration_s",
+    "Commissioned 12.09.1992; renovated lighthouse opened 15/04/2019"
+  ]
+}

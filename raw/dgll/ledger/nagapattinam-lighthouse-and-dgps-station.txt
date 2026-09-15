@@ -1,0 +1,293 @@
+                       मास्टर लेज़र/MASTER LEDGER
+  नागपट्टिनम                   दीपस्तंभ                और          डीजीपीएस                 स्टे शन /
+  NAG AP ATTINAM LIGHTHOUSE AND DGPS STATION
+
+ क्रम                    नाम /Name                             वििरण / Discription
+संख्या/
+Sr.No
+  1.                     नाम /Name                 :          नागपट्टिनम दीपस्तंभ और डीजीपीएस
+                                                        स्िे शन/NAGAPATTINAM LIGHTHOUSE
+                                                                  AND DGPS STATION
+  2.       क्रम सं ख्या/SL No: (As Per A.L.O.L.)   :                F 0914
+
+  3.                   स्थान/Position              :   Lat           10˚ 45’ 9’’ N
+                                                       Lon           79˚ 51’ 1’’ E
+  4.                  ऊंचाई / Elevation            :                  50 Meters above MSL
+  5.       अभिलक्षण / Characteristic               :         Flash (2) White in every 20 Seconds
+                                                                     (0.5+2.0)+0.5+17.0)
+  6.               नॉभिकल माइल मे दू री
+                       Range in miles
+          (i)         प्रकाशमान / Luminous         :                          18 NM
+          (ii)       भौगोलिक /Geographical         :                          19 NM
+  7.              दीपस्तंि िावर / L.H.Tower
+
+          (i)              प्रकार /Type            :             Circular stone Masonry Tower
+          (ii)             उं चाई /Height          :                         48 Meters
+          (iii)       रं ग योजना / Colour          :                   Black & White Band
+                            Scheme
+  8.                 ऑभिकल उपकरण                   :                         MBR-300
+                      Optical equipment
+ (a)                    Optic/ type                :                     Rotating Beacon
+          (i)                  Make                :                           MSM
+          (ii)                 Size                :                         140 mm
+          (iii)            No of panels            :                             2
+          (iv)       Area of Di optic portion      :                            NA
+          (v)          Area of Catadioptric        :                            NA
+                             portion
+        (vi)          Total Corrected Area                                               NA
+        (vii)               Divergence                 :                                 NA
+                            Horizontal                 :                                2.4°
+                              Vertical                 :                                4.0°
+ (b)                     Pedestal                      :                                 NA
+ (c)                 Rotation device                   :   20kg/cm, Stepper motor controller, make: Unique
+                                                                     Systems & Controls Pvt Ltd
+                                                                       12V/DC Stepper motor
+ (d)                       RPM                         :                        1.5
+ (e)                    Illuminant:                    :                   150W MH lamp (CDMT)
+                   Cluster/ Single ended                                            Single Ended
+                   No. of lamps & Make                                             1 no. & Philips
+                         Wattage                                                       150W
+                      Ballast Details                                             Electronic Ballast
+                  No. of Ballast & Make                                             1 & Kiwik Lite
+                    Wattage of Ballast                                                 150W
+ (f)    प्रिावी बीम तीव्रता / Effective beam           :                          1,66,000 candelas
+                     intensity
+
+ 9.                    लेंिनन / Lantern
+           (i)                 Diameter                :                              4.42 Mts
+          (ii)            Height of glazing            :                             2.438 Mts
+          (iii)             No of panels               :        48 (Partially ¼ area Blocked on land side)
+           (iv)               Ventilators              :                               15 nos
+ 10.                                             ऊर्ान के साधन / Source of energy
+
+           (i)               Local Mains               :       3Ø, 440V, 50Hz, CL:30KW with solar net
+                                                                              metering
+          (ii)               Emergency                 :      140 mm Drum Optic Flasher (Halogen Lamp
+                                                                         12V/ DC/100 Watts)
+           (iii)               Stand By                :         Diesel Generator set - 2 nos (20KVA)
+ 11.                                                   इं विन र / Inverter /UPS
+
+Sr No            Make               Date of         Input Volts       Output Volts         Capacity     Used for
+                                  Installation
+                                                        DC
+ 1      “UTL COMBO”              20.4.2011             12 V               230V             800 VA      Main Lamp
+            Make
+ 2         Hykon                 6-7-2006              48 V               230V              3 KVA        DGPS
+ 3.             Hykon            6-7-2006             120 V               230V              5 KVA      Transmitters
+ 4.
+ 12.       No of Diesel Generator set            :             2 nos (Date of Installation:27-4-2013)
+                                Details of Diesel engines:            20KVA / 32HP
+Sr. No        Engine No             Make          Type               No. of    HP            RPM       Cooling
+                                                                    cylinders
+  A       03.2145/1320285          HA394        Diesel                  3       32           1500        Air
+                                  Kirloskar                                                            Cooling
+                                   Green
+          03.2145/1320303          HA394        Diesel         3                      32     1500        Air
+  B                               Kirloskar                                                            Cooling
+                                   Green
+                                       Details of Alternator
+Sr No        Serial No            Make        KVA        Volts                Hz           Phase        RPM
+ A       CSID013A21941-H        Kirloskar            20         230V        50Hz           Single       1500
+ B       CSID013A21943-H        Kirloskar            20         230V        50Hz           Single       1500
+
+ 13.                                   स्वचाभलत वोल्टे र् स्टे बलाइर्र
+                                   Automatic Voltage Stabilizers/ AMF Panel
+
+                                                                                              With or without
+         Make and Sl.no       Input /EB               Input/DG             Capacity            Distribution
+                                                                                                  System
+         ELECT & Model                                                                        With distribution
+            No: MSC-             440V                   240V                20 KVA                system
+         EMF20K3-2G1-             3Ø                     1Ø
+           Es0010110
+                                   Automatic voltage stabilizer
+Sr No        Make                 Input           Output        Capacity                             Qty
+  A           ITL             170-240V, 1Ø      230V, 1Ø        12.5 KVA                            7nos
+
+
+ 14.                                                 बै िरर / Batteries
+
+Sr No.       Where used             Date of      Qty in         Type        Make           Volts      Amp-Hr
+                                  Installation
+                                                 Nos.
+ (a)        For starting of       13-8-2018          2nos      Lead Acid     Exide         12V        150AH
+                                                                Battery     Express
+               engines
+ (b)         For RACON            21-12-2018         1no        SMF          Exide         12V        150AH
+                                                                           Power safe
+ (c)       UPS (Main lamp)        14-8-2018          2nos       SMF          Exide         12V        150AH
+                                                                           Power safe
+ (d)     UPS - 5 KVA & 3 KVA      26-11-2019     10nos+         SMF          Exide         12V         64AH
+                                                                           Power safe
+         (Transmitter & DGPS)                     4nos
+
+ 15.                                        बै िरर चार्नर/ Battery charger
+
+Sr No.              Make                               Volts                     Capacity           Qty in Nos.
+ (a)                AE                     Input-230V AC & Output-               40 Amps               1no
+                                                  0-30V DC
+ (b)      Manually assembled one           Input-230V AC & Output-               20 Amps               1no
+                                                  0-30V DC
+
+ 16.                            आभिशमन उपकरण / Fire Fighting Equipment
+      Sr No                 Equipment                            Type                      Capacity              Qty
+       (i)               Fire Extinguisher                       DCP                 3.2Kgs-1no    5            4 nos
+                                                                                     Kgs-2 nos 6Kgs-
+                                                                                            1no
+       (ii)              Fire Extinguisher                   Foam                          9 LTS                2nos
+                                                             CO2                          4.5 Kgs               3nos
+       (iv)            Fire Buckets and Fire                      ---                           ----            4nos&
+                               stand                                                                             1no
+       17.                                               संचार / Communication
+       (i)             BSNL Phone           :               Phone number :04365-242536 &
+                                                          Mail id: nagapattinamdgps@gmail.com
+       (ii)            Fax Machine          :         Panasonic make, model: KX-FP701 – 1 No (Faulty)
+       18.               र्लपू भतन          : Municipal Water Supply (3 Separate lines) up to Sumps and
+                       Water Supply           after pumping to over head tank & distributed to all staff Qrs,
+                                              I.Qrs, etc.,
+
+
+19.                                                      िूभम / Land
+         (i)                         Area                    :                       0.639 Hectares
+
+         (ii)                   Demarcation                  : Compound Wall
+
+         (iii)            No of fruit bearing trees          :                              4
+
+        (iv)         No of fruit bearing Coconut trees       :                              3
+
+         (v)           No of non –fruit bearing trees        :                             38
+20.                       इमारतें / Buildings               :
+                                                                          1) RCC wall provided in East/South side
+21.                   Type of compound wall                  :            2) Brick masonry wall provided in North &
+                                                                             West side
+22.                        कंपाउं ड लाइि                    :
+                                                                             8nos and main gate light-2nos
+                          Compound Lights
+23.                        कमनचारीयों/Staff                       (i)          Shri.V.Chinnasamy        A.E(E/T)
+
+                                                                  (ii)           Shri.C.Kannan           NA Gr-II
+                                                                  (iii)         Shri.M.Desingh           NA Gr-II
+                                                                  (iv)         Shri.Gouravkumar          NA Gr-III
+
+                                                                  (V)          Out sourced staff            2
+24.              पहुँ चने का माध्यम / Mode of approach      :                        By bus & Rail
+25.                       उपलब्ध सुभवधाए                    :       Post office at 1Km, Hospital at 1Km,
+                          Facilities available                     High School at 2 Km & Police Station at
+                                                                          1 Km limits are available
+26.                 डाक का पता / Postal address             :             Assistant Engineer (Electronics)
+                                                                        Nagapattinam Lighthouse and DGPS,
+                                                                         Marawady street, NAGAPATTINAM.
+                                                                                Tamil Nadu-611 001.
+                       चालू करने की भतभथ
+27.                                                         :                       05-7-1969
+                      Date of commissioning
+28.                                         Remarks ( Date of Conversion)
+                      Conversion from incandescent
+                                                                    PRB: 21 Equipment was changed with
+           (i)           equipment to MH lamp               :
+                                                                     MBR-300 equipment on 30-9-2010
+                                (Cluster)
+           (ii)        Halogen Lamp to LED Lamp             :                         NIL
+
+                                                 29. Solar System
+
+                       1. ON Grid : 25KW (Date of Installation: 19-8-2016)
+
+         Sl.               Particulars                   Make             Ratings/voltage         Quantity
+         No
+         1.               Solar Panel                  M/s EMMVEE           36.8V/315W                80 nos
+         2.         Mounting Solar Structure                …                   ……                     …….
+         3.                Inverter                     M/s Delta              30KW                    1 no
+         4.          AC Distribution Panel                                                             1no
+         5.          DC Distribution Panel                                                             1no
+         6.              DATA Logger                    M/s Delta                                      1no
+         7.
+         8.
+
+
+ 2. EARTHINGS
+
+         Sl.              Particulars                        Material Size of                    Quantity
+         No                                                        Earth
+         1.         TowerLightning Arrester               2’X2’ size copper plate                     1 no.
+         2.                 RACON                                     ,,                              1 no.
+         3.              Generator                                    ,,                              2 nos
+         4.              Solar panel                                  ,,                              2nos
+         5.                Inverter                                   ,,                              1 no.
+         6.                  RCS                                     ----                             1 no
+         7.              AMF Panel                                   ----                              1no
+         8.           Equipment(DGPS)                                ----                             2nos
+
+
+                                OTHER NAVIGATIONAL AIDS :-
+
+  01              Differential Global Positioning System (DGPS) Date of Installation:06.7.2006
+ Sr
+                                         Particulars                                            Qty
+ No
+  (i)                  Reference Station MX 9310 (Leica make)                               2nos
+  (ii)                 Integrity Monitor MX 9320 (Leica make)                               1 no
+
+ (iii)                    Chock Ring Antenna (Leica make)                                   3 nos
+ (iv)                 Beacon Antenna (Leica make)                               1 no
+
+ (v)         Computer with keyboard & mouse “Acer Brand”                        1set
+
+ (vi)                     Transmitter (NAUTEL)                                 2 nos
+ (vii)             Automatic tuning Unit (Nautel make)                          1 no
+
+(viii)           EPSON LQ 1150 (DOT matrix printer)                             1 no
+
+ (ix)                      Beacon ID Number                                     113
+
+ (x)                            Baud rate                                      9600
+ (xi)                           Operation                                Omni Directional
+
+ (xii)                         Modulation                                      MSK
+(xiii)                           Coding                                 No added coding
+(xiv)                        RSIM Software                          Leica-BSC version 1.2.4
+(xv)                      Cost of the equipment                             Not known
+(xvi)        Air conditioners (1.5 Ton, LG Make, split type)                   3 nos
+                                                                     13.11.2010,27.01.2011
+(xvii)                         Installed on
+                                                                          &13.11.2010
+(xviii)                     Frequency range                                  323 KHZ
+
+                 02 NAIS Details with V-SAT / Date of Commissioning: 31-3-2012
+    Sl.No             Particulars & Sl. No of equipment                     Quantity
+      1                               PSS                                    2 nos
+      2                             Router                                    1 no
+      3                             Modem                                     1 no
+      4                  UPS (1KVA) Make: M/s APC                             1 no
+      5                     Isolation Transformer                             1 no
+      6           Frequency : 161.975 MHz & 162.025 MHz                        ---
+      7                        Bit rate: 64 kbps                               ---
+
+
+
+
+                रे क न
+                     ाँ वििरण / RACON Details / Date of Commissioning: 21-12-2018
+    Sl.No                Particulars & Sl. No of equipment                 Quantity
+      1.                   Make: M/s.PHAROS MARINE                           1 no
+                            Model No.PMAPI RACON-2
+                           SLNO: 20180764SJP X-BAND
+                           Band Range: 9300-9500 MHZ
+                   Transmission/Stand by Current: 20mA/118mA
+                                Morse Code: --●(G)
+
+
+
+
+            03 स्वचलन उपकरण / Automation Equipment (Date of Installation: 27-02-2014)
+Sl.No   Name of Equipments         type          Ratings   Quantity
+  1        Bottom panel                                     1 no
+  2          Top panel                                      1 no
+  3      LED type computer      HP make                     2 nos
+  4        LASER printer     HP LaserJet P1108              1 no
+  5          1 KVA UPS          APC make                    2 nos
+  6         1.5 Ton A/C      Voltas make Split              1 no
+                                   type
+ 7        V-sat Antenna                                     1 no
+

@@ -1,0 +1,41 @@
+{
+  "slug": "kasargod-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Kasargod Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1984,
+  "alol": "F 0668.5",
+  "position": {"lat_text": "12° 30.32' N", "lon_text": "74° 58.39' E", "lat": 12.505333, "lon": 74.973167},
+  "elevation_m": 38.5,
+  "characteristic_text": "Fl (3) W 20 sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20NM (unlabelled single range)"},
+  "tower": {"type": "Octagonal Concrete Tower", "height_m": 30, "colour_scheme": "Black and White Band"},
+  "optic": {
+    "make": "M/s Tideland", "model": "TRB 220", "type": "Revolving Beacon", "size": "110mm", "order": null,
+    "panels": 3,
+    "rotation_device": "Brushless DC motor (gear less direct drive)",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Optic: Revolving Beacon; Rotation Device: Brushless DC motor (gear less direct drive); R.P.M. 3",
+    "divergence_horizontal_deg": 2.4,
+    "divergence_vertical_deg": 2.16,
+    "divergence_text": "2.4° (Horizontal), 2.16° (Vertical)",
+    "illuminant": "230V/70W Metal Halide Lamp"
+  },
+  "intensity_cd": 86455,
+  "racon": {"present": false, "code": null, "text": "NA"},
+  "ais": {"present": true, "text": "2 Nos AIS1 & AIS2, R40 Class A, AC-230V, MMSI 004192240"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "KSEB 3 Phase 440V; DG Set 7.5 KVA Kirloskar Green; 15KWp solar (50 polycrystalline panels)"},
+  "issues": []
+}

@@ -1,0 +1,180 @@
+                      मास्टर लेजर/MASTER LEDGER
+क्रमसं            नाम /Name
+ ख्या/          Tadri Lighthouse                         वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.        F 0638
+   2     स्थान/Position            Lat. 140 30.8’N
+                                   Long. 740 20.5’E
+  3      ऊंचाई/Elevation           38m
+  4      अविलक्षण/Characteristic   fl (3)W 20 Sec.
+  5      नॉविकलमाइलमेदूरी          Luminous:18NM
+         Range in miles            Geographical:19NM
+  6      दीपस्तंििािर/L.H.Tower    Type                       Hexagonal Masonry Tower
+                                   Height                     10 m
+                                   Colour Scheme              Black and White bands (2 Black + 1
+                                                              White)
+  7      ऑविकलउपकरण                Optic                      Revolving beacon
+         Optical equipment
+                                   Make                       Wealth Marine Pvt. Ltd.,
+                                                              Singapore
+                                   Type                       WM – RB 500 Marine Rotating Beacon
+
+                                   Size                       6 clear “Bulls Eye” Acrylic lense
+                                                              panels equally spaced at 60
+                                                              (Hexagonal)
+                                   No. of lens                3/6
+
+                                   Area of dioptric portion ---
+                                   Area of catadioptric
+                                   portion
+                                   Divergence               Horizontal - 1.50, Vertical 2.420
+                                   Main/Emergency
+                                   Duration of Flash        0.1 sec
+                                   Main
+                                   /Standby/Emergency
+
+                                   Pedestal                   GI Rectangular pedestal, locally
+                                                              fabricated for WM RB 500
+                                                              equipment.
+                                   Rotation Device            2 Nos. Stepper Motors.
+                                   R.P.M.                     3
+                                   illumining
+                                   Main                       70W/230V
+                                   Standby                    --
+                                   Emergency:                 ---
+                                       Date of Installation      17.05.2002
+8    प्रिािीबीमतीव्रता/Effective       Main & Standby            70408 cd
+     beam intensity
+                                       Emergency                 ---
+9    लेंिनन /Lantern                   Diameter                  2.4 mtr. Dia Galvanized iron
+                                       Height of glazing         24 Nos. glazing panes and
+                                       No. of panes              6
+                                       Ventilators               11 Nos. hit and miss ventilators
+                                                                 provided.
+10   RACON                                Sr. No                    6295
+     Make                 Model        Code                      Band              Date of
+                                                                                   Installation
+     -NA-
+11   NAIS -----
+     Base Station
+
+     Model                Type         Power                     MMSI
+     -NA-                 -            -                         -
+     Communication
+     Equipment
+     VSAT Antenna         Band         Modem
+       2.4m dia           EX-C         Datum system
+       Parabolic                          M7LT
+       reflector                       Satellite Terminal
+     DGPS
+     Transmitter          Frequency Power              RS 1 ID   RS -II     Beacon   Date of     Date of
+     Make                           Output                       ID         ID       commi       Recapi
+                                                                                                 talizati
+                                                                                     ssionin     on
+                                                                                     g
+     ---                  -            -               -         -     -             -           -
+     -----                -            -                         -                   -
+12   ऊर्ान केसाधन/Sour    Mains                                  HESCOM
+     ce of energy         Standby
+                          Engine 1
+                          Make/Type            Qty     Rating    No of        RPM          Cooling
+                                                                 Cylinder
+                           honda               1                 1            1500         Air
+                          Alternator
+                          Make/Type            Qty     Rating    Voltage/Am   Frequency    Phase
+                                                                 p
+                          honda                1       2100va    230v         50hz         1ph
+                          Engine 2
+                          Make/Type            Qty     Rating    No of        RPM          Cooling
+                                                                 Cylinder
+
+                          Alternator
+                          Make/Type            Qty     Rating    Voltage/Am   Frequency    Phase
+                                                                 p
+                          Solar Plant
+                          Capacity PV             Numbers                 Type           Battery     Bank
+                          920Watt                   300 Watt-02 Nos 320   Monocrystall   03 bank     03
+                                                    watt- 01 No           ine            12v/500AH
+                          Solar Plant for Automation
+                          Capacity PV             Numbers                 Type           Battery     Bank
+                          480 Watt                06 Nos                                 06 nos      03 bank
+
+ 13   स्वचावलतिोल्टे र्स्टे बलाइर्र
+      Automatic Voltage Stabilizers
+
+      Make               Model           Capa Input                       Output             Phase   Qty
+                                         city
+      -----
+14    बैिरर
+      Batteries
+      Equipment          Type            Make       Volt                  Amp/Hr         Qty
+      PSS NAIS           ---
+      Genset             ----
+      Automation         SMF             Exide      12v                   100AH          6           Already
+                                                                                                     mention
+                                                                                                     ed in
+                                                                                                     point 12
+      DGPS                -----
+ 15   बैिररचार्नर/ Battery charger
+
+      Equipment          Make            Mod      Type                    Rating         Qty
+                                         el
+      General Purpose --
+      Automation           --
+ 16   इं वर्ट रInverter /UPS
+      Equipme Nos Make Model                          Type      Rating Qt input                           output
+      nt                                                               y
+      Main           2     exide Exide 650 DSP        UPS       650 VA 2   12VDC                          230V
+      Light                                                                                               AC
+      NAIS PSS             ----
+      DGPS           ---   ---
+ 17   स्वचलनउपकरण
+      Automation Equipment
+      MAKE          PLC          HMI        Power Supply   VSAT       Modem Band
+      NELCO         Telemecniq              12VDC                            x
+                    ue
+ 18   आविशमनउपकरण                      Type of             Capacity    Nos    Make
+                                       Extinguisher
+     Fire Fighting Equipment         DCP Type(u/s)
+                                     DCP Type(u/s)
+                                     Foam Type                  9L              1 no.
+                                     Water Type(u/s)
+                                     DCP Type                   3.2kg           1no.
+                                     Sand bucket                                2
+                                     Water bucket                               2
+19   संचार                           ---
+     Communication
+20   र्लपूवतन                        Open well with electric water pump
+     Water Supply
+21   िूवम                            Area                                         LH & PH - 1059
+     Land                                                                         Sq.mt., Qtrs. – 2190
+                                                                                  Sq.mt.
+                                     Demarcation                                  Laterite masonry
+                                                                                  compound wall
+22   इमारतें                         Staff qtrs premises            One           Lighthouse qtrs
+     Buildings                       unit of Gr.D Qtrs. One unit of               premises.         One
+                                     Inspection Qtrs.                             unit power house.
+                                     One unit of Navigational Assistant
+                                     qtrs
+23   कंपाउं डलाइि                    11 Nos. Street light 2 Nos. Gate Light
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera
+      CCTV CAMERA                    DVR
+25   स्टाफ                           Sl. No        Designations
+     Staff                           1             Nav. Asst. Gr-II 1 No.
+
+26   पहुँ चनेकामाध्यम                By rail upto Gokarna road and then 10kms.by
+     Mode of approach                bus upto staff quarters
+27   उपलब्धसुविधाए                   Marine Police         6km
+     Facilities available            Station
+                                     Dispensary            6km
+                                     High School                6km
+                                     Post office            6km
+28   डाकपताPostal address            Station-in-Charge Tadri Lighthouse, Vill- Beliken, post-
+                                     Tadri,Gokarna, District Uttara Kannada, Karnataka 581326
+
+29   मूल्यकाब्योराCost details       i) Construction        :            Rs.46,42,600/-
+     (At the time of Construction)   ii)Equipment                       :Rs.28,83,850/-
+30   प्रितननमेलानेकादे नां क         1942
+     Date of commissioning
+

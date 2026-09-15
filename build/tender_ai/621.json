@@ -1,0 +1,44 @@
+{
+  "nid": 621,
+  "title": "Widening and Leveling of Existing concrete road and construction of parking platform at Dolphin's Nose Lighthouse cum DGPS Station.",
+  "summary": "Re-invited e-tender for widening and levelling the existing concrete road and building a parking platform at Dolphin's Nose Lighthouse and DGPS Station, Yarada Hill, Visakhapatnam.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MT-VSP-02002(02)/4/2022-Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Port Residential Area, Saligramapuram, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Dolphin's Nose Lighthouse cum DGPS Station, Post Box No. 134, Gandhigram Post Office, Yarada Hill, Visakhapatnam 530005", "station_id": "dolphin-nose-lighthouse", "kind": "lighthouse", "work": "Widening and levelling of existing concrete road; construction of parking platform"}
+  ],
+  "scope": [
+    {"item": "Widening and Leveling of Existing concrete road", "qty": null, "unit": null, "site": "Dolphin's Nose Lighthouse"},
+    {"item": "Construction of parking platform", "qty": null, "unit": null, "site": "Dolphin's Nose Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3384048.0,
+    "emd_inr": 67700.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST and all other taxes. EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Visakhapatnam, valid three months from technical bid opening. EMD not exempted for any bidder (NSIC/MSME exemption withdrawn); EMD forfeited if timelines not followed."
+  },
+  "period": {"completion": "02 months from the commencement of work", "bid_validity": "120 days from date of opening of financial bid", "warranty": null},
+  "dates": {"published": "2022-11-22", "pre_bid": "2022-11-30", "bid_submission_end": "2022-12-06", "bid_opening": "2022-12-07"},
+  "eligibility": [
+    "Valid registration in appropriate category & class with CPWD, State PWD, Railways, MES, BSNL or other State/Central Government/PSU/autonomous bodies",
+    "Similar works completed in last seven years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; similar works = construction of cement concrete roads or other RCC works",
+    "PAN and GST registration; key technical personnel; unconditional tender undertaking (Annexure V); tender acceptance letter (Annexure IV)",
+    "Non-blacklisting affidavit; income tax returns for last three years; list of relatives serving in Ministry of Shipping or DGLL",
+    "Average annual turnover of last three financial years at least 30% of estimated cost",
+    "Activity chart/plan; self-assessing technical evaluation sheet"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "05aee926-86f7-4030-aa47-b626871e688b.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Re-invitation of bids. Extract of pages 3-7 of a 107-page tender document (Section I NIT only); no BOQ. Bid download/submission 22/11/2022 18:00 to 06/12/2022 15:00; bid opening 07/12/2022 16:00. Listing bid_opening 2022-11-22 is actually the publication date. Letterhead gives DLL Visakhapatnam GST No 37VPND00591D1DR."
+}

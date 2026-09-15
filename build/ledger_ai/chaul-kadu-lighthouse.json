@@ -1,0 +1,41 @@
+{
+  "slug": "chaul-kadu-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Chaul Khadu Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1870,
+  "alol": "F 0557.6",
+  "position": {"lat_text": "18° 35' 49.39\" N", "lon_text": "72° 50' 54.34\" E", "lat": 18.597053, "lon": 72.848428},
+  "elevation_m": 17,
+  "characteristic_text": "fl. R 3 Sec. (fl. 0.5, EC 2.5)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["R"],
+    "period_s": 3,
+    "sequence_text": "fl. 0.5, EC 2.5",
+    "sequence_s": [0.5, 2.5],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 6.2, "geographical_nm": 7.5, "text": "Luminous 6.2 NM, Geographical 7.5 NM"},
+  "tower": {"type": "Circular Masonry Tower(White)", "height_m": 16, "colour_scheme": "White"},
+  "optic": {
+    "make": "Sealite", "model": "SL-125/3", "type": "Ultra bright 108 LEDs", "size": "200 mm", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "LED lantern Sealite SL-125/3; Pedestal: Fixed - Cast Iron; Rotation Device and R.P.M. '---'",
+    "divergence_horizontal_deg": 360,
+    "divergence_vertical_deg": 9,
+    "divergence_text": "Horizontal - 360°, Vertical - 9°",
+    "illuminant": "Ultra bright 108 LEDs"
+  },
+  "intensity_cd": 176,
+  "racon": {"present": false, "code": null, "text": "----"},
+  "ais": {"present": false, "text": "Base Station -N/A-"},
+  "dgps": {"present": false},
+  "power": {"mains": false, "solar": true, "generator": false, "text": "Listed under Mains: 12 V/100 AH SMF Battery 02 nos. charged by 100 W Solar panel 02 nos. (Spark, through MCR); Standby -N/A-"},
+  "issues": ["Name printed 'CHAUL KHADU LGHTHOUSE'", "Source of energy 'Mains' row describes solar-charged batteries, no grid mains stated"]
+}

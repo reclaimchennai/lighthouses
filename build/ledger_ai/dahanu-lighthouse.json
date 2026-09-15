@@ -1,0 +1,41 @@
+{
+  "slug": "dahanu-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Dahanu Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F0491",
+  "position": {"lat_text": "19° 58.50' N", "lon_text": "72° 43.00' E", "lat": 19.975, "lon": 72.716667},
+  "elevation_m": 13,
+  "characteristic_text": "fl W 05 Sec. (Fl 0.3 )",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": "Fl 0.3",
+    "sequence_s": null,
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 10, "geographical_nm": null, "text": "10Miles (single unlabelled range)"},
+  "tower": {"type": "Metal Frame Work Tower", "height_m": 12, "colour_scheme": null},
+  "optic": {
+    "make": "Sealite", "model": "SL155-10D with GSM Monitoring System", "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Rotation Device: 'WhiteFlashing Light'; R.P.M.: NA; Pedestal: GI pipe stand",
+    "divergence_horizontal_deg": 360,
+    "divergence_vertical_deg": 10,
+    "divergence_text": "Horizontal 360° Vertical 10°",
+    "illuminant": "Multi white LED Light total 60.4W"
+  },
+  "intensity_cd": 3910,
+  "racon": {"present": false, "code": null, "text": "- NA-"},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar Plant: 30 W Mx Power Solar, 02 Nos, Mono Crystline, 12V/100AH EXIDE battery"},
+  "issues": ["Commissioning/established date not stated; only 'Date of Installation of New LED Flashing Light: 29.10.2020'", "Rotation Device field filled with 'WhiteFlashing Light'", "NAIS base station fields empty though VSAT Antenna 'Prodelin 2.4 meter' is listed"]
+}

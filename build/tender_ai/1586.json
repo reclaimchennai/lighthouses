@@ -1,0 +1,55 @@
+{
+  "nid": 1586,
+  "title": "Painting to the cast iron Lighthouse Tower, 30m High Aerial Mast trestle towers (02) and Navtex trestle tower (01) at Keating Point Lighthouse & DGPS Station, Car Nicobar",
+  "summary": "Online item-rate two-cover e-tender for repainting the cast iron lighthouse tower, two 30 m DGPS aerial mast trestle towers and the Navtex trestle tower at Keating Point Lighthouse & DGPS Station, Car Nicobar. The work also includes GI flats at ladder landings and a GI framed door shutter. Issued by the Directorate of Lighthouses and Lightships, Port Blair.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-01003/1/2022-CM-PB",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Port Blair"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Keating Point Lighthouse & DGPS Station, Car Nicobar", "station_id": "keating-point-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Painting of cast iron lighthouse tower (exterior, interior, chequered plates), two 30 m DGPS aerial mast trestle towers and Navtex trestle tower; GI flats at ladder landings; GI framed door shutter"}
+  ],
+  "scope": [
+    {"item": "Painting exterior surface of lighthouse tower at all heights with synthetic enamel paint in two coats over a coat of primer, after cleaning with alkaline solution and scraping", "qty": "650.00", "unit": "Sqm", "site": "Keating Point Lighthouse"},
+    {"item": "Painting interior surface of lighthouse tower at all heights with synthetic enamel paint in two coats after cleaning and scraping", "qty": "1150.00", "unit": "Sqm", "site": "Keating Point Lighthouse"},
+    {"item": "Painting metallic chequered plates in staircase landings of lighthouse tower with synthetic enamel paint in two coats", "qty": "560.00", "unit": "Sqm", "site": "Keating Point Lighthouse"},
+    {"item": "Synthetic enamel painting (Asian/Berger/Dulux/Nerolac high glossy, two or more coats) of previously painted surface of 30 m aerial mast trestle tower - DGPS Aerial Mast Towers (325 Sqm each)", "qty": "2", "unit": "Nos", "site": "Keating Point, Car Nicobar"},
+    {"item": "Synthetic enamel painting of Aerial Mast for Navtex at Keating Point lighthouse and DGPS Station (325 sqm)", "qty": "1", "unit": "Nos", "site": "Keating Point Lighthouse & DGPS Station"},
+    {"item": "Providing and fixing G.I flat 40x6 mm at all landings of ladder inside lighthouse including welding, clamping and priming coat", "qty": "346.02", "unit": "Kgs", "site": "Keating Point Lighthouse"},
+    {"item": "Providing & fixing G.I framed door shutter (GI L angles 50x50x6 mm, GI flat 40x6 mm lugs, aluminium sheet not less than 3 mm) to cast iron lighthouse tower as per drawing", "qty": "1.00", "unit": "Job", "site": "Keating Point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1422633.0,
+    "emd_inr": 28500.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "5% of contract value (performance bank guarantee valid six months beyond completion); plus 5% security deposit deducted from running and final bills",
+    "notes": "Estimated cost inclusive of GST and labour cess; BOQ amounts inclusive of all taxes. EMD by Deposit at call receipt / FDR of nationalized/scheduled bank in favour of Director of Lighthouses and Lightships, Port Blair; original to reach office by 15/05/2024 15:00. MSME/NSIC registered bidders for similar (civil) work exempt from EMD. Bid document free of cost. Liquidated damages 1% per week, max 10% of estimated cost."
+  },
+  "period": {"completion": "6 months", "bid_validity": "180 days from date of opening of technical bid", "warranty": "Contractor to maintain the lighthouse tower for 12 months from completion (defect liability)"},
+  "dates": {"published": "2024-04-30", "pre_bid": "2024-05-08", "bid_submission_end": "2024-05-15", "bid_opening": "2024-05-16"},
+  "eligibility": [
+    "Experienced civil contractors with similar works completed for Government organizations in A & N Islands in last seven years, without adverse remarks",
+    "Three similar works each >= 40% of estimated cost (Rs 5.69 lakh), or two each >= 60% (Rs 8.53 lakh), or one >= 80% (Rs 11.38 lakh)",
+    "Similar works = painting of cast iron lighthouse towers / aerial mast towers / trestle towers / masonry / RCC towers in Andaman and Nicobar Islands",
+    "Average annual turnover over last three years ending 31 March 2023 at least Rs 4.27 lakh, CA certified",
+    "GST and PAN registration; unconditional bid undertaking with list of relatives serving in MoPSW/DGLL; notarised non-blacklisting affidavit on Rs 100 stamp paper (Annexure V); tender acceptance letter (Annexure III); details of civil engineers with firm",
+    "Technical evaluation out of 100 marks (experience 60, turnover 15, documents 10, personnel 10, plant & equipment 5); minimum 60% aggregate to open commercial bid; lowest rate among qualified bidders wins"
+  ],
+  "specs": [
+    "All work per CPWD specifications, otherwise Indian Standards",
+    "Synthetic enamel paint conforming to IS 2933; approved makes for paints & primers: Asian / Berger or equivalent approved by DLL Port Blair (BOQ item 4 also lists Dulux/Nerolac)",
+    "Shades: snow white / brilliant white and signal red for trestle towers and CI tower; bus green for automation box and handrail; black for gate, pedestal",
+    "Site-in-charge graduate engineer (2 yrs) or diploma engineer (5 yrs); Rs 25,000 per month recovery if not deployed",
+    "Door shutter drawing: GI sheet 3.15 mm front & back, GI angle 50x50x6 mm frame, GI flat 40x6 mm bracing"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "KPLHTENDERDOCUMENT (1).PDF", "pages": 73, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Fully scanned 73-page tender document, no text layer. Read from images: cover, index, Section I NIT (Hindi and English), Section III eligibility, Section IV GCC samples, Section V special conditions, Section VI specifications, Section VII BOQ, Section VIII evaluation, Annexures I-II and the door shutter drawing (page 73). Remaining GCC pages and blank labour register / muster roll forms (pages 56-72) were sampled as boilerplate only. BOQ is printed without rates; Section VII is headed 'Uploaded Separately'. Internal inconsistencies: (1) Annexure I gives EMD as 'Rs. 28,500/- (Rupees Forty-Seven Thousand and Seven Hundred Only)'. (2) EMD validity is 06 months in the NIT but 180 days in Annexure I. (3) Two-work experience threshold is 60% (not the usual 50%). Dates: NIT 30/04/2024; download/submission 30/04/2024 17:00 to 15/05/2024 15:00; bid queries by 08/05/2024 12:00; pre-bid 08/05/2024 15:00 at DLL Port Blair; technical bid opening 16/05/2024 15:00."
+}

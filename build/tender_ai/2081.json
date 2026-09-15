@@ -1,0 +1,40 @@
+{
+  "nid": 2081,
+  "title": "Construction of Departmental Residential Building, Compound Wall and Site Development Works at Sector-51 Noida.",
+  "summary": "E-tender (percentage rate composite) for construction of a departmental residential building, compound wall and site development works at Sector-51, Noida, issued by the Directorate General of Lighthouses and Lightships headquarters.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "N-16/1/2020-NC",
+    "issuing_office": "Directorate General of Lighthouses and Lightships, Noida"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Sector-51, Noida", "station_id": null, "kind": "office", "work": "Construction of departmental residential building, compound wall and site development"}
+  ],
+  "scope": [
+    {"item": "Construction of Departmental Residential Building, Compound Wall and Site Development Works", "qty": null, "unit": null, "site": "Sector-51, Noida"}
+  ],
+  "money": {
+    "estimated_cost_inr": 33153002.0,
+    "emd_inr": 663060.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by Deposit at Call Receipt/DD/FDR of any RBI-approved nationalised/scheduled bank in favour of Pay and Accounts Office - LHLS, Noida, payable at Noida; original with technical documents by registered/speed post by the deadline. EMD exemption for MSME/NSIC registration for similar nature of work. Cost of bid document Nil."
+  },
+  "period": {"completion": "15 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-10-24", "pre_bid": "2025-11-10", "bid_submission_end": "2025-11-25", "bid_opening": "2025-11-26"},
+  "eligibility": [
+    "Eligible experienced contractors who have successfully completed similar work of 'Construction of RCC Framed Buildings' with State or Central Government or PSU organisations, without adverse remarks",
+    "Detailed eligibility as per Section-III clause 3.1 of tender documents (not included)",
+    "Near relatives posted as accountant or gazetted officer in DGLL/MoPSW bar participation (standard clause)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (2).pdf", "pages": 6, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled (conjunct glyphs)"]}
+  ],
+  "confidence": "high",
+  "notes": "Only Section I (Hindi and English NIT, printed pages 9-14) included; no BOQ or Section III. Bid document download and submission 24.10.2025 18:45 to 25.11.2025 15:00; pre-bid at Deep Bhavan, Noida; technical bid opening 26.11.2025 15:00. EMD validity: English terms say three months from technical bid opening, Hindi terms say six months. Hindi letterhead address is garbled/miscopied (mentions Bhagat Singh Road and Sri Vijayapuram with Noida PIN 201301); English header gives Deep Bhawan, A-13, Sector-24, Noida."
+}

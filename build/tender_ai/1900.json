@@ -1,0 +1,39 @@
+{
+  "nid": 1900,
+  "title": "Special Repairs and Civil Maintenance of Lighthouse tower and allied buildings at Chennai Lighthouse in Chennai Directorate.",
+  "summary": "Online percentage-rate e-tender for special repairs and civil maintenance of the lighthouse tower and allied buildings at Chennai Lighthouse, Tamil Nadu.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(03)/1/2020-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chennai Lighthouse, Chennai, Tamilnadu", "station_id": "chennai-lighthouse", "kind": "lighthouse", "work": "Special repairs and civil maintenance of lighthouse tower and allied buildings"}
+  ],
+  "scope": [
+    {"item": "Special Repairs and Civil Maintenance of Lighthouse tower and allied buildings", "qty": null, "unit": null, "site": "Chennai Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 7895907.0,
+    "emd_inr": 158000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. Tender fee Nil. EMD by DD/FDR of scheduled/nationalized bank in favour of Director of Lighthouses and Lightships, Chennai; valid 90 days from technical bid opening; exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "06 (Six) months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-05-08", "pre_bid": "2025-05-16", "bid_submission_end": "2025-05-28", "bid_opening": "2025-05-29"},
+  "eligibility": [
+    "Eligible contractors of appropriate class registered with CPWD, State PWD, Railways, MES, BSNL or other State/Central Government/PSU/autonomous bodies, with experience and expertise in the work",
+    "Bidders whose near relatives are accountants/gazetted officers in DGLL not permitted"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "organizedNIT.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (NIT) only, printed page number 3 onward; no BOQ or detailed eligibility. NIT dated 06.05.2025; download/submission 08.05.2025 15:00 to 28.05.2025 15:00; opening 29.05.2025 15:00. Listing shows end 2025-05-27 and opening 2025-05-28, one day earlier than the NIT."
+}

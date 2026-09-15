@@ -1,0 +1,41 @@
+{
+  "nid": 2220,
+  "title": "Repair & Maintenance work at Arnala lighthouse station.",
+  "summary": "Online two-cover e-tender for civil repair and maintenance works at Arnala Lighthouse station, Post Arnala via Virar, District Thane, Maharashtra.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-MUM-03020(03)/1/2021-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Arnala Lighthouse, Post-Arnala, Via Virar, District-Thane, 401302 Maharashtra", "station_id": "arnala-lighthouse", "kind": "lighthouse", "work": "Repair and maintenance work"}
+  ],
+  "scope": [
+    {"item": "Repair & Maintenance work at Arnala lighthouse station", "qty": null, "unit": null, "site": "Arnala Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2168010.0,
+    "emd_inr": 43400.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost inclusive of GST. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid 3 months from technical bid opening; original to reach office by 06.02.2026 1700 hrs. MSME/NSIC registered bidders are also required to submit EMD."
+  },
+  "period": {"completion": "6 months from date of award of contract", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2026-01-15", "pre_bid": "2026-01-23", "bid_submission_end": "2026-02-05", "bid_opening": "2026-02-09"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with Central Govt./State Govt./Municipal Corporation etc. having tender limit equal to or more than estimated cost",
+    "Similar works (civil construction, repair and maintenance) completed in last 7 years: three works each >= 40%, or two works each >= 60%, or one work >= 80% of estimated cost",
+    "Documentary evidence of annual turnover of last three years",
+    "Permanent Account Number (PAN); GST number (Hindi version)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 6, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled (font mojibake); matching English NIT pages read"]}
+  ],
+  "confidence": "high",
+  "notes": "Document contains only the bilingual Notice Inviting e-Tender (Section I); no BOQ or scope details included. Printed page numbers 2-7; item 7 (pre-bid) unnumbered in English table. Listing shows no bid opening date; NIT gives technical bid opening 09.02.2026 1100 hrs, while listing end date 2026-02-09 differs from bid submission end 05.02.2026 1600 hrs."
+}

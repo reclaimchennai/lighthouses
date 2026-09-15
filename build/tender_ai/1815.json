@@ -1,0 +1,38 @@
+{
+  "nid": 1815,
+  "title": "Provision of Borewell at Manappad Point Lighthouse.",
+  "summary": "Corrigendum extending the last date of an e-tender for providing a borewell at Manappad Point Lighthouse, Chennai Directorate.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(23)/1/2020-Civil Maintenance; Tender ID 2024_DGLL_837865_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhawan, 5/20 Jaffar Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Manappad Point Lighthouse", "station_id": "manapad-point-lighthouse", "kind": "lighthouse", "work": "Provision of borewell"}
+  ],
+  "scope": [
+    {"item": "Provision of Borewell", "qty": null, "unit": null, "site": "Manappad Point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": null
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": "2025-02-06", "bid_opening": "2025-02-07"},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2025-01-23", "change": "Bid document download and online submission extended up to 06.02.2025 15:00; bid opening 07.02.2025 15:00"}
+  ],
+  "documents": [
+    {"file": "Borewel.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only a date-extension corrigendum is attached; no NIT, cost or EMD. Signed by Deputy Director for Director. Listing and document spell Manappad; station list spells Manapad Point."
+}

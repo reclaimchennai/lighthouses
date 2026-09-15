@@ -1,0 +1,42 @@
+{
+  "nid": 2235,
+  "title": "Improvement Works of Manakkodam Lighthouse tower",
+  "summary": "Improvement works to the lighthouse tower at Manakkodam Lighthouse, Alappuzha district, Kerala, under the Kochi Directorate.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-1001/1/2021-Admin; I/93447/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Manakkodam Lighthouse, Alappuzha District, Kerala", "station_id": "manakkodam-lighthouse", "kind": "lighthouse", "work": "Improvement works of lighthouse tower"}
+  ],
+  "scope": [
+    {"item": "Improvement Works of Manakkodam Lighthouse tower", "qty": null, "unit": null, "site": "Manakkodam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1600884.0,
+    "emd_inr": 32017.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) and technical documents to be submitted physically by the deadline."
+  },
+  "period": {"completion": "120 days", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2026-02-04", "pre_bid": "2026-02-10", "bid_submission_end": "2026-02-24", "bid_opening": "2026-02-25"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous body",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two >= 50%, or one >= 80%",
+    "Similar works: construction of generator shed with truss work, concrete foundation and aluminium work / construction or maintenance of residential, institutional, office buildings, road, lighthouse tower or related civil works",
+    "PAN and GST registration",
+    "CA-certified annual turnover for last three years"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITManakkodam.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only Section-I NIT published; BOQ is in CPPP tender document. Bid submission 06.02.2026 18:00 to 24.02.2026 15:00; bid query last date 09.02.2026; last date of EMD 23.02.2026. Similar-works definition mentions generator shed construction, which looks carried over from another notice."
+}

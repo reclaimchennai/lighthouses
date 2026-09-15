@@ -1,0 +1,67 @@
+{
+  "slug": "bheemlipatnam-lighthouse",
+  "page_count": 2,
+  "title_as_printed": "Bheemlipatnam Lighthouse — VISAKHAPATNAM DIRECTORATE MASTER LEDGER",
+  "sections": [
+    {"no": null, "title": "Photo", "title_hi": null, "page": 1,
+     "fields": [], "tables": [],
+     "text": "[photo: white circular lighthouse tower with red lantern cap, palm tree and compound gate]"},
+    {"no": "1", "title": "Name", "title_hi": null, "page": 1,
+     "fields": [{"label": "Name", "value": "BHEEMINIPATNAM LIGHT HOUSE"}], "tables": [], "text": null},
+    {"no": "2", "title": "Sr.No.", "title_hi": null, "page": 1,
+     "fields": [{"label": "Sr.No.", "value": "F 0978"}], "tables": [], "text": null},
+    {"no": "3", "title": "Position", "title_hi": null, "page": 1,
+     "fields": [{"label": "Lat", "value": "17º 56’.30” N"}, {"label": "Long", "value": "83º 27’24” E"}], "tables": [], "text": null},
+    {"no": "4", "title": "Elevation", "title_hi": null, "page": 1,
+     "fields": [{"label": "Elevation", "value": "10.97m above MSL"}], "tables": [], "text": null},
+    {"no": "5", "title": "Characteristic", "title_hi": null, "page": 1,
+     "fields": [{"label": "Characteristic", "value": "3FL (W) every 15Seconds (FL 1+ EC 2+FL 1+EC 2+FL 1+EC8=15sec)"}], "tables": [], "text": null},
+    {"no": "6", "title": "Range in nautical miles", "title_hi": null, "page": 1,
+     "fields": [{"label": "i) Luminous", "value": "15 M"}, {"label": "ii) Geographical", "value": "12 NM"}], "tables": [], "text": null},
+    {"no": "7", "title": "Lighthouse Tower", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "i) Type", "value": "Circular Brick masonry Tower"},
+       {"label": "ii) Height", "value": "10.97 Mtr"},
+       {"label": "iii) Colour Scheme", "value": "White day mark"}
+     ], "tables": [], "text": null},
+    {"no": "8", "title": "Optical Equipment", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "a) i) Make", "value": "M/s. Aero marine"},
+       {"label": "a) ii) Model", "value": "SL-155"},
+       {"label": "a) iii) Type", "value": "LED Light Beacon"},
+       {"label": "a) iv) Commissioned on", "value": "17-11-2018"},
+       {"label": "a) v) Divergence — Main", "value": "Horizontal 3⁰, Vertical 3⁰"},
+       {"label": "a) v) Divergence — Standby", "value": "NIL"},
+       {"label": "a) v) Divergence — Emergency", "value": "NIL"},
+       {"label": "a) vi) Duration of flash — Main", "value": "0.38 seconds"},
+       {"label": "b) Pedestal", "value": "Aluminium L-5754"},
+       {"label": "e) Illuminant — i) Main/Service", "value": "12V, 18 W LED Light (Sea lite make SL155)"},
+       {"label": "f) Effective Beam Intensity — i) Main/Service", "value": "9,000 cds."}
+     ], "tables": [],
+     "text": "Sub-items b) Pedestal onward are on page 2. Sub-items c) and d) are not printed (lettering jumps from b) to e))."},
+    {"no": "9", "title": "Lantern", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "i) Diameter", "value": "2.6 Mtr"},
+       {"label": "ii) Height of glazing", "value": "1.1 Mtr"},
+       {"label": "iii) No. of panes", "value": "6 Nos."},
+       {"label": "iv) Ventilators", "value": "6 Nos."}
+     ], "tables": [], "text": null},
+    {"no": "10", "title": "Energy Source", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "A) APEPDCL Mains", "value": "Single Phase,230Volts, 50Hz mains"},
+       {"label": "B) Green Energy", "value": "0.15KW off grid solar power plant for main light."},
+       {"label": "i) Solar panels", "value": "2 No 12V/150W( Vikram make)"},
+       {"label": "ii) Battery", "value": "2No 12V/100AH (Exide Tubular)"}
+     ], "tables": [], "text": null},
+    {"no": "11", "title": "No. of Standby Diesel Engine", "title_hi": null, "page": 2,
+     "fields": [{"label": "No. of Standby Diesel Engine", "value": "Nil"}], "tables": [], "text": null},
+    {"no": "12", "title": "Water Supply", "title_hi": null, "page": 2,
+     "fields": [{"label": "Water Supply", "value": "GVMC Water supply is provided."}], "tables": [], "text": null},
+    {"no": "13", "title": "Communication Facility", "title_hi": null, "page": 2,
+     "fields": [], "tables": [],
+     "text": "AE(E) Dolphin Nose LH Telephone No.2973441 (STD Code 0891) e-mail : dolphinsnose-vizag@dgll.nic.in"},
+    {"no": "14", "title": "Year of Commissioned", "title_hi": null, "page": 2,
+     "fields": [{"label": "Year of Commissioned", "value": "1868"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

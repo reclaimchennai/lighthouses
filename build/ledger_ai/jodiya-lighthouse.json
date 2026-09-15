@@ -1,0 +1,41 @@
+{
+  "slug": "jodiya-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Jodiya Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1903,
+  "alol": "0368",
+  "position": {"lat_text": "22° 43.5' N", "lon_text": "70° 16.8' E", "lat": 22.725, "lon": 70.28},
+  "elevation_m": 31,
+  "characteristic_text": "Fl (W) 10Sec. (1 + 9 = 10Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "1 + 9 = 10Sec",
+    "sequence_s": [1, 9],
+    "flash_duration_s": 1
+  },
+  "sectors_text": "Visibility sector: 360°",
+  "range": {"luminous_nm": 11, "geographical_nm": 14, "text": "Luminous 11NM at T=0.74, Geographical 14NM"},
+  "tower": {"type": "Frame work tower (Trestle tower)", "height_m": 30, "colour_scheme": "White"},
+  "optic": {
+    "make": "NavAids Pvt Ltd, Delhi", "model": "NE-9A", "type": "Marine LED Lantern (Three-Tier)", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Marine LED Lantern NE-9A, Type of Light (LED Flasher), Operation: Flashing",
+    "divergence_horizontal_deg": 360,
+    "divergence_vertical_deg": 8,
+    "divergence_text": "Horizontal Divergence 360°, Vertical Divergence 8°",
+    "illuminant": "High Power LED"
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": false, "solar": true, "generator": false, "text": "Energy Source: Solar power light; 3 x 70W TATA BP solar panels, 2 x SMF 12V/100AH batteries"},
+  "issues": []
+}

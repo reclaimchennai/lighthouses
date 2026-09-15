@@ -1,0 +1,42 @@
+{
+  "nid": 1611,
+  "title": "Supply, Installation and fixing of Galvanized anodes, carbon laminates, Epoxy grout etc for 2nd, Ist, and Ground Floor of Deep Bhavan office, Mumbai Office Building",
+  "summary": "Short e-tender for structural repair of the Deep Bhavan office building in Mumbai (ground, first and second floors) using galvanized anodes, carbon laminates and epoxy grout.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-MUM-01001/1/2020-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, M.G. Road, Ghatkopar (East), Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan office, M.G. Road, Ghatkopar (East), Mumbai 400077", "station_id": null, "kind": "office", "work": "Supply, installation and fixing of galvanized anodes, carbon laminates, epoxy grout for ground, 1st and 2nd floors"}
+  ],
+  "scope": [
+    {"item": "Supply, Installation and fixing of Galvanized anodes, carbon laminates, Epoxy grout etc for 2nd, 1st and Ground Floor (no BOQ in this notice)", "qty": null, "unit": null, "site": "Deep Bhavan, Mumbai"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4575000.0,
+    "emd_inr": 91500.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": null,
+    "notes": "Estimated cost inclusive of GST. EMD by account payee DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid three months from technical bid opening; tender fee Rs 500 non-refundable by DD. EMD and tender fee mandatory for all bidders; originals by 21.06.2024 16:00."
+  },
+  "period": {"completion": "03 months", "bid_validity": "90 days from the date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-06-14", "pre_bid": "2024-06-19", "bid_submission_end": "2024-06-21", "bid_opening": "2024-06-25"},
+  "eligibility": [
+    "Reputed registered contractors/firms of appropriate category with tender limit equal to or more than the estimated cost, registered with Central Govt./State Govt./Municipal Corporation etc.",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 60%, or one >= 80%",
+    "Documentary evidence of annual turnover of last three years",
+    "Permanent Account Number",
+    "Applicator certificate from manufacturer for application of carbon laminate/carbon fibre"
+  ],
+  "specs": ["Galvanized anodes, carbon laminates/carbon fibre and epoxy grout (structural strengthening)"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "shorttendernotice_0.pdf", "pages": 6, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Short tender notice (Hindi pages 1-3, English pages 4-6); no BOQ. Bid download/submission 14.06.2024 18:00 to 21.06.2024 17:00; pre-bid meeting and site visit 19.06.2024 11:00 at Deep Bhavan. Hindi version says bid validity from commercial bid opening, English from technical bid opening. Signed by Director (In-charge)."
+}

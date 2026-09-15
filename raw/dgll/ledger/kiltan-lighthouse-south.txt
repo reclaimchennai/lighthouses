@@ -1,0 +1,154 @@
+                              मास्टर ले जर/MASTER LEDGER
+
+
+
+ क्र         नाम /Name
+ सं/                                                              वििरण/Description
+Sr.N
+  o
+  1    ए.एल.ओ.एल/A.L.O.L.         F 0754
+  2    स्थान/Position             Lat.11° 28.13’ N , Long 73° 00.46’ E
+  3    ऊंचाई/Elevation            41.43 M (Above MSL)
+  4    अविलक्षण/Characterist      Fl (1) W 10 sec
+       ic
+ 5     नॉविकल माइलमेदूरी          18NM
+       Range in miles
+ 6     दीपस्तंि                   Type                            Circular CC Block Masonary tower
+       िािर/L.H.Tower             Height                          37M
+                                  Colour Scheme                   Red and White Band
+ 7     ऑविकल उपकरण                Optic
+                                  Make                            J Stone & Co,Calcutta,India
+       Optical equipment
+                                  Type                            Revolving type
+                                  Size                            300mm,4th order
+                                  No. of lens                     2
+                                  Area of dioptric portion        405 Sq. cm
+                                  Area of catadioptric portion    1520 Sq. cm
+                                  Divergence                      0.68º (Horizontal)
+                                  Main/Emergency                  0.34º (Vertical)
+                                  Duration of Flash               0.53 Sec
+                                  Pedestal                        Ball bearing type
+                                  Drive                           Dual stepper motor(20Kg/cm 2),1 No.as standby
+                                  R.P.M.                          3
+                                  Illuminant                      Metal Halide Lamp
+                                  Main                            230V/3 x 150 W Metal Halide Lamp cluster
+                                  Standby                         NIL
+                                  Emergency:                      NIL
+ 8     प्रिािी बीम तीव्रता/       Main                            256989 Candela
+       Effective beam             Emergency                       NA
+       intensity
+ 9     लेंिनन /Lantern            Make                            AGA/FLEM-24
+                                  Diameter                        2.4 m
+                                  Height of glazing               1.380m
+                                  No. of panes                    12
+                                  Ventilators                     8
+                                  No.spare panes                  2
+
+
+10     RACON                                  Sr. No                 6571
+      Make         Model                           Code                  Band                               Date of
+                                                                                                            Installation
+      Tideland     Sea Beacon-2                     O                    (X+S Band)                         29/02/2008
+                   System-6
+ 11   NAIS
+      Base Station                                      2 Nos.Base stations(Make:SAAB)
+
+      Model                          Type               Power                       MMSI
+      R40                            Class A            AC-230V & DC-12V                       ---
+      Communication
+      Equipment
+      VSAT Antenna                   Band               Modem                       Model
+      2.4m dia parabolic             EX-C               Hughes                      HT2300
+      reflector
+
+ 12   ऊर्ान के साधन/                 Mains                                          420V,AC,50Hz power supply
+      Source of energy               Emergency Source                               DG Set 7.5 KVA Make:Kirloskar
+                                     Engine
+                                     Make/Type        Qty            Rating         No of            RPM              Cooling
+                                                                                    Cylinder
+                                     Kirloskar             1         16 BHP         2                1500             Air
+                                     Alternator
+                                     Make/Type             Qty       Rating        Voltage/Am        Frequency        Phase
+                                                                                   p
+                                     Kirloskar          1        7.5 KVA           240V/31.3A        50Hz             Single
+                                     Solar Plant for Main RACON
+                                       PV Capacity      Numbers      Make                 Type                     Battery
+                                           70W/           01 No.     BHEL             Monocrystalline            12V/150AH
+                                            12V
+ 13   स्वचावलत िोल्टे र् स्टे बलाइर्र/Automatic Voltage Stabilizers
+      Make                   Model        Capacity         Input                Output                 Phase          Qty
+      Automatic Electric     N/A          7.5KVA           180-250VAC           230-235 VAC            Single         01
+      Ltd
+14    बैिरर/Batteries
+          Equipment                Type            Make              Volt             Amp/Hr                     Qty
+           PSS NAIS                SMF             Exide             12V                 150A H                   2
+            Genset               Lead acid     SF Sonic              12V               100AH                      1
+          Automation         Lead acid             Exide             12V              150 AH                      2
+ 15   बैिरर चार्नर/ Battery charger
+
+      Equipment            Make      Model           Type          Rati     Qty                       Remarks
+                                                                    ng
+      General          Savage                       Manual         25A        01    U/S,(5 Nos.charger were available.4Nos.
+      Purpose                                                                       sent to DLL office Kochi for maintenance)
+      Automation           NHP           ---       Automatic       20 A       01
+ 16   इं वर्ट र Inverter /UPS
+     Equipmen      Nos      Make              Model         Type         Rating            Input          Output
+         t
+     Main Light     03      Sukam             Shiny     Pure      sine    900 VA        12V DC &          230VAC
+                                                        wave                            230 VAC
+     NAIS PSS       01      Sukam             Shiny     Pure      sine    1 KVA         24 V DC &         230VAC
+                                                        wave                            230 VAC
+17   स्वचलन उपकरण/Automation Equipment
+     Make                   PLC                 HMI            Power               VSAT             Modem Band
+                                                               Supply
+     M/s.Recktronics        Allen Bradley &   Renu             24 V DC        1.8m dia         Hughes    EX.C
+     Devices& Systems,      Mistubishi        Electronics                     Parabolic
+     Pune                                     Pvt Ltd                         reflector
+18   आविशमन उपकरण                         Type of Extinguisher                Capacity     Nos     Make
+     Fire Fighting Equipment              DCP Type                                4 kg       2      Flameblitz
+                                          Co2 type                               4.5 Kg      2      Flameblitz
+                                          Foam Type                                9L        2      Flameblitz
+                                          Fire Bucket                              --        3          --
+19   संचार                                BSNL Landline connection with broadband connection
+                                          04898 272353
+     Communication
+20   र्लपूवतन                             2 Nos. HDPE water tank,2 Nos.concrete tank(u/s) for rain water harvesting.
+                                          2 Nos. open well provided at station compound,but 1 Nos. is abandoned
+     Water Supply
+                                          due to high salinity of water
+21   िूवम                                 Area                                    3280 sq.m
+     Land                                 Demarcation                                  Masonry compound wall
+
+
+
+
+22   इमारतें                              RCC Structure: 05 Nos                    Power House-cum office
+                                                                                   room,Inspection quarterT,HLK
+     Buildings
+                                                                                   quarter,twin ALK Qtrs & twin
+                                                                                   quarter for LHA & LHS
+23   कंपाउं ड लाइि                        LED Light fitted on G.I Pole-07 Nos and 4Nos. Light fittings at main gate
+     Compound Lights
+24   सी सी िीिी कमेरा                                                          -----
+      CCTV Camera
+25   स्टाफ                                Sl. No         Designations
+                                          1              Navigational Assistant Grade III
+     Staff
+26   पहुँ चने का माध्यम                   By Ship from Kochi to Kiltan Island.From Kiltan Island main jetty to
+                                          Lighthouse station by road and approximate distance is 3 KM
+     Mode of approach
+27   उपलब्ध सुविधाए                       Police station :2 KM from Lighthouse
+                                          Govt.primary health centre: 2 KM from Lighthouse
+     Facilities available
+                                          Post office:500 metre from Lighthouse
+28   डाकपताPostal address                 Head Light Keeper
+                                          Kiltan Lighthouse
+                                          Kiltan PO
+                                          UT of Lakshadweep
+                                          PIN:682558
+29   मूल्यकाब्योराCost details            Cost of construction:Rs 8,88,000/-
+                                          Cost of equipment:Rs 4,31,000/-
+     (At the time of Construction)
+30   प्रितननमेलाने का दे नां क   06.04.1977
+     Date of commissioning
+

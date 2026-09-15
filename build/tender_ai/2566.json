@@ -1,0 +1,41 @@
+{
+  "nid": 2566,
+  "title": "Plantation under the \"EK PED MAA KE NAAM\" Campaign at Dariapur Lighthouse for the year 2026-27 under Kolkata Directorate",
+  "summary": "Offline two-envelope quotation for supplying, planting and maintaining 100 trees under the Ek Ped Maa Ke Naam campaign at Dariapur Lighthouse, West Bengal.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Kol-01002/1/2026-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Dariapur Lighthouse, West Bengal - 721442", "station_id": "dariapur-lighthouse", "kind": "lighthouse", "work": "Supply, plantation and maintenance of 100 trees"}
+  ],
+  "scope": [
+    {"item": "Supplying, plantation and maintenance of trees (mango, lemon, amla, guava, coconut, jackfruit, neem, pipal, ashoka, teak, mahogany, casuarina, etc.) including levelling, digging, soil filling, watering, fencing if required, and maintenance for 30 days after completion or till plants establish", "qty": "100", "unit": "Nos", "site": "Dariapur Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 50000.0,
+    "emd_inr": 1000.0,
+    "tender_fee_inr": null,
+    "performance_security": "Clause xii: performance bank guarantee 3% of quoted value within 15 days of LoI; clause xiii: performance bank guarantee (FDR/BG) 10% of contract value valid 6 months from completion",
+    "notes": "Estimated cost inclusive of GST. EMD original by DD/FDR in favour of The Director of Lighthouses and Lightships, Kolkata, before tender opening. Rates in price bid include 18% GST; L1 decided on total basic amount."
+  },
+  "period": {"completion": null, "bid_validity": "180 days from bid opening", "warranty": "6 months from date of completion"},
+  "dates": {"published": "2026-08-31", "pre_bid": null, "bid_submission_end": "2026-09-07", "bid_opening": "2026-09-07"},
+  "eligibility": [
+    "Valid PAN and GST registration",
+    "Notarized affidavit of not being blacklisted/debarred by any Central/State Govt (current year 2026)",
+    "Similar works in last seven years: one >= 80% of estimated value, or two >= 50%, or three >= 40%",
+    "Similar work: tree plantation, landscaping or gardening works at Central Govt./State Govt./reputed private organization/NGO; experience (work completion) certificate required"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "DariyapurNIQEkPed.pdf", "pages": 22, "read": "mixed", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Text layer drops bold text (all key values); pages 1, 3, 4, 5, 6, 7, 8, 9, 13, 14, 15 read from rendered images; remaining pages (GCC clauses and blank proformas) from the text layer. Tender download period 31.08.2026 to 07.09.2026 15:00; opening 07.09.2026 16:00. No completion period printed. Performance security stated inconsistently (3% in clause xii vs 10% in clause xiii). Agreement proforma carries year 2025."
+}

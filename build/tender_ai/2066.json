@@ -1,0 +1,57 @@
+{
+  "nid": 2066,
+  "title": "Electrification of Inspection Quarter, Power House and Staff Quarters at Kanhoji Angre Island Lighthouse under Mumbai Directorate",
+  "summary": "E-tender for supply and installation of electrical wiring, earthing, lighting, security lights and electrical gadgets (AC, solar water heater, solar refrigerator, binoculars) in the inspection quarter, power house and staff quarters at Kanhoji Angre Lighthouse, Khanderi Island, Raigad, Maharashtra.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-Mum-10016/1/2020-Electrical",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kanhoji Angre Lighthouse Station, Khanderi Island, Raigad, Maharashtra", "station_id": "kanhoji-angre-lighthouse", "kind": "lighthouse", "work": "Electrification of inspection quarter, power house and staff quarters; tower wiring; security lights; electrical gadgets"}
+  ],
+  "scope": [
+    {"item": "Copper plate earthing 600x600x3 mm for main DB with 25x3 mm copper strip", "qty": null, "unit": null, "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Surface wiring in inspection quarters, staff quarters and lighthouse tower with modular switches, sockets, MCB DBs", "qty": null, "unit": null, "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Cable laying: 2C/16 sq.mm flexible cable DG set to main DB; 3C/2.5 sq.mm main DB to security lights", "qty": null, "unit": null, "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Installation of 24W IP66 LED street light fittings with GI pipe L bracket on wall (security lights)", "qty": "4", "unit": "Nos", "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Supply, installation, testing and commissioning of air conditioning, solar water heater, solar refrigerator as per BoQ", "qty": null, "unit": null, "site": "Kanhoji Angre Lighthouse"},
+    {"item": "Binoculars 16X zoom, 50 mm objective, waterproof, nitrogen filled", "qty": "4", "unit": "Nos", "site": "Kanhoji Angre Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1034888.0,
+    "emd_inr": 20700.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "5% of contract value (FDR/BG) before work order, valid 03 months beyond warranty (1 year 3 months from LoI); plus 5% security deposit deducted from each RA bill",
+    "notes": "Estimated cost inclusive of GST. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid three months from technical bid opening; originals by post/hand by 15.10.2025 15:00. MSME/NSIC registered bidders are also required to submit EMD. Percentage-rate BoQ. Water/electricity if arranged by owner recovered at 1% each of tender cost."
+  },
+  "period": {"completion": "01 month from date of issue of work order", "bid_validity": "90 days from the date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-10-09", "pre_bid": "2025-10-13", "bid_submission_end": "2025-10-15", "bid_opening": "2025-10-16"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with Central/State Govt/Municipal Corporation having tender limits >= estimated cost",
+    "Similar works (supply, installation of electrical works) in last 7 years: three works each >= Rs 4.14 lakh, or two each >= Rs 5.17 lakh, or one >= Rs 8.28 lakh; completion certificates from officer not below Executive Engineer; sub-contractor experience not considered",
+    "Average annual turnover at least 30% of estimated cost (Rs 3,10,466) in last 3 financial years ending 31.03.2025, CA certified",
+    "Valid Electrical Contractor Licence to work in Maharashtra State",
+    "PAN, GST registration, ITRs for FY 2022-23 to 2024-25",
+    "Bank solvency certificate for minimum Rs 4,13,955 issued within one year",
+    "Tender acceptance letter, unconditional-bid undertaking, bid securing declaration, notarised non-blacklisting affidavit, no-relatives declaration, Make in India self-certification",
+    "Technical evaluation: minimum 70/100 marks (financial standing 40, experience 40, performance 20)"
+  ],
+  "specs": [
+    "Wires: single core multi-stranded copper, PVC insulated FRLS, IS:694, 1100 V",
+    "MCBs 10 kA C-curve; RCCB 30 mA per IS 12640; double-door MCB DB with tinned copper busbar",
+    "Cables: copper, XLPE insulated, PVC sheathed armoured, IS:7098 (Part-I) 1.1 kV",
+    "Security lights: 24W IP66 LED street light fittings (4 Nos)",
+    "Binoculars: 16X, multi-layer coated, waterproof 1 m/5 min, 50 mm objective, 3.5 deg real FOV, 61 m at 1000 m, 177x196x68 mm",
+    "Approved makes include Finolex/Havells/Polycab wires, Legrand/Anchor Roma/Havells switches, Philips/Havells/Crompton lights, Hitachi/Daikin/Bluestar/Godrej/Voltas/LG split AC, Nikon/Canon/Sony/Celestron binoculars"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Tender for wiring.pdf", "pages": 60, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled (font mojibake); English portions read", "page 60 is blank (scanned page)"]}
+  ],
+  "confidence": "high",
+  "notes": "BoQ stated as 'uploaded separately on website' and not included, so quantities for most items are not available. Site is an island reachable only by boat from Thal (Alibag)/Gateway of India jetty. Section IV/V GCC/SCC and Annexures are standard boilerplate. Special conditions notes mention paint/primer/putty makes, apparently copied from a civil tender. Television listed in approved makes though not described in scope."
+}

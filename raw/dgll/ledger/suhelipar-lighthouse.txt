@@ -1,0 +1,118 @@
+                             मास्टर ले जर/MASTER LEDGER
+क्रमसं
+ ख्या/               नाम /Name                                       वििरण/Description
+Sr.No
+  1      ए.एल.ओ.एल/A.L.O.L.                 F-0756
+  2      स्थान/Position                     Latitude 10o 02.30˝N, Longitude72o 17.00˝ E
+  3      ऊंचाई/Elevation                    38 M (Above MSL)
+  4      अविलक्षण/Characteristic            Fl (2) White 20Sec
+  5      नॉविकल माइल मे दू री
+                                            Luminous 19.0 Nm, Geographical17.5 Nm
+         Range in miles
+                                            Type                          Cast iron circular tower
+  6      दीपस्तं ि िािर/L.H.Tower           Height                        30 M
+                                            Colour Scheme                 Red and White Band
+                                            Optic
+                                            Make                          Sealite, Australia
+  7      ऑविकल उपकरण                        Type                          LED flasher
+         Optical equipment                  Size                          300mm lens dia
+                                            Illumining
+                                            Main                          High-intensity LEDs (65W)
+                                            Standby                       ---
+                                            Date of Installation          10.04.2021
+  8      प्रिािी बीम तीव्रता/Effective      Main
+         beam intensity                     Emergency
+  9                                         Diameter
+         लें िनन /Lantern                   Height of glazing
+                                            No. of panes
+                                            Ventilators
+ 10      RACON
+         Make              Model        Code                         Band              Date of Installation
+         Wealth marine     WM-RB-II O                                X                 21.10.2011
+         Equipment was found defective and hence removed and sent to DLL Cochin,for repair on 24.01.2014.
+
+ 11      NAIS
+         Base Station                         2 Nos-AIS1 & AIS2
+
+         Model                   Type       Power
+         R40                     Class A    AC-230V & DC-24V
+         Communication
+         Equipment
+         VSAT Antenna            Modem
+           2.4 m dia
+          Parabolic              Datum
+           reflector
+         DGPS : NIL
+
+                                 Mains                                    Nil
+                                 Emergency Power Source                   Solar plant 5KVA capacity
+     12   ऊर्ान के साधन/          Engine : Nil
+          Source of energy        Solar Plant: 5KVA for NAIS PSS
+
+                                  Capacity PV                    Numbers                  Type     Battery bank
+                                  100W/ 12V                      16 Nos                            96 V
+                                  Solar Panel for Main Light
+                                  Capacity PV                    Numbers                  Type     Battery
+                                  100 W/12V                      02 No.                   TBP      02 No, 12V/100Ah
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र
+          Automatic Voltage Stabilizers: NIL
+          बैिरर / Batteries
+          Equipment                Type                  Make             Volt            Amp/Hr             Qty
+          Main Light              Lead acid              Exide            12V             100 Ah            2
+14                                                                                                       8 sets
+          Solar Plant             SMF VRLA              Exide             2V *6 Nos       300Ah
+                                                                                                      ( Total 96V)
+15        बैिरर चार्न र/ Battery chargers : NIL
+
+          इं वर्ट र Inverter /UPS
+          Equipment               Make                  Model               Type          Rating   Qty       input     Output
+16        NAIS PSS                Sunbird                                  Off-grid       5 KVA    1         96 V DC   230V AC
+          DGPS                    NIL
+          स्वचलन उपकरण
+          Automation Equipment
+     17   MAKE        PLC               HMI                 Power Supply              VSAT         Modem               Band
+
+                                                                                      1.2m dia
+                                        Renu
+          RDS            Micrologix                         24 V DC                   Parabolic    Hughes
+                                        Electronics
+                                                                                      reflector
+                                        PVT LTD
+          आविशमन उपकरण
+18                                                NIL
+          Fire Fighting Equipment
+          संचार
+19                                                NIL
+          Communication
+     20   र्लपूवतन
+                                                  Open well and rainwater collection tank provided.
+          Water Supply
+     21   िू वम                                   Area
+          Land                                    Demarcation
+          इमारतें
+22        Buildings                                         1. Inspection quarter
+                                                            2. LHA quarter
+     23   कंपाउं ड लाइि
+                                                  Nil
+          Compound Lights
+     24   सीसीिीिी कमे रा
+                                                  Nil
+          CCTV CAMERA
+     25   स्टाफ/ Staff                            Nil
+
+
+     26   पहुँ चने का माध्यम                      By Ship from Kochi or by private boat from Agatti / Kavaratti.
+          Mode of approach
+27   उपलब्ध सुविधाए                  Nil
+     Facilities available
+
+                                     C/o Navigational Assistant Gr-I,
+                                     Kavaratti Lighthouse,
+28   डाक पताPostal address           Kavaratti island,
+                                     UT of Lakshadweep
+                                     680 555
+29   मू ल्य का ब्योराCost details
+     (At the time of Construction)
+30   प्रितनन मे लाने का दे नां क
+     Year of commissioning           1975
+

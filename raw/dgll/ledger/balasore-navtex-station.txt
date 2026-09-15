@@ -1,0 +1,140 @@
+l.       Name                                       Balasore Navtex station
+
+
+2.       Position                                   Lat. 21°29'10.8"N
+                                                    Long. 86°55’0l "E
+
+3.       Power supply                          i) 3 PH Mains supply, 440 V AC, 50Hz.
+
+
+4.       Stand by Power Supply             : 20 KVA Diesel Engine Generator sets 2 Nos.
+
+5. Details ofEngine
+
+Sl.No.        Engine No.        Make        HP          No. of     RPM          Cooling       Date of
+                                                        Cylinder                              Installation
+1.            522728907023 EICHER            18.9       02         1500        Air Cooling    25-02-2015
+2.            522728906050 EICHER            18.9       02         1500        Air Cooling    25-02-2015
+
+     6. Details ofAlternator
+
+Sl.No.        Make         KVA      Volt    Amp         Freq       Phase        Power         Date of
+                                                                                Factor        Installation
+1.            Kirloskar    20       240     83.3        50Hz       Single       0.8           25-02-2015
+2.            Kirloskar    20       240     83.3        50Hz       Single       0.8           25-02-2015
+
+     7. H.S.D. Storage tank nos. Capacity                   Two Nos. in build oil tank inside silent engine
+
+8. Solar Plant
+
+25 KW On Grid Solar Power plant installed on 22.12.2016, with 100 Nos. SPV Modules 250W/24 V
+DC. Inverter capacity 30 KW, make Power One. Solar Net Metering Installed on 19.08.2017.
+
+9.       Automatic Voltage Stabilisers (2+1) numbers
+
+         i)        Make                             Delta Electronic,
+                   Type                             Servo Control
+                   Capacity                         15 KVA,
+                   Input                            120V-260V AC
+                   Output                           230 V
+                   Date of Installation             05.06.92
+          ii)      Make                             Blue Bird
+                   Type                             Servo Control
+                   Capacity                         15 KVA,
+                                                                                                   1|Page
+                  Input                          l70V-270V AC
+                  Output                         220 V
+                  Date of Installation           31.12.14
+
+10.      Batteries
+ SI. No.                    Particulars                            Qty.       Date of Installation
+1.         12 V 88 AH Exide make Lead Acid batteries for         02 Nos.         25.02.2015
+             Genset starting purpose.
+
+2.           12 V 150 AH Exide make Lead Acid batteries for     02n Nos.           25.02.2015
+             NAIS
+
+
+11.       EAVTEX
+          i) Make                                Danphone
+         ii) Transmitter                         Duel frequency
+        iii) Frequency                           490 KHz/5l8KHz
+        iv) Power Output                         1000W
+        v) Navtex receiver                       GMDSS receiver, Sirus 3
+       vi) LAN switch                            Model no: JFS516
+      vii) I P Switch                            level one
+      viii) power supply unit                    Two unit
+       ix) Personal Computer                      Mak—e Hp Compaq with Key Board & Mouse
+                                                 With 01 No Deskjet Printer HP 3545
+        x) UPS                                   Capacity — 7.5 KVA, Make-Power Gun System.
+                                                 model no: PI ONLINE UPS.
+        xi) Batteries                            Make- HI power
+                                                 Capacity- 12VDC/42AH 10 nos. for 7.5 KVA UPS
+        xii) Date of Installation                31.12.14
+
+12. NAIS
+       i) AIS Base station -02 nos. R-40(make Saab Transponder)
+           ii) Switch, Router ,Lease line Modem, GPS antenna & VHF antenna
+          iii)UPS-APC make-lKVA 01 no.
+          iv) Date of commissioning:        6.12. 2012
+13. Fire Extinguisher
+
+ SRL          Type         Capacity        Qty           Date of Supply    Installed at
+  No.
+I          DCP                 6 kg        01             01-12-2017       Oil store
+2          BC                  5 kg        02              31.12.14        Transmitter room
+                                                                           ,Engine room
+3          ABC                 6 Kg.       03             01-12-2017       NAIS room, NAVTEX
+                                                                           coil house, Distribution
+                                                                           room
+
+
+                                                                                                2|Page
+14.   Fire buckets                          2 Nos.
+
+15.   Communication                         BSNL Telephone and internet
+                                            Tel. No. 06782 — 262134
+
+16.   Water Supply                          Submersible borewel.
+
+17.   Land
+      i) Area                               30.495 Acre
+      ii) Demarcation                       Brick Masonry Compound Wall.
+      iii) No. of fruit trees               20 nos.
+      iv) No. of non-fruit bearing trees:   10 nos
+
+18.   Buildings                             Inspection Quarter, Technical Building, Pump
+                                            House, Office, Store room, One unit of
+                                            NAG-II Qtr.; One unit of LHA Qtrs.
+                                            Vacant Qtr 12 nos.; Coil house 2 nos,
+                                            Security room I no
+
+19.   Compound Lights                       26 nos. G.I. Pipe poles
+                                            Solar module l20wp, l2V, LED light 24Watt
+                                             SMF battery l2V,120Ah
+
+
+20.   Staff                                 N.A-II.     -01
+                                            LHA        - 01
+
+
+21.   Mode of approach                      (i) By rail Balasore rail Station to 4 Kms.
+                                            (ii) By road Balasore Bus statnd to 8 Kms.
+
+
+22.   Facilities available                  Post Office 5 KM, Police Station 8 Kms.,
+                                            District H.Q Hospital 6 KM
+
+23.   Postal address                        Assistant Executive Engineer
+                                            Balasore Loran C Station
+                                            Light house
+                                            Near police line
+                                            P.O + Dist- Balasore
+                                            Odisha-756001
+
+
+
+
+                                                                                           3|Page
+4|Page
+

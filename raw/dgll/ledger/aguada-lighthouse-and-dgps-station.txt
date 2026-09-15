@@ -1,0 +1,193 @@
+                 मास्टर लेजर/MASTER LEDGER
+
+क्रमसं
+ ख्या/         नाम /Name                               वििरण/Description
+Sr.No
+   1      ए.एल.ओ.एल/A.L.O.L.            F0606
+   2         स्थान/Position            Lat- 15° 29.32’ N
+                                       Long- 73° 46.20’ E
+  3         ऊंचाई/Elevation                 85m
+  4      अविलक्षण/Characteristic       Flash 3 white every 20 sec.
+  5        नॉविकलमाइलमेदूरी            Luminous: 26.8
+             Range in miles            Geographical: 19.8
+  6      दीपस्तंििािर/L.H.Tower             Type              Rectangular R.C.C White
+                                                              Tower
+                                           Height                     18m
+                                       Colour Scheme                  White
+  7          ऑविकलउपकरण                    Optic
+           Optical equipment
+                                            Make                    J. stone calcutta
+                                            Type              Revolving with cut & polished
+                                                                         prisms.
+                                            Size                375mm(3rd order small)
+                                         No. of lens                        3
+
+                                   Area of dioptric portion             4552 sq cm
+
+                                     Area of catadioptric                      _
+                                            portion
+                                         Divergence               7°.20’ (horizontal) &
+                                      Main/Emergency                 2°45’(vertical)
+                                      Duration of Flash                 0.41 sec
+                                              Main
+                                    /Standby/Emergency
+                                        Lamp changer                        -
+                                           Pedestal                     Cost Iron
+                                       Rotation Device        Dual stepper motor(40 kg-cm)
+                                             R.P.M.                         3
+                                          Illumining
+                                              Main                3×150W MH cluster
+                                          Standby                              -
+                                        Emergency:                             -
+                                     Date of Installation             se1976
+8    प्रिािीबीमतीव्रता/Effective beam             Main & Standby
+                intensity
+                                                 Emergency
+9             लेंिनन /Lantern                     Diameter                                2.4m
+                                               Height of glazing                          1.4m
+                                                No. of panes                               12
+                                                 Ventilators                               08
+
+
+
+10               RACON                                Sr. No.                        ALORS 78980
+          Make                  Model                  Code                       Band         Date of
+                                                                                             Installation
+             Pharos         PMAPI-                         O                       X         07.07.2018
+             Marine        RACON-2
+11                                                    NAIS
+             Base Station
+
+         Model             Type                   Power                  MMSI
+          R-40             SAAB                    230V                 4192234
+     Communicatio
+      n Equipment
+     VSAT Antenna          Band                Modem
+          2.4 m             C                  HUGHES
+        diameter
+          DGPS
+       Trasmitter       Frequency           Power          RS 1      RS –II    Beacon     Date of    Date of
+          Make                              Output          ID        ID         ID      commiss     Recapit
+                                                                                          ioning     alizatio
+                                                                                                         n
+        Nautel            288 kHz           500W           410        411       105      05.06.19    21.09.2
+                                                                                            98         017
+12   ऊर्ान केसाधन/                       Mains                                        3 phase
+      Source of                         Standby                                       DG Set
+       energy                                                     Engine 1
+                            Make/Type                Qty          Rating       No of       RPM         Cooli
+                                                                              Cylinder                  ng
+                                Kirloskar                        32HP             3        1500         Air
+                                                               Alternator
+                            Make/Type                Qty        Rating    Voltage/       Frequency    Phase
+                                                                            Amp
+                                Kirloskar                       25KVA     415V/34.         50 Hz         3
+                                                                              7                        Phase
+                                                                Engine 2
+                            Make/Type                Qty        Rating     No of           RPM         Cooli
+                                                                          Cylinder                      ng
+                           Kirloskar                      32HP        3           1500       Air
+                                                        Alternator
+                         Make/Type                Qty    Rating    Voltage/     Frequency   Phase
+                                                                     Amp
+                           Kirloskar                     25KVA     415V/34.       50 Hz       3
+                                                                      7                     Phase
+                                    Solar Plant
+                         Capacity PV            Numbers                Type      Battery    Bank
+                            25kw                   67                 On grid       -        2
+                           Solar Plant for Main RACON
+                         Capacity PV            Numbers                Type      Battery    Bank
+                            150 W                 75x2                   -      12V/100A      -
+                                                                                    H
+13                                 स्वचाललतवोल्टे जस्टे बलाइजर
+                                  Automatic Voltage Stabilizers
+
+               Make              Model         Capacity      Input      Output Phase Qty
+             Servomax            -              15 KVA 170-230 V AC 230V AC       01    03
+14                                                बैिरर
+                                               Batteries
+        Equpment          Type          Make            Volt       Amp/Hr     Qty
+         PSS NAIS           -              -              -           -        -
+         Genset-I          MF           Dynex            12         100       01
+         Genset-II         MF           Dynex            12         100       01
+       Automation          MF            Exide           12          26       08      UPS
+                                       Powersaf
+                                           e
+                          MF             Exide           12          26       02     Charg
+                                       Powersaf                                        er
+                                           e
+          DGPS            MF            Amaron           12          42       16
+                                         Quanta
+                          MF              Exide           12            42         06
+                                        Powersaf
+                                            e
+15                                     बैिररचार्नर/ Battery charger
+
+       Equipment         Make    Mod              Type                Rating       Qty
+                                  el
+     General Purpose      -       -                 -                    -          -
+       Automation         -       -                 -                    -          -
+16                                  इं वर्ट रInverter /UPS
+     Equipme Nos Mak        Model       Type          Rating           Qty        input     outpu
+         nt            e                                                                      t
+       Main      3   Lumi Ecowatt        Sine      1050/12V                      230 VAC    230V
+       Light         nous    Neo        wave                                                 AC
+     NAIS PSS     1     APC                               1 KVA                     230 VAC     230V
+                                                                                                 AC
+      DGPS        1     APC   SRC10KUXI                   10 KVA                    230 VAC     230V
+                                                                                                 AC
+                  1     APC   SRC3KUXI                    3 KVA                     230 VAC     230V
+                                                                                                 AC
+17                                        स्वचलनउपकरण
+                                       Automation Equipment
+      MAKE           PLC           HMI      Power Supply    VSAT               Modem          Band
+      Nelco     Telemecaniq      Schnider        -
+                      ue
+18        आविशमनउपकरण                        Type of               Capacity        Nos        Make
+       Fire Fighting Equipment             Extinguisher
+                                                 -                    -              -          -
+                                                 -                    -              -          -
+                                                 -                    -              -          -
+                                                 -                    -              -          -
+
+19            संचार                        0832-2970036 BSNL LL with
+           Communication                          Broadbands
+
+
+20              र्लपूवतन             PWD Water supply to Ground storage and then lifted to
+              Water Supply           Overhead Tank
+21                िूवम                      Area                    0.8156 Hectare
+                 Land                       Demarcation                Masonry Compound Wall
+
+                                       No. of Fruit Trees                        20
+                                      No. of non-fruit Trees                     20
+22               इमारतें                     Quarters           Office Building + 2 twin unit qtrs +
+                Buildings                                                5 Single Unit qtrs
+                                           Other Buildings                    Garage
+23          कंपाउं डलाइि                         19 nos Street Light + 02 Nos Gate Light
+          Compound Lights
+24         सीसीिीिीकमेरा                              Camera                              -
+           CCTV CAMERA                                 DVR                                -
+25             स्टाफ                      Sl. No                          Designations
+                Staff                       1       Navigational Asst. Grade -I
+                                            2       Navigational Asst. Grade -III
+                                            3       Lighthouse Attendant
+                                            4
+                                            5
+                                            6
+                                            7
+26          पहुँ चनेकामाध्यम         By Rail upto Thivim then 30 kms by road transport upto
+          Mode of approach                Sinquerim then 3 Kms to LH by Walk or pilot
+27          उपलब्धसुविधाए             Marine Police                       -
+          Facilities available           Station
+                                       Dispensary               PHC 7 Kms at Condolim
+                                      High School              KV at 12 Kims in Veram
+                                      Post office                 8 Kms at Condolim
+                                     Police Station       Police Station 10 Kms at Calangute
+28     डाकपताPostal address           Asst. Engr.(E), Aguada LH and DGPS Stn, Sinquerim,
+                                                 Condolim, Bardez-Goa-403 515
+29     मूल्यकाब्योराCost details                                -
+     (At the time of Construction)
+30        प्रितननमेलानेकादे नां क                          June 1998
+        Date of commissioning
+

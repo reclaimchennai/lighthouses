@@ -1,0 +1,41 @@
+{
+  "slug": "tadri-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Tadri Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1942,
+  "alol": "F 0638",
+  "position": {"lat_text": "14° 30.8' N", "lon_text": "74° 20.5' E", "lat": 14.513333, "lon": 74.341667},
+  "elevation_m": 38,
+  "characteristic_text": "fl (3)W 20 Sec.",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": 19, "text": "Luminous: 18NM, Geographical: 19NM"},
+  "tower": {"type": "Hexagonal Masonry Tower", "height_m": 10, "colour_scheme": "Black and White bands (2 Black + 1 White)"},
+  "optic": {
+    "make": "Wealth Marine Pvt. Ltd., Singapore", "model": "WM-RB 500", "type": "WM - RB 500 Marine Rotating Beacon", "size": "6 clear \"Bulls Eye\" Acrylic lense panels equally spaced at 60° (Hexagonal)", "order": null,
+    "panels": 6,
+    "rotation_device": "2 Nos. Stepper Motors",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Optic: Revolving beacon; Rotation Device: 2 Nos. Stepper Motors; R.P.M. 3",
+    "divergence_horizontal_deg": 1.5,
+    "divergence_vertical_deg": 2.42,
+    "divergence_text": "Horizontal - 1.5°, Vertical 2.42°",
+    "illuminant": "70W/230V"
+  },
+  "intensity_cd": 70408,
+  "racon": {"present": false, "code": null, "text": "Sr. No 6295; Make -NA-"},
+  "ais": {"present": false, "text": "NAIS -----; Model -NA- (VSAT 2.4m EX-C, Datum M7LT listed)"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains HESCOM; Honda generator 2100va 230v; solar 920 Watt plant plus 480 Watt for automation"},
+  "issues": ["No. of lens printed as '3/6' (6-panel beacon, possibly 3 lenses in use)", "RACON section lists Sr. No 6295 but Make -NA-", "Lantern glazing/panes rows are garbled ('24 Nos. glazing panes and', No. of panes 6)"]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "diu-head-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Diu Head Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1969,
+  "alol": "F 0414",
+  "position": {"lat_text": "20° 41.5'N", "lon_text": "70° 49.7'E", "lat": 20.691667, "lon": 70.828333},
+  "elevation_m": 58,
+  "characteristic_text": "Fl W 10 sec. 0.3+9.7=10 Sec.",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "0.3+9.7=10 Sec.",
+    "sequence_s": [0.3, 9.7],
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 30, "geographical_nm": null, "text": "30 NM (unlabelled range)"},
+  "tower": {"type": "Hexagonal stone masonry tower.", "height_m": 37, "colour_scheme": "Red and white bands S.E. Paint."},
+  "optic": {
+    "make": "B.B.T. France", "model": null, "type": null, "size": "700 mm (2nd order large) revolving type", "order": "2nd order large",
+    "panels": null,
+    "rotation_device": "(i) Electrically operated stepper motor for direct drive system. (ii) The clock work machine with an electric rewinding motor for stand by.",
+    "rpm": 1.5,
+    "rotates": true,
+    "rotates_evidence": "Size: 700 mm (2nd order large) revolving type; Rotation Device: stepper motor direct drive; R.P.M. 1.5",
+    "divergence_horizontal_deg": 3.25,
+    "divergence_vertical_deg": 1.083333,
+    "divergence_text": "3°15' (Horizontal), 1°5' (Vertical)",
+    "illuminant": "150 W / 230 V MH lamp Cluster – 03 nos."
+  },
+  "intensity_cd": 10224000,
+  "racon": {"present": true, "code": "D", "text": "Tide land, Sea Beacon system 6; Code 'D'; Sr. No 6183; 12V/100AH Okaya battery; installed 26/02/2006"},
+  "ais": {"present": false, "text": "NAIS –NA; Base Station: R-40 02 Nos; model/type/power/MMSI blank"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V/3-phase/50 Hz; DG Set 15 KVA Kirloskar x2; solar plant 2.5 KWP, 36 panels, 3x24V/900AH batteries"},
+  "issues": [
+    "Effective beam intensity printed as '1,02,24000 Candela' (irregular digit grouping); transcribed as 10224000",
+    "NAIS heading says NA but Base Station lists 'R-40 02 Nos'"
+  ]
+}

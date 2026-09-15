@@ -1,0 +1,44 @@
+{
+  "nid": 867,
+  "title": "Development of Tourism at Pudimadaka Lighthouse Station",
+  "summary": "E-tender for tourism development works at Pudimadaka Lighthouse Station, Atchutapuram Mandal, Visakhapatnam district, Andhra Pradesh.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MT-VSP-02002(03)/1/2022-Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Port Residential Area, Saligramapuram, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Pudimadaka Lighthouse Station, Pudimadaka Village, Atchutapuram Mandal, Visakhapatnam District, Andhra Pradesh 531011", "station_id": "pudimadaka-lighthouse", "kind": "lighthouse", "work": "Development of tourism"}
+  ],
+  "scope": [
+    {"item": "Development of Tourism at Pudimadaka Lighthouse Station (no BOQ in these pages)", "qty": null, "unit": null, "site": "Pudimadaka Lighthouse Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3507080.0,
+    "emd_inr": 70150.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST and all other taxes. EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Visakhapatnam, valid three months from technical bid opening. EMD not exempted for any bidder (NSIC/MSME exemption withdrawn because of delays); EMD forfeited if timelines not followed."
+  },
+  "period": {"completion": "06 months from the commencement of work", "bid_validity": "120 days from date of opening of financial bid", "warranty": null},
+  "dates": {"published": "2022-12-23", "pre_bid": "2022-12-29", "bid_submission_end": "2023-01-10", "bid_opening": "2023-01-11"},
+  "eligibility": [
+    "Valid registration in appropriate category & class with CPWD, State PWD, Railways, MES, BSNL or other State/Central Government/PSU/autonomous bodies",
+    "Similar works completed in last seven years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; similar works = construction of buildings including electrical works and horticulture works",
+    "PAN and GST registration; key technical personnel with qualifications; unconditional tender undertaking (Annexure V)",
+    "Tender acceptance letter (Annexure IV); non-blacklisting affidavit; income tax returns for last three years",
+    "List of relatives serving in Ministry of Shipping or DGLL",
+    "Average annual turnover of last three financial years at least 30% of estimated cost",
+    "Activity chart/plan in detail; self-assessing technical evaluation sheet"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "a1442357-e4bf-43dc-a5a6-71e4fe6a87db.pdf", "pages": 5, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Extract of pages 3-7 of a 107-page tender document (Section I NIT only); no BOQ. Bid download/submission 23/12/2022 18:00 to 10/01/2023 15:00. Heavy vehicles permitted to site; contractor liable for damage to pathway tiles/paver blocks/plants. No time extension for document submission."
+}

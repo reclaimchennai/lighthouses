@@ -1,0 +1,41 @@
+{
+  "slug": "katchal-east-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Katchal East Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1986,
+  "alol": "F 1223",
+  "position": {"lat_text": "8° 00.40' N", "lon_text": "93° 24.20' E", "lat": 8.006667, "lon": 93.403333},
+  "elevation_m": 43,
+  "characteristic_text": "Fl (1) W 5 Sec (fl 0.5, ec 4.5)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": "fl 0.5, ec 4.5",
+    "sequence_s": [0.5, 4.5],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 10, "geographical_nm": null, "text": "10 NMiles (unlabelled range)"},
+  "tower": {"type": "G.I. Trestle Tower", "height_m": 24, "colour_scheme": "Red & White bands"},
+  "optic": {
+    "make": "Sabik Carmanah", "model": null, "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Rotation Device: White Flashing Light; R.P.M. NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 4470,
+  "racon": {"present": false, "code": null, "text": "NA"},
+  "ais": {"present": true, "text": "NAIS Base Station 2 nos-AIS 1 & AIS2; Model R40, Class A, AC-230V DC-12V, MMSI 4198006"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar plant 70 W x 01, 12V/100AH battery; Solar plant for NAIS 1.8 Kwp (06 x 300 W), 36 x 2 V 600 AH; Mains/Standby/engines blank"},
+  "issues": []
+}

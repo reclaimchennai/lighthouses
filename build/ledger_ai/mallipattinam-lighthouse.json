@@ -1,0 +1,41 @@
+{
+  "slug": "mallipattinam-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Mallipattinam Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2010,
+  "alol": "F 0901.9",
+  "position": {"lat_text": "10° 16' 12\" N", "lon_text": "79° 18' 48\" E", "lat": 10.27, "lon": 79.313333},
+  "elevation_m": 48.4,
+  "characteristic_text": "Fl (1) W 5 sec (fl 0.5)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": "fl 0.5",
+    "sequence_s": null,
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 22, "geographical_nm": null, "text": "22 NM (unlabelled range)"},
+  "tower": {"type": "RCC Octagonal Tower", "height_m": 45, "colour_scheme": "Red and White vertical Band"},
+  "optic": {
+    "make": "M/s Mediterrano senales Maritimes (MSM), Spain", "model": "MBR-300", "type": "Rotating beacon", "size": "210 mm", "order": null,
+    "panels": 6,
+    "rotation_device": "Inbuilt stepper motor with drive",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Optic: Rotating beacon, MBR-300; Rotation Device: Inbuilt stepper motor with drive; R.P.M. 2 r.p.m",
+    "divergence_horizontal_deg": 2.4,
+    "divergence_vertical_deg": 4.0,
+    "divergence_text": "2.4° (Horizontal), 4.0° (Vertical)",
+    "illuminant": "230V/150W Single ended Metal Halide Lamp"
+  },
+  "intensity_cd": 166000,
+  "racon": {"present": false, "code": null, "text": "RACON section empty"},
+  "ais": {"present": false, "text": "NAIS base station/model/MMSI blank; only VSAT 2.4m dia, EX-C, Datum system M7LT listed"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "Tamilnadu electricity board 3 phase/440V; Engines 1 and 2 (NIL); solar 1 KW for main light and 2 KW off grid"},
+  "issues": []
+}

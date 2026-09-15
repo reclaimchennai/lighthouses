@@ -1,0 +1,177 @@
+                                मास्टर लेजर/MASTER LEDGER
+
+
+
+
+                                  नानवेल दीपस्तंभ /Nanvel Point
+
+क्रमसंख्या/             नाम /Name
+   Sr.No                                                               वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.            F 0562
+    2         स्थान/Position                Lat. 180 16.84’N
+                                            Long. 720 56.18’E
+
+    3         ऊंचाई/Elevation               64 m
+    4         अभिलक्षण/Characteristic       fl (3) W 15 Sec. (FL 0.33, ec. 12.7 )
+                                            fl 0.33, ec. 2.17, fl 0.33, ec. 9.67)
+
+    5         नॉटिकलमाइलमेदरू ी             i) Luminous                 : 16 Miles
+              Range in miles                ii) Geographical            :
+    6         दीपस्तंििािर/L.H.Tower        Type                            .
+                                                                            Octagonal MasonryTower
+                                            Height                          18.3
+                                            Colour Scheme                   Red , White & Red Bands
+    7         ऑप्टिकलउपकरण                  Optic
+              Optical equipment
+                                            Make                            Stone Chance
+                                            Type                            Revolving with cut and polished
+                                                                            prisms
+                                            Size                            250 mm (4th order small) revolving
+                                            No. of lens / No. of panels     3 to 600 each
+
+                                            Area of dioptric portion     665 sq. cm (corrected area 470
+                                                                         sq.cm)
+                                            Area of catadioptric portion 1300 sq.cm (corrected areas 1080
+                                                                         sq.cm)
+                                            Divergence                   Horizontal – 12.540, Vertical –
+                                            Main/Emergency               9.120
+                                            Duration of Flash            0.52 Sec.
+                                            Main /Standby/Emergency
+                                        Lamp changer                 NA
+                                        Pedestal                     Mercury Float (40.9 Kg in use)
+                                        Rotation Device              Dual Stepper Motor 40 Kgcm with
+                                                                     automatic changeover
+                                        R.P.M.                       4
+                                        Illuminant                   3 x 150 W Metal Halide lamp
+                                                                     cluster
+                                        Main
+                                        Standby
+                                        Emergency:
+                                        Date of Installation
+8    प्रिािीबीमतीव्रता/Effective beam   Main & Standby               78318 cd
+     intensity
+                                        Emergency
+9    लेंिनन/Lantern                     Diameter                     2.16 m
+                                        Height of glazing            1.13 m
+                                        No. of panes                 8
+                                        Ventilators                  7
+10   RACON
+     Make                 Model         Code                         Band                 Date of
+                                                                                          Installation
+     ----                 ----          ----                         ----                 ----
+11   NAIS
+     Base Station                       -
+
+     Make & Model         Type          Power                         MMSI
+     ----                 ----          ----                          ----
+     Communication
+     Equipment
+     VSAT Antenna:        Band :        Modem:
+
+     DGPS
+     Trasmitter Make      Frequency     Power Output RS 1 ID          RS -II     Beacon     Date of Date
+                                                                      ID         ID         commis of
+                                                                                            sioning Rec
+                                                                                                    apit
+                                                                                                    aliza
+                                                                                                    tion
+
+
+12   ऊर्ानकेसाधन/Sour     Mains
+     ce of energy         Mains
+                          Standby                                     -N/A-
+                          Engine 1
+                          Make/Type             Qty         Rating    No of        RPM              Cooling
+                                                                      Cylinder
+
+                          Alternator
+                           Make/Type               Qty     Rating   Voltage/A Frequency   Phase
+                                                                    mp
+
+                           Engine 2: -N/A-
+                           Make/Type               Qty     Rating   No of      RPM        Cooling
+                                                                    Cylinder
+
+                           Alternator: -N/A-
+                           Make/Type               Qty     Rating   Voltage/A Frequency   Phase
+                                                                    mp
+
+
+                           Solar Plant:
+                           Capacity PV             Numbers          Type       Battery    Bank
+
+                           Solar Plant for Main RACON
+                           Capacity PV           Numbers            Make/Typ   Battery    Bank
+                                                                    e
+
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model             Capa   Input            Output     Phase      Qty
+                                            city
+
+14   बैिरर
+     Batteries
+     Equpment              Type             Make   Volt             Amp/Hr     Qty
+     PSS NAIS              ----             ----   ----             ----       ----
+     Genset                ----             ----   ----             ----       ----       ----
+     Automation
+     DGPS
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make              Mode Type               Rating     Qty
+                                            l
+     General Purpose
+     Automation
+16   इंवटट रInverter /UPS
+     Equipmen Nos Make              Model      Type        Rating   Qty        input      output
+     t
+     Main
+     Light
+     NAIS PSS
+     DGPS
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE        PLC                 HMI       Power Supply        VSAT       Modem    Band
+
+18   आप्ननशमनउपकरण                         Type of Extinguisher    Capacity     Nos       Make
+     Fire Fighting Equipment
+
+
+
+
+19   संचार / Communication                 N.A.-II, Mob. No. 9004328305 , 7977148003
+
+20   र्लपूर्तन                             Open well with 5 HP Electric water pump is provided
+     Water Supply
+21   िूभम                                  Area            8 Hectares
+     Land
+                                           Demarcation     Compound wall and Barbed wire fencing
+22   इमारतें                               Quarters
+     Buildings
+23   कंपाउं डलाइि
+     Compound Lights
+24   सीसीिीिीकमेरा                         Camera
+      CCTV CAMERA                          DVR
+25   स्िाफ                                 Sl. No        Designations
+     Staff                                 1
+                                           2
+                                           3
+                                           4
+26   पहुँचनेकामाध्यम                       By S.T. bus from MUMBAI upto Murud
+     Mode of approach                      then by boat upto Dighi (6 Km) then by
+                                           S.T. Bus upto NanwellVillage (4 Km)
+                                           and then by walk (3 Km) upto Lighthouse.
+
+27   उपलब्धसविधाए
+     Facilities available
+
+
+
+28   डाकपताPostal address
+29   मूल्यकाब्योराCost details
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक
+                                           15.07.1964
+     Date of commissioning
+

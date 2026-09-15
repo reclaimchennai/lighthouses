@@ -1,0 +1,149 @@
+                                   मास्टर लेज़र/MASTER LEDGER
+              रामेश्वरम डीजीपीएस स्टेशन/Rameshwaram DGPS Station
+क्रमसंख्या/                   नाम /Name
+   Sr.No                                                                वििरण/Description
+     1          ए.एल.ओ.एल/A.L.O.L.           ---
+    2           स्थान/Position               Lat. N 09 17 01.944, Long. E 079 18 31.681
+    3           ऊंचाई/Elevation              ----
+    4           अविलक्षण/Characteristic      ---
+    5           दू री/Range in Km            400
+    6           दीपस्तं िटािर/L.H.Tower      Type                            N/A
+                                             Height                            N/A
+                                             Colour Scheme                     N/A
+    7           ऑविकलउपकरण                   Optic                             N/A
+                Optical equipment            Make
+                                             Type
+                                             Size
+                                             No. of lens
+                                             Area of dioptric portion
+                                             Area of catadioptric portion
+                                             Divergence
+                                             Main/Emergency
+                                             Duration of Flash
+                                             Main /Standby/Emergency
+                                             Pedestal
+                                             Rotation Device
+                                             R.P.M.
+                                             Illuminant
+                                             Main
+                                             Standby
+                                             Emergency:
+                                             Date of Installation
+    8           प्रिािीबीमतीव्रता            Main
+                Effective beam intensity     Emergency
+    9           लें टनन /Lantern             Diameter                          ---
+                                             Height of glazing                 ---
+                                             No. of panes                      ---
+                                             Ventilators                       ---
+    10          RACON                             Sr. No                       N/A
+     Make                     Model             Code                                   Band                       Date of
+                                                                                                                  Installation
+
+
+11   NAIS
+     Base Station                               N/A
+
+     Model                    Type              Power                                  MMSI
+                              N/A               N/A                                    N/A
+     Communication
+     Equipment
+                              Band              Modem
+                              N/A               N/A
+
+     DGPS
+     Transmitter Make         Frequency       Power Output          RS 1    RS -II   Beacon         Date of             Date of
+                                                                    ID      ID       ID             commissioning       Recapital
+                                                                                                                        ization
+     Nautel                   311 KHz         500 W ± 5%            446     447      123            15.10.2010          N/A
+
+12   ऊर्ान केसाधन/Source Main Supply                                        TNEB Electric Main Supply 3 Ø 440 v,50Hz
+     of energy           Stand By                                           DG Set 20 KVA – 2 Nos., Make: Kirloskar
+                              Engine 1
+                              Make/Type               Qty                  Rating               No of Cylinder        RPM
+                              Kirloskar               1                    32 BHP               3                     1500
+                              Alternator
+                              Make/Type               Qty                  Rating               Voltage/Amp           Frequency
+                              Kirloskar               1                    20 KVA               230V/83.3 A           50Hz
+                              Engine 2
+                              Make/Type               Qty                  Rating               No of Cylinder        RPM
+                              Kirloskar               1                    32 BHP               3                     1500
+                              Alternator
+                              Make/Type               Qty                  Rating               Voltage/Amp           Frequency
+                              Kirloskar               1                    20 KVA               230V/83.3 A           50Hz
+                              Solar Plant (On Grid)
+                              Capacity PV                   Number of Solar Panels     Type                 Battery       Bank
+                              12 KWp                        250W/24 V - 48 Nos.        Mono-crystalline     ---           ---
+13   स्वचावलतिोल्टे र्स्टे बलाइर्र
+     Automatic Voltage Stabilizers
+     Make                    Model              Capacity        Input                  Output               Phase         Qty
+     ITL                     ---                12.5 KVA        170 V-270 V            230 V                Single        3 Nos.
+14   बैटरर
+     Batteries
+     Equipment            Type                  Make            Volt        Amp. Hr.       Qty            Remarks
+     DGPS                 SMF                   Exide           12 V        26 AH          6 Nos.
+     Transmitter          SMF                   Exide           12 V        26 AH          10 Nos.
+15   बैटररचार्न र/ Battery charger
+     Equipment               Make               Model Type                  Rating                                Qty
+                                  Velsine        ---       ---                    80 Amps / 0 – 40 V                1 No.
+     General Purpose
+                                 AE Make         ---      ----                    15 Amps / 0 – 30 V                1 No.
+16   इं वर्ट रInverter /UPS
+     Equipment      Nos     Make     Model                   Type           Rating     Qty     input        Out
+                                                                                                            put
+     DGPS           1       Hykon    AEM 3000                Online UPS     3 KVA      1 No.   72 VDC       230
+                                                                                                            V
+                                                                                                            AC
+     Transmitter    1       Hykon    AE 5000                 Online UPS     5 KVA      1 No.   120 VDC      230
+                                                                                                            V
+                                                                                                            AC
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE           PLC             HMI           Power Supply          VSAT            Modem         Band
+     N/A            N/A             N/A           N/A                   N/A             N/A           N/A
+18   आविशमनउपकरण                     Type of Extinguisher               Capacity            Nos.        Make
+     Fire Fighting Equipment         DCP Type                           5 kg                3           Ronak
+                                     Co2                                4.5 Kg              1           Exellent
+                                     Foam Type                          9 Ltr               3           Exellent
+19   संचार/Communication             BSNL FTTH Connection                               04573-290478
+20   र्लपूवतन/Water Supply           Open Well (Fitted with 1 HP Jet Motor) – 2 Nos.
+                                      (Municipality water supply and Rain water harvesting plant also available)
+21   िू वम/Land                      Area                                               2 Acre
+                                     Demarcation                                        Masonry Brick wall
+22   इमारतें                         Technical Building (Power House, Office, Store Room and Recreation Room) –
+     Buildings                       1 No.
+                                     Inspection Quarters – 1 No.
+                                     AE Quarters – 1 No.
+                                     NA Gr – II Quarters – 2 Nos.
+                                     Touring Staff Quarters – 1 No.
+                                     Coil Hut – 1 No.
+                                     Pump House – 2 Nos.
+23   कंपाउं डलाइट                    LED Street Lights - 10 Nos.
+     Compound Lights                 Garden Light – 2 Nos.
+                                     Gate Light – 2 Nos.
+24   सीसीटीिीकमे रा                  Camera                                             ---
+      CCTV CAMERA                    DVR                                                ---
+25   स्टाफ                           Sl. No                  Designations
+     Staff                           1                       Asst. Engineer – 1 No.
+                                     2                       Navigational Assistant Grade - II – 2 Nos.
+26   पहुँ चने कामाध्यम               2 Kms from Rameswaram Bus Stand.
+     Mode of approach                1 Km from Rameswaram Railway station.
+27   उपलब्धसुविधाए                   Post Office – 1 Km
+     Facilities available            Primary Health centre – 1 Km, Police Station – 0.5 Km,
+                                     Schools – within1.5 Km.
+28   डाकपताPostal address            Rameswaram DGPS Station,
+                                     Anna Nagar, (Near Karuppanna Swamy Koil)
+                                     Rameswaram,
+                                     Ramanathapuram District,
+                                     Tamil Nadu State.
+                                     Pin: 623 526.
+
+
+
+
+29   मू ल्यकाब्योराCost details
+                                     253 Lakhs
+     (At the time of Construction)
+30   प्रितननमे लाने कादे नां क
+                                     15.10.2010
+     Date of commissioning
+

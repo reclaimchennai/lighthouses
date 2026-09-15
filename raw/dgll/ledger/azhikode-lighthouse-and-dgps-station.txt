@@ -1,0 +1,186 @@
+                            मास्टर लेजर/MASER LEDGER
+क्रमसं                 नाम /Name
+ ख्या/                                                               वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.                   0694.5
+   2     स्थान/Position                       Lat.10011.9’ N, long 76° 09.5’ E
+   3     ऊंचाई/Elevation                      34M (Above MSL)
+   4     अविलक्षण/Characteristic              Fl (3) W 20 sec
+
+  5      नॉविकल माइल मे दू री                 19Nm (Luminous range)
+         Range in miles
+  6      दीपस्तं ि िािर/L.H.Tower             Type                       Square RCC Tower
+                                              Height                     30M
+                                              Colour Scheme              Black and White Band
+  7      ऑविकलउपकरण                           Optic
+         Optical equipment                    Make                       M/S J Stone& Co. Culcutta,India
+                                              Type                       Revolving Beacon
+                                              Size                       300mm
+                                              No. of lens                3
+                                              Area of dioptric portion
+                                              Area of catadioptric
+                                              portion
+                                              Divergence                 7º 38’ 24” (Horizontal)
+                                                                         11º 27’14” (Vertical)
+                                              Duration of Flash          0.32 Sec
+                                              Main
+                                              /Standby/Emergency
+                                              Pedestal                   Ball Bearing type
+                                              Rotation Device            Dual Stepper motor (20Kgcm)
+                                              R.P.M.                     3 RPM
+                                              Illuminant
+                                              Main                       Cluster of 03Nos 230V/150W Double
+                                                                         ended Metal Halide Lamps
+                                              Standby                    NA
+                                              Emergency:                 NA
+                                              Date of conversion to MH   16.05.1997
+                                              lamp cluster
+  8      प्रिािी बीम तीव्रता/Effective beam   Main                       74000 candela
+         intensity                            Emergency
+  9      लें िनन /Lantern                     Diameter                   2.4m
+                                              Height of glazing          1.3m
+                                              No. of panes               12 Nos
+                                              Ventilators                08 Nos
+10   RACON- Nil
+     Make                     Model         Code                          Band                       Date of
+                                                                                                     Installation
+
+11   NAIS – Nil
+     Base Station
+
+     Model                    Type          Power                         MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna             Band          Modem
+
+     DGPS
+     Transmitter Make         Frequency     Power Output        RS 1 ID   RS -II ID     Beacon       Date of      Date of
+                                                                                        ID           commissi     Recapita
+                                                                                                     oning        lization
+     Nautel                   320KHz        500 Watts           414       415           107          01.06.19     03.04.
+                                                                                                     98           2018
+
+12   ऊर्ान के साधन/           Mains                                       KSEB
+     Source of energy         Stand by Power Source                       02 Nos, DG Sets 25 KVA
+                              Engine 1
+                              Make/Type                 Qty     Rating    No of               RPM           Cooling
+                                                                          Cylinder
+                              Kirloskar/ HA394          1       32HP      3                   1500          Air
+                              Alternator
+                              Make                      Qty     Rating    Volt/Amp            Frequency     Phase
+                              Kirloskar                 1       25 KVA    230V/               50Hz          Single
+                                                                          108.7A
+                              Engine 2
+                              Make/Type                 Qty     Rating    No of               RPM           Cooling
+                                                                          Cylinder
+                              Kirloskar/ HA394          1       32HP      3                   1500          Air
+                              Alternator
+                              Make                      Qty     Rating    Volt/Amp            Frequency     Phase
+                              Kirloskar                 1       25KVA     230V/               50Hz          Single
+                                                                          108.7A
+                              Solar Plant
+                              Capacity                  Number of         Type            Rating/Volts      Inverter
+                                                        panels
+                              20KW On grid              80 Nos,           Mono            250W/36 V         .20KVA,
+                                                        Topsun Make       Crystalline                       Growatt
+                                                                                                            make
+                              Power back up – Green Energy
+                              Panel rating/ Voltage     Number of         Type            Battery
+                                                        panels
+                              100W/18V                  03 Nos,           Poly            03 Nos
+                                                        Luminous          Crystaline      12V/
+                                                                                          150AH
+                                                        power
+                                                        Technologies
+13   स्वचावलत िोल्टे र् स्टे बलाइर्र
+     Automatic Voltage Stabilizers
+     Make                 Model             Capacity    Input             Output                Phase       Qty
+          Servomax               N/A                  15KVA        170-270V        230+- 1%         Single       03Nos
+
+14        बैिरर Batteries
+          Equipment              Type                 Make         Volt            Amp/Hr     Qty
+          PSS NAIS                     -                 -                   -          -             -
+          Genset                 Lead acid            KOEL         12V             75AH       02Nos
+                                                      Green
+          Automation
+          Main Light             Tubular Inv.         Amaron       12V             150AH      04Nos
+                                 Lead Acid            Quanta
+          DGPS                   SMF                  Power        12V             42AH       22 Nos
+                                                      safe Plus
+     15   बैिरर चार्न र/ Battery charger
+          Equipment               Make                Volt         Type            Rating     Qty
+          General Purpose         Gargya              0-18V                        8 Amp      01 No
+                                  Brothers
+          Automation
+     16   इं वर्ट र Inverter /UPS
+          Equipment Nos Make                       Model           Type            Rating     Qty     input        Output
+          Main Light         03 Su-Kam                 ---             Online      900VA       03     12V DC&      230VAC
+                                                                                                      230V AC
+          NAIS PSS
+          DGPS           01      APC                   ----        On line         10 KVA     1       72VDC &      230VAC
+                                                                                                      230 AC
+                         01      APC                   ----        On line         13KVA      1       192VDC &     230VAC
+                                                                                                      230 AC
+     17   स्वचलन उपकरण
+          Automation Equipment
+          MAKE        PLC                    HMI              Power Supply       VSAT         Mode        Band
+                                                                                              m
+          RDS           Allen Bradley        Renu        24 V DC                 1.2m dia     Hugh
+                                             Electronics                         Parabolic    es
+                                             Pvt Ltd                             Reflector
+     18   आवि शमन उपकरण                              Type of                     Capacity     Nos         Make
+          Fire Fighting Equipment                    Extinguisher
+                                                     DCP Type                    4 kg& 2Kg    1&2
+                                                     Co2                         6.5Kg        02
+                                                                                              Nos
+                                                      Fire Buckets                            04No
+                                                                                              s
+                                                      Foam Type           Nil
+     19   संचार Communication                         BSNL Land line: 0480-2819612
+                                                      Walky talky     :03 Nos
+                                                      Fax Machine    : HP Desk jet Ink Advantage 2645.Print
+                                                      Fax Scan
+     20   र्लपूवतन Water Supply                       Kerala Water Authority ( KWA) water collected to asump
+                                                      of capacity 5000Litrs from there it is being pumped to
+                                                      over head PVC tanks of capacity 1000Ltrs.
+
+
+
+     21   िू वम Land                                  Area                                    0.7689hectre
+                                     Demarcation                              Masonary compound
+                                                                              wall
+22   इमारतें Buildings               RCC Structure: 08 Nos                    Power House cum Store
+                                                                              cum ,DGPS Transmitter
+                                                                              room cum, Recreation
+                                                                              room cum office room(1)
+                                                                              . Coil Hut (1), Twin units
+                                                                              of LHA Qtrs (1), SRT Qtrs
+                                                                              (1). Inspection Qtr (1)
+                                                                              Assistant Engineer Qtr(1),
+                                                                              Nav Asst II Qtrs to
+                                                                              accomadate 4 staff (1)
+                                                                              Temp. PH (1), Security
+                                                                              cum Toilet block (1)
+23   कंपाउं डलाइि Compound Lights    LED Light fitted on G.I Pole– 18 Nos
+
+24   सीसीिीिी कमे रा/ CCTV CAMERA    Camera                                   Nil
+                                     DVR                                      Nil
+25   स्टाफ Staff                     Sl. No       Designations
+                                     1           Radio Technician       -1
+                                     2           Navigational Assistant – 1
+                                     3           LHA -1
+26   पहुँ चने का माध्यम              By rail up to Iringalakkuda and from there by road 28
+     Mode of approach                Km to light house
+27   उपलब्ध सुविधाए                  Police staion 08Kms,Govt Dispensary 05 Kms(Athanikkal)
+     Facilities available            Post Office 02Km Azhikode Primary School,High School 05Km
+                                     (Eriyad).
+28   डाक पताPostal address           Assistant Engineer (EL)
+                                     Azhikode Lighthouse, Azhikode Post
+                                     Kodungallure Via, Thrissure Dt, Kerala-680666.
+                                     Pin: 680666.
+29   मू ल्यका ब्योराCost details     Cost of construction: Rs. 11,09,000/-
+     (At the time of Construction)   Cost of Equipment: Rs. 2,50,000/-
+30   प्रितननमे ला ने का दे नां क     30.04.1982
+     Date of commissioning
+

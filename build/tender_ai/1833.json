@@ -1,0 +1,42 @@
+{
+  "nid": 1833,
+  "title": "Design, Supply, Installation, Testing and Commissioning of Large Screen Monitoring (LED Video Wall) at National Data Centre, Deep Bhavan, Mumbai",
+  "summary": "Design, supply, installation, testing and commissioning of a large screen monitoring LED video wall, with 5 years warranty, at the National Data Centre in Deep Bhavan, Mumbai.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-Mum-03003/2/2020-Electrical",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Ghatkopar (East), Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "National Data Centre, Deep Bhavan, Mumbai", "station_id": null, "kind": "office", "work": "Design, supply, installation, testing and commissioning of Large Screen Monitoring (LED Video Wall)"}
+  ],
+  "scope": [
+    {"item": "Design, Supply, Installation, Testing and Commissioning of Large Screen Monitoring (LED Video Wall), with 05 years warranty", "qty": null, "unit": null, "site": "National Data Centre, Deep Bhavan, Mumbai"}
+  ],
+  "money": {
+    "estimated_cost_inr": 22500000.0,
+    "emd_inr": 450000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by Demand Draft/FDR of any Nationalized Bank in favour of The Director of Lighthouses and Lightships, Mumbai, payable at Mumbai; EMD validity 90 days from publishing. MSEs registered with MSME/NSIC for similar works exempt from EMD with Bid Security Declaration Form (Annexure-I); medium enterprises with turnover above Rs 50 crore not exempt."
+  },
+  "period": {"completion": "90 days from the date of award of contract", "bid_validity": null, "warranty": "5 years"},
+  "dates": {"published": "2025-02-06", "pre_bid": "2025-02-19", "bid_submission_end": "2025-03-03", "bid_opening": "2025-03-04"},
+  "eligibility": [
+    "At least 5 years' experience in SITC of similar work",
+    "Similar works completed for Government of India/State Governments/PSUs/reputed firms during last seven years ending 31.12.2024: one work >= 80% of estimate (Rs 1.8 crore), or two works each >= 50% (Rs 1.125 crore), or three works each >= 40% (Rs 0.9 crore)",
+    "Similar work means design, supply, installation, testing and commissioning of display systems (Plasma/LCD/LED/Projector) or any other monitoring system for network operations, simulators, fleet view monitoring etc.",
+    "Agency must not be blacklisted by Central Govt., State Govt. or any departments or PSUs",
+    "Only Class-I and Class-II local suppliers eligible under Public Procurement (Preference to Make in India) Order 2017"
+  ],
+  "specs": ["LED video wall (Large Screen Monitoring) for National Data Centre", "05 years warranty"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Notice only (Section I); no technical specification or BOQ included. Pre-bid meeting remotely by e-mail or physically at Deep Bhavan. Bid submission 07.02.2025 15:00 to 03.03.2025 16:00; technical bid opening 04.03.2025 16:30. Listing gives no bid opening date. Note numbering starts at 2."
+}

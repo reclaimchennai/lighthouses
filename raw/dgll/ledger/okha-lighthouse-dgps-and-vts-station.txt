@@ -1,0 +1,220 @@
+                 मास्टर लेजर/ MASTER LEDGER
+क्रमसं                       नाम /Name
+ ख्या/                                                                     वििरण/ Discription
+Sr.No
+   1        ए.एल.ओ.एल/A.L.O.L.                                     : F.0388
+   2        स्थान/Position                                         : Lat 22˚28’34.87’ N
+                                                                     Long 69˚04’11.38’E
+   3       ऊंचाई/Elevation                                         : 26M
+   4     अविलक्षण/Characteristic                                   : Fl (3) W.25 sec.(Fl-1. 0.41, ec.
+                                                                   4.59, Fl-2.0.41, ec.4.59, Fl-3.
+                                                                   0.41, ec.14.59)
+   5     नॉविकल माइल मे दू री                               Luminous             : 25 NM
+         Range in miles                                     Geographical          : 15 NM
+   6     दीपस्तं ि िािर/L.H.Tower                           Square Masonry tower,Height: 23 M
+                                                            Color scheme Red and White
+                                                          alternate horizontal band
+  7      ऑप्टिकल उपकरण                                    Make: Chance Brother Ltd., U.K
+         Optical Equipment:-                              Size: 250 mm dia ( 4th order ) revolving
+                                                          No. of Panels 3 Area of dipodic portion:
+                                                          Corrected area 520 sq.cmArea of
+                                                          catadioptric portion: Corrected area
+                                                          2335 sq.cm Divergence: Main : 2⠁44’
+                                                          (Hori.), 6⠁09’ (Verti.) Emergency: 0⠁38’
+                                                          (Hori.),
+                                                           0⠁68’ ( Verti.) Duration: 5 sec.
+                    Pedestal                              : Mercury float (28.0 Kg. In use )
+                    Rotation device                       : 20 kg.cm stepper motor for direct drive
+                    R.P.M                                 2.4
+          प्रिािी बीम तीव्रता/ Effective beam intensity           : 3,86,400 cd
+
+   8        Input Voltage                                         : 230V
+   9        Type of light                                          150W CDMT lamp
+   10       Colour of Light                                       : White
+   11       Lantern
+           Diameter                                              : 2.16 Mtr.
+           Height of glazing                                     : 1.04 Mtr.
+           No. of panel                                          : 8 Nos
+           Entilators                                            : 7 Nos.
+   12       Energy source                                 Mains 440V / 230V, 3- phase, 50Hz
+                                                           Diesel engine generator set 2- nos 50 KVA
+                                                           30 kw on grid solar power , solar system
+                                                          date of
+                                                          commissioning 17/12/2016 Make by ALPHA
+   13      H.S.D storage tank
+          Nos                                            01
+          Capacity                                       120000 Ltr
+
+  14          No. of Standby diesel generators           2 Nos.
+                                                         Date of installation 10 Jul 2011
+  Type: Automatic
+  15    ---        Voltage Regulators,
+        03 nos. installed on 03.07.2017          Make : Servo Max
+                                                 Capacity: 15 KVA
+                                                 Input: 170 – 270 VAC
+                                                 Output: 230 VAC + /- 1%
+  16
+             Batteries:                          02 Nos starting battery for genset
+                                                 12v/130 Ah for both DG I& DG II .
+                                                 01No, 12v/100 Ah battery for Racon
+                                                 03 Nos ,12v/100 Ah battery for main light
+  17
+            Fire fighting equipments:            02 Nos 6.5kg CO2 Type
+                                                 Fire Buckets: 04 Nos
+  18                 Water Supply:                      water supply from Okha Nagar
+palika.
+                                                        Overhead tank 1000 litter
+capacity.
+                                                      60,000 litres capacity (U/G)
+                                                      Rain water harvesting tank –
+                                                 02Nos.
+
+  19                 Land:                       Area: 8.774 hectares,
+                                                 Demarcation : Stone masonry compound
+                                                 wall.
+                                                 No of fruit bearing
+                                                 trees                : Nil
+                                                 No of non-fruit bearing trees: 200 Nos
+  20                 Buildings                   Lighthouse Tower, VTS Tower,
+                                                 Inspection
+                                                 Quarter, AE quarter, NA-I quarter, NA-II
+                                                 quarter, NA-III quarter, RT quarter,02
+                                                 Nos
+                                                 LHA quarter, Driver quarter, Technical
+                                                 building, Power house, O2 NOS bouy
+                                                 Yard
+ 21         Compound street lights               11 poles
+ 22         Facilities available                 Police station, Post Office at 2 Km
+                                                 Highschool ½ Km, Dispensary2 Km.
+ 23                  DGPS (Differential Global Positioning System)
+          Beacon                                 Installed on 22 Mar 2018
+          Make                                   GR 30
+          Transmitter                            Nautel
+          Carrier Frequency                           300 KHz
+          Ultimate radiated power (ERP)               500 W
+          Reference No                                02
+          RS1 Station ID                              400
+          Rs2 Station ID                              401
+          Station ID                                  100
+          Transmission cycle                          Continuous
+          Keying                                      MSK
+ 24                                          Aerial
+          Type                                        Omni Directional T
+          Height                                      30 M
+          Power back -up system                       UPS 10 KVA & 3 KVA, Make: APC
+          Transmitter room cooling system             Air conditioning-03 Nos
+          Make                                        Voltas
+          Capacity                                    1.5 ton
+                                                      30 -10-1998
+          Date Commissioning
+                                                      21-03-2018
+          Recapitalized on                            GI     trestle tower
+          Aerial mast                                 Two
+          No of Aerial mast                           30 m
+          Height                                      Rs.2,36,23,829/-
+          Cost of Equipment                           May 2004
+          Date of Commissioning                       22/03/2018
+          Subsequent Innovations
+ 25                                          RACON
+          Make                                     Tideland, USA
+          Type of equipment                       Sea Beacon 2 system 6, Frequency agile
+          Frequency bandwidth                     Swept frequency in the band 9300 to 9500
+          Output pulse power                      MHz
+          Code                                    135 mA
+          Power supply                            “O “(---)
+          Mode of Charging                        12v, 100 Ah battery
+          Date of Installation                    Solar Panel, 35 Watt
+                                                  10-03-2004
+                                                   Assistant Engineer (E)
+          Address &Communication                      LighthouseVTS & DGPS Station
+ 26                                                   Okha Dist: Devbhumi Dwarka –
+                                                      361 350
+                                                      Email id: okhalighthouse@gmail.com
+ 27       Date of Commissioning                       15-08-1956
+
+                                 वी टी एस उपकरण/ VTS EQUIPMENTS:
+
+क्रम                        वििरण/ Discription                      Qty       Location
+संख्या/
+Sr.No
+    01. X- band Radar                                              01     Equipment
+        Scanner/ Antenna                                                  Room
+        (Make: Terma,
+        scanter2001)
+      02. S- band Radar Scanner/ Antenna (Make: Terma,    01    Equipment Room
+          scanter2001)
+      03. X- Band RADAR Transceiver                       02    Equipment
+                                                                Room
+
+      04. S- Band RADAR Transceiver                       02    Equipment
+                                                                Room
+      05. ACU (Both X and S)                              02    Equipment
+                                                                Room
+
+       06. CSET (Both X and S) (Make:                     04    Equipment
+           Kongsberg)                                           Room
+       07. RSD (Both X and S)                             02    Equipment Room
+           Make: Terma
+      08. UPS, on line, 3 Phase ,15 KVA (Make: Schinder   01    Equipment Room
+           Electric)
+ 09.      UPS, on line, 3 Phase ,10 KVA (Make: APC)       01    Equipment Room
+
+
+ 10.      Batteries for 15 KVA UPS (Make: APC,            32    Equipment Room
+          Capacity:12v/26Ah)
+
+
+ 11.      Batteries for 10 KVA UPS                        16    Equipment Room
+          Make: Amaron Quanta, Capacity:12v/42Ah
+
+ 12.      RFU/ODU                                         02    Equipment Room
+
+
+
+ 13.      Mini Microwave Link Unit (Make: Ericsson)       01    Equipment Room
+
+ 14.      VHF set (Make: Jotron)                          03    Equipment Room
+
+
+
+ 16.      RDF (Make: SERVO LIGHT)                         01    Equipment Room
+
+
+
+17.    KVM S/W (Make: ATEN)                                01               Equipme
+                                                                            nt Room
+18.    Rack Manager                                        01               Equipme
+       (Make: enter)                                                        nt Room
+
+19. CISCO Switch                                           01               Equipme
+    (Make: CISCO Catalyst 3560 Series)                                      nt Room
+
+20. Microwave Antenna                                      02                 VTS
+    (Make: Faini Telecommunication System,                                   Tower
+    Kathrein)                                                                   roof
+21. RF antenna for Okha PMS                                 01                 VTS
+                                                                              gallery
+22. RF antenna for Indian Navy (Okha)                       01                 VTS
+                                                                              gallery
+23. RF antenna for Okha Indian Coast Guard                  01                 VTS
+    (Okha)                                                                    gallery
+24. Air Conditioner                                         03               Equipme
+    (Make: 02                                                                nt Room
+    Nos.Bluestar&
+      01
+      Nos.Videocon)
+25. Lift: Inside the 60M high RCC radar tower l             01                 VTS
+    lift has been installed                                                   Tower
+    Make - Trio Elevators
+    Motor - 3-ɸ induction motor 5.5KW,
+    Capacity – 408 Kg
+    Speed 1m/sec
+
+26.                                               Assistant Engineer (E)
+      Address &Communication                      LighthouseVTS & DGPS Station
+                                                  Okha Dist: Devbhumi Dwarka –
+                                                  361 350
+                                                   Email id: okhalighthouse@gmail.com
+27. Date of Installation                          15-08-1956 Lighthouse
+                                                  13.02.2012 VTS
+

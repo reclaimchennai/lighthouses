@@ -1,0 +1,48 @@
+{
+  "nid": 2161,
+  "title": "Increasing the Height of Lighthouse tower from +15m Level to +21m Level to enhance the visibility at Olakuda Lighthouse, Rameswaram, under Chennai Directorate.",
+  "summary": "E-tender (percentage rate contract) to raise the lighthouse tower at Olakuda Lighthouse, Rameswaram, Tamil Nadu, from the +15 m to the +21 m level to improve visibility, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(18)/1/2021-Civil Maintenance; Tender ID 2025_DGLL_890246_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Olakuda Lighthouse, Rameswaram", "station_id": "olakuda-lighthouse", "kind": "lighthouse", "work": "Increase tower height from +15 m level to +21 m level"}
+  ],
+  "scope": [
+    {"item": "Increasing the Height of Lighthouse tower from +15m Level to +21m Level to enhance the visibility", "qty": null, "unit": null, "site": "Olakuda Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 6775433.0,
+    "emd_inr": 135510.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of any scheduled/nationalized bank in favour of Director of Lighthouses and Lightships, Chennai, payable at Chennai; validity stated as three months (table) and 90 days (clause 1.1) from technical bid opening. Tender fee and EMD exempted for valid MSME/NSIC certificate; tender fee amount not printed."
+  },
+  "period": {"completion": "08 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-12-17", "pre_bid": "2025-12-31", "bid_submission_end": "2026-01-19", "bid_opening": "2026-01-20"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous body",
+    "Similar works completed in last seven years: three works each >= 40%, or two works each >= 50%, or one work >= 80% of estimated cost; only fully completed works with completion certificate; value enhanced at 7% simple per annum; certificates from officers below Executive Engineer not considered",
+    "Similar works: construction of lighthouse/any tall structure/high-rise building/compound wall/retaining wall/RCC high raised structure/RCC work, and repairs and civil maintenance of buildings",
+    "PAN/ITCC/GST registration",
+    "Average annual turnover on construction works (CA certified) at least 40% of estimated cost over last 3 consecutive financial years ending 31 March 2025",
+    "Key technical personnel for supervision and execution with qualification and experience",
+    "Unconditional tender undertaking (Annexure III), tender acceptance letter (Annexure II), affidavit of not being blacklisted",
+    "List of gazetted and non-gazetted relatives serving in MoPSW or DGLL; Make in India self-certification (Annexure VI); documents per Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2026-01-07", "change": "Last date for downloading bid documents and online submission extended from 07.01.2026 to 19.01.2026 15:00; bid opening moved from 08.01.2026 to 20.01.2026 15:00"}
+  ],
+  "documents": [
+    {"file": "NITOLAKUDA.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []},
+    {"file": "Olakudadateextn.pdf", "pages": 1, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section I NIT only; no BOQ or drawings. Original NIT schedule: download/submission 18.12.2025 10:00 to 07.01.2026 15:00, EMD up to 07.01.2026 15:00, opening 08.01.2026 15:00; dates above reflect the corrigendum extension. NIT table skips item number 5. Corrigendum signed by Deputy Director for Director."
+}

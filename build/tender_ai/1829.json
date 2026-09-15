@@ -1,0 +1,45 @@
+{
+  "nid": 1829,
+  "title": "Special Repair & Civil maintenance of Lighthouse Tower, Office building, IQ and Staff quarters etc at Kalingapatnam Lighthouse - reg.",
+  "summary": "E-tender for special repairs and civil maintenance of the lighthouse tower, office building, inspection quarters and staff quarters at Kalingapatnam Lighthouse, Andhra Pradesh, issued by the Kolkata Directorate.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kalingapatnam Lighthouse", "station_id": "kalingapatnam-lighthouse", "kind": "lighthouse", "work": "Special repair and civil maintenance of tower, office building, IQ and staff quarters"}
+  ],
+  "scope": [
+    {"item": "Special Repair & Civil maintenance of Lighthouse Tower, Office building, IQ and Staff quarters etc", "qty": null, "unit": null, "site": "Kalingapatnam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4601277.45,
+    "emd_inr": 92100.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata, valid three months from technical bid opening; exemption not allowed; original EMD to reach office on or before last date of bid submission."
+  },
+  "period": {"completion": "120 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": null, "pre_bid": "2025-02-11", "bid_submission_end": "2025-02-19", "bid_opening": "2025-02-20"},
+  "eligibility": [
+    "Valid registration of appropriate class in appropriate category (building civil work) with Central Govt department/undertaking/autonomous body or State Govt",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; value updated at 7% simple per annum",
+    "Similar works: repairs & maintenance or construction of any type of building (RCC or masonry)",
+    "Valid PAN card and GST registration",
+    "Notarized affidavit (2025) of not being blacklisted or debarred",
+    "Undertaking that price bid is unconditional",
+    "Income Tax returns for FY 2021-22, 2022-23, 2023-24",
+    "Signed Tender Acceptance letter; other documents per Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITKalingapatnam.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer uses mis-mapped glyphs; English portions complete"]}
+  ],
+  "confidence": "high",
+  "notes": "NIT only (printed pages 3-6); no reference number, issue date or BOQ. Bid document download 30/01/2025 11:00 to 19/02/2025 15:00; technical bid opening 20/02/2025 16:00. Hindi text says original EMD to reach within 7 days of technical bid opening, English says by last date of bid submission. Kalingapatnam is listed under Kolkata directorate."
+}

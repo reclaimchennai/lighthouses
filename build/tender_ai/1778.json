@@ -1,0 +1,43 @@
+{
+  "nid": 1778,
+  "title": "Special Repair and Civil Maintenance of Lighthouse, Staff Quarters and Modification of Group-D Quarter at Baruva Lighthouse",
+  "summary": "E-tender for special repairs and civil maintenance of the lighthouse and staff quarters and modification of the Group-D quarter at Baruva Lighthouse, Andhra Pradesh, issued by the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Baruva Lighthouse, Andhra Pradesh", "station_id": "baruva-lighthouse", "kind": "lighthouse", "work": "Special repair and civil maintenance of lighthouse and staff quarters; modification of Group-D quarter"}
+  ],
+  "scope": [
+    {"item": "Special Repair and Civil Maintenance of Lighthouse, Staff Quarters and Modification of Group-D Quarter", "qty": null, "unit": null, "site": "Baruva Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3412237.66,
+    "emd_inr": 68300.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata, payable at Kolkata, valid three months from technical bid opening; exemption not allowed; original to reach office by last date of bid submission. Tender fee Nil."
+  },
+  "period": {"completion": "180 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-11-07", "pre_bid": "2024-11-21", "bid_submission_end": "2024-11-28", "bid_opening": "2024-11-29"},
+  "eligibility": [
+    "Valid registration of appropriate class in appropriate category (building civil work) with Central Govt department/undertaking/autonomous body or State Govt",
+    "Similar works in last 7 years: three works each >= 40% of estimated cost, or two >= 50%, or one >= 80%; values enhanced at 7% simple per annum; client certificates required",
+    "Similar works: repairs & maintenance or construction work of any type of building (RCC or masonry)",
+    "Valid PAN and GST registration",
+    "Notarised affidavit (2024) of not being blacklisted or debarred; undertaking that price bid is unconditional",
+    "ITR for FY 2021-22, 2022-23 and 2023-24; tender acceptance letter; other documents per Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITbaruva.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled (font mojibake); English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "NIT only (printed pages 3-6); no BOQ. No file/reference number or NIT date printed; download period 07/11/2024 15:00 to 28/11/2024 15:00. Bidders requested to visit site before quoting. Kolkata Directorate tender for a station now listed under Kolkata in station list."
+}

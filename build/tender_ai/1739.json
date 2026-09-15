@@ -1,0 +1,49 @@
+{
+  "nid": 1739,
+  "title": "Quotation Enquiry for Supply of various water pumps with starters to Lighthouses (Hazira, Wasi Borsi, Tarapur, Uttan, Rajapur Bay) under Mumbai Directorate",
+  "summary": "Notice inviting sealed quotations for supply of submersible and monoblock water pumps with starters to Hazira, Wasi Borsi, Tarapur, Uttan Point and Rajapur Bay Lighthouses (Mumbai Directorate).",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "EM-Mum-01001/1/2020-Electrical; I/63928/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Hazira Lighthouse & DGPS Station, Choryasi, Surat, Gujarat", "station_id": "hazira-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Supply of 1 no. 3-phase 2 HP submersible pump with starter"},
+    {"name": "Uttan Point Lighthouse, Bhayander, Thane", "station_id": "uttan-point-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Supply of 1 no. 3-phase 2 HP submersible pump with starter"},
+    {"name": "Wasi Borsi Lighthouse, Borsi Machhiwad, Navsari, Gujarat", "station_id": "wasi-borsi-lighthouse", "kind": "lighthouse", "work": "Supply of 1 no. 1-phase 1 HP open-well submersible pump and 1 no. 1-phase 1 HP monoblock pump with starters"},
+    {"name": "Rajapur Bay Lighthouse, Madban, Rajapur, Ratnagiri", "station_id": "rajapur-bay-lighthouse", "kind": "lighthouse", "work": "Supply of 1 no. 1-phase 1 HP bore-well submersible pump with starter"},
+    {"name": "Tarapur Lighthouse, Ghivali, Palghar", "station_id": "tarapur-point-lighthouse", "kind": "lighthouse", "work": "Supply of 2 nos. 1-phase 1 HP monoblock pumps with starters"}
+  ],
+  "scope": [
+    {"item": "Supply of 1-phase 1 HP submersible pump (bore well) with starter (Make Crompton/Kirloskar/Texmo)", "qty": "1", "unit": "Nos.", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Supply of 1-phase 1 HP submersible pump (open well) with starter (Make Crompton/Kirloskar/Texmo)", "qty": "1", "unit": "Nos.", "site": "Wasi Borsi Lighthouse"},
+    {"item": "Supply of 1-phase 1 HP monoblock pump with starter (Make Crompton/Kirloskar/Texmo)", "qty": "3", "unit": "Nos.", "site": "Tarapur (2), Wasi Borsi (1)"},
+    {"item": "Supply of 3-phase 2 HP submersible pump with starter (Make Crompton/Kirloskar/Texmo)", "qty": "2", "unit": "Nos.", "site": "Hazira (1), Uttan (1)"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Rates inclusive of all taxes. 90% payment after completion, 10% after 15 days satisfactory working. Quantity may change at work order. Quotes by e-mail rejected."
+  },
+  "period": {"completion": "10 days from receipt of work order", "bid_validity": "at least three months from date of quotation", "warranty": "1 year from final acceptance"},
+  "dates": {"published": "2024-09-10", "pre_bid": null, "bid_submission_end": "2024-09-16", "bid_opening": null},
+  "eligibility": [
+    "Valid PAN and GST number"
+  ],
+  "specs": [
+    "3-phase 2 HP submersible pumps: discharge head minimum 30 m",
+    "1-phase 1 HP open-well submersible: discharge head minimum 10 m; 1-phase 1 HP bore-well submersible: discharge head 30 m",
+    "Brands accepted: Crompton/Kirloskar/Texmo; warranty 1 year"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ for Supply of submersible Pumps.pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Quotations to reach DLL Mumbai 'by PM 16.09.2024' (time not specified). Annexure-I lists consignee station staff names with mobile numbers ([personal contact removed]). Listing title 'NIQ for Supply of Various Water Pumps'; listing opening 2024-09-17 not printed in document."
+}

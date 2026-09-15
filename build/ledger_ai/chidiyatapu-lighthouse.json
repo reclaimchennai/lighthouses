@@ -1,0 +1,41 @@
+{
+  "slug": "chidiyatapu-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Chidiyatapu Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2009,
+  "alol": "F 1210.5",
+  "position": {"lat_text": "11° 28.80'N", "lon_text": "92° 42.66'E", "lat": 11.48, "lon": 92.711},
+  "elevation_m": 50,
+  "characteristic_text": "Fl (2) W 10 Sec. fl 0.8,ec 1.2, fl 0.8, ec 7.2",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "fl 0.8, ec 1.2, fl 0.8, ec 7.2",
+    "sequence_s": [0.8, 1.2, 0.8, 7.2],
+    "flash_duration_s": 0.8
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 10, "geographical_nm": null, "text": "10 NMiles (unlabelled range)"},
+  "tower": {"type": "Composite Masonry tower", "height_m": 15, "colour_scheme": "Black and White bands"},
+  "optic": {
+    "make": "MSM", "model": "MBL 160 LED lantern", "type": "LED Flasher", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Rotation Device: White Flashing Light; R.P.M. NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "12 V LED cluster"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "- NA-"},
+  "ais": {"present": false, "text": "NAIS base station fields empty; only 'VSAT Antenna Prodelin 2.4 meter' listed"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar plant 70 W x 01 mono crystalline, 12V/120AH battery; mains, standby and engine fields blank"},
+  "issues": []
+}

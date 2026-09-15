@@ -1,0 +1,168 @@
+                                मास्टर लेजर/MASTER LEDGER
+
+
+
+
+                                  हरनई दीपस्तंभ /Harnai Lighthouse
+क्रमसंख्या/              नाम /Name
+   Sr.No                                                                वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.              F0564
+    2         स्थान/Position                  Lat. 170 48.53’N
+                                              Long. 730 05.36’E
+
+    3         ऊंचाई/Elevation                 29 m
+    4         अभिलक्षण/Characteristic         fl R 05 Sec. (Fl 0.5 )
+    5         नॉटिकलमाइलमेदरू ी               i) Luminous-08Miles               :
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower          Type                           White missionary tower
+                                              Height                         10 m
+                                              Colour Scheme                  White
+    7         ऑप्टिकलउपकरण                    Optic                          Model-LED 350-2NR
+              Optical equipment
+                                              Make                           MG Nickon, (Finland)
+                                              Type
+                                              Size
+                                              No. of lens / No. of panels
+
+                                              Area of dioptric portion
+                                              Area of catadioptric portion
+                                              Divergence
+                                              Main/Emergency
+                                              Duration of Flash
+                                              Main /Standby/Emergency
+
+                                              Lamp changer
+                                              Pedestal                       GI pipe stand
+                                              Rotation Device                RedFlashing Light
+                                              R.P.M.                         NA
+                                              Illuminant                     LED Light
+                                              Main
+                                              Standby
+                                              Emergency:
+                                              Date of Installation
+    8                                         Main & Standby
+     प्रिािीबीमतीव्रता/Effective beam      Emergency
+     intensity
+9    लेंिनन/Lantern                        Diameter
+                                           Height of glazing
+                                           No. of panes
+                                           Ventilators
+10   RACON
+     Make                   Model          Code                          Band                    Date of
+                                                                                                 Installation
+     ----                   ----           ----                          ----                    ----
+11   NAIS
+     Base Station                          -N/A-
+
+     Make & Model           Type           Power                           MMSI
+     ----                   ----           ----                            ----
+     Communication
+     Equipment
+     VSAT Antenna:          Band :         Modem:
+
+     DGPS
+     Trasmitter Make        Frequency      Power Output        RS 1 ID     RS -II     Beacon       Date of         Dat
+                                                                           ID         ID           commis          e
+                                                                                                   sioning         of
+                                                                                                                   Re
+                                                                                                                   ca
+                                                                                                                   pit
+                                                                                                                   aliz
+                                                                                                                   ati
+                                                                                                                   on
+
+
+12   ऊर्ानकेसाधन/Source     Mains
+     of energy              Mains
+                            Standby                                        -N/A-
+                            Engine 1
+                            Make/Type               Qty        Rating      No of          RPM               Coolin
+                                                                           Cylinder                         g
+                            ----                    ----       ----        ----           ----              ----
+                            Alternator
+                            Make/Type               Qty        Rating      Voltage/A      Frequency         Phase
+                                                                           mp
+                            ----                    ----       ----        ----           ----              ----
+                            Engine 2: -N/A-
+                            Make/Type               Qty        Rating      No of          RPM               Coolin
+                                                                           Cylinder                         g
+
+                            Alternator: -N/A-
+                            Make/Type               Qty        Rating      Voltage/A      Frequency         Phase
+                                                                           mp
+
+
+                            Solar Plant:                                   Solar Panels
+                               Capacity PV             Numbers                Type        Battery           Bank
+
+                               Solar Plant for Main RACON
+                               Capacity PV            Numbers                 Make/Type   Battery           Bank
+
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                   Model             Capa     Input                  Output      Phase             Qty
+                                              city
+
+14   बैिरर
+     Batteries
+     Equpment               Type              Make      Volt                  Amp/Hr      Qty
+     PSS NAIS               Main Light        SMF       12V                               02 Nos
+                                              Exide     100AH
+     Genset
+     Automation
+     DGPS
+15   बैिररचार्नर/ Battery charger
+
+     Equipment              Make              Model Type                      Rating      Qty
+     General Purpose
+     Automation
+16   इंवटट रInverter /UPS
+     Equipment Nos          Make      Model          Type       Rating        Qty         input             output
+     Main Light
+     NAIS PSS
+     DGPS
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE       PLC                  HMI          Power Supply           VSAT          Modem       Band
+                Telemecanique        Schneider    Powerex                Tata Net      Sky-        Ex-C
+                                                  Engineering                          Edge
+18   आप्ननशमनउपकरण                            Type of Extinguisher       Capacity        Nos         Make
+     Fire Fighting Equipment
+
+
+
+
+19   संचार / Communication                                                                ------
+
+20   र्लपर्ू तन
+     Water Supply
+21   िभू म                                    Area
+     Land
+                                              Demarcation
+22   इमारतें                         Quarters
+     Buildings
+23   कंपाउं डलाइि
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera
+      CCTV CAMERA                    DVR
+25   स्िाफ                           Unmanned Lighthouses
+     Staff
+26   पहुँचनेकामाध्यम                 . Harnai Lighthouse is located near Harnai Port. Harnai is a
+     Mode of approach                village in Dapoli C,D. block, in Ratnagiri District, Maharashtra
+                                     in Western India. Harnai Lighthouse is approachable from
+                                     Dapoli by road which is approximately 16 Kms. The nearest
+                                     railway station is Khed.
+
+27   उपलब्धसविधाए                    Marine Police Station
+     Facilities available            Dispensary
+                                     High School
+                                     Post office
+28   डाकपताPostal address            Harnai Lighthouse
+                                     At/ P.O. Harnai,
+                                     Tal/Dapoli, Dist. Ratnagiri , Pin – 415713
+29   मल्ू यकाब्योराCost details
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक
+     Date of commissioning           . Date of Installation of New LED Flashing Light   : 12.07.2018
+

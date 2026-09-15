@@ -1,0 +1,47 @@
+{
+  "nid": 1696,
+  "title": "Design, Supply, Installation, testing and commissioning of 01 number, 13 passengers (884 Kg) machine room less Lift with SS Glass Cabin at Pulicat DGNSS Station.",
+  "summary": "Percentage-rate e-tender to design, supply, install, test and commission one 13-passenger (884 kg) machine-room-less lift with stainless-steel glass cabin at Pulicat DGNSS Station, Tiruvallur district, Tamil Nadu.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(33)/1/2024-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Pulicat DGNSS Station, Pulicat, Tiruvallur Dist, Tamilnadu", "station_id": "pulicat-lighthouse-and-dgps-station", "kind": "DGNSS", "work": "Design, supply, installation, testing and commissioning of a machine room less lift with SS glass cabin"}
+  ],
+  "scope": [
+    {"item": "Design, Supply, Installation, testing and commissioning of 13 passengers (884 Kg) machine room less Lift with SS Glass Cabin", "qty": "01", "unit": "number", "site": "Pulicat DGNSS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 10441203.0,
+    "emd_inr": 208830.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. Tender fee NIL in the table (though the Tender Fee and EMD paragraph refers to 'Fee as per NIT' by DD). EMD by DD/FDR of any scheduled/nationalised bank in favour of Director of Lighthouses and Lightships, Chennai, payable at Chennai, valid three months from technical bid opening; originals by 07.08.2024 15:00."
+  },
+  "period": {"completion": "10 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-07-15", "pre_bid": "2024-07-31", "bid_submission_end": "2024-08-07", "bid_opening": "2024-08-08"},
+  "eligibility": [
+    "Open to lift manufacturing agencies without joint venture, or regular civil engineering contractors in joint venture consortium with a lift manufacturer",
+    "(A) Lift manufacturer with valid licence/registration from state CEIG or other state/central licensing authority and experience in fabrication/erection of steel structural towers for lifts and lift installation to minimum 30 m height; OR (B) contractor with valid registration in appropriate category & class with CPWD/State PWD/Railways/MES/BSNL etc. in JV with a lift manufacturer",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two >= 50%, or one >= 80%; only fully completed works with completion certificate; values enhanced at 7% simple per annum; certificates below Executive Engineer rank not considered",
+    "Similar works: fabrication and erection of steel structural tower for lift and installation of lift to minimum 30 m height, and any civil engineering works (RCC towers, steel structures, buildings, bridges, dams, water tanks); lift manufacturer's (second party) experience counted; second party to submit manufacturing licence / CEIG certificate",
+    "PAN/ITCC/GST registration; bank solvency certificate from a scheduled bank for 40% of estimated cost",
+    "Average annual financial turnover on construction works (CA certified) at least 30% of estimated cost over last 3 financial years ending 31 March 2023; P&L and audited balance sheets for past five years",
+    "Income tax returns and sales tax clearance for last three years; litigation/blacklisting information for last 5 years; key personnel; list of tools & plants and shuttering materials",
+    "Tender acceptance letter (Annexure II); unconditional bid undertaking (Annexure III); non-blacklisting affidavit; list of relatives in MoPSW/DGLL; Make in India self-certification (Annexure VII); documents per Section IX technical evaluation criteria"
+  ],
+  "specs": [
+    "Machine room less lift, 13 passengers (884 kg), SS glass cabin"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITPulicatlift.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled (font mojibake); English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "Section-I NIT only; no BOQ or lift specification beyond the title. e-Office stamp I/60704/2024. Download/submission 16.07.2024 18:00 to 07.08.2024 15:00; pre-bid 31.07.2024 15:00; opening 08.08.2024 15:00. Turnover and balance-sheet years end 31 March 2023 although NIT is dated July 2024."
+}

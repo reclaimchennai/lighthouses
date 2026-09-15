@@ -1,0 +1,43 @@
+{
+  "nid": 1561,
+  "title": "Procurement of Metal Halide Lamps, Lamp Holders and Electronic Ballasts for Various Lighthouses",
+  "summary": "Notice inviting sealed quotations for supply of metal halide lamps (35-150 W), lamp holders and electronic ballasts for various lighthouses, delivered to Deep Bhavan, Cochin, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-02016/1/2019-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "35 W metal halide lamp, single ended, day white, preferably Osram/Philips/Havells or equivalent", "qty": "03", "unit": "Nos", "site": null},
+    {"item": "70 W metal halide lamp, single ended, day white, preferably Osram/Philips/Havells or equivalent", "qty": "06", "unit": "Nos", "site": null},
+    {"item": "150 W metal halide lamp, single ended, day white, preferably Osram/Philips/Havells or equivalent", "qty": "14", "unit": "Nos", "site": null},
+    {"item": "150 W metal halide lamp, double ended, day white, preferably Osram/Philips/Havells or equivalent", "qty": "104", "unit": "Nos", "site": null},
+    {"item": "150 W double ended metal halide lamp holder", "qty": "104", "unit": "Nos", "site": null},
+    {"item": "35/70/150 W double ended metal halide lamp holder", "qty": "23", "unit": "Nos", "site": null},
+    {"item": "Electronic ballast for 35 W metal halide lamp, preferably Osram/Philips/Havells or equivalent", "qty": "02", "unit": "Nos", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate or EMD printed. Basic cost and taxes to be shown separately. L1 on consolidated total. 100% payment within 30 days of satisfactory supply. Delivery to Deep Bhavan, Cochin including loading, unloading and freight."
+  },
+  "period": {"completion": "Supply within 30 days from date of supply order", "bid_validity": "60 days from date of opening of quotations", "warranty": null},
+  "dates": {"published": "2024-04-02", "pre_bid": null, "bid_submission_end": "2024-04-16", "bid_opening": "2024-04-16"},
+  "eligibility": [
+    "Reputed OEMs or authorized suppliers, licensed electrical contractors, parties, shops or Government undertakings",
+    "PAN card and GST registration certificate to be submitted with quotation"
+  ],
+  "specs": ["Metal halide lamps day white, single/double ended, 35/70/150 W; reputed make conforming to Indian standards"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ for MH Lamp for various LHs (1).pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": ["Hindi portions of OCR text layer garbled; English read"]}
+  ],
+  "confidence": "high",
+  "notes": "NIQ with scope, terms and schedule (rates blank); individual lighthouses are not named. Download 02.04.2024 09:00 to 16.04.2024 15:00; submission 02.04.2024 14:00 to 16.04.2024 15:00; opening 16.04.2024 16:00. Terms and schedule heading omit 'Electronic Ballasts' from the work name. Listing has no bid opening date."
+}

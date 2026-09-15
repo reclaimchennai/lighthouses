@@ -1,0 +1,94 @@
+                                  मास्टर ले जर/MASTER LEDGER
+ क्रमसं
+  ख्या/                  नाम /Name                                                 वििरण/Description
+Sr.No
+  1       ए.एल.ओ.एल/A.L.O.L.                               F-0749
+  2       स्थान/Position                                   Latitude 11o 41.8˝N , Longitude72o 43.1˝ E
+  3       ऊंचाई/Elevation                                  36 M (Above MSL)
+  4       अविलक्षण/Characteristic                          Fl (3) White 30 Sec
+  5       नॉविकल माइल मे दू री
+                                                           17.16 Nm
+          Range in miles
+                                                           Type                        G I trestle tower
+     6    दीपस्तं ििािर/L.H.Tower
+                                                           Height                     30 M
+
+                                                           Colour Scheme              Black and White Band
+                                                           Optic                      MBL-160
+                                                           Make                       MsM, Spain
+     7    ऑविकल उपकरण                                      Type                       LED Flasher
+          Optical equipment                                Illumining
+                                                           Main                       High-intensity power LED 6W
+                                                           Standby                    Nil
+                                                           Date of Installation       10.03.2011
+     8    प्रिािी बीम तीव्रता/Effective beam               Main
+          intensity                                        Emergency
+      9   लें िनन /Lantern                                 NIL
+     10   RACON                                            NIL
+     11   NAIS: NIL
+          DGPS: NIL
+                                          Mains                                       230V,3 phase AC Supply
+                                         Emergency Power Source                       NIL
+     12   ऊर्ान के साधन/ Source         Solar Plant: NIL
+          of energy                                                                                Battery
+                                        Capacity PV                 Numbers           Type
+
+          Solar panel for Main light    70 W/12V                    01 No                          02 Nos, 12V/100Ah
+          Solar panel for Automation
+          panel
+                                        250W/ 24V                   02 Nos                         02 Nos, 12V/200Ah
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्रAutomatic Voltage Stabilizers: NIL
+          बैिररBatteries
+          Equipment                    Type                Make      Volt             Amp/Hr                 Qty
+          Main Light                   GEL                 Exide     12V              100 Ah                  2
+14
+          Automation panel             SMF                 Exide     12V              200Ah                   2
+
+15        बैिरर चार्न र/ Battery chargers: NIL
+16        इं वर्ट र Inverter /UPS: NIL
+          स्वचलन उपकरण/ Automation Equipment
+     17   MAKE           PLC             HMI                  Power Supply        VSAT              Modem               Band
+
+                                                                                  1.2m dia
+                                         Renu
+          RDS            Micrologix                           24 V DC             Parabolic         Hughes
+                                         Electronics
+                                                                                  reflector
+                                         PVT LTD
+                                                       Type of Extinguisher       Capacity          Nos         Make
+18        आवि शमन उपकरण                                Co2                        4.5 kg                  2     Flameblitz
+          Fire Fighting Equipment                      Map 90                     2 kg                    2     Flameblitz
+                                                       Map 90                     4 kg                    2     Flameblitz
+          संचार
+19                                                     BSNL land line: 04899 276315
+          Communication
+     20   र्ल पूवतन
+                                                       01 No Open well, and rainwater collection sump 3000Ltrs provided.
+          Water Supply
+     21   िू वम                                        Area
+          Land                                         Demarcation                                  Masonry compound wall
+
+          इमारतें                                      1. Two storied buildings consisting of the Navigational Assistant quarter
+22        Buildings                                    and Inspection quarter
+                                                       2. Equipment room at tower bottom
+                                                       3. Coil hut
+                                                       4. Twin quarters of LHAs
+                                                       5. Power house and office building
+     23   कंपाउं ड लाइि
+                                                       LED street lights 10Nos
+          Compound Lights
+     24   सीसीिीिी कमे रा/ CCTV CAMERA                 Nil
+     25   स्टाफ/ Staff                                 One outsourced LHA
+     26   पहुँ च ने का माध्यम                          By Ship from Kochi
+          Mode of approach
+
+     27   उपलब्ध सुविधाए                               Post office, Govt Hospital, Primary school, High School, and Police
+          Facilities available                         Station are available on Kadamat Island.
+
+                                                       Lighthouse Attendant,
+28        डाक पताPostal address                        Kadamat Lighthouse, Kadamat island,
+                                                       UT of Lakshadweep, 680 556
+     29   मू ल्य का ब्योराCost details
+     30   प्रितनन मे लाने का दे नां क
+          Year of commissioning                          1984
+

@@ -1,0 +1,160 @@
+                      Nizampatnam Lighthouse
+                            Estd.2004
+                    VISAKHAPATNAM DIRECTORATE
+                          MASTER LEDGER
+
+1.   Name                       : NIZAMPATNAM LIGHTHOUSE
+     Sr.No.
+2.                              : 0952.95
+     (as per A.L.O.L)
+                                  Lat: 15o 53.02' N
+3.   Position                   :
+                                  Long: 80o 38.30' E
+4.   Elevation                  : 35.83 Mtr above MSL
+                                    Flash White, every 5Seconds
+5.   Characteristic
+                                    (Fl 0.5 + ec4.5 = 5 sec.)
+
+6.    Range in nautical miles
+      i) Luminous               : 23.0 NM
+      ii) Geographical          : 17 NM
+7.    Lighthouse Tower
+      i) Type                   : Circular R.C.C. Tower by SLIP FORM
+      ii) Height                : 30 Mtr
+      iii) Colour Scheme        : Red & White bands
+8.    Optical Equipment
+a)    i) Make                   : M/s ANA Navaids Ltd, New Delhi
+                                  413 mm diameter
+      ii) Size                  :
+                                  (Height 272 mm & width 160 mm)
+      iii)Focal distance        : 413 mm
+      iv) No. of Panels         : 8 panel "Fresnel" Lens.
+      v) Divergence
+           Main                 : Horizontal 4.560, Vertical 7.220
+      vi)Duration of flash
+                                    3" G.I pipe with top & Bottom
+b)    Pedestal                  :
+                                    3/8" M.S round plates welded
+      Rotation Device              : Stepper motor 7 kg-cm - 1 Nos.
+c)
+                                     (Gearless drive)
+d)    Rotation Speed               : 1.5 RPM
+e)    Illuminant
+      i) Main/Service              : 150 W/230V Metal Halide Lamp
+      ii) Standby                  : Nil
+      iii)Emergency           : Nil
+f)    Effective Beam Intensity
+      i) Main/Service              : 3,92,857 candelas.
+      ii) Standby                  : Nil
+      iii) Emergency               : Nil
+
+9.    Lantern
+      i) Diameter              : 2.40 Mtr
+      ii) Height of glazing    : 1.40 Mtr
+      iii) No. of panes        : 12 Nos.
+    iv) Ventilators            : 11 Nos.
+10. Energy Source
+      A) APCPDCL Mains         : 230 V AC, 1 Phase, 50 Hz
+      B) Green Energy          : 0.9KW off grid solar power plant for main light.
+         i)     Solar panels   : 6 No 24V/150W( TATA B.P make)
+         ii)    Battery
+                               : 12 No 2V /900Ah (TATA B.P Tubular)
+                Bank
+         iii)   PCU/UPS        : TATA SOLAR MPPT Make 1 KVA /24 V UPS.
+
+      No. of Standby Diesel        Kirloskar Engine ,20.5 BHP,1500 RPM,
+11.                         :      Sl. No.0.2.2129/1320078
+      Engine
+
+                                   Kirloskar Alternator, 15 KVA, 1500RPM,
+12. Details of Alternator      :   Sl. No.CSIBO13D1403-H
+
+
+      Automatic Voltage
+13.                                : 1 No. (U/s)
+      Stabilizers
+        Make                       : Supra- hitech
+       Model                   : SH-390
+       Capacity                : 09 KVA, 3 phase
+       Input                   : 310-450V
+       Output                  : Adjustable to 380-415 V
+14. Automation of Lighthouse.
+     i) Make                      : M/s Recktronic Devices & Systems, Pune.
+    ii) RDS Panel                 : 1No. in power house.
+    iii) RDS Panel                : 1No. Service room.
+    iv) V-SAT Dish Size           : 1.2 Mtr dia
+    v) Date of commissioning      : 24/02/2013
+                                    i) G.I Poles with 25W LED light fitting - 4 Nos.
+15. Street Lights                 :     1 No. in front of Power House without post.
+                                    ii) Gate Light CFL - 2 Nos.
+
+16. Regulated Power supply      : 2 Nos.
+      Make                      : M/s Aplab Ltd. Thane.
+       Input                    : 230 V AC
+       Output                   : 0 - 30 V DC, 0 - 20 A
+       Model Number             : L-3220
+
+
+17. Firefighting equipment
+    Fire Extinguishers
+    i) D.C.P. type
+                              : 4 Nos.
+        (ABC Type)
+    ii) Foam type
+                              : 2 Nos.
+          (9 litres capacity)
+    (10 Fire Buckets          : 4 Nos.
+
+                               Telephone No. --
+    Communication
+18.                          : NA-I Mobil No:9676763515
+    Facility
+                               e-mail : nizampatnam-vizag@dgll.nic.in
+                                 i)    Rain water collecting tank – 30000ltrs
+19. Water Supply               : ii)   Panchayat water supply pumped by 1 HP
+                                       motor to overhead tank at individual quarter.
+
+20. Land
+      i) Area                  : 725 Sq. meter
+      ii) Demarcation          : Masonry Compound wall of 8 feet height
+      iii)No. of fruit trees   : 5 Nos.
+      iv) No.of non fruit
+                               : 10 Nos.
+          bearing Trees
+
+                                 One unit of Power House, Store & Office Room.
+                                 in ground floor and LHA &LHS quarter in First
+                                 floor.
+21. Buildings                  :
+                                 Twin unit of one NA I and one NA II quarters in
+                                 ground floor and Inspection quarters & one NA III
+                                 quarters in First floor
+
+22. Staff                      : NA II - 1 No. ii) LHA-1 No vacant
+
+                                   By Rail up to Bapatla and then by bus up to
+23. Mode of approach           :
+                                   Lighthouse about 35 kilometers by road.
+
+24. Facilities available       : a) Post Office within 6 km (Nizampatnam)
+                                   b) Govt. Hospital within 7 km (Nizampatnam)
+                                   c) Govt. School within 5 km (Nizampatnam)
+                                   d) Nationalized Bank within 5 km (Nizampatnam)
+
+25. Postal Address             : The Navigational Assistant Grade I,
+                                   Nizampatnam Lighthouse,
+                                   Nizampatnam M.D post,
+                                   Batatla Dist. Andhra Pradesh, Pin: 522 314.
+26.   Cost Details
+
+      i) Construction          : Rs. 4,53,80,000/-
+      ii)Cost of equipment   : Rs. 22,50,000/-
+
+      Date of
+27.                          : 2nd July 2004
+      Commissioning
+
+      Subsequent
+28.                          : 2022
+      Innovation
+

@@ -1,0 +1,40 @@
+{
+  "nid": 1749,
+  "title": "Special Civil Maintenance to Lighthouse Tower and allied buildings including improvement of Internal Roads/Pathways and provision of Bio-toilets at Kuthenkuli Lighthouse in Chennai Directorate.",
+  "summary": "Corrigendum extending the last date for a civil maintenance tender covering the lighthouse tower, allied buildings, internal roads/pathways and bio-toilets at Kuthenkuli Lighthouse, Chennai Directorate.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(24)/1/2020-Civil Maintenance; Tender ID 2024_DGLL_820371_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhawan, 5/20 Jaffar Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kuthenkuli Lighthouse", "station_id": "kuthenkuli-lighthouse", "kind": "lighthouse", "work": "Special civil maintenance to tower and allied buildings, improvement of internal roads/pathways, provision of bio-toilets"}
+  ],
+  "scope": [
+    {"item": "Special Civil Maintenance to Lighthouse Tower and allied buildings", "qty": null, "unit": null, "site": "Kuthenkuli Lighthouse"},
+    {"item": "Improvement of Internal Roads/Pathways", "qty": null, "unit": null, "site": "Kuthenkuli Lighthouse"},
+    {"item": "Provision of Bio-toilets", "qty": null, "unit": null, "site": "Kuthenkuli Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": null
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": "2024-09-26", "bid_opening": "2024-09-27"},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-09-20", "change": "Bid document download and online submission extended up to 26.09.2024 15:00; bid opening 27.09.2024 15:00"}
+  ],
+  "documents": [
+    {"file": "EXTKuthenkuliCM24III.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only a date-extension corrigendum is attached (file name suggests third extension); no NIT, cost or EMD. Same tender (Tender ID 2024_DGLL_820371_1) appears as nid 1737 with the earlier extension of 09-09-2024."
+}

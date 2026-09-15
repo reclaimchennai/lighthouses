@@ -1,0 +1,40 @@
+{
+  "nid": 2097,
+  "title": "Provision of Power Supply, DG set and Servo Stabilizer for Elevator at Beypore Lighthouse",
+  "summary": "E-tender for power supply works, a DG set and a servo stabilizer for the elevator at Beypore Lighthouse, Kerala, tendered by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-02077/1/2024-Admin; I/87392/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Beypore Lighthouse", "station_id": "beypore-lighthouse", "kind": "lighthouse", "work": "Power supply, DG set and servo stabilizer for elevator"}
+  ],
+  "scope": [
+    {"item": "Provision of Power Supply for Elevator", "qty": null, "unit": null, "site": "Beypore Lighthouse"},
+    {"item": "DG set for Elevator", "qty": null, "unit": null, "site": "Beypore Lighthouse"},
+    {"item": "Servo Stabilizer for Elevator", "qty": null, "unit": null, "site": "Beypore Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2506414.0,
+    "emd_inr": 50128.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR from any Nationalised/RBI approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam; original EMD by 17.11.2025 15:00 (one day before bid submission end). Small Scale Industries with valid NSIC/MSME certificate exempt from EMD."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-10-27", "pre_bid": "2025-11-06", "bid_submission_end": "2025-11-18", "bid_opening": "2025-11-19"},
+  "eligibility": [
+    "Reputed OEMs or their authorized suppliers, licensed electrical contractors, parties or Government undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITBeypore.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section 1 NIT only; no BOQ, DG set rating or completion period. Bid download/submission 04.11.2025 11:00 to 18.11.2025 15:00; technical bid opening 19.11.2025 16:00. Notice calls itself a short tender notice in note 4."
+}

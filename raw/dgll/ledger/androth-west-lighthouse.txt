@@ -1,0 +1,110 @@
+                              मास्टर ले जर/MASTER LEDGER
+क्रमसं               नाम /Name
+ ख्या/                                                                    वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.                0755.2
+   2     स्थान/Position                    Lat.10° 48.8’ N , long 73° 39.7’ E
+   3     ऊंचाई/Elevation                   15m
+   4     अविलक्षण/Characteristic           Fl (W) 15sec
+
+  5      नॉविकल माइल मे दू री              11.3NM
+         Range in miles
+  6      दीपस्तं ि िािर/L.H.Tower          Type                            Circular Tapering CCTower
+                                           Height                          10m
+                                           Colour Scheme                    White band
+  7      ऑविकल उपकरण                       Optic
+         Optical equipment                 Make                            Sealite
+                                           Type                            Fasher unit (LED)
+                                           Size
+                                           No. of lens                     Single assembly
+                                           Area of dioptric portion
+                                           Area of catadioptric portion
+                                           Divergence                      Fasher unit, make – sealite, 65 w (LED)
+                                           Main/Emergency
+                                           Duration of Flash
+                                           Main /Standby/Emergency
+                                           Pedestal                        The flasher unit is fitted on top of the pedestal
+                                                                           stand made of G.I pipe
+                                           Rotation Device
+                                           R.P.M.
+                                           Illumining                      155-2D5-W,65 W (LED – flasher unit)
+                                           Main                            65wLED
+                                           Standby
+                                           Emergency:
+                                           Date of Installation            17.03.2022
+  8      प्रिािी बीम तीव्रता/Effective     Main
+         beam intensity                    Emergency
+  9      लें िनन /Lantern                  Diameter
+                                           Height of glazing
+                                           No. of panes
+                                           Ventilators
+ 10      RACON                                  Sr. No                     II-X-201607-02
+         Make                    Model     Code                            Band                         Date of
+                                                                                                        Installation
+
+ 11      NAIS                    NA
+ 12      ऊर्ान के साधन/          Mains                                     230v, 1 phase, 50Hz(Electricity Supply)
+         Source of energy        Power Source
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make                    Model           Capacity      Input                   Output                Phase        Qty
+
+14        बैिरर
+          Batteries
+          Equipment               Type            Make                  Volt            Amp/Hr     Qty
+          Main Light              Solar gel       Exide                 12 v            100 AH     02 nos
+          PSS NAIS
+          Genset
+          Automation
+
+     15   बैिरर चार्न र/ Battery charger
+
+          Equipment               Make            Model         Type                    Rating     Qty
+          General Purpose
+          Automation                                  ---                ----
+     16   इं वर्ट र Inverter /UPS
+          Equipment Nos           Make        Model             Type                    Rating     Qt    input                Output
+                                                                                                   y
+          Main Light     01       Su- Kam     Shiny             Pure sine wave          900VA      01    12V DC &230 AC       230 AC
+          NAIS PSS            -       -           -                    -                   -                  -                  -
+                                                                                                   -
+          DGPS       -       -          -                       -                       -          -     -                    -
+                    -       -           -                       -                       -          -     -                    -
+     17   स्वचलन उपकरण Automation Equipment
+
+          MAKE           PLC                HMI              Power Supply            VSAT          Modem          Band
+          NA
+     18   आविशमनउपकरण                             Type of Extinguisher               Capacity      Nos             Make
+          Fire Fighting Equipment                 MAP (90,02kg)                      02 kg         01              FlameBiltzz
+     19   संचार Communication                     NA
+
+     20   र्ल पूवतन Water Supply                  NA
+     21   िू वम                                   Area                                             1140 Sqm
+          Land                                    Demarcation
+     22   इमारतें Buildings                       RCC Structure: 01 No                             Circular Tapering CCTower with
+                                                                                                   battery room
+                                                  Timber Construction above plinth
+                                                  level
+     23   कंपाउं ड लाइि                           Gate Light fitted on main gate -02 nos
+          Compound Lights
+     24   सीसीिीिी कमे रा                         Camera
+           CCTV CAMERA
+     25   स्टाफ                                   Sl. No                 Designations
+          Staff
+                                                  1                      The station in charge of the east lighthouse also holds the
+                                                                         charge of the west lighthouse.
+                                     2
+26   पहुँ चने का माध्यम              we are going and coming to the lighthouse is of private land from main
+     Mode of approach                road
+27   उपलब्ध सुविधाए                  A littile away from the lighthouse is the FCI godown located and its
+     Facilities available            front main ring road.
+28   डाक पताPostal address           Postmaster office
+                                     Androth Island
+                                     Lakshadweep - 682551
+
+29   मू ल्य का ब्योराCost details    N/A
+     (At the time of Construction)
+30   प्रितनन मे लाने का दे नां क     1975
+     Date of commissioning
+

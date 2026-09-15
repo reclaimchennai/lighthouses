@@ -1,0 +1,54 @@
+{
+  "nid": 2111,
+  "title": "Hire charges for boat of length of 50' and above including dingy for trip \"Agatti - Suhelipar - Valiyakkara - Agatti\"",
+  "summary": "Notice inviting sealed quotations from registered Lakshadweep boat owners for hiring a 50 ft or longer boat with dinghy for DLL staff trips from Agatti Island to Suhelipar/Cheriyakara and Valiyakkara Islands and back, for lighthouse maintenance (Kochi Directorate); one-year contract extendable by two years.",
+  "category": "vessels & vehicles",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-03012/1/2019-MS; I/87573/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Agatti Island / Agatti Lighthouse", "station_id": "agatti-lighthouse", "kind": "lighthouse", "work": "Trip start/end point; quotation forms issued and submitted to Station In-charge"},
+    {"name": "Suhelipar", "station_id": "suhelipar-lighthouse", "kind": "lighthouse", "work": "Boat trip destination with night stay for DLL maintenance staff"},
+    {"name": "Valiyakkara", "station_id": "valiyakara-lighthouse", "kind": "lighthouse", "work": "Boat trip destination for DLL maintenance staff"},
+    {"name": "Cheriyakara", "station_id": null, "kind": "other", "work": "Boat trip destination (alternative to Suhelipar)"}
+  ],
+  "scope": [
+    {"item": "Boat trip Agatti Island to Cheriyakara/Suhelipar, Valiyakkara and back (including 1 night stay), boat 50 ft and above with dinghy, fuel, crew (min. 4), VHF, GPS, life-saving appliances", "qty": null, "unit": "Per Trip", "site": null},
+    {"item": "Halting charge (additional night) including provision for food rations/fresh water", "qty": null, "unit": "Per night", "site": null},
+    {"item": "Food charges per official per day (3 times), for 04 to 09 DLL officials per trip", "qty": null, "unit": "Per Day", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "Performance Bank Guarantee Rs 10,000 (DD/FDR from nationalised/RBI approved bank, payable at Ernakulam) within 10 days of award, valid for contract period + 60 days",
+    "notes": "Rates to be quoted separately for 1st, 2nd and 3rd year, all-inclusive (fuel, oil, lubes, crew, dinghy); no mobilisation charges; no escalation. TDS 1% (individual/proprietor) or 2% (firm/company); 20% if PAN not linked with Aadhaar. Director may empanel more than one provider at L1 rates."
+  },
+  "period": {"completion": "Contract initially 1 year, extendable by another 2 years on yearly basis", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-11-03", "pre_bid": null, "bid_submission_end": "2025-12-04", "bid_opening": null},
+  "eligibility": [
+    "Registered boat owners in UT of Lakshadweep",
+    "Valid registration and certificate for operation of boats; layout plan, specifications and survey/classification certificates to be furnished",
+    "Boat length 50 ft and above with dinghy; canopy, wheel house with bed, life jackets, life buoys, anchor, fire extinguishers, first aid box, wash room; VHF and GPS",
+    "Crew with experience visiting Suhelipar/Cheriyakara/Valiyakkara islands; minimum 4 crew on board",
+    "Valid PAN (linked with Aadhaar), GST registration and bank account details"
+  ],
+  "specs": [
+    "Boat of length 50 ft and above, accompanied by dinghy",
+    "VHF radio, GPS, life jackets and high-quality life-saving appliances",
+    "Minimum two days at Cheriyakara/Suhelipar/Valiyakkara for maintenance activities; embarkation/disembarkation from department vessels MV Sagar Deep II and MV Indira Point when required"
+  ],
+  "corrigenda": [
+    {"date": "2025-11-26", "change": "Corrigendum II: last date for sealed quotations extended to 04.12.2025 17:00; quotations may be submitted to Station In-charge Agatti Lighthouse / Kavaratti Lighthouse or to the Director, DLL Kochi"}
+  ],
+  "documents": [
+    {"file": "Notice Inviting Quotation Agatti.pdf", "pages": 6, "read": "mixed", "language": "bilingual", "unreadable": []},
+    {"file": "CORRIG_II_DATE EXT_BOAT HIR_AGATTI TO SUHELI.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Original NIQ dated 03.11.2025: forms 04.11.2025 to 19.11.2025, submission by 19.11.2025 17:00. Corrigendum II references a Corrigendum (I) dated 19.11.2025 that is not among the listing documents. T&C clause 27 gives a stale contact window 23.10.2024 to 02.11.2024 (likely copied from a previous year). Annexure-I asks for owner's name and mobile number (form field only). No estimate or EMD printed."
+}

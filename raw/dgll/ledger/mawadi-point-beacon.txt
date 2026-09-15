@@ -1,0 +1,51 @@
+                  मास्टर लेजर/ MASTER LEDGER
+ क्रम                   नाम /Name
+संख्या/                                                         वििरण/ Discription
+Sr.No
+    1.       ए.एल.ओ.एल/A.L.O.L.          : 0378
+
+
+   2.        स्थान/Position              : Lat    22º 37.2' N
+                                         Long 69º 58.3' E
+
+   3.        ऊंचाई/Elevation                       5 Meter
+   4.     अविलक्षण/Characteristic        : Fl (R) 10Sec. (1 + 9 = 10Sec)
+
+   5.     Visibility sector              360º
+   6.     नॉविकलमाइलमे दूरी              a) Luminous       : 5NM at T=0.74
+          Range in miles                 b) Geographical : 7NM
+   7.     दीपस्तं ि िािर/L.H.Tower       a) Type: White pyramidal concrete tower, red
+                                         bands
+
+
+                                         b) Height                : 8 Meter
+                                         c) Colour Scheme         : White – red band
+
+
+   8.            ऑप्टिकल उपकरण           a) Optic :
+          Optical Equipment:-            i)       Make            : Sealite, Australia
+           Type of Light (LED Flasher)
+                                         ii)      Model           : SL125
+                                         iii)     Colour          : Red
+                                         iv)      Type of flasher: Marine LED Flasher
+                                         v)       Duration of flash               : 1 Second
+                                         vi)      Divergence (Vertical) : 9º
+                                         vii) Divergence (Horizontal) : 360 º
+                                         b) Pedestal              : M.S Angle Iron
+                                         c) Illuminant     : High Intensity LED
+                                         d) Max. Effective Beam Intensity         : 500
+                                         Candela
+
+   9.            Energy Source           Solar power light
+
+
+   10.           Land                    At the North-East of Pirotan Is. lighthouse
+
+
+   11.           Mode of approach        By boat up to Pirotan Island. After low tide by
+                                         walk 3km.
+12.   Postal address          C/o Asst. Engineer
+                              RCS Dhuvav
+                              Jamnagar – 361120
+13.   Year of commissioning   1958
+

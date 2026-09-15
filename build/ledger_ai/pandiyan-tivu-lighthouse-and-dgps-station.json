@@ -1,0 +1,41 @@
+{
+  "slug": "pandiyan-tivu-lighthouse-and-dgps-station",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Pandiyan Tivu Lighthouse and DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1980,
+  "alol": "F 0734",
+  "position": {"lat_text": "8° 47.1' N", "lon_text": "78° 11.9' E", "lat": 8.785, "lon": 78.198333},
+  "elevation_m": 49.5,
+  "characteristic_text": "Flashing white every 10sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 21, "geographical_nm": null, "text": "21NM (unlabelled single range)"},
+  "tower": {"type": "Circular tower", "height_m": 45.7, "colour_scheme": "Black and White spiral Band"},
+  "optic": {
+    "make": "J.Stone & Co.", "model": null, "type": "3rd order small", "size": "375mm", "order": "3rd order small",
+    "panels": 2,
+    "rotation_device": "20 kg/cm Stepper motor",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: 20 kg/cm Stepper motor; R.P.M. 3; pedestal on journal and thrust bearings",
+    "divergence_horizontal_deg": 7.2,
+    "divergence_vertical_deg": 2.45,
+    "divergence_text": "7.20° (Horizontal), 2.45° (Vertical)",
+    "illuminant": "230V/150W Metal Halide Lamp, 3 Nos, Kwicklite ballasts"
+  },
+  "intensity_cd": 177127,
+  "racon": {"present": true, "code": "O", "text": "Tideland SeaBeacon 2, Sr. No 6187, Code O, X-BAND/S-BAND, installed 26.09.2004"},
+  "ais": {"present": true, "text": "2 Nos AIS1 & AIS2, R40 Class A, AC-230V & DC-12V, Sr. No 5334, 5243"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 3Ph 440V 50Hz; standby 2 x Kirloskar 20 KVA gensets; 25 KW on-grid solar (100 x 250 W Delta); 70 W/12V solar panel for RACON"},
+  "issues": ["No. of lens printed as '2 each of 180' without unit"]
+}

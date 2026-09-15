@@ -1,0 +1,80 @@
+                    मास्टर लेजर/ MASTER LEDGER
+क्रमसंख्या/                नाम /Name                      वििरण/Description
+Sr. No
+    1.                ए.एल.ओ.एल/A.L.O.L.         0384
+    2.                   स्थान/Position          Lat 22º 26.3' N
+                                                 Long 69º 35.2' E
+     3.                ऊंचाई/Elevation           27 Meter
+     4.             अविलक्षण/Characteristic      Fl (3W) in 15Sec
+                                                 (0.75 + 2.25)2 + 0.75 + 8.25 =
+                                                 15Sec
+     5.               नॉविकल माइल मे दू री       a) Luminous : 12 NM at T=0.74
+                         Range in miles          b) Geographical:13NM
+     6.                  Visibility sector       360º
+     7.              दीपस्तंि िािर/L.H.Tower      a) Type: White round stone tower
+                                                  b) Height: 20 Meter
+                                                  c) Colour Scheme: White
+     8.                   ऑप्टिकल उपकरण          Marine LED Lantern
+                         Optical Equipment           a) Make: NavAids Pvt Ltd, Delhi
+                                                     b) Model: NE-9A is a Three-Tier
+                                                        Lantern
+                                                     c) Colour filter if any: N/A
+                                                     d) Type of flasher: High Intensity
+                                                        LED Lantern, NE-9
+                                                     e) Duration of flash: 0.75
+                                                        Second
+     9.               सौर पैनल/Solar Panel       01 nos. 125W Solar panels, make -
+                                                 LOOM Solar installed on old solar
+                                                 panel frame for charging main light
+                                                 battery through NavAid Energy,
+                                                 DTLM12/2420LI-A MPPT charge
+                                                 controller installed on 17.09.2021
+    10                    बैिरी/Battery          SMF 12V100/AH 2Nos ,make :HBL ,
+                                                 Model: Optimuz installed on
+                                                 17.09.2021
+    11.                 Charge controller        MPPT Charge controller
+                                                 DTLM12/2420LI-A, Make: NavAids
+                                                 Pvt Ltd, Delhi installed on
+                                                 17.09.2021
+    A) Electrical Parameter of Light:
+
+               a) Operating Voltage: 12 DC
+               b) Range-11-14 NM @ 0.74
+               c) Lamp Source – High Power LED
+               d) Power- 15W
+               e) LED Life- up to 100000
+               f) Horizontal Divergence -360*
+               g) Vertical Divergence -8*
+          h) Sun Switch- Provided
+          i) Flasher- Programmable 256 Flash
+             Character as per IALA Standard
+          j) Color- White
+ B)   Mechanical Parameter of Lantern:
+
+        Body- Aluminum Alloy Cast Body LM6
+        Marine Grade
+        Lens Type/Dome- UV Stabilized
+        Polycarbonate
+        Weight- 10Kg approx.
+        Mounting-4/3 x 200mm PCD With M12
+        IP66/67/68 Standard
+12.     Pedestal                                    RCC Column over which 500MM
+13.     ILLUMINANT                                  High Intensity LEDs
+14.     MAX. Beam Intensity (cd)                    10,000Candela
+15.     Energy Source                               Solar Power Light
+16.     Fire Fighting Equipment                     Not provided
+17.     Communication                               By sea from Salaya
+18.     Water Supply                                Not Provided
+19.     LAND                                        (On Small Island off Salaya)
+        a) Demarcation: Located at Gulf of Kutch,
+        near Salaya village.
+20.     Buildings                                   3 roomed AC sheet roofing.
+21.     Whether attended or unattended              unattended
+22.     Mode of approach                            By sea
+23.     Facility available                          Nil
+24.     Postal address                              Directorate of Lighthouse &
+                                                    C/o. Mandvi lighthouse & RCS
+                                                    P.O Mandvi, Dist: Kutch
+25.     Year of commissioning                       1970,
+                                                    17.09.2021 for New Light
+

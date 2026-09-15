@@ -1,0 +1,3243 @@
+{
+  "head" : {
+    "vars" : [ "lh", "lhLabel", "coord", "height", "inception", "statusLabel", "dissolved", "focalHeight", "range", "charac", "adminLabel", "image", "enwiki" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10280110"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(73.773055555 15.492777777)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Aguada%20Goa.JPG"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aguada Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Goa"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20572565"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.7644132 8.6635193)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Anjuthengu%20lighthouse%20bottom%20view.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anjengo Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thiruvananthapuram district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1988-04-30T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 20s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "19"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24641208"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(77.5469712 8.081353)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Light%20House%20Kanyakumari%202.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kanyakumari Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kanniyakumari district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1971-11-04T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 20s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "63"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "29"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29048448"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(69.95222 22.60431)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse%20pirotan.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pirotan Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jamnagar district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1898-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 20s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "26"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "24"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "18"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29048448"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(69.95222 22.60431)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse%20pirotan.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pirotan Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gujarat"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1898-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 20s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "26"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "24"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "18"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29957232"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.825739 10.278271)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/PCWBS-lighthouse.JPG"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kodikkarai Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamil Nadu"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29959903"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(74.73675 13.22405)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Kaup%20beach%2C%20Udupi%2C%20Karnataka%2004.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kapu Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(3) W 20s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "24"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30039442"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(84.12174 18.34041)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Kalingapatnam%20light%20house%2003.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kalingapatnam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gara mandal"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(3) W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "35"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "25"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q32820402"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Kochi%20Old%20Lighthouse.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fort Kochi lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ernakulam district"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q32859730"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(87.863 21.7912)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Dariapur%20Lighthouse%20-%20East%20Midnapore%202016-06-18%204577.JPG"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dariapur Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deshapran community development block"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1968-01-01T00:00:00Z"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33130325"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Poompuhar%20lighthouse%20JEG6168.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poompuhar Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamil Nadu"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33981664"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(75.4851379 11.7473993)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Thalassery%20Light%20House%2C%20Kannur.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thalassery lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kannur district"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(3) W 9s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "10"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51523977"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(82.61835 17.295958333)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pentakota Light"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Payakaraopeta Mandal"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1957-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "18"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "15"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57496306"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(83.0029 17.48773)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pudimadaka Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Atchutapuram mandal"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1971-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "35"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57499110"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(83.292630555 17.676216666)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Dolphin%27s%20Nose%20Lighthouse%20-%20panoramio.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dolphin's Nose lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1940-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 10s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "173"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "32"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57500037"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(82.282705555 17.014516666)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vakalapudi Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "T. Narasapuram mandal"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1860-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(3) W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57517069"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.997658333 15.784733333)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nagayalanka Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nagayalanka mandal"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1858-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "24"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57517673"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.638352777 15.883686111)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nizampatnam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nizampatnam mandal"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 5s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "23"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57517810"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.4101131 15.7955961)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vodarevu Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bapatla district"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "25"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57517810"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.4101131 15.7955961)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vodarevu Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chirala"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "25"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57518137"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(84.594225 18.880580555)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baruva Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sompeta mandal"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "20"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57518237"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(83.637508333 18.066422222)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sanatapalli Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 10s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "23"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57518421"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(82.278263888 16.586933333)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sacramento Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 5s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "24"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57518490"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(81.725422222 16.316966666)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Narsapur Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "29"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57537322"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.109444444 14.746972222)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iskapalli Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iskapalli"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 10s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "15"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57537322"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.109444444 14.746972222)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iskapalli Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 10s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "15"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57537759"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.138 14.28575)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Krishnapatnam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttukuru mandal"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1940-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(3) W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "18"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57538249"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(83.455777777 17.89075)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bhimunipatnam Light house"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bheemunipatnam mandal"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1868-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 9s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "11"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "8"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85965761"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dhanushkodi Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ramanathapuram district"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85965761"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dhanushkodi Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamil Nadu"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q89104801"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(72.780666 19.278484)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Light%20house%20at%20Velankanni%20Beach%20Uttan%2001.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uttan Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thane district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1960-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "53"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "19"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108678539"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.830833333 11.916666666)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/New%20light%20house.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pondicherry lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pondicherry"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1979-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "48"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "46"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111721876"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chennai Lighthouse"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1796-01-01T00:00:00Z"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "99"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "25"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111721922"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chennai Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chennai"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1838-01-01T00:00:00Z"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "20"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "38"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111728210"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chennai Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chennai"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q135472811"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.462135307 9.140157)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Valiyazheekkal%20Lighthouse.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valiyazheekkal Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karthikappilly Taluk"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141181217"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.2052637 13.8950536)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Armagon Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kothapeta mandal"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1853-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl.W.15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "33"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "26"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "121"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141181217"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.2052637 13.8950536)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Armagon Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1853-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl.W.15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "33"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "26"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "121"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141194251"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.01095 12.275466666)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kadappakkam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chengalpattu district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(3) W 20s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "20"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "98"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141194251"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.01095 12.275466666)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kadappakkam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamil Nadu"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(3) W 20s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "20"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "98"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141223861"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.850555555 10.914055555)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Karaikal%20light%20house.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karaikal Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karaikal district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1992-09-12T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl (2) W 10s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "18"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "13"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141239964"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.8501055 10.7659325)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Nagapattinam1.JPG"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nagapattinam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamil Nadu"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1923-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl (2) W 20s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "48"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "26"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141247833"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.8689068 10.2937996)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Point%20Calimere%20Light%20Enroute%20173.png"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Point Calimere Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nagapattinam district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl (3) W 10s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "13"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "15"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141247833"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.8689068 10.2937996)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Point%20Calimere%20Light%20Enroute%20173.png"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Point Calimere Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamil Nadu"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl (3) W 10s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "13"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "15"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141256321"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.303733333 10.267683333)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mallipattinam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thanjavur district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-10-15T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 5s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "48"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141256321"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.303733333 10.267683333)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mallipattinam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamil Nadu"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-10-15T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 5s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "48"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141259667"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.22905 10.010816666)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ammapattinam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pudukkottai district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-10-09T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl (2) W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "19"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141259667"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.22905 10.010816666)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ammapattinam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamil Nadu"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-10-09T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl (2) W 15s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "19"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141263207"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.078633333 9.805033333)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Passipattinam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ramanathapuram district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-10-09T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl (3) W 10s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "19"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141263207"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.078633333 9.805033333)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Passipattinam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamil Nadu"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-10-09T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl (3) W 10s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "19"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141266595"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.330666666 9.317583333)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rameswaram Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ramanathapuram district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-10-15T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl (2) W 20s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "16"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "13"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141266595"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.330666666 9.317583333)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rameswaram Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamil Nadu"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-10-15T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl (2) W 20s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "16"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "13"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141320843"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(78.197 8.785616666)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pandiyan Tivu Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thoothukudi district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1980-04-28T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 10s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "48"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "28"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141341669"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(78.0656508 8.3729144)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manappad Point Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thoothukudi district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1888-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 10s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "23"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141431205"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(77.3166712 8.1244162)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Muttom%20Tamil%20Nadu.JPG"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttom Point Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kanniyakumari district"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1875-09-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 5s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "23"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141431205"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(77.3166712 8.1244162)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Muttom%20Tamil%20Nadu.JPG"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttom Point Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamil Nadu"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1875-09-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 5s"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "23"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22696416"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Minicoy_Island_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(73.02604 8.26933)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 15s (0.66 + 14.34)"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse%20worms%20eye.jpg"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49.5"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minicoy Island Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lakshadweep"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33127058"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Munroe_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.501993 9.530032)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1813-01-01T00:00:00Z"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%B4%AE%E0%B4%A3%E0%B5%8D%E2%80%8D%E0%B4%B1%E0%B5%8B%20%E0%B4%B2%E0%B5%88%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D%20%E0%B4%AA%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%82-%E0%B4%95%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%AF%E0%B4%82.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Munroe Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57516765"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Machilipatnam_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(81.233897222 16.248238888)"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(3) W 20s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Machilipatnam%20Light%20House%20at%20Manginapudi.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Machilipatnam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Machilipatnam"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "26"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57517972"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ramayapatnam_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.047925 15.049672222)"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 10s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Ramayapatnam%20Lighthouse.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ramayapatnam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ulavapadu mandal"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "35"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "26"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q119085590"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Honnavar_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(74.44278 14.2775)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 15s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Honnavar%20Lighthouse%2002.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honnavar Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "41"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q126085369"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Portonovo_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.7704575 11.5042708)"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Portonovo Lighthouse"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q135512476"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Veraval_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(70.353055555 20.911388888)"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 5s"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Veraval Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Veraval"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1424870"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kannur_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(75.4 11.9)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1903-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 10s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Click%20on%2015-03-2013.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cannanore lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1426089"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Alappuzha_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.321 9.4939)"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 15s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Alappuza%20Lighthouse2.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alappuzha lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5289636"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dolphin_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(72.835908 18.91431)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1850-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(4) WR 20s depending on direction"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dolphin Lighthouse"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6546309"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chennai_Lighthouse_(1977)"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.2795 13.0396)"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 10s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Chennai%20Lighthouse.jpg"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "45.72"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chennai Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chennai"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "57"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "28"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6546309"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chennai_Lighthouse_(1977)"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.2795 13.0396)"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 10s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Chennai%20Light%20House.jpg"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "45.72"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chennai Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chennai"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "57"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "28"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7116356"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Oyster_Rock_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(74.060576 14.820484)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1864-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 10s"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oyster Rock lighthouse"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7640412"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sunk_Rock_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(72.832562 18.889797)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1884-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) WR 6s"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sunk Rock Lighthouse"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13113490"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ponnani_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(75.917027 10.77801)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1937-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 15s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Ponnani%20light%20house%202.JPG"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ponnani lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13114877"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vypin_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.221599 9.998397)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1839-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(4) W 20s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Vypin%20Lighthouse%20IMG20230722124823.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vypin lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16137790"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Beypore_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(75.8058 11.1583)"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 15s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%B4%AC%E0%B5%87%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%82%E0%B5%BC%20%E0%B4%B5%E0%B4%BF%E0%B4%B3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B4%82%2002.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beypore Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16956772"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Prong%27s_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(72.79975 18.879238)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1844-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 10s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Bombay%20Harbour.%20Prong%27s%20Lighthouse%20-%2025%20April%201874.%20%2812488175835%29.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prong's Lighthouse"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18126946"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kovilthottam_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.524591 8.984719)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1953-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 5s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%B4%95%E0%B5%8B%E0%B4%B5%E0%B4%BF%E0%B5%BD%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%82%20%E0%B4%B5%E0%B4%BF%E0%B4%B3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B4%82.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kovilthottam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18126954"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kozhikkode_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(75.769189 11.25846)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1847-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 6s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%B4%95%E0%B5%8B%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8B%E0%B4%9F%E0%B5%8D%20%E0%B4%B5%E0%B4%BF%E0%B4%B3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B4%82%20%E0%B4%AA%E0%B4%9F%E0%B4%BF%E0%B4%9E%E0%B5%8D%E0%B4%9E%E0%B4%BE%E0%B4%B1%E0%B5%81%E0%B4%A8%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3%20%E0%B4%A6%E0%B5%83%E0%B4%B6%E0%B5%8D%E0%B4%AF%E0%B4%82.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kozhikkode lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18127656"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mahabalipuram_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(80.1918182 12.6152849)"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 10s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Mahabalipuram%20Lighthouse%2C%20India.jpg"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "26"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahabalipuram Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamil Nadu"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18127675"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mahe_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(75.530051 11.702161)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1893-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 10s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/MAHE%20LIGHT%20HOUSE.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahe lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18127759"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Manakkodam_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.2865 9.7483)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1979-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 10s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Andhakaranazhi%20Lighthouse.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manakkodam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "20"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18127759"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Manakkodam_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.2865 9.7483)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1979-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 10s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Andhakaranazhi%20Lighthouse.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manakkodam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "18.4"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18129155"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pamban_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.2186 9.2881)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1845-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(3) W 9s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Pamban%20lighthouse%2C%20Rameswaram.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pamban Lighthouse"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18164245"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pondicherry_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(79.835585 11.932972)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1836-01-01T00:00:00Z"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/New%20and%20old%20lighthouses%20-%20Pondichery.jpg"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pondicherry lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pondicherry"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18169253"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Azhikode_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.157863 10.203363)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1982-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(3) W 20s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Azhikode%20lighthouse.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azhikode lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18387166"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chetwai_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.0173 10.554)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(2) W 20s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%B4%9A%E0%B5%87%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%81%E0%B4%B5%20%E0%B4%B5%E0%B4%BF%E0%B4%B3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B4%82.%2004.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chettuva lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18387881"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tangasseri_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.565955 8.880661)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1902-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl(3) W 15s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Tangasseri%20Lighthouse.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tangasseri Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18388198"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kilakarai_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(78.785133333 9.227583333)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1979-10-02T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 15s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/KILAKARAI%20LIGHTHOUSE.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kilakarai lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ramanathapuram district"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "35"
+      },
+      "range" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "19"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18395643"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vizhinjam_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.979742 8.383072)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1972-01-01T00:00:00Z"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 15s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Vizhinjam%20Light%20House.jpg"
+      },
+      "height" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vizhinjam Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      },
+      "focalHeight" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "57"
+      }
+    }, {
+      "lh" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20575355"
+      },
+      "enwiki" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kadalur_Point_Lighthouse"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(75.637239 11.469055)"
+      },
+      "charac" : {
+        "type" : "literal",
+        "value" : "Fl W 5s"
+      },
+      "image" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Kadalur%20point%20lighthouse.jpg"
+      },
+      "lhLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kadalur Point Lighthouse"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerala"
+      }
+    } ]
+  }
+}

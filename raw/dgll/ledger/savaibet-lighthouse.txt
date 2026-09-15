@@ -1,0 +1,155 @@
+                        मास्टर लेजर/MASTER LEDGER
+
+                          सवाईबेट दीपस्तंभ / Savaibet Lighthouse
+
+क्रमसंख्या/             नाम /Name
+                                                                     वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.              F 0436
+     2        स्थान/Position                  Lat20° 54.2’N
+                                              Long 71° 31.5’E
+
+    3         ऊंचाई/Elevation                 45 M (Above MSL)
+    4         अभिलक्षण/Characteristic         Fl (4)W 30 sec.[(0.3+4.7)3+0.3 +14.7=30 sec.)
+    5         नॉटिकल माइल मे दरू ी            22.6NM
+              Range in miles
+    6         दीपस्तंि िािर/L.H.Tower         Type                           Square stone masonry tower
+                                              Height                         27M
+                                              Colour Scheme                  Red and white bands
+    7         ऑप्टिकलउपकरण                    Optic
+              Optical equipment               Make                           BBT
+                                              Type                           Revolving
+                                              Size                           250mm
+                                              No. of lens                    4
+                                              Area of dioptric portion       1110 sq.cm
+                                              Area of catadioptric portion   -
+                                              Divergence                     4°33’ (Horizontal)
+                                              Main/Emergency                 6°50’ (Vertical.)
+                                              Duration of Flash
+                                              Main /Standby/Emergency
+                                              Pedestal                       Mercury Float
+                                              Rotation Device                Stepper motor
+                                              R.P.M.                         2
+                                              Illumining
+                                              Main                           70W/230V MH lamp
+                                              Standby
+                                              Emergency:
+                                              Date of Installation           -
+    8         प्रिािी बीम तीव्रता/Effective   Main
+              beam intensity                  Emergency
+    9         लेंिनन/Lantern                  Diameter                       2.5m
+                                              Height of glazing              1.05m
+                                              No. of panes                   10
+                                            Ventilators                   09
+10   NAIS –NA
+
+     Base Station
+
+     Model                   Type           Power                         MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna            Band           Modem
+
+11   ऊर्ान के                Mains                                        -
+                             Power Source                                 DG Set 15 KVA make Kirloskar
+     साधन/Source of          Engine 1
+     energy                  Make/Type                Qty       Rating    No of         RPM            Coolin
+                                                                          Cylinder                     g
+                             Kirloskar                1         20.5 HP   2             1500           Air
+                             Alternator
+                             Make/Type                Qty       Rating    Voltage/Amp   Frequency      Phase
+                             Kirloskar                1         15 KVA    230V/65.2A    50Hz           Single
+                             Solar Plant
+                             Capacity PV              Numbers             Type          Battery        Bank
+                                                      12 Nos              Mono          96 V/400       01 No.
+                                                                          Crystalline
+                                                                                        AH*48
+12   स्िचाभलत िोल्िे र् स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                Model              Capa      Input               Output               Phase   Qty
+
+13   बैिरर
+     Batteries
+     Equipment           Type               Make      Volt                Amp/Hr        Qty
+       DG set             12V/100A           ,Am
+       starting           h                  ron
+                                             mak
+                                             e
+       Racon                   12V/100       Exi
+                               Ah,           de
+                                             mak
+                                             e
+14   बैिरर चार्नर/ Battery charger
+
+     Equipment           Make               Model     Type                Rating        Qty
+     General Purpose       ARGO                                           0-30V /               01
+                                                                          20 Amp.
+     Automation                                                 -
+15   इंवटट र Inverter /UPS
+     Equipme     Nos     Make     Model                     Type          Rating    Qty input        ou
+     nt                                                                                              tp
+                                                                                                     ut
+     Main          ---    UTL                ---                UPS       1KVA/12    2      12V      23
+     Light                                                                   V                       0V
+     NAIS PSS    01      APC                                    UPS                  1     230V      23
+                                                                                                     0V
+                 02      LUMIN                                  UPS                  1     230V      23
+                         AS                                                                          0V
+16   स्वचलन उपकरण
+     Automation Equipment
+     MAKE       PLC              HMI             Power Supply         VSAT           Mode Band
+                                                                                     m
+     RDS         Allen bradley                   220V                 -              Robu X-BAND
+                                                                                     stel
+17   आप्ननशमन उपकरण                       Type of Extinguisher        Capacity      Nos    Make
+     Fire Fighting Equipment              DCP Type                    4 kg          06
+                                          Water Co2                   -             -
+                                          Foam Type                   -             -
+18   संचार                                Not Available
+     Communication
+19   र्लपर्ू तन                           9 Nos. rain water collection tanks
+     Water Supply
+20   िूभम                                 Area                                      5.107 hectares
+     Land                                 Demarcation                               Compound wall on all
+                                                                                    the four sides
+21   इमारतें                              RCC Structure: 06 Nos
+                                                                                    Inspection qtr,
+     Buildings                                                                      power house,
+                                                                                    office ,
+                                                                                    store room,3 Nos
+                                                                                    of quarters
+                                          Timber Construction above plinth
+                                          level
+22   कंपाउं ड लाइि                        10 Nos. G.I. Poles fitted
+     Compound Lights                      with solar system
+                                                     system ,9w LED
+                                          lights Light
+
+
+
+
+                                                         Gate lights –
+                                     2 Nos. 10 Nos Solar LED
+                                     street Light
+23   सीसीिीिीकमेरा                   Camera
+      CCTV CAMERA                    DVR
+24   स्िाफ                           Sl. No         Designations
+     Staff                           1          Touring Station
+25   पहुँचने का माध्यम               5 km from Pipavav jetty by machine boat
+     Mode of approach
+26   उपलब्ध सविधाए                   Police Station, Post office, Custom station at Pipavav port,
+                                     5 km from Savaibet light house. Dispensary, High school,
+     Facilities available
+                                     Marketing etc. at Rajula 25 km. from light house
+
+
+
+27   डाकपताPostal address            Station Incharge,Savaibet Lighthouse, P.O. Shiyalbet,
+                                     Via-Rajula, Dist. Amreli., Pin-364 560
+28   मूल्य का ब्योराCost details     3,36,000/-
+     (At the time of Construction)
+29   प्रितनन मे लाने का टदनांक       31-3-1967
+     Date of commissioning
+

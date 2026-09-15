@@ -1,0 +1,44 @@
+{
+  "slug": "saiyad-rajpara-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Saiyed Rajpara Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1960,
+  "alol": "F 0430-6",
+  "position": {"lat_text": "20º 47.5' N", "lon_text": "71º 12.3' E", "lat": 20.791667, "lon": 71.205},
+  "elevation_m": 24,
+  "characteristic_text": "Fl (W) 5Sec. (1 + 4 = 5Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": "1 + 4 = 5Sec",
+    "sequence_s": [1, 4],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 12, "geographical_nm": null, "text": "12 NM (unlabelled range)"},
+  "tower": {"type": "Stone column and hut", "height_m": 5, "colour_scheme": "White"},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": "Optical equipment section left blank",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "RACON section empty"},
+  "ais": {"present": false, "text": "NAIS – : only 'VHF & GPS Antenna' and 'CISCO Router 2900' listed; no base station model/MMSI"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": null, "generator": null, "text": "Mains 440V/3-phase/50 Hz; engine and solar plant (off grid system) rows blank"},
+  "issues": [
+    "Optical equipment and effective beam intensity sections are blank",
+    "NAIS section lists VHF & GPS antenna and CISCO Router 2900 but no AIS base station details"
+  ]
+}

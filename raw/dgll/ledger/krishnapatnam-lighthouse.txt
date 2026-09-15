@@ -1,0 +1,410 @@
+                    Krishnapatnam Lighthouse
+                            Estd.1940
+                      MASTER LEDGER
+
+                                   KRISHNAPATNAM LIGHTHOUSE cum
+1.   Name                      :   D.G.P.S. STATION
+     Sr.No.
+2.                             : 0952
+     (In A.L.O.L)
+                                 Lat: 14o 17'8.44” N
+3.   Position                  :
+                                 Long: 80o 08’16.44' E
+4.   Elevation                 : 35 m. above MSL
+                                   Flash (3) White every 15 Sec.
+5.   Characteristic                (FL0.48Sec. +ec2.02+Fl0.48
+                                   ec2.02 sec+ Fl0.48 +9.52sec)
+6. Range in nautical miles
+       i)        Luminous    : 18 NM
+      ii)   Geographical : 16 NM
+7. Lighthouse Tower
+      i)    Type         : Hexagonal RCC Tower
+       ii)  Height           : 30 Mtr
+       iii) Colour
+                             : Black & White bands
+            Scheme
+8. Optical Equipment
+       a) Optic
+       i) Make               : Stone Chance, India
+       ii)Size               : 300 mm (4th order large) Revolving
+       iii)  No. of Panels : 6 Nos.
+       iv)   Area of
+             dipodic       : 137 sq cm
+             portion
+       v)    Divergence
+          Main/Service     : Horizontal 50 44', Vertical 20 52'
+       vi) Duration of flash
+         Main              : 0.48 seconds
+
+
+                                                                    Page 1 of 10
+              Emergency          : ---
+
+b) Pedestal                      : Ball bearing type
+                                   Twin stepper motor Direct drive system.
+c) Rotation Device               :    i)     Stepper motor : 2 no 20KG-cm (Unique
+                                              make)
+                                      ii)     Controller: 2 no 20Kg-cm (Unique make)
+d) Rotation Speed                : 2 RPM
+e) Illuminant
+        i)        Main/Service : 150W MH Lamp - 3 nos. (cluster)
+
+
+
+f)   Effective Beam Intensity
+        i)        Main/Service : 9, 39,500 cds.
+
+
+9. Lantern
+        i)        Diameter       : 2.4 Mtr
+        ii)      Height of
+                                 : 1.38 Mtr
+                 glazing
+        iii)      No. of panes   : 12 Nos.
+        iv)       Ventilators    : 8 Nos.
+
+10. Energy Source
+         A) APSPDCL Mains : 440 V, 3 phase, 50 Hz
+                              3KW off grid solar power plant for main light in
+         B) Green Energy    :
+                              Lighthouse premises.
+         i)    Solar panels : 12 No 36V/250W( Renewsys make)
+         ii)   Battery
+                            : 12 No 12V /150Ah (Exide SMF)
+               Bank
+         iii)  Inverter     : HBL Make 3KVA /48Vdc
+
+     C) Green Energy             : 15KW on grid solar power plant in DGPS
+                                   premises
+               i) Solar panels   : 60 Nos. 36V/250W(Empire make)
+
+
+
+                                                                        Page 2 of 10
+                                             Delta Make 15KVA /32.5V DC
+                 ii) PCU Inverter        :
+                                             Model: RPI-15A
+
+11.            Diesel Engine Generators
+       S.                                                      No. Of              Cooling        Place of
+                   Engine No          Make /Type      HP                  RPM
+      No.                                                     Cylinder                          installation
+          1.    03.8906/1820483    Kirloskar HA394   32 BHP    3 Nos.     1500    Air Cooled         DGPS
+          2.    03.8901/1620326    Kirloskar HA394   32 BHP    3 Nos.     1500    Air Cooled         DGPS
+          3.    02.2129/ 1320075   Kirloskar HA294   19 BHP    2 Nos.     1500    Air Cooled          LH
+
+
+12. Details of Alternator
+       S.                                                                                                Place of
+                          Frame              Make      KVA    voltage    Freq.    Phase        RPM
+       No                                                                                              installation
+      1           CS3B017H13163-H        Kirloskar 25.0 230 V 50                 3Phase 1500                DGPS
+                                                              Hz
+      2           CS3B016H19220-H        Kirloskar 25.0 230 V 50                 3Phase 1500                DGPS
+                                                              Hz
+      4               CBIB01D1413-4      Kirloskar 15.0 230 V 50                 Single        1500          LH
+                                                              Hz
+
+       Automatic Voltage
+13.                                     : 3 Nos. connected in DGPS
+       Stabilizers
+         i) Make                        : SURVOMAX
+               Type                     : SERVO
+               Capacity                 : 15 KVA, single phase
+               Input                    : 170 V – 270 V
+        Output                           : 220 V to 230 V
+  date of installation                 : 31/3/2018
+
+          ii) Make                      : Supra hitech – 1 No connected in Lighthouse
+          Model                         : SH-3150
+          Capacity                      : 15 KVA 3phase
+          Frequency                     : 50 Hz
+          Input                         : 360-470 V
+          Output                        : 415 V ± 1%
+
+
+
+                                                                                          Page 3 of 10
+  date of installation    : 14/7/2022
+
+14.   AMF Panel
+        Make                 : Elect India- 2 Nos.(1 in DGPS,1 in LH)
+        Model                : REV EMF 50 A – SPC -2 nos.
+        Capacity             : 20 KVA, 3 phase
+
+
+15.   Automation of Lighthouse Equipments with RCS
+        i)    RDS Control Panel in
+                                       : 1No.( s.no.102941162)
+              power House
+        ii)   RDS Control Panel in
+                                       : 1No.( s.no.102944743)
+              Service room
+        iii)  V-Sat Dish size          : 1.2 mtr. dia
+        iv)   HP Desktop
+              Computers with RDS
+              Software                 : 2 Nos.
+        v)    Date of Installation
+              2013
+16.   Differential Global Positioning System (DGPS)
+      A. Reference Station : (RS-1) S. No.17023 P/N: EDRS-MK I
+       Comprising of
+             a) GR 30 professional GNSS reference receiver. (Made in Switzerland)
+                Sl. No-1705505
+             b) MSK modulator SL. NO: 17C003023 with rack mountable Chassis
+                Sl. NO: 17023.
+             c) AR 20 GNSS Choke ring antenna SR. No. 19336009 (MADE IN USA)
+      B. Reference Station : (RS-2) Sr.No17024 P/N: EDRS-MK I
+         Comprising of
+        a) GR 30 professional GNSS reference receiver. (Made in Switzerland)
+           Sl. No- 1705506
+        b) MSK modulator SL. NO: 17C003024 with rack mountable Chassis
+           Sl. NO: 17024
+        c) AR 20 GNSS Choke ring antenna SR. No. 19336010 (MADE IN USA)
+      C. Integrity Monitor : Sr.No17023., P/N: EDIM-MK I
+         Comprising of
+
+
+
+                                                                    Page 4 of 10
+   a) GR 30 professional GNSS reference receiver. (Made in Switzerland)
+      Sl. No- 1705516
+   b) Demodulator SL.NO. 17C001023
+   c) GEODETIC Antenna AS 10 S/NO: 16471073 ( MADE IN CANADA)
+   d) Beacon Antenna    A031
+                      :
+      Hemisphere MD     B1644-01871-01-067
+
+  D. Integrity Monitor : Sr.No.17024, P/N: EDIM-MK I
+ Comprising of
+  a) GR 30 professional GNSS reference receiver. (Made in Switzerland)
+      Sl. No- 1705401
+ b) Demodulator SL.NO. 17C001024
+ c) GEODETIC Antenna AS 10 S/NO: 16471074 ( MADE IN CANADA)
+ d) Beacon Antenna    A031
+                    :
+    Hemisphere MD     Sl. No: B1644-01871-01-075
+
+E. RS Changeover
+                       : P/N: EMS50-RB, SL.NO: 174098B7012
+   unit
+
+F. MOXA N PORT
+   Serial Device       : SL.No: 5650-16
+   Server
+   G. CISCO switch     : SL. NO: DNI2138071C
+H. Transmitter: (VRD750 Dual)
+     Make             : M/s Nautel INC, USA
+    Serial No.         : B395
+    Operating
+                       : 297 KHz
+    frequency
+    Power output       : 500 W
+    Input power        : 230 V, 50 Hz, Single phase
+
+
+I. Un interrupted Power supply:
+   i)    M/s APC make 10 KVA ON line UPS (MODEL NO. : SRC 10 KUXI ;
+         S/NO: B21622000217 for transmitter with 12V/42AH Amaron make
+         Lead Acid maintenance free battery 16nos.
+
+
+                                                              Page 5 of 10
+      ii) M/s APC make 3 KVA ON line UPS (MODEL NO. : SRC 3 KUXI) S/NO:
+          B21645009329 for DGPS with 12V/42AH EXIDE make Lead Acid
+          maintenance free battery 6 Nos.
+   J. AUTOMATIC TUNING UNIT
+       Make            : M/s Nautel INC, USA
+            Serial No.          : B309
+            Model               : ATU –HP
+            Operating
+                                : 297 KHz
+            frequency
+            Input power         : 230 V, 50 Hz, Single phase
+            30 Mtr GI trestle
+                                : 2 Nos for wire antenna.
+            tower
+
+
+
+      K. ISOLATION                      1 No
+                                    :
+         TRANSFORMER                    (15 KVA, 1 PHASE , S/NO: 17.03.150080)
+
+                                        1 no (with LED Display for 3 AC)
+      L. AC timer                   :
+                                        (Sr. No: 17F242)
+
+       M. Electric Winch            : 2 Ton ( Double Barrel)
+       Model                        : 1B42X
+        Make                        : Powertek Equipment Co., Mumbai.
+        HP                          : 2.0
+        Serial No.                  : 179117, 180117
+        Rope Speed                  : 5 mtr / min
+        Wire rope dia               : 8 mm dia
+        Drum Capacity               : 100 Mtr
+17. NAIS Equipment
+     Make                          : M/s SAAB
+      AIS R40 Base Station         : Sl.No.5258
+      AIS R40 Base Station         : Sl.No 5284
+                                     (Connected with Cisco switch and HUGHES
+                                     HT2300 Satilite modem.)
+
+
+                                                                           Page 6 of 10
+        V- SAT Dish Size       : 2.4 Mtr. dia
+        VHF Antenna            : 2 Nos.
+        GPS Antenna            : 2 Nos.
+        Date of
+        Commissioning          : 29/10/2013
+
+18. RACON (under replacement)
+      i)     Make        : PHARAS MARINE AUTOMATIC POWER, X-BAND
+      ii)    Input
+                         : 9 to 36 Volts D.C.
+             Voltage
+      iii)   RACON
+                         : 20180762SJP
+             S.No.
+      iv)    Morse Code : C
+      v) Date of
+                         : 30-10-2018
+           commissioning
+                           ACCESS SOLAR LTD, ASL- S7012
+      vi)    Solar panel :
+                           Capacity 12V/70W
+      vii) Battery       : 12 V 100 AH Exide, date of installation:01/11/18
+
+
+19. Battery Charger        : 1 No.( not working)
+      Make                 : AE
+        Capacity           : 15 AMP
+        Input              : 230 V
+        Output             : 30
+
+20. Street Lights          :      i)    11Nos. G.I poles with 25W LED light
+    A) DGPS compound              ii)   2 Nos. gate doom lights.
+
+      B) LH compound       :      i)    7 No’s G.I poles with 25W LED light
+                                  ii)   2nos. gate lights
+
+                           : 2 Nos 12 V 150 AH long tubular for UPS
+21.
+      No. of Batteries                (AMARON.Make, DoI – 5/6/22)
+                             1 Nos.12 V 75 AH Lead Acid for Genset-1
+                                  (KOEL green Make, DoI – 31/10/2018)
+
+
+                                                                   Page 7 of 10
+                                    1 No.12 V 75AH Lead Acid for Genset-2
+                                          (KOEL green Make, DoI - 31/10/2018)
+                                    1 No. 12 V 100 AH Lead Acid for Genset -3
+                                              (KOEL Make, DoI – 15/720/13)
+
+      Air-Conditioner
+22.                               : 3 Nos.
+      (Split type)
+        Make                      : 2No’s Samsung, 1No. Panasonic
+        Capacity                  : 1.5 Ton
+
+
+23. Firefighting equipment
+    Fire Extinguishers
+         i)       D.C.P. type
+                                                 3 no.s new Nos. ( DOI-15/12/18)
+              (3.2kg,9,6,4                   :
+               Capacity)                       3 no.s old (DOI-NA)kept in DGPS
+                                               1 nos. (DoI - 15/12/18),
+         ii)      Foam type                    (1 no. in DGPS room, 01 no. PH)
+            (9 litres capacity)              : 2 no.s old (DOI-NA) 1 no. Kept in LH
+             CO2 type                          (DOI-15/12/18)
+
+        ii) Fire Buckets                     : 6 Nos.
+
+24. Communication                 : Telephone No: 0861-2377049 with broadband
+    Facility                        internet
+                                    e-mail : krishnapatnam-vizag@nic.in
+
+
+
+25. Water Supply                  : i) Potable water supplied by KPCL in underground
+                                        tank at DGPS compound. Pumped to Over Head
+                                        tank by 1HP motor.
+                                    ii) In LH compound one bore well provided, water
+                                        pumped to overhead tank by 1HP motor.
+
+      Land
+26.
+      A) DGPS Premises
+
+
+                                                                           Page 8 of 10
+       i) Area                  : Ac.3.60 Cts.
+       ii) Demarcation          : Masonry Compound wall
+       iii)No. of fruit trees   : Nil
+       iv)No. of non fruit
+                                : 20 Nos.
+           bearing Trees
+
+     B) Lighthouse Premises
+     i) Area                    : Ac.1.0 Cts.
+      ii) Demarcation           : Masonry Compound wall
+    iii) No. of fruit trees     : Nil
+    iv) No.of non fruit
+                                : 10 Nos.
+          bearing Trees
+27. Buildings                   : Power House, Stores, Office & DGPS room – 1
+    A) DGPS premises              Unit, IQ – 1 Unit, A.E (E) Qtr.-1 Unit, S.R.T – 1 Unit,
+                                  N.A Quarter – Twin unit & LHA Qtr. - Twin unit,
+                                  Over Head Tank with Pump House, Coil hut,
+                                  Underground water tank, Security cabin.
+     B) Lighthouse              : Lighthouse Tower, Power house, IQ, Over Head
+     premises                      Tank with Pump house, Security cabin & Static
+                                   Sensor Radar Tower.
+28. Staff                       : i) Asst. Engineer (E)-vacant; SRT-Vacant, NA-II-
+                                     1nos ,NA III-3nos, LHA, Field Assistant – 3 nos.
+                                     (outsourced) ,03nos security(outsourced).
+
+                                    By train up to Nellore and then by Road 30 km up
+29. Mode of approach            :
+                                    to Lighthouse and DGPS.
+
+30. Facilities available        : a) Post Office within 7 km (Muthukur)
+                                    b) Govt. Hospital within 7 km (Muthukur)
+                                    c) Govt. School within 7 km (Muthukur)
+                                    d) Nationalized Bank with 10 km (Muthukur)
+                                    e) Police Station within 9 km (Muthukur)
+
+31. Postal Address              : Assistant Engineer (Electronics),
+                                    Krishnapatnam Lighthouse, Muthukuru
+
+
+                                                                           Page 9 of 10
+                              Via. Gopalapuram Post, Nellore Dist.
+                              Andhra Pradesh, Pin Code: 524 344.
+
+
+32. Cost Details
+         i) Construction       :     Not available
+         ii)  Cost of
+                               :     Not available
+              equipment
+
+
+      Year of first Light
+33.                         : 1940
+      Commissioned
+
+      Subsequent
+34.                         : 1978, 1991, 2003, 2012
+      Innovation
+
+    Date of
+35. Commissioning of        : 19-11-2012
+    present LH
+
+
+
+
+                                                                   Page 10 of 10
+

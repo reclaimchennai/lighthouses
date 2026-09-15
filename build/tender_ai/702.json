@@ -1,0 +1,70 @@
+{
+  "nid": 702,
+  "title": "Supply Installation and testing of street lights at Chudeshwar VTS radar station",
+  "summary": "GeM BOQ bid for supply, installation and testing of LED street lights on GI poles with underground armoured cabling at the Chudeshwar VTS radar station (Devbhumi Dwarka, Gujarat) under the VTS Directorate Gandhidham.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2022/B/2742891",
+    "issuing_office": "Directorate General of Lighthouses and Lightships, Gandhidham (VTS Directorate)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Chudeshwar VTS Radar Station, Salaya Post, Taluka Khambhaliya, Dist. Devbhumi Dwarka", "station_id": null, "kind": "VTS", "work": "Supply, installation and testing of street lights with poles, UG cabling, MCBs and junction boxes"}
+  ],
+  "scope": [
+    {"item": "Class C Heavy duty GI Pipe Reputed Brand", "qty": "17", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "Class C Heavy duty GI Pipe Reputed Brand for double light fitting", "qty": "12", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "25 mm good quality PVC Pipe", "qty": "100", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "25mm band 180 Socket 50 Total 230 Nos", "qty": "230", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "25mm Gray steel wire reinforced PVC flexible pipe", "qty": "60", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "Close type 6 Way 32A Bakelite Terminal block heavy duty connector (29 pole, 1 gate light, 6 spare)", "qty": "36", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "LED Street light 25W 230V 50Hz AC (41 Nos and 4 spare) reputed brand", "qty": "45", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "1.5 Sqmm x 3C Armoured cable reputed brand", "qty": "800", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "6A 240V Single pole MCB reputed brand (41 Nos, 1 for gate light, 4 spare)", "qty": "46", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "MCB Box without MCB, 4 way MCB sheet metal enclosure", "qty": "1", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "16A 240V Double Pole MCB reputed brand (2 Nos and 2 spare)", "qty": "4", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "Electrical pole Junction Box 250x200x100mm NA394 (29 Nos, 1 gate light, 2 spare)", "qty": "32", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "25x3mm Copper strip for fabrication of copper clamps (1 m = 2 clamps; 15 m for 29 poles)", "qty": "15", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "1.5 sqmm x 2C PVC insulated sheathed copper flexible cable reputed brand, 4 m per light", "qty": "164", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "Transportation charges for 29 GI Class C poles from local market to VTS Radar Station Chudeshwar Lighthouse", "qty": "1", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "Red oxide primer 10 L, synthetic enamel PO red 2 coat for 34 foundations 10 L, aluminium paint 2 coat for 30 poles 7 L, thinner 10 L, brushes 4/3/2 mm 2 each", "qty": "1", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "PVC insulating tape, sleeves, 2 inch GI pipe, waterproof tape, pin type/round lugs, silicon sealant and gun, cable tie, SS nut bolt etc", "qty": "1", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "Labour charges", "qty": "800", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "Hiring welder and welding machine", "qty": "1", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "Mason hiring", "qty": "29", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "Cable route marking", "qty": "35", "unit": null, "site": "Chudeshwar VTS radar station"},
+    {"item": "Aluminium folding ladder 20 feet", "qty": "1", "unit": null, "site": "Chudeshwar VTS radar station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1284310.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 3% for 27 months",
+    "notes": "Estimated bid value per GeM. EMD not required. Advisory bank State Bank of India; beneficiary Dy Director General, DGLL, Deep Bhavan, Plot 17 Sector 8, Gandhidham. MII and MSE purchase preference apply."
+  },
+  "period": {"completion": "30 days delivery", "bid_validity": "180 days from bid end date", "warranty": "2 years from final acceptance / installation"},
+  "dates": {"published": "2022-11-16", "pre_bid": "2022-11-22", "bid_submission_end": "2022-11-30", "bid_opening": "2022-11-30"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 19 lakh; MSE and startup exemption for turnover",
+    "3 years past experience in same/similar products",
+    "Past performance: supplied 80% of bid quantity in one of last three financial years",
+    "Past project experience in preceding 3 FYs: one order >= 35%, or two >= 20% each, or three >= 15% each of estimated bid value",
+    "OEM authorisation certificate; BoQ specification compliance; escalation matrix for service support",
+    "Only Class-I and Class-II local suppliers (min 50% / 20% local content)",
+    "Total value wise evaluation; no reverse auction; single vendor, no subletting; site visit advised"
+  ],
+  "specs": [
+    "Street light poles in single Class C GI pipe without joints; two coats red oxide and two coats silver/aluminium paint",
+    "LED street lights 25 W, 230 V 50 Hz AC; individual 1.5 sqmm 3C armoured UG cable to each pole laid 1 ft underground, GI pipe at road crossings, sand bedding in rocky areas, route marking stones",
+    "Separate main switches/MCBs for Circuit 1 and Circuit 2 in station power house; DBs, JBs and cabling for AC distribution",
+    "All items ISI marked; detailed design drawings to be approved within 5 days of award"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "194fd28b-d23b-4fe6-948c-4d686560c1c2.pdf", "pages": 21, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Standard GeM BOQ bid with generic GeM clauses; total quantity 2431 across 22 line items (units not printed; separate specification/BOQ attachments not included). Listing shows end date 2022-12-12 and opening 2022-11-16 (the bid publication date), whereas the bid document prints end 30-11-2022 11:00 and opening 30-11-2022 11:30; no corrigendum attached. Chudeshwar VTS station is not in station_names.tsv. Consignee officer personal name omitted."
+}

@@ -1,0 +1,43 @@
+{
+  "nid": 2519,
+  "title": "Plantation under the EK PED MAA KE NAAM Campaign at Patpur FFM Station for the year 2026-27 under Kolkata Directorate.",
+  "summary": "E-tender for plantation/gardening work under the 'Ek Ped Maa Ke Naam' campaign at the Patpur Far Field Monitoring (FFM) Station, Odisha, for 2026-27 (Kolkata Directorate).",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Kol-01002/1/2026-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Patpur FFM Station, Odisha", "station_id": null, "kind": "other", "work": "Plantation under the Ek Ped Maa Ke Naam campaign for 2026-27"}
+  ],
+  "scope": [
+    {"item": "Plantation under the EK PED MAA KE NAAM Campaign for the year 2026-27", "qty": null, "unit": null, "site": "Patpur FFM Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 455000.0,
+    "emd_inr": 9100.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata, payable at Kolkata; valid three months from technical bid opening; exemption not allowed; original EMD must reach the office by last date of bid submission. Estimated cost printed as 'Rs. 4,55 000.00/-'."
+  },
+  "period": {"completion": "60 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2026-07-27", "pre_bid": "2026-08-10", "bid_submission_end": "2026-08-17", "bid_opening": "2026-08-18"},
+  "eligibility": [
+    "Valid registration of appropriate class in appropriate category (building civil work) with Central Govt department/undertaking/autonomous body or State Govt",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; supported by client certificates; value updated at 7% simple per annum",
+    "Similar works: gardening works at Central Govt/State Govt/other reputed private organization/NGO firm",
+    "Valid PAN card and GST registration",
+    "Notarized affidavit (2026) that bidder is not blacklisted or debarred by any Central/State government organization",
+    "Undertaking on letter pad that price bid is unconditional; signed Tender Acceptance Letter; other documents per Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITPTPR.pdf", "pages": 4, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only; no BOQ or plantation specification (number/species of trees not stated). Hindi text layer is missing/garbled, so page 2 was rendered to confirm the completion period (60 days) and other table values. Bid document download 27.07.2026 15:00 to 17.08.2026 15:00. Bidders asked to visit the site before quoting. Listing has no start date."
+}

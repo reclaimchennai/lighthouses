@@ -1,0 +1,46 @@
+{
+  "slug": "pudimadaka-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Pudimadaka Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1971,
+  "alol": "0968",
+  "position": {"lat_text": "17' 29.3\" N", "lon_text": "83' 00.3\" E", "lat": 17.488333, "lon": 83.005},
+  "elevation_m": 35,
+  "characteristic_text": "Fl. (2) W 15 Sec. (0.4+ 3.4 +0.4 +10.8 =15 sec.)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "0.4+ 3.4 +0.4 +10.8 =15 sec.",
+    "sequence_s": [0.4, 3.4, 0.4, 10.8],
+    "flash_duration_s": 0.4
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": 16.5, "text": "Luminous: 20 candelas; Geographical: 16.5 NM"},
+  "tower": {"type": "Square Masonry", "height_m": 26, "colour_scheme": "Red & white band"},
+  "optic": {
+    "make": "B.B.T", "model": null, "type": "revolving", "size": "300 mm (4th order Large); focal distance 300 MM", "order": "4th order Large",
+    "panels": 4,
+    "rotation_device": "Twin Stepper motor Direct Drive system (2 No 20Kg-cm stepper motors, unique make)",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Size: 300 mm (4th order Large) revolving; Rotation Device: Twin Stepper motor Direct Drive system; Rotation Speed 2 RPM",
+    "divergence_horizontal_deg": 4.583333,
+    "divergence_vertical_deg": 3.438333,
+    "divergence_text": "Horizontal 4° 35', Vertical 3° 26.3'",
+    "illuminant": "70 Metal halide lamp 3 nos. (cluster)"
+  },
+  "intensity_cd": 438480,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APEPDCL single phase 230V mains; 1.36KW off grid solar plant for main light (8 x 24V/170W TATA B.P); Kirloskar KG15AS4 15KVA diesel generator"},
+  "issues": [
+    "Position printed with minute marks instead of degree signs ('17' 29.3\" N', '83' 00.3\" E'); converted as 17° 29.3' N, 83° 00.3' E",
+    "Luminous range printed as '20 candelas' (unit error); transcribed as 20 NM",
+    "Duration of flash given as '0.38 sec. - 0.4 sec.'; sequence gives 0.4 s",
+    "ALOL number printed as '0968' without 'F' prefix"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nid": 1374,
+  "title": "Development works for Promotion of Tourism at Manakkodam Lighthouse",
+  "summary": "Tourism development works at Manakkodam Lighthouse, Alappuzha District, Kerala (Kochi Directorate).",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Manakkodam Lighthouse, Alappuzha District, Kerala", "station_id": "manakkodam-lighthouse", "kind": "lighthouse", "work": "Development works for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Development works for Promotion of Tourism", "qty": null, "unit": null, "site": "Manakkodam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 8337875.0,
+    "emd_inr": 166800.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME certificate) and technical documents to be sent by post or in person before the deadline. Tender fee Nil."
+  },
+  "period": {"completion": "04 Months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2023-10-06", "pre_bid": "2023-10-13", "bid_submission_end": "2023-10-26", "bid_opening": "2023-10-27"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Similar works completed in last 7 years: three works each >= 40%, or two >= 50%, or one >= 80% of estimated cost",
+    "PAN and GST registration; key technical personnel for supervision and execution",
+    "Tender acceptance letter (Annexure IV), unconditional bid undertaking (Annexure V), Bid Securing Declaration (Annexure VI), relatives list (Annexure VII), not-blacklisted affidavit on Rs 100 stamp paper (Annexure VIII)",
+    "Documentary evidence of annual turnover of last three years"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (4)_compressed (1)-compressed_0.pdf", "pages": 3, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 04.10.2023; two-cover online bids. Download/submission 06.10.2023 10:00 to 26.10.2023 15:00; queries by 12.10.2023 15:00; EMD original by 25.10.2023 15:00; technical bid opening 27.10.2023 15:00. Section I only (pages numbered 2-4); no file number, BOQ or scope details. Eligibility asks for a Bid Securing Declaration although an EMD of Rs 1,66,800 is also required. Header Hindi text only."
+}

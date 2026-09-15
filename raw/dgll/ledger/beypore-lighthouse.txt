@@ -1,0 +1,187 @@
+                             मास्टर लेजर/MASTER LEDGER
+क्रमसं       नाम /Name
+ ख्या/                                                      वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L       F-0689
+         .O.L.
+  2      स्थान/Position      Lat: 11o 09.5’ N Long: 75o 48.5’ E
+  3      ऊंचाई/Elevation     32M (Above MSL)
+  4      अविलक्षण/Charact    Flash (2) White-15 Seconds
+         eristic
+  5      नॉविकल माइल मे      24.0 Nm
+         दू री
+         Range in miles
+  6      दीपस्तं ि           Type                                               Hexagonal RCC
+         िािर/L.H.Tower
+                             Height                                             30M
+                             Colour Scheme                                      Red and White Band
+  7      ऑविकल उपकरण         Optic                                              Revolving Beacon
+         Optical equipment   Make                                               J Stone, India
+                             Type
+                             Size                                               300mm / 4th Order
+                                                                                Large
+                             No. of lens                                        4
+                             Area of dioptric portion                           ----Sq.
+                                                                                cm
+
+                             Area of catadioptric portion                       ----Sq. cm
+                             Divergence                                         7.6º (Horizontal)
+                             Main/Emergency                                     3.8º (Vertical)
+                             Duration of Flash                                  0.48+3.27+0.48+10.77
+                             Main /Standby/Emergency                            Sec
+                             Pedestal                                           Ball bearing type
+                             Rotation Device                                    Dual Stepper motor(20
+                                                                                Kg/cm)
+                             R.P.M.                                             2
+                             Illumining                                         ----
+                             Main                                               A cluster of three
+                                                                                230V/150W
+                                                                                Double ended Metal Halide
+                                                                                Lamps
+                             Standby                                            NA
+                             Emergency:                                         NA
+                             Date of Installation                               22.07.2001
+  8      प्रिािी बीम         Main                                               11,64,442 Candelas
+         तीव्रता/Effective   Emergency
+         beam intensity
+     9    लें िनन /Lantern     Diameter                                                 2.4 m
+                               Height of glazing                                        1.380 m
+                               No. of panes                                             12 Nos
+                               Ventilators                                              8 Nos
+     10   RACON                Sr. No                                                   6185
+          Make                 Mo Code                                                  Band                   Date of
+                               del                                                                             Installa
+                                                                                                               tion
+          Tideland, USA        Sea             G                                        X+S                    25.07.2
+                               Beaco                                                                           004
+                               n-2
+     11   NAIS
+          Base Station            2 Nos-AIS1 & AIS2
+
+          Model                Type            Power                                    MMSI
+          SAAB R40             Class A         AC-230V & DC-24V                         -
+                               &B
+          Communication
+          Equipment
+          VSAT Antenna         Band            Modem
+          Make: Prodelin       EX-C            Hughes HT2300
+          2.4m dia
+          Parabolic
+           Reflector
+     12   ऊर्ान के             Mains                                                    440V, 3Phase, 50 Hz., A/C
+          साधन/Source of                                                                Supply
+          energy               Power Source                                             DG Set 7.5KVA Make
+                               Engine 1
+                               Make/Type                          Qty         Rating    No of Cylinder    RPM             Coo
+                                                                                                                          ling
+                               Kirloskar Green/ EA16              1           16 HP     3                 1500            Air
+                               Alternator
+                               Make/Type                          Qty         Rating    Voltage/Amp       Frequency       Pha
+                                                                                                                          se
+                               Kirloskar                          1           7.5 KVA   240V              50Hz            Sin
+                                                                                                                          gle
+                               Solar Plant for Main Light
+                               Capacity PV                        Numbers               Type             Battery          Ban
+                                                                                                                          k
+                               5KW On Grid                         (250W HHV Make – Mono                 24 Nos           01
+                                                                   20 Nos.)         Crystalline          2V/200AH         No.
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र/ Automatic Voltage Stabilizers
+          Make                     Model             Capacity      Input           Output                      Phase      Qty
+          Associate                                                                                            Single     1
+                                           -            7.5KVA          160-260V            230-235V                      No.
+          Engineer
+14        बैिरर / Batteries
+          Equipment            Type                    Make                  Volt       Amp/Hr           Qty
+          Main Lamp-1               Tubular                    HBL             12V          150AH          1 No
+          Main Lamp-2               Tubular                    HBL             12V          150AH          1 No
+          Main Lamp-3               Tubular                    HBL             12V          150AH          1 No
+          NAIS                      Tubular                    HBL             12V          150AH          2 Nos
+          RACON                      SMF                       HBL             12V          100AH          1 No
+     Stepper Motor             Tubular                    HBL              12V            150AH             1 No
+     DG-7.5KVA                   LA                      Exide             12V            100AH             1 No
+15   बैिरर चार्न र/ Battery charger
+     Equipment                Make   Model                   Type                   Rating             Qty
+     General Purpose for Little
+     A.M.F. Panel                             -                     12 V              16 Amps               1 No.
+                              Savage
+16   इं वर्ट रInverter /UPS
+     Equipment              Make          Model             Type                   Rating      Qty    Input         Out
+                                                                                                                    put
+                                          SHINY 900         Pure sine wave         900 VA      4      170-          230
+     Main Lamp -1         Su-Kam
+                                                                                                      230V          V
+                                          SRC 1 KI- IN      Pure sine wave         1 KVA       2      170-          230
+     Main Lamp -2         Su-Kam
+                                                                                                      230V          V
+                                          PRO 1000          Pure sine wave         1 KVA       1      170-          230
+     Main Lamp -3         Su-Kam
+                                                                                                      230V          V
+                                                                                                                    200
+                                                                                                      100-          -
+     NAIS                 Microtek
+                                                                                                      300V          230
+                                                                                                                    V
+17   स्वचलन उपकरण/ Automation Equipment
+     MAKE           PLC               HMI                 Power Supply             VSAT                Modem Band
+     NELCO          Allen Bradley     Renu                24 V DC                  1.2m dia            Hughes EX.C
+                    Micro Logix       Electronics                                  Parabolic           HN700
+                    1400              Pvt. Ltd.                                    Reflector           0S
+18   आवि शमन        Type  of Extinguisher                                        Capacity          Nos       Make
+     उपकरण                                                                                         1 No +2 Firex/
+     Fire Fighting  Fire Extinguisher                                            1 Kg/2 Kg                   Ande
+                                                                                                      No     x
+     Equipment
+                                                                                                             Flam
+                          Fire Extinguisher                                         4 Kg            2 Nos. eblitz
+                                                                                                             z
+                          Fire Extinguisher                                        4.5Kg            2 Nos. Avon
+                                                                                                     2+2     -
+                          Water/ Sand Buckets (with stand)                            -
+                                                                                                     Nos.
+19   संचार                Not Available
+     Communication
+20   र्ल पूवतन            Kerala Water Authority – 2 connections,
+     Water Supply         01 No. Open Well with potable water.
+21   िू वम                Area                                                                         0.8028
+     Land                                                                                              Hectare
+                          Demarcation                                                                  Masonry
+                                                                                                       Compound
+                                                                                                       Wall
+22   इमारतें              08 Nos                                                                       Power
+     Buildings                                                                                         House with
+                                                                                                       office, Stores
+                                                                                                       (2
+                                                                                                       Nos.),Recrea
+                                                                                                       tion room,
+                                                                                              NA-I, NA-
+                                                                                              II(2
+                                                                                              Nos.),LHA
+                                                                                              (2 Nos.),
+                                                                                              IQ, Pump
+                                                                                              House
+23   कंपाउं ड लाइि          07 No. With GI pole
+     Compound Lights
+
+24   सीसीिीिी कमे रा        Camera
+      CCTV CAMERA           N/A                                                               N/A
+25   स्टाफ                  Sl. No                              Designations
+     Staff
+                            1                                   Navigational Assistant Grade –III
+26   पहुँ चने का माध्यम     Nearest town Kozhikode is 17km away and neares railway station
+     Mode of approach       Feroke is 05km away
+27   उपलब्ध सुविधाए         Beypore Police station is 11 Km and coastal station is nearby Primary
+     Facilities available   health centre chaliyam is 2km away
+                            Chaliyam Post office 1.5km from Lighthouse.
+28   डाक पताPostal          Head Light Keeper,
+     address                Beypore Lighthouse,
+                            Chaliyam P.O
+                            Kozhikode Dist. Kerala-673301
+29   मू ल्य का ब्योराCost   N/A
+     details
+     (At the time of
+     Construction)
+30   प्रितनन मे लाने का     21.11.1977
+     दे नां क
+     Date of
+     commissioning
+

@@ -1,0 +1,57 @@
+{
+  "nid": 2513,
+  "title": "REFURBISHING OF CLASSROOMS OF MARINE NAVIGATION TRAINING INSTITUTE, KOLKATA",
+  "summary": "GeM BoQ bid for refurbishing classrooms at the Marine Navigation Training Institute, Deep Bhavan, Kolkata: study desks and chairs, carpet tiles, wall panelling, podiums, display units and modification of wooden daises.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2026/B/7832616",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, D-372/2, Taratala Road, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Marine Navigation Training Institute, Deep Bhavan, Kolkata", "station_id": null, "kind": "office", "work": "Refurbishing of classrooms (furniture, carpet tiles, wall panelling, podium, display units)"}
+  ],
+  "scope": [
+    {"item": "Supply of ready made main study desk 900x600x750 mm, Godrej Mayfair or similar", "qty": "26", "unit": null, "site": "Marine Navigation Training Institute, Kolkata"},
+    {"item": "Supply of Thrill mesh full black chair, Godrej or similar", "qty": "38", "unit": null, "site": "Marine Navigation Training Institute, Kolkata"},
+    {"item": "Modifying the existing wooden dias and refixing", "qty": "1", "unit": null, "site": "Marine Navigation Training Institute, Kolkata"},
+    {"item": "Fixing of 8 mm high traffic heavy nylon commercial grade modular carpet tiles with specialized backing", "qty": "135", "unit": null, "site": "Marine Navigation Training Institute, Kolkata"},
+    {"item": "Supply of wooden podium, laminated plywood with beadings as per design", "qty": "2", "unit": null, "site": "Marine Navigation Training Institute, Kolkata"},
+    {"item": "Making wall panel framework of 19 mm ply cut in 50x19 mm in 600 c/c frame with fixing of 9 mm ply Ecotec MR", "qty": "785", "unit": null, "site": "Marine Navigation Training Institute, Kolkata"},
+    {"item": "Fixing 12x80 mm wooden skirting, polish finish", "qty": "105", "unit": null, "site": "Marine Navigation Training Institute, Kolkata"},
+    {"item": "Fixing 25x25 mm approx wooden beading with polish finish", "qty": "490", "unit": null, "site": "Marine Navigation Training Institute, Kolkata"},
+    {"item": "Modification of the existing wooden dias and refixing", "qty": "1", "unit": null, "site": "Marine Navigation Training Institute, Kolkata"},
+    {"item": "Fixing of 8 mm high traffic heavy nylon commercial grade modular carpet tiles with specialized backing (second item)", "qty": "170", "unit": null, "site": "Marine Navigation Training Institute, Kolkata"},
+    {"item": "Making wall panel 4800x600x150 mm for display unit of 16 mm marine board, both sides laminated, aluminium edge step bending", "qty": "1", "unit": null, "site": "Marine Navigation Training Institute, Kolkata"},
+    {"item": "Making wooden dias 5844x600x150 mm for display unit of 16 mm marine board, both sides laminated, aluminium edge step bending", "qty": "1", "unit": null, "site": "Marine Navigation Training Institute, Kolkata"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2427415.0,
+    "emd_inr": 49000.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 14 months (FDR also accepted)",
+    "notes": "MII purchase preference L1+20% (50% qty); MSE purchase preference L1+15% (25% qty). Option clause +/-25% quantity."
+  },
+  "period": {"completion": "Delivery 45 days (per GeM consignee schedule)", "bid_validity": "90 days from bid end date", "warranty": null},
+  "dates": {"published": "2026-07-25", "pre_bid": "2026-08-04", "bid_submission_end": "2026-08-17", "bid_opening": "2026-08-17"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 7.28 lakh",
+    "3 years past experience for same/similar service; past performance 80% of bid quantity",
+    "No MSE or startup relaxation for experience and turnover",
+    "Only Class-I and Class-II local suppliers (MII); minimum local content 50%/20%",
+    "Additional documents requested in buyer ATC (ATC file not included)"
+  ],
+  "specs": [
+    "Study desk 900x600x750 mm (Godrej Mayfair or similar); mesh chair (Godrej or similar)",
+    "8 mm heavy nylon commercial grade modular carpet tiles",
+    "9 mm Ecotec MR ply wall panelling on 19 mm ply framework; 16 mm marine board display units with aluminium edging"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "REFURBISHING OF CLASSROOMS OF MARINE NAVIGATION TRAINING INSTITUTE, KOLKATA.pdf", "pages": 15, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only the GeM bid document is attached; the buyer ATC, specification and BOQ detail documents referenced as 'View File' are not included, so units of measure and detailed specs are missing. Total quantity 1755 equals the sum of the 12 BoQ line quantities. Carpet tile and dias modification items appear twice with different quantities. Works-type refurbishment published as a GeM BoQ bid."
+}

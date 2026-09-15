@@ -1,0 +1,45 @@
+{
+  "nid": 2138,
+  "title": "Development works for promotion of tourism at Nizampatnam Lighthouse Station",
+  "summary": "Percentage-rate e-tender for tourism development works at Nizampatnam Lighthouse, Guntur district, Andhra Pradesh, issued by the Directorate of Lighthouses and Lightships, Visakhapatnam.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MT-VSP-02002(11)/1/2025-Maintenance; I/89371/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Nizampatnam Lighthouse, Nizampatnam Post, Guntur Dist., Andhra Pradesh, Pin 522314", "station_id": "nizampatnam-lighthouse", "kind": "lighthouse", "work": "Development works for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Development works for promotion of tourism at Nizampatnam Lighthouse Station", "qty": null, "unit": null, "site": "Nizampatnam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 636312.0,
+    "emd_inr": 12730.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST and all taxes. EMD by DD/FDR of any scheduled bank in favour of Director, Directorate of Lighthouses and Lightships, Visakhapatnam; validity stated as four months in NIT table but three months in clause 1.2. Clause 1.2 Hindi text says no bidder is exempt from EMD, while English note says MSEs registered in MSME are exempt with bid securing declaration. Tender fee Nil. Percentage rate tender."
+  },
+  "period": {"completion": "03 months from site handover", "bid_validity": "90 days from the date of opening of tender", "warranty": null},
+  "dates": {"published": "2025-12-01", "pre_bid": "2025-12-05", "bid_submission_end": "2025-12-11", "bid_opening": "2025-12-12"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with Central Govt/CPWD/State Govt/Railways/MES/BSNL/PSU",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two >= 50%, or one >= 80%; values enhanced at 7% simple per annum",
+    "Similar works: construction/maintenance works of building and other civil structures",
+    "PAN and GST registration; key technical personnel for supervision; unconditional tender undertaking (Annexure V)",
+    "Tender acceptance letter (Annexure IV); affidavit of not being blacklisted",
+    "Income tax returns for FY 2022-23, 2023-24 and 2024-25",
+    "Average annual turnover of last three financial years minimum 30% of estimated cost",
+    "List of relatives serving in MoPSW/DGLL; activity chart; self-assessed technical evaluation sheet; labour licence or self-declaration; bank mandate form with cancelled cheque"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT 1.pdf", "pages": 5, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only Section-I NIT pages 3-7 of a 102-page tender document are included; no BOQ or scope details. Heavy vehicles permitted up to work site; contractor to repair damage to pathway/paver blocks/plants. Bidders requested to visit site before quoting."
+}

@@ -1,0 +1,60 @@
+{
+  "nid": 2116,
+  "title": "Supply, Installation and Commissioning of 16KVA, Automatic Voltage Stabilizer for three phases at Dhuvav RCS and Rawalpir Lighthouse",
+  "summary": "GeM BoQ bid for supply, installation and commissioning of three-phase 16 kVA servo automatic voltage stabilizers with spares and cabling at Dhuvav RCS (Jamnagar) and Rawal Pir Lighthouse (Kutch), Gujarat, under the VTS Gandhidham Directorate.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/6874136; EMDVTS-08013/1/2020-Maintenance; I/87928/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, VTS Directorate, Deep Bhavan, Plot 17 Sector 8, Gandhidham"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Dhuvav RCS station, Hapa Industrial Area, Post Dhuvav, Dist Jamnagar, Gujarat-361120", "station_id": null, "kind": "VTS", "work": "SITC of one set (3 units) 16 kVA AVR with earthing and cabling; spares handed over to station in-charge"},
+    {"name": "Rawalpir Lighthouse, C/o Mandvi Lighthouse & VTS station, Kutch", "station_id": "rawal-pir-lighthouse", "kind": "lighthouse", "work": "SITC of one set (3 units) 16 kVA AVR with earthing and cabling; one spare AVR set handed over"}
+  ],
+  "scope": [
+    {"item": "SITC of servo motor controlled automatic voltage stabilizer, 16 kVA for each phase; 01 set (3 units) each for Dhuvav RCS and Rawalpir Lighthouse and 01 set spare", "qty": "3", "unit": "sets", "site": null},
+    {"item": "Spare main control card with display (set of 3)", "qty": "1", "unit": "set", "site": "Dhuvav RCS"},
+    {"item": "Spare Variac (set of 3)", "qty": "1", "unit": "set", "site": "Dhuvav RCS"},
+    {"item": "Spare AC step synchro servo motor with RC network (set of 3)", "qty": "1", "unit": "set", "site": "Dhuvav RCS"},
+    {"item": "Spare power transformer, step-down supply for control card (set of 3)", "qty": "1", "unit": "set", "site": "Dhuvav RCS"},
+    {"item": "Surge protection device (set of 3)", "qty": "1", "unit": "set", "site": "Dhuvav RCS"},
+    {"item": "Spare brush set (set of 3)", "qty": "1", "unit": "set", "site": "Dhuvav RCS"},
+    {"item": "Supply and installation of 6 sq.mm x 4C copper flexible sheathed FRLSH cable for input/output connection (20 m Rawalpir, 20 m Dhuvav)", "qty": "40", "unit": "Meters", "site": null},
+    {"item": "Miscellaneous installation items: 6 sq.mm x 1C green earthing wire 20 m, copper lugs, PVC sleeve, 20/25 mm PVC reinforced corrugated pipe, PVC tapes, cotton tape, cable ties, clamps, SS screws", "qty": "1", "unit": "LS", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 918340.0,
+    "emd_inr": 18500.0,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value, valid 39 months, FDR from scheduled commercial bank within 10 days of GeM contract (ePBG 5% for 39 months)",
+    "notes": "Estimated cost including GST and all taxes. EMD advisory bank SBI; beneficiary Dy. Director General VTS, Gandhidham. MII purchase preference L1+20% up to 50% (Class 1/Class 2 local suppliers only); MSE purchase preference L1+15% up to 25%. Payment 80% after supply, installation, commissioning and 5 days successful functioning; 20% after 30 days fault-free operation. Delay penalty 0.5% per day up to 5%; warranty defect penalty Rs 500/day beyond 15 days."
+  },
+  "period": {"completion": "45 days", "bid_validity": "180 days from bid end date", "warranty": "Minimum 3 years for all items; faults to be attended within 72 hours"},
+  "dates": {"published": "2025-11-10", "pre_bid": "2025-11-20", "bid_submission_end": "2025-12-01", "bid_opening": "2025-12-01"},
+  "eligibility": [
+    "GeM: bidder minimum average annual turnover Rs 5 lakh (3 years); OEM average turnover Rs 37 lakh; 3 years past experience; past performance 80% of bid quantity; no MSE/startup exemption",
+    "Similar works in last 7 years ending 31 October 2025 in Central/State Govt/UT/PSU: three >= 40%, two >= 50% or one >= 80% of estimated cost",
+    "Similar works: supply/installation/testing/commissioning/maintenance of automatic voltage stabilizer/transformer/electrical equipment; completion certificate or GeM CRAC with work order",
+    "Non-blacklisting undertaking (Annexure III); OEM proof or OEM authorization for sales and after-sales service for warranty period",
+    "Technical compliance sheet (Annexure I); GST registration; tender acceptance letter (Annexure II); EMD",
+    "Well-equipped service centre in India; MOU/authorization with OEM for after-sales service"
+  ],
+  "specs": [
+    "Servo AVR, air cooled, 16 kVA per phase; separate unit per phase in ATC clause 4.1 (Annexure I allows different unit per phase or single unit)",
+    "Input 170-280 V phase-neutral, 50 Hz +/- 5 Hz, output 220-240 V, efficiency > 97%",
+    "Microcontroller true RMS sensing; triac drive for AC step synchronous motor; electronic under/over-voltage cutoff (<170 V, >280 V) with graded delay; CT-based overload cutoff at 110%; MCB/MCCB short-circuit protection; bypass switch; SPD",
+    "LED/LCD display of input/output voltage, current, frequency; F class insulation; copper winding; manual/auto reset with programmable delay; audio fault annunciation",
+    "Cabinet 18-20 gauge powder coated GI sheet on lockable wheels, bottom plate > 6 mm",
+    "Preferred makes: AE/Atandra/Delta/Servocon/Aircom; cable IS 694 FRLSH, preferred Finolex/Polycab/KEI/RR",
+    "Pre-dispatch third-party inspection at OEM factory at supplier cost; minimum 50% (Class 1) / 20% (Class 2) local content"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM Bid AVR Rawalpir and Dhuvav.pdf", "pages": 24, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "GeM bid (11 pages) followed by buyer ATC, item-rate BoQ (no rates) and Annexures I-III. GeM consignee split (3 AVR sets and cable at Rawalpir; spares at Dhuvav) differs from ATC scope (one AVR set installed at each site, spare AVR set to Rawalpir, spares to Dhuvav). GeM lists 40 cable qty at Rawalpir, BoQ splits 20 m per site; clause 5.7 mentions 10 m input + 10 m output. Rawalpir postal PIN printed as 370465 (GeM) and 370421 (ATC). Delivery contact persons with personal mobile numbers: [personal contact removed]. Office e-mail listed includes a gmail address (dydgvts@gmail.com) and dte-vts@nic.in."
+}

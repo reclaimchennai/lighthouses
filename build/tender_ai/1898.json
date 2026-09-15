@@ -1,0 +1,44 @@
+{
+  "nid": 1898,
+  "title": "Replacement and Installation of 2V/600AH stationary VRLA battery and Solar PCU of 30 KWp Solar Power Plant at Keating Point Lighthouse DGNSS Station",
+  "summary": "E-tender for replacing and installing 120 nos 2V/600AH stationary VRLA batteries and a 40 kVA PCU for the 30 kWp solar power plant at Keating Point Lighthouse and DGNSS Station, Andaman & Nicobar Islands, issued by the Directorate of Lighthouses and Lightships, Sri Vijaya Puram.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-PB-01022/1/2022-M",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Keating Point Lighthouse DGNSS Station", "station_id": "keating-point-lighthouse-and-dgps-station", "kind": "DGNSS", "work": "Replacement and installation of VRLA battery bank and solar PCU of 30 kWp solar power plant"}
+  ],
+  "scope": [
+    {"item": "2V/600AH stationary VRLA battery (replacement and installation)", "qty": "120", "unit": "Nos", "site": "Keating Point Lighthouse DGNSS Station"},
+    {"item": "40 KVA solar PCU (replacement and installation) for 30 KWp solar power plant", "qty": null, "unit": null, "site": "Keating Point Lighthouse DGNSS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4673220.0,
+    "emd_inr": 93464.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. Cost of bid document Nil. EMD by FDR from any scheduled nationalised bank (Hindi version also mentions bank guarantee) in favour of Director of Lighthouses and Lightships, Sri Vijaya Puram, valid 06 months from technical bid opening; originals by 20.05.2025 17:00. NSIC/MSME registered bidders considered for EMD exemption per prevailing norms."
+  },
+  "period": {"completion": "60 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-05-05", "pre_bid": "2025-05-13", "bid_submission_end": "2025-05-20", "bid_opening": "2025-05-21"},
+  "eligibility": [
+    "Reputed firms/contractors with experience in similar works with Central Govt/State Govt/PSU in remote islands of Andaman & Nicobar",
+    "Similar work: supply and installation of on-grid or off-grid solar power plant in Central Govt/State Govt/PSUs",
+    "Initial eligibility criteria as per Section 3 (not included in this document)"
+  ],
+  "specs": [
+    "2V/600AH stationary VRLA batteries, 120 nos",
+    "40 kVA PCU for 30 kWp solar power plant"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_0.pdf", "pages": 7, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only pages 1-7 of a 46-page tender document (cover, index, Section 1 NIT in Hindi and English); Sections 2-9 including eligibility, specifications and BOQ are not included. Battery quantity (120 nos) and PCU rating (40 kVA) appear in the Hindi work name only. Technical bid opening subject to internet connectivity."
+}

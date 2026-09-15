@@ -1,0 +1,48 @@
+{
+  "nid": 1662,
+  "title": "Design, Supply, Installation, Testing and Commissioning of 01 number, 10 passengers (680Kg) machine room less Lift with SS Glass Cabin at Puducherry DGNSS Station.",
+  "summary": "Design, supply, installation, testing and commissioning of one 10-passenger (680 kg) machine-room-less lift with stainless steel glass cabin at Puducherry Lighthouse / DGNSS Station, including steel structural tower works.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(32)/1/2024-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Puducherry DGNSS Station (Puducherry Lighthouse)", "station_id": "puducherry-lighthouse-and-dgps-station", "kind": "DGNSS", "work": "Design, supply, installation, testing and commissioning of MRL passenger lift with SS glass cabin"}
+  ],
+  "scope": [
+    {"item": "Design, Supply, Installation, Testing and Commissioning of 10 passengers (680Kg) machine room less Lift with SS Glass Cabin", "qty": "1", "unit": "number", "site": "Puducherry DGNSS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 10032216.0,
+    "emd_inr": 200650.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. Percentage rate contract. EMD by DD/FDR of any scheduled/nationalised bank in favour of Director of Lighthouses and Lightships, Chennai, valid three months from technical bid opening. Tender fee NIL."
+  },
+  "period": {"completion": "10 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-07-08", "pre_bid": "2024-07-23", "bid_submission_end": "2024-07-30", "bid_opening": "2024-07-31"},
+  "eligibility": [
+    "Open to lift manufacturing agencies without JV, or regular civil engineering contractors in JV consortium with a lift manufacturer",
+    "(A) Lift manufacturer with valid licence/registration from State CEIG or other State/Central licensing authority, experienced in fabrication and erection of steel structural tower for lift and lift installation to minimum height 30 m; OR (B) contractor registered in appropriate class with CPWD/State PWD/Railways/MES/BSNL etc in JV with lift manufacturer",
+    "Similar works in last seven years: three works each >= 40%, or two each >= 50%, or one >= 80% of estimated cost; values updated at 7% p.a.; certificates from officer not below Executive Engineer",
+    "Similar works: fabrication and erection of steel structural tower for lift and lift installation to min 30 m height, and civil works like RCC towers, steel structures, buildings, bridges, dams, water tanks; lift manufacturer (second party) must submit CEIG manufacturing licence",
+    "Bank solvency certificate for 40% of estimated cost",
+    "Average annual turnover on construction works (CA certified) at least 30% of estimated cost over last 3 financial years ending 31 March 2023",
+    "P&L and audited balance sheets for past five years ending 31 March 2023; ITRs and sales tax clearance for last three years",
+    "PAN/ITCC/GST; litigation/blacklisting disclosure; key personnel with PF numbers; list of tools & plants and shuttering materials",
+    "Tender acceptance letter (Annexure II), unconditional bid undertaking (Annexure III), not-blacklisted declaration, relatives in MoPSW/DGLL list, Section IX technical evaluation documents, Make in India self-certification (Annexure VII)"
+  ],
+  "specs": [
+    "Machine room less (MRL) lift, 10 passengers / 680 kg, SS glass cabin"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITPuducherrylift.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 04.07.2024; two-cover percentage rate tender; download/submission 08.07.2024 10:00 to 30.07.2024 15:00; opening 31.07.2024 15:00. Location printed as Puducherry Lighthouse, Puducherry. Section I only; no BOQ."
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "bhirbhanjan-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Bhidbhanjan Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1935,
+  "alol": "F 0412",
+  "position": {"lat_text": "20° 53.9' N", "lon_text": "70° 23.0' E", "lat": 20.898333, "lon": 70.383333},
+  "elevation_m": 9,
+  "characteristic_text": "Fl R 10 Sec. (0.5+9.5=10 Sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["R"],
+    "period_s": 10,
+    "sequence_text": "0.5+9.5=10 Sec",
+    "sequence_s": [0.5, 9.5],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 9, "geographical_nm": null, "text": "9 NM (single unlabelled range)"},
+  "tower": {"type": "White Square Masonry Tower, Red bands", "height_m": 6, "colour_scheme": "Red and White band"},
+  "optic": {
+    "make": "ANA", "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Rotation Device: N/A; R.P.M.: N/A; Illuminant: LED Light; Pedestal: M.S. Angle Iron",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 2.290833,
+    "divergence_text": "2° 17.45' (Vertical)",
+    "illuminant": "LED Light"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "-"},
+  "ais": {"present": false, "text": "NAIS - -"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": null, "text": "Mains 230 V; Solar plant for LH TATA BP 12V/70W x2 with 12V 200AH battery; solar for automation 70W x2"},
+  "issues": ["Effective beam intensity given as 'Flashing Light' instead of a candela value", "Name printed 'Bhidbhanjan' while slug is 'bhirbhanjan'"]
+}

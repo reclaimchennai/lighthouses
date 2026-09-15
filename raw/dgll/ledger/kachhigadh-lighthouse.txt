@@ -1,0 +1,171 @@
+                       मास्टर लेजर/MASTER LEDGER
+
+                            कछीगढ़ दीपस्तंभ / Kachhigadh Lighthouse
+
+क्रमसंख्या/             नाम /Name
+                                                                         वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0397
+     2        स्थान/Position                     Lat : 22º 19.87’N        Long : 68º 56.92’E
+    3         ऊंचाई/Elevation                    33 M (Above MSL)
+    4         अभिलक्षण/Characteristic            Fl(4)W15 Sec. (0.4+1.5)3+0.4+8.9=15 Sec)
+    5         नॉटिकलमाइलमेदरू ी                  25.7 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                           Circular concrete Tower
+                                                 Height                         30M
+                                                 Colour Scheme                  3 Red and 2 White bands (Bottom
+                                                                                band Red)
+    7         ऑप्टिकलउपकरण                       Optic
+              Optical equipment                  Make                           BBT
+                                                 Type                           MBR-300
+                                                 Size
+                                                 No. of lens                    4
+                                                 Area of dioptric portion
+                                                 Area of catadioptric portion
+                                                 Divergence                     9º (Horizontal)
+                                                 Main/Emergency                 9º (Vertical)
+                                                 Duration of Flash              0.4Sec
+                                                 Main /Standby/Emergency
+                                                 Pedestal                       Mercury float
+                                                 Rotation Device                Stepper motor
+                                                 R.P.M.                         4
+                                                 Illumining
+                                                 Main                           230V/150W Metal Halide Lamp
+                                                 Standby
+                                                 Emergency:
+                                                 Date of Installation
+    8         प्रिािीबीमतीव्रता/Effective beam   Main
+              intensity                          Emergency
+    9         लेंिनन/Lantern                     Diameter                       3.0m
+                                                 Height of glazing              2.0m
+                                              No. of panes                      12
+                                              Ventilators                       08
+     10   RACON                                    Sr. No
+          Make                Model           Code                              Band                     Date of
+                                                                                                         Installation
+
+     11   NAIS –NA
+          Base Station
+
+          Model               Type            Power                             MMSI
+
+          Communication
+          Equipment
+          VSAT Antenna        Band            Modem
+
+          DGPS
+          Transmitter Make    Frequency       Power Output RS 1 ID              RS -II      Beacon       Date of      Dat
+                                                                                ID          ID           commis       e of
+                                                                                                                      Re
+                                                                                                         sioning      cap
+                                                                                                                      itali
+                                                                                                                      zati
+                                                                                                                      on
+
+
+
+     12   ऊर्ानकेसाधन/Sour    Mains                                             440V/3-phase/50 Hz
+          ce of energy        Power Source                                      DG Set 15 KVA make Kirloskar
+                              Engine 1
+                              Make/Type                    Qty       Rating     No of           RPM             Cooling
+                                                                                Cylinder
+                              Kirloskar                    1         20.5 BHP   2               1500            Air
+                              Alternator
+                              Make/Type                    Qty       Rating     Voltage/Amp     Frequency       Phase
+                              Kirloskar                    1         15 KVA     230V/62A        50Hz            Single
+                              Solar Plant
+                              Capacity PV                  Numbers              Type       Battery              Bank
+                              3 KWp                        12 Nos               Mono       48 Nos               01 No.
+                                                                                Crystall   2V/300AH
+                                                                                ine
+                              Solar Plant for Main RACON
+                              Capacity PV                  Numbers              Type       Battery              Bank
+
+
+     13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make               Model            Capa         Input                Output                Phase     Qty
+          ARGO               N/A              7.5          180 To 250V          220                   3         1
+                                              KV
+                                              A
+14        बैिरर
+          Batteries
+     Equipment            Type             Make       Volt                       Amp/      Qty
+                                                                                 Hr
+     PSS NAIS                    -            -                -                    -                  -
+     Genset                Lead acid       Exide      12V                        90AH      1
+     Automation
+     DGPS
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make             Mode Type                             Ratin     Qty
+                                           l                                     g
+     General Purpose
+     Automation             Power X         ---              ----                 15                   01
+                             Engg                                                Amps
+16   इंवटट रInverter /UPS
+     Equipmen Nos Make             Model                      Type               Rating        Qty input           output
+     t
+     Main            ---  ---                 ---                   ---              ---         ---        ---      ---
+     Light
+     NAIS PSS
+     DGPS
+
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE       PLC               HMI             Power Supply            VSAT             Modem            Band
+
+18   आप्ननशमनउपकरण                         Type of Extinguisher           Capacity             Nos          Make
+     Fire Fighting Equipment               DCP Type                       4 kg                 4
+                                           Water Co2                      -                    -
+                                           Foam Type                      -                    -
+19   संचार                                 Not Available
+     Communication
+20   र्लपर्ू तन                            Well is provided inside the Lighthouse, compound and
+                                           electric pump provided for rain water.
+     Water Supply
+21   िूभम                                  Area                                            1.3480 hectares
+     Land                                  Demarcation                                     Masonary compound wall
+                                                                                           on all the four sides
+22   इमारतें                               RCC Structure: 05 Nos                           Inspection Quarter,
+     Buildings                                                                             Powerhouse, Store,
+                                                                                           One twin unit of LHA
+                                                                                           Quarters
+
+                                           Timber Construction above plinth
+                                           level
+23   कंपाउं डलाइि                          8 Nos. G.I. Poles with
+     Compound Lights
+                                     LED lamp fitted
+                                     Gate Light-02
+                                      10 Nos Solar LED
+                                      street Light
+
+
+
+
+                                                     Gate lights
+                                      – 2 Nos. 10 Nos Solar
+                                      LED street Light
+24   सीसीिीिीकमेरा                   Camera
+      CCTV CAMERA                    DVR
+25   स्िाफ                           Sl. No          Designations
+     Staff                           1           Navigational Assistant -II
+                                     2           Navigational Assistant -III
+26   पहुँचनेकामाध्यम                 By Train up to Varvala , Then 4Km by road up to
+                                     Shivrajpur and then 3kms rough road up to Lighthouse
+     Mode of approach
+27   उपलब्धसविधाए                    Police Station, Dispensary and Highschool at Dwarka 13
+                                     km from Lighthouse , Post office at Mithapur 14 Km from
+     Facilities available
+                                     Lighthouse
+
+
+
+28   डाकपताPostal address
+29   मल्ू यकाब्योराCost details      N/A
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक
+     Date of commissioning
+

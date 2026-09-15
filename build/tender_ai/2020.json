@@ -1,0 +1,51 @@
+{
+  "nid": 2020,
+  "title": "Repair & Maintenance of Zanjmer Lighthouse Station",
+  "summary": "Offline sealed quotation (percentage basis) for plaster repair, painting, teak wood door/window shutters, melamine polishing and CP brass fittings at the lighthouse tower of Zanjmer (Jhanjhmer) Lighthouse, Bhavnagar District, Gujarat.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "CM-JM-04006/1/2021-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, P.N. Marg, Jamnagar"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Zanjmer Lighthouse, Via-Pithalpur, Dist-Bhavnagar-364135", "station_id": "jhanjhmer-lighthouse", "kind": "lighthouse", "work": "Repair and maintenance of lighthouse tower"}
+  ],
+  "scope": [
+    {"item": "Repair to plaster 12-20 mm in patches up to 2.5 sqm with white cement based polymer modified self curing mortar; rate 869.55, amount 4,686.88", "qty": "5.39", "unit": "Sqm", "site": "Zanjmer Lighthouse"},
+    {"item": "Dismantling doors, windows and clerestory windows (steel or wood) shutter incl. chowkhats, architrave, holdfasts, stacking within 50 m; rate 475.89", "qty": "1.00", "unit": "Each", "site": "Zanjmer Lighthouse"},
+    {"item": "Painting with synthetic enamel paint (Asian/Berger), one or more coats on old work; rate 112.17, amount 9,828.23", "qty": "87.62", "unit": "Sqm", "site": "Zanjmer Lighthouse"},
+    {"item": "Finishing walls with acrylic smooth exterior paint (Asian/Berger weather coat), new work, two or more coats @ 1.67 ltr/10 sqm over primer @ 0.90 ltr/10 sqm; rate 208.14, amount 15,089.98", "qty": "72.50", "unit": "Sqm", "site": "Zanjmer Lighthouse"},
+    {"item": "Providing and fixing 2nd class teak wood 35 mm thick panelled/glazed shutters for doors, windows and clerestory windows (butt hinges and screws paid separately); rate 9,635.95, amount 20,717.30", "qty": "2.15", "unit": "Sqm", "site": "Zanjmer Lighthouse"},
+    {"item": "High gloss/matt finish melamine clear polish on wood work (sealer, filler, two coats melamine polish by spray gun); rate 1,763.14, amount 8,533.61", "qty": "4.84", "unit": "Sqm", "site": "Zanjmer Lighthouse"},
+    {"item": "CP brass aldrop 300x16x5 mm (Godrej/Spheero heavy duty) for lighthouse tower main door; rate 417.57", "qty": "1.00", "unit": "Each", "site": "Zanjmer Lighthouse"},
+    {"item": "CP brass tower bolt 250x10 mm; rate 572.31, amount 1,716.94", "qty": "3.00", "unit": "Each", "site": "Zanjmer Lighthouse"},
+    {"item": "CP brass handle 125 mm; rate 299.44, amount 898.32", "qty": "3.00", "unit": "Each", "site": "Zanjmer Lighthouse"},
+    {"item": "CP brass hanging type door floor rubber stopper; rate 157.66, amount 315.32", "qty": "2.00", "unit": "Each", "site": "Zanjmer Lighthouse"},
+    {"item": "CP brass butt hinges 125x85x5.5 mm (heavy type); rate 348.17, amount 2,089.02", "qty": "6.00", "unit": "Each", "site": "Zanjmer Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 64769.0,
+    "emd_inr": 1300.0,
+    "tender_fee_inr": null,
+    "performance_security": "10% of contract value as performance guarantee/security deposit after LOI, released after satisfactory completion",
+    "notes": "Estimate Rs 64,769 including GST. EMD by DD/FDR in favour of The Director of Lighthouses & Lightships, Jamnagar. Bidders quote excess/less percentage on estimate. Rates inclusive of GST and all taxes; TDS-GST, income tax and labour cess deducted. Payment within 30 days of bill; no advance."
+  },
+  "period": {"completion": "30 days from date of issue of work order", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-09-17", "pre_bid": null, "bid_submission_end": "2025-09-29", "bid_opening": "2025-09-29"},
+  "eligibility": [
+    "Valid registration of appropriate class in civil work category with Central/State Govt department/undertaking/autonomous body",
+    "Similar works completed in last 7 years in government organizations: three >= 40%, two >= 50% or one >= 80% of estimated cost"
+  ],
+  "specs": [
+    "Paints: Asian/Berger; CP brass fittings: Godrej/Spheero heavy duty; 2nd class teak wood 35 mm shutters"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Zanjmer NIQ.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned NIQ with Annexure-I terms and Annexure-II percentage-basis schedule (pages 3-4 rotated landscape). Station spelt 'Zanjmer'; matched to Jhanjhmer Lighthouse in the station list. Submission 29/09/2025 15:00, opening same day 16:00 at Deep Bhavan, Jamnagar. Listing shows opening 2025-09-30. Bid validity not printed."
+}

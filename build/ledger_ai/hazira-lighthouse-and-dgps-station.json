@@ -1,0 +1,44 @@
+{
+  "slug": "hazira-lighthouse-and-dgps-station",
+  "pages_read": [1, 2, 3],
+  "name": "Hazira Lighthouse & DGPS station (Suvali Point)",
+  "station_type": "lighthouse",
+  "established_year": 1966,
+  "alol": "F 0476",
+  "position": {"lat_text": "21° 05.53' N", "lon_text": "72° 38.55' E", "lat": 21.092167, "lon": 72.6425},
+  "elevation_m": 39,
+  "characteristic_text": "Fl (3)W 15 Sec. (fl. 0.4, ec. 2.10)(fl. 0.4,ec.2.10) (fl 0.4, ec. 9.60)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "fl. 0.4, ec. 2.10, fl. 0.4, ec. 2.10, fl 0.4, ec. 9.60",
+    "sequence_s": [0.4, 2.10, 0.4, 2.10, 0.4, 9.60],
+    "flash_duration_s": 0.4
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 24, "geographical_nm": null, "text": "24 NM (unlabelled range)"},
+  "tower": {"type": "Circular Stone Masonry Tower", "height_m": 25, "colour_scheme": "White"},
+  "optic": {
+    "make": "B.B.T", "model": null, "type": "Revolving", "size": "250 mm", "order": "4th Order",
+    "panels": 6,
+    "rotation_device": "Dual Stepper Motor 40 Kgcm with auto changeover; Clock machine with hand winding kept as standby",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving; Rotation Device: Dual Stepper Motor 40 Kgcm; R.P.M. 2",
+    "divergence_horizontal_deg": 12.54,
+    "divergence_vertical_deg": 9.12,
+    "divergence_text": "12.54° (Horizontal) & 9.12° (Vertical)",
+    "illuminant": "3x150 W Metal Halide Lamp Cluster"
+  },
+  "intensity_cd": 72054,
+  "racon": {"present": true, "code": "K", "text": "Sr. No. ALORS 78980; Tideland (frequency Agile) Sea beacon 2 System 6; Code K; X+S Band; installed 6th May-2005"},
+  "ais": {"present": true, "text": "NAIS: R40 Base Station AIS-1, AIS-2; Model R 40, Class A, 12.5 W, MMSI 4192222"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains DGVCL 415V AC 3 phase 50Hz; Standby Diesel Generator-02 Nos (Kirloskar HA494 43BHP, 35KVA alternators); solar plant 3 x 17.5V/200W; RACON solar 1 x 17V/75W"},
+  "issues": [
+    "No. of lens given as '6 (2 Tier of 3 Panels each of 60°)'",
+    "RACON Sr. No. 'ALORS 78980' is identical to the one printed in the Aguada ledger"
+  ]
+}

@@ -1,0 +1,237 @@
+मास्टर लेजर/MASER LEDGER
+ मसं                नाम /Name
+ख्या/                                                             वििरण/Description
+Sr.No
+
+ 1      ए.एल.ओ.एल/A.L.O.L.         0692
+
+ 2      स्थान/Position             Lat.10° 46.5’ N , long 75° 55.3’ E
+
+ 3      ऊंचाई/Elevation            34.13 M (Above MSL)
+
+ 4      अविलक्षण/Character         Single Flash White - 15 sec (0.48+14.52=15 sec)
+
+
+
+ 5      नॉविकल माइल मे दूरी        Luminous : 20.6 NM
+
+        Range in miles             Geographical : 16.82 NM
+
+
+ 6      दीपस्तं ि िािर/L.H.Tower   Type                               24 Cornered Circular RCC Tower
+
+                                   Height                             30M
+
+                                   Colour Scheme                      Black and White Band
+ 7      ऑविकल उपकरण                Optic                              Revolving
+        Optical equipment
+                                   Make                               J Stone & Co, Kolkata, India
+
+                                   Type                               Beacon
+
+                                   Size                               300mm / Vth order Large revolving
+
+                                   No. of lens                        2
+                                   Area of dioptric portion           ----
+                                   Area of catadioptric portion       ----
+
+                                   Total corrected area               2737 cm2
+
+                                   Divergence                         3.8º (Horizontal)
+                                   Main/Emergency                     7.6º (Vertical)
+                                   Duration of Flash                  0.48 Sec
+                                   Main /Standby/Emergency
+
+                                   Pedestal                           Ball Bearing Type
+
+                                   Rotation Device                    Dual Stepper motor (20 kg/cm2
+
+                                   R.P.M.                             2
+
+                                   Illuminant                         Metal Halide Lamp
+
+                                   Main                               230V/50W Metal Halide Lamp
+                                                 Standby                               NA
+
+                                                 Emergency:                            NA
+
+                                                 Date of Installation                  17-04-1983
+
+8    प्रिािी बीम तीव्रता/ Effective beam         Main                                  141100 cds
+     intensity
+                                                 Emergency                             NA
+9    लें िनन /Lantern                            Diameter                              2.4 m
+
+                                                 Height of glazing                     1.380m
+
+                                                 No. of panes                          12 Nos
+                                                 Ventilators                           11 Nos
+
+10   RACON                                              Sr. No                             6295
+     Make                    Model               Code                                  Band                   Date of
+                                                                                                              Installation
+
+     NA
+
+11   NAIS
+     Base Station                                   2 Nos-AIS1 & AIS2
+
+
+
+     Model                   Type                Power                                 MMSI
+
+     SAAB, R40               Class A             AC-230V & DC-12V
+
+     Communication
+     Equipment
+
+     VSAT Antenna            Band                Modem
+          NA                 NA                  BSNL ,Tellabs
+
+     DGPS                                                                         NA
+
+12   ऊर्ान के साधन/          Mains                                                     Local Mains 440V, 3ϕ, 50Hz, AC Supply
+     Source of energy
+                             Power Source                                              DG Set 7.5 KVA make Kirloskar
+                             Engine 1
+
+                             Make/Type                     Qty          Rating         No of          RPM             Cooling
+                                                                                       Cylinder
+
+                             Kirloskar / EA-16             1            16BHP          2              1500            Air
+
+                             Alternator
+
+                             Make/Type                     Qty          Rating         Voltage/Amp    Frequency       Phase
+
+                             Kirloskar / KG 164 H          1            7.5 KVA        240V/31.25 A   50Hz            Single
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र Automatic Voltage Stabilizers
+
+
+
+          Make                     Model             Capa       Input                        Output                 Phase      Qty
+                                                     city
+
+          SUPRA                    N/A               5KVA       120 - 270 V                  230 V                  Single ϕ   1
+
+14        बैिरर Batteries
+
+          Equipment                Type              Make        Volt                        Amp/       Qty
+                                                                                             Hr
+          PSS NAIS                 SMF               Exide       12V                         150        2
+                                                                                             AH
+
+          Genset                   SMF               SF          12V                         100        1
+                                                     SONIC                                   AH
+
+          Main Light               SMF               Exide       12V                         150        4
+                                                                                             AH
+
+     15   बैिरर चार्न र/ Battery charger
+
+
+
+          Equipment                Make              Model Type                              Rating Qty
+
+           General Purpose         Little Savage      ----        Dimmer Stat                 15        01
+                                                                                             Amps
+
+                                      Locally         ---           Dimmer Stat               30        01
+                                     Fabricated                                              Amps
+
+     16   इं वर्ट रInverter /UPS
+
+          Equipment      Nos       Make      Model                          Type             Rating          Qty     input         Output
+          Main Light        ---      ---                 ---                    ---               ---         ---        ---         ---
+
+          NAIS PSS       01        APC               1000 VA                Pure sine        1 KVA           1       230V AC       230VAC
+                                                                            wave
+
+     17   स्वचलन उपकरण
+
+          Automation Equipment
+
+          MAKE          PLC                HMI               Power Supply             VSAT              Modem          Band
+
+          RDS           Allen Bradley      Renu              230 V with UPS           1.2m dia          Hughes         EX.C
+                                           ElectronicP
+                                                                                      Parabolic
+                                           vt Ltd
+                                                                                      reflector
+
+     18                                              Type of Extinguisher             Capacity               Nos        Make
+     आवि शमन उपकरण             DCP Type                     9 kg              1
+
+     Fire Fighting Equipment                                3,2 kg            2
+                                                            4 kg              3
+                                                            2 kg              5
+                                                            1kg               1
+
+                               Co2                          9 kg              1
+                                                            2 kg              2
+                                                            4.5 kg            4
+                               Foam Type                    9 Ltr             1
+
+19   संचार Communication       BSNL Landline with broadband
+                               connectivity. 0494-2666028
+
+20   र्ल पूवतन                 (i) Kerala Water Authority
+
+     Water Supply              (ii) Open Well provided in the lighthouse compound for watering of plants
+                               (iii) Water Supplied from Kerala Water Authority is collected at sump of
+                               capacity 6000 litres and pumped to over head tank of capacity 2000 litres
+                               using 1HP , 230 V, 1 phase motor
+21   िू वम                     Area                                         0.2824 hectare
+
+     Land                      Demarcation                                  Masonry Compound Wall and
+                                                                            RCC slab wall at western side
+
+22   इमारतें                   RCC Structure: 07 Nos                        Office building (Office room,
+                                                                            Store room , Recreation
+     Buildings                                                              room and Power house)
+
+                                                                            NA - I Qtr , NA- II Qtr (2Nos),
+                                                                            LHA Qtr (Twin) , Inspection
+                                                                            Qtr and Lighthouse Tower
+
+23   कंपाउं ड लाइि             (i) 7 Nos GI Poles with 24 Watt LED
+                               Fittings.
+     Compound Lights
+                               (ii) 2 Nos LED Lamps fittings at gate
+
+
+24   सीसीिीिीकमे रा                                                    NA
+
+     CCTV CAMERA
+
+
+25   स्टाफ                     Sl. No         Designations
+
+                               1              Navigational Assistant Gr - I : 1 No
+     Staff                           2             Navigational Assistant Gr - II : 1 No
+
+                                     3             Lighthouse Attendant : 1 No
+
+26   पहुँ चने का माध्यम              By Rail upto Kuttipuram and By Road 20.5 km by Bus
+
+     Mode of approach
+
+27   उपलब्ध सुविधाए                  Police Station (2.5 Km) , School and College (2 Km) , Post office (0.5
+                                     Km) and Hospital (2 Km) from Lighthouse
+     Facilities available
+
+
+28   डाक पताPostal address           Navigational Assistant Gr-I
+
+                                     Ponnani Lighthouse
+
+                                     Ponnani Nagaram (PO)
+
+                                     Malappuram Dist , Kerala – 679583
+
+29   मू ल्य का ब्योराCost details    N/A
+     (At the time of Construction)
+
+30   प्रितनन मे लाने का दे नां क     17.04.1983
+     Date of commissioning
+

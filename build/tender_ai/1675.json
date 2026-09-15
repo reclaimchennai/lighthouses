@@ -1,0 +1,50 @@
+{
+  "nid": 1675,
+  "title": "Conducting Technical cum Commercial Feasibility Study for installation of Lift at Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai Lighthouses.",
+  "summary": "E-tender (percentage rate) for a technical and commercial feasibility study on installing lifts in the towers of Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai lighthouses in Tamil Nadu, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(29)/1/2024-Civil Maintenance; Tender ID 2024_DGLL_809194_2",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Poompuhar Lighthouse", "station_id": "poompuhar-lighthouse", "kind": "lighthouse", "work": "Feasibility study for lift installation"},
+    {"name": "Kodikkarai Lighthouse", "station_id": "kodikkarai-lighthouse", "kind": "lighthouse", "work": "Feasibility study for lift installation"},
+    {"name": "Nagapattinam Lighthouse", "station_id": "nagapattinam-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Feasibility study for lift installation"},
+    {"name": "Mallipattinam Lighthouse", "station_id": "mallipattinam-lighthouse", "kind": "lighthouse", "work": "Feasibility study for lift installation"},
+    {"name": "Kilakkarai Lighthouse", "station_id": "kilakkarai-lighthouse", "kind": "lighthouse", "work": "Feasibility study for lift installation"}
+  ],
+  "scope": [
+    {"item": "Conducting technical cum commercial feasibility study for installation of lift", "qty": null, "unit": null, "site": "Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai Lighthouses"}
+  ],
+  "money": {
+    "estimated_cost_inr": 731000.0,
+    "emd_inr": 14620.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of any scheduled/nationalized bank in favour of Director of Lighthouses and Lightships, Chennai, valid three months from technical bid opening; originals up to 29.07.2024 15:00. Corrigendum makes it a percentage rate tender (quote % above/below estimated cost; tie-break by revised offers then draw of lots; 50% EMD forfeited for refusing revised offer)."
+  },
+  "period": {"completion": "60 days from the date of award of contract", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-07-12", "pre_bid": "2024-07-24", "bid_submission_end": "2024-07-29", "bid_opening": "2024-07-30"},
+  "eligibility": [
+    "Valid registration and experience in similar works with State/Central Govt/PSU/autonomous bodies, and valid CEIG registration certificate",
+    "Average annual financial turnover at least 40% of estimated cost",
+    "Similar works in last seven years: three each >= 40%, or two each >= 50%, or one >= 80% of estimated cost; similar work = technical cum commercial feasibility study for installation of elevators/lifts for multi-storeyed buildings/towers",
+    "Or: reputed lift/elevator OEMs or authorised agencies with lift installation in multi-storeyed buildings/towers for government bodies: one work >= Rs 35 lakh, or two each >= Rs 22 lakh, or three each >= Rs 18 lakh",
+    "Only fully completed works with completion certificates from officers not below Executive Engineer",
+    "PAN/ITCC/GST; key technical personnel; unconditional tender undertaking (Annexure III); tender acceptance letter (Annexure II); non-blacklisting affidavit; list of relatives in MoPSW/DGLL"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-07-12", "change": "Tender declared a percentage rate tender, with rules for quoting percentage above/below estimated cost, invalid bids, tie-breaking by revised offers and draw of lots, and 50% EMD forfeiture for refusing revised offers"}
+  ],
+  "documents": [
+    {"file": "NITFeasibilitystudy.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled (font mojibake); English portions read"]},
+    {"file": "TechCorrigendumFeasibilitystudy.pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only; no terms of reference or BOQ. NIT dated 12.07.2024 but download/submission period printed as 30.05.2024 10:00 to 29.07.2024 15:00; Tender ID suffix _2 indicates a re-tender. Opening 30.07.2024 15:00."
+}

@@ -1,0 +1,244 @@
+                    मास्टर लेजर/MASTER LEDGER
+क्रमसं        नाम /Name
+ ख्या/                                                  वििरण/Description
+Sr.No
+
+  1       ए.एल.ओ.एल/A.L.O.L.                                  F 0644
+
+  2          स्थान/Position                               Lat. 140 16.5’N
+                                                         Long. 740 26.6’E
+  3         ऊंचाई/Elevation                                    38m
+
+  4      अविलक्षण/Characteristi                            fl W 15 Sec.
+                   c
+  5        नॉविकलमाइलमेदूरी         i)         Luminous                       :       18 NM
+             Range in miles         ii)        Geographical                   :       19 NM
+
+
+  6      दीपस्तंििािर/L.H.Tower              Type              Octagonal RCC column Tower
+
+                                            Height                          21 m
+
+                                    Colour Scheme                    Red & White bands
+  7        ऑविकलउपकरण                       Optic                             -
+           Optical equipment
+                                            Make                       Wealth Marine Pvt. Ltd.,
+                                                                         Singapore
+                                             Type                       WM – RB 500 Marine
+                                                                       Rotating Beacon
+                                             Size                                 200mm
+                                          No. of lens                   6 (3 fresnel lense + 3
+                                                                           blanks)
+                                    Area of dioptric                          —
+                                       portion
+                                  Area of catadioptric                        —
+                                        portion
+                                     Divergence               Horizontal - 1.650, Vertical 2.420
+                                   Main/Emergency
+                                    Duration of Flash              0.1 sec
+                                          Main
+                                  /Standby/Emergency
+
+                                       Pedestal             GI rectangular pedestal
+                                    Rotation Device          2 Nos. Stepper Motors.
+                                        R.P.M.                      0.67
+                                       illumining        70 W Metal Halide Lamp
+                                         Main               230 v /70w lamp
+                                       Standby                       —
+                                      Emergency:                     —-
+                                  Date of Installation           28.03.2008
+8    प्रिािीबीमतीव्रता/Effectiv     Main & Standby                    56757 cd
+          e beam intensity
+                                      Emergency                       --
+9         लेंिनन /Lantern              Diameter                    2.4 mtr.
+                                   Height of glazing              1.35 mar
+                                     No. of panes         12 Nos. glazing panes
+                                      Ventilators                  6 Nos.
+10           RACON                      Sr. No                       N/A
+         Make         Model              Code             Band                 Date of
+                                                                             Installation
+          N/A           N/A              N/A              N/A                   N/A
+11                                              NAIS
+           Base Station
+
+
+        Model          Type             Power             MMSI
+          R40                            230 V           4192236
+     Communicati
+          on
+      Equipment
+        VSAT           Band            Modem
+       Antenna
+      2.4m dia        EX-C               Hughes
+      Parabolic                      model no -HT2300
+      reflector
+        DGPS
+     Transmitter     Frequen         Power            RS 1 ID      RS -II Beacon ID Date of Date
+        Make            cy           Output                         ID              commis    of
+                                                                                            Recap
+                                                                                    sioning italiza
+                                                                                                             tion
+
+         N/A          N/A              N/A              N/A         N/A             N/A             N/A      N/A
+
+
+12   ऊर्ान केसाधन/                     Mains                        440V, 3 phase 50H , Solar panels
+      Source of
+                                     Standby                                          Genset
+       energy
+                                                              Engine 1
+
+                       Make/Type             Qty        Rating        No of               RPM             Cooling
+                                                                     Cylinder
+
+                             Kirloskar               1 11.8 KW                  2            1500                   A
+                              EA/16                    16 BHP                   N                                   ir
+                                                                                o                                   C
+                                                                                                                    o
+                                                                                s
+                                                                                                                    o
+                                                                                                                    le
+                                                                                                                    d
+
+                                                              Alternator
+
+                       Make/Type             Qty        Rating      Voltage/A         Frequency           Phase
+                                                                       mp
+
+                     Kirloskar Green          1         7.5 KVA    240V /31.2             50 Hz           Single
+                                                                       A
+
+                                                              Engine 2
+
+                       Make/Type             Qty        Rating        No of               RPM             Cooling
+                                                                     Cylinder
+
+
+
+                                                              Alternator
+
+                       Make/Type             Qty        Rating      Voltage/A         Frequency           Phase
+                                                                       mp
+
+
+
+
+                                     Solar Plant
+
+                       Capacity PV                 Numbers               Type             Battery          Bank
+                        75W/12V                  05nos         Monocrystal    12v/510Ah     2
+                        80W/12V                  04nos            line
+                             Solar Plant for Main RACON                        N/A
+                        Capacity PV             Numbers              Type      Battery    Bank
+
+                           N/A                   N/A                 N/A        N/A       N/A
+13                                     स्वचावलतिोल्टे र्स्टे बलाइर्र
+                                      Automatic Voltage Stabilizers
+
+
+       Make           Model       Cap            Input              Output      Phase     Qty
+                                  acit
+                                   y
+              Auto    KYC25C                5 160 - 260              230 V      Single    01 no
+       Elect Ltd                            K
+                                            V
+                                            A
+
+14                                                 बैिरर
+                                                 Batteries
+
+     Equipment        Type        Make            Volt          Amp/Hr          Qty
+      PSS NAIS         SMF          HBL           12V               150AH      02 nos
+      Genset         Lead Acid EXIDE              12V               100AH      01 nos
+
+
+     Automatio       EP 26-12      Exide          12V               26 AH      02 nos
+         n
+       DGPS            N/A          N/A           N/A                N/A        N/A
+15                                     बैिररचार्नर/ Battery charger
+
+
+     Equipment        Make         Mo            Type               Rating      Qty
+                                   del
+                                   L-3220
+      General        1)Aplab                                        0 - 20A    01 no
+      Purpose        2)Oswal       Line
+                                                                               01 no
+                                    on                                5A
+
+
+     Automation      Powerex                                         15 A      01 no
+                       Engg
+16                                          इं ििन रInverter /UPS
+     Equip No Make               Model            Type     Rating    Qty          input     outpu
+     ment s                                                                                   t
+     Main     1    Exide         DSP PST          Pure     850VA      1           12V       230V
+     Light                                        sine
+                                                  wave
+     NAIS     1    Exide         DSP PST          Pure     1450V      1           24V       230V
+     PSS                                          sine       A
+                                                  wave
+     DGPS
+17                                     स्वचलनउपकरण
+                                    Automation Equipment
+
+     MAK       PLC         HMI      Power Supply         VSAT       Modem               Band
+      E
+     NEL Telemacani Schneid            24V DC
+     CO que 4port      er
+           switch   Electric
+18      आविशमनउपकरण                  Type of             Capacity         Nos             Make
+     Fire Fighting Equipment       Extinguisher
+                                  DCP Type(u/s)            5kg             2         Queen Fire
+                                  DCP Type(u/s)           -NA-
+                                  Foam Type(u/s)          -NA-
+                                 Water Type(u/s)          -NA-
+                                    DCP Type              -NA-
+
+
+
+
+19         संचार                  BSNL Tel. No - +91-8387 200631           BSNL internet FTTH
+        Communication
+
+20           र्लपूवतन                             Municipal water connection
+           Water Supply
+
+21             िूवम                             Area                      LH & PH - 214 Sq. mt.,
+               Land                                                         Qtrs – 414 Sq.mt
+                                           Demarcation                         Laterite masonry
+                                                                                  compound
+22            इमारतें                       Quarters-                               2 Nos
+             Buildings
+23        कंपाउं डलाइि                      Street Light                          04nos
+        Compound Lights                      Gate Light                           02nos
+
+24       सीसीिीिीकमेरा                           Camera                           N/A
+         CCTV CAMERA
+                                                  DVR                             N/A
+25            स्टाफ              Sl. No                          Designations
+              Staff
+                                   1                        Mairaj Naseem Ansari
+                                                        Navigational Assistant Grade-II
+
+
+26      पहुँ चनेकामाध्यम         By rail upto Honavar, then 6.5 kms. by auto upto Honavar
+       Mode of approach                            LH in Civil Hospital Campus
+
+27       उपलब्धसुविधाए           Marine Police                            3km
+       Facilities available        Station
+                                   Dispensary                         100 metre
+                                  High School                             4km
+                                   Post office                           1.5 km
+28   डाकपताPostal address          Station Incharge, Honavar Lighthouse,Civil Hospital
+                                                         Campus.
+                                 P.O. Honavar, Dist- Uttara Kannada ,Karnataka - 581334
+
+
+
+29   मूल्यकाब्योराCost details                            Rs. 72,22,700/-
+          (At the time of
+           Construction)
+30    प्रितननमेलानेकादे नां क                               31.03.2008
+     Date of commissioning
+

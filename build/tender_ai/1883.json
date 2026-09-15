@@ -1,0 +1,38 @@
+{
+  "nid": 1883,
+  "title": "Construction of New Quarters for NA Gr-I/II and Improvement, Special repairs to the Manapad Lighthouse station.",
+  "summary": "E-tender (works, two-cover) for construction of new quarters for Navigational Assistant Grade I/II and improvement and special repairs at Manapad Point Lighthouse, Tamil Nadu (Chennai Directorate).",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(23)/1/2020-Civil Maintenance; Tender ID 2025_DGLL_854664_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Manapad Lighthouse (PIN 628209)", "station_id": "manapad-point-lighthouse", "kind": "lighthouse", "work": "Construction of new quarters for NA Gr-I/II; improvement and special repairs to station"}
+  ],
+  "scope": [
+    {"item": "Construction of New Quarters for NA Gr-I/II and Improvement, Special repairs to the Manapad Lighthouse station", "qty": null, "unit": null, "site": "Manapad Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 14097977.0,
+    "emd_inr": 281960.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender value per CPPP. EMD fixed, by DD/FDR payable to Director of Lighthouses and Lightships at Chennai; EMD exemption allowed. Tender fee Nil. TIA undertaking: PPP-MII Order 2017 and MSEs Order 2012 marked 'Not Applicable'."
+  },
+  "period": {"completion": "270 days", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2025-03-27", "pre_bid": "2025-04-11", "bid_submission_end": "2025-04-17", "bid_opening": "2025-04-18"},
+  "eligibility": [
+    "Contractors registered with CPWD, State PWD, Railways, MES, BSNL etc. or with any other State/Central Government/PSU/autonomous bodies (pre-qualification per CPPP page; detailed criteria in TenderManapad.pdf, not included)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Manapad Tender.pdf", "pages": 3, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Document is only the CPPP 'Tender Details' printout (dated 26-Mar-2025), not the NIT itself; referenced Tendernotice_1.pdf, TenderManapad.pdf, BOQ_898573.xls and Drawing.pdf are not included. Publish 27.03.2025 09:00; download and bid submission 27.03.2025 10:00 to 17.04.2025 15:00; pre-bid 11.04.2025 15:00 at DLL Chennai; bid opening 18.04.2025 15:00. Tender created by Assistant Engineer (Civil). Bid-opener names/login e-mails (one personal gmail) not transcribed."
+}

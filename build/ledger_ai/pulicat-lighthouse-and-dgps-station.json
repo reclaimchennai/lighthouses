@@ -1,0 +1,44 @@
+{
+  "slug": "pulicat-lighthouse-and-dgps-station",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Pulicat Lighthouse and DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1986,
+  "alol": "F 0950",
+  "position": {"lat_text": "13° 25' N", "lon_text": "80° 20' E", "lat": 13.416667, "lon": 80.333333},
+  "elevation_m": 53.5,
+  "characteristic_text": "Single FL (1) WHITE Every 5 Seconds (0.25 + 4.75)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": "0.25 + 4.75",
+    "sequence_s": [0.25, 4.75],
+    "flash_duration_s": 0.25
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 26, "geographical_nm": 19, "text": "26 NM (Luminous), 19 NM (Geographical)"},
+  "tower": {"type": "Hexagonal RCC Tower", "height_m": 49.86, "colour_scheme": "Black and White Bands"},
+  "optic": {
+    "make": "M/S Mediterrane Senales Maritimas (MSM)", "model": "MBR300", "type": "Rotating Beacon; moulded acrylic Fresnel lenses, 6 lens panels with dioptric and catadioptric prisms", "size": "MBR300, 105 mm Focal Distance", "order": null,
+    "panels": 6,
+    "rotation_device": "Brushless DC Direct-Drive motor (step by step)",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Optic: Rotating Beacon; Rotation Device: Brushless DC Direct-Drive motor; R.P.M. 2",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "230V/150W Metal Halide Lamp; Standby 230V/500Watt Pencil beam Lamp"
+  },
+  "intensity_cd": 165900,
+  "racon": {"present": true, "code": "B", "text": "Tideland Sea Beacon 2 Type Sys 6, Code B, X/S Band, installed 18.08.2004"},
+  "ais": {"present": true, "text": "AIS Base station (SAAB-40) Sr. No:5220 and Sr. No:5230"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Three phase TNEB supply; 2 x Kirloskar 20 KVA DG sets; 25 KW grid connected solar plant; 70 W/12V solar for RACON"},
+  "issues": [
+    "Elevation printed as '53.5M (49.86 Mtrs. Above MSL)' and tower height as '49.86 Metres above MSL (53.5 Meters elevation)'; figures are contradictory",
+    "Divergence fields are blank"
+  ]
+}

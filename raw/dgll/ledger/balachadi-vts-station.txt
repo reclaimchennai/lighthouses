@@ -1,0 +1,385 @@
+                     मास्टर लेजर/ MASTER LEDGER
+क्रमसं                     नाम /Name
+ ख्या/                                                                वििरण/ Discription
+Sr.No
+      1.      ए.एल.ओ.एल/A.L.O.L.                          : ---
+      2.      स्थान/Position                              : LAT 22°31.0'N,
+                                                            LONG 70° 14.47'E
+      3.      ऊंचाई/Elevation(above MSL)                  : 60 Meter
+      4.   िी.टी.एस.टािर/V.T.S.Tower                      : RCC Circular concrete Tower
+                                                            Height: 50 Mtrs
+                                                          : White color. (Bottom to Top)
+        5. वी टी एस उपकरण/ VTS EQUIPMENTS:
+
+ क्रमसं                         वििरण/ Discription                      Qty       Location
+ ख्या/
+ Sr.No
+
+ I.          X- band Radar Scanner/ Antenna 18”           01                   Top Tower
+                 HCP Antenna -18, No. 314240-001 REV–C,
+                   Sl. No- 3002
+                 Turning Unit HCP No:519980-001
+                 S/N- 3002
+                 Make Terma
+                 Date of Installation: 13/02/2012
+ II.         X- Band RADAR Transceiver                    02                    Eqptroom
+                 Scanter 2001,9375MHz
+                 RxTx 19, Type 262001-024 Rev F
+                 S/N- 3019
+                 RxTx 20, Type 262001-017 Rev G
+                 S/N- 3023
+                 Date of Installation: 13/02/2012
+ III.        Scanter ACU                                  01                    Eqptroom
+                 Type : 262382-001 Rev H
+                 SNo:3021, Voltage 3X400V, Freq -47-63Hz
+                   ,
+                   Power 4KVA,
+                 Make Terma
+                 Date of Installation: 13/02/2012
+ IV.         Microwave Antenna                            02                    On Tower
+                 Make –Faini Tele communication System,                          wall
+                   (Kathrein)
+                 S/N- 08K1MWA0000120020
+                 S/N- 08K1MWA0000120014
+                 Date of Installation: 13/02/2012
+ V.          KVM Switch                                   01                    Eqptroom
+                 Date of Installation: 13/02/2012
+
+
+                                            Page 1 of 9
+VI.     CISCO Switch                                    01     Eqptroom
+            Catalyst 2960 Series
+            S/N- FOC1510X1DA
+            Date of Installation: 13/02/2012
+
+
+VII.    19” VALL Rack 1 No.-HITT                        01   Eqptroom
+
+
+VIII.   19” COMMTEL Rack TCIL                           01   Eqptroom
+IX.      6 KVA UPS, Make- NGBPS, Sl No. JH1027       01      Eqptroom
+             UPS BATTERY: 12v, 26AH Battery, Make-
+                 Amron                              16
+        Date of Installation: 07/12/2013
+X.       VHF Station                                    03   Eqptroom
+              Make – Jotron
+              Date of Installation: 07/01/2020
+                a) Sr. No. 9617
+                b) Sr. No. 9619
+         Sr. No. 9621
+XI.      VHF Antenna 03 Nos.                            03   On Tower wall
+              Date of
+                 Installation:
+                 07/01/2020
+                 a) Sr. No.
+                 492191001
+                 b) Sr. No. 492191002
+         c) Sr. No. 492191007
+XII.     CSET CPU                                       02   Eqptroom
+              Make: Kongsberg
+                 a) Sr. No. 3053202216 (Date of
+                 Installation: 07/01/2020)
+         b) Sr. No. 3468221120 (Date of Installation:
+         22/07/2020)
+XIII.
+         Remote Power Distribution Unit (RPDU)          01   Eqptroom
+             Sr. No. 5A1922E04007
+         Date of Installation: 07/01/2020
+
+
+
+
+                                    Page 2 of 9
+XIV.     Radio Unit
+           1. Indoor Unit                               01      Eqptroom
+                   Make: Ericsson ML 6691
+                   Sr. No. CE8A318090 (Date of
+                     Installation: 31/08/2019)
+           2. DC Power Supply
+                   Capacity: 48 VDC                    01      Eqptroom
+                   Make: MEAN WELL
+                   Sr. No. EB91279468 (Date of
+                     Installation: 31/08/2019)
+           3. Outdoor Unit
+                   Make: Mini Link 6363 32L
+                     a) Sr. No. CR9N998318                      With antenna
+                         (Date of Installation:         02
+                         31/08/2019)
+                     b) Sr. No. CR9P727286
+                         (Date of Installation:
+                         22/07/2020)
+XV.      UPS, On line, 3 Phase , 15 KVA for Microwave   01
+                                                                Eqptroom
+         equipment
+             Make: Schneider Easy UPS
+             S. No. 9E1904T10166
+             Capacity: 12v, 26AH Battery, Make- APC    32      Eqpt room
+             Date of Installation: 31/08/2019
+XVI.     Radar Service Display (RSD)                    01      Eqpt room
+             Make: Terma
+             S/N- 4594
+             Date of Installation: 20/02/2020
+XVII.     Rack Manager 17” Make: ACER                        01 Eqpt room
+              KEYBOARD                                      01
+              MOUSE                                         01
+              S/N- MMT6MSS004915001463P00
+              Date of Installation: 17/07/2019
+XVIII.    Rectifier BSMC Make,350 X 3 Module                 01 Eqpt room
+              S/N- BS-350/B/4394
+              Date of Installation: 13/02/2012
+XIX.      Split AC’s- 1.5Ton                                 03 Eqpt room
+
+          1. Blue star Make, Split type
+               S/N- 10129207021/310/30020
+               Date of Installation: 13/02/2012
+          2. Blue star Make, Split type
+               S/N- 10129207021/307/10533
+               Date of Installation: 13/02/2012
+          3. Videocon
+             Make,Split type
+          S/N1108157420022
+               Date of Installation: 28/09/2015
+
+
+
+
+                                      Page 3 of 9
+XX.     D G Set :65 BHP,50KVA                         01 Power house
+
+              Make: Kirloskar
+              Model: Kirloskar brushless
+              S.No: DS3D01/G132292
+              Engine No: 1100085
+              Full load Current 69.6A(at 0.8pf)
+              Starting Battery 12V 130 AH
+              Make:Exide
+              Date of Installation: 13/02/2012
+
+XXI.    D G Set :65 BHP,50KVA                         01 Power house
+
+              Make: Kirloskar
+              Model: Kirloskar brushless
+              S.No: DS3D01/G133399
+              Engine No: 1100086
+              Full load Current 69.6A(at 0.8pf)
+              Starting Battery 12V 120 AH
+              Make: Tata Green
+              Date of Installation: 13/02/2012
+
+XXII.   Automatic Voltage Stabilizer
+                                                           Power house
+           1. Make : Krykard
+                a) Capacity : 16KVA
+                b) Input     : 180 to 240V            01
+                c) Output : 230V AC
+                d) Date of Installation: 24/12/2020
+
+
+          2.Make : Krykard
+                a) Capacity : 16KVA
+                b) Input     : 170 to 270V            01
+                c) Output            : 230V AC
+                d) Date of Installation: 24/12/2020
+
+
+         3.Make : Uma Power Electronics
+                a) Capacity : 16KVA
+                b) Input     : 180 to 270V            01
+                c) Output            : 230V AC
+                d) Sr. No : UA 16020011
+                e) Date of Installation: 02/03/2016
+
+
+
+
+                                       Page 4 of 9
+XXIII.          50 KVA AMF Control Panel                            01 Power house
+                     S/N- 4473
+                     Indotech Industrial Solutions (P) Ltd.
+                     Date of Installation: 13/02/2012
+XXIV.           LVDB Panel                                          01 Power house
+                     Make L&T M
+                     Voltage 415 V Rating 160 Amps
+                     Date of Installation: 13/02/2012
+XXV.            Solar Panel                                         96
+                     Make: Navitas
+                Solar Inverter, 30 KW                               01
+                     Make: Delta Model: RPIM30A
+                     Date of Installation: 31/03/2017
+XXVI.           20KVA UPS Make : Sun Power                          01 Power house
+                     UPS battery, 12V, 75AH
+                                                                    30
+                     Make- Exide Power safe
+                     Date of Installation: 24/02/2018
+XXVII.          UPS Controller                                      01 Power house
+                     Date of Installation: 24/02/2018
+XXVIII.         Isolation Transformer                               01 Eqptroom
+                     CAPACITY 10 KVA
+                     Date of Installation: 17/04/2016
+
+ 6. CCTV MONITORING SYSTEM
+
+          I.          IP DOME CAMERA                           03
+                     MAKE: CP PLUS
+                          a) Sr. No. 1912011796000505
+                          b) Sr. No. 1912011796000415
+                          c) Sr. No. 1912011796000396
+
+          II.         IP BULLET CAMERA                         05
+                     MAKE: CP PLUS
+                          a) Sr. No. CP5L045C1PAG03033
+                          b) Sr. No. CP5L045C1PAG00618
+                          c) Sr. No. CP5L045C1PAG01976
+                          d) Sr. No. CP5L045C1PAG02921
+                          e) Sr. No. CP5L045C1PAG01863
+
+         III.         PTZ CAMERA                               01        TOWER
+                     MAKE: CP PLUS
+                          a) Sr. No. CP5L09D2BPAJ00010
+
+
+                                             Page 5 of 9
+  IV.   16 CHANNEL NVR                                       01     Tech building
+         MAKE: CP PLUS 2 SATA
+         a) Sr. No. CP4L03C90PAZ00018
+
+  V.    24” MONITOR                                                 Tech building
+        MAKE: DELL                                           01
+        a) Sr. No. BCFVCZ2
+
+  VI.   HARD DISK 4TB                                               Tech building
+        MAKE: TOSHIBA                                        01
+        a) Sr. No. 80NEK50ZFW9G
+
+ VII.   8 PORT POE SWITCH                                           TOWER
+         MAKE: CP PLUS (8+2)                                 02
+  a) Sr. No. 200811842002309
+       b) Sr. No. 20200910447081
+
+
+ VIII. UPS                                                   01
+       MAKE: FSP                                                    Tech building
+       CAPACITY: 600 VA
+    a) Sr. No. 242001508891
+
+
+
+
+ IX. SMPS POWER SUPPLY FOR CAMERA                            01
+
+LIFT:
+
+
+           Inside the 50M high RCC radar tower l lift has         Inside Tower
+           been installed as per belowspecification:
+
+               Make –TechnoElevators
+               Motor - 3-ɸ induction motor 5.5KW,
+               Capacity – 408 Kg/ 6 passenger
+           Date of Installation:
+                   13/02/2012
+                 The License valid up to 09/11/2025.
+
+COMPOUND STREET LIGHTS:
+
+
+               Total 15 number LED lights (10Nos.
+                fitting on G.I poles& 05 Nos. various
+                darkness places) are  provided
+                                   Page 6 of 8 at station.
+               Two number lights are fitted on gate.
+FIRE-EXTINGUISHERS:
+
+
+              The Following Eight firefighting equipment
+               are provided.
+
+                 a)   Cease fire ABC dry powder (5 Kg.
+                      capacity)                               Tower and
+                      - 4 Nos.                                Power house
+                 b)   Dry chemical powder Clean Agent (4
+                      Kg.
+                      capacity)
+                      - 2 Nos.
+                 c)   Fire
+                      buckets
+                      - 2 Nos.
+
+                 Date of Installation: 13/02/2012
+
+
+
+POWER SUPPLY
+             Mains supply – The PGVCL
+               mains, 415V, 3-phase, 50 Hz
+               supply isavailable. A main is
+               steady and less power cuts.
+           Standby supply -02 numbers DG Set.
+
+       The “Kirloskar” Make diesel alternators are provided
+       at the station. Capacity of the DA set is 50 KVA,
+       415V, 3- phase, 50Hz, 1500rpm.The power supply is
+       controlled and distributed by an AMF panel in
+       selectable ‘auto/manual’ modeof operation.
+               30KWp On Grid Solar System – PV Panel
+                 Make: Navitas, Panel Spec. Pmax: 315W,
+                 Vmax: 36.5V, Imax: 8.64A, Total PV
+                 panels: 96 & 30Kw Solar Inverter, Make:
+                 Delta.
+
+FACILITIES AVAILABLE:
+
+
+              Police station 20KM far at Jodiya, Primary
+             school at Balachadi, Primary Health Centre
+                          at Hadiyana village.
+                                    Page 7 of 8
+STRUCTURE:
+     a)   VTS tower          50m high RCC circular tower with
+                              Interior lift facility& Staircase.
+
+     b)   Technical Building :01 unit
+     d)   Staff Quarters      : 04 Unit
+     e)   Compound wall       The masonry compound wall
+                               has been provided on four
+                              sides for enclosing land
+                              Buildings with internal
+                              cement concrete pathway.
+     f)   Main gate           : M.S gate at the entrance.
+     g)   New Inspection      : 01 Unit
+          Quarter
+
+WATER SUPPLY:
+
+
+                      60,000 litres capacity water
+                       storage tanks are provided with
+                       Narmatha Connection,
+                       Sump Motor: Capacity 3.5 HP
+                      Bore well Motor: Capacity 3 HP,
+                       Make Ajanta
+                      500 litres capacity 7Nos. Sintex
+                       tanks are also provided on
+                       TechnicalBuilding, Inspection
+                       Quarter, Group-D quarter and R/T
+                       Quarter.
+                      10,000 litres capacity RCC
+                       overhead water tank is newly
+                       constructed near to IQ.
+
+
+ADDRESS& COMMUNICATION                                       Station In-Charge
+                                                             VTS Radar Station,
+                                                              Balachadi,
+                                                             Jamnagar- Dist
+                                                             Gujarat-361230
+                                                             Telephone no. 02893-
+                                                             246255
+                                                             Email:
+                                                             balachadiradar@gmail.
+                                                             com
+
+DATE OF COMMISSIONING                                         13/02/2012
+
+                                   Page 8 of 8
+

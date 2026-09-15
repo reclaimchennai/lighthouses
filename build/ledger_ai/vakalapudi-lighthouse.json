@@ -1,0 +1,41 @@
+{
+  "slug": "vakalapudi-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Vakalapudi Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1878,
+  "alol": "0964",
+  "position": {"lat_text": "17° 00.8' N", "lon_text": "82° 17.1' E", "lat": 17.013333, "lon": 82.285},
+  "elevation_m": 47.88,
+  "characteristic_text": "FL(3) white, every 15 sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.19
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 26, "geographical_nm": 19, "text": "Luminous 26 M, Geographical 19 NM"},
+  "tower": {"type": "Circular R.C.C. Tower", "height_m": 45, "colour_scheme": "Red and White bands"},
+  "optic": {
+    "make": "M/s BBT", "model": null, "type": "revolving", "size": "350 mm (4th order)", "order": "4th",
+    "panels": 3,
+    "rotation_device": "Twin stepper motor Direct Drive system (2 Nos Unique make, capacity 20 Kgs)",
+    "rpm": 4,
+    "rotates": true,
+    "rotates_evidence": "Size: 350 mm (4th order) revolving; Rotation Device: Twin stepper motor direct drive; Rotation Speed 4 RPM",
+    "divergence_horizontal_deg": 6.758333,
+    "divergence_vertical_deg": 6.3,
+    "divergence_text": "Horizontal 6° 45.5', Vertical 6° 18'",
+    "illuminant": "3 Nos. 150 W Metal Halide Lamp (cluster type)"
+  },
+  "intensity_cd": 939600,
+  "racon": {"present": true, "code": "G", "text": "Tideland signal Corp., U.S.A., RACON Sl.No. 6165, Morse Code G, commissioned December 2004"},
+  "ais": {"present": true, "text": "NAIS: M/s SAAB AIS R40 Base Stations Sl.No.5253 and Sl.No 5202, commissioned 20/12/2011"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APEPDCL mains 440 V/50Hz 3 phase; 3KW off-grid solar for main light; Kirloskar HA294 19 HP DG with 12.5 KVA alternator; 2 Eicher 26 HP DGs for NAVTEX"},
+  "issues": ["Luminous range printed '26 M' (unit not NM)", "Header says Estd.1878 but year of first light given as 2004 (taken over from Port Department of Andhra Pradesh), commissioning 08-11-2004", "ALOL printed '0964' without letter prefix"]
+}

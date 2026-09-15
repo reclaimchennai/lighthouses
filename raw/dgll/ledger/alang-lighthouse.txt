@@ -1,0 +1,168 @@
+                           मास्टर लेजर/MASTER LEDGER
+
+                                  अलंग दीपस्तंभ / Alang Lighthouse
+
+क्रमसंख्या/             नाम /Name
+                                                                         वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0446
+     2        स्थान/Position                     Lat    21º 24.2’ N Long 72º 11.1’ E
+
+    3         ऊंचाई/Elevation                    39 M (Above MSL)
+    4         अभिलक्षण/Characteristic             Fl W 3 Sec. (0.42+2.58=3 Sec.)
+    5         नॉटिकलमाइलमेदरू ी                  20 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                           Hexagonal masonry tower
+                                                 Height                         24M
+                                                 Colour Scheme                  Black and White bands
+    7         ऑप्टिकलउपकरण                       Optic
+              Optical equipment                  Make                           BBT-France
+                                                 Type                           revolving
+                                                 Size                           250mm
+                                                 No. of lens                    -
+                                                 Area of dioptric portion       735 Sqcm
+                                                 Area of catadioptric portion   2035 Sqcm
+                                                 Divergence                     25º 11.99’ (Horizontal)
+                                                 Main/Emergency                 16º 29.67 (Vertical)
+
+                                                 Duration of Flash
+                                                 Main /Standby/Emergency
+                                                 Pedestal                       Mercury float
+                                                 Rotation Device                Stepper motor
+                                                 R.P.M.                         5
+                                                 Illuminant                     Cluster 150W/230V M.H
+                                                                                Lamp.
+                                                 Main                           230V/70W Metal Halide Lamp
+                                                 Standby                        -
+                                                 Emergency:                     -
+                                                 Date of Installation           -
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                           1,36,916 Candela
+              intensity                          Emergency
+    9         लेंिनन/Lantern                     Diameter                       2.0m
+                                                 Height of glazing              1.04m
+                                             No. of panes                  8
+                                             Ventilators                   7
+10   RACON                                        Sr. No
+     Make                Model               Code                          Band                    Date of
+                                                                                                   Installation
+     Tide Land           Tide Land                   “C”                                           12.08.2004
+                         Sea
+                         Becon-6
+11   NAIS
+     Base Station
+
+     Model               Type                Power                         MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna        Band                Modem
+
+     DGPS
+     Transmitter Make    Frequency           Power Output RS 1 ID          RS -II      Beacon      Date of      Dat
+                                                                           ID          ID          commis       e of
+                                                                                                                Re
+                                                                                                   sioning      cap
+                                                                                                                itali
+                                                                                                                zati
+                                                                                                                on
+
+
+
+12   ऊर्ानकेसाधन/Sour    Mains                                             Mains 230V, 50 Hz, three
+                                                                           phase
+     ce of energy
+                         Power Source                                      DG Set 15 KVA make Kirloskar
+                         Engine 1 (15 kva)
+                         Make/Type                    Qty       Rating     No of           RPM            Cooling
+                                                                           Cylinder
+                         Kirloskar                    1         20.5 BHP   2               1500           Air
+
+                         Alternator
+                         Make/Type                    Qty       Rating     Voltage/Am      Frequency      Phase
+                                                                           p
+                         Kirloskar                    1         15 KVA     230V/26A        50Hz           Single
+                         Solar Plant : (M/L : 3KW)
+                         Capacity PV                  Numbers              Type       Battery             Bank
+                         4 KWp
+                         Solar Plant for Main NAIS
+                         Capacity PV                  Numbers              Type       Battery             Bank
+
+
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make               Model                Capa     Input                Output               Phase     Qty
+14        बैिरर
+          Batteries
+          Equipment            Type               Make       Volt                      Amp/H Qty
+                                                                                       r
+          PSS NAIS                  Tubular       Exide              2V                500       48 Nos
+                                                                                       AH
+          Genset                Lead acid         Exide             12V                150AH      02 Nos
+          Automation
+          DGPS
+     15   बैिररचार्नर/ Battery charger
+
+          Equipment            Make               Model         Type            Rating           Qty
+          General Purpose      Aplab              0-32V         Digital         20 A             01
+                                                                P.S
+          Automation
+     16   इंवटट रInverter /UPS
+          Equipmen Nos Make               Model                      Type              Rating      Qty input        out
+          t                                                                                                         put
+          Main            ---  ---                   ---                  ---              ---         ---    ---    ---
+          Light
+          NAIS PSS
+          DGPS
+
+     17   स्वचलनउपकरण
+          Automation Equipment
+          MAKE       PLC                HMI              Power Supply           VSAT             Modem       Band
+          RDS        Allen Bradley      RENU             24 V                                    Robuste
+                                                                                                 l
+     18   आप्ननशमनउपकरण                           Type of Extinguisher          Capacity           Nos       Make
+          Fire Fighting Equipment                 DCP Type,ABC                  4 kg               9
+                                                  Water Co2                     -                  -
+                                                  Foam Type                     -                  -
+     19   संचार                                   Not Available
+          Communication
+     20   र्लपर्ू तन                               Rain water collection tank for potable water
+                                                  02 Nos Syntex Tank 10000 Lte Each
+          Water Supply
+     21   िूभम                                    Area                                           1.1837 hectares.
+          Land                                    Demarcation                                    Barbed wire fencing
+
+     22   इमारतें                                 Inspection Quarter, Power
+                                                  House, Office Recreation Room,
+          Buildings
+                                                  Two Twin, unit of ALK Qtrs,
+                                                  One Twin unit of LHA and
+                                                  Safaiwala Qtrs
+23   कंपाउं डलाइि                     Gate lights – 2 Nos;12
+     Compound Lights                  Nos. G.I. Poles fitted
+                                      withLED lamps and 10
+                                      Nos. Solar Street Light
+                                      with
+24   सीसीिीिीकमेरा                   Camera
+      CCTV CAMERA                    DVR
+25   स्िाफ                           Sl. No       Designations
+     Staff                           1            Navigational Assistant –II(01)
+                                     2            Lighthouse Attendant –(01)
+26   पहुँचनेकामाध्यम                 By rail upto Bhavnagar then 52 km by road
+     Mode of approach                upto Lighthouse
+27   उपलब्धसविधाए                    Police Station, Dispensary, Post Office, Bank etc. are
+                                     available in Alang town 2 km from LH, High School
+     Facilities available
+                                     (Gujarati Medium) at Mannar 4 Km from Lighthouse
+
+
+
+28   डाकपताPostal address            Alang Lighthouse, P.O: Alang Shipbreaking Yard,
+                                     Via:Trapaj; Distt: Bhavnagar (Gujarat)
+                                      Pin – 364081
+29   मूल्यकाब्योराCost details       Cost of Construction : 2,22,254/-
+     (At the time of Construction)   Cost of Equipment : Rs. 1,10,058/-
+
+30   प्रितननमेलानेकादे नांक          14.05.1992
+     Date of commissioning
+

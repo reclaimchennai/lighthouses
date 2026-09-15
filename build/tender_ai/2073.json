@@ -1,0 +1,41 @@
+{
+  "nid": 2073,
+  "title": "Development works for promotion of tourism at Kasaragod Lighthouse",
+  "summary": "E-tender for tourism development works at Kasaragod Lighthouse, Kerala, tendered by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kasaragod Lighthouse, Kasaragod 671121", "station_id": "kasargod-lighthouse", "kind": "lighthouse", "work": "Development works for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Development works for promotion of tourism (no BOQ in this notice)", "qty": null, "unit": null, "site": "Kasaragod Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1796914.0,
+    "emd_inr": 35938.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents by 10.11.2025 15:00."
+  },
+  "period": {"completion": "120 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-10-22", "pre_bid": "2025-10-29", "bid_submission_end": "2025-11-11", "bid_opening": "2025-11-12"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Government/PSU/autonomous bodies",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; similar works = construction of generator shed with truss work, concrete foundation and aluminium work / construction or maintenance of residential, institutional or office buildings, road, lighthouse tower or other related civil construction",
+    "PAN and GST registration",
+    "Annual turnover of last three years certified by Chartered Accountant"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_3.pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only (pages numbered 2-4); no BOQ and no file number printed. Bid download/submission 23.10.2025 18:00 to 11.11.2025 15:00; bid query last date 28.10.2025. The similar-works definition mentions a generator shed, apparently copied from the Kannur generator shed tender."
+}

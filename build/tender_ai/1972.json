@@ -1,0 +1,46 @@
+{
+  "nid": 1972,
+  "title": "Consultancy services of comprehensive Architectural and Structural Design (2D, 3D plan and elevation) of 20-25m RCC Lighthouse Tower for proposed New Lighthouse at Biswanath Ghat, Assam",
+  "summary": "Two-cover QCBS e-tender for architectural and structural design consultancy (2D/3D plans and elevations) of a 20-25 m RCC lighthouse tower for a proposed new lighthouse at Biswanath Ghat, Assam, under the Kolkata Directorate.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhawan, D-372/2 Taratala Road, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Biswanath Ghat, Biswanath, Assam, Pin-784176 (proposed new lighthouse)", "station_id": null, "kind": "lighthouse", "work": "Architectural and structural design of 20-25 m RCC lighthouse tower"}
+  ],
+  "scope": [
+    {"item": "Consultancy services of comprehensive architectural and structural design (2D, 3D plan and elevation) of 20-25 m RCC lighthouse tower", "qty": null, "unit": null, "site": "Biswanath Ghat"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1121000.0,
+    "emd_inr": 22400.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/bank guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata; valid 3 months from technical bid opening; original to reach office by 31/07/2025 15:00. Tender fee Nil. QCBS evaluation."
+  },
+  "period": {"completion": "45 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-07-21", "pre_bid": "2025-07-24", "bid_submission_end": "2025-07-31", "bid_opening": "2025-08-01"},
+  "eligibility": [
+    "Registered office for architectural consultancy services in India for at least 5 years",
+    "Similar work for Central/State Government organizations in last 7 financial years: one >= 80%, two >= 50% or three >= 40% of estimated cost; values updated at 7% simple interest per annum",
+    "Similar works: architectural and structural consultancy for infrastructure development, tourism development, river bank area development or other development works, or multistoried buildings in India",
+    "Firm/designated architect registered with Council of Architecture",
+    "Staff: 1 senior architect (B.Arch, >= 5 years) and 2 junior architects (B.Arch, >= 2 years)/civil engineers (B.Tech)",
+    "Undertaking to sign MoU with a structural design firm, with designs proof-checked by reputed institute/research institution/government department, at agreement signing",
+    "Valid PAN and GST; notarized non-blacklisting affidavit (2025); unconditional price bid undertaking; ITRs 2021-22 to 2023-24; tender acceptance letter; documents per Section VI"
+  ],
+  "specs": [
+    "RCC lighthouse tower height 20-25 m; deliverables 2D and 3D plans and elevations"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Tendernotice_1 (1).pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT only (printed pages 3-7), digitally signed 21.07.2025; no file number printed and no detailed terms of reference. Download period to 31/07/2025 18:30 but submission closes 31/07/2025 15:00. Listing title contains extra 'Work Description' text and misspells 'servicer'. Biswanath Ghat is a proposed new (inland river) lighthouse not in the station list. Hindi text layer is font-garbled; English values complete."
+}

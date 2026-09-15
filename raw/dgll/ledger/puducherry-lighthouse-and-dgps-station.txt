@@ -1,0 +1,200 @@
+                            मास्टर लेज़र / MASTER LEDGER
+                  पुदच्ु चेरी दीपस्तम्भ और डीजीपीएस स्टे शन
+                Puducherry Lighthouse and DGPS Station
+
+
+क्रम संख्या/ Sr. No            नाम/Name                                   वििरण/Description
+
+        1             ए.एल.ओ.एल/A.L.O.L.        F 0926
+                      स्थान/Position            Lat.11° 54.9’ N
+        2
+                                                Long. 79° 49.9’ E
+        3             ऊंचाई/Elevation           49.08M (Above MSL)
+                      अभिलक्षण/Characteristic   GROUP OF 2 WHITE FLASH IN 15 SEC ( FL-0.48, EC-3.27, FL-0.48, EC-
+        4
+                                                10.77)
+                      नॉटिकलमाइलमेदरू ी         Luminous Range - 25.7 NM @ a.t.f. 0.74, 41.5 NM @ a.t.f. 0.85
+        5
+                      Range in Nautical miles   Geograpical Range -19 NM
+                      दीपस्तंििावर/L.H.Tower    Type                         Hexagonal RCC Tower
+        6                                       Height                       45 M
+                                                Colour Scheme                Black and White Band
+                                                Optic                        Fourth order Large
+                      ऑप्टिकलउपकरण              Make                         J-Stone & Co.,
+                      Optical equipment         Type                         Revolving
+                                                Size                         300 MM
+                                                No. of panels                Four (Two of 135 and Two of 45)
+                                                Area of dioptric portion     -
+                                                Area of catadioptric portion -
+
+                                                Divergence                 5º44’ (Horizontal)
+                                                Main/Emergency             2º52’ (Vertical)
+        7
+                                                Duration of Flash
+                                                                           -
+                                                Main /Standby/Emergency
+                                                Pedestal                   Ball Bearing
+                                                Rotation Device            DC Stepper motor
+                                                R.P.M.                     2 RPM
+                                                Illuminant                 Metal Hallide Lamp
+                                                Main                       400W
+                                                Standby                    400W
+                                                Emergency:
+                                                Date of Installation       22-11-2000
+        8                                       Main                       1000000 cds
+     प्रिावीबीमतीव्रता/Effective
+                                          Emergency                     -
+     beam intensity
+     लें िनन/Lantern                      Diameter                      2.4 m
+                                          Height of glazing             1.38 m
+9
+                                          No. of panes                  12
+                                          Ventilators                   Yes – 8 nos.
+     RACON                                NA
+     Make                     Model                                                               Date of
+10                                        Code                          Band
+                                                                                                  Installation
+     -                        -           -                             -                         -
+11   NAIS
+     Make                                 M/s SAAB Transponder Tech, Sweden
+     Base Station                         R40 – 2nos. Sr.no. 5259 & 5335
+     DGPS
+                                                                                             B
+                                                                                             e                    Date
+                                                                                             a                    of
+                                                                                                  Date of
+                              Frequ                           RS 1                           c                    Rec
+     Transmitter Make                     Power Output                  RS -II ID                 commissio
+                              ency                            ID                             o                    apita
+                                                                                                  ning            lizati
+                                                                                             n
+                                                                                             I                    on
+                                                                                             D
+     Nautel                   315                                                            1                    25.0
+                              KHz         500 Watts           422       423                  1    20.03.2004      3.20
+                                                                                             1                    18
+
+     ऊर्ानकेसाधन/             Mains                                     State Electricity Board, Puducherry
+     Source of energy         Emergency                                 2 nos. Diesel Generator
+12
+                              Stand by                                  UPS
+                              Diesel Generator
+                                                                               No. of                            Coolin
+                              Make               Qty           Rating                            RPM
+                                                                               Cylinder                          g
+                              Engine -1
+                              Kirloskar          1             26 HP           3                 1500            Air
+                              Alternator-1
+                              Kirloskar          1             20 KVA          -                 1500
+                              Engine -2
+                              Kirloskar          1             19 HP           2                 1500            Air
+                              Alternator-1
+                              Kirloskar          1             15 KVA          -                 1500
+                              Solar Plant
+                                                                                                                      Date
+                                                  No. of                                                              of
+                              Capacity                             Type               Inverter          Battery
+                                                  Panels                                                              Instal
+                                                                                                                      lation
+                                                                                                                      23-
+                              25 KW               100              On-Grid            33KW              -             05-
+                                                                                                                      2017
+     स्वचाभलतवोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+13
+     Make                 Model           Capacity Input                     Output                Phase          Qty
+     SERVO MAX                            15KVA    170-270 V                 230V                  1              3 NOS.
+     बैिरर
+     Batteries
+     Equipment               Type         Make              Volt             Amp/Hr                 Qty
+14   GENSET                  SMF          Exide             12V              150 AH                 2
+     MAIN LIGHT/                          EXIDE             12V              150AH                  2
+                             SMF
+     STEPPER MOTOR
+     DGPS                    SMF          EXIDE             12V              42 AH                  22
+
+     बैिररचार्नर/ Battery charger
+     Equipment               Make         Model         Type                 Rating                 Qty
+15   General Purpose         DELTA
+                             ELECT        -             -                    0-30 V 15A             2
+                             RIC
+     Automation              -            -             -                    -                      -
+     इंवटट रInverter /UPS
+     Equipmen      Nos       Make                                  Typ
+     t                                  Model                                Rating          Qty    input            Output
+                                                                   e
+     Main Light    2         UTL        ---                        ---       800VA           2      12V              230V
+16   NAIS PSS      -         -          -                          -         -               -      -                -
+                                                                                                    12V DC &         230VA
+                   01        APC        SRC 10KUXI                           10 KVA          1
+                                                                                                    230 AC           C
+     DGPS
+                                                                                                    12V DC &         230VA
+                   01        APC        SRC 3000                             3 KVA           1
+                                                                                                    230 AC           C
+     स्वचलनउपकरण
+     Automation Equipment
+     MAKE       PLC                  HMI         Power Supply      VSAT                Modem            Band
+17   RDS        Micro logix          Touch
+                1400                                               1.2 M
+                                     wide
+                                                 12-24VDC          Parabolic           Hughes           -
+                                     screen
+                                                                   Antenna
+                                     Display
+     आप्ननशमनउपकरण                         Type of
+18                                                        Capacity                        Nos       Make
+                                           Extinguisher
+     Fire Fighting Equipment         DCP Type                  6 kg                  5
+                                     Co2 FOAM                  4.5 KG                4
+                                     Co2 FOAM                  6.5 KG                2
+     संचार
+19                                   BSNL PHONE : 0413 – 2336114
+     Communication
+     र्लपर्ू तन
+20                                   PUDUCHERRY MUNICIPAL CORPORTION
+     Water Supply
+     िूभम                            Area                                            0.7775 hectre
+21
+     Land                            Demarcation                                      Compound Wall
+     इमारतें                             1. Office Building consist with power house, DGPS room, Store
+     Buildings                                Room, Recreation room & Toilet
+                                         2. Pump house
+22
+                                         3. Coil hut
+                                         4. Inspection Quarter
+                                         5. 8 nos. staff quarters
+     कंपाउं डलाइि                    16 nos. street light
+23
+     Compound Lights                 2nos. main gate light
+     सीसीिीवीकमेरा                   -
+24
+     CCTV CAMERA                     -
+     स्िाफ                           Sl. No           Designations
+     Staff                           1                Navigational Assistant Gr-1
+25                                   2                Sr. Radio Technician
+                                     3                Navigational Assistant Gr-II
+                                     4                Navigational Assistant Gr-II
+                                     5                Navigational Assistant Gr-II
+     पहुँचनेकामाध्यम
+26                                   By Train & Bus
+     Mode of approach
+     उपलब्धसववधाए                    General Hospital at 1.5 Km,
+     Facilities available            Post Office at 2 Km,
+                                     High School/Colleges at 5 Km
+27
+                                     Railway Station at 2 Km
+                                     Bus Stand at 3 Km
+                                     Airport at 10 Km
+     डाकपताPostal address            The Asst. Engineer (E),
+                                     Puducherry Lighthouse Cum DGPS Station,
+28                                   Vambakeerapalayam,
+                                     Puducherry – 605001
+     मल्
+      ू यकाब्योराCost details
+29                                   16, 79,500/-
+     (At the time of Construction)
+     प्रवतननमेलानेकादे नांक
+30                                   10-12-1979
+     Date of commissioning
+

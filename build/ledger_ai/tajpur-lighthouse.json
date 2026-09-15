@@ -1,0 +1,45 @@
+{
+  "slug": "tajpur-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Tajpur Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2019,
+  "alol": "F1028.5",
+  "position": {"lat_text": "21° 39' 5.78\" N", "lon_text": "87° 37' 53.85\" E", "lat": 21.651606, "lon": 87.631625},
+  "elevation_m": 33.66,
+  "characteristic_text": "Flash (3) White Every 15 Seconds",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": 16, "text": "Luminous 20 Nautical Miles At 0.74 Atf, Geographical 16 Nautical Miles"},
+  "tower": {"type": "Rcc Circular Tower (Slip Form)", "height_m": 30, "colour_scheme": "Red And White Spiral Band"},
+  "optic": {
+    "make": null, "model": "SMLRB21", "type": null, "size": "Focal Length F-185 Mm", "order": null,
+    "panels": 6,
+    "rotation_device": null,
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Speed Of Rotation 3 Rpm; 6 Panels",
+    "divergence_horizontal_deg": 1.5,
+    "divergence_vertical_deg": 3,
+    "divergence_text": "Horizontal 1.5°, Vertical 3°",
+    "illuminant": "50 Watts Led Lamp Each (2-Tier)"
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": null, "solar": null, "generator": null, "text": "Not stated"},
+  "issues": [
+    "Effective beam intensity printed as '1,10,000 Lux (10219 3344 Candela)'; candela figure unreadable/implausible, not transcribed",
+    "Optic model printed as 'SMLRB2l' (last character l or 1)",
+    "Established year taken from 'Date Of Operational 03rd December 2019'"
+  ]
+}

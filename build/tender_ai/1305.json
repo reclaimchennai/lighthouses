@@ -1,0 +1,36 @@
+{
+  "nid": 1305,
+  "title": "Bid Security Declaration Format",
+  "summary": "CPPP corrigendum publishing the Bid Security Declaration format for the DGLL Noida headquarters tender to hire a consultant to manage DGLL's social media account.",
+  "category": "services & maintenance",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "Tender ID 2023_DGLL_720461_1; Tender Ref No I-9/1/2023-IT",
+    "issuing_office": "Directorate General of Lighthouses and Lightships, Head Quarter, Noida"
+  },
+  "scope_level": "national",
+  "sites": [],
+  "scope": [
+    {"item": "Hiring of Consultant for Managing the Social Media Account of DGLL Noida", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Bid Security Declaration in lieu of EMD: bidder withdrawing or modifying bid during validity, or failing to sign contract or submit performance security, is suspended from DGLL tendering for two years."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": null, "bid_opening": null},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2023-07-28", "change": "Corrigendum (type: Other) titled 'Bid Security Declaration Format': Bid Security Declaration format as per NIQ published as Annexure-I"}
+  ],
+  "documents": [
+    {"file": "CORRIGENDUM (3)_0.pdf", "pages": 2, "read": "vision", "language": "en", "unreadable": ["page 1 scanned sideways and faint; some table text small but key fields legible"]}
+  ],
+  "confidence": "medium",
+  "notes": "Listing title is only the corrigendum name; the underlying tender is 'Hiring of Consultant for Managing the Social Media Account Of DGLL Noida'. Page 1 is a CPPP ePublishing 'Published Corrigendum Details' printout (published 28-Jul-2023 12:40 PM, document Annexure-1.pdf); page 2 is the Annexure-I pro forma. No NIT, cost or dates. Text layer is garbled OCR of the rotated page; read from rendered image."
+}

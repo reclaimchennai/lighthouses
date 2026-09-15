@@ -1,0 +1,54 @@
+{
+  "nid": 1464,
+  "title": "Gem bid for Supply, Installation, Testing and Commissioning of Branded All-in-one PC, Multi Function Printers, UPS, Pen drive, Microsoft Office and Anti Virus software",
+  "summary": "GeM bid by the Goa Directorate for supply, installation, testing and commissioning of all-in-one PCs, multifunction printers, UPS units, antivirus, MS Office 365 licences and pen drives at Deep Bhavan, Bambolim.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2024/B/4597578",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Goa"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Directorate of Lighthouses and Lightships, Deep Bhawan, Near GMC Stadium, Bambolim, North Goa", "station_id": null, "kind": "office", "work": "Supply, installation, testing and commissioning of IT hardware and software"}
+  ],
+  "scope": [
+    {"item": "Branded all in one computers with warranty 5 years", "qty": "15", "unit": null, "site": "Deep Bhawan, Goa"},
+    {"item": "Branded Multifunction Color laserjet printer with warranty 5 years", "qty": "2", "unit": null, "site": "Deep Bhawan, Goa"},
+    {"item": "Branded Multifunction laserjet printer with warranty 5 years", "qty": "10", "unit": null, "site": "Deep Bhawan, Goa"},
+    {"item": "Branded UPS for computers", "qty": "13", "unit": null, "site": "Deep Bhawan, Goa"},
+    {"item": "Antivirus 10 user pack with validity 3 years", "qty": "1", "unit": null, "site": "Deep Bhawan, Goa"},
+    {"item": "MS Office 365 suite software with certified license government edition 2022 version", "qty": "5", "unit": null, "site": "Deep Bhawan, Goa"},
+    {"item": "Pen drive with 64GB capacity and 1 year warranty", "qty": "15", "unit": null, "site": "Deep Bhawan, Goa"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2698063.0,
+    "emd_inr": 80000.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 62 months",
+    "notes": "Estimated bid value per GeM. EMD exemption per GeM GTC for eligible MSE manufacturers/startups. Advisory bank State Bank of India; beneficiary Director, Directorate of Lighthouses and Lightships Goa. MII and MSE purchase preference apply."
+  },
+  "period": {"completion": "15 days delivery", "bid_validity": "90 days from bid end date", "warranty": "5 years for all-in-one PCs and printers; pen drives 1 year; antivirus validity 3 years (as per item titles)"},
+  "dates": {"published": "2024-02-07", "pre_bid": "2024-02-12", "bid_submission_end": "2024-02-19", "bid_opening": "2024-02-19"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 50 lakh",
+    "OEM average turnover (last 3 years): Rs 100 lakh",
+    "3 years past experience supplying same/similar products to Govt/PSU/listed company; MSE and startup exemption for experience and turnover",
+    "Past performance: supplied 80% of bid quantity in one of last three financial years",
+    "ISO 9001 certification of bidder or OEM; OEM authorisation; malicious code certificate; dedicated/toll-free service number and escalation matrix",
+    "Installation by OEM/OEM certified resource or authorised reseller; products with at least 5 years residual market life; compatibility with existing hardware and software",
+    "Only Class-I and Class-II local suppliers (min 50% / 20% local content)",
+    "Two packet bid; total value wise evaluation; no reverse auction"
+  ],
+  "specs": [
+    "Detailed specifications and BOQ are in separate GeM attachments (Specification Document / BOQ Detail Document), not included in this file",
+    "Faulty hard disks not returned to OEM under warranty"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM-Bidding-6020866_2_0.pdf", "pages": 12, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "GeM bid dated 07-02-2024, end 19-02-2024 18:00, opening 19-02-2024 18:30, pre-bid 12-02-2024 15:00 at Deep Bhavan, Bambolim. BOQ title 'SITC of All in One PC with Printers software and accessories'; total quantity 61. Standard GeM clauses otherwise. Consignee officer personal name omitted."
+}

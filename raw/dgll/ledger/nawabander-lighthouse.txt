@@ -1,0 +1,134 @@
+                         मास्टर लेजर/MASTER LEDGER
+
+                         नवाबंदर दीपस्तंभ / NAWABANDAR Lighthouse
+
+क्रमसंख्या/              नाम /Name
+                                                                     वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.              F 0426
+     2        स्थान/Position                  Lat 20º 44.4' N Long 71º 04.8' E
+    3         ऊंचाई/Elevation                 27 M (Above MSL)
+    4         अभिलक्षण/Characteristic         4Fl (W) 12Sec. (0.75 + 1)3 +0.75+6 = 12Sec
+    5         नॉटिकल माइल मे दरू ी            12 NM
+              Range in miles
+    6         दीपस्तंि िािर/L.H.Tower         Type                         White round tower
+                                              Height                       15M
+                                              Colour Scheme                White
+    7         ऑप्टिकलउपकरण                    Optic
+              Optical equipment               Make                         Sealite
+                                              Type
+                                              Size
+                                              No. of lens                  -
+                                              Area of dioptric portion
+                                              Area of catadioptric portion
+                                              Divergence
+                                              Main/Emergency
+                                              Duration of Flash
+                                              Main /Standby/Emergency
+                                              Pedestal
+                                              Rotation Device
+                                              R.P.M.
+                                              Illumining
+                                              Main
+                                              Standby
+                                              Emergency:
+                                              Date of Installation
+    8         प्रिािी बीम तीव्रता/Effective   Main
+              beam intensity                  Emergency
+    9         लेंिनन/Lantern                  Diameter                     2.0m
+                                              Height of glazing
+                                              No. of panes                 8
+                                              Ventilators                  7
+    10        NAIS –NA
+     Base Station
+
+     Model                 Type                 Power                       MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna          Band                 Modem
+
+11   ऊर्ान के              Mains                                            440V/3-phase/50 Hz
+                           Power Source                                     -
+     साधन/Source of        Engine 1
+     energy                Make/Type                    Qty       Rating    No of         RPM            Coolin
+                                                                            Cylinder                     g
+                           Kirloskar                    1         20.5 HP   2             1500           Air
+                           Alternator
+                           Make/Type                    Qty       Rating    Voltage/Amp   Frequency      Phase
+
+
+                           Solar Plant
+                           Capacity PV                  Numbers             Type          Battery        Bank
+
+
+12   स्िचाभलत िोल्िे र् स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                Model                  Capa    Input               Output               Phase   Qty
+
+13   बैिरर
+     Batteries
+     Equipment            Type                  Make    Volt                Amp/Hr        Qty
+     PSS NAIS                   -                 -               -            -                    -
+     Genset
+     Automation
+     DGPS
+14   बैिरर चार्नर/ Battery charger
+
+     Equipment            Make                  Model   Type                Rating        Qty
+     General Purpose
+     Automation                                   ---           ----
+15   इंवटट र Inverter /UPS
+     Equipme Nos Make                   Model                     Type      Rating        Qty input        ou
+     nt                                                                                                    tp
+                                                                                                           ut
+     Main
+     Light
+     NAIS PSS
+
+16   स्वचलन उपकरण
+     Automation Equipment
+     MAKE        PLC             HMI          Power Supply     VSAT               Mode Band
+                                                                                  m
+
+17   आप्ननशमन उपकरण                    Type of Extinguisher    Capacity           Nos     Make
+     Fire Fighting Equipment           DCP Type                4 kg               04
+                                       Water Co2               -                  -
+                                       Foam Type               -                  -
+18   संचार                             Not Available
+     Communication
+19   र्लपूर्तन                         Municipality Supply Water
+     Water Supply
+20   िभू म                             Area
+     Land                              Demarcation                                Compound wall on all
+                                                                                  the four sides
+21   इमारतें                           RCC Structure: 06 Nos                      LHA
+     Buildings                                                                    Quarters,Office
+
+                                       Timber Construction above plinth
+                                       level
+22   कंपाउं ड लाइि
+     Compound Lights
+23   सीसीिीिीकमेरा                     Camera
+      CCTV CAMERA                      DVR
+24   स्िाफ                             Sl. No        Designations
+     Staff                             1             Lighthouse Attendant –(01)
+                                       2
+25   पहुँचने का माध्यम                 By road from Una
+     Mode of approach
+26   उपलब्ध सविधाए                     Post office at 4 KM from lighthouse at Navadra
+                                       village.Police Station, Dispensary and Highschool at
+     Facilities available
+                                       Bhatiya 24 km from Lighthouse.Hospital at Dwarka 65
+                                       KM from Lighthouse.
+
+
+27   डाकपताPostal address              C/o.Lighthouse Attendent P.O Una, Dist: Gir
+                                       Somnath
+
+28   मूल्य का ब्योराCost details       6,19,000/-
+     (At the time of Construction)
+29   प्रितनन मे लाने का टदनांक         1986
+     Date of commissioning
+

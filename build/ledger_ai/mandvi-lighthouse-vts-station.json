@@ -1,0 +1,41 @@
+{
+  "slug": "mandvi-lighthouse-vts-station",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Mandvi Lighthouse & VTS Station",
+  "station_type": "lighthouse",
+  "established_year": 2012,
+  "alol": "F-0357",
+  "position": {"lat_text": "22° 49.08' N", "lon_text": "69° 20.8' E", "lat": 22.818, "lon": 69.346667},
+  "elevation_m": 45,
+  "characteristic_text": "Group flash 3 white every 30 sec [(fl 1s, ec 5s)*2, fl 1s, ec 17s]",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 30,
+    "sequence_text": "(fl 1s, ec 5s)*2, fl 1s, ec 17s",
+    "sequence_s": [1, 5, 1, 5, 1, 17],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 16, "geographical_nm": null, "text": "16 NM (single unlabelled range); optic rated 13-19NM AT@0.74"},
+  "tower": {"type": "RCC Circular concrete Tower", "height_m": 60, "colour_scheme": "4 black and 3 white bands (Bottom band black)"},
+  "optic": {
+    "make": "Sealite, Australia", "model": "SL300-1D5-1-W", "type": "LED Flasher (Multiple LED Optic)", "size": "Lens Diameter 373mm", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type of Light structure: Stationary LED flashing light",
+    "divergence_horizontal_deg": 360,
+    "divergence_vertical_deg": 1.5,
+    "divergence_text": "Horizontal Output 360°, Vertical Divergence >1.5°",
+    "illuminant": "LED"
+  },
+  "intensity_cd": 94400,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 230 V 1 Phase 50HZ from PGVCL; 2 Nos. Kirloskar 40 KVA DG sets; on-grid 30 KW solar system"},
+  "issues": ["Light installed at 45 m on a 60 m RCC radar/VTS tower; established_year taken from Date of Commissioning 13/02/2012", "Vertical divergence given as '>1.5°'"]
+}

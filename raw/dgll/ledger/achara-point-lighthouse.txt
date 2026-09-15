@@ -1,0 +1,183 @@
+              मास्टर लेजर/MASTER LEDGER
+क्रमसं             नाम /Name
+ ख्या/                                                                वििरण/Description
+Sr.No
+   1           ए.एल.ओ.एल/A.L.O.L.                                            F0592
+   2             स्थान/Position                                       Latitude: 16°12.0’ N
+                                                                      Longitude :73° 25.9’ E
+  3            ऊंचाई/Elevation                                                17m
+  4         अविलक्षण/Characteristic                                Flash(2) White every 06 sec
+  5           नॉविकलमाइलमे दूरी                                              08 NM
+                Range in miles
+  6         दीपस्तं ििािर/L.H.Tower                     Type                            Circular RCC Tower
+
+                                                       Height                                    17m
+
+                                                   Colour Scheme                               White
+  7              ऑविकलउपकरण                            Optic                   High efficiency LED flashing beacon
+              Optical equipment
+                                                       Make                           Automatic power,USA
+                                                       Type                           Marine Signal Lantern
+                                                        Size                                   NA
+                                                     No. of lens                               NA
+
+                                               Area of dioptric portion                           -
+                                             Area of catadioptric portion                         -
+                                                     Divergence                                   -
+                                                  Main/Emergency
+                                                  Duration of Flash
+                                             Main /Standby/Emergency                           06 Sec
+
+                                                      Pedestal                                    -
+                                                   Rotation Device                               NA
+                                                        R.P.M.                                   NA
+                                                     Illumining
+                                                         Main                                    LED
+
+                                                      Standby                                    NA
+                                                     Emergency:                                  NA
+                                                 Date of Installation                            2012
+  8      प्रिािीबीमतीव्रता/Effective beam         Main & Standby                                 NA
+                    intensity                       Emergency                                     NA
+  9               लें िनन /Lantern                   Diameter                                    2.4M
+                                                  Height of glazing                              1.4M
+                                                   No. of panes                                   12
+                                                    Ventilators                                   06
+ 10                  RACON                             Sr. No                                    6295
+              Make                   Model             Code                          Band                 Date of
+                                                                                                        Installation
+                NA                    NA                 NA                           NA                     NA
+11                                                        NAIS
+              Base Station
+
+          Model              Type                     Power                               MMSI
+            NA                NA                          NA                                 NA
+      Communication
+        Equipment
+       VSAT Antenna          Band                    Modem
+            NA                NA                          NA
+          DGPS                NA
+     Transmitter Make     Frequency       Power Output            RS 1 ID          RS -II      Beacon         Date     Date
+                                                                                    ID           ID             of      of
+                                                                                                               com     Reca
+                                                                                                              missi    pitali
+                                                                                                                       zatio
+                                                                                                              oning
+                                                                                                                         n
+            NA               NA                 NA                     NA            NA           NA           NA       NA
+            NA               NA                           NA
+12   ऊर्ान केसाधन/Sourc                      Mains                                                 1000AH,
+                                                                                             12V x 2Nos Battery,
+        e of energy                                                                      Solar charged battery bank
+                                                                                      6nos solar panels of 100watt each
+                                            Standby                                                    NA
+                                                                       Engine 1
+                              Make/Type              Qty              Rating         No of              RPM           Cooling
+                                                                                    Cylinder
+                                    NA                NA               NA             NA                 NA             NA
+                                                                      Alternator
+                              Make/Type              Qty              Rating       Voltage/Am      Frequency          Phase
+                                                                                        p
+                                    NA                NA               NA             NA                 NA             NA
+                                                                       Engine 2
+                              Make/Type              Qty              Rating         No of              RPM           Cooling
+                                                                                    Cylinder
+                                    NA                NA               NA             NA                 NA             NA
+                                                                      Alternator
+                              Make/Type              Qty              Rating       Voltage/Am      Frequency          Phase
+                                                                                        p
+                                                      NA               NA             NA                 NA             NA
+
+
+
+
+                                            Solar Plant                                                NA
+                              Capacity PV                   Numbers                   Type             Battery         Bank
+                                    NA                           NA                    NA                NA             NA
+                                    Solar Plant for Main RACON
+                              Capacity PV                   Numbers                   Type             Battery         Bank
+                                  100W                           06                  MONO-               12V,           02
+                                                                                   CRYSTALLIN           1000AH
+                                                                                       E               (02 NOS)
+13                                        स्वचावलतिोल्टे र्स्टे बलाइर्र
+                                         Automatic Voltage Stabilizers
+         Make             Model          Capa              Input                Output           Phase            Qty
+                                          city
+           NA                 NA          NA                 NA                  NA                NA              NA
+14                                                   बैिरर
+                                                   Batteries
+       Equipment           Type          Make              Volt             Amp/Hr               Qty
+        PSS NAIS              NA           NA                NA                  NA              NA
+         Genset               NA           NA                NA                  NA              NA
+       Automation             NA           NA                NA                  NA              NA
+          DGPS                NA           NA                NA                  NA              NA
+15                                       बैिररचार्न र/ Battery charger
+
+       Equipment          Make           Mode               Type               Rating            Qty
+                                          l
+     General Purpose
+       Automation             NA          NA                 NA                  NA              NA
+16                                         इं वर्ट रInverter /UPS
+     Equipmen   Nos     Make             Model                Type          Rating       Qty       input           out
+         t                                                                                                         put
+       Main      2V     Exide             1000AH,                 VRLA     1000 AH
+       Light    cells               12V x 2Nos Battery,
+                 12                Solar charged battery
+                nos.                       bank
+                                    6nos solar panels of
+                                       100watt each
+     NAIS PSS    NA      NA                 NA                     NA           NA       NA            NA          NA
+      DGPS       NA      NA                 NA                     NA           NA       NA            NA          NA
+17                                            स्वचलनउपकरण
+                                           Automation Equipment
+      MAKE           PLC           HMI         Power Supply     VSAT                    Modem               Band
+       NA             NA            NA                NA                  NA             NA                  NA
+18         आविशमनउपकरण                   Type of Extinguisher            Capacity         Nos               Make
+        Fire Fighting Equipment             DCP Type(u/s)                  NA             NA                 NA
+                                            DCP Type(u/s)                  NA             NA                 NA
+                                           Foam Type(u/s)                  NA             NA                 NA
+                                           Water Type(u/s)                 NA             NA                 NA
+                                              DCP Type                     NA             NA                 NA
+
+
+
+19              संचार                                          NA
+            Communication
+20             र्लपूवतन                                                     NA
+             Water Supply
+21               िू वम                                        Area                                0.025 Acre
+                Land                                       Demarcation                         100sq.m covered by
+                                                                                                 compound wall
+22              इमारतें                          No quarters avaialble                                  -
+               Buildings
+23           कंपाउं डलाइि                                      NA                                       NA
+           Compound Lights
+24          सीसीिीिीकमे रा                               Camera                                NA
+            CCTV CAMERA                                   DVR                                  NA
+25              स्टाफ                   Sl. No                           Designations
+                Staff
+                                                                        NA, Unmanned
+
+26         पहुँ चने कामाध्यम          Achara Lighthouse is situated on Hillock of Munge village(Aad-bandar)
+          Mode of approach                            ,Taluka Devgad in district sindhudurg.
+                                        Nearest railway station is Kankavli.by road it is approx. 52kms from
+                                       kankavli, 37kms from malvan & 29kms from Devgad city,07kms from
+                                           munge village outvof which 4kms road and rest by walking
+27          उपलब्धसुविधाए                Marine Police                               17kms
+          Facilities available               Station
+                                           Dispensary                               17kms
+
+                                          High School                               17kms
+
+                                           Post office                              17kms
+28      डाकपताPostal address                                   Head Lightkeeper,
+                                                               Devgad lighthouse,
+                                                                 Devgad Fort,
+                                                                Taluka-Devgad,
+                                                                Dist-sindhudurg
+                                                                  Pin-416613
+29     मू ल्यकाब्योराCost details                                      NA
+     (At the time of Construction)
+30        प्रितननमे लाने कादे नां क                                   2012
+        Date of commissioning
+

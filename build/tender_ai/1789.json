@@ -1,0 +1,46 @@
+{
+  "nid": 1789,
+  "title": "Provision of Borewell at Manappad Point Lighthouse.",
+  "summary": "E-tender (percentage rate contract) for providing a borewell at Manappad Point Lighthouse, Thoothukudi District, Tamil Nadu (Chennai Directorate).",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(23)/1/2020-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Manappad Point Lighthouse, Thoothukudi District, Tamilnadu", "station_id": "manapad-point-lighthouse", "kind": "lighthouse", "work": "Provision of borewell"}
+  ],
+  "scope": [
+    {"item": "Provision of Borewell", "qty": null, "unit": null, "site": "Manappad Point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 253688.0,
+    "emd_inr": 5074.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. Tender fee NIL. EMD by DD/FDR of any scheduled/nationalized bank in favour of Director of Lighthouses and Lightships, Chennai, payable at Chennai; validity printed as three months (table) and 90 days (clause 1.1) from technical bid opening. Tender fee and EMD exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "02 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-12-02", "pre_bid": "2024-12-19", "bid_submission_end": "2024-12-26", "bid_opening": "2024-12-27"},
+  "eligibility": [
+    "Valid registration in appropriate category & class with CPWD, State PWD, Railways, MES, BSNL etc or other State/Central Govt/PSU/autonomous bodies",
+    "Similar works completed in last seven years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; only completed works with completion certificate; value updated at 7% simple per annum; certificates below Executive Engineer rank not considered",
+    "Similar works: provision of borewell / repairs and civil maintenance of building or construction of any type of building/compound wall/retaining wall/RCC work",
+    "PAN/ITCC/GST registration",
+    "Average annual turnover on construction works (CA certified) at least 40% of estimated cost in last 3 financial years ending 31 March 2024",
+    "Key technical personnel available for supervision and execution with qualification and experience",
+    "Undertaking that tender is unconditional (Annexure III); tender acceptance letter (Annexure II); affidavit/self-attestation of not blacklisted",
+    "List of gazetted and non-gazetted relatives serving in MoPSW or DGLL",
+    "Self-certification under preference to Make in India order (Annexure VI)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITManappadBorewell.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section I NIT only; no BOQ or borewell specifications. Bid download/submission 05.12.2024 10:00 to 26.12.2024 15:00; EMD up to 26.12.2024 15:00; opening 27.12.2024 15:00. Spelled 'Manappad'; station list 'Manapad Point'."
+}

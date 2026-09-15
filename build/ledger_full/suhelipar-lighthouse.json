@@ -1,0 +1,136 @@
+{
+  "slug": "suhelipar-lighthouse",
+  "page_count": 3,
+  "title_as_printed": "मास्टर लेजर/MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1,
+     "fields": [{"label": "A.L.O.L.", "value": "F-0756"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1,
+     "fields": [{"label": "Position", "value": "Latitude 10º02.30˝N, Longitude72º 17.00˝ E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1,
+     "fields": [{"label": "Elevation", "value": "38 M (Above MSL)"}], "tables": [], "text": null},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1,
+     "fields": [{"label": "Characteristic", "value": "Fl (2) White 20Sec"}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in miles", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1,
+     "fields": [{"label": "Range in miles", "value": "Luminous 19.0 Nm, Geographical17.5 Nm"}], "tables": [], "text": null},
+    {"no": "6", "title": "L.H.Tower", "title_hi": "दीपस्तंभ टावर", "page": 1,
+     "fields": [
+       {"label": "Type", "value": "Cast iron circular tower"},
+       {"label": "Height", "value": "30 M"},
+       {"label": "Colour Scheme", "value": "Red and White Band"}
+     ], "tables": [], "text": null},
+    {"no": "7", "title": "Optical equipment", "title_hi": "ऑप्टिकल उपकरण", "page": 1,
+     "fields": [
+       {"label": "Optic", "value": ""},
+       {"label": "Make", "value": "Sealite, Australia"},
+       {"label": "Type", "value": "LED flasher"},
+       {"label": "Size", "value": "300mm lens dia"},
+       {"label": "Illumining", "value": ""},
+       {"label": "Main", "value": "High-intensity LEDs (65W)"},
+       {"label": "Standby", "value": "---"},
+       {"label": "Date of Installation", "value": "10.04.2021"}
+     ], "tables": [], "text": null},
+    {"no": "8", "title": "Effective beam intensity", "title_hi": "प्रभावी बीम तीव्रता", "page": 1,
+     "fields": [
+       {"label": "Main", "value": ""},
+       {"label": "Emergency", "value": ""}
+     ], "tables": [], "text": null},
+    {"no": "9", "title": "Lantern", "title_hi": "लेंटर्न", "page": 1,
+     "fields": [
+       {"label": "Diameter", "value": ""},
+       {"label": "Height of glazing", "value": ""},
+       {"label": "No. of panes", "value": ""},
+       {"label": "Ventilators", "value": ""}
+     ], "tables": [], "text": null},
+    {"no": "10", "title": "RACON", "title_hi": null, "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Make", "Model", "Code", "Band", "Date of Installation"],
+        "rows": [["Wealth marine", "WM-RB-II", "O", "X", "21.10.2011"]]}
+     ], "text": "Equipment was found defective and hence removed and sent to DLL Cochin,for repair on 24.01.2014."},
+    {"no": "11", "title": "NAIS", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "Base Station", "value": "2 Nos-AIS1 & AIS2"},
+       {"label": "DGPS : NIL", "value": ""}
+     ],
+     "tables": [
+       {"caption": "Base Station", "columns": ["Model", "Type", "Power", "", ""],
+        "rows": [["R40", "Class A", "AC-230V & DC-24V", "", ""], ["Communication Equipment", "", "", "", ""]]},
+       {"caption": null, "columns": ["VSAT Antenna", "Modem", "", "", "", ""],
+        "rows": [["2.4 m dia Parabolic reflector", "Datum", "", "", "", ""]]}
+     ], "text": null},
+    {"no": "12", "title": "Source of energy", "title_hi": "ऊर्जा के साधन", "page": 1,
+     "fields": [
+       {"label": "Mains", "value": "Nil"},
+       {"label": "Emergency Power Source", "value": "Solar plant 5KVA capacity"},
+       {"label": "Engine", "value": "Nil"}
+     ],
+     "tables": [
+       {"caption": "Solar Plant: 5KVA for NAIS PSS", "columns": ["Capacity PV", "Numbers", "Type", "Battery bank", ""],
+        "rows": [["100W/ 12V", "16 Nos", "", "96 V", ""]]},
+       {"caption": "Solar Panel for Main Light", "columns": ["Capacity PV", "Numbers", "Type", "Battery"],
+        "rows": [["100 W/12V", "02 No.", "TBP", "02 No, 12V/100Ah"]]}
+     ], "text": "Mains and Emergency Power Source rows are printed in an unnumbered row at the foot of page 1, directly above item 12 on page 2."},
+    {"no": "13", "title": "Automatic Voltage Stabilizers: NIL", "title_hi": "स्वचालित वोल्टेज स्टेबलाइजर", "page": 2,
+     "fields": [{"label": "Automatic Voltage Stabilizers", "value": "NIL"}], "tables": [], "text": null},
+    {"no": "14", "title": "Batteries", "title_hi": "बैटरि", "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Type", "Make", "Volt", "Amp/Hr", "Qty", ""],
+        "rows": [
+          ["Main Light", "Lead acid", "Exide", "12V", "100 Ah", "2", ""],
+          ["Solar Plant", "SMF VRLA", "Exide", "2V *6 Nos", "300Ah", "8 sets ( Total 96V)", ""]
+        ]}
+     ], "text": null},
+    {"no": "15", "title": "Battery chargers : NIL", "title_hi": "बैटरि चार्जर", "page": 2,
+     "fields": [{"label": "Battery chargers", "value": "NIL"}], "tables": [], "text": null},
+    {"no": "16", "title": "Inverter /UPS", "title_hi": "इंवर्टर", "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Make", "Model", "Type", "Rating", "Qty", "input", "Output"],
+        "rows": [
+          ["NAIS PSS", "Sunbird", "", "Off-grid", "5 KVA", "1", "96 V DC", "230V AC"],
+          ["DGPS", "NIL", "", "", "", "", "", ""]
+        ]}
+     ], "text": null},
+    {"no": "17", "title": "Automation Equipment", "title_hi": "स्वचलन उपकरण", "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["MAKE", "PLC", "HMI", "Power Supply", "VSAT", "Modem", "Band"],
+        "rows": [["RDS", "Micrologix", "Renu Electronics PVT LTD", "24 V DC", "1.2m dia Parabolic reflector", "Hughes", ""]]}
+     ], "text": null},
+    {"no": "18", "title": "Fire Fighting Equipment", "title_hi": "आग्निशमन उपकरण", "page": 2,
+     "fields": [{"label": "Fire Fighting Equipment", "value": "NIL"}], "tables": [], "text": null},
+    {"no": "19", "title": "Communication", "title_hi": "संचार", "page": 2,
+     "fields": [{"label": "Communication", "value": "NIL"}], "tables": [], "text": null},
+    {"no": "20", "title": "Water Supply", "title_hi": "जलपूर्ति", "page": 2,
+     "fields": [{"label": "Water Supply", "value": "Open well and rainwater collection tank provided."}], "tables": [], "text": null},
+    {"no": "21", "title": "Land", "title_hi": "भूमि", "page": 2,
+     "fields": [
+       {"label": "Area", "value": ""},
+       {"label": "Demarcation", "value": ""}
+     ], "tables": [], "text": null},
+    {"no": "22", "title": "Buildings", "title_hi": "इमारतें", "page": 2,
+     "fields": [
+       {"label": "1.", "value": "Inspection quarter"},
+       {"label": "2.", "value": "LHA quarter"}
+     ], "tables": [], "text": null},
+    {"no": "23", "title": "Compound Lights", "title_hi": "कंपाउंड लाइट", "page": 2,
+     "fields": [{"label": "Compound Lights", "value": "Nil"}], "tables": [], "text": null},
+    {"no": "24", "title": "CCTV CAMERA", "title_hi": "सीसीटीवी कमेरा", "page": 2,
+     "fields": [{"label": "CCTV CAMERA", "value": "Nil"}], "tables": [], "text": null},
+    {"no": "25", "title": "Staff", "title_hi": "स्टाफ", "page": 2,
+     "fields": [{"label": "Staff", "value": "Nil"}], "tables": [], "text": null},
+    {"no": "26", "title": "Mode of approach", "title_hi": "पहुँचने का माध्यम", "page": 2,
+     "fields": [{"label": "Mode of approach", "value": "By Ship from Kochi or by private boat from Agatti / Kavaratti."}], "tables": [], "text": null},
+    {"no": "27", "title": "Facilities available", "title_hi": "उपलब्ध सुविधाए", "page": 3,
+     "fields": [{"label": "Facilities available", "value": "Nil"}], "tables": [], "text": null},
+    {"no": "28", "title": "Postal address", "title_hi": "डाक पता", "page": 3,
+     "fields": [{"label": "Postal address", "value": "C/o Navigational Assistant Gr-I, Kavaratti Lighthouse, Kavaratti island, UT of Lakshadweep 680 555"}], "tables": [], "text": null},
+    {"no": "29", "title": "Cost details (At the time of Construction)", "title_hi": "मूल्य का ब्योरा", "page": 3,
+     "fields": [{"label": "Cost details", "value": ""}], "tables": [], "text": null},
+    {"no": "30", "title": "Year of commissioning", "title_hi": "प्रवर्तन मे लाने का देनांक", "page": 3,
+     "fields": [{"label": "Year of commissioning", "value": "1975"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

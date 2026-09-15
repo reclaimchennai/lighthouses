@@ -1,0 +1,41 @@
+{
+  "slug": "harudi-vts-repeater-station",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Harudi VTS Station",
+  "station_type": "radar/repeater station",
+  "established_year": 2012,
+  "alol": null,
+  "position": {"lat_text": "23.5052° N", "lon_text": "68.6851° E", "lat": 23.5052, "lon": 68.6851},
+  "elevation_m": null,
+  "characteristic_text": null,
+  "light": {
+    "kind": null,
+    "flashes_per_period": null,
+    "colours": null,
+    "period_s": null,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": null, "geographical_nm": null, "text": null},
+  "tower": {"type": "GI Trestle tower", "height_m": 55, "colour_scheme": null},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": null,
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "PGVCL Mains 415V 3-Phase 50 Hz; standby 02 Nos 15 KVA Kirloskar DG sets; solar panels 20 x 250 W and 20 x 70W"},
+  "issues": ["Pages are numbered 'Page x of 8' but the PDF contains only 4 pages", "Microwave repeater station (Ericsson links to Koteshwar and Jakhau); no light described"]
+}

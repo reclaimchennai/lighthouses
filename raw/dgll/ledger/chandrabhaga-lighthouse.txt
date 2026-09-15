@@ -1,0 +1,168 @@
+1.    Name                          Chandrabhaga Lighthouse
+
+2.    Sr. No. (A.L.O.L.)            F 1003
+
+3.    Position                      Lat. 190 52.3’N
+                                    Long. 860 06.36’E
+
+4.    Elevation of ground           6.5 m
+
+5.    Elevation of tower            37m
+
+6.    Characteristic of Light       FL W 10 Sec
+
+7.    Range in nautical miles
+
+      i)       Luminous             14.5 NM
+      ii)      Geographical         16.5 NM
+
+8.    Lighthouse Tower
+      i)     Type                   Circular RCC Tower
+      ii)      Height               30.5 m
+      iii)     Colour Scheme        Red and White Bands
+
+
+9.    Optical equipment
+
+      (i)      Make                 Stone Chance, France
+      (ii)     Size                 4th order small, revolving
+      (iii)    Panels               2 (each of 120 degree)
+      (iv)     Focal Length         250 mm
+      (v)      RPM                  3
+      (vi)     Duration of Flash    0.3 Sec
+      (vii)    Illuminant           70W MH lamp (03 Nos. in cluster)
+      (viii)   Divergence           5.30 (Horiz.) & 3.24 (Vert.)
+      (ix)     Luminous intensity   10500 cd
+
+10.   Innovation                    Innovation was carried out on 2003. 1000W/230V
+                                    incandescent lamp was replaced with cluster MH
+                                    lamp (03 Nos. each 70W/230V wattage).
+                                                                                 1|Page
+11.       Lantern
+          i)     Diameter                          2m
+          ii)    Height of glazing                 1.05 m
+          iii)   No. of glass panes                8 Nos.
+          iv)    No. of Ventilators                7 Nos.
+
+12.       Pedestal                                 Mercury Float (24 kg in use).
+
+13.       Power Supply
+
+          i) Mains                                 3 Phase, 440 V, 50Hz Mains supply from CESU
+
+          ii) Solar
+
+SI. No.     Types of Solar Power        Capacity            No. of Panels       Inverter    Remarks
+  1             ON GRID                 15 kWp              40 (each 250W       l0KVA, Make Net       meter
+                                                            24V)                : Power one installed
+
+          iii) Standby                       Genset (01 No.)
+
+      A. Details ofEngine
+
+Sl. Engine Sl. No.               Make             BHP       No. of       RPM       Cooling         Date of
+No.                                                         Cylinder                               Installation
+ 1  02.8301 / 1620309            Kirloskar         20.5        02        1500       Air Cooling    21.11.2016
+
+      B. Details ofAlternator
+
+SI. Alternator SI. No.          Make         KVA        Voltage   Current Freq.           Phase        RPM
+No.                                                               (Amp)   (Hz)
+
+1        CS1BO16E2813-H Kirloskar             15          230       62.5         50       Single        1500
+
+14.       Other Equipments
+      i) Battery Charger                           01 No. Westing House make, input voltage : 200 — 250 V
+                                                   AC, output : 12 VDC, supplied on 04.12.1970. Presently it
+                                                   is working.
+      ii) Stabilizer
+
+Sr Input voltage            Output        KVA              Make                 Freq.   Phase      Date of
+No                          Voltage                                                                Installation
+1       120-270 V AC        230 V AC         15      Delta Electric Corp.        50Hz   Single         28.08.2008
+
+    iii) Inverter
+Sr.                Particulars                     Qty          Date of                      Purpose
+No.                                                           Installation
+1       850 VA, 12V DC (input), 230V               1 No.     22.05.2014         For Light beacon (02 Nos. Lamp)
+        AC (output), Sukam make
+2       850 VA, l2V DC (input), 230V               1 No. 22.05.2014             For Light beacon (Rotation & 01
+        AC (output), Sukam make                                                            No. Lamp)
+                                                                                                       2|Page
+ 3     1400 VA, 24V DC (input), 230V             1 No.   15.12.2012                  For NAIS
+       AC (output), Sukam make
+
+15.    Remote Monitoring and Control System
+
+ All equipment's are remotely monitored by RCS at Paradeep and MCS at Deep Bhavan, Kolkata.
+
+ i) Main Panel                            1 No. installed at power house.
+ ii) Remote Panel                         l No. installed at service room.
+ iii) UPS                                 l No. l KVA, APC make placed inside main Panel.
+ iv) Communication                        VSAT
+ iv) VSAT                                 1 No. installed on roof top of power house.
+ v) Modem                                 I No. placed inside main Panel.
+
+ 16.       NAIS
+
+ i) AIS Base station                      02 Nos. Saab Transponder make, installed at Service room.
+ ii) Modem                                01 No. Tellabs, installed at Service room.
+ iii) Router                              01 No. Cisco make, installed at Service room.
+ iv) GPS antenna                          02 Nos. installed at LH tower railing.
+ v) VHF antenna                           02 Nos. installed at LH tower railing
+ vi) UPS                                  01 No. I KVA, APC make installed at Service room
+ vii) Communication                       Lease Line
+ viii) Date of commissioning              December 2011
+
+ 17.       Fire Extinguisher
+
+ Sl. No.           Type          Capacity         Qty     Installed Place
+     l       DCP                   2 Kg         2 Nos.    One at service room and one at power house.
+    2        DCP                  1 Kg           I No.    Service room
+    3        Foam                  9 ltr.       2 Nos.    Both at Power House
+    4        Fire Buckets          10 ltr       4 Nos.    Verandah of power house
+
+ 18.       Water Supply
+
+ Municipal Water supply is available. Apart from Municipal water supply, LH has 1 HP motor
+ (Crompton make) use to pump water from open well to overhead tank placed at roof top of power
+ house. 1 HP motor were supplied on 10.04.2014.
+
+ 19.       Land
+
+            i) Area                                      4.67 Acre (Lease executed on 14.12.2017)
+           ii) Demarcation                               Compound Wall.
+           iii) No. of fruit trees                       20
+           iv) No. of non-fruit bearing trees            100
+
+ 20.       Buildings
+                i) 1 No. Office cum power house cum store room.
+                ii) 1 No. IQ
+               iii) I No. NAG-I Qtr.
+               iv) 2 Nos. NA Qtr.
+                                                                                                3|Page
+            v) 2 Nos. LHA Qtr.
+
+21.    Contact details
+
+         i)      Office Land line No.                06758 — 236838
+         ii)     Office E-Mail                       chandrabhagalighthouse@gmail.com
+         iii)    Postal Address                      Chandrabhaga Lighthouse, Konark
+                                                     PO — Konark, Dist. Puri,
+                                                      Odisha — 752 111.
+22.    Mode ofApproach
+
+The station is well connected by all-weather road. The nearest Railway Station is Puri which is approx.
+38 Km from Chandrabhaga Lighthouse.
+
+23.    Facilities Available
+
+Post Office, Primary Health Center, Police Station and Navodaya school all are within 7 KM from
+Chandrabhaga Lighthouse.
+
+
+
+
+                                                                                            4|Page
+5|Page
+

@@ -1,0 +1,142 @@
+                       मास्टर लेजर/ MASTER LEDGER
+                            कासरगोड दीपस्तं भ/ KASARGOD LIGHTHOUSE
+
+क्रमसं                 नाम /Name
+ ख्या/                                                                       वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.                   F 0668.5
+   2     स्थान/Position                       Lat.12° 30.32’ N, long 74°58.39’ E
+   3     ऊंचाई/Elevation                      38.5M (Above MSL)
+   4     अविलक्षण/Characteristic              Fl (3) W 20 sec
+   5     नॉविकल माइल मे दू री                 20NM
+         Range in miles
+  6      दीपस्तं ि िािर/L.H.Tower             Type                                  Octagonal Concrete Tower
+                                              Height                                30M
+                                              Colour Scheme                         Blackand White Band
+  7              ऑप्टिकल उपकरण                Optic                                 Revolving Beacon
+                 Optical equipment            Make                                  M/s Tideland
+                                              Type                                  TRB 220
+                                              Size                                  110mm
+                                              No. of lens                           3
+                                              Area of dioptric portion              -
+                                              Area of catadioptric portion          -
+                                              Divergence                            2.4º (Horizontal)
+                                              Main/Emergency                        2.16º (Vertical)
+                                              Duration of Flash                     -
+                                              Main /Standby/Emergency
+                                              Pedestal                              Locally fabricated by using GI angle
+                                              Rotation Device                       Brushless DC motor (gear less direct drive)
+                                              R.P.M.                                3
+                                              Illumining
+                                              Main                                  230V/70W Metal Halide Lamp
+                                              Standby                               -
+                                              Emergency:                            -
+                                              Date of Installation                  23.03.2009
+
+  8      प्रिािी बीम तीव्रता/Effective beam   Main                                  86455cds
+         intensity                            Emergency                             -
+
+  9      लें िनन /Lantern                     Diameter                              3m
+                                              Height of glazing                     2m
+                                              No. of panes                          12
+                                              Ventilators                           8
+
+ 10      RACON                                  NA
+
+ 11      NAIS
+          Base Station                                2 Nos-AIS1 & AIS2
+
+          Model                   Type              Power                                   MMSI
+          R40                     Class A           AC-230V                                 004192240
+          Communication
+          Equipment
+          VSAT Antenna            Band         Modem
+          BSNL Leased line        C            Telllabs
+          DGPS                    NA
+     12   ऊर्ान के साधन/          Mains                                                     KSEB 3Phase 440V
+          Source of energy        Power Source                                              DG Set 7.5 KVA makeKirloskar Green
+                                  Engine 1
+                                  Make/Type                    Qty         Rating           No of             RPM                    Cooling
+                                                                                            Cylinder
+                                  Kirloskar Green              1           16 BHP           2                 1500                   Air
+                                  Alternator
+                                  Make/Type                    Qty         Rating           Voltage/Amp       Frequency              Phase
+                                  Kirloskar                    1           7.5 KVA          240V/31.25A       50Hz                   Single
+                                  Solar Plant
+                                  Capacity PV                  Numbers                      Type       Battery                       Bank
+                                  15KWp                        50Nos                        Polycry    NIL
+                                                                                            staline
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र Automatic Voltage Stabilizers
+          Make                     Model           Capacity Input                           Output                 Phase             Qty
+          Automatic Electric       KY415C          7.5KVA     160-270                       230 +/- 2.5%           1                 1
+          limited
+14        बैिरर Batteries
+          Equipment                Type            Make           Volt         Amp/Hr                  Qty
+          PSS NAIS                 Tubular         Amron          12           150                     2
+          Genset                   Lead acid       Sf Sonic       12V          100                     1
+          Automation               Smf             Exide(Chlorid 12V           7AH                     2
+                                                   e)
+          MAIN LIGHT               Tubular         Amron          12           150 AH                  1
+          OPTIC ROTATION Tubular                   Amron          12           150AH                   1
+     15   बैिरर चार्न र/ Battery charger
+          Equipment                Make            Model      Type                          Rating Qty
+          General Purpose          LOCAL MAKE                 Dimmer stat                   0-18V 1
+          Automation                     -             -                  -                    -                     -
+     16   इं वर्ट र Inverter /UPS
+          Equipment Nos            Make      Model                          Type            Rating           Qty         input             Output
+          Main Light          1     sukam              Shiney                sinewave       900VA              1          170-230V          230V
+          NAIS PSS 1               EXIDE               Gqp 850              Pure            850VA            1           170-230V          230V
+                                                                            sinewave
+
+     17   स्वचलन उपकरण Automation Equipment
+          MAKE     PLC           HMI         Power Supply                            VSAT              Modem               Band
+          RDS      Allen Bradley Renu        24V DC                                  1.2m              Hughes              C
+                                 Electronics
+                                 Pvt.Ltd
+
+     18   आवि शमन उपकरण                             Type of Extinguisher             Capacity                Nos            Make
+                                                    DCP Type                         1 kg                    1
+     Fire Fighting Equipment                                            2 kg             4
+                                                                        4 kg             2
+                                     Co2                                4.5Ltr           2
+                                     Foam Type                          9 Ltr            3
+19   संचार                           BSNL Telephone line                               04994 230911
+     Communication
+20   र्ल पूवतन                           i)          Municipal water available
+     Water Supply                        ii)         Open well available
+21   िू वम                           Area                                              0.3296 hectre
+     Land                            Demarcation                                       Compound wall
+22   इमारतें                         RCC Structure: 07 Nos                             Power House-cum office,
+     Buildings                                                                         IQ, NAI Quarter, NA2
+     कंपाउं ड लाइि                                                                     Quarter 2Nos, LHA Twin
+     Compound Lights                                                                   Quater
+
+
+23   सीसीिीिी कमे रा                 LED Light fitted on G.I Pole-9 Nos
+     CCTV CAMERA
+24                                   Camera                                            NA
+     स्टाफ                           DVR                                               NA
+     Staff
+25                                   Sl. No                 Designations
+     पहुँ चने का माध्यम
+     Mode of approach                1                      Navigational Assistant Grade I: 1 no
+                                     2                      Navigational Assistant Grade III:out sourced
+     उपलब्ध सुविधाए
+                                     3                      LHA
+     Facilities available
+
+
+26   डाक पताPostal address           Kasaragod Railway station – 4KM
+                                     Ksrtc bus stand – 2KM
+27   मू ल्य का ब्योराCost details    Police station Kasaragod – 2KM
+     (At the time of Construction)   Govt. General Hospital Kasaragod – 3KM
+                                     Head post Office Kasaragod – 3KM
+28   प्रितनन मे लाने का दे नां क     Navigational Assistant,
+     Date of commissioning           Kasaragod lighthouse,
+                                     Kasaragod P.O
+                                     Kerala 671121
+29   मू ल्यकाब्योराCost details                N/A
+     (At the time of Construction)
+30   प्रितननमे लाने कादे नां क                 15.09.1984
+     Date of commissioning
+

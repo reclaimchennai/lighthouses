@@ -1,0 +1,179 @@
+                              मास्टर लेज़र/MASTER LEDGER
+                  पाांडियन डिवु दीपस्िांभ और डीजीपीएस स्टेशन/
+                Pandiyan Tivu Lighthouse and DGPS Station
+क्रम संख्या/             नाम /Name                                           वििरण/Description
+   Sr.No
+     1              ए.एल.ओ.एल/A.L.O.L.                                            F 0734
+     2                स्थान/Position                             Lat.8° 47.1’ N , Long 78° 11.9’ E
+     3               ऊंचाई/Elevation                                   49.5M (Above MSL)
+     4            अविलक्षण/Characteristic         Flashing white every 10sec
+
+     5              नॉविकलमाइलमे दूरी                                             21NM
+                      Range in miles
+     6            दीपस्तं ििािर/L.H.Tower         Type                                           Circular tower
+                                                  Height                                            45.7M
+                                                  Colour Scheme                        Black and White spiral Band
+     7                ऑविकलउपकरण                  Optic
+                      Optical equipment           Make                                        J.Stone & Co.
+                                                  Type                                        3rd order small
+                                                  Size                                            375mm
+                                                  No. of lens                                 2 each of 180
+                                                  Area of dioptric portion                     4552 Sq. cm
+                                                  Area of catadioptric portion                 4552 Sq. cm
+                                                  Divergence                               7.20º (Horizontal)
+                                                  Main/Emergency                   2.45º (Vertical)
+                                                  Duration of Flash                                 0.5 Sec
+                                                  Main /Standby/Emergency
+                                                  Pedestal                         Mounted upon Journal and Thrust
+                                                                                              Bearings.
+                                                  Rotation Device                      20 kg/cm Stepper motor
+                                                  R.P.M.                                         3
+                                                            Illumining
+                                                        Main                          230V/150W Metal Halide Lamp
+                                                      No. of Lamps & Make                  3Nos Metal Halide Lamps
+                                                      No. Of Ballast & Make                    3No’s,Kwicklite
+
+     8         प्रिािीबीमतीव्रता/Effective beam                Main                             1,77,127 cds
+                          intensity                         Emergency                                   -
+     9                  लें िनन /Lantern                 Diameter                                    2.4 m
+                                                         Height of glazing                           1.4m
+                                                           No. of panes                               12
+                                                            Ventilators                                8
+    10                     RACON                                 Sr. No                                6187
+           Make               Model                        Code                                      Band                  Date of
+                                                                                                                         Installation
+          Tideland        SeaBeacon                                 O                            X-BAND                   26.09.2004
+                              2                                                                  S-BAND
+11                                                          NAIS
+               Base Station                                                       2 Nos-AIS1 & AIS2
+
+
+          Model                Type                     Power                                    Sr. No
+           R40                Class A              AC-230V & DC-12V                            5334,5243
+      Communication
+        Equipment
+      VSAT Antenna             Band                     Modem
+          2.4m dia             EX-C                  Hughes HT2300
+         Parabolic
+          reflector
+          DGPS
+     Transmitter Make     Frequency           Power Output              RS 1 ID           RS -II       Beacon         Date of       Dat
+                                                                                           ID            ID           commis        e of
+                                                                                                                      sioning        Re
+                                                                                                                                    cap
+                                                                                                                                    itali
+                                                                                                                                    zati
+                                                                                                                                     on
+      Southern Avionics       309 KHz           500 Watts                   424             425             112       31.12.02      N/
+         Company                                                                                                                    A
+
+12   ऊर्ान केसाधन/Sourc                          Mains                                        Main supply:3Ph,440V,50Hz
+        e of energy                             Stand By                                     Gen set:230V,1Ph,50 Hz, 2 No’s
+                                                                             Engine 1
+                                 Make/Type                Qty                HP              No of                RPM          Cooling
+                                                                                            Cylinder
+                                  Kirloskar                1                 32                 3                 1500            Air
+                                                                            Alternator
+                                 Make/Type                Qty              Rating           Voltage           Frequency          Phase
+                                  Kirloskar                1               20 KVA             240V                50Hz           Single
+                                                                             Engine 2
+                                 Make/Type                Qty                HP              No of                RPM          Cooling
+                                                                                            Cylinder
+                                  Kirloskar                1                 32                 3                 1500            Air
+
+                                                                            Alternator
+                                 Make/Type                Qty              Rating           Voltage           Frequency          Phase
+                                  Kirloskar                1               20 KVA            240V                 50Hz           Single
+                                           Solar Plant : ON Grid
+                                Capacity PV                        Make                   Type          Ratings/Voltage        Quantity
+                                   25 KW                           Delta                  Mono                250 W               100
+                                                                                         Crystalli
+                                                                                           ne
+                                        Solar Panel for RACON
+                                Capacity PV                     Numbers                   Type                      Battery
+                                 70 W/12V                       01 No.                    TBP                       01 Nos
+                                                                                         1270M                    12V/100AH
+13                                            स्वचावलतिोल्टे र्स्टे बलाइर्र
+                                              Automatic Voltage Stabilizers
+
+           Make                    Capacity                  Input                Output               Phase       Qty
+            ITL                    12.5 KVA                170-270V               230V                 Single     3 No’s
+14                                                       बैिरर
+                                                   Batteries
+        Equipment              Type             Make           Volt            Amp/               Qty
+                                                                                Hr
+        Main Light             SMF              Exide             12V           150                4
+                                                                                AH
+          Genset             Lead acid          Exide             12V           150                2
+                                                                                AH
+        Automation                             Numeric
+          DGPS                 SMF              Exide              12V         42 AH              15
+15                                             बैिररचार्न र/ Battery charger
+
+        Equipment              Make               Volts            Capacity                 Qty
+      General Purpose      Delta electric      Input-230V,           15 A                  1 No
+                            corporation       Output-0-30V
+                                                   Dc
+                             AE Make           Input-230V,           15 A                  2 No
+                                              Output-0-30V
+                                                   Dc
+16                                                इं वर्ट रInverter /UPS
+     Equipment      Nos     Make               Model                  Type     Rating       Qty          input         Out
+                                                                                                                       put
+     Main Light      05     UTL                  ---                    ---    800 VA        5         12V DC&         230
+                                                                                                        230 AC         VAC
+
+     NAIS PSS        02     APC                  ----             Pure sine     1 KVA        2         36V DC&         230
+                                                                    wave                                230 AC         VAC
+
+       DGPS          01    Hykon                 ----             Pure sine     5 KVA       10          130V DC        230
+                                                                    wave                                   &           VAC
+                                                                                                         230 AC
+
+17                                               स्वचलनउपकरण
+                                               Automation Equipment
+      MAKE               PLC            HMI         Power Supply     VSAT                 Modem                 Band
+     Recktronic     Allen Bradley     Recktronic      24 V DC       1.8m dia              Hughes                EX.C
+     Devices &     MicroLogix 1400    Devices &                     Parabolic
+      System                           System                       reflector
+
+
+18           आविशमनउपकरण                        Type of Extinguisher     Capacity             Nos          Make
+         Fire Fighting Equipment                    DCP Type               6 kg                3
+                                                    Water Co2             4.5 kg               3
+                                                    Foam Type              9 Ltr               3
+19               संचार                             Telephone: 04612902033                        Email id:
+              Communication                                                            pandiyantivudgps@gmail.com
+20            र्लपूवतन               From V.O.C Port Trust Water tank through Pvt. Lorry water supply to
+            Water Supply                                       Lighthouse.
+21              िू वम                              Area                             1.39 Hectres
+               Land                              Demarcation                         Compound wall
+22             इमारतें                          RCC Structure                    Power House, Store
+              Buildings                                                        room, Workshop,Office
+                                                                               room, DGPS room, Coil
+                                                                               hut, I.Q-1 No, A.E Qtrs-
+                                                                              1No, NA.Gr-II Qtrs-2No’s,
+                                                                              LHA&LHS- 1 No.twin Qtrs.
+23       कंपाउं डलाइि                 LED Light fitted on G.I Pole-11 Nos
+     Compound Lights
+24      सीसीिीिीकमे रा                                               N/A
+        CCTV CAMERA
+25          स्टाफ                    Sl. No                           Designations
+           Staff
+                                       1                       Navigational Assistant Gr-I
+                                       2                      Navigational Assistant Gr-II
+26        पहुँ चने कामाध्यम          Up to Tuticorin by Rail/Road & then 18km by road up to Green
+         Mode of approach            gate with Bus facility & 5km by road up to Lighthouse without
+                                                                Bus facility
+27        उपलब्धसुविधाए              The nearest Post office, High School and Police Station is 8km
+         Facilities available                 and Govt.Hospital at 23km from Lighthouse.
+
+28    डाकपताPostal address                            The Assistant Engineer (E)
+                                            Pandiyan Tivu Lighthouse cum DGPS Station.
+                                        Harbor Estate Post Office, Tuticorin District, Tamilnadu,
+                                                             Pin: 628004.
+29    मू ल्यकाब्योराCost details                            Rs.16,11,000/-
+     (At the time of Construction)
+30       प्रितननमे लाने कादे नां क                               28.04.1980
+       Date of commissioning
+

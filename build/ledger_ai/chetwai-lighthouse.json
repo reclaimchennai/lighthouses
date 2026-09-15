@@ -1,0 +1,44 @@
+{
+  "slug": "chetwai-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Chetwai Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1986,
+  "alol": "0693",
+  "position": {"lat_text": "10° 33.10’ N", "lon_text": "76° 01.13’ E", "lat": 10.551667, "lon": 76.018833},
+  "elevation_m": 33.28,
+  "characteristic_text": "Fl (2) W 20 sec (fl0.46+2.2+0.46+16.88sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "fl 0.46+2.2+0.46+16.88sec",
+    "sequence_s": [0.46, 2.2, 0.46, 16.88],
+    "flash_duration_s": 0.46
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 19, "geographical_nm": null, "text": "19NM (unlabelled)"},
+  "tower": {"type": "Circular tower on RCC Base", "height_m": 33.28, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "M/s AGA", "model": null, "type": "AGA Revolving Beacon", "size": "250mm", "order": null,
+    "panels": 2,
+    "rotation_device": "Dual Stepper motor (20kg/cm2)",
+    "rpm": 1.5,
+    "rotates": true,
+    "rotates_evidence": "Type: AGA Revolving Beacon; Rotation Device: Dual Stepper motor; R.P.M. 3/2",
+    "divergence_horizontal_deg": 7.64,
+    "divergence_vertical_deg": 11.453889,
+    "divergence_text": "07°38’24” (Horizontal), 11°27’14” (Vertical)",
+    "illuminant": "Metal Halide lamp, Cluster of 3 Nos. 150V/230V"
+  },
+  "intensity_cd": 74000,
+  "racon": {"present": false, "code": null, "text": null},
+  "ais": {"present": false, "text": "NAIS - NA"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": null, "generator": true, "text": "KSEB mains; Kirlosker Green 7.5 KVA DG set (16 HP, 1500 RPM, air cooled)"},
+  "issues": [
+    "Duration of Flash field says '20 Sec' while characteristic gives flash 0.46 s",
+    "Tower height given as 33.28M, identical to elevation above MSL"
+  ]
+}

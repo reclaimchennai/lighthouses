@@ -1,0 +1,325 @@
+                       Antervedi Lighthouse
+                             Estd.1971
+                    VISAKHAPATNAM DIRECTORATE
+                          MASTER LEDGER
+
+                                     ANTERVEDI LIGHTHOUSE CUM
+1. Name                        :          D.G.P.S. STATION
+     Sr.No.
+2.                             : 0957
+     (In A.L.O.L)
+                                 Lat: 160 19' 01.118 N
+3. Position                    :
+                                 Long: 810 43' 32 .844 E
+4. Elevation                   : 29 mtr above MSL
+                                   Flash (2) White every 15 Sec
+5. Characteristic
+                                   (FL0.4+ec3.4+FL0.4+ec10.8)
+
+6. Range in nautical miles
+        i)      Luminous       : 27 NM
+      ii)   Geographical       : 15.5 NM
+7. Lighthouse Tower
+        i)      Type           : Square Masonry Tower
+        ii) Height             : 26 Mtr
+        iii)Colour
+                               : Red & White bands
+            Scheme
+8. Optical Equipment
+     a) Optic
+        i.      Make           : M/s. BBT
+        ii.     Size           : 300 mm (4th order) Revolving
+        i.     No. of Panels   : 4 (2 group of 2)
+        ii. Area of dioptric   : 1125 Sq. cm
+            portion              (corrected area portion 782 Sq.cm)
+        iii. Area of
+             atadioptric       : 3194 Sq. cm
+                                 (corrected area portion 2651 Sq.cm)
+             portion
+         iv.    Divergence
+                     Main/Service         : Horizontal 40 58', Vertical 20 1'
+                    Standby               : Not Provided
+                    Emergency             : Not Provided
+               v.      Duration of flash
+                    Main                : 0.41 seconds
+                    Emergency           : ---
+b)     Pedestal                           : Mercury floats (44.5kg in use)
+
+                                               Twin stepper motor Direct drive system.
+c) Rotation Device                        :    i) 2 No’s Unique Make Stepper motor 20 Kgs
+                                               ii) 2 No Unique make Stepper Motor Controller.
+
+d) Rotation Speed                         : 02 RPM
+
+e) Illuminant
+                                            3 x 150 Watt Metal Halide Lamps in Cluster
+        i)          Main/Service          :
+                                            form.
+        ii)         Standby               : Nil
+        iii)   Emergency                  : Nil
+f)   Effective Beam Intensity
+        i)          Main/Service          : 9,39,600 cds.
+        ii)         Standby               : Nil
+        iii)        Emergency             : Nil
+
+9.    Lantern
+             i)       Diameter                : 2.5 Mtr
+             ii)      Height of glazing       : 1.3 Mtr
+             iii)     No. of panels           : 20 Nos.
+             iv)      Ventilators             : 9 Nos.
+
+10. UPS for main Lamp                 : 3 No’s (Each Lamp has one UPS)
+     Make                             : UTL (Combo sine Wave)
+        Sr. No.                       : PCS8125869, PCS8125869, PCS8125869
+        Capacity                      : 800VA
+     Battery                     : 3 No’s (12V, 150AH Tubular Exide Battery)
+11. UPS for Stepper              : 1 No.
+    motor
+     Make                        : UTL (Combo sine Wave)
+       Sr. No.                   : P81218116
+       Capacity                  : 800VA
+       Battery                   : 12V, 150AH Tubular Exide Battery
+
+12. Lamp Changer                  : Cluster form
+
+
+13. Energy Source
+        A) APEPDCL Mains          : Local Mains supply 440 V, 3 phase, 50 Hz.
+        B) Green Energy           : 3KW off grid solar power plant for Main light.
+        i)        Solar panels    : 12 Nos. 24V/250W(Vikram make)
+        ii)       Battery Bank    : 12 Nos. 12V /150Ah (Tubular Exide battery )
+        iii)  PCU                 : Luminious Make 3.5KVA /48V PCU
+        C) Green Energy           : 15KW on grid solar power plant for LH & DGPS.
+              i) Solar panels     : 60 Nos. 24V/250W( Vikram make)
+         ii) PCU            : Delta Make 15KVA /Model no – RPI-M15A
+14. Diesel Engine Generators
+     S.        Engine No      Make/Type HP No. Of RPM           Cooling
+    No.                                       Cylinder
+     1     03.8901/1620331     Kirloskar  32    3 Nos. 1500 Air cooling
+                                HA394
+                                TC1 G1
+     2     03.8906/1720797     Kirloskar  32    3 Nos. 1500 Air cooling
+                              HA394 TC1
+                                  G1
+15. Details of Alternator
+                                                      voltag
+    S.No             SR No         Make/Type    KVA            Freq.   Phase    RPM
+                                                        e
+   1          CS3B017G12100-H     Kirloskar    25.0   440 V    50 Hz    3ø      1500
+                                  KG-184B
+      2      CS3B017H14697-H    Kirloskar       25.0    440 V   50 Hz     3ø    1500
+                                KG-184B
+
+
+16. Automatic Voltage               : 2 Nos.
+    Stabilizers
+      Make                          : Supra hi-tech, Sr no18040045, 18040046.
+          Model                     : SH-3150
+          Type                      : Servo stabilizers
+          Capacity                  : 15 KVA
+          Input                     : 330 V - 470 V
+          Output                    : 400 V  1% V
+          Frequency                 : 50 Hz
+17. AMF Panel
+     Make                       : Elect India
+          Model                 : MSV-EMF 25K3G2-S1910
+          Capacity              : 25 KVA
+
+
+18.       NAIS Equipment
+             Make                         :    M/s. SAAB
+             AIS R40 Base Station         :    S.No.5218
+            AIS R40 Base Station       : S.No.5273
+                (Connected with Cisco switch and HUGHES HT-2300 Satellite
+          modem.)
+            V- SAT Dish Size           : 2.4 Mtr dia
+             VHF Antenna                  :    2 Nos.
+             GPS antenna                  :    2 Nos.
+             Date of commissioning        :    21/12/2012
+      19. Details of Automation of Lighthouse.
+           Make                       : M/s Recktronic Devices & Systems, Pune.
+           RDS Control Panel          : 1No. in power house. (S.No.1715)
+            RDS Control Panel            : 1No. Service room. (S.No.1716)
+            For RCS                      : 2 No’s HP computer systems & 1 No HP
+                                           Laser Jet Printer P1108.
+      RCS Stations              : Machilipatnam, Nagayalanka, Ravaport &
+                                  Sacramento Lighthouses
+      Uninterrupted Power       : 2 Nos.
+      Supply                      (1No. for power panel & 1No. for computer)
+         Make                   : APC Backup, RIN848
+         Input                  : 220-240,10A,50/60Hz
+      VSAT Antenna              : 1.2 Mtr. dia
+      Date of commissioning
+           Automation           :   21/12/2012
+           SCADA                :   22/05/2013
+
+20. Differential Global Positioning System (DGPS)
+    A) Reference Station (RS-1)       : ID 436
+      Make                            : Leica, USA
+      Model No.                       : MX 9310
+      Serial No.                      : EMS-020
+      GPS Receiver                    : MX - 9400 R, 12 channels
+      Modulator                       : MX 50 M MSK Modulator with P.S.
+      Antenna                         : Choke Ring with cap Sr.No.7654
+
+
+ B) Reference Station (RS-2)        : ID 437
+   Make                             : Leica, USA
+   Model No.                        : MX 9310
+   Serial No.                       : EMS-021
+   GPS Receiver                     : MX - 9400 R, 12 channels
+   Modulator                        : MX 50 M MSK Modulator with P.S
+   Antenna                          : Choke Ring with cap Sr.No.7656
+
+ C) Integrity Monitor
+   Make                             : Leica, USA
+   Model No.                        : MX 9320
+   Serial No.                       : EMS-019
+ GPS Receiver                   : MX - 9400 R, 12 channels
+ Modulator                      : MX 52 R MSK Demodulator with P.S
+ Antenna                        : Choke Ring with cap Sr. No.7661
+                                  Beacon antenna
+
+D) Dual Transmitter
+ Make                           : Southern Avionics Company SAC, USA
+ Model No.                      : SLF – 30091
+ Type                           : NARB05A/02A
+ Serial No.                     : 9596A0004
+ Operating frequency            : 320 KHz
+ Power Output                   : 500 W
+ Antenna                        : T type with 2 wire
+ Date of Commissioning          : 6/2/2003
+
+E) Automatic Tuning Unit
+ Make                           : M/S Nautel INC, USA
+ Model No.                      : ATU –HP
+ Serial No.                     : B315
+ Operating frequency            : 295 KHz
+ Input Power                    : 230 V, 50 Hz, Single phase
+ Antenna                        : 30 mtr GI trestle tower 2 Nos for wire
+F) Uninterrupted Power Supply   : 02 Nos.
+ i) Make                        : HYKON
+ Model                          : HT 1102L
+ Capacity                       : 2 KVA
+ Serial No.                     : 181001949
+ Battery                        : 12 V, 26 AH Exide SMF 4 Nos.
+
+ ii) Make                       : Hycon
+ Model                          : AE 5000
+ Capacity                       : 5 KVA
+ Serial No.                     : 8122029
+       Battery                            : 12 V, 42 AH SMF 10 Nos.
+
+
+21.   RACON
+         i)     Make           : Pharas Marine Automatic Power
+         ii)    Input
+                               : 9 to 36 Volts D.C.
+                Voltage
+         iii)   RACON
+                               : 20180761SJP
+                Sr.No.
+         iv)    Morse Code     : B
+         v) Date of
+                               : 03/11/2018
+              commissioning
+         vi)    Solar panel      : Make –Mnre ,70W
+         vii) Charge
+                                 :     Make - GLOW
+                Controller
+         viii) Battery           : 12 V, 100AH, SMF Exide battery
+
+
+22.     Street Lights           : 21 No’s 24w Led light fittings with GI poles.
+
+
+                                     1 No. 12 V 100 AH Lead Acid for DG-1
+23.     No. of Batteries        :
+                                     1 No. 12 V 100 AH Lead Acid for DG-2
+
+      Air-Conditioner
+24.                           : 2 Nos.
+      (Split type)
+        Make                  : 2 No’s Blue star,
+        Model                 : BI-5CNHW18QATX, BI-CNHW18QTX
+        Sr.No. for outdoor
+                              : BO-5CNHW18QATX, BO-5CNHW18QATX
+        unit
+        Capacity              : 1.5 Ton each
+
+      Stabilizer for Split
+25.                            : 2 Nos.
+      type A/C
+        Make                   : Power line
+         Sr.No.                : 0811352, 08025163
+         Capacity              : 4 KVA
+26. Fire Fighting equipment
+    Fire Extinguishers
+       i)       D.C.P. type
+                            : 3 Nos.
+            (5kg Capacity)
+       ii)      Foam type
+          (9 litres         : 2 Nos.
+              capacity)
+          (10      Fire
+                            : 4 Nos.
+              Buckets
+
+      Communication                 SRT Mobile No:9925799948
+27.                             :
+      Facility                      e-mail : antervedi-vizag@dgll.nic.in
+
+                                    i) Rain water collection tank attached to each
+                                         quarter
+28. Water Supply                :   ii) Local Municipality Pipeline
+                                    iii) Electric pump with motor 1 HP used for supply
+                                         of water to Staff Quarter.
+
+
+
+29.   Land
+      i) Area                   : Ac.5.42 Cts.
+      ii) Demarcation           : RCC Compound wall
+      iii) No. of fruit trees   : 27 Nos.
+       iv)No.of non fruit
+                                : 24 Nos.
+           bearing Trees
+30.   Buildings                 : Powerhouse comprising Tx room, store, engine
+                                  room & Diesel store room. I.Q – 1 no, AE – 1 no,
+                                  NA-GII – 2 No’s, Gareage-1 No (use as spare
+                                  stores). Twin qtr NA-GIII -1 No and one twin
+                                  quarters for LHA & LHS. Pump house-1 No, Coil
+                                  house – 1 No.
+31.   Staff                   : i. Asst. Engineer - 1 No.
+                                 ii. SRT – 1 No.(Vacant)
+                                iii. Navigational Assistant Gr- II - 2 Nos.
+                                 iv. LHA – 1 No.
+                                v. LHS - Vacant
+                                By train up to Rajahmundry, by road Rajahmundry
+                                to Razole 95 km. And Razole to Antervedi
+32.   Mode of approach        :
+                                Devastanam 35km., Antervedi Devastanam to
+                                Lighthouse 3 km by walk or Auto.
+33.   Facilities available    : a) Post Office within 3 km (Antervedipalem)
+                                b) Govt. Hospital within 20 km (Malkipuram)
+                                c) Govt. School within 17 km (Malkipuram)
+                                d) Nationalized Bank with 20 km(Malkipuram)
+                                e) Police Station within 20 km (Malkipuram)
+34.   Postal Address          : Assistant Engineer (Electronics),
+                                Antervedi Lighthouse cum DGPS Station
+                                Antervedi Devastanam Post, Konaseema Dist.
+                                Andhra Pradesh, Pin: 533252
+35.   Cost Details
+
+      i. Construction          : Rs. 71,13,492/-
+      ii. Cost of equipment    : Rs.1,02,25,378/-
+      Year of first Light
+36.                            : 1971
+      Commissioned
+      Date of
+37.                            : 15/12/1984
+      Commissioning
+      Subsequent
+38.                            : 1980, 1997, 2003, 2004, 2012.
+      Innovation
+

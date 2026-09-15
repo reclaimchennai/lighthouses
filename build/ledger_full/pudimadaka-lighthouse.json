@@ -1,0 +1,107 @@
+{
+  "slug": "pudimadaka-lighthouse",
+  "page_count": 5,
+  "title_as_printed": "Pudimadaka Lighthouse Estd.1971 MASTER LEDGER",
+  "sections": [
+    {"no": null, "title": "Header", "title_hi": null, "page": 1, "fields": [], "tables": [], "text": "Pudimadaka Lighthouse Estd.1971 MASTER LEDGER [photo: square red and white banded lighthouse tower]"},
+    {"no": "1.", "title": "Name", "title_hi": null, "page": 1, "fields": [{"label": "Name", "value": "PUDIMADAKA LIGHTHOUSE"}], "tables": [], "text": null},
+    {"no": "2.", "title": "Sr.No. (as per A.L.O.L)", "title_hi": null, "page": 1, "fields": [{"label": "Sr.No. (as per A.L.O.L)", "value": "0968"}], "tables": [], "text": null},
+    {"no": "3.", "title": "Position", "title_hi": null, "page": 1, "fields": [{"label": "Position", "value": "Lat: 17' 29.3\" N Long: 83' 00.3\" E"}], "tables": [], "text": null},
+    {"no": "4.", "title": "Elevation", "title_hi": null, "page": 1, "fields": [{"label": "Elevation", "value": "35 Mtr"}], "tables": [], "text": null},
+    {"no": "5.", "title": "Characteristic", "title_hi": null, "page": 1, "fields": [{"label": "Characteristic", "value": "Fl. (2) W 15 Sec. (0.4+ 3.4 +0.4 +10.8 =15 sec.)"}], "tables": [], "text": "The bracketed part is printed in bold, with \"3.4\" and \"10.8\" underlined."},
+    {"no": "6.", "title": "Range in nautical miles", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Luminous", "value": "20 candelas"},
+      {"label": "ii) Geographical", "value": "16.5 NM"}
+    ], "tables": [], "text": null},
+    {"no": "7.", "title": "Lighthouse Tower", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Type", "value": "Square Masonry"},
+      {"label": "ii) Height", "value": "26 Mtr"},
+      {"label": "iii) Colour Scheme", "value": "Red &white band"}
+    ], "tables": [], "text": null},
+    {"no": "8.", "title": "Optical Equipment", "title_hi": null, "page": 1, "fields": [
+      {"label": "a) i. Make", "value": "B.B.T"},
+      {"label": "i. Size", "value": "300 mm (4th order Large) revolving"},
+      {"label": "ii. Focal distance", "value": "300 MM"},
+      {"label": "iii. No. of Panels", "value": "4 Nos."},
+      {"label": "iv. Area of dioptric portion", "value": "1125 sq cm. (corrected area 2651 sq. cm)"},
+      {"label": "v. Area of catadioptric portion", "value": "-"},
+      {"label": "vi. Divergence — Main", "value": "Horizontal 4⁰ 35', Vertical 3 ⁰ 26.3'"},
+      {"label": "vi. Divergence — Standby", "value": "NIL"},
+      {"label": "vi. Divergence — Emergency", "value": "NIL"},
+      {"label": "vii. Duration of flash — Main/ Standby", "value": "0.38 sec. - 0.4 sec."},
+      {"label": "vii. Duration of flash — Emergency", "value": "NIL"},
+      {"label": "b) Pedestal", "value": "Mercury Float (42.5 Kg in use)"},
+      {"label": "c) Rotation Device", "value": "Twin Stepper motor Direct Drive system. i)Stepper motor :2 No 20Kg-cm (unique make) ii) Controller: 2No 20Kg-Cm (unique make)"},
+      {"label": "d) Rotation Speed", "value": "2 RPM"},
+      {"label": "e) Illuminant — i) Main/Service", "value": "70 Metal halide lamp 3 nos. (cluster)"},
+      {"label": "e) Illuminant — ii) Standby", "value": "Nil"},
+      {"label": "e) Illuminant — iii) Emergency", "value": "Nil"},
+      {"label": "f) Effective Beam Intensity — i) Main/Service", "value": "4,38,480 cds."},
+      {"label": "f) Effective Beam Intensity — ii) Standby", "value": "Nil"},
+      {"label": "f) Effective Beam Intensity — iii) Emergency", "value": "Nil"}
+    ], "tables": [], "text": null},
+    {"no": "9.", "title": "Lantern", "title_hi": null, "page": 2, "fields": [
+      {"label": "i) Diameter", "value": "2.5 Mtr"},
+      {"label": "ii) Height of glazing", "value": "1.3 Mtr"},
+      {"label": "iii) No. of panes", "value": "20 Nos."},
+      {"label": "iv) Ventilators", "value": "9 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "10.", "title": "Energy Source", "title_hi": null, "page": 2, "fields": [
+      {"label": "A) APEPDCL Mains", "value": "Single phase 230V supply."},
+      {"label": "B) Green Energy", "value": "1.36KW off grid solar power plant for main light."},
+      {"label": "i) Solar panels", "value": "8 Nos. 24V/170W(TATA B.P make)"},
+      {"label": "ii) Battery Bank", "value": "12Nos. 2V /500Ah (Exide SMF)"},
+      {"label": "iii) PCU", "value": "TATA B.P Make 1KVA /24V"}
+    ], "tables": [], "text": null},
+    {"no": "11.", "title": "Diesel Engine Generators", "title_hi": null, "page": 3, "fields": [
+      {"label": "Make", "value": "Kirloskar"},
+      {"label": "Model", "value": "KG15AS4 (Canopy)"},
+      {"label": "Rating", "value": "15KVA"},
+      {"label": "Frequency", "value": "50 HZ"},
+      {"label": "Phase", "value": "single phase"},
+      {"label": "RPM", "value": "1500"}
+    ], "tables": [], "text": null},
+    {"no": "12.", "title": "Automatic Voltage Stabilizers", "title_hi": null, "page": 3, "fields": [
+      {"label": "Automatic Voltage Stabilizers", "value": "1 No."},
+      {"label": "Make", "value": "supra- hitech"},
+      {"label": "Model", "value": "SH-1100"},
+      {"label": "Capacity", "value": "10 KVA"},
+      {"label": "Input", "value": "170-270 V"},
+      {"label": "Output", "value": "230"}
+    ], "tables": [], "text": null},
+    {"no": "13.", "title": "Automation of Lighthouse.", "title_hi": null, "page": 3, "fields": [
+      {"label": "i) Make", "value": "M/s Recktronic Devices & Systems, Pune."},
+      {"label": "ii) RDS Panel", "value": "1No in power house.( S.No. 102946355)"},
+      {"label": "iii) RDS Panel", "value": "1No Service room.( S.No. 102940476)"},
+      {"label": "iv) V-SAT Dish Size", "value": "1.2 Mtr dia"},
+      {"label": "v) Date of commissioning", "value": "21/02/2013"}
+    ], "tables": [], "text": null},
+    {"no": "14.", "title": "Street Lights", "title_hi": null, "page": 3, "fields": [{"label": "Street Lights", "value": "10Nos. 25W LED Street lights with GI poles"}], "tables": [], "text": null},
+    {"no": "15.", "title": "Firefighting equipment", "title_hi": null, "page": 3, "fields": [
+      {"label": "Fire Extinguishers — i) D.C.P. type (5kg Capacity)", "value": "1 No."},
+      {"label": "ii) Foam type (9 litres capacity)", "value": "Nil"},
+      {"label": "iii) Fire Buckets", "value": "Nil"}
+    ], "tables": [], "text": null},
+    {"no": "16.", "title": "Communication Facility", "title_hi": null, "page": 4, "fields": [{"label": "Communication Facility", "value": "A.E.(E), Dolphin Nose LH Telephone No. 0891-2973441 e-mail : dolphsnosedgps@gmail.com"}], "tables": [], "text": null},
+    {"no": "17.", "title": "Water Supply", "title_hi": null, "page": 4, "fields": [{"label": "Water Supply", "value": "i) Open well with 1 HP pump & 500 Ltrs. O.H. Tank"}], "tables": [], "text": null},
+    {"no": "18.", "title": "Land", "title_hi": null, "page": 4, "fields": [
+      {"label": "i) Area", "value": "4.4 Acres (approx.)"},
+      {"label": "ii) Demarcation", "value": "Masonry Compound wall"},
+      {"label": "iii) No. of fruit trees", "value": "20 Nos."},
+      {"label": "iv) No.of non fruit bearing Trees", "value": "2 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "19.", "title": "Buildings", "title_hi": null, "page": 4, "fields": [{"label": "Buildings", "value": "2 Nos. (Single unit of Inspection Quarter cum LHA quarter & Cylinder room)"}], "tables": [], "text": null},
+    {"no": "20.", "title": "Staff", "title_hi": null, "page": 4, "fields": [{"label": "Staff", "value": "L.H.A."}], "tables": [], "text": null},
+    {"no": "21.", "title": "Mode of approach", "title_hi": null, "page": 4, "fields": [{"label": "Mode of approach", "value": "Up to Anakapalli by rail then 26 km. by road."}], "tables": [], "text": null},
+    {"no": "22.", "title": "Facilities available", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "a) Police station, Atchuthapuram within 10 km\nb) Govt. Hospital within 10 km (Atchuthapuram)\nc) Govt. School within 10 km (Atchuthapuram)\nd) Nationalized Bank within 1 km(Pudimadaka)"},
+    {"no": "23.", "title": "Postal Address", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "Lighthouse Attendant,\nPudimadaka Lighthouse,\nP.O. Pudimadaka, Via. Achutapuram\nAndhra Pradesh, PIN 531011.\nAndhra Pradesh, Pin: 535 204."},
+    {"no": "24.", "title": "Cost Details", "title_hi": null, "page": 4, "fields": [
+      {"label": "i. Construction", "value": "Rs. 3,02,495.00"},
+      {"label": "ii. Cost of equipment", "value": "Rs. 7,75,000.00"}
+    ], "tables": [], "text": null},
+    {"no": "25.", "title": "Year of first Light Commissioned", "title_hi": null, "page": 5, "fields": [{"label": "Year of first Light Commissioned", "value": "1971"}], "tables": [], "text": null},
+    {"no": "26.", "title": "Date of Commissioning", "title_hi": null, "page": 5, "fields": [{"label": "Date of Commissioning", "value": "21-01-1971"}], "tables": [], "text": null},
+    {"no": "27.", "title": "Subsequent Innovation", "title_hi": null, "page": 5, "fields": [{"label": "Subsequent Innovation", "value": "1991, 2002, 2008"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

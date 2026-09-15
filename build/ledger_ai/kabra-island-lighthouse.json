@@ -1,0 +1,44 @@
+{
+  "slug": "kabra-island-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Kabra Island Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1998,
+  "alol": "F 1224.1",
+  "position": {"lat_text": "7° 17.30' N", "lon_text": "93° 50.30' E", "lat": 7.288333, "lon": 93.838333},
+  "elevation_m": 62,
+  "characteristic_text": "Fl (3) W 20 Sec (fl 0.8,ec 1.2) x 2,fl 0.8,ec15.2",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "(fl 0.8, ec 1.2) x 2, fl 0.8, ec 15.2",
+    "sequence_s": [0.8, 1.2, 0.8, 1.2, 0.8, 15.2],
+    "flash_duration_s": 0.8
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20 NMiles (single unlabelled range)"},
+  "tower": {"type": "G I Trestle Tower", "height_m": 12, "colour_scheme": "Black and White Bands"},
+  "optic": {
+    "make": "Sealite", "model": "SL155-5D", "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; Rotation Device 'White Flashing Light'; R.P.M. NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "NA"},
+  "ais": {"present": false, "text": "NAIS table blank; only 'VSAT Antenna Prodelin 2.4 meter' noted"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar panels 70 W x1 mono crystalline, battery 12V/100AH; mains and standby fields blank"},
+  "issues": [
+    "NAIS section has no model/MMSI but lists a Prodelin 2.4 m VSAT antenna",
+    "Range 20 NM stated for a 1500 cd LED flasher"
+  ]
+}

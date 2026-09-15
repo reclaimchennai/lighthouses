@@ -1,0 +1,50 @@
+{
+  "nid": 2308,
+  "title": "Procurement of Glasspanes,Repair,Maintenance and Replacement of Glass panes at Point Calimere Lighthouse station under Chennai directorate",
+  "summary": "Two-cover e-tender for supply of 10 curved toughened lantern glass panes and replacement of damaged panes, rusted gutter-ring bolts and ventilators at the lantern house of Point Calimere Lighthouse, Nagapattinam District, Tamil Nadu.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01002(12)/3/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, 5/20 Jaffer Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Point Calimere Lighthouse, Kodiakkarai post, Nagapattinam District, Tamilnadu", "station_id": "point-calimere-lighthouse", "kind": "lighthouse", "work": "Supply and replacement of lantern glass panes, replacement of rusted bolts at CI gutter ring and outer gallery base, repair of ventilators"}
+  ],
+  "scope": [
+    {"item": "Supply of 1550 mm x 820 mm x 10 mm curved toughened glass panes as per sample, drawing and specifications to Point Calimere lighthouse inclusive of template making, loading, packing, forwarding, freight and unloading", "qty": "10", "unit": "Nos", "site": "Point Calimere Lighthouse"},
+    {"item": "Dismantling of damaged glass panes (2 Nos) from lantern house astragal frame and replacement with new glass panes including fabrication, winch/lifting machinery, sealant, scaffolding, labour and freight", "qty": "1", "unit": "LS", "site": "Point Calimere Lighthouse"},
+    {"item": "Removal of damaged rusted bolts and nuts at outer portion of CI gutter ring and outer gallery base support and fixing new bolts and nuts at lantern house", "qty": "1", "unit": "LS", "site": "Point Calimere Lighthouse"},
+    {"item": "Repair of damaged ventilators at Point Calimere Lighthouse including material supply, fabrication and labour", "qty": "1", "unit": "LS", "site": "Point Calimere Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 412548.0,
+    "emd_inr": 8250.0,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value as FDR from nationalized bank, valid six months after completion",
+    "notes": "Estimated cost including GST. EMD by DD/FDR of any nationalized bank in favour of The Director of Lighthouses and Lightships, Chennai, valid 90 days from technical bid opening; EMD exempted for valid MSME/NSIC certificate. 100% payment after satisfactory completion. MII purchase preference margin 20%. Penalty 0.1% per day up to 10%."
+  },
+  "period": {"completion": "90 days", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2026-03-25", "pre_bid": "2026-04-03", "bid_submission_end": "2026-04-10", "bid_opening": "2026-04-13"},
+  "eligibility": [
+    "OEMs or authorised agents or appropriate-class contractors registered with CPWD/State PWD/Railways/MES/BSNL or other Govt/PSU/autonomous bodies; registered bonafide fabricators/suppliers",
+    "Similar works in last seven years ending 28 February 2026: one >= 80%, two >= 50% or three >= 40% of tender value",
+    "Similar work: fabrication and supply of lantern house / CI gutter ring, supply and erection of high-rise steel towers, supply/replacement of glass panes at lantern house, steel fabrication or mechanical maintenance at high-rise towers",
+    "Turnover, P&L and auditor's report for 2022-23 to 2024-25; ITRs for same years; PAN; GST; litigation/blacklisting affidavit; key personnel details",
+    "Technical evaluation minimum 70/100: statutory documents (business registration in Tamil Nadu/Puducherry or MSME/NSIC with TN/Puducherry address, PAN, GST, non-blacklisting affidavit) 20; turnover 15; ITR 15; similar work experience 30; performance of works 20"
+  ],
+  "specs": [
+    "Glass panes 1550 x 820 x 10 mm, toughened, curved (arc 835 mm), scratch resistant, fine finish, machined surface, to match approved sample; for 2.5 m lantern house",
+    "Packed in wooden pallets; damage until handover at contractor's cost",
+    "New GI bolts and nuts at CI gutter ring and outer gallery base support; ventilators repaired with new stainless steel meshes",
+    "Contractor to guarantee spares availability for 2 years"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "TPC_compressed.pdf", "pages": 38, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Pages 1-3 have a text layer; pages 4-38 are scanned and were read by vision. Directorate contact e-mail printed is a gmail address used as the office e-mail (dlhlschennai@gmail.com). General conditions state rate validity 180 days while NIT and clause 3.15.5 state 90 days. BOQ price schedule carries zero-value template figures."
+}

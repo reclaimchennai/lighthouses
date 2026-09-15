@@ -1,0 +1,39 @@
+{
+  "nid": 1925,
+  "title": "Development of Eco-Tourism at Little Andaman Lighthouse.",
+  "summary": "Online percentage-rate two-bid e-tender for development of eco-tourism facilities at Little Andaman Lighthouse, Andaman & Nicobar Islands.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-03002/1/2022-CM-PB",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Little Andaman Lighthouse, Little Andaman, A & N Islands", "station_id": "little-andaman-lighthouse", "kind": "lighthouse", "work": "Development of eco-tourism"}
+  ],
+  "scope": [
+    {"item": "Development of Eco-Tourism at Little Andaman Lighthouse", "qty": null, "unit": null, "site": "Little Andaman Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1491662.35,
+    "emd_inr": 30000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Bid document free of cost. EMD by Deposit at call receipt/FDR/DD of any nationalized bank in favour of Director of Lighthouses and Lightships, Sri Vijay Puram, valid 6 months from technical bid opening; originals with technical documents by post or in person by 23/06/2025 15:00. MSME/NSIC bidders registered for similar work exempt from EMD."
+  },
+  "period": {"completion": "4 months", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-06-09", "pre_bid": "2025-06-16", "bid_submission_end": "2025-06-23", "bid_opening": "2025-06-24"},
+  "eligibility": [
+    "Eligible experienced civil contractors with successful completion of similar work of construction/maintenance of buildings in Andaman & Nicobar Islands with Government organizations and no adverse remarks",
+    "Detailed eligibility as per Section-III clause 3.1 of tender document (not included)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITecotourismLittleAndaman.pdf", "pages": 6, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT Section I only: pages 1-3 Hindi, pages 4-6 English; no BOQ or description of eco-tourism components. Bid download/submission 09/06/2025 18:00 to 23/06/2025 15:00; technical bid opening 24/06/2025 15:00 subject to internet availability. Hindi version names issuing office as Port Blair."
+}

@@ -1,0 +1,40 @@
+{
+  "nid": 1468,
+  "title": "ISO Audit and Certification of Directorate of Lighthouses and Lightships, Mumbai as per the standards of ISO 9001:2015",
+  "summary": "Notice inviting sealed quotations for ISO 9001:2015 audit and certification of the Directorate of Lighthouses and Lightships, Mumbai.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "EM-Mum-01001/2/2020-Electrical",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "directorate",
+  "sites": [
+    {"name": "Directorate of Lighthouses and Lightships, Deep Bhavan, M.G. Road, Ghatkopar (East), Mumbai-400077", "station_id": null, "kind": "office", "work": "ISO 9001:2015 audit and certification"}
+  ],
+  "scope": [
+    {"item": "ISO Audit and Certification of Directorate of Lighthouses and Lightships, Mumbai as per the standards of ISO 9001:2015", "qty": "1", "unit": "Job", "site": "Directorate of Lighthouses and Lightships, Mumbai"}
+  ],
+  "money": {
+    "estimated_cost_inr": 150000.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Rates to include all charges for preparing ISO certification documents, site visits and office visits; no additional payment. GST to be indicated separately (basic rate, GST, total). No advance payment; TDS on GST and IT deducted."
+  },
+  "period": {"completion": "05 days from the date of issue of work order", "bid_validity": "Not less than 30 days", "warranty": null},
+  "dates": {"published": "2024-02-16", "pre_bid": null, "bid_submission_end": "2024-02-20", "bid_opening": "2024-02-20"},
+  "eligibility": [
+    "Agency must have valid affiliation with an ISO certification organisation"
+  ],
+  "specs": [
+    "ISO 9001:2015"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "ISO NIQ.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned NIQ (no text layer): notice, Annexure-I terms and conditions, Annexure-II commercial bid form. Sealed quotations by post/courier/hand to the Director, Deep Bhavan, Ghatkopar East, by 20.02.2024 15:00; opened 20.02.2024 16:00. Notice table numbering jumps from 3 to 6 (items 4-5 absent). Signed by Director (I/C) on 16/02. Jurisdiction Mumbai. Office e-mail dte-mum@gov.in."
+}

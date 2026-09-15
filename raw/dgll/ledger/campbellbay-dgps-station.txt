@@ -1,0 +1,188 @@
+                          मास्टर लेजर/MASTER LEDGER
+               कैम्पबेल बे डी जी पी एस स्टे शन/ CAMPBELL BAY DGPS STATION
+क्रमसं             नाम /Name
+                                                                      वििरण/Discription
+ख्या/
+Sr.No
+  1      ए.एल.ओ.एल/A.L.O.L.
+  2      स्थान/Position                     Lat. 07° 00.29’ N
+                                            long 93° 56.11’ E
+  3      ऊंचाई/Elevation
+  4      अभिलक्षण/Characteristic
+  5      नॉटिकलमाइलमेदरू ी
+         Range in miles
+  6      दीपस्तंििािर/L.H.Tower             Type
+                                            Height
+                                            Colour Scheme
+  7      ऑप्टिकलउपकरण                       Optic
+         Optical equipment                  Make
+                                            Type
+                                            Size
+                                            No. of lens
+                                            Area of dioptric portion
+                                            Area of catadioptric portion
+                                            Divergence
+                                            Main/Emergency
+                                            Duration of Flash
+                                            Main /Standby/Emergency
+                                            Pedestal
+                                            Rotation Device
+                                            R.P.M.
+                                            illumining
+                                            Main
+                                            Standby
+                                            Emergency:
+                                            Date of Installation
+  8      प्रिािीबीमतीव्रता/Effective beam   Main
+         intensity                          Emergency
+  9      लेंिनन/Lantern                     Diameter
+                                            Height of glazing
+                                            No. of panes
+                                            Ventilators
+ 10      RACON
+
+1|Page
+     Make                Model           Code                            Band                     Date of
+                                                                                                  Installation
+
+11   NAIS
+     Base Station                           2 Nos-AIS1 & AIS2
+
+
+     Model               Type            Power                           MMSI
+     R40                 Class A         AC-230V & DC-12V                4198007
+     Communication
+     Equipment
+     VSAT Antenna        Band            Modem
+       2.4m dia          EX-C            Datum system
+       Parabolic                             M7LT
+       reflector                         Satellite Terminal
+     DGPS
+     Transmitter Make    Frequency       Power Output RS 1 ID            RS -II       Beacon      Date of      Date of
+                                                                         ID           ID          commis       Recapit
+                                                                                                               alizatio
+                                                                                                  sioning      n
+     Nautel              289 KHz         1000 Watts             444      445          122         2013         N/A
+
+12   ऊर्ानकेसाधन/Sour    Mains                                           3 phase 440 V 50Hz Electricity Board
+                                                                         supply
+     ce of energy
+                         Standby                                         DG Set 20 KVA
+                         Engine 1
+                         Make/Type                    Qty       Rating   No of            RPM            Cooling
+                                                                         Cylinder
+                         Kirloskar                    1         32 BHP   3                1500           Air
+                         Alternator
+                         Make/Type                    Qty       Rating   Voltage/Amp      Frequency      Phase
+                         Kirloskar                    1         20 KVA   240V/32 A        50Hz           Single
+                         Engine 2
+                         Make/Type                    Qty       Rating   No of            RPM            Cooling
+                                                                         Cylinder
+                         Kirloskar                    1         32 BHP   3                1500           Air
+                         Alternator
+                         Make/Type                    Qty       Rating   Voltage/Amp      Frequency      Phase
+                         Kirloskar                    1         20 KVA   240V/32 A        50Hz           Single
+                         Solar Plant
+                         Capacity PV                  Numbers            Type        Battery             Bank
+
+
+                         Solar Plant for Main RACON
+                         Capacity PV                  Numbers            Type        Battery             Bank
+
+
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make               Model            Capa         Input              Output                Phase     Qty
+                                         city
+
+2|Page
+      AE                   -                  12.5      230 V 50 Hz              230 V 50Hz           Single       01
+                                              KVA                                                     Phase
+14    बैिरर
+      Batteries
+      Equipment            Type               Make       Volt                    Amp/     Qty
+                                                                                 Hr
+      PSS NAIS                   -               -               -                  -                 -
+      Genset               Lead acid          Exide      12V                     150      4
+                                                                                 AH
+      Automation           SMF                Exide      12V                     42       2
+                                                                                 AH
+      DGPS                 SMF                Exide      12 V                    42       14
+                                                                                 AH
+ 15   बैिररचार्नर/ Battery charger
+
+      Equipment            Make               Mode Type                          Ratin    Qty
+                                              l                                  g
+      General Purpose Fisher                  -    -                                      02 nos
+      Automation
+ 16   इंवटट रInverter /UPS
+      Equipmen Nos Make               Model                     Type             Rating        Qty input                output
+      t
+      Main            ---    ---                 ---                  ---           ---         ---          ---          ---
+      Light
+      NAIS PSS 02          APC                   ----           Pure sine        1 KVA         2          12V DC        230VA
+                                                                wave                                      &             C
+                                                                                                          230 AC
+                   01      Hykon                 ---            Pure sine        5KVA          1          12V DC        230VA
+      DGPS                                                      wave                                      &             C
+                                                                                                          230 AC
+                   01      Hykon                 ---            Pure sine        3KVA          1          12V DC        230VA
+                                                                wave                                      &             C
+                                                                                                          230 AC
+ 17   स्वचलनउपकरण
+      Automation Equipment
+      MAKE          PLC              HMI             Power Supply           VSAT          Modem            Band
+      NELCO         Schneider        Schneider       24 V DC                1.8m dia      SkyEdg           EX.C
+                    &                                                       Parabolic     e
+                    Telemecaniq                                             reflector
+                    ue
+ 18   आप्ननशमनउपकरण                           Type of Extinguisher Capacity                 Nos      Make
+      Fire Fighting Equipment                 DCP Type             6 kg                     2
+                                              Water Type           9 Ltr                    2
+                                              Co2 Type             4.5 Ltr                  2
+                                              Foam Type            9 ltr                    1
+ 19  संचार                                    BSNL mobile communication                   03193-264041
+                                              available
+     Communication
+3|Page
+20   र्लपर्ू तन                      Water pipe line connection from Water supply board available and
+                                     Rain Water Harvesting of tank capacity 20000 ltrs
+     Water Supply
+21   िूभम                            Area                                       Not available
+     Land                            Demarcation                                Not Available
+
+22   इमारतें                         RCC Structure: 06 Nos                      Power House-cum
+                                                                                Transmitter and DGPS room,
+     Buildings
+                                                                                Coil Hut, Inspection Qtr, SRT
+                                                                                Qtr,Nav. Asst. Qtr.,LHA Qtrs.
+23   कंपाउं डलाइि                    LED Light fitted on G.I Pole-17 Nos
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera                                     -
+      CCTV CAMERA                    DVR                                        -
+25   स्िाफ                           Sl. No         Designations
+     Staff                           1             Navigational Assistant Gr-I -01 No
+                                                   Navigational Assistant Gr-II -02 Nos.
+                                     2             LHA -02 Nos.
+26   पहुँचनेकामाध्यम                 Travel by sea route from Port Blair (DSS vessel or Departmental
+                                     Vessel) upto Campbell Bay jetty, further travel by road from Jetty in
+     Mode of approach
+                                     approachable to DGPS station by vehicle upto 3Km.
+27   उपलब्धसविधाए                    Medical ,market etc and other basic facilities are available 03 KM away from
+                                     the station
+     Facilities available
+28   डाकपताPostal address            Assistant Engineer (E)
+                                     Campbell bay DGPS station
+                                     Great Nicobar, A & N islands
+                                     Pin-744 302
+29   मल्ू यकाब्योराCost details      N/A
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          1969
+     Date of commissioning
+
+
+
+
+4|Page
+

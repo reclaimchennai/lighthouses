@@ -1,0 +1,43 @@
+{
+  "slug": "campbellbay-dgps-station",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Campbell Bay DGPS Station",
+  "station_type": "dgps station",
+  "established_year": 1969,
+  "alol": null,
+  "position": {"lat_text": "07° 00.29' N", "lon_text": "93° 56.11' E", "lat": 7.004833, "lon": 93.935167},
+  "elevation_m": null,
+  "characteristic_text": null,
+  "light": {
+    "kind": null,
+    "flashes_per_period": null,
+    "colours": [],
+    "period_s": null,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": null, "geographical_nm": null, "text": null},
+  "tower": {"type": null, "height_m": null, "colour_scheme": null},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": "Optical equipment section blank",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "RACON section empty"},
+  "ais": {"present": true, "text": "2 Nos AIS1 & AIS2; R40, Class A; AC-230V & DC-12V; MMSI 4198007"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": false, "generator": true, "text": "Mains 3 phase 440 V 50Hz Electricity Board supply; standby DG Set 20 KVA (2 Kirloskar engines 32 BHP); solar plant rows blank"},
+  "issues": [
+    "Date of commissioning given only as year 1969"
+  ]
+}

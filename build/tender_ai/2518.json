@@ -1,0 +1,42 @@
+{
+  "nid": 2518,
+  "title": "Plantation under the EK PED MAA KE NAAM Campaign at False Point Station for the year 2026-27 under Kolkata Directorate",
+  "summary": "Tree plantation under the 'Ek Ped Maa Ke Naam' campaign at False Point lighthouse station, Odisha, for 2026-27 under the Kolkata Directorate.",
+  "category": "other",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Kol-01002/1/2026-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "False Point, Odisha", "station_id": "false-point-lighthouse", "kind": "lighthouse", "work": "Plantation under Ek Ped Maa Ke Naam campaign"}
+  ],
+  "scope": [
+    {"item": "Plantation under the EK PED MAA KE NAAM Campaign for the year 2026-27", "qty": null, "unit": null, "site": "False Point"}
+  ],
+  "money": {
+    "estimated_cost_inr": 455000.0,
+    "emd_inr": 9100.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata; valid three months from technical bid opening; exemption not allowed; original EMD must reach office by last date of bid submission."
+  },
+  "period": {"completion": "60 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2026-07-27", "pre_bid": "2026-08-10", "bid_submission_end": "2026-08-17", "bid_opening": "2026-08-18"},
+  "eligibility": [
+    "Valid registration of appropriate class in Building civil work category with Central Govt department/undertaking/autonomous body or State Govt",
+    "Similar works completed in last 7 years: three of >=40%, or two of >=50%, or one of >=80% of estimated cost; similar works = gardening works at Central/State Govt/reputed private organisation/NGO; value updated at 7% per annum",
+    "Valid PAN card and GST registration",
+    "Notarised affidavit (2026) that bidder is not blacklisted or debarred",
+    "Undertaking that price bid is unconditional; signed Tender Acceptance letter"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITFPLH.pdf", "pages": 4, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Hindi text layer garbled; pages 1-2 rendered and read visually. Only the NIT (pages numbered 3-6) is published; no BOQ. Bid document download 27/07/2026 15:00 to 17/08/2026 15:00; technical bid opening 18/08/2026 16:00; pre-bid meeting 10/08/2026 11:00. Bidders requested to visit site before quoting. Listing title says 'False Point Directorate' but the NIT says False Point Station under Kolkata Directorate."
+}

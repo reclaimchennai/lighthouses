@@ -1,0 +1,42 @@
+{
+  "nid": 1781,
+  "title": "Fault rectification of Automation system at Mainland under Goa Directorate",
+  "summary": "Short e-tender (two-cover) for rectification of existing defects and restoration of the PLC/SCADA automation (remote monitoring) system at 9 mainland lighthouses under Goa Directorate and the Master Control Centre setup at Deep Bhavan, Goa.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-Goa-02003(01)/1/2020-Electrical Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Goa"
+  },
+  "scope_level": "directorate",
+  "sites": [
+    {"name": "Master Control Centre, Deep Bhavan, Goa", "station_id": null, "kind": "office", "work": "Setup of Master Control Centre for automation system"}
+  ],
+  "scope": [
+    {"item": "Fault rectification of existing defects and restoration of automation system at 09 lighthouses under Goa Directorate (list in Annexure-C, not included)", "qty": "9", "unit": "lighthouses", "site": null},
+    {"item": "Setup of Master Control Centre", "qty": "1", "unit": null, "site": "Deep Bhavan, Goa"}
+  ],
+  "money": {
+    "estimated_cost_inr": 339604.0,
+    "emd_inr": 6792.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": null,
+    "notes": "Estimated cost inclusive of all taxes. Tender fee Rs 500 non-refundable by DD. EMD by DD/FDR/Banker's cheque/Bank Guarantee (Form 8.1) from any commercial/scheduled bank in favour of Director, Lighthouses and Lightships, Goa, payable at Goa; valid 90 days beyond technical bid opening. Originals of EMD and fee by 03.12.2024 12:00."
+  },
+  "period": {"completion": "02 months from date of award of tender", "bid_validity": "90 days (validity of quoted rates)", "warranty": null},
+  "dates": {"published": "2024-11-22", "pre_bid": "2024-11-27", "bid_submission_end": "2024-12-03", "bid_opening": "2024-12-04"},
+  "eligibility": [
+    "Eligible and registered agencies under Central/State government departments, undertakings or autonomous bodies with experience of similar work: installation or rectification of automation/remote monitoring systems for marine aids to navigation using PLC and SCADA",
+    "Detailed eligibility in Section III (not included)"
+  ],
+  "specs": [
+    "Automation/remote monitoring system for marine AtoN based on PLC and SCADA"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section 1 short bid notice only (printed pages 3-4); Annexure-C listing the 9 lighthouses not included, so sites not named. Download 22.11.2024 15:00 to 03.12.2024 15:00; bid submission end printed as '02312/2024 (1500 hrs)' (typo, presumably 03.12.2024); pre-bid 27.11.2024 15:00 at Deep Bhavan Goa; technical bid opening 04.12.2024 12:00."
+}

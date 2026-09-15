@@ -1,0 +1,44 @@
+{
+  "slug": "piram-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Piram Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1968,
+  "alol": "F 0448",
+  "position": {"lat_text": "21° 35.9' N", "lon_text": "72° 21.2' E", "lat": 21.598333, "lon": 72.353333},
+  "elevation_m": 46,
+  "characteristic_text": "Fl(2)W10 Sec. (0.3+2.2+0.3+7.2=10 Sec)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "0.3+2.2+0.3+7.2=10 Sec",
+    "sequence_s": [0.3, 2.2, 0.3, 7.2],
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 16, "geographical_nm": null, "text": "16 NM (unlabelled range)"},
+  "tower": {"type": "Brick Masonry circular Tower", "height_m": 27, "colour_scheme": "3 Black and 2 White bands (Bottom band Black)"},
+  "optic": {
+    "make": "BBT-France", "model": null, "type": "300 mm (4th order) revolving type", "size": "300 mm", "order": "4th order",
+    "panels": 4,
+    "rotation_device": "Stepper motor",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: 300 mm (4th order) revolving type; Rotation Device: Stepper motor; R.P.M. 3",
+    "divergence_horizontal_deg": 20.999833,
+    "divergence_vertical_deg": 13.745333,
+    "divergence_text": "20°59.99' (Horizontal), 13°44.72' (Vertical)",
+    "illuminant": "Cluster 230V/70W MH Lamp – 3 Nos."
+  },
+  "intensity_cd": 98072,
+  "racon": {"present": true, "code": "B", "text": "Tide Land, Tide Land Sea Becon-6, Code \"B\", Sr. No 6183, installed 22-06-2010"},
+  "ais": {"present": false, "text": "NAIS section fields empty"},
+  "dgps": {"present": false},
+  "power": {"mains": false, "solar": true, "generator": true, "text": "Mains N.A; DG Set 15 KVA + 5 KVA Kirloskar; solar plant 3 KWp (12 panels) for main light; 6KWp (24 panels) solar plant for main NAIS"},
+  "issues": [
+    "NAIS section empty but a 6KWp 'Solar Plant for Main NAIS' and PSS NAIS batteries are listed",
+    "Unusually wide divergence 20°59.99' horizontal, 13°44.72' vertical"
+  ]
+}

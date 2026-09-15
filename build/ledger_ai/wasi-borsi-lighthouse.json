@@ -1,0 +1,41 @@
+{
+  "slug": "wasi-borsi-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "WasiBorsi Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1982,
+  "alol": "F 0478",
+  "position": {"lat_text": "20° 56.06' N", "lon_text": "72° 45.71' E", "lat": 20.934333, "lon": 72.761833},
+  "elevation_m": 36,
+  "characteristic_text": "fl W 7 Sec. (fl 0.54, ec 6.46)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 7,
+    "sequence_text": "fl 0.54, ec 6.46",
+    "sequence_s": [0.54, 6.46],
+    "flash_duration_s": 0.54
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 17, "geographical_nm": null, "text": "17 NM (unlabelled single range)"},
+  "tower": {"type": "Square open frame R.C.C. Tower", "height_m": 34, "colour_scheme": "Red & White bands"},
+  "optic": {
+    "make": "B.B.T.", "model": null, "type": "revolving type", "size": "187.5 mm", "order": "5th order",
+    "panels": 4,
+    "rotation_device": "Dual Stepper Motor 40 Kgcm with Auto changeover",
+    "rpm": 2.14,
+    "rotates": true,
+    "rotates_evidence": "Type: revolving type; Rotation Device: Dual Stepper Motor; R.P.M. 2.14 (one revolution in 28 sec.)",
+    "divergence_horizontal_deg": 2,
+    "divergence_vertical_deg": 3,
+    "divergence_text": "2° (horizontal) & 3.0° (vertical)",
+    "illuminant": "3 x 150W Metal Halide Lamp Cluster"
+  },
+  "intensity_cd": 64430,
+  "racon": {"present": false, "code": null, "text": null},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "415V 3 phase local mains (G.E.B.); 42 x 200 Wp solar panels; standby 7.5 KVA Kirloskar DG set"},
+  "issues": []
+}

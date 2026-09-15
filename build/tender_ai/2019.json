@@ -1,0 +1,46 @@
+{
+  "nid": 2019,
+  "title": "Development of Infrastructure for Tourism at Navadra Lighthouse.",
+  "summary": "Civil works to develop tourism infrastructure at Navadra Lighthouse, Bhatia, Dev-Bhumi Dwarka district, Gujarat, tendered by the Directorate of Lighthouses and Lightships, Jamnagar.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-JM-02011/1/2025-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Pandit Nehru Marg, Jamnagar"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Navadara Lighthouse, P.O. Bhatia, Dist. Dev-Bhumi Dwarka (Gujarat) 361315", "station_id": "navadra-lighthouse", "kind": "lighthouse", "work": "Development of infrastructure for tourism"}
+  ],
+  "scope": [
+    {"item": "Development of Infrastructure for Tourism at Navadra Lighthouse (item percentage bid; no BOQ in this notice)", "qty": null, "unit": null, "site": "Navadra Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2828705.0,
+    "emd_inr": 56575.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by Demand Draft/FDR/Deposit at call receipt of scheduled bank in favour of Director of Lighthouses and Lightships, Jamnagar, payable at Jamnagar, valid 180 days from technical bid opening; MSME firms must submit EMD, no exemption."
+  },
+  "period": {"completion": "120 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-09-16", "pre_bid": "2025-09-24", "bid_submission_end": "2025-09-29", "bid_opening": "2025-09-30"},
+  "eligibility": [
+    "Similar works completed in central/state govt. department/undertaking in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%; similar works = civil construction or maintenance of any building or civil structure; values updated at 7% per annum",
+    "Experience supported by client certificates",
+    "Valid PAN card and GST registration",
+    "Joint ventures and consortium not permitted",
+    "Valid registration of appropriate class and category (civil) in central/state govt. department/undertaking, valid on last date of bid submission",
+    "Letter-pad declaration of not blacklisted/debarred (Annex-11.2(A)); unconditional price bid undertaking (Annex-11.2(B)); tender acceptance letter (Annex-11.2(C))",
+    "Bank solvency certificate for at least 40% of estimated cost, not older than 1 year",
+    "Income Tax returns for 2021-22, 2022-23, 2023-24",
+    "Average annual turnover of those three years at least 30% of estimated cost, CA certified"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITNavadraTourism.pdf", "pages": 5, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Notice only (Section I, pages numbered 3-7); no BOQ. Invites item percentage bids from Building Works category contractors. Bid document download and submission 17/09/2025 16:00 to 29/09/2025 15:00; original EMD by 29/09/2025. Hindi text layer garbled; date and payable-at values read from rendered page 1. Listing title spells Navadra, document location spells Navadara."
+}

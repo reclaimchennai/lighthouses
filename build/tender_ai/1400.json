@@ -1,0 +1,41 @@
+{
+  "nid": 1400,
+  "title": "Supply of Metal Halide Lamp for various Lighthouses at Chennai Directorate - Reg.",
+  "summary": "Notice inviting sealed quotations for supply of 88 metal halide lamps (150W and 70W CDM-T and 400W HPI-T) for lighthouses under the Chennai Directorate.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-01002(14)/4/2020-MNT-MD; 1/47083/2023",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Metal Halide Lamp (CDMT) - 150W/942 Single Ended", "qty": "72", "unit": "Each", "site": null},
+    {"item": "Metal Halide Lamp (CDMT) - 70W/942 Single Ended", "qty": "12", "unit": "Each", "site": null},
+    {"item": "Metal Halide Lamp - HPI-T 400WES type - Single Ended, Thread type", "qty": "4", "unit": "Each", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate or EMD printed. Terms: GST inclusive, transportation inclusive, 100% payment after receipt of items in good condition and testing; paying authority Director, DLL Chennai. Schedule has separate Basic Price and GST columns."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2023-10-31", "pre_bid": null, "bid_submission_end": "2023-11-15", "bid_opening": "2023-11-15"},
+  "eligibility": [
+    "Reputed firms or authorised dealer or agent; quotation with necessary credentials and descriptive brochures"
+  ],
+  "specs": [
+    "Metal halide CDM-T 150W/942 and 70W/942 single ended",
+    "Metal halide HPI-T 400W ES single ended, thread type"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Main Lamp.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned 3-page NIQ with OCR text layer; pages 1 and 3 read from rendered images (OCR misread item 2 quantity as 172; image shows 12). NIQ dated 31/10/2023; quotations due 15.11.2023 15:00, opened same day 16:00. Delivery to Director, DLL, 5/20 Jaffer Syrang Street, Chennai; no warranty clause and individual lighthouses not named."
+}

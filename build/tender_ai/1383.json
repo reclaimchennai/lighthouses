@@ -1,0 +1,44 @@
+{
+  "nid": 1383,
+  "title": "Transportation, Erection of trestle Tower & Construction of Service room for Trestle Tower at Valiyakara Lighthouse site.",
+  "summary": "E-tender for transporting and erecting a trestle tower and building a service room at the Valiyakara Lighthouse site on Valiyakara Island, Lakshadweep.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-34002(01)/1/2019-MS; I/46600/2023",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Valiyakara Lighthouse site, Valiyakara Island, UT of Lakshadweep", "station_id": "valiyakara-lighthouse", "kind": "lighthouse", "work": "Transportation and erection of trestle tower; construction of service room"}
+  ],
+  "scope": [
+    {"item": "Transportation and erection of trestle tower", "qty": null, "unit": null, "site": "Valiyakara Lighthouse"},
+    {"item": "Construction of service room for trestle tower", "qty": null, "unit": null, "site": "Valiyakara Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4946600.0,
+    "emd_inr": 99000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME certificate) with technical documents by 14.11.2023 15:00. Bid Securing Declaration (Annexure VI) also listed."
+  },
+  "period": {"completion": "180 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2023-10-17", "pre_bid": "2023-11-02", "bid_submission_end": "2023-11-15", "bid_opening": "2023-11-16"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Government/PSU/autonomous bodies; OR, for contractors from Lakshadweep, work experience with any Government department during last 07 years in island works",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two each >= 50%, or one >= 80%",
+    "PAN and GST registration",
+    "Tender acceptance letter (Annexure IV), unconditional bid undertaking (Annexure V), Bid Securing Declaration (Annexure VI)",
+    "List of relatives serving in Ministry of Shipping or DGLL (Annexure VII); non-blacklisting affidavit on Rs 100 stamp paper (Annexure VIII)",
+    "Annual turnover of last three years certified by CA"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (6).pdf", "pages": 3, "read": "mixed", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only; no BOQ or tower specification. Listing title calls it 'NIQ' and spells 'Valiakara', but document is a Notice Inviting e-Tender. OCR text layer garbled EMD and opening date; pages 1-2 read from rendered images. Bid download/submission 20.10.2023 10:00 to 15.11.2023 15:00; bid query last date 01.11.2023."
+}

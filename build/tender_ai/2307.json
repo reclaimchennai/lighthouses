@@ -1,0 +1,51 @@
+{
+  "nid": 2307,
+  "title": "Supply of Furniture items for the inspection quarters of Nagapattinam Lighthouse & DGNSS station under Chennai directorate",
+  "summary": "Notice inviting sealed quotations for supply of teak wood cots, coir mattresses and a teak wood dressing table for the inspection quarters of Nagapattinam Lighthouse & DGNSS Station, Tamil Nadu.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-01002(11)/4/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Nagapattinam Lighthouse & DGNSS Station, Marawady Street, Nagapattinam, Tamilnadu-611001", "station_id": "nagapattinam-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Supply of furniture items for inspection quarters"}
+  ],
+  "scope": [
+    {"item": "Supply of Teak Wood Single Cot, size 6¼' x 3', centre bedding portion plywood, inclusive of loading, unloading, packing, forwarding, freight up to site", "qty": "2", "unit": "Nos", "site": "Nagapattinam Lighthouse and DGNSS station"},
+    {"item": "Supply of Coir Mattress for Single Cot, size 6¼' x 3' x 4\", inclusive of loading, unloading, packing, forwarding, freight up to site", "qty": "2", "unit": "Nos", "site": "Nagapattinam Lighthouse and DGNSS station"},
+    {"item": "Supply of Teak Wood Dressing table for bedroom with drawer, mirror, size 6.3' x 3.6', inclusive of loading, unloading, packing, forwarding, freight up to site", "qty": "1", "unit": "No", "site": "Nagapattinam Lighthouse and DGNSS station"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value as PBG/FDR, valid 60 days beyond warranty period; released after 1-year warranty",
+    "notes": "Rates to be quoted inclusive of all taxes. Payment on final account basis after satisfactory supply; no extra payment beyond quoted rate."
+  },
+  "period": {"completion": "Supply within 10 days from date of supply order", "bid_validity": null, "warranty": "1 year against manufacturing defects for all wooden items"},
+  "dates": {"published": "2026-03-25", "pre_bid": null, "bid_submission_end": "2026-03-30", "bid_opening": "2026-03-30"},
+  "eligibility": [
+    "At least one similar work of not less than Rs 98,400, or two of Rs 61,500 each, or three of Rs 49,200 each, during last seven years ending 31 March 2025",
+    "Similar work: supply of office furniture items in Central Govt./State Govt./public listed/PSUs",
+    "GST registration certificate and PAN",
+    "Non-blacklisting affidavit on firm's letter head for last 3 years",
+    "Valid registration and office address in Tamil Nadu / Puducherry (MSME certificate, business registration)",
+    "Detailed technical specifications of items per Annexure A",
+    "Completion certificates from clients (not below Manager/AEE/Administrative Officer) with purchase order / GeM CRAC"
+  ],
+  "specs": [
+    "Teak wood single cot 6.25' x 3' with plywood centre bedding",
+    "Coir mattress 6¼' x 3' x 4\"",
+    "Teak wood dressing table 6.3' x 3.6' with drawer and mirror",
+    "Design of teak wood items as per photo images attached with NIQ; inspection of wood before polishing/varnishing"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "TENDER DOC NAG.pdf", "pages": 6, "read": "vision", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Offline sealed quotation; submission by 30/03/2026 15:00, opening 30/03/2026 16:00. Pages 5-6 are reference photos (teak wood single cot with mattress; dressing table). No estimated cost or EMD printed. Notice signed by Deputy Director for Director."
+}

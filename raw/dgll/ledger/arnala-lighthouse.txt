@@ -1,0 +1,175 @@
+                                  मास्टर लेजर/MASTER LEDGER
+
+                           अर्ाालादीपस्तंभ /ARNALA LIGHTHOUSE
+
+क्रमसंख्या/             नाम /Name
+                                                                 वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.            F 0494
+     2        स्थान/Position               Lat, 19° 27. 40’, N
+                                           Long 72° 44.80’ E
+    3         ऊंचाई/Elevation              48 m
+    4         अभिलक्षण/Characteristic      FL 3 WR 15 Sec. (FL 0.83 Sec.)
+    5         नॉटिकलमाइलमेदरू ी            25NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower       Type                         RCC tower by using slip from
+                                                                        method with spiral half round
+                                                                        staircase and lift
+                                           Height                       45m
+                                           Colour Scheme                Spiral Band White & Black
+    7         ऑप्टिकलउपकरण                 Optic
+              Optical equipment
+                                           Make                         Vega Marine Rotating Beacon
+                                           Type                         VRB-25-LED-8P-2T
+                                           Size                         2Tire LED -8P-2T
+                                           No. of lens                  08 ( 06 In sevies)
+
+                                           Area of dioptric portion     --
+                                           Area of catadioptric portion --
+
+                                           Divergence                   Horizontal 1.6º vertical 1.6º
+                                           Main/Emergency
+                                           Duration of Flash            15 Sec , 2rpm
+                                           Main /Standby/Emergency
+
+                                           Lamp changer                 ---
+                                           Pedestal                     Fix in pipe both side welded 10mm
+                                                                        GI
+                                           Rotation Device               motor drive brushless direct drive
+                                                                        motor
+                                           R.P.M.                       2
+                                           illumining                   Marine Rotating Becon Vega VRB
+                                                                        – 25-LED -8P-2T
+                                           Main                         12V DC
+                                           Standby                      --
+                                        Emergency:                    --
+                                        Date of Installation          15 April 2019
+8    प्रिािीबीमतीव्रता/Effective beam   Main & Standby                209000CD
+     intensity
+                                        Emergency                     -
+9    लेंिनन/Lantern                     Diameter                      --
+                                        Height of glazing             --
+                                        No. of panes                  --
+                                        Ventilators                   --
+10   RACON
+     Make                 Model         Code                          Band                  Date of
+                                                                                            Installation
+
+11   NAIS
+     Base Station
+
+
+     Model                Type          Power                         MMSI
+
+     Communication        --            ---                           ---                   --
+     Equipment
+     VSAT Antenna         Band          Modem
+     DGPS                 ------        -------                       ------                -----
+     Trasmitter Make      Frequency     Power Output RS 1 ID          RS -II     Beacon     Date of      Dat
+                                                                      ID         ID         commis       e of
+                                                                                                         Re
+                                                                                            sioning      cap
+                                                                                                         itali
+                                                                                                         zati
+                                                                                                         on
+
+
+
+12   ऊर्ानकेसाधन/Sour     Mains                                       440V,3PH,50HZ
+     ce of energy         Standby                                     DG-Set 01
+                          Engine 1
+                          Make/Type             Qty         Rating    No of         RPM          Cooling
+                                                                      Cylinder
+                          KIRLOSKAR /AT94       01          23.54KW   03            1500         AIR
+                          Alternator
+                          Make/Type             Qty         Rating    Voltage/Amp   Frequency    Phase
+                          KIRLOSKAR             01          25KVA     230V          50Hz         03PH
+                          Engine 2
+                          Make/Type             Qty         Rating    No of         RPM          Cooling
+                                                                      Cylinder
+                          --                    --          --        - --          --           --
+                          Alternator
+                          Make/Type             Qty         Rating    Voltage/Amp   Frequency    Phase
+
+
+
+
+                          Solar Plant
+                           Capacity PV                  Numbers         Type      Battery     Bank
+                           12/325W                      03              --        12/1000AH   2
+                           Solar Plant for Main RACON                   ------
+                           Capacity PV                  Numbers         Type      Battery     Bank
+                            ---                         ----            ----      ---         ---
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model            Capaci         Input         Output    Phase       Qty
+                                           ty
+     A.E.                 EMS -10          15KVA          180-260V AC   230V+1%   3           3
+                                                          50Hz              -
+14   बैिरर
+     Batteries
+     Equpment             Type             Make                Volt     Amp/Hr    Qty
+     PSS NAIS
+     Genset               Lead Acid        Kole                12       75        01
+                                           Green
+     Automation            ---             --                  --       --        --
+     DGPS                  --              --                  ---      --        --
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make             Mode Type                    Rating    Qty
+                                           l
+     General Purpose      -----               ◼ ----
+                                                -                     ---         ----
+     Automation           Power rex        --   SNPS                  24/20AMP 01
+16   इंवटा रInverter /UPS
+     Equipmen Nos Make Model                 Type         Rating      Qty         input      output
+     t
+     Main          ---    ---      --        ---          ----        ----        ---        ----
+     Light
+     NAIS PSS ----        --       -----     ----         ----        ----        ---        ------
+     DGPS          ---    ----     ----      ----         ----        ---         -----      --
+17   स्वचलर्उपकरण
+     Automation Equipment
+     MAKE          PLC           HMI              Power Supply VSAT          Modem Band
+     NELCO         TELE          SCHNEIDER 24DC                  1.8m dia    Sky        EXT-C
+                   MECANIQUE ELECTRIC                                        Edge
+18   आप्ननशमनउपकरण                       Type of Extinguisher    Capacity      Nos        Make
+     Fire Fighting Equipment             --                      --            --         --
+19   संचार                           BNNL Telephone Provided 0250-
+                                     2589718
+     Communication
+20   र्लपूर्तन                       Open well water supply available
+     Water Supply
+21   िूभम                            Area                                      15 GunthaAppox
+     Land
+                                     Demarcation                               --
+22   इमारतें                         Quarters                                   NA -01 LHA -01 IQ -
+                                                                               01
+     Buildings
+23   कंपाउं डलाइि                    ---                                       --
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera                                    --
+      CCTV CAMERA                    DVR                                       --
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1             NA-I -01
+                                     2             LHA-1
+                                     3
+                                     4
+                                     5
+
+
+                                     6
+                                     7
+26   पहुँचनेकामाध्यम                 By Train up toVirarand than12 KM to the west
+     Mode of approach
+27   उपलब्धसविधाए                    Marine Police Station    ----
+     Facilities available            Dispensary               YES
+                                     High School              YES
+                                     Post office            YES
+28   डाकपताPostal address            ArnalaLighthoiuseArnala , Virar (W) Palghar – 401302
+29   मल्ू यकाब्योराCost details      ---
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          APRIL 2019
+     Date of commissioning
+

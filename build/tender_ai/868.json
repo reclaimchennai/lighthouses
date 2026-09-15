@@ -1,0 +1,46 @@
+{
+  "nid": 868,
+  "title": "Providing architectural services for preparation of Architectural 2D plan, section and elevation along with obtaining NOC for proposed Tourism Projects for 4 Nos. Lighthouse stations, in the state of Andhra Pradesh in PPP mode",
+  "summary": "Item-rate two-cover e-tender for architects to prepare 2D plans, sections and elevations and obtain NOCs for proposed PPP tourism projects at Machilipatnam, Sacramento, Santapalli and Vakalapudi lighthouses in Andhra Pradesh.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MT-VSP-02002/1/2022-Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Machilipatnam Lighthouse Station, Beach Road, Post: Tallapalem, Dist. Krishna, Andhra Pradesh - 521002", "station_id": "machilipatnam-lighthouse", "kind": "lighthouse", "work": "Architectural 2D drawings and NOC for PPP tourism project"},
+    {"name": "Sacramento Lighthouse Station, Bojjavaripeta Post, Katrenikona Mandal, Konaseema District - 533212", "station_id": "sacramento-lighthouse", "kind": "lighthouse", "work": "Architectural 2D drawings and NOC for PPP tourism project"},
+    {"name": "Santapalli Lighthouse Station, Chintapalli Post, Via Poosapatirega (Mandal), Vizianagaram District - 535204", "station_id": "santapalli-lighthouse", "kind": "lighthouse", "work": "Architectural 2D drawings and NOC for PPP tourism project"},
+    {"name": "Vakalapudi Lighthouse, A.P.S.P. Camp, Tammavaram (Post), Kakinada District, Andhra Pradesh - 533005", "station_id": "vakalapudi-lighthouse", "kind": "lighthouse", "work": "Architectural 2D drawings and NOC for PPP tourism project"}
+  ],
+  "scope": [
+    {"item": "Architectural services for preparation of Architectural 2D plan, section and elevation along with obtaining NOC for proposed tourism projects in PPP mode", "qty": "4", "unit": "Lighthouse stations", "site": "Machilipatnam, Sacramento, Santapalli and Vakalapudi"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1168200.0,
+    "emd_inr": 23400.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST and all other taxes. Tender fee Nil. EMD by DD/FDR/bank guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Visakhapatnam, valid three months from technical bid opening. EMD exemption (including NSIC/MSME) expressly not allowed."
+  },
+  "period": {"completion": "45 days", "bid_validity": "120 days from date of opening of financial bid", "warranty": null},
+  "dates": {"published": "2022-12-24", "pre_bid": "2022-12-30", "bid_submission_end": "2023-01-11", "bid_opening": "2023-01-12"},
+  "eligibility": [
+    "Architectural firms/individual architects registered with the Council of Architecture; firm profile, photographs and certificates to be submitted",
+    "Experience of architectural consultancy for Central/State Govt/PSU tourism projects or multi-storied buildings in last 7 financial years: three similar works each >= 40% of estimated cost, or two >= 50%, or one >= 80%",
+    "Similar works: architectural drawings for visitor infrastructure (eco-friendly cottages, play areas, light & sound shows, kiosks, cafes, landscaping, open air theatre, parking, toilet blocks etc.) or multistoried buildings in India, with NOC from local authority",
+    "IT returns for 2019-20, 2020-21 and 2021-22",
+    "PAN and GST registration; key technical personnel; unconditional tender undertaking (Annexure V); tender acceptance letter (Annexure IV); non-blacklisting affidavit",
+    "Average annual turnover of last three financial years at least 30% of estimated cost; list of relatives in Ministry of Shipping/DGLL; activity chart; self-assessing technical evaluation sheet"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "8b237704-20ef-43e8-8cfe-492d8dec09db.pdf", "pages": 6, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled (font mojibake); English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "Extract of Section I (printed pages 3-8 of a 52-page tender document); no BOQ. Download/submission 24/12/2022 18:00 to 11/01/2023 15:00; pre-bid 30/12/2022 12:00; opening 12/01/2023 16:00. Hindi address line for Vakalapudi shows PIN 535 204 (copied from Santapalli) while English gives 533005. Office e-mail dte-visha@nic.in."
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "sir-hugh-rose-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Sir Hugh Rose Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1969,
+  "alol": "F 1203",
+  "position": {"lat_text": "11° 47.20' N", "lon_text": "92° 05.10' E", "lat": 11.786667, "lon": 92.085},
+  "elevation_m": 57,
+  "characteristic_text": "Fl (1) W 7 Sec (fl 0.35, ec 6.65)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 7,
+    "sequence_text": "fl 0.35, ec 6.65",
+    "sequence_s": [0.35, 6.65],
+    "flash_duration_s": 0.35
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20 NMiles (unlabelled single range)"},
+  "tower": {"type": "Circular Cast Iron Tower", "height_m": 22, "colour_scheme": "Red and White band"},
+  "optic": {
+    "make": "Tideland", "model": "ML-300 Maxlumina Marine Lantern", "type": "LED Flasher", "size": "300 mm Acrylic drum optic", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; 300 mm Acrylic drum optic; R.P.M. NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "12 V LED cluster Lamp"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": false, "code": null, "text": "RACON - NA-"},
+  "ais": {"present": false, "text": "NAIS base station fields blank; only 'VSAT Antenna Prodelin 2.4 meter' listed"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar plant 70 W x 01 mono crystalline panel, 12V/100AH battery; mains and standby rows blank"},
+  "issues": ["NAIS section has blank base station details but lists a Prodelin 2.4 m VSAT antenna", "Range 20 NM is inconsistent with a 1500 cd LED lantern"]
+}

@@ -1,0 +1,217 @@
+                                  मास्टर लेजर/MASTER LEDGER
+
+                         कोललई ककला दीपस्तंभ/ KORLAI FORT LGHTHOUSE
+क्रमसंख्या/             नाम /Name
+   Sr.No                                                            वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.           F 0558
+    2         स्थान/Position               Lat. 180 32’ 15.73’’N
+                                           Long. 720 54’ 21.85’’E
+    3         ऊंचाई/Elevation              33 mtr.
+    4         अभिलक्षण/Characteristic      fl. W 3 Sec. (fl. 1, ec 2)
+    5         नॉटिकलमाइलमेदरू ी            i) Luminous                  :      23.5 NM
+                                           ii) Geographical             :      16 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower       Type                             Rectangular Masonry Tower
+                                           Height                           12.7 mtr.
+                                           Colour Scheme                    Black & White bands
+                                                                            (3 bands 4.30 m each)
+    7         ऑप्टिकलउपकरण                 Optic
+              Optical equipment
+                                           Make                             ANA Navaids, New Delhi, GRB –
+                                                                            48, MK-II
+                                           Type                             Revolving with acrylic flat Fresnel
+                                                                            lenses
+                                           Size                             200 mm
+                                           No. of lens / No. of panels      8 Nos.
+
+                                           Area of dioptric portion     ---
+                                           Area of catadioptric portion ---
+
+                                           Divergence                       Horizontal – 5.70, Vertical – 9.50
+                                           Main/Emergency
+                                           Duration of Flash                0.95 sec.
+                                           Main /Standby/Emergency
+
+                                           Lamp changer                     -N/A-
+                                           Pedestal                         Fixed Angle Iron
+                                           Rotation Device                  Stepper Motor with electronic control
+                                           R.P.M.                           2.5 RPM
+                                           Illuminant
+                                           Main                             230V AC 150W MH lamp
+                                                                            (2 Pin Single end)
+                                           Standby                          -N/A-
+                                           Emergency:                       12 VDC 50W Halogen lamp
+                                           Date of Installation             23.08.2003 & Reinstalled on Date
+                                                                            17.10.2018
+8    प्रिािीबीमतीव्रता/Effective beam   Main & Standby               4,68,750 cd
+     intensity
+                                        Emergency                    -
+
+9    लेंिनन/Lantern                     Diameter                     1.8 mtr
+                                        Height of glazing            0.8 mtr
+                                        No. of panes                 08
+                                        Ventilators                  07
+
+10   RACON
+     Make                 Model         Code                         Band                  Date of
+                                                                                           Installation
+     Tideland             Sea                   'O'                  X&S                   10.11.2005
+     Sr. No.6296          Beacon 2
+                          System 6
+11   NAIS
+     Base Station                       i) R40 Base station AIS-1, AIS-2 for Coast watch activity
+                                        ii) Satellite Modem for Modulation & Demodulation
+                                        iii) 8 port Network Switch, iv) 1 KVA UPS- 02 nos. for Backup
+                                        v)1KVA isolation transfomer
+     Make & Model         Type          Power                             MMSI
+     SAAB - R 40          Class - A     80 Watt                           4192227
+     Communication
+     Equipment
+     VSAT Antenna:        Band : Ex-    Modem: DATUM SYSTEM
+     2.4 mtr              C
+     DGPS
+     Trasmitter Make      Frequency     Power Output RS 1 ID             RS -II   Beacon     Date of Da
+                                                                         ID       ID         commis te
+                                                                                             sioning of
+                                                                                                     Re
+                                                                                                     ca
+                                                                                                     pit
+                                                                                                     ali
+                                                                                                     zat
+                                                                                                     ion
+     -N/A-                -N/A-         -N/A-               -N/A-        -N/A-    -N/A-      -N/A-   -
+                                                                                                     N/
+                                                                                                     A-
+     -N/A-                -N/A-         -N/A-                            -N/A-               -N/A-
+12   ऊर्ानकेसाधन/Sour     Mains
+     ce of energy         Mains                                          440v, 50 Hz, 3 Phase Supply
+                          Standby                                        1. 12V/150AH 12V/150 Ah SMF
+                                                                                  Battery
+                                                                            with Inverter 850VA Make :
+                                                                                  Excide
+                                                                         2. DG set 7.5 KVA Kirloskar
+                                                                         Green
+                                                                             Genset installed on 11.09.07
+                           Engine 1
+                           Make/Type             Qty     Rating    No of      RPM        Cooli
+                                                                   Cylinder              ng
+                           Kirloskar Green       01      16 BHP    02         1500       Air
+                           EA-16
+                           Alternator
+                           Make/Type             Qty     Rating    Voltage/A Frequency   Phase
+                                                                   mp
+                           Kirlosker             01      7.5 KVA   230 / 31.2 50 Hz      1
+                                                                                         Phase
+                           Engine 2: -N/A-
+                           Make/Type             Qty     Rating    No of      RPM        Cooli
+                                                                   Cylinder              ng
+
+                           Alternator: -N/A-
+                           Make/Type             Qty     Rating    Voltage/A Frequency   Phase
+                                                                   mp
+
+
+                           Solar Plant: -N/A-
+                           Capacity PV           Numbers           Type       Battery    Bank
+
+                           Solar Plant for Main RACON
+                           Capacity PV           Numbers           Make/Typ   Battery    Bank
+                                                                   e
+                           70 watt               01                Tata BP    100AH      01
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                Model           Capa    Input             Output     Phase      Qty
+                                         city
+     AE                  JY-415C         5       160-260V          230 V      1 Phase    01
+                                         KVA
+14   बैिरर
+     Batteries
+     Equpment              Type          Make    Volt              Amp/Hr     Qty
+     PSS NAIS              ----          ----    ----              ----       ----
+     Genset                Automotive    Excid   12 V              100 AH     01         23.01.
+                           SMF           e                                               2019
+     Automation            ----          ----    ----              ----       ----
+     DGPS                  ----          ----    ----              ----       ----
+15   बैिररचार्नर/ Battery charger
+
+     Equipment           Make            Mode Type                 Rating     Qty
+                                         l
+     General Purpose     AE              --   1050-00/60           4.5 kva    01         U/S
+     Automation          Powerex         --   --                   15 VA      01         U/S
+                         Engineering
+16   इंवटल रInverter /UPS
+     Equipmen Nos Make              Model           Type       Rating        Qty        input          outpu
+     t                                                                                                 t
+     Main          01     Exide     Exide           Off line   850VA         01         190 - 250 V    230 V
+     Light                          850
+                                    DSP
+     NAIS PSS     02     APC        SRC1KI          On Line    1 KVA         02         190 - 250 V    230 V
+                                    -IN
+     DGPS          N/A ----         ----            ----       ----          ----       ----           ----
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE        PLC              HMI       Power Supply                VSAT        Modem Band
+                 Telemecaniqu     Schneide Powerex                      Tata Net    Sky-      Ex-C
+                 e                r         Engineering                             Edge
+18   आप्ननशमनउपकरण                       Type of Extinguisher           Capacity      Nos       Make
+     Fire Fighting Equipment             Foam Type                      9 Ltr.        01 no.
+                                         DCP                            3.2 Kg        03 Nos.
+                                         DCP                            1 Kg          02 Nos.
+                                         Co2 water Type                 9 Ltr         01 No.
+                                         Fire Bucket                    ---           04 nos.
+
+
+19   संचार / Communication                  -----                                       ------
+20   र्लपर्ू तन                             a) Water storage tank Size 2.1m x 2.1m x 1.9 m
+                                            b) Water storage tank Size 6m x 3m x 3 m
+     Water Supply
+                                                    (Newly constructed 2017-2018)
+                                            c) Open well with one centrifugal water pump Kirlosker 5HP,
+                                            1500 R.P.M ,
+                                                3 phase and pumping water into storage tank.
+                                            d) Borewell provided in the compound in the year 2018.
+21   िूभम                                   Area             1) 7/12- 90/1 -0.81 for Road towards Lighthouse
+                                                              2) 7/12- 90/2 -6.07 Hectares
+     Land
+                                                                 (Present Lighthouse building area)
+                                                             3)7/12- 90/3 - 1.8 Hectares (Backside of Fort
+                                                             area)
+                                            Demarcation
+22   इमारतें                                Quarters         Power House, Inspection Qtr. HLK Qtr., Two NA
+                                                             Qtrs.
+     Buildings
+                                                             Store and LH Tower – 01 New Building.
+                                                              Office-cum Store Room-Oil room, Pump-house,
+                                                             One and LHA Qtr.& One Safaiwala Qtrs, Old NA
+                                                             2 Qtr-01
+23   कंपाउं डलाइि                                            07 and Gate Light 02 Nos.
+     Compound Lights
+24   सीसीिीिीकमेरा                          Camera             -N/A-
+     CCTV CAMERA                            DVR                -N/A-
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1             HLK / NA- I - 1
+
+                                     2             NA-II - 1
+                                     3             NA-III - 1
+                                     4             LHA - 1
+26   पहुँचनेकामाध्यम                 By road upto Korlai village & then 3 kms.
+                                     by walk/auto upto Lighthouse.
+     Mode of approach
+27   उपलब्धसविधाए                    Marine Police Station   Revdanda/Borli Mandla 8 Kms.
+                                                             from Lighthouse
+     Facilities available
+
+                                     Dispensary              Revdanda / Borli Mandla 8 Kms.
+                                                             from Lighthouse
+
+                                     High School             Yes – at Korlai / Revdanda
+                                     Post office             Yes – at korlai / Revdanda
+28   डाकपताPostal address            Head Lightkeeper,
+                                     Korlai Fort Lighthouse, P.O. Korlai Ta. Murud Dist. Raigad Pin
+                                     no. 402202
+29   मूल्यकाब्योराCost details       Rs.89,480/- F.O.R.
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          14.06.1956
+     Date of commissioning
+

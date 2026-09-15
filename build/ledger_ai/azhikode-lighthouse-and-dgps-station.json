@@ -1,0 +1,43 @@
+{
+  "slug": "azhikode-lighthouse-and-dgps-station",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Azhikode Lighthouse and DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1982,
+  "alol": "0694.5",
+  "position": {"lat_text": "10° 11.9' N", "lon_text": "76° 09.5' E", "lat": 10.198333, "lon": 76.158333},
+  "elevation_m": 34,
+  "characteristic_text": "Fl (3) W 20 sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.32
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 19, "geographical_nm": null, "text": "19Nm (Luminous range)"},
+  "tower": {"type": "Square RCC Tower", "height_m": 30, "colour_scheme": "Black and White Band"},
+  "optic": {
+    "make": "M/S J Stone & Co. Culcutta, India", "model": null, "type": "Revolving Beacon", "size": "300mm", "order": null,
+    "panels": 3,
+    "rotation_device": "Dual Stepper motor (20Kgcm)",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving Beacon; Rotation Device: Dual Stepper motor (20Kgcm); R.P.M. 3 RPM",
+    "divergence_horizontal_deg": 7.64,
+    "divergence_vertical_deg": 11.453889,
+    "divergence_text": "7° 38' 24\" (Horizontal), 11° 27' 14\" (Vertical)",
+    "illuminant": "Cluster of 03Nos 230V/150W Double ended Metal Halide Lamps"
+  },
+  "intensity_cd": 74000,
+  "racon": {"present": false, "code": null, "text": "RACON- Nil"},
+  "ais": {"present": false, "text": "NAIS – Nil"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains KSEB; standby 02 Nos DG Sets 25 KVA (Kirloskar HA394); 20KW on-grid solar (80 panels); 3x100W solar backup"},
+  "issues": [
+    "established_year taken from date of commissioning 30.04.1982"
+  ]
+}

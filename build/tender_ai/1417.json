@@ -1,0 +1,40 @@
+{
+  "nid": 1417,
+  "title": "Supply of Stepper Motor and Stepper Motor Controller for various Lighthouses at Chennai Directorate - Reg.",
+  "summary": "Notice inviting sealed quotations from reputed firms or authorised dealers for supply of four 40 kg.cm stepper motors and four matching stepper motor controllers for lighthouses under the Chennai Directorate.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-01002(14)/4/2020-MNT-MD; 1/48617/2023",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Stepper Motor 40Kg.cm, shaft length 100 mm, shaft dia 12 mm, torque 40 kg.cm", "qty": "4", "unit": "Each", "site": null},
+    {"item": "Stepper Motor Controller 40 Kg.cm for the above stepper motor (ON/OFF switch, direction switch, 0-35 RPM, 230V AC/50 Hz with provision for DC 12V battery supply, step angle 1.8 deg full step +/-5% non-cumulative)", "qty": "4", "unit": "Each", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate or EMD printed. Terms: GST inclusive, transportation inclusive, 100% payment after supply; paying authority Director, DLL Chennai. Schedule nonetheless has separate Total / GST / Grand total rows."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": "Standard warranty one year against any manufacturing defects"},
+  "dates": {"published": "2023-11-28", "pre_bid": null, "bid_submission_end": "2023-12-11", "bid_opening": "2023-12-11"},
+  "eligibility": [
+    "Reputed firms or authorised dealer or agent; quotation with necessary credentials and descriptive brochures"
+  ],
+  "specs": [
+    "Stepper motor 40 kg.cm torque, shaft 100 mm long x 12 mm dia",
+    "Controller: ON/OFF and direction switches, 0-35 RPM, 230V AC 50 Hz plus DC 12V battery provision, 1.8 deg step angle +/-5% non-cumulative"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ for 40Kg stepper motor (1) (1).pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned 3-page NIQ with poor OCR layer; all pages read from rendered images (schedule page is rotated). NIQ dated 28/11/2023. The Hindi paragraph gives the submission date as 15.11.2023 (before the notice date, apparently copied from an earlier NIQ) while the English gives 11.12.2023 15:00, opening same day 16:00; English date matches the listing end date. Delivery to Director, DLL, 5/20 Jaffer Syrang Street, Chennai; individual lighthouses not named."
+}

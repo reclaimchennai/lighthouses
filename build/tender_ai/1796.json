@@ -1,0 +1,52 @@
+{
+  "nid": 1796,
+  "title": "Supply and installation of LED Aviation Obstacle Light on Trestle Towers at Aguada & Surathkal DGPS Stations under Goa Directorate",
+  "summary": "E-tender for supplying and installing red LED aviation obstacle lights, with underground cabling, on the DGNSS trestle towers at Aguada and Surathkal stations, issued by the Directorate of Lighthouses and Lightships, Goa.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-Goa-01001(18)/1/2020-Electrical Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Goa"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Aguada DGPS Station (DGNSS twin trestle tower)", "station_id": "aguada-lighthouse-and-dgps-station", "kind": "DGNSS", "work": "2 LED aviation obstacle lights on twin trestle tower; 180 m UG cable supply, 110 m laying"},
+    {"name": "Surathkal DGPS Station (DGNSS single trestle tower)", "station_id": "surathkal-lighthouse-and-dgps-station", "kind": "DGNSS", "work": "1 LED aviation obstacle light on single trestle tower; 60 m UG cable supply, 25 m laying"}
+  ],
+  "scope": [
+    {"item": "LED aviation obstacle lights, powder coated aluminium body, polycarbonate glass, IP65, 220 V AC, max 60 W, red, IS 16102, 12 months warranty (2 Aguada, 1 Surathkal, 2 spare)", "qty": "5", "unit": "Nos", "site": null},
+    {"item": "3 core 2.5 sq mm XLPE copper armoured UG cable (180 m Aguada, 60 m Surathkal)", "qty": "240", "unit": "Mtr", "site": null},
+    {"item": "Laying of 1.1 kV PVC/XLPE power cable direct in ground incl. excavation, sand cushioning, protective covering, refilling (110 m Aguada, 25 m Surathkal)", "qty": "135", "unit": "Mtr", "site": null},
+    {"item": "Miscellaneous installation of aviation obstacle lights incl. cable laying on trestle towers, clamps, junction box, 10A DP MCB, base plate etc.", "qty": "3", "unit": "Job", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 229545.0,
+    "emd_inr": 4590.0,
+    "tender_fee_inr": 500.0,
+    "performance_security": "3% of contract value as FDR, valid three months after warranty period",
+    "notes": "Estimated cost inclusive of GST. Tender fee Rs 500 (non-refundable) and EMD by DD/FDR in favour of The Director, Directorate of Lighthouses and Lightships, Goa, payable at Goa, validity 90 days; originals by 16.12.2024 11:00. MSME bidders in eligible category may submit Bid Security Declaration (Form 9.6) instead of EMD. Penalty 1% per week, max 10%."
+  },
+  "period": {"completion": "45 days from date of award of contract (GCC clause 4.8.1 says 30 days)", "bid_validity": "90 days from the date of opening of bid", "warranty": "1 year from completion/acceptance, covering lightning and surge damage"},
+  "dates": {"published": "2024-12-06", "pre_bid": "2024-12-12", "bid_submission_end": "2024-12-16", "bid_opening": "2024-12-17"},
+  "eligibility": [
+    "Registered electrical contractors or appropriate class contractors registered with CPWD/State PWD/Railways/MES/BSNL or other Govt/PSU/autonomous bodies",
+    "Similar work in last seven years: one work >= 80% (Rs 1,83,636), or two each >= 60% (Rs 1,37,727), or three each >= 40% (Rs 91,818) with Central/State Govt/PSU/private firm",
+    "Similar work: supply and installation of lights on trestle towers/high mast towers, underground cable laying of electrical works",
+    "Valid licence for all electrical works; PAN and GST; ITR for last three assessment years; CA-certified average turnover of last 3 years",
+    "Technical brochure, make and model of aviation LED light with compliance sheet; safety undertaking for working on high mast towers",
+    "Technical evaluation minimum 70/100 (statutory 35, financial 20, experience 10, performance 5, technical brochure/compliance 30); evaluation table experience thresholds Rs 5,40,000 / 4,05,000 / 2,70,000 in last three years"
+  ],
+  "specs": [
+    "LED aviation obstacle light: red, IP65, 220 V AC, max 60 W, powder coated aluminium body, polycarbonate glass, IS 16102",
+    "UG cable 3C x 2.5 sq mm XLPE copper armoured, ISI marked, Polycab/RR/Finolex or equivalent; conductor per IS 8130:2013; HV resistance test reports before supply",
+    "Trench 30-45 cm wide, 0.5 m deep with brick/terracotta tile protection and sand cushioning",
+    "Works per Goa State Electricity Board specifications or CPWD General Specifications for Electrical Works 2013 Part-I"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "TenderDocuments.pdf", "pages": 37, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled (font mojibake); English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "Full tender document with unpriced BOQ (Section VIII). Inconsistencies: completion 45 days (NIT) vs 30 days (GCC 4.8.1); similar-work thresholds in Section III (80/60/40% of estimate, seven years) differ from evaluation table values (Rs 5.4/4.05/2.7 lakh, three years), both exceeding estimate in part; 'Goa Diorectorate' typo. GCC/SCC and forms are boilerplate."
+}

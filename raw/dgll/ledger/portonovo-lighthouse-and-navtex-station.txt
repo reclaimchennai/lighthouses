@@ -1,0 +1,172 @@
+                                मास्टर लेज़र/MASTER LEDGER
+                       पोर्टोनोवो दीपस्तम्भ और नावर्टे क्स स्र्टे शन
+               PORTONOVO LIGHTHOUSE AND NAVTEX STATION
+क्रमसंख्या/               नाम /Name                                   वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.          F 0919
+    2         स्थान/Position              Lat. 11°30'15"N , long 79°46'12"E
+    3         ऊंचाई/Elevation             32.99 M (Above MSL)
+    4         अभिलक्षण/Characteristic     Single FL.W. every 15 Sec
+    5         नॉटिकलमाइलमेदरू ी           25.7 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower      Type                              Circular tower
+                                          Height                            30M
+                                          Colour Scheme                     Red and White Band
+    7         ऑप्टिकलउपकरण                Optic
+                                          Make                              MBR-300 (Acrylic Fresnel Lancer)
+              Optical equipment
+                                          Type                              Rotating Beacon
+                                          Size                              L - 847 mm / B- 312.8 mm
+                                          No. of lens                       6
+                                          Area of dioptric portion          Nil
+                                          Area of catadioptric portion      Nil
+                                          Divergence                        9.8º (Horizontal)
+                                          Main/Emergency                    9.4º (Vertical)
+                                          Duration of Flash                 15 Sec
+                                          Main /Standby/Emergency
+                                          Pedestal
+                                          Rotation Device                   In built DC Motor
+                                          R.P.M.                            4
+                                          Illumining
+                                          Main                              150 Watts / 230 V Single end
+                                                                            CDMT Lamp
+                                          Standby                           Nil
+                                          Emergency:                        Halogen Lamp 100 watts / 12 V
+                                                                            DC ( Drum Optic )
+                                          Date of Installation              19.10.2010
+    8         प्रिािीबीमतीव्रता/          Main                              10,3000 Cdls
+              Effective beam intensity    Emergency                         ---
+    9         लेंिनन/                     Diameter                          3.5 m
+              Lantern                     Height of glazing                 2.7m
+                                          No. of panes                      36
+                                          Ventilators                       11
+10   RACON                                Sr. No                          090069
+     Make               Model             Code                           Band                      Date of
+                                                                                                   Installation
+     Tide Land          Sea Beacon 2               B                     ( X+ S Band )             05-06-2013
+11   NAIS
+     Base Station                           2 Nos - AIS1 & AIS2
+
+
+     Model                 Type           Power                          MMSI
+     R40                   Class A        AC-230V & DC-12V               88
+     Communication         BSNL leased
+     Equipment             line
+     NAVTEX
+     Transmitter Make      Frequency      Power Output         Antenna               Date of              Date of
+                                                                                     commissioning        Recapit
+                                                                                                          alization
+     DANPHONE              518/490 KHz    1000 Watts           T- Type               23.05.2015           N/A
+
+12   ऊर्ानकेसाधन/          Mains                                         3 Ø Supply / 440V
+     Source of energy      Power Source                                  DG Set 20 KVA, Make Pinnacle
+                           Engine 1
+                           Make/Type                 Qty       Rating    No of           RPM               Coolin
+                                                                         Cylinder                          g
+                           Pinnacle                  1          26 HP    2               1500              Air
+                           Alternator
+                           Make/Type                 Qty       Rating    Voltage/A       Frequency         Phase
+                                                                         mp
+                           Kirloskar                 1         20 KVA    240V/A          50Hz              Single
+                           Engine 2
+                           Make/Type                 Qty       Rating    No of           RPM               Coolin
+                                                                         Cylinder                          g
+                           Pinnacle                  1         26 HP     2               1500              Air
+                           Alternator
+                           Make/Type                 Qty       Rating    Voltage/A       Frequency         Phase
+                                                                         mp
+                           Kirloskar                 1         20 KVA    240V/A          50Hz              Single
+                           Solar Plant
+                           Capacity PV               Numbers             Type       Inverter               Bank
+                           25 KWp On grid            93 Nos              Mono       30 KW                  N/A
+                                                                         Crysta     Make : Delta
+                                                                         lline
+                           Solar Plant for Main RACON
+                           Capacity PV            Numbers                Make       Battery                Bank
+                           Tata / 80 Watts        01 No.                 Tata       01 No                  N/A
+                                                                         BP         12V/150AH
+                                                                         Solar
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+     Make               Model             Capacity         Input         Output             Phase          Qty
+     ITL SERVO             SVS 1250 AI SVS   12.5KVA            170-270V             230V         1                  2
+     STABILIZER            1250D-AI
+
+     बैिरर
+     Batteries
+14
+     Equipment               Type            Make       Volt                     Amp/Hr     Qty
+     PSS NAIS                      -            -                     -              -                -
+     Genset                  Lead acid       Exide      12V                      100 AH     2
+     Automation                    -            -                     -              -                -
+     NAVTEX                  SMF             Amaron     12V                      42 AH      10
+15   बैिररचार्नर/ Battery charger
+
+     Equipment               Make            Model Type                         Rating    Qty
+     General Purpose         AE Make          --                 --             0-50A     1
+16   इंवर्ट रInverter /UPS
+     Equipment Nos           Make        Model                     Type         Rating    Qty      input             Outp
+                                                                                                                     ut
+     Main Light       1       Luminous       On Line UPS                  ---   900 VA      1         12 V DC        230 V
+                                                                                                                      AC
+     NAIS PSS          1     APC             On Line UPS                         1 KVA      1         12 V DC        230 V
+                                                                          ---
+                                                                                                                      AC
+     NAVTEX            1     Hykon           On Line UPS                         5 KVA      1      120 V DC          230 V
+                                                                          ---
+                                                                                                                      AC
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE         PLC                HMI            Power Supply     VSAT                 Modem           Band
+     Recktronic   Micro              RENU           24 V DC          1.8m dia             Hughes          Ex. C
+     Device &     Logix1400                                          Parabolic
+     System                                                          reflector
+18   आप्ननशमनउपकरण                           Type of Extinguisher    Capacity               Nos            Make
+     Fire Fighting Equipment                 DCP Type                6 kg                   2              In Time
+                                             Co2                     4.5 Kg                 5              In Time
+                                             Foam Type               9 Ltrs                 1              In Time
+19   संचार                                   Land Line ( Ph No:- 04144 - 290556 )             With
+     Communication                           OFC and Lease Line Connection
+20   र्लपर्ू तन                              1. Panchayath Water and open well with Mono block.
+     Water Supply                            2. Provided Rain water collection tanks to each quarters.
+21   िभू म                                   Area              3.710 hect
+     Land                                    Demarcation       Compound wall.
+
+22   इमारतें                                                   NA-I Qtrs - 1 No.
+     Buildings                                                 NA-II Qtrs - 2 Nos.
+                                                               LHA & LHS Qtrs. (Twin Qtrs) - 1 No.
+                                                               Inspection Qtrs - 1 No.
+                                                               Navtex+Security Guard Qtrs - (3 No.+ 1 No.)- 1
+                                                               Unit.
+                                                               Pump House- 2 Nos.
+                                                               Over Head Tank - 1 No.
+                                                               UG Water sump - 1No.
+                                                  Office, Store, Power House and Tx. room - 1No.
+                                                  Security Guard Cabin - 1No.
+                                                  Rain Water Tank - 5 Nos.
+
+23   कंपाउं डलाइि                    08 No's of
+     Compound Lights                 LED street
+                                     Light with
+                                     GI Poles +
+                                     02 No of
+                                     Gate Light
+24   सीसीिीिीकमेरा
+                                          Nil
+      CCTV CAMERA
+25   स्िाफ                           Sl. No       Designations
+     Staff                           1            Navigational Assistant Gr - I (1 staff)
+                                     2            Navigational Assistant Gr - II (2 staff)
+26   पहुँचनेकामाध्यम                 By Road.
+     Mode of approach
+27   उपलब्धसविधाए                    Post Office, BSNL Office and Market, 3 Kms from Lighthouse.
+     Facilities available
+28   डाकपता                          Portonovo Lighthouse Cum NAVTEX Station,
+     Postal address                  Parangipettai Post, Cuddalore (Dist),
+                                     Pin: 608 502.
+29   मल्
+       ू यकाब्योराCost details       20 Lakhs
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          30.09.1980
+     Date of commissioning
+

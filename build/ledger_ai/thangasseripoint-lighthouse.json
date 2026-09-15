@@ -1,0 +1,45 @@
+{
+  "slug": "thangasseripoint-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5, 6],
+  "name": "Thangasseri Point Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1902,
+  "alol": "F-0712",
+  "position": {"lat_text": "08° 53' N", "lon_text": "76° 34' E", "lat": 8.883333, "lon": 76.566667},
+  "elevation_m": 38,
+  "characteristic_text": "Group flash of three in every 15 Seconds (0.2+2.8+0.2+2.8+0.2+8.8=15Sec)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": [],
+    "period_s": 15,
+    "sequence_text": "0.2+2.8+0.2+2.8+0.2+8.8=15Sec",
+    "sequence_s": [0.2, 2.8, 0.2, 2.8, 0.2, 8.8],
+    "flash_duration_s": 0.2
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 26, "geographical_nm": null, "text": "26Nm (single unlabelled range)"},
+  "tower": {"type": "Circular Brick masonry Tower (Outside plastered in December 2002)", "height_m": 35, "colour_scheme": "Red and White Spiral strips"},
+  "optic": {
+    "make": "M/S CHANCE Bros. & Co.", "model": null, "type": "Revolving Optic, 2rd Order", "size": "700mm", "order": "2nd Order",
+    "panels": 3,
+    "rotation_device": "2 no's Stepper motor 40Kg-cm; Clockwork machine with hand winding (Standby)",
+    "rpm": 4,
+    "rotates": true,
+    "rotates_evidence": "Optic: Revolving Optic; Rotation Device: 2 Stepper motors 40Kg-cm; R.P.M. 4RPM",
+    "divergence_horizontal_deg": 4.5,
+    "divergence_vertical_deg": 3.683333,
+    "divergence_text": "4°30' (Horizontal), 3°41' (Vertical)",
+    "illuminant": "Metal Halide Lamps, Cluster of 3 Nos 150W/230V"
+  },
+  "intensity_cd": 127950,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "2 Nos AIS1 & AIS2 (SAAB) R40, 230V, Sr.No 5241, 5287"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Local mains 440V 3ø 50Hz; 3 diesel generator sets (7.5 KVA U/S, 25 KVA, 15 KVA); 2KVA off-grid solar plant (battery U/S)"},
+  "issues": [
+    "Elevation given as '43 mt. (Base to Vane)' and '38 mt. (Base to light beam)', not above MSL; 38 m used",
+    "Characteristic does not state the light colour",
+    "Optic type printed as '2rd Order'"
+  ]
+}

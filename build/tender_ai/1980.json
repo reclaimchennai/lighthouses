@@ -1,0 +1,45 @@
+{
+  "nid": 1980,
+  "title": "Repair and maintenance at Veraval Navtex Station.",
+  "summary": "Item percentage rate e-tender for repair and maintenance works at the Veraval NAVTEX station, Chhatroda village, Gir-Somnath district, Gujarat.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-JM-02014/1/2025-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Jamnagar"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Veraval Navtex Station, P.O. Chhatroda Village, Near Over Bridge, Junagadh Highway, Veraval, Dist. Gir-Somnath (Gujarat) 362266", "station_id": null, "kind": "NAVTEX", "work": "Repair and maintenance"}
+  ],
+  "scope": [
+    {"item": "Repair and maintenance at Veraval Navtex Station", "qty": null, "unit": null, "site": "Veraval Navtex Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1926820.0,
+    "emd_inr": 38540.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR/Deposit at call receipt of scheduled bank in favour of Director of Lighthouses and Lightships, payable at Jamnagar, valid 180 days from technical bid opening; firms registered with MSME must submit EMD, no exemption. Original EMD within 31/07/2025."
+  },
+  "period": {"completion": "180 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-07-16", "pre_bid": "2025-07-23", "bid_submission_end": "2025-07-31", "bid_opening": "2025-08-01"},
+  "eligibility": [
+    "Similar works completed in central/state govt department/undertaking in last 7 years: three >= 40%, two >= 50% or one >= 80% of estimated cost; values enhanced at 7% p.a.",
+    "Similar works: civil construction or maintenance of any type of building or any civil structure; client certificates required",
+    "Valid PAN and GST registration; joint ventures and consortium not permitted",
+    "Valid registration of appropriate class and category (civil) in central/state govt department/undertaking",
+    "Not blacklisted/debarred declaration; unconditional price bid undertaking; tender acceptance letter",
+    "Bank solvency certificate of at least 40% of estimated cost, not older than 1 year",
+    "Income tax returns for 2021-22, 2022-23, 2023-24",
+    "Average annual turnover (2021-22 to 2023-24) at least 30% of estimated cost, CA certified"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "VeravalnavtexNIT.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer missing/garbled throughout; English portion complete"]}
+  ],
+  "confidence": "high",
+  "notes": "Section-I (NIT) only, pages numbered 3-7; no BOQ. NIT date printed with blank day ('  /07/2025'); published date taken from bid download start 16/07/2025 16:00. Submission until 31/07/2025 15:00; pre-bid 23/07/2025 16:00 at Deep Bhavan, Jamnagar; technical opening 01/08/2025 16:00. Veraval NAVTEX station is a separate site from Veraval Lighthouse and is not in the station list. Listing gives no bid opening date."
+}

@@ -1,0 +1,234 @@
+                           मास्टर लेज़र/MASTER LEDGER
+  पुललकट दीपस्तंभ और डीजीपीएस स्टेशन/ Pulicat Lighthouse and DGPS Station
+क्रम संख्या/              नाम/Name
+   Sr. No                                                             वििरण/Description
+      1        ए.एल.ओ.एल/A.L.O.L.              F 0950
+     2         स्थान/Position                  Lat.13° 25’ N, Long 80° 20’ E
+     3         ऊंचाई/Elevation                 53.5M (49.86 Mtrs. Above MSL)
+     4         अविलक्षण/Characteristic         Single FL (1) WHITE Every 5 Seconds (0.25 + 4.75)
+
+     5         नॉटिकल माइल में दरू ी/          26 NM ( Luminous)
+                                               19 NM ( Geographical)
+               Range in mile
+     6         दीपस्तं ि टािर/L.H. Tower       Type                       Hexagonal RCC Tower
+                                               Height                   49.86 Metres above MSL (53.5
+                                                                        Meters elevation
+                                               Colour Scheme            Black and White Bands
+     7         ऑविकल उपकरण/                    Optic                    Rotating Beacon
+               Optical Equipment               Make                     M/S Mediterrane Senales
+                                                                        Maritimas(MSM)
+                                               Type                     Rotating Beacon
+                                               Size                     MBR300
+                                               No. of panels            6
+                                               Area of dioptric portion Moulded acrylic Fresnel Lenses,6
+                                               Area of catadioptric lens panels with dioptric and
+                                               portion                  catadioptric prisms with 105 mm
+                                                                        Focal Distance
+                                               Divergence
+                                               Main/Emergency
+                                               Duration of Flash        0.25 Sec
+                                               Main
+                                               /Standby/Emergency
+                                               Pedestal
+                                               Rotation Device          Brushless DC Direct-Drive
+                                                                        motor(step by step)
+                                               R.P.M.                   2 RPM
+                                               Illumining
+                                               Main                     230V/150W Metal Halide Lamp
+                                               Standby                    230V / 500Watt Pencil beam
+                                                                          Lamp
+                                               Emergency:                 -----
+                                               Date of Installation       05.06.2014
+     8         प्रिािी बीम तीव्रता/Effective   Main                       165900 Candela
+               beam intensity                  Emergency
+     9         लें टनन /Lantern                Diameter                   3.0 m
+                                               Height of glazing          2.0m
+                                               No. of panes               12
+                                   Ventilators                11
+10   रे कोन/RACON                       Sr. No
+     Make             Model                 Code              Band                 Date of
+                                                                                   Installation
+     Tideland         Sea                   B                 X/S Band             18.08.2004
+                      Beacon 2
+                      Type Sys
+                      6
+11   एनएआईएस/NAIS
+     Base Station                  AIS Base station (SAAB-40) Sr. No:5220
+
+                                   AIS Base station (SAAB-40) Sr. No:5230
+
+     Model            Type         Power                      MMSI
+      ---             ----         AC-230V & DC-12V           ----
+     Communication
+     Equipment
+     VSAT Antenna     Band         Modem
+        2.4m dia      C Band       Hughes Satellite
+       Parabolic                   Modem
+        reflector
+     DGPS
+     Transmitter      Frequen      Power            RS 1 ID   RS -II ID   Beaco    Date of    Dat
+     Make             cy           Output                                 n ID     commi      e of
+                                                                                   ssionin    Rec
+                                                                                   g          apit
+                                                                                              aliz
+                                                                                              atio
+                                                                                              n
+     Nautel Vector    319 KHz      500 Watts        430       431         115      18.11.03   06.1
+     D750                                                                                     1.19
+
+12   ऊर्ान के         Mains                                   Three phase TNEB Supply
+     साधन/Source of   Power Source                            DG Set 20 KVA make Kirloskar
+     Energy           Engine 1
+                      Make/Type                 Qty   Ratin   No of         RPM               Co
+                                                      g       Cylinder                        olin
+                                                                                              g
+                      Kirloskar/HA 394          1     32HP    3             1500              Air
+                                                      20
+                                                      KVA
+                      Alternator
+                      Make/Type                 Qty    Rati   Voltage/Am    Frequency         Pha
+                                                       ng     p                               se
+                      Kirloskar                 1      20     230V          50Hz              Sin
+                                                       KVA                                    gle
+                      Engine 2
+                      Make/Type                 Qty   Ratin   No of         RPM               Co
+                                                      g       Cylinder                        olin
+                                                                                              g
+                      Kirloskar/ HA394          1     32HP    3             1500              Air
+                                                               20KV
+                                                                           A
+                               Alternator
+                               Make/Type               Qty
+                                                         Ratin             Voltage/Am    Frequency        Pha
+                                                         g                 p                              se
+                               Kirloskar             1   20                230V          50Hz             Sin
+                                                         KVA                                              gle
+                               Solar Plant for Main RACON
+                               Capacity PV           Numbers               Type       Battery             Ba
+                                                                                                          nk
+                               70 W/12V                01 No.                  ----
+                                                                             1 No Exide SMF               01
+                                                                             12V/100AH                    No.
+                                   The Grid connected Solar Power Plant 25 KW
+                                   8.57A,              80 Nos.
+                                   36.80V,315W,1000    Make-         ---        ----                      ---
+                                   VDC                 Emmvee
+                                                       Photo
+                                                       Voltaic Pvt
+                                                       Ltd.
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र/
+          Automatic Voltage Stabilizers
+
+          Make               Model          Capacity   Input               Output             Phase       Qty
+          SERVOMAX             --           15 KVA     170V-270V           230V+/-1%          Single      3
+                                                                                              Phase       Nos
+                                                                                                          .
+14        बैटरी/Batteries
+          Equipment          Type           Make       Volt                Amp/Hr     Qty
+          PSS NAIS           --             --         --                  --         --
+          Genset             Lead acid      Exide      12V                 150 AH     2 Nos.
+                                            Xpress
+          Automation         --             --         --                  --         --
+          DGPS               SMF-           Amaron     12 V                42 AH      Transmitter-16
+                             VRLA           Quanta                                    Nos.
+                                                                                      DGPS – 6 Nos.
+     15   बैटरी चार्न र/Battery Charger
+
+          Equipment          Make           Model      Type                Rating     Qty.
+          DG Set( For        Associate         --                    ---       I/P    1 No.
+          Starting Engine)   Engineers                                     230V
+                                                                           AC
+                                                                           O/P(0-
+                                                                           30V)DC
+          Automation             -----         ---            ----           ----
+     16   इंवर्ट र/यप
+                    ू ीएस/Inverter/UPS
+          Equipme Nos Make Model                               Type        Rating       Qty      input    Out
+          nt             .                                                                                put
+          Main                   APC   ---                           ---   850VA          1      12V DC   230
+          Light                  850V                                                    No       /230V   VA
+                                   A                                                                AC     C
+     NAIS              APC            ----            --    1 KVA       2      230V       230
+     PSS                                                                Nos.   AC         VA
+                                                                                          C
+     DGPS              APC            ----            --    1 KVA       1      24V DC     230
+                                                                        No.               VA
+                                                                                          C
+                       APC            ----            --    3 KVA       1      81.8V      230
+                                                                        No.    DC         VA
+                                                                                          C
+                       APC             --             --    10 KVA      1      220V       230
+                                                                        No.    DC         VA
+                                                                                          C
+17   स्वचालन उपकरण/Automation Equipment
+
+     MAKE        PLC         HMI         Power Supply      VSAT         Modem Band
+     Rectroni    Allen       Renu        24 V DC            Hughes      Hughes   ----
+     c           Bradley     Electroni
+     Devices                 cs Pvt.
+     &                       Ltd.
+     System,                 FP5070T
+     Pune                    Class 1
+                             Division
+                             2
+18   अग्ननशमन उपकरण/               Type of Extinguisher Capacity           Nos   Make
+     Fire Fighting Equipment       DCP   Type              4.5 kg          5     Excellent
+                                   Co2 Type                6.5 Kg          2     Excellent
+                                   Foam Type               9 Ltrs          2     Excellent
+19   संचार/                        BSNL   broadband (Ph.  No. - 044 -
+     Communication                 27976370 Fibre premium plus.
+                                   Working condition Good.
+20   र्लपूवतन/                     Open well provided with ‘Suguna’ Monobloc Electric pump
+     Water Supply                  set of 1 HP capacity,1420 rpm. Water is pumped into a RCC
+                                   overhead tank of 12000 litres capacity.
+
+21   िू वम/                        Area                               67 Acres 66 cents
+     Land                          Demarcation                        Compound wall around
+                                                                      lighthouse and other
+                                                                      buildings in land
+                                                                      measuring 1 hectare.
+22   इमारतें /                               ----                     Power House and
+                                                                      DGPS, One unit of
+     Buildings
+                                                                      Inspection Qtrs, One
+                                                                      unit of AE Qtrs, One
+                                                                      unit of SRT Qtrs, One
+                                                                      unit of NA-III Qtrs, One
+                                                                      twin unit of LHA and
+                                                                      NA-II Qtrs.2 Store
+                                                                      Rooms and Recreation
+                                                                      room.
+                                   Timber Construction above plinth   N/A
+                                   level
+23   कंपाउं ड लाइट/                10 Nos. RCC base GI Poles with
+     Compound Lights               LED Bulb Fittings, 2 Nos. Gate
+                                     fittings and Solar Power Plant
+                                     fittings - 3 Nos.
+24   सीसीटीिी कैमरा/
+                                                                  N/A
+     CCTV CAMERA
+25   स्टाफ/                            Sl. No      Designations
+     Staff
+                                          1        Assistant Engineer (ET)
+                                          2        Senior Radio Technician
+                                          3        Navigational Assistant Gr-ll
+                                          4        Navigational Assistant Gr-lll
+26   पहुँ चने का माध्यम/             Up to Ponneri by Rail/Bus.
+     Mode of approach                Ponneri to Pulicat by Bus.
+27   उपलब्ध सवु िधाएं/               Post Office, High School at 2 km, Hospital at 1 km. All at
+                                     Pulicat and Police Station at 6km at Thirupalaivanam.
+     Facilities available
+
+
+28   डाक पता/Postal address          Assistant Engineer (E)
+                                     Pulicat Lighthouse and DGPS Station
+                                     P.O. Pulicat ,
+                                     Ponneri Taluk,
+                                     Thiruvallur Dist.,
+                                     TamilNadu State
+                                     Pin: 601205
+29   मू ल्य का ब्योरा/Cost details   N/A
+     (At the time of Construction)
+30   प्रितनन मे लाने का टदनांक/      25th August 1986
+     Date of commissioning
+

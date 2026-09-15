@@ -1,0 +1,41 @@
+{
+  "slug": "indira-point-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Indira Point Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1972,
+  "alol": "F 1224",
+  "position": {"lat_text": "6° 45.10' N", "lon_text": "93° 49.36' E", "lat": 6.751667, "lon": 93.822667},
+  "elevation_m": 35,
+  "characteristic_text": "Fl (2) W 20 Sec (fl 1.0, ec 3.0, fl 1, ec 15)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "fl 1.0, ec 3.0, fl 1, ec 15",
+    "sequence_s": [1.0, 3.0, 1, 15],
+    "flash_duration_s": 1.0
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 10, "geographical_nm": null, "text": "10 NMiles (single unlabelled range)"},
+  "tower": {"type": "Cast Iron tower", "height_m": 35, "colour_scheme": "Red & White Bands"},
+  "optic": {
+    "make": "Sealite", "model": "SL155-5D", "type": "LED Flasher", "size": "171mm", "order": null,
+    "panels": null,
+    "rotation_device": "White Flashing Light",
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Flasher; R.P.M.: NA",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High Efficiency LEDs"
+  },
+  "intensity_cd": 1500,
+  "racon": {"present": true, "code": "G", "text": "Tideland Sea beacon 2 system 6 RACON, Code G, Band X & S, installed 20.01.2005"},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": null, "text": "Solar plant 70 W, 02 panels, Mono Crystalline, 12V/100AH battery; mains and engine fields blank"},
+  "issues": ["NAIS section has no equipment details (only template label 'VSAT Antenna Prodelin 2.4 meter')"]
+}

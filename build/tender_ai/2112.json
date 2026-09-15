@@ -1,0 +1,54 @@
+{
+  "nid": 2112,
+  "title": "Hire charges for boat of length of 50' and above including dingy for trip from Kavaratti - Suhelipar - Valiyakkara - Kavaratti",
+  "summary": "Sealed quotations from registered Lakshadweep boat owners for hiring a boat of 50 ft or more, with dinghy and crew, to carry Directorate officials and equipment from Kavaratti to Suhelipar/Cheriyakara and Valiyakkara islands and back.",
+  "category": "vessels & vehicles",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-03012/1/2019-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kavaratti Island (Kavaratti Lighthouse)", "station_id": "kavaratti-lighthouse", "kind": "lighthouse", "work": "Trip origin/return point; quotations may be submitted to Station In-charge"},
+    {"name": "Suhelipar", "station_id": "suhelipar-lighthouse", "kind": "lighthouse", "work": "Boat transport of DLL officials for lighthouse maintenance, with night stay"},
+    {"name": "Cheriyakara", "station_id": null, "kind": "lighthouse", "work": "Boat transport of DLL officials for lighthouse maintenance, with night stay"},
+    {"name": "Valiyakkara", "station_id": "valiyakara-lighthouse", "kind": "lighthouse", "work": "Boat transport of DLL officials for lighthouse maintenance, with night stay"}
+  ],
+  "scope": [
+    {"item": "Boat of length 50 ft and above including dinghy: Kavaratti Island to Cheriyakara/Suhelipar, Valiyakkara and back (including 1 night stay), rates for years 1, 2 and 3", "qty": null, "unit": "Per trip", "site": null},
+    {"item": "Halting charge (additional night) including provision for food rations/fresh water", "qty": null, "unit": "Per night", "site": null},
+    {"item": "Food charges per official per day (3 times), for 4 to 9 DLL officials per trip", "qty": null, "unit": "Per day", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "Unconditional performance bank guarantee Rs 10,000 within 10 days of award, valid contract period + 60 days, DD/FDR in favour of Director, DLL Cochin, payable at Ernakulam",
+    "notes": "Rates all-inclusive (fuel, lubricants, crew, dinghy, permissions); no mobilisation/demobilisation or escalation. TDS 1% (individual/proprietor) or 2% (firm/company), 20% if PAN not linked to Aadhaar. Lowest amount decides; Director may empanel more than one provider at L1 rates."
+  },
+  "period": {"completion": "Contract initially 1 year, extendable for 2 more years on yearly basis", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-11-03", "pre_bid": null, "bid_submission_end": "2025-12-04", "bid_opening": null},
+  "eligibility": [
+    "Registered boat owners in UT of Lakshadweep",
+    "Valid registration and certificate for operation of boats; boat survey/classification certificates, layout plan and specification",
+    "Boat length >= 50 ft with dinghy; VHF radio, GPS, life jackets, life buoys, anchor, fire extinguishers, first aid box; minimum 4 crew with experience visiting Suhelipar/Cheriyakara/Valiyakkara",
+    "Copy of PAN (linked with Aadhaar), GST registration and bank account details"
+  ],
+  "specs": [
+    "Boat length 50 ft and above with accompanying dinghy",
+    "Canopy for shade, wheel house with bed, strong canopy for instrument assembly, wash room",
+    "VHF radio, GPS, life jackets, life buoys, fire extinguishers"
+  ],
+  "corrigenda": [
+    {"date": "2025-11-19", "change": "Corrigendum dated 19.11.2025 referenced in Corrigendum II; not included in the documents"},
+    {"date": "2025-11-26", "change": "Corrigendum II: last date for sealed quotations extended to 04.12.2025 17:00; may be submitted by post/courier/hand to Station In-charge Agatti or Kavaratti Lighthouse, or to Director, DLL Kochi"}
+  ],
+  "documents": [
+    {"file": "Notice Inviting Quotation Kavaratti.pdf", "pages": 6, "read": "mixed", "language": "bilingual", "unreadable": []},
+    {"file": "CORRIG_II_DATE EXT_BOAT HIR_KAVARATTI TO SUHELI.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIQ dated 03.11.2025; blank forms 04.11.2025 to 19.11.2025 (10:00-16:00) from DLL Kochi or Station In-charge Kavaratti; original deadline 19.11.2025 17:00. Opening date not printed (listing shows 2025-12-04). Annexure-II term 1 says submit to Station In-charge Kavaratti while NIQ says to Director at Kochi. Term 27 gives query window 23.10.2024 to 03.11.2024 (stale year). Term 32-33 numbering broken. Schedule form asks bidder owner's mobile number (blank field). Cheriyakara not in station list. Office phone 0484-2205720, e-mail dte-koc@gov.in."
+}

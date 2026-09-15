@@ -1,0 +1,52 @@
+{
+  "nid": 2514,
+  "title": "Mobile Storage Compactors (GeM bid GEM/2026/B/7833279) - Design, Supply & Installation of 2-Bay Sprocket chain drive mechanism mobile storage compactors in the record room of Deep Bhavan, Kolkata",
+  "summary": "GeM bid for supply, installation, testing and commissioning of one 2-bay sprocket chain drive mobile storage compactor unit for the record room of the Kolkata Directorate's Deep Bhavan office.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2026/B/7833279",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, D-372/2, Taratala Road, Kolkata-700088", "station_id": null, "kind": "office", "work": "Supply, installation, testing and commissioning of mobile storage compactor"}
+  ],
+  "scope": [
+    {"item": "Mobile Storage Compactors - 2-Bay, Sprocket Chain Drive Mechanism; 1 single faced fixed row, 1 single faced movable row, 5 double faced movable rows; SITC", "qty": "1", "unit": "pieces", "site": "Deep Bhavan, Kolkata"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": 22200.0,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 14 months (advisory bank State Bank of India); FDR also accepted",
+    "notes": "Estimated bid value not printed. EMD Rs 22,200 (MSE manufacturers exempt; surety bond accepted). Total value wise evaluation; RA not enabled. 70% of product cost payable on delivery, minimum 30% allocated to installation, commissioning and testing. MII purchase preference L1+20% up to 50% quantity; MSE preference L1+15% up to 25%."
+  },
+  "period": {"completion": "Delivery 30 days; ICT within 15 days of site readiness", "bid_validity": "90 days from bid end date", "warranty": "1 year from final acceptance / completion of installation"},
+  "dates": {"published": "2026-07-24", "pre_bid": "2026-07-29", "bid_submission_end": "2026-08-03", "bid_opening": "2026-08-03"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 5 lakh",
+    "OEM average turnover (last 3 years): Rs 40 lakh",
+    "3 years past experience supplying same/similar category products to Central/State Govt/PSU",
+    "Past performance: supplied 80% of bid quantity in one of last three financial years",
+    "MSE and Startup relaxation for experience and turnover",
+    "Only Class 1 / Class 2 local suppliers (minimum 50% / 20% local content)",
+    "Bidder or OEM must have ISO 9001 certification; OEM authorization, service centre in consignee state, dedicated/toll-free service number and escalation matrix"
+  ],
+  "specs": [
+    "Guide rail: 2 rows; 2 x 1830 mm and 1 x 2745 mm rails per row (915 mm: 0 or 1); round/square bar stoppers",
+    "Shelves: 5 shelves / 6 compartments per body; 100 kg per shelf; base frame load 2000 kg; fixed/adjustable shelves",
+    "Cast iron wheels with anti-friction ball bearings; 2 pairs wheels and min 4 pairs bearings per base frame; drive cover; central locking, safety lock per movable body, separate door lock per section; PU three-arm wheel handle",
+    "Material: 0.8 mm CRC sheet IS 513 Grade D for body, shelves, door panels; base frame 3.15 mm HR sheet IS 1079; guide rail 2 mm HR sheet and 25.4 x 2 mm ERW tube; C channel 2 mm HR IS 2062; drive cover 1 mm CRCA",
+    "Dimensions: height 2350 mm; depth 400 mm single faced, 760 mm movable double; bay width 1180 mm; aisle 760 mm; base frame 75 mm; track clearance 55 mm; drive cover 1210 x 74.5 mm; excess rail 1200/915 mm",
+    "Acrylic indexing label holder 2 mm (155/106 mm, A4); fire retardant epoxy polyester powder coating",
+    "OEM with BIFMA membership, ISO 9001:2015, ISO 14001:2015, ISO 45001:2018/18001:2007"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM-Bidding-9659578.pdf", "pages": 13, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is the GeM bid (category Mobile Storage Compactors); the listing title 'Design, Supply & Installation of 2-Bay Sprocket chain drive mechanism mobile storage compactors in the record room of Deep Bhavan, Kolkata' is not printed in the bid, which gives only the category name, so the title field combines both. Bid end 03-08-2026 20:00, opening 20:30; pre-bid 29-07-2026 15:00 at Deep Bhavan, Kolkata. Buyer ATC and drawing are referenced but not included. Buyer e-mail and consignee officer name are personal and not recorded ([personal contact removed]); HOD grievance e-mail dte-kol@gov.in is official. Warranty service rectification within 10 days, penalty 0.5% per week up to 10%."
+}

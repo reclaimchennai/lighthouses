@@ -1,0 +1,45 @@
+{
+  "slug": "chetlat-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Chetlat Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1984,
+  "alol": "F-0749",
+  "position": {"lat_text": "11° 41.8\" N", "lon_text": "72° 43.1\" E", "lat": 11.696667, "lon": 72.718333},
+  "elevation_m": 36,
+  "characteristic_text": "Fl (3) White 30 Sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 30,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 17.16, "geographical_nm": null, "text": "17.16 Nm (single unlabelled range)"},
+  "tower": {"type": "G I trestle tower", "height_m": 30, "colour_scheme": "Black and White Band"},
+  "optic": {
+    "make": "MsM, Spain", "model": "MBL-160", "type": "LED Flasher", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Optic MBL-160, Type: LED Flasher",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High-intensity power LED 6W"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "NIL"},
+  "ais": {"present": false, "text": "NAIS: NIL"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "Mains 230V 3 phase AC; emergency power source NIL; Solar Plant: NIL but solar panels for main light (70W/12V x1) and automation panel (250W/24V x2)"},
+  "issues": [
+    "Ledger never names the station; postal address and facilities refer to Kadamat Lighthouse / Kadamat Island, so this sheet may be Kadamat's data filed under Chetlat",
+    "Position minutes printed with a double-prime (\") sign; treated as decimal minutes",
+    "Source of energy says 'Solar Plant: NIL' yet lists solar panels"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "nizampatnam-lighthouse",
+  "page_count": 5,
+  "title_as_printed": "Nizampatnam Lighthouse Estd.2004 VISAKHAPATNAM DIRECTORATE MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "Name", "title_hi": null, "page": 1, "fields": [{"label": "Name", "value": "NIZAMPATNAM LIGHTHOUSE"}], "tables": [], "text": "[photo: red and white banded lighthouse tower beside water, top right of page 1]"},
+    {"no": "2", "title": "Sr.No. (as per A.L.O.L)", "title_hi": null, "page": 1, "fields": [{"label": "Sr.No. (as per A.L.O.L)", "value": "0952.95"}], "tables": [], "text": null},
+    {"no": "3", "title": "Position", "title_hi": null, "page": 1, "fields": [{"label": "Position", "value": "Lat: 15ᴼ 53.02' N Long: 80ᴼ 38.30' E"}], "tables": [], "text": null},
+    {"no": "4", "title": "Elevation", "title_hi": null, "page": 1, "fields": [{"label": "Elevation", "value": "35.83 Mtr above MSL"}], "tables": [], "text": null},
+    {"no": "5", "title": "Characteristic", "title_hi": null, "page": 1, "fields": [{"label": "Characteristic", "value": "Flash White, every 5Seconds (Fl 0.5 + ec4.5 = 5 sec.)"}], "tables": [], "text": null},
+    {"no": "6", "title": "Range in nautical miles", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Luminous", "value": "23.0 NM"},
+      {"label": "ii) Geographical", "value": "17 NM"}
+    ], "tables": [], "text": null},
+    {"no": "7", "title": "Lighthouse Tower", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Type", "value": "Circular R.C.C. Tower by SLIP FORM"},
+      {"label": "ii) Height", "value": "30 Mtr"},
+      {"label": "iii) Colour Scheme", "value": "Red & White bands"}
+    ], "tables": [], "text": null},
+    {"no": "8", "title": "Optical Equipment", "title_hi": null, "page": 1, "fields": [
+      {"label": "a) i) Make", "value": "M/s ANA Navaids Ltd, New Delhi"},
+      {"label": "a) ii) Size", "value": "413 mm diameter (Height 272 mm & width 160 mm)"},
+      {"label": "a) iii)Focal distance", "value": "413 mm"},
+      {"label": "a) iv) No. of Panels", "value": "8 panel \"Fresnel\" Lens."},
+      {"label": "a) v) Divergence Main", "value": "Horizontal 4.56⁰, Vertical 7.22⁰"},
+      {"label": "a) vi)Duration of flash", "value": ""},
+      {"label": "b) Pedestal", "value": "3\" G.I pipe with top & Bottom 3/8\" M.S round plates welded"},
+      {"label": "c) Rotation Device", "value": "Stepper motor 7 kg-cm - 1 Nos. (Gearless drive)"},
+      {"label": "d) Rotation Speed", "value": "1.5 RPM"},
+      {"label": "e) Illuminant i) Main/Service", "value": "150 W/230V Metal Halide Lamp"},
+      {"label": "e) Illuminant ii) Standby", "value": "Nil"},
+      {"label": "e) Illuminant iii)Emergency", "value": "Nil"},
+      {"label": "f) Effective Beam Intensity i) Main/Service", "value": "3,92,857 candelas."},
+      {"label": "f) Effective Beam Intensity ii) Standby", "value": "Nil"},
+      {"label": "f) Effective Beam Intensity iii) Emergency", "value": "Nil"}
+    ], "tables": [], "text": "Section continues from page 1 (a, b) to page 2 (c–f)."},
+    {"no": "9", "title": "Lantern", "title_hi": null, "page": 2, "fields": [
+      {"label": "i) Diameter", "value": "2.40 Mtr"},
+      {"label": "ii) Height of glazing", "value": "1.40 Mtr"},
+      {"label": "iii) No. of panes", "value": "12 Nos."},
+      {"label": "iv) Ventilators", "value": "11 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "10", "title": "Energy Source", "title_hi": null, "page": 2, "fields": [
+      {"label": "A) APCPDCL Mains", "value": "230 V AC, 1 Phase, 50 Hz"},
+      {"label": "B) Green Energy", "value": "0.9KW off grid solar power plant for main light."},
+      {"label": "i) Solar panels", "value": "6 No 24V/150W( TATA B.P make)"},
+      {"label": "ii) Battery Bank", "value": "12 No 2V /900Ah (TATA B.P Tubular)"},
+      {"label": "iii) PCU/UPS", "value": "TATA SOLAR MPPT Make 1 KVA /24 V UPS."}
+    ], "tables": [], "text": null},
+    {"no": "11", "title": "No. of Standby Diesel Engine", "title_hi": null, "page": 2, "fields": [{"label": "No. of Standby Diesel Engine", "value": "Kirloskar Engine ,20.5 BHP,1500 RPM, Sl. No.0.2.2129/1320078"}], "tables": [], "text": null},
+    {"no": "12", "title": "Details of Alternator", "title_hi": null, "page": 2, "fields": [{"label": "Details of Alternator", "value": "Kirloskar Alternator, 15 KVA, 1500RPM, Sl. No.CSIBO13D1403-H"}], "tables": [], "text": null},
+    {"no": "13", "title": "Automatic Voltage Stabilizers", "title_hi": null, "page": 2, "fields": [
+      {"label": "Automatic Voltage Stabilizers", "value": "1 No. (U/s)"},
+      {"label": "Make", "value": "Supra- hitech"},
+      {"label": "Model", "value": "SH-390"},
+      {"label": "Capacity", "value": "09 KVA, 3 phase"},
+      {"label": "Input", "value": "310-450V"},
+      {"label": "Output", "value": "Adjustable to 380-415 V"}
+    ], "tables": [], "text": "Section continues from page 2 (up to Make) to page 3."},
+    {"no": "14", "title": "Automation of Lighthouse.", "title_hi": null, "page": 3, "fields": [
+      {"label": "i) Make", "value": "M/s Recktronic Devices & Systems, Pune."},
+      {"label": "ii) RDS Panel", "value": "1No. in power house."},
+      {"label": "iii) RDS Panel", "value": "1No. Service room."},
+      {"label": "iv) V-SAT Dish Size", "value": "1.2 Mtr dia"},
+      {"label": "v) Date of commissioning", "value": "24/02/2013"}
+    ], "tables": [], "text": null},
+    {"no": "15", "title": "Street Lights", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "i) G.I Poles with 25W LED light fitting - 4 Nos.\n1 No. in front of Power House without post.\nii) Gate Light CFL - 2 Nos."},
+    {"no": "16", "title": "Regulated Power supply", "title_hi": null, "page": 3, "fields": [
+      {"label": "Regulated Power supply", "value": "2 Nos."},
+      {"label": "Make", "value": "M/s Aplab Ltd. Thane."},
+      {"label": "Input", "value": "230 V AC"},
+      {"label": "Output", "value": "0 - 30 V DC, 0 - 20 A"},
+      {"label": "Model Number", "value": "L-3220"}
+    ], "tables": [], "text": null},
+    {"no": "17", "title": "Firefighting equipment", "title_hi": null, "page": 3, "fields": [
+      {"label": "Fire Extinguishers i) D.C.P. type (ABC Type)", "value": "4 Nos."},
+      {"label": "ii) Foam type (9 litres capacity)", "value": "2 Nos."},
+      {"label": "(10 Fire Buckets", "value": "4 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "18", "title": "Communication Facility", "title_hi": null, "page": 3, "fields": [
+      {"label": "Telephone No.", "value": "--"},
+      {"label": "NA-I Mobil No", "value": "[personal number removed]"},
+      {"label": "e-mail", "value": "nizampatnam-vizag@dgll.nic.in"}
+    ], "tables": [], "text": null},
+    {"no": "19", "title": "Water Supply", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "i) Rain water collecting tank – 30000ltrs\nii) Panchayat water supply pumped by 1 HP motor to overhead tank at individual quarter."},
+    {"no": "20", "title": "Land", "title_hi": null, "page": 4, "fields": [
+      {"label": "i) Area", "value": "725 Sq. meter"},
+      {"label": "ii) Demarcation", "value": "Masonry Compound wall of 8 feet height"},
+      {"label": "iii)No. of fruit trees", "value": "5 Nos."},
+      {"label": "iv)No.of non fruit bearing Trees", "value": "10 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "21", "title": "Buildings", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "One unit of Power House, Store & Office Room. in ground floor and LHA &LHS quarter in First floor.\nTwin unit of one NA I and one NA II quarters in ground floor and Inspection quarters & one NA III quarters in First floor"},
+    {"no": "22", "title": "Staff", "title_hi": null, "page": 4, "fields": [{"label": "Staff", "value": "NA II - 1 No. ii) LHA-1 No vacant"}], "tables": [], "text": null},
+    {"no": "23", "title": "Mode of approach", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "By Rail up to Bapatla and then by bus up to Lighthouse about 35 kilometers by road."},
+    {"no": "24", "title": "Facilities available", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "a) Post Office within 6 km (Nizampatnam)\nb) Govt. Hospital within 7 km (Nizampatnam)\nc) Govt. School within 5 km (Nizampatnam)\nd) Nationalized Bank within 5 km (Nizampatnam)"},
+    {"no": "25", "title": "Postal Address", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "The Navigational Assistant Grade I,\nNizampatnam Lighthouse,\nNizampatnam M.D post,\nBatatla Dist. Andhra Pradesh, Pin: 522 314."},
+    {"no": "26", "title": "Cost Details", "title_hi": null, "page": 4, "fields": [
+      {"label": "i) Construction", "value": "Rs. 4,53,80,000/-"},
+      {"label": "ii)Cost of equipment", "value": "Rs. 22,50,000/-"}
+    ], "tables": [], "text": "Item ii) is on page 5."},
+    {"no": "27", "title": "Date of Commissioning", "title_hi": null, "page": 5, "fields": [{"label": "Date of Commissioning", "value": "2nd July 2004"}], "tables": [], "text": null},
+    {"no": "28", "title": "Subsequent Innovation", "title_hi": null, "page": 5, "fields": [{"label": "Subsequent Innovation", "value": "2022"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

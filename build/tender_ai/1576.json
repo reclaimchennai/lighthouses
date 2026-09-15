@@ -1,0 +1,40 @@
+{
+  "nid": 1576,
+  "title": "Replacement of broken glass panel of lift well with SS plate at Thangasseri Point LH",
+  "summary": "Notice inviting sealed quotations to remove damaged glass panels of the outer lift well shell and fit stainless-steel plates at Thangasseri Point Lighthouse, Kerala.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-06002/1/2013-MS; I/56154/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Thangasseri Point LH", "station_id": "thangasseripoint-lighthouse", "kind": "lighthouse", "work": "Replace broken glass panel of lift well with SS plate"}
+  ],
+  "scope": [
+    {"item": "Removing the existing 12mm thick damaged glass of outer shell of lift well without damaging adjacent sections, including shifting and disposing damaged glass, all safety measures, T&P, transportation, loading & unloading", "qty": "1.00", "unit": "Each", "site": "Thangasseri Point LH"},
+    {"item": "Providing and fixing 1.2 mm thick mat finish stainless steel (Grade 304) plate (1005x1780) mm (Jindal/Tata or equivalent) to the panel of outer lift well, including grinding, buffing, polishing, curving to existing curve, SS nuts and bolts; joints and gaps filled with non-staining weather sealant; including scaffolding and all materials", "qty": "1.00", "unit": "Each", "site": "Thangasseri Point LH"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate, EMD or fee printed. Rates to be inclusive of materials, labour, fabrication, loading, transport, scaffolding and GST. No escalation; payment on running account bills for measured quantities. Lowest total amount wins."
+  },
+  "period": {"completion": "20 days from the date of issue of work order", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-04-19", "pre_bid": null, "bid_submission_end": "2024-04-30", "bid_opening": "2024-04-30"},
+  "eligibility": [],
+  "specs": [
+    "1.2 mm mat finish stainless steel Grade 304 plate, 1005 x 1780 mm, Jindal/Tata or equivalent",
+    "Existing glass: 12 mm thick; non-staining weather sealant at joints"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ GLASS REPLACEMENT THANGASSERI LH  (1).pdf", "pages": 4, "read": "mixed", "language": "bilingual", "unreadable": ["OCR text layer with errors (e.g. 'SS' read as '55'); schedule page checked from rendered image"]}
+  ],
+  "confidence": "high",
+  "notes": "Blank quotation forms issued from the Cochin office 20.04.2024 to 29.04.2024 (10:00-16:00); site inspection same period; sealed quotations by post/courier/hand by 30.04.2024 15:00, opened same day 16:00. Digitally signed by the Director on 19-04-2024. Office e-mail dte-koc@gov.in."
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "minicoy-north-lighthouse",
+  "page_count": 2,
+  "title_as_printed": "मास्टर लेजर/MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1,
+     "fields": [{"label": "A.L.O.L.", "value": "F0758.1"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1,
+     "fields": [{"label": "Position", "value": "Lat08º 17.74´ N, Long 73º 03.95´ E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1,
+     "fields": [{"label": "Elevation", "value": "1m above sea level + 22m"}], "tables": [], "text": null},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1,
+     "fields": [{"label": "Characteristic", "value": "Flash (2) white every 10 seconds."}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in miles", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1,
+     "fields": [
+       {"label": "Luminous", "value": "10Nm"},
+       {"label": "Geographical", "value": "14Nm"}
+     ], "tables": [], "text": null},
+    {"no": "6", "title": "L.H.Tower", "title_hi": "दीपस्तंभ टावर", "page": 1,
+     "fields": [
+       {"label": "Type", "value": "17m BMT Square + 5m trestle tower"},
+       {"label": "Height", "value": "22M"},
+       {"label": "Colour Scheme", "value": "Black and white Band"}
+     ], "tables": [], "text": null},
+    {"no": "7", "title": "Optical equipment", "title_hi": "ऑप्टिकल उपकरण", "page": 1,
+     "fields": [
+       {"label": "Optic", "value": ""},
+       {"label": "Make", "value": "MBL-160 Marine Flasher"},
+       {"label": "Type", "value": "LED"},
+       {"label": "Divergence Main/Emergency", "value": "360º (Horizontal) <30º (Vertical)"},
+       {"label": "Duration of Flash Main", "value": "Flash (2) white every 10 seconds."},
+       {"label": "Illuminant", "value": "LED"},
+       {"label": "Date of Installation", "value": "31-01-2018"}
+     ], "tables": [], "text": null},
+    {"no": "8", "title": "Source of energy", "title_hi": "ऊर्जा के साधन", "page": 1,
+     "fields": [
+       {"label": "Mains", "value": "Lakshadweep Electricity Dept. Power supply 230V single phase 50Hz"},
+       {"label": "Power Source", "value": "Solar Panel 12V, 70W for main light 2Nos.12V100AH batteries"}
+     ], "tables": [], "text": null},
+    {"no": "9", "title": "Batteries", "title_hi": "बैटरि", "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Type", "Make", "Volt", "Amp/Hr", "Qty", ""],
+        "rows": [
+          ["Mainlight", "Sealed", "Exide", "12V", "100 AH", "2", ""],
+          ["Automation", "Lead acid", "Exide", "12V", "150 AH", "2", ""]
+        ]}
+     ], "text": null},
+    {"no": "10", "title": "Fire Fighting Equipment", "title_hi": "आग्नि शमन उपकरण", "page": 1,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Type of Extinguisher", "Capacity", "Nos", "Make"],
+        "rows": [["DCP Type", "2 kg", "1", "Flameblitzz"]]}
+     ], "text": null},
+    {"no": "11", "title": "Communication", "title_hi": "संचार", "page": 1,
+     "fields": [{"label": "Communication", "value": "04892 – 222264(Office Broadband). Email ID- minicoydgps@gmail.com"}], "tables": [], "text": null},
+    {"no": "12", "title": "Water Supply", "title_hi": "जल पूर्ति", "page": 1,
+     "fields": [{"label": "Water Supply", "value": "N/A"}], "tables": [], "text": null},
+    {"no": "13", "title": "Land", "title_hi": "भूमि", "page": 2,
+     "fields": [
+       {"label": "Area", "value": "620Sq. Mt."},
+       {"label": "Demarcation", "value": "Masonry Brick compound wall"}
+     ], "tables": [], "text": null},
+    {"no": "14", "title": "Staff", "title_hi": "स्टाफ", "page": 2,
+     "fields": [{"label": "Staff", "value": "Maintained by Minicoy RCS staff."}], "tables": [], "text": null},
+    {"no": "15", "title": "Mode of approach", "title_hi": "पहुँचने का माध्यम", "page": 2,
+     "fields": [{"label": "Mode of approach", "value": "Passenger ship from Kochi."}], "tables": [], "text": null},
+    {"no": "16", "title": "Facilities available", "title_hi": "उपलब्ध सुविधाए", "page": 2,
+     "fields": [{"label": "Facilities available", "value": "Govt. Hospital, Police station, Post office, Govt. Higher Secondary School, Jawahar Navodaya Vidyalaya, etc within 5km from Light house"}], "tables": [], "text": null},
+    {"no": "17", "title": "Postal address", "title_hi": "डाक पता", "page": 2,
+     "fields": [{"label": "Postal address", "value": "The Assistant Engineer(El), Minicoy south Lighthouse Minicoy, UT of Lakshadweep-682559"}], "tables": [], "text": null},
+    {"no": "18", "title": "Cost details (At the time of Construction)", "title_hi": "मूल्यका ब्योरा", "page": 2,
+     "fields": [{"label": "Cost details", "value": "N/A"}], "tables": [], "text": null},
+    {"no": "19", "title": "Date of commissioning", "title_hi": "प्रवर्तनमे लाने का देनांक", "page": 2,
+     "fields": [{"label": "Date of commissioning", "value": "19/11/2008"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

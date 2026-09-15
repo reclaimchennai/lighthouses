@@ -1,0 +1,47 @@
+{
+  "slug": "jegri-island-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Jegari Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1960,
+  "alol": "F 0438",
+  "position": {"lat_text": "21º 02.4' N", "lon_text": "71º 48.2' E", "lat": 21.04, "lon": 71.803333},
+  "elevation_m": 57,
+  "characteristic_text": "Fl(2)W20 Sec. (0.3+3.7+0.3+15.7=20 Sec)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "0.3+3.7+0.3+15.7=20 Sec",
+    "sequence_s": [0.3, 3.7, 0.3, 15.7],
+    "flash_duration_s": 0.3
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 27, "geographical_nm": null, "text": "27 NMiles (unlabelled range)"},
+  "tower": {"type": "Square Masonery", "height_m": 29, "colour_scheme": "Black and White Bands"},
+  "optic": {
+    "make": "Stone Chance", "model": null, "type": "Revolaving", "size": "375mm", "order": null,
+    "panels": 4,
+    "rotation_device": "Stepper Motor",
+    "rpm": 1.5,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolaving; Rotation Device: Stepper Motor; R.P.M. 1.5",
+    "divergence_horizontal_deg": 16.799833,
+    "divergence_vertical_deg": 10.9635,
+    "divergence_text": "16º 47.99' (Horizontal), 10º 57.81' (Vertical)",
+    "illuminant": "Cluster 150W/230V MH Lamp"
+  },
+  "intensity_cd": 334480,
+  "racon": {"present": true, "code": "G", "text": "RACON - NA-; Make Tide Land, Model Sea Beacon System 6, Code G, X & S band, installed Oct-2005"},
+  "ais": {"present": false, "text": "NAIS Base Station: PSS Dwarka; Communication Equipment: Leased Line; Model/Type/Power/MMSI blank"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V/3phase/50Hz; Standby 15KVA DG set (Kirloskar 20.5 engine, 15KVA alternator); Solar plant 10KWp, 2V/1000AH x 48 battery"},
+  "issues": [
+    "Name printed as 'JEGARI LIGHTHOUSE' in header; postal address says 'Jegri Lighthouse'",
+    "Duration of Flash given as 1.86 Sec but characteristic sequence gives 0.3 s flashes",
+    "Effective beam intensity printed with irregular grouping '33,4,480 Candela'; read as 334480",
+    "RACON heading says '- NA-' but a Tide Land Sea Beacon System 6, code G, X & S band, Oct-2005 is listed (identical to Dwarka ledger entry)",
+    "NAIS lists only base station 'PSS Dwarka' with no model/MMSI"
+  ]
+}

@@ -1,0 +1,163 @@
+                                  मास्टर लेज़र/MASTER LEDGER
+                           वेम्बार दीपस्तंभ/VEMBAR LIGHTHOUSE
+क्रम संख्या /              नाम / Name
+   Sr. No                                                                           वििरण / Description
+     1                ए.एल.ओ.एल/A.L.O.L.                                                 F 0737
+     2                  स्थान / Position                                               Lat. 90 4.633’N
+                                                                                      Long. 780 21.9’ E
+
+     3                  ऊंचाई/Elevation                                                 m (above MSL)
+     4          अभिलक्षण/Characteristic                                    Flash (3) White Every 10 Seconds
+     5               नॉटिकल माइल मे दरू ी                                            Luminous : 20 NM
+                        Range in miles                                              Geographical : 14 NM
+     6             दीपस्तंि िािर/L.H. Tower         Type                                           RCC Octagonal tower
+                                                    Height                                                  30 m
+                                                    Colour Scheme                             Black & White horizontal bands
+     7                 ऑप्टिकल उपकरण                Optic                                     APRB-288AC-2PL-006 Rotating
+                                                                                                         Beacon
+                       Optical equipment
+                                                    Make                                              Pharos Marine
+                                                    Type                                             Rotating Beacon
+                                                    Size                                                 500mm
+                                                    No. of lens                                             3
+                                                    Area of dioptric portion
+                                                    Area of catadioptric portion
+                                                    Divergence                                      Vertical divergence >2°
+                                                    Main/Emergency
+                                                    Duration of Flash                            1.25 sec.flash period;3.75sec
+                                                    Main /Standby/Emergency                 Dark period;6.25sec group(3)white flash
+                                                                                                      in every 10 seconds
+                                                    Lamp changer-(pannels)                        8 panels in octagonal form
+                                                    Pedestal
+                                                    Rotation Device                                  Inbuilt stepper motor
+                                                    R.P.M.                                                      6
+                                                              Illumining                    230V, Single End Metal Halide Lamp
+                                                                                                             150W
+                                                      Main lamp
+                                                             Standby / Auxiliary           1 working & another one is standby 2
+                                                                                                   Lamps Philips make
+                                                                Emergency:
+                                                             Date of Installation                        05/12/2016
+     8            प्रिािी बीम तीव्रता / Effective             Main & Standby                         9,12,000 Candelas
+                          beam intensity
+                                                                Emergency
+     9                                                       Diameter                                     2.4 Meter
+                                                       Height of glazing
+              लेंिनन/Lantern                            No. of panes                                          12
+                                                         Ventilators                                           7
+10         RACON          - NA-
+           Make               Model                             Code                              Band                 Date of
+                                                                                                                     Installation
+                  -                     -                                    -                           -                      -
+11                                                                NAIS
+              Base Station
+
+          Model                  Type                           Power                             MMSI
+
+      Communication
+        Equipment
+       VSAT Antenna
+     Prodelin 2.4 meter
+          DGPS                 -NA-                                      -                             -                       -
+     Transmitter Make      Frequency            Power Output                 RS 1 ID     RS -II      Beacon        Date of   Date of
+                                                                                          ID            ID         commis    Recapit
+                                                                                                                   sioning   alizatio
+                                                                                                                                 n
+                  -                  -                      -                        -      -          -          -        -
+                  -                  -                                           -                  -                    -
+12    ऊर्ान के साधन /                                Mains                                EB Supply Three Phase 440 V, 50 Hz
+     Source of energy                                                                                 from TNEB
+                                                   Standby
+                                                  Solar Plant                              4 KW OFF Grid Solar Power Plant
+                                                   Inverter                                 Microtek 1600VA & Luminous
+                                                                                                1650VA - 1 No. each
+                                   Capacity PV                     Numbers                 Type / Make        Battery        Bank
+                                                           Solar Panel [250W              Zytech solar        Exide
+                                                           / 31.18V (8 Nos.) &           panel / Waaree       1000A
+                                                              260W / 45V (8                solar panel        H/ 2V
+                                                                  Nos.)]                                       (24
+                                                                                                              Nos.)
+                                            Solar Plant for Main Light
+                                   Capacity PV                     Numbers                        Type        Battery        Bank
+
+
+13                                                स्िचाभलत िोल्िे र् स्िे बलाइर्र
+                                                  Automatic Voltage Stabilizers
+
+          Make                  Model          Capacity              Input                   Output           Phase          Qty
+         Globus                                 5 KVA           170 to 270 Volt             230 Volt                          1
+                                                Servo
+         Globus                                 5 KVA           170 to 270 Volt             230 Volt                          1
+                                                Servo
+14                                                        बैिरी / Batteries
+       Equipment                Type           Make                Volt                     Amp/Hr             Qty
+       Main Lamp               Tubular         Exide                2V                      1000AH             24
+                                 --             ---                  --                        --               --
+15                                                बैिरी चार्नर/ Battery charger
+
+         Equipment               Make          Model            Type                   Rating             Qty
+       Battery charger          Globus                        40 Amps                 240 Volts           01
+
+
+        Automation                                                                                                        -
+16                                             इंवर्ट र / यप
+                                                           ू ीएस /Inverter / UPS
+     Equipment      Nos.    Make         Model         Type         Rating                Qty             input     output
+     Main Light            Lumin                                                           1              1.56
+                            ous                                                                            KVA
+       Street              Microt                                                          1              1600
+       lights                ek                                                                             VA
+                           Microt                                                          1              1600
+                             ek                                                                             VA
+                           Lumin                                                           1              1.56
+                            ous                                                                            KVA
+17                                       स्वचालन उपकरण Automation Equipment
+
+       MAKE              PLC             HMI           Power Supply            VSAT            Modem              Band
+
+18         अप्ननशमन उपकरण                      Type of extinguisher            Capacity          Nos .            Make
+          Fire Fighting Equipment                wall mounted fire              6 Kg               03
+                                               extinguisher ABC type                            P/w/of/
+                                                                                                  war/
+                                                                                                service
+                                                                                                 room
+                                                Clean agent modular               5 kg          02 P/W
+                                                type fire extinguisher
+                                               Smoke detector battery             4/nos           power
+                                                         type                                     house
+
+19                 संचार                                         BSNL Phone                                04638-210260
+                Communication
+20                 र्लपर्ू तन                                                 Local Purchase
+                 Water Supply
+21                   िभू म                                     0.1689 Hectare
+                    Land
+
+22                 इमारतें                           1.Navigational Assistant qtrs 2 nos                     Brick work
+                                                             2. compound walls
+                  Buildings
+                                                              3. Inspection qtrs
+23            कंपाउं ड लाइि                      Street lights - 7 Nos., Gate light - 1 No.,
+         Compound Lights                                    Garden Light - 1 No.
+24       सीसीिीिी कैमरा / CCTV                                           NA
+                CAMERA
+25               स्िाफ
+                                                Navigational Assistant Grade-III (1 No.) & Housekeeping Contract
+                Staff
+                                                                         Labour (1 No.)
+26       पहुँचने का माध्यम                                          By Bus
+         Mode of approach
+27        उपलब्ध सविधाएं                   Nearest post office, local panchayat office, high school,
+         Facilities available        Dispensary at vembar and police station are available at soorangudy.
+
+
+
+
+28    डाक पता / Postal address        The Navigational Assistant, Vembar Lighthouse, Vembar Post,
+                                                     Tuticorin District, Pin:628906
+29   मल्
+      ू य का ब्योरा / Cost details                                    NA
+     (At the time of Construction)
+30    प्रितनन में लाने का टदनांक                               19-NOV-2017
+       Date of commissioning
+

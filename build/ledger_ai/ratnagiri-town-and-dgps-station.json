@@ -1,0 +1,43 @@
+{
+  "slug": "ratnagiri-town-and-dgps-station",
+  "pages_read": [1, 2, 3],
+  "name": "Ratnagiri Lighthouse and D.G.P.S Station",
+  "station_type": "lighthouse",
+  "established_year": 1965,
+  "alol": "F0580",
+  "position": {"lat_text": "16° 59.2' N", "lon_text": "73° 16.4' E", "lat": 16.986667, "lon": 73.273333},
+  "elevation_m": 103,
+  "characteristic_text": "Gr. fl W (2) White every 10 Sec. (Fl.0.41 + ec 1.59 + Fl 0.41 + ec 7.59 = 10 Sec.)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "Fl 0.41 + ec 1.59 + Fl 0.41 + ec 7.59 = 10 Sec.",
+    "sequence_s": [0.41, 1.59, 0.41, 7.59],
+    "flash_duration_s": 0.41
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 23, "geographical_nm": 25, "text": "Luminous: 23 NM, Geographical: 25 NM"},
+  "tower": {"type": "Circular Masonry Tower", "height_m": 15.25, "colour_scheme": "Black and White Bands 3 Nos. of 4.9 m each (2 Black + 1 White), Bottom band: Black"},
+  "optic": {
+    "make": "M/s. Stone Chance, England", "model": null, "type": "3rd order small", "size": "375mm Focal length", "order": "3rd order small",
+    "panels": 4,
+    "rotation_device": "Dual Stepper Motor 40 Kg/cm2 with auto changeover",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: Dual Stepper Motor 40 Kg/cm2 with auto changeover; R.P.M. 3; Pedestal: Mercury float",
+    "divergence_horizontal_deg": 8.36,
+    "divergence_vertical_deg": 6.08,
+    "divergence_text": "Horizontal – 8.36°, Vertical – 6.08°",
+    "illuminant": "3 x 150W, Metal Halide Lamp cluster"
+  },
+  "intensity_cd": 352948,
+  "racon": {"present": true, "code": "G", "text": "Pharos Marine; Model HY1120180649; Code 'G' (--.); X Band; installed 18/11/2018"},
+  "ais": {"present": true, "text": "NAIS Model R40; Power AC 100-240V, DC +24 V; MMSI '----'"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Local Mains 440 V 3 phase 50Hz & 20 KW on grid solar power system (80 x 250 W); Standby Diesel Generator Set (2 x KOEL HA394TCI61, 25 KVA); RACON solar 70 W & 75 W"},
+  "issues": [
+    "Geographical range (25 NM) exceeds luminous range (23 NM)"
+  ]
+}

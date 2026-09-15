@@ -1,0 +1,45 @@
+{
+  "slug": "chhachhi-lighthouse-and-vts-station",
+  "pages_read": [1, 2, 3, 4, 5, 6, 7],
+  "name": "Chhachhi Lighthouse and VTS Station",
+  "station_type": "lighthouse",
+  "established_year": 1964,
+  "alol": "F-0356",
+  "position": {"lat_text": "22° 57.2' N", "lon_text": "69° 00.1' E", "lat": 22.953333, "lon": 69.001667},
+  "elevation_m": 32,
+  "characteristic_text": "Fl (3)W 15 sec. [(0.35+2.15+0.35+2.15+0.35+9.65 =15 sec.)]",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "0.35+2.15+0.35+2.15+0.35+9.65 =15 sec.",
+    "sequence_s": [0.35, 2.15, 0.35, 2.15, 0.35, 9.65],
+    "flash_duration_s": 0.35
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 19, "geographical_nm": 14, "text": "Luminous: 19 N. Mile, Geographical: 14 N. Mile"},
+  "tower": {"type": "Square masonry stone tower", "height_m": null, "colour_scheme": "3 Black and 2 white bands"},
+  "optic": {
+    "make": "B.B.T. France", "model": null, "type": "250 mm (4th order large) revolving type", "size": "250 mm", "order": "4th order large",
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": true,
+    "rotates_evidence": "B.B.T. France make 250 mm (4th order large) revolving type",
+    "divergence_horizontal_deg": 25.199833,
+    "divergence_vertical_deg": 16.4945,
+    "divergence_text": "25° 11.99' (Horizontal), 16° 29.67' (Vertical)",
+    "illuminant": "Cluster of three CDM-TD lamps of 230V/150W"
+  },
+  "intensity_cd": 85383,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "AIS BS-610, Make: Kongsberg, Sr.No. 109177, D.O.I: 01/01/2020"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Main supply 415 V 3 Phase from PGVCL; Kirloskar DG 02 Nos. 40 KVA; On Grid 30 KW solar (120 panels)"},
+  "issues": [
+    "Optic 'Duration of flash: 2.1 sec' contradicts characteristic flash length 0.35 sec",
+    "Elevation given as '27.43+4.57=32 M'; tower height not separately stated (VTS tower 60 m is a separate structure)",
+    "established_year from lighthouse commissioning 15.06.1964 (VTS 13.02.2012)"
+  ]
+}

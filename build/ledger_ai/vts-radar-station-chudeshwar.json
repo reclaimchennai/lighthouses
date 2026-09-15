@@ -1,0 +1,44 @@
+{
+  "slug": "vts-radar-station-chudeshwar",
+  "pages_read": [1, 2, 3, 4, 5, 6, 7],
+  "name": "V.T.S Radar Station Chudeshwar",
+  "station_type": "vts station",
+  "established_year": 2012,
+  "alol": null,
+  "position": {"lat_text": "22° 21.858' N", "lon_text": "69° 32.605' E", "lat": 22.3643, "lon": 69.543417},
+  "elevation_m": 60,
+  "characteristic_text": null,
+  "light": {
+    "kind": null,
+    "flashes_per_period": null,
+    "colours": [],
+    "period_s": null,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": null, "geographical_nm": null, "text": null},
+  "tower": {"type": "RCC Circular Tower", "height_m": 60, "colour_scheme": "4 Red & 3 White bands"},
+  "optic": {
+    "make": null, "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": "No light or optic listed; VTS radar equipment only",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Main supply 230 V 1 Phase from PGVCL; Kirloskar DG 02 Nos. 40 KVA HA494T; Off Grid 30 KW solar (120 x 250w Su-Kam)"},
+  "issues": [
+    "ALOL given as NA",
+    "Equipment list numbering jumps (xviii to xxi, then xx, xxi repeated)"
+  ]
+}

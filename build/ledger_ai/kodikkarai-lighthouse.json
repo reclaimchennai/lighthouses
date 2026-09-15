@@ -1,0 +1,45 @@
+{
+  "slug": "kodikkarai-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Kodikkarai Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1998,
+  "alol": "F 0902",
+  "position": {"lat_text": "10° 16'.74\" N", "lon_text": "79° 49'59\" E", "lat": 10.279, "lon": 79.833056},
+  "elevation_m": 48,
+  "characteristic_text": "Fl (1) W 10 sec (fl 0.22(F)+9.8)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "fl 0.22(F)+9.8",
+    "sequence_s": [0.22, 9.8],
+    "flash_duration_s": 0.22
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 19, "geographical_nm": null, "text": "19 NM (unlabelled range)"},
+  "tower": {"type": "Round & Concrete", "height_m": 48, "colour_scheme": "Red and White Band (circular)"},
+  "optic": {
+    "make": "LMV", "model": "BGC 500HI", "type": "Revolving Beacon", "size": "22cm x 50cm", "order": null,
+    "panels": 6,
+    "rotation_device": "stepper motor",
+    "rpm": 1,
+    "rotates": true,
+    "rotates_evidence": "Optic: Revolving Beacon; Pedestal: Revolving; Rotation Device: stepper motor; R.P.M. 1 r.p.m",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "230V/70W Single ended Metal Halide Lamp"
+  },
+  "intensity_cd": 11000,
+  "racon": {"present": false, "code": null, "text": "RACON section empty"},
+  "ais": {"present": true, "text": "NAIS Base stations 2 Nos Sl.NO 5342, 5363; Model R40"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains Tamilnadu electricity board 3 phase/440V AC & 25KW on-grid solar plant; Engine 1 Kirloskar TA2 SRII 12HP with 5KVA alternator; solar 1.25 KW for main light and 3.5KW off grid for automation and NAIS"},
+  "issues": [
+    "Latitude printed as 10° 16'.74\" (mixed notation; 74 cannot be seconds); converted as 10° 16.74'",
+    "Sequence 0.22 + 9.8 sums to 10.02 s, not the stated 10 s period",
+    "Engine 1 heading marked '(NIL)' but a Kirloskar/TA2 SRII 12HP engine and 5KVA alternator are listed"
+  ]
+}

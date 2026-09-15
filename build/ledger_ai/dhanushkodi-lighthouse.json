@@ -1,0 +1,41 @@
+{
+  "slug": "dhanushkodi-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Dhanushkodi Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2022,
+  "alol": null,
+  "position": {"lat_text": "09° 10’ 39.254” N", "lon_text": "79° 25’ 7.424” E", "lat": 9.177571, "lon": 79.418729},
+  "elevation_m": 53,
+  "characteristic_text": "Fl (3) W 20 sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.75
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 15, "geographical_nm": 18, "text": "Luminous Range 15 NM, Geographical Range 18 NM"},
+  "tower": {"type": "Octagonal tower", "height_m": 49, "colour_scheme": "Red and White Chequered Bands"},
+  "optic": {
+    "make": "BBT", "model": null, "type": "Revolving", "size": "250 mm", "order": null,
+    "panels": 3,
+    "rotation_device": "Stepper motor",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving; Rotation Device: Stepper motor; R.P.M. 3 RPM",
+    "divergence_horizontal_deg": 5.7,
+    "divergence_vertical_deg": 5.7,
+    "divergence_text": "5.7° (Horizontal), 5.7° (Vertical)",
+    "illuminant": "230V/132W LED Illuminant"
+  },
+  "intensity_cd": 18000,
+  "racon": {"present": false, "code": null, "text": "Sr. No N/A"},
+  "ais": {"present": false, "text": "Base Station N/A"},
+  "dgps": {"present": false},
+  "power": {"mains": false, "solar": true, "generator": true, "text": "Mains N/A; off-grid solar 5 KWp (13 x 385 W/24 V panels); 2 x Kirloskar 20 KVA 3 phase DG sets"},
+  "issues": ["A.L.O.L. number blank"]
+}

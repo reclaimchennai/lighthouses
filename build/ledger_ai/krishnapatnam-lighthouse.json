@@ -1,0 +1,44 @@
+{
+  "slug": "krishnapatnam-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "name": "Krishnapatnam Lighthouse cum D.G.P.S. Station",
+  "station_type": "lighthouse",
+  "established_year": 1940,
+  "alol": "0952",
+  "position": {"lat_text": "14° 17' 8.44\" N", "lon_text": "80° 08' 16.44\" E", "lat": 14.285678, "lon": 80.1379},
+  "elevation_m": 35,
+  "characteristic_text": "Flash (3) White every 15 Sec. (FL0.48Sec. +ec2.02+Fl0.48 ec2.02 sec+ Fl0.48 +9.52sec)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "FL0.48Sec. +ec2.02+Fl0.48 ec2.02 sec+ Fl0.48 +9.52sec",
+    "sequence_s": [0.48, 2.02, 0.48, 2.02, 0.48, 9.52],
+    "flash_duration_s": 0.48
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": 16, "text": "Luminous 18 NM, Geographical 16 NM"},
+  "tower": {"type": "Hexagonal RCC Tower", "height_m": 30, "colour_scheme": "Black & White bands"},
+  "optic": {
+    "make": "Stone Chance, India", "model": null, "type": "Revolving", "size": "300 mm (4th order large) Revolving", "order": "4th order large",
+    "panels": 6,
+    "rotation_device": "Twin stepper motor Direct drive system; Stepper motor: 2 no 20KG-cm (Unique make); Controller: 2 no",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "300 mm (4th order large) Revolving; Twin stepper motor direct drive; Rotation Speed 2 RPM",
+    "divergence_horizontal_deg": 5.733333,
+    "divergence_vertical_deg": 2.866667,
+    "divergence_text": "Horizontal 5° 44', Vertical 2° 52'",
+    "illuminant": "150W MH Lamp - 3 nos. (cluster)"
+  },
+  "intensity_cd": 939500,
+  "racon": {"present": true, "code": "C", "text": "RACON (under replacement): Pharas Marine Automatic Power, X-band; S.No. 20180762SJP; Morse Code C; commissioned 30-10-2018"},
+  "ais": {"present": true, "text": "M/s SAAB; AIS R40 Base Station Sl.No.5258 and Sl.No 5284; commissioned 29/10/2013"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APSPDCL mains 440 V 3 phase; 3KW off-grid solar for main light; 15KW on-grid solar at DGPS; 3 Kirloskar diesel generators"},
+  "issues": [
+    "Position printed in degrees-minutes-seconds with mixed quote marks (80° 08'16.44' E)",
+    "established_year 1940 is year of first light; present LH commissioned 19-11-2012"
+  ]
+}

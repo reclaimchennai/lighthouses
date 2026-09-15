@@ -1,0 +1,45 @@
+{
+  "slug": "valiyakara-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Valiyakara Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1983,
+  "alol": "F-0755.6",
+  "position": {"lat_text": "10° 08.7\" N", "lon_text": "72° 19.7\" E", "lat": 10.145, "lon": 72.328333},
+  "elevation_m": 16,
+  "characteristic_text": "Fl (1) White 15 Sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 12.96, "geographical_nm": 11.3, "text": "Luminous 12.96 Nm, Geographical 11.3 Nm"},
+  "tower": {"type": "Galvanized M S trestle tower", "height_m": 15, "colour_scheme": "White Band"},
+  "optic": {
+    "make": "MsM, Spain", "model": "MBL-160", "type": "LED Flasher", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Optic MBL-160, Type: LED Flasher",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "High-intensity power LED 6W"
+  },
+  "intensity_cd": null,
+  "racon": {"present": false, "code": null, "text": "RACON: NIL"},
+  "ais": {"present": false, "text": "NAIS: NIL"},
+  "dgps": {"present": null},
+  "power": {"mains": false, "solar": true, "generator": false, "text": "Mains NIL; emergency power source NIL; Engine NIL; Solar Plant NIL but solar panels for main light (70 W/12V x1) and automation panel (250W/24V x2)"},
+  "issues": [
+    "Position minutes printed with a double-prime (\") sign; treated as decimal minutes",
+    "Effective beam intensity field reads only 'Candelas' with no value",
+    "Source of energy says 'Solar Plant: NIL' yet lists solar panels"
+  ]
+}

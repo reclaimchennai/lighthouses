@@ -1,0 +1,141 @@
+                            मास्टर लेजर/MASER LEDGER
+क्रमसं                 नाम /Name
+ ख्या/                                                                       वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.                   0693
+   2     स्थान/Position                       Lat.10° 33.10’ N , long 76° 01.13’ E
+   3     ऊंचाई/Elevation                      33.28M (Above MSL)
+   4     अविलक्षण/Characteristic              Fl (2) W 20 sec (fl0.46+2.2+0.46+16.88sec)
+
+  5      नॉविकल माइल मे दू री                 19NM
+         Range in miles
+  6      दीपस्तं ि िािर/L.H.Tower             Type                               Circular tower on RCC Base
+                                              Height                             33.28M
+                                              Colour Scheme                      Red and White Band
+  7      ऑविकल उपकरण                          Optic
+         Optical equipment                    Make                               M/s AGA
+                                              Type                               AGA Revolving Beacon
+                                              Size                               250mm
+                                              No. of lens                        2
+                                              Area of dioptric portion
+                                              Area of catadioptric portion
+                                              Divergence                         07°38’24” (Horizontal)
+                                              Main/Emergency
+                                                                                 11°27’14” (Vertical)
+
+
+                                              Duration of Flash                  20 Sec
+                                              Main /Standby/Emergency
+                                              Pedestal                           Ball bearing
+                                              Rotation Device                    Dual Stepper motor (20kg/cm2)
+                                              R.P.M.                             3/2
+                                              Illumining                         Metal Halide lamp
+                                              Main                               Cluster of 3 Nos. 150V/230V
+                                              Standby
+                                              Emergency:
+                                              Date of Installation               03-04-2006
+  8      प्रिािी बीम तीव्रता/Effective beam   Main                               74000 candelas
+         intensity                            Emergency
+  9      लें िनन /Lantern                     Diameter                           2.4m
+                                              Height of glazing                  1.38 m
+                                              No. of panes                       12
+                                              Ventilators                        06
+ 10      RACON                                     Sr. No
+         Make                    Model        Code                               Band                 Date of Installation
+
+ 11      NAIS - NA
+ 12                              Mains                                           KSEB
+          ऊर्ान के साधन/           Power Source                                        Kirlosker Green 7.5 KVA
+          Source of energy         Engine 1
+                                   Make/Type                   Qty       Rating        No of            RPM                  Cooling
+                                                                                       Cylinder
+                                   Kirlosker Green             1         16 HP         2                1500                 Air
+                                   Alternator
+                                   Make/Type                   Qty       Rating        Voltage/Amp      Frequency            Phase
+                                    Kirlosker                  1         7.5 KVA          230V          50Hz                 Single
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र
+          Automatic Voltage Stabilizers
+
+          Make                  Model                Capacit   Input                   Output                Phase           Qty
+                                                     y
+          A E Ltd. Bombey       N/A                  5 KVA     150-250V                230                   1               1
+14        Battery
+                                                                                  Amarone
+          1       Main Lamp-1                        1 No      Tabular                            12V                        150AH
+                                                                                  Quanta
+                                                                                  Amarone
+          2       Main Lamp-2                        1 No      Tabular                            12V                        150AH
+                                                                                  Quanta
+                                                                                  Amarone
+          3       Main Lamp-3                        1 No      Tabular                            12V                        150AH
+                                                                                  Quanta
+                                                                                  Amarone
+          4       Stepper Motor                      1 No      Tabular                            12V                        150AH
+                                                                                  Quanta
+          5      DG-7.5KVA                           1 No      Tabular            TATA GREEN      12V                        95AH
+     15   बैिरर चार्न र/ Battery charger
+
+          Equipment               Make              Model     Type                     Rating Qty
+          General Purpose         APLAB                                                                      01
+     16   इं वर्ट र/ Inverter /UPS
+          Equipment No Make                  Model                       Type          Rating        Qty         input             Output
+                           s
+          Main              --- Su-Kam                  ---               Sinwave                       01        170-230V          230V
+                                                                                        900VA
+          Light-1
+          Main             ---    Su-Kam                ---               Sinwave                       01       170-230V           230V
+                                                                                       900VA
+          Light-2
+          Main             ---    Su-Kam                ---               Sinwave                       01       170-230V           230V
+                                                                                       900VA
+          Light-3
+          Stepper          ---    Su-Kam                ---               Sinwave                       01       170-230V           230V
+                                                                                       900VA
+          Motor
+17        स्वचलन उपकरण
+          Automation Equipment
+          MAKE          PLC       HMI                Power Supply        VSAT          Modem         Band
+          NELCO Allen             Renu Electronics 24 V DC               1.2m dia      Hughes        EX.C
+                        Bradley Pvt. Ltd.                                Parabolic     HN7000
+                        Micro                                            Reflector     S
+                        Logix
+                        1400
+     18   आवि शमन उपकरण                     Type of Extinguisher            Capacity           Nos                Make
+          Fire Fighting Equipment           DCP Type                        6 kg               3
+                                            Foam                            9 Ltr              2
+                                            Dry Powder                      9 Ltr              3
+19   संचार                           0487-2532232 (BSNL)
+     Communication
+20   र्लपूवतन                        KWA
+     Water Supply
+21   िू वम                           Area –0.3606 Hectare
+     Land                            Masonry Compund Wal
+22   इमारतें                         RCC Structure: 07 Nos
+     Buildings
+23   कंपाउं ड लाइि                   LED Light fitted on G.I Pole-
+     Compound Lights                 07 Nos
+
+24   सीसीिीिी कमे रा                 N/A                             CP Plus -04 Nos
+      CCTV CAMERA                    N/A                             01 Nos
+25   स्टाफ                           Sl. No                          Designations
+     Staff
+                                     1                            Shri N Babu NA-II
+                                     2                            Shri Aditya Sharma NA-II
+                                     3                            Shri R Vijayan LHA
+26   पहुँ च ने का माध्यम             By rail up to Guruvayoor&
+     Mode of approach                 by road 8 Km by Bus
+                                      5 Km from Chavakkad
+27   उपलब्ध सुविधाए                  Police station, Post Office,
+     Facilities available             Hospital and High School,
+                                      all are within 5 Km from
+                                     Lighthouse.
+28   डाक पताPostal address           The Head Light Keeper,
+                                     Chetwai Lighthouse,
+                                     P.O.- Madu, Ormanayur(via),
+                                     Dist. Trichur, Kerala.
+                                     Pin- 680512
+29   मू ल्य का ब्योराCost details    N/A
+     (At the time of Construction)
+30   प्रितनन मे लाने का दे नां क     29.09.1986
+     Date of commissioning
+

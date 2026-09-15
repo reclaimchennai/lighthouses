@@ -1,0 +1,50 @@
+{
+  "nid": 2120,
+  "title": "Procurement and installation of Navtex Transmitting station, T Antenna at Vakalpudi Lighthouse under Visakhapatnam Directorate",
+  "summary": "Notice inviting sealed quotations for supplying T-antenna materials (copper cadmium wire, steel rope, shackles, clamps, insulators) for the NAVTEX transmitting station at Vakalapudi Lighthouse, Kakinada, Andhra Pradesh.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "3952-MT-VSP-03003/1/2020-M",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Vakalapudi Lighthouse Station, Tammavaram (Post), Kakinada, East Godavari (Dist), Andhra Pradesh, Pin-533005", "station_id": "vakalapudi-lighthouse", "kind": "NAVTEX", "work": "Supply and installation of NAVTEX transmitting station T antenna materials"}
+  ],
+  "scope": [
+    {"item": "Vertical Element (three lines) and 3 Horizontal Elements of 7 leads 16 Gauge Copper Cadmium wire along with spacers", "qty": "250", "unit": "Mtrs", "site": "Vakalapudi Lighthouse"},
+    {"item": "Winch Machine Steel Rope of 12 mm dia (Multiple)", "qty": "40", "unit": "Mtrs", "site": "Vakalapudi Lighthouse"},
+    {"item": "D Shackles (Heavy duty)", "qty": "30", "unit": "Nos", "site": "Vakalapudi Lighthouse"},
+    {"item": "D Shackles (Bulldog Clamps for wire rope & Copper wire)", "qty": "54", "unit": "Nos", "site": "Vakalapudi Lighthouse"},
+    {"item": "Thimbles (for wire rope & Copper wire)", "qty": "20", "unit": "Nos", "site": "Vakalapudi Lighthouse"},
+    {"item": "Ceramic Insulators (Two Holes, 9 Rings, White, 10\" Long)", "qty": "14", "unit": "Nos", "site": "Vakalapudi Lighthouse"},
+    {"item": "GI \"L\" Angle Size: 25mm x 3mm with U type Hook SS", "qty": "1", "unit": "Nos", "site": "Vakalapudi Lighthouse"},
+    {"item": "Teflone dome type Insulator", "qty": "1", "unit": "Nos", "site": "Vakalapudi Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 416162.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Rates to include GST, transportation up to Vakalpudi Lighthouse, loading/unloading, labour and all other charges. 100% payment after supply of all items in good condition. GST and IT deductions as per rules. No EMD mentioned."
+  },
+  "period": {"completion": "Supply within 05 (five) days from issue of work order; no extension of time", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-11-12", "pre_bid": null, "bid_submission_end": "2025-11-17", "bid_opening": "2025-11-17"},
+  "eligibility": [
+    "Bids to be submitted with copies of GST, firm registration, MSME, PAN, cancelled cheque/mandate form and acceptance of terms and conditions"
+  ],
+  "specs": [
+    "7-lead 16 gauge copper cadmium antenna wire, 3 vertical lines and 3 horizontal elements with spacers",
+    "12 mm dia winch steel rope",
+    "Ceramic insulators two-hole, 9 rings, white, 10 inch long; Teflon dome type insulator",
+    "GI L angle 25 mm x 3 mm with SS U-type hook"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT (4) (1).pdf", "pages": 3, "read": "mixed", "language": "en", "unreadable": ["OCR text layer partly garbled (Hindi header, some quantities); pages rendered and read by vision"]}
+  ],
+  "confidence": "high",
+  "notes": "Titled 'e-निविदा आमंत्रण / Notice Inviting Quotation' but calls for sealed bids at Deep Bhavan, Visakhapatnam; document downloadable from CPP e-publish portal. Sealed bids due 17.11.2025 15:30, opened 17.11.2025 16:00. Quantities may vary per site conditions. Terms name an AEE(E) as officer in-charge with a mobile number: [personal contact removed]. Listing end date 2025-11-14 differs from printed submission date 17.11.2025."
+}

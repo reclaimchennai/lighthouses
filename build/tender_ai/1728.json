@@ -1,0 +1,38 @@
+{
+  "nid": 1728,
+  "title": "Development of Optical Research Laboratory with state of art and modern facilities for testing, development and training on AtoN at Marine Navigation Training Institute, Kolkata",
+  "summary": "Two-cover e-tender to develop an optical research laboratory for testing, development and training on aids to navigation at the Marine Navigation Training Institute, Kolkata.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MNTI/1/2022-MNTI",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Marine Navigation Training Institute, Kolkata", "station_id": null, "kind": "office", "work": "Development of optical research laboratory for AtoN testing, development and training"}
+  ],
+  "scope": [
+    {"item": "Development of Optical Research Laboratory with state of art and modern facilities for testing, development and training on AtoN", "qty": null, "unit": null, "site": "Marine Navigation Training Institute, Kolkata"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2192700.0,
+    "emd_inr": 43900.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR of nationalized commercial bank in favour of Director, Directorate of Lighthouses and Lightships, Kolkata, or valid MSME/NSIC certificate (registration in subject work); original EMD or hard copy of certificate to reach office by 19.09.2024. Tender fee not applicable."
+  },
+  "period": {"completion": "60 days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2024-08-23", "pre_bid": "2024-09-05", "bid_submission_end": "2024-09-19", "bid_opening": "2024-09-20"},
+  "eligibility": [
+    "Reputed firms with experience in similar works: supply and installation of optical test/measuring equipment and related equipment to Central Govt/State Govt/PSU/autonomous bodies/reputed private establishments"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_3.pdf", "pages": 3, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT (Section 1) only, dated 23.08.2024; no equipment list, BOQ or detailed eligibility. Bid submission 23.08.2024 to 19.09.2024 15:00; pre-bid 05.09.2024 15:00; technical opening 20.09.2024 16:00. Portal inferred from reference to CPP portal uploads in note (iii)."
+}

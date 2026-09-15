@@ -1,0 +1,36 @@
+{
+  "nid": 699,
+  "title": "Supply, Installation, Testing and Commissioning of Inverter for Solar Power Plant at North point Light House Port Blair.",
+  "summary": "E-tender for supplying, installing, testing and commissioning an inverter for the solar power plant at North Point Lighthouse, Port Blair.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "EM-PB-05/1/2022-M",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Port Blair"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "North Point Light House, Port Blair", "station_id": "north-point-lighthouse", "kind": "lighthouse", "work": "Supply, installation, testing and commissioning of inverter for solar power plant"}
+  ],
+  "scope": [
+    {"item": "Supply, Installation, Testing and Commissioning of Inverter for Solar Power Plant", "qty": null, "unit": null, "site": "North Point Light House"}
+  ],
+  "money": {
+    "estimated_cost_inr": 616000.0,
+    "emd_inr": 12320.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR of any scheduled nationalized bank in favour of Director of Lighthouses and Lightships, Port Blair, valid 6 months from technical bid opening; original by 15.12.2022 15:00. NSIC/MSME registered bidders considered for exemption from EMD/tender fee/past experience/turnover as per Govt. norms."
+  },
+  "period": {"completion": "Period of contract initially 01 year, extendable by 02 years on yearly basis subject to satisfactory performance", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2022-11-26", "pre_bid": "2022-12-12", "bid_submission_end": "2022-12-15", "bid_opening": "2022-12-16"},
+  "eligibility": ["Reputed contractors having experience and expertise; initial eligibility criteria as per Section 3 (not included in this document)"],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "8a87c41d-ec89-427c-b3b8-2237725ddc55.pdf", "pages": 4, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only (Hindi pages 2-3, English pages 4-5); no specification of inverter rating. Estimated cost blank in text layer, read from rendered page; Hindi version prints 'Rs 6,16,000/- lakh'. 'Period of contract' of 1+2 years is unusual for a supply-and-install work. Bid download/submission 26.11.2022 20:30 to 15.12.2022 15:00. Listing bid_opening 2022-11-26 is the publication date; listing directorate given as DGLL."
+}

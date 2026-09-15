@@ -1,0 +1,76 @@
+                             मास्टर ले जर/MASTER LEDGER
+क्र सं/        नाम /Name
+Sr.No                                                           वििरण/Description
+   1      ए.एल.ओ.एल/A.L.O.L.      F 0752
+   2      स्थान/Position          Lat.11° 29.79’ N , long 72° 59.95’ E
+   3      ऊंचाई/Elevation         13 M (Above MSL)
+   4      अविलक्षण/Characteris    Fl (2) W 15 sec
+          tic
+    5     नॉविकल माइलमेदूरी       11.3NM
+          Range in miles
+    6     दीपस्तंि                Type                          Square RCC Block tower
+          िािर/L.H.Tower          Height                        13M
+                                  Colour Scheme                 White
+    7     ऑविकल उपकरण             Optic
+          Optical equipment       Make                          Mediterraneo Senales Maritimas
+                                  Model                         MBL -160
+                                  SL No.                        402
+                                  Type                          Electronic Flashing Unit
+                                  Duration of Flash             0.53 Sec
+                                  Illuminant                    High Intensity LED each 6 W in 3 level x 9
+                                                                LED each
+                                  Other details                 LED marine flashing lantern equipped with 3
+                                                                OCL, 9 LED arranged in circular array.Lantern
+                                                                unit have inbuild light sensor and charge
+                                                                controller.
+                                  Lamp Unit Dia                 48.00CM
+                                  Height of glazing area        18 CM
+                                  Input Voltage                 12VDC
+                                  Standby                       NIL
+    8     ऊर्ाा के साधन/          Mains                                  230V,AC,50Hz power supply
+          Source of energy        Emergency Source                       NIL
+                                  Solar Plant for Light Beacon
+                                    PV Capacity       Numbers         Make            Type         Battery
+
+                                  105W/12V             01 No.       Luminous    Polycrystalline   12V/150AH
+
+
+
+
+9         बैिरर/Batteries
+              Equipment         Type         Make           Volt             Amp/Hr               Qty
+             Light Beacon       SMF          Exide          12V              150A H                2
+             Automation       Lead acid      Exide          12V              150 AH                2
+10   बैिरर चार्ार/ Battery charger
+
+     Equipment  Make Model        Type                 Rating       Qty            Remarks
+     Automation NHP    ---     Automatic              24V,20 A      01
+11   स्वचलन उपकरण/Automation Equipment
+     Make                  PLC       HMI               Power       VSAT            Modem Band
+                                                       Supply
+     M/s.Recktronics       Allen     Renu              24 V DC     1.8m dia       Hughes EX.C
+     Devices&              Bradley   Electronic Pvt                Parabolic
+     Systems,Pune                    Ltd                           Reflector(u/s
+                                                                   )
+12   आविशमन उपकरण/                   Type of Extinguisher          Capacity     Nos Make
+     Fire Fighting Equipment         DCP Type                      2 kg         1    Flameblitz
+13   संचार/                          NIL
+     Communication
+14   िूवम/                           Area                             130 sq.m
+     Land                            Demarcation                      Masonry compound wall
+
+15   इमारतें /                       RCC Structure: 01 Nos            Tower
+     Buildings
+16   पहुँ चने का माध्यम/             By Ship from Kochi to Kiltan Island.From Kiltan Island main
+     Mode of approach                jetty to Lighthouse station by road and approximate distance
+                                     is 2 KM
+17   डाकपता/Postal address           Head Light Keeper
+                                     Kiltan Lighthouse
+                                     Kiltan PO
+                                     UT of Lakshadweep
+                                     PIN:682558
+18   मूल्यकाब्योरा/Cost details      N/A
+     (At the time of Construction)
+19   प्रितानमेलाने का दे नां क       04.04.2011
+     Date of commissioning
+

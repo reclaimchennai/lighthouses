@@ -1,0 +1,64 @@
+{
+  "nid": 1669,
+  "title": "Construction of Compound wall at Rajapur Bay Lighthouse Station",
+  "summary": "E-tender (percentage rate) to build a stone masonry compound wall with observation platforms, internal pathways and paver blocks at Rajapur Bay Lighthouse, Madban, Ratnagiri district, Maharashtra, issued by the Directorate of Lighthouses and Lightships, Mumbai.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-MUM-03019(03)/1/2021-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Rajapur Bay Lighthouse, At post Madban, Tal. Rajapur, Dist. Ratnagiri 416702", "station_id": "rajapur-bay-lighthouse", "kind": "lighthouse", "work": "Construction of compound wall with three laterite masonry observation platforms and internal pathways"}
+  ],
+  "scope": [
+    {"item": "Excavation in hard rock (blasting prohibited) in foundation trenches, lift up to 1.5 m, disposal within 50 m (Rs 1,523.05/cum; Rs 6,76,919.57)", "qty": "444.450", "unit": "cum", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Centering and shuttering for foundations, footings, bases etc. (Rs 392.15/sqm; Rs 2,49,407.40)", "qty": "636.000", "unit": "sqm", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Cement concrete 1:4:8 (40 mm aggregate) in foundation and plinth (Rs 6,812.00/cum; Rs 5,39,169.80)", "qty": "79.150", "unit": "cum", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Random rubble masonry with hard stone in foundation and plinth in CM 1:6, levelling with CC 1:6:12 (Rs 7,311.25/cum; Rs 6,58,012.50)", "qty": "90.000", "unit": "cum", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Filling excavated earth/morrum in trenches, plinth, sides of foundations in 20 cm layers (Rs 196.00/cum; Rs 58,270.80)", "qty": "297.300", "unit": "cum", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Damp-proof course 50 mm thick CC 1:2:4 (Rs 495.75/sqm; Rs 4,848.44)", "qty": "9.780", "unit": "sqm", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Coursed rubble masonry with hard stone (first sort) in superstructure in CM 1:6 (Rs 10,741.60/cum; Rs 26,63,916.80)", "qty": "248.000", "unit": "cum", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Cement concrete 1:2:4 in coping including centering, shuttering and finishing (Rs 9,895.20/cum; Rs 3,36,436.80)", "qty": "34.000", "unit": "cum", "site": "Rajapur Bay Lighthouse"},
+    {"item": "18 mm cement plaster in two coats (12 mm 1:5 + 6 mm 1:3), rough finish (Rs 537.45/sqm; Rs 14,65,916.37)", "qty": "2727.540", "unit": "sqm", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Premium acrylic smooth exterior paint with silicone additives (Asian/Snowcem/Berger), two or more coats over primer (Rs 245.05/sqm; Rs 6,68,383.68)", "qty": "2727.540", "unit": "sqm", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Reinforced cement concrete 1:1.5:3 in kerbs, steps and the like, excluding centering and reinforcement (Rs 8,821.65/cum; Rs 6,71,768.65)", "qty": "76.150", "unit": "cum", "site": "Rajapur Bay Lighthouse"},
+    {"item": "60 mm factory-made M-30 CC interlocking paver blocks over 50 mm sand bed (Rs 972.00/sqm; Rs 11,97,261.00)", "qty": "1231.750", "unit": "sqm", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Synthetic enamel painting two or more coats on kerb stone, flag mast and CC chairs over cement primer (Rs 226.25/sqm; Rs 2,16,860.63)", "qty": "958.500", "unit": "sqm", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Priming coat with low-VOC primer (red oxide zinc chromate on steel/iron) (Rs 73.95/sqm; Rs 70,881.08)", "qty": "958.500", "unit": "sqm", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Providing, supplying and storing potable water by tanker for work and drinking (Rs 2,84,341.67)", "qty": "1.000", "unit": "No", "site": "Rajapur Bay Lighthouse"},
+    {"item": "Additional transportation cost of material due to remote site about 65 km from Ratnagiri/Rajapur, incomplete road and Jaitapur Nuclear Power Plant security requirements (Rs 9,76,239.51)", "qty": "1.000", "unit": "No", "site": "Rajapur Bay Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 10738635.0,
+    "emd_inr": 214800.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "Performance guarantee 5% of contract value (FDR/BG) released on satisfactory completion, plus security deposit 5% deducted from each RA bill released after 6 months defect liability period",
+    "notes": "Estimated cost inclusive of GST; BOQ total Rs 1,07,38,634.70. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid three months; MSME firms must also pay EMD. Percentage rate tender; quantities may vary +/-15%. LD 1.5% per month, max 10% of estimated cost."
+  },
+  "period": {"completion": "09 months from date of issue of work order", "bid_validity": "180 days from date of opening of technical bid", "warranty": "6 months maintenance / defect liability period"},
+  "dates": {"published": "2024-07-04", "pre_bid": "2024-07-16", "bid_submission_end": "2024-07-29", "bid_opening": "2024-07-30"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with tender limit equal to or above the estimated cost, registered with Central/State Govt/Municipal Corporation",
+    "Similar works (residential or commercial building or compound wall construction) in last 7 years: three works each >= Rs 42.95 lakh (40%), or two each >= Rs 64.43 lakh (60%), or one >= Rs 85.90 lakh (80%); sub-contractor experience not considered",
+    "Average annual turnover at least 30% of estimated cost (Rs 32,51,600) over last 3 financial years ending 31.03.2023, CA certified",
+    "PAN, GST registration, ITR for FY 2020-21 to 2022-23",
+    "Tender acceptance letter, no-relatives declaration, unconditional bid undertaking, notarised non-blacklisting affidavit on Rs 100 stamp paper, site visit declaration",
+    "Technical evaluation minimum 60% (financial 20, experience 30, performance, pre-bid attendance 10, site visit report 10, bar chart 5, personnel 10, tools and machinery 5)"
+  ],
+  "specs": [
+    "Compound wall in coursed rubble hard stone masonry on random rubble foundation, CC 1:2:4 coping, plaster and acrylic exterior paint",
+    "Three laterite stone masonry observation decks (A, B, C) about 3.0 x 2.0 m, 1.8 m high, soil-filled with 230 mm soling and 100 mm PCC 1:3:6, 600 mm laterite parapet on sea side, 9-10 steps",
+    "Internal roads/pathways connecting the three observation points; interlocking paver blocks M-30, 60 mm",
+    "OPC 53 grade / sulphate resisting cement from manufacturers of 1 million t/yr capacity; sand to IS 2686; bricks to IS 1077; CPWD specifications",
+    "Drawings Mum/412/2023, Mum/413/2023 (13.12.2023) and Mum/415/2023 (11.12.2023) layout plan"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "nit (1).pdf", "pages": 63, "read": "mixed", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled; English portions read", "Pages 58 and 63 are blank (printed page numbers 57 and 62); pages 55-57 drawings read visually"]}
+  ],
+  "confidence": "high",
+  "notes": "Full tender document: NIT, instructions, detailed notice, GCC (boilerplate), SCC, civil specifications, reference percentage BoQ, technical evaluation, annexures, drawings and registers. English NIT dated July 04, 2024, Hindi NIT dated 07 July 2024. Download/bid submission 09.07.2024 16:00 to 29.07.2024 17:00; pre-bid at site 16.07.2024 11:00; opening 30.07.2024 16:00. Layout plan colour notes: existing wall magenta, new wall red, pathways green. Index says BoQ uploaded separately but a reference BoQ is included. Two-works threshold 60%."
+}

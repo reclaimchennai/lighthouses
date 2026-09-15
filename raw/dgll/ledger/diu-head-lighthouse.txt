@@ -1,0 +1,179 @@
+                        मास्टर लेजर/MASTER LEDGER
+                                    दीपस्तं भ / DIU-HEAD Lighthouse
+क्रमसंख्या/             नाम /Name
+                                                                        वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.              F 0414
+     2        स्थान/Position                  Lat : 20° 41.5’N        Long : 70° 49.7’E
+    3         ऊंचाई/Elevation                 58 M (Above MSL)
+    4         अभिलक्षण/Characteristic         Fl W 10 sec. 0.3+9.7=10 Sec.
+    5         नॉटिकल माइल मे दरू ी            30 NM
+              Range in miles
+    6         दीपस्तंि िािर/L.H.Tower         Type                           Hexagonal stone masonry tower.
+                                              Height                         37M
+                                              Colour Scheme                  Red and white bands S.E. Paint.
+    7         ऑप्टिकलउपकरण                    Optic
+              Optical equipment               Make                           B.B.T. France
+                                              Type
+                                              Size                           700 mm(2nd order large)revolving type
+                                              No. of lens
+                                              Area of dioptric portion       6320 sq. cm (Corrected area 4392cm²)
+                                              Area of catadioptric portion   17080 sq.cm.(Corrected
+                                                                             area14176cm²)
+                                              Divergence                     3º15' (Horizontal)
+                                              Main/Emergency                 1º5' (Vertical)
+                                              Duration of Flash              0.3 Sec
+                                              Main /Standby/Emergency
+                                              Pedestal                       Mercury float (143 kg. in use )
+                                              Rotation Device                (i) Electrically operated stepper
+                                                                             motor for direct drive system.
+                                                                             (ii) The clock work machine with an
+                                                                             electric rewinding motor for stand
+                                                                             by.
+                                              R.P.M.                         1.5
+                                              Illumining                     150 W / 230 V MH lamp Cluster –
+                                                                             03 nos.
+                                              Main
+                                              Standby
+                                              Emergency:
+                                              Date of Installation           07/09/2010
+    8         प्रिािी बीम तीव्रता/Effective   Main                           1,02,24000 Candela
+              beam intensity                  Emergency
+9    लेंिनन/Lantern                     Diameter                      3.5m
+                                        Height of glazing             2.7m
+                                        No. of panes                  36(in 3 tiers)
+                                        Ventilators                   11
+10   RACON                                   Sr. No 6183
+     Make             Model             Code                          Power Supply                 Date of
+                                                                                                   Installation
+     Tide land,               ---       ‘D’                           12V/100AH Okaya              26/02/2006
+     Sea Beacon                                                       battery
+     system 6
+
+11   NAIS –NA
+     Base Station                       R-40 02 Nos
+
+     Model                Type          Power                         MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna         Band          Modem
+
+12   ऊर्ान के             Mains                                       440V/3-phase/50 Hz
+                          Power Source                                DG Set 15 KVA make Kirloskar Nos-2
+     साधन/Source of       Engine 1
+     energy               Make/Type                Qty      Rating    No of Cylinder   RPM            Cooling
+                          Kirloskar                2        20.5 HP   2                1500           Air
+                          Alternator
+                          Make/Type                Qty      Rating    Voltage/Amp      Frequency      Phase
+                          Koel Green               2        15 KVA    230V/65.2A       50Hz           Single
+                          Solar Plant
+                          Capacity PV              Numbers            Type             Battery        Bank
+                          2.5 KWP                  36 Nos             Mono             3 Nos          01 No.
+                                                                      Crystalline      24V/900AH
+13   स्िचाभलत िोल्िे र् स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make               Model           Capa       Input              Output                  Phase   Qty
+                --          --             --               --                  --              --           --
+14   बैिरर
+     Batteries
+     Equipment          Type            Make       Volt               Amp/Hr           Qty            Date of
+                                                                                                      Inst.
+     DG Set -1                          Amaron             12V            90AH                1       18.08.20
+                                                                                                      20
+     DG Set -2                          Exide              12V        150AH                   1       24.02.20
+                                                                                                      20
+     Racon                              Okaya              12V        100AH                   1       18.02.20
+                                                                                                      21
+     2KVA Inverter                       Exide                  24V        900AH              1       19.09.20
+     -1                                                                                               17
+     2KVA Inverter                       Exide                  24V        900AH              1       19.09.20
+     -2                                                                                               17
+     2KVA Inverter                       Exide                  24V        900AH              1       19.09.20
+     -3                                                                                               17
+15   बैिरर चार्नर/ Battery charger
+
+     Equipment           Make            Model           Type              Rating       Qty           Date of
+                                                                                                      Inst.
+     General Purpose           ARGO                                        0-30V / 10         01      23.09.19
+                                                                           Amp.                       90
+     Automation                               ---               ----
+16   इंवटट र Inverter /UPS
+     Equipme Nos Make                 Model                      Type      Rating       Qty input         outp
+     nt                                                                                                   ut
+     Main
+     Light
+     NAIS PSS
+
+17   स्वचलन उपकरण
+     Automation Equipment
+     MAKE       PLC               HMI               Power Supply        VSAT            Mode Band
+                                                                                        m
+
+18   आप्ननशमन उपकरण                      Type of Extinguisher           Capacity        Nos        Make
+     Fire Fighting Equipment             DCP Type                       4 kg            8
+                                         Water Co2                      -               -
+                                         Foam Type                      -               -
+19   संचार                               Not Available
+     Communication
+20   र्लपूर्तन                           Well provided in lighthouse compound. RCC overhead
+                                         hexagonal tank of size 1.5 m x 1.5 m deep of capacity 4500 lit
+     Water Supply
+                                         is provided with centrally situated tap.
+21   िूभम                                Area                                     5.39 hectares
+     Land                                Demarcation                                    Compound wall on all
+                                                                                        the four sides
+22   इमारतें                             RCC Structure: 07 Nos                          LH tower, Inspection
+                                                                                        Qtr, Power house, one
+     Buildings
+                                                                                        twin unit of ALK(ss)
+                                                                                        Qtr., one twin unit of
+                                                                                        ALK        (JS) Qtrs.,
+                                                                                        Navigation Assistant
+                                                                                        Qtr., one twin unit Of
+                                                                                        LHA quarters.
+                                     Timber Construction above plinth
+                                     level
+23   कंपाउं ड लाइि                   1) Street Light 10 nos.45W / 203
+                                     volts LED fixture, G I. Poles installed
+     Compound Lights
+                                     on 17/11/1996.
+                                     2) Solar Street Light 9W LED lamp
+                                     with 12V/40W Solar Module
+                                     installed on 26/12/2016
+24   सीसीिीिीकमेरा                   Camera
+      CCTV CAMERA                    DVR
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1             Navigational Assistant –I 01 No.
+
+                                     2             Navigational Assistant –II 01 No.
+
+                                     3             Lighthouse Attandan -01 No.
+
+26   पहुँचने का माध्यम               By Road upto Kodinar, then 21 km. by road upto Madhwad
+                                     village and then crossing the creek by boat. From creek 2km
+     Mode of approach
+                                     by walk upto Lighthouse.
+                                     OR
+                                     From Kodinar to Lighthouse by Road 21 km.via Velan and
+                                     Dam Path.
+
+27   उपलब्ध सविधाए                   Police Station ,Hospital and High School at Kodinar 22 km.
+                                     from Lighthouse, Post office at Velan village 4.5 km. from
+     Facilities available
+                                     Lighthouse
+
+28   डाकपताPostal address            The Lighthouse In-charge
+                                     Div-Head Lighthouse
+                                     Village- Madhwad
+                                     Post -Velan
+                                     Taluka- Kodinar
+                                     District - Gir-Somnath (Gujarat )
+                                     Pin Code -362720
+
+29   मल्ू य का ब्योराCost details    2,65,615/-
+     (At the time of Construction)
+30   प्रितनन मे लाने का टदनांक       01/02/1969
+     Date of commissioning
+

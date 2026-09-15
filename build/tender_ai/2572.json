@@ -1,0 +1,45 @@
+{
+  "nid": 2572,
+  "title": "Special repairs and maintenance of Kannur Lighthouse",
+  "summary": "Two-cover e-tender for special repairs and maintenance of Kannur Lighthouse, Kannur District, Kerala, under the Cochin Directorate.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-17002/1/2020-MS; I/106463/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kannur Lighthouse, Kannur District, Pin-670013", "station_id": "kannur-lighthouse", "kind": "lighthouse", "work": "Special repairs and maintenance"}
+  ],
+  "scope": [
+    {"item": "Special repairs and maintenance of Kannur Lighthouse", "qty": null, "unit": null, "site": "Kannur Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4862638.0,
+    "emd_inr": 97253.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents to be submitted physically by the due date. Bid Securing Declaration also listed among required documents."
+  },
+  "period": {"completion": "240 days", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2026-09-03", "pre_bid": "2026-09-10", "bid_submission_end": "2026-09-25", "bid_opening": "2026-09-28"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Government/PSU/autonomous bodies",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two >= 50%, or one >= 80%",
+    "Similar works: erection of trestle/lighthouse/communication tower or construction/maintenance of residential/institutional/office buildings, roads or related civil construction",
+    "PAN and GST registration",
+    "CA-certified annual turnover for last three years",
+    "Declaration that bid is unconditional; affidavit on Rs 100 stamp paper of not being blacklisted",
+    "Undertaking listing relatives serving as Gazetted/Accounts officers in MoPSW/DGLL",
+    "Copy of EPF/labour registration certificate; tender acceptance letter; bid securing declaration"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Kannur.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (NIT) only, printed pages 2-6; no BOQ or item-wise scope. Hindi text layer is font-garbled but English values are complete. Bid submission period 04.09.2026 (1800 hrs) to 25.09.2026 (1500 hrs); bid query last date 08.09.2026; last date of EMD 24.09.2026. Eligibility item 4 and 5 (turnover certificate) are duplicated in the notice."
+}

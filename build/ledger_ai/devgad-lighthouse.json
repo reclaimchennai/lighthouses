@@ -1,0 +1,44 @@
+{
+  "slug": "devgad-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Devgad Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1960,
+  "alol": "F 0590",
+  "position": {"lat_text": "16° 23.3' N", "lon_text": "73° 22.6' E", "lat": 16.388333, "lon": 73.376667},
+  "elevation_m": 29,
+  "characteristic_text": "Group Flash(4) white for every 30Sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 4,
+    "colours": ["W"],
+    "period_s": 30,
+    "sequence_text": "Duration of Flash 0.70 sec",
+    "sequence_s": null,
+    "flash_duration_s": 0.7
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 25, "geographical_nm": null, "text": "25 NM (single unlabelled range)"},
+  "tower": {"type": "Circular and Masonary", "height_m": 10.67, "colour_scheme": "White and Black bands"},
+  "optic": {
+    "make": "B.B.T. ( Except source changer system )", "model": null, "type": "Revolving", "size": "375mm", "order": "3rd Order Small Revolving Optic",
+    "panels": 4,
+    "rotation_device": "Dual stepper motor 40kgcm with autochange-over",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Optic 3rd Order Small Revolving Optic; Rotation Device dual stepper motor; R.P.M. 2",
+    "divergence_horizontal_deg": 8.36,
+    "divergence_vertical_deg": 6.08,
+    "divergence_text": "Horizontal - 8.36°, Vertical - 6.08°",
+    "illuminant": "3 × 150watt Metal Halide Lamp Cluster, 230V"
+  },
+  "intensity_cd": 90000,
+  "racon": {"present": false, "code": null, "text": "NA"},
+  "ais": {"present": true, "text": "NAIS Base Station: Model PSS, Type R-40, Power 25watt, MMSI 004192232; VSAT 1.8m, S band, Hughes HT2300"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains MSEDCL 3phase 440V 50Hz; standby Kirloskar genset 7.5kva single phase; Solar Plant NA but solar plant for main 200W x2 + 190W x1 with 12V 150AH batteries"},
+  "issues": [
+    "No. of lens 4 (each of 60°) with 4 lenses totalling 240°",
+    "Solar Plant row says NA while 'Solar Plant for Main' lists 200W x2 and 190W x1 panels"
+  ]
+}

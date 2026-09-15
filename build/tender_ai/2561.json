@@ -1,0 +1,36 @@
+{
+  "nid": 2561,
+  "title": "External Painting of Thangasseri point Lighthouse, Kollam district",
+  "summary": "Sealed quotation for external painting of the Thangasseri Point lighthouse tower in Kollam district, Kerala, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-06002/1/2019-MS; I/105700/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Thangasseri Point Lighthouse", "station_id": "thangasseripoint-lighthouse", "kind": "lighthouse", "work": "External painting of lighthouse tower"}
+  ],
+  "scope": [
+    {"item": "External painting of Thangasseri Point lighthouse tower as per schedule of items (Annexure-I, not included in this document)", "qty": null, "unit": null, "site": "Thangasseri Point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": null
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2026-08-21", "pre_bid": null, "bid_submission_end": "2026-09-01", "bid_opening": null},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ21082026.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "One-page NIQ only; schedule of items (Annexure-I) and terms not attached. Blank forms available 24.08.2026 to 31.08.2026 (10:00-16:00) from the Directorate at Kochi and the Station in Charge, Thangasseri Point Lighthouse; quotations due 01.09.2026 by 15:00. Hindi text calls the work painting of the Thangasseri Point tower. Listing end date 2026-08-31 corresponds to last date of issue of forms."
+}

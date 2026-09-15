@@ -1,0 +1,173 @@
+                       मास्टर लेजर/MASTER LEDGER
+
+                          भीडभंजन दीपस्तंभ / Bhidbhanjan Lighthouse
+क्रमसंख्या/             नाम /Name
+                                                                        वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.                 F 0412
+     2        स्थान/Position                     Lat : 20º 53.9’N        Long : 70º 23.0’E
+    3         ऊंचाई/Elevation                    9M
+    4         अभिलक्षण/Characteristic            Fl R 10 Sec. (0.5+9.5=10 Sec)
+    5         नॉटिकलमाइलमेदरू ी                  9 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower             Type                           White Square Masonry Tower ,
+                                                                                Red bands
+                                                 Height                         6M
+                                                 Colour Scheme                  Red and White band
+    7         ऑप्टिकलउपकरण                       Optic
+              Optical equipment                  Make                           ANA
+                                                 Type                           -
+                                                 Size
+                                                 No. of lens                    -
+                                                 Area of dioptric portion
+                                                 Area of catadioptric portion
+                                                 Divergence                     2º17.45’ (Vertical)
+                                                 Main/Emergency
+                                                 Duration of Flash              0.5 Sec
+                                                 Main /Standby/Emergency
+                                                 Pedestal                       M.S. Angle Iron
+                                                 Rotation Device                N/A
+                                                 R.P.M.                         N/A
+                                                 Illumining                     LED Light
+                                                 Main
+                                                 Standby                        -
+                                                 Emergency:                     -
+                                                 Date of Installation           18/08/2017
+    8         प्रिािीबीमतीव्रता/Effective beam   Main                           Flashing Light
+              intensity                          Emergency                      -
+    9         लेंिनन/Lantern                     Diameter                       -
+                                                 Height of glazing              -
+                                                 No. of panes                   -
+                                                 Ventilators                    -
+    10        RACON                                   Sr. No                    -
+     Make                Model                Code                       Band                       Date of
+                                                                                                    Installation
+
+11   NAIS –                  -
+     Base Station
+
+     Model               Type                 Power                      MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna        Band                 Modem
+
+     DGPS                -                    -                          -                          -
+     Transmitter Make    Frequency            Power Output RS 1 ID       RS -II      Beacon         Date of      D
+                                                                         ID          ID             commis       at
+                                                                                                                 e
+                                                                                                    sioning      of
+                                                                                                                 R
+                                                                                                                 e
+                                                                                                                 c
+                                                                                                                 a
+                                                                                                                 pi
+                                                                                                                 ta
+                                                                                                                 li
+                                                                                                                 z
+                                                                                                                 at
+                                                                                                                 io
+                                                                                                                 n
+     -                   -                    -                 -        -           -              -            -
+
+12   ऊर्ानकेसाधन/Sour    Mains                                           230 V
+     ce of energy        Power Source
+                         Engine 1
+                         Make/Type                    Qty       Rating   No of           RPM               Coolin
+                                                                         Cylinder                          g
+
+                         Alternator
+                         Make/Type                    Qty       Rating   Voltage/Amp     Frequency         Phase
+
+
+                         Solar Plant for LH
+                         Capacity PV                  Numbers            Type       Battery                Bank
+                         TATA BP, 12V / 70 W          02                            12 V , 200 AH
+                         Solar Plant for Automation
+                         70 W                         02                            12 V , 200 AH
+
+
+
+
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make               Model       Capa              Input              Output               Phase        Qty
+14        बैिरर
+          Batteries
+          Equipment              Type              Make    Volt          Amp/Hr            Qty
+          DG Set - 1
+          Racon
+          Main Light             SMF               Exide   12            200               1                      18/08/2
+                                                                                                                  017
+
+          Solar Street
+          Light
+          PSS NAIS                      -
+
+
+          Automation             SMF               Exide   12            200 AH            1                      27/06/2
+                                                                                                                  021
+          DGPS
+     15   बैिररचार्नर/ Battery charger
+
+          Equipment      Make                      Mode Type          Rating                   Qty
+                                                   l
+                         Delta                     -    -             0-30 Amp/10 Amp,                 1
+                                                                      Output-2360V
+                           APLAB DC Power -                  -          0-32 V / 20 Amp                1
+                               Supply
+     16   इंवटट रInverter /UPS
+          Equipmen Nos Make Model                                 Type            Rating       Qty input               ou
+          t                                                                                                            tp
+                                                                                                                       ut
+          Main           ---      ---                ---                ---         ---          ---        ---        ---
+          Light
+          NAIS PSS
+          DGPS
+
+     17   स्वचलनउपकरण
+          Automation Equipment
+          MAKE          PLC                 HMI        Power Supply       VSAT             Modem           Band
+          RDS           Allen bradely       Renu       230 V              Helical          Robustel
+          Pune                                                            Antenna
+     18   आप्ननशमनउपकरण                            Type of Extinguisher   Capacity             Nos         Make
+          Fire Fighting Equipment                  ABC Type               4 kg                 2
+                                                   Water Co2              -                    -
+                                                   Foam Type              -                    -
+     19   संचार                                    P & T Telephone No. 02876-244131
+     Communication
+20   र्लपर्ू तन                      Not Provided
+     Water Supply
+21   िूभम                            Area
+     Land                            Demarcation
+
+22   इमारतें                         LH tower
+     Buildings                       Timber Construction above plinth -
+                                     level
+23   कंपाउं डलाइि
+     Compound Lights
+24   सीसीिीिीकमेरा                   -
+      CCTV CAMERA                    -
+25   स्िाफ                           Sl. No         Designations
+     Staff                                          Automated on September 2003 and Monitored by
+                                                    Veraval RCS
+
+
+26   पहुँचनेकामाध्यम                 By Road to Bhid Bhanjan Lighthouse from Veraval
+                                     Lighthouse
+     Mode of approach
+27   उपलब्धसविधाए                    PGVCL 230 V Supply is available
+     Facilities available
+
+
+
+
+28   डाक पताPostal address           Directorate of lighthouses & lightships , Viraval Lighthouse &
+                                     RCS/MCS , P.O Veraval , Dist: GIR-SOMNATH
+                                     Veraval, Dist. Gir – Somnath, Pin- 362265
+29   मूल्यकाब्योराCost details          i)       Construction - Rs. 70, 000/-
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          1935
+     Date of commissioning
+

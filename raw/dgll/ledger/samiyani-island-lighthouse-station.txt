@@ -1,0 +1,54 @@
+                  मास्टर लेजर/ MASTER LEDGER
+क्रमसं                    नाम /Name
+ ख्या/                                                         वििरण/ Discription
+Sr.No
+     1.       ए.एल.ओ.एल/A.L.O.L.               F 0390
+     2.       स्थान/Position                   Lat. 22029 3”N, Long.690 05’2” E
+
+       3.      ऊंचाई/Elevation                 22M
+       4.   अविलक्षण/Characteristic            Flashing (W) every5 sec
+       5.   नॉविकल माइल मे दू री               Luminous : 11 NM
+            Range in miles                     Geographical : 09 NM
+       6.   दीपस्तंि िािर/L.H.Tower             Round stone masonry tower,Height: 20 M
+                                                Color scheme White
+                                               IALA E 200-1 Signal colour compliance
+  7.             ऑप्टिकल उपकरण                 White flash every5 sec. Make Sealite,
+            Optical Equipment:-                Australia
+                                               Model SL-155, 2.5D
+                     Visibility sector          W1600 (057-217) W 130 (247-260)
+                                                           R 300 (217-247) R 300(260-290)
+                                                           W 790 (290-009)
+  8.                 Energy Source                       : 12 V, 100 Ah Battery
+  9.                 Battery Charging system      Solar panel capacity: 120watt, Make: JJ
+                                                  PV SOLAR Controller, Make: Sukam
+                                                  Model: SC-12-24-48/45A
+              Land Area                                1.1 Sq.km
+ 10.
+ 11.          Building                          Stone masonry building with A.C sheet
+                                                roofing, One IQ, one LHA quarter & one
+                                               twin unit of LHA quarter.
+  12.       Mode of Approach                    By train/road up to Okha and then sea
+                                                Route from Okha port by hired
+                                                Mechanised boat.
+  13.   Automation Equipment (New)
+  14. ---Remote Transceiver Unit (RTU)
+ Type:
+        Control Panel                          Make : RDS Sr.No 3757
+
+              Light Sensor make                ABLE
+
+             Battery for automation            SMF battery, 12V/100AH – 2Nos.
+
+                                                      make VIKRAM SOLAR 335W– 2Nos
+            Solar panel                               Model- ELDORA
+15.                              C/o Station in-Charge
+      Address & Communication
+                                 Okha Lighthouse and VTS Station
+                                 Okha - 361 350. Dist. Devbhumi
+                                 Dwarka,Gujarat
+                                Email: okhalighthouse@gmail.com
+16.                             original: 1876
+      Date of commissioning     Present Lighthouse 1927
+17.                             1893, 1927, 1957, 1962, 1994, 2016
+       Subsequent Innovations
+

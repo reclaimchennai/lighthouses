@@ -1,0 +1,40 @@
+{
+  "nid": 1599,
+  "title": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP basis.",
+  "summary": "Corrigendum to a tender engaging an Independent Engineer for the PPP tourism development project at Mahabalipuram Lighthouse, adding TNIDB Panel no. 23 consultants to the eligibility.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(31)/1/2024-Civil Maintenance; Tender ID 2024_DGLL_806882_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhawan, 5/20 Jaffar Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mahabalipuram Lighthouse", "station_id": "mahabalipuram-lighthouse", "kind": "lighthouse", "work": "Independent Engineer for PPP tourism development project"}
+  ],
+  "scope": [
+    {"item": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP basis", "qty": null, "unit": null, "site": "Mahabalipuram Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": null
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": null, "bid_opening": null},
+  "eligibility": [
+    "As amended: bidder shall have undertaken eligible assignments with empaneled consultants of the Tamil Nadu Industrial Development Board under Panel no. 10 & Panel no. 23, with experience and expertise in engineering consultancy as Independent Engineer for PPP projects"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-05-31", "change": "Eligibility/pre-qualification: 'Panel no. 10' read as 'Panel no. 10 & Panel no. 23' of Tamil Nadu Industrial Development Board empaneled consultants"}
+  ],
+  "documents": [
+    {"file": "CorrigendumIE.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only the corrigendum is attached; no NIT, cost, EMD or dates. This corrigendum names the 'Tamil Nadu Industrial Development Board' whereas the later corrigendum (nid 1659, 04-07-2024) names 'Tamil Nadu Infrastructure Development Board' and removes the empanelment requirement altogether."
+}

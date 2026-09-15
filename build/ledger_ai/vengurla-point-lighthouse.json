@@ -1,0 +1,41 @@
+{
+  "slug": "vengurla-point-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Vengurla Point Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1968,
+  "alol": "F 0600",
+  "position": {"lat_text": "15*51.2' N", "lon_text": "73*37.0' E", "lat": 15.853333, "lon": 73.616667},
+  "elevation_m": 81,
+  "characteristic_text": "Flash red every 5sec.",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["R"],
+    "period_s": 5,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 24, "geographical_nm": null, "text": "24NM (unlabelled single range)"},
+  "tower": {"type": "Hexagonal Masonry", "height_m": 13, "colour_scheme": "Black & White Horizontal Band"},
+  "optic": {
+    "make": "BBT Paris", "model": null, "type": "Revolving", "size": "3rd Order 375mm", "order": "3rd order",
+    "panels": 3,
+    "rotation_device": "Stepper Motor+Controller",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Optic: Revolving 3rd order; Rotation Device: Stepper Motor+Controller; R.P.M. 3",
+    "divergence_horizontal_deg": 6,
+    "divergence_vertical_deg": 2,
+    "divergence_text": "Main/Standby - 2* vertical, Main/Standby - 6* Horizontal",
+    "illuminant": "3 x 150w Metal Halide Lamp Cluster; Emergency 50w 12VDC Halogen Lamp"
+  },
+  "intensity_cd": 528000,
+  "racon": {"present": false, "code": null, "text": "Sr. No 6295; make, model, code, band blank"},
+  "ais": {"present": true, "text": "NAIS R40 SAAB 230v, MMSI 4192233; VSAT 2.4m EX-C Datum M7LT"},
+  "dgps": {"present": false},
+  "power": {"mains": null, "solar": true, "generator": true, "text": "Mains and Standby rows blank; Eicher 20kva engines (2) and Kirloskar 7.5kva; 20kw on-grid solar (56 x 345wp)"},
+  "issues": ["Position and divergence use '*' in place of the degree sign", "3 lenses at 3 RPM gives a flash every 6.67 s, not every 5 s", "RACON section lists only Sr. No 6295 with all other fields blank (same serial appears in other ledgers)", "Also hosts a Danphone NAVTEX transmitter (518/490 kHz, ID 'J', 2015)"]
+}

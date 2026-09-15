@@ -1,0 +1,45 @@
+{
+  "slug": "dariapur-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Dariapur Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F 1029",
+  "position": {"lat_text": "21° 47' 24\" N", "lon_text": "87° 51' 54\" E", "lat": 21.79, "lon": 87.865},
+  "elevation_m": 22,
+  "characteristic_text": "Flash 2 (W) 20 Sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.25
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 19, "geographical_nm": 15.5, "text": "Luminous 19 NM, Geographical 15.5 NM"},
+  "tower": {"type": "Circular Masonry Tower", "height_m": 26, "colour_scheme": "Black & White Bands"},
+  "optic": {
+    "make": "Chance Brothers, UK", "model": null, "type": null, "size": "250 mm (4th Order) revolving", "order": "4th Order",
+    "panels": 4,
+    "rotation_device": null,
+    "rpm": 1.5,
+    "rotates": true,
+    "rotates_evidence": "Size: 250 mm (4th Order) revolving; RPM 1.5; Pedestal: Mercury Float",
+    "divergence_horizontal_deg": 2.28,
+    "divergence_vertical_deg": 4.56,
+    "divergence_text": "2.28 (Horiz.) & 4.56 (Vert.)",
+    "illuminant": "70 W 230 V Metal Halide Lamp"
+  },
+  "intensity_cd": 85000,
+  "racon": {"present": true, "code": "G", "text": "Code \"G\", dual band (X + S), Sameer make, Sl. No. 7922, installed on 09.03.2008"},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "3 Phase 440 V 50Hz mains from WBPDCL; 2 kWp off-grid solar (8 x 250W panels); 2 standby Kirloskar gensets (15 KVA)"},
+  "issues": [
+    "Ledger gives 'Elevation of ground 4m' and 'Elevation of tower 22 m' (tower height 26 m); 22 m used as elevation",
+    "Divergence printed without units ('2.28 (Horiz.) & 4.56 (Vert.)'); assumed degrees",
+    "No year of establishment or commissioning stated"
+  ]
+}

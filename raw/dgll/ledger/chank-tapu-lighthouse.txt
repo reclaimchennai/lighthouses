@@ -1,0 +1,108 @@
+                     मास्टर लेजर/ MASTER LEDGER
+क्रमसं              नाम /Name
+ ख्या/                                                         वििरण/ Discription
+Sr.No
+   1.       ए.एल.ओ.एल/A.L.O.L.          0386
+   2.       स्थान/Position              : Lat   22º 32.8' N
+                                         Long 69º 24.6' E
+   3.      ऊंचाई/Elevation                     12 Meter
+   4.    अविलक्षण/Characteristic        Fl (W) 15Sec. (1 + 14 = 15Sec)
+   5.    नॉविकल माइल मे दू री           a) Luminous : 11NM at T=0.74
+         Range in miles
+                                        b) Geographical : 9NM
+   6.    दीपस्तं ि िािर/L.H.Tower       Frame work tower (M.S. Trestle tower) and
+                                        M.S room approx. 8'x8'x8' ( 4580 x 5310mm)
+                                        over 15'x15' sq. masonry structure (Size height
+                                        8000 x 2310mm) of 3mtrs base height. Main
+                                        angles are 65x65x6mm and other supportive
+                                        angles 50x50x6mm are used for framing trestle
+                                        tower structure. Top of the trestle 1 X 1 Meter
+                                        G.I cabin to installed light equipment and keep
+                                        inside 2nos SMF 12V/100AH battery and solar
+                                        charge controller.
+                                        Height : 6 Meter steel trestle above 3mtrs
+                                        masonry structure
+                                        Colour Scheme : White - Black three strips
+   7.          ऑप्टिकल उपकरण            Make : NavAids Pvt Ltd, Delhi
+         Optical Equipment:-
+          Type of Light (LED Flasher)   Model : NE-9A is a Three-Tier Lantern
+                                        Colour filter if any              : N/A
+                                        Type of flasher            : High Intensity LED
+
+                                          Page 1 of 8
+Lantern, NE-9
+Duration of flash        : 1 Second
+A) Electrical Parameters of Light     :
+a. Operating Voltage- 12VDC
+b. Range-11-14NM @ AT 0.74
+b. Lamp Source- High Power LED
+c. Power- 15W-18W
+d. Operation- Flashing
+e. LED Life- upto 100000Hours
+f. Horizontal Divergence- 360°
+g. Vertical Divergence- 8°
+h. Sun Switch- Provided
+i. Flasher- Programmable 256 Flash Character
+as per IALA Standard
+j. Color- White
+B) Mechanical Parameters of Lantern
+Body- Aluminum Alloy Cast Body LM6 Marine
+Grade
+Lens Type/Dome- UV Stabilized
+Polycarbonate
+Weight- 10Kg approx.
+Mounting- 4/3 x 200mm PCD with M 12
+IP66/67/68 Standard
+b) Pedestal                           : M.S Iron
+100 X 100 cm G.I box over which provision has
+been made for installation of light. Inside the
+box arrangement has been made for
+
+  Page 2 of 8
+installation of 2 Nos SMF12V/100AH battery
+and charge controller.
+Illuminant                     : High Intensity
+LEDs
+14. Max. Beam Intensity (cd)         :
+10,000Candela
+15. Energy Source        : Solar power light
+
+
+
+
+  Page 3 of 8
+Energy source
+
+
+        01 no. 125W, LOOM make solar panel installed on
+        separate frame (by welding over old frame) through
+        Luminous PWM charge controller 12V/20A .
+        11. Battery                              : SMF
+        12V/100AH – 2Nos Exide Power Safe connected in
+        parallel
+        12. Charge controller                    : PWM charge
+        controller 12V/20A, Make;- Luminous
+
+
+LAND:
+
+        North West tip of the vast Bural Reef
+
+ADDRESS& COMMUNICATION                                          Directorate of
+                                                                lighthouses &
+                                                                lightships
+
+                                                                C/o. Mandvi
+                                                                lighthouse & RCS
+                                                                P.O Mandvi Dist:-
+                                                                Kutch, Pin- 370 465
+
+DATE OF COMMISSIONING                                           05.02.2022 for New
+                                                                Light and new trestle
+                                                                23.05.2014
+
+
+
+
+                                   Page 4 of 8
+

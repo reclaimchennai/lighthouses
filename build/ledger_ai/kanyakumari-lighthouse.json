@@ -1,0 +1,46 @@
+{
+  "slug": "kanyakumari-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Kanyakumari Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1971,
+  "alol": "F 0726",
+  "position": {"lat_text": "8° 04' 8\" N", "lon_text": "77° 32' 8\" E", "lat": 8.068889, "lon": 77.535556},
+  "elevation_m": 34,
+  "characteristic_text": "GROUP OF (2) W 20 sec (.66+3.38+.66+15.3=20 Se)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": ".66+3.38+.66+15.3=20 Se",
+    "sequence_s": [0.66, 3.38, 0.66, 15.3],
+    "flash_duration_s": 0.66
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 18, "geographical_nm": 21, "text": "Luminous 18 NM, Geographical 21 NM"},
+  "tower": {"type": "Square stone massonary Tower", "height_m": 30.5, "colour_scheme": "Red and White"},
+  "optic": {
+    "make": "M/s BBT Ltd Paris", "model": null, "type": null, "size": "375 mm", "order": "3rd order small",
+    "panels": 4,
+    "rotation_device": "stepper motor with drive",
+    "rpm": 1.5,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: stepper motor with drive; R.P.M. 1.5 r.p.m",
+    "divergence_horizontal_deg": 5.933333,
+    "divergence_vertical_deg": 1.983333,
+    "divergence_text": "5° 56' (Horizontal), 1° 59' (Vertical)",
+    "illuminant": "230V/150W Single ended Metal Halide Lamp 3 in cluster"
+  },
+  "intensity_cd": 110908,
+  "racon": {"present": true, "code": "C", "text": "TideLand; Sea Beacon 2 system 6; Code C; X+S Band; installed 02.01.2008"},
+  "ais": {"present": true, "text": "Base Station R40 2 Nos; VSAT band EX-C, modem Datum system M7LT; model/type/MMSI rows blank"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": null, "text": "Mains Tamilnadu electricity board 3 phase/440V; Engine 1 Kirloskar 32 bhp/20kva and Engine 2 KOEL Green 56 BHP both marked (NIL); 3 KW off-grid solar (12 panels)"},
+  "issues": [
+    "Position printed with seconds marks (8° 04'8\", 77° 32'8\"); converted as degrees-minutes-seconds, may be intended as 04.8' / 32.8'",
+    "Engines 1 and 2 are marked '(NIL)' yet make/rating details are listed",
+    "Solar plant heading says '2KW off grid' but capacity row says 3 KW (24 V/250 W)",
+    "NAIS MMSI not given"
+  ]
+}

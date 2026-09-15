@@ -1,0 +1,229 @@
+                        मास्टर लेजर/MASTER LEDGER
+
+क्रमसं
+ ख्या/         नाम /Name                                   वििरण/Description
+Sr.No
+   1      ए.एल.ओ.एल/A.L.O.L.                                       F0660
+   2         स्थान/Position                               Lat. : 13˚ 00’ 13.15” N
+                                                           Long.: 74˚ 47’ 25.89”
+  3         ऊंचाई/Elevation                                         43m
+  4      अविलक्षण/Characteristic                      Fl W 10 Sec. (Fl. 0.37, Ec. 9.63)
+  5        नॉविकलमाइलमेदूरी                                 Luminous : 24 Nm
+             Range in miles                                       Geographical : 17.5 Nm
+
+  6      दीपस्तंििािर/L.H.Tower               Type                       Square Masonry Tower
+                                             Height                             30 Mtrs
+                                         Colour Scheme                Red & White Bands – 5 Nos.
+                                                                           (3 Red + 2 White)
+
+  7          ऑविकलउपकरण                       Optic                          3rd Order Large
+           Optical equipment
+                                             Make                             Make: B.B.T.
+                                             Type                              Revolving
+                                              Size                              500 mm
+                                           No. of lens                            03
+
+                                     Area of dioptric portion      3265 sq.cm (Corrected area 2318
+                                                                                sq.cm)
+                                   Area of catadioptric portion    10733 sq.cm (Corrected area 8909
+                                                                                sq.cm)
+                                       Divergence Main              Horizontal-6.27˚, Vertical-4.56˚
+                                       Duration of Flash                       0.37sec
+                                   Main /Standby/Emergency
+                                         Lamp changer                             N/A
+                                            Pedestal                         Mercury Float
+                                        Rotation Device              Dual stepper motor 40 kg/cm
+                                              R.P.M.                             2 RPM
+                                           Illumining                3X150 Watt MH Lamp Cluster
+                                               Main                MESCOM 3 Phase, 440V, 50 Hz AC
+                                                                              Main supply.
+                                            Standby                D G Sets 3 Phase, 25 KVA – 02 Nos.
+                                          Emergency:                              N/A
+                                       Date of Installation                       1972
+8    प्रिािीबीमतीव्रता/Effectiv          Main & Standby                      567273 cd
+          e beam intensity
+                                           Emergency                            NA
+9         लेंिनन /Lantern                   Diameter                          3.0 m
+                                         Height of glazing                   1.784 m
+                                          No. of panes              24 (8 panes blanked on the
+                                                                          Landward side)
+                                            Ventilators                         11
+
+
+
+10          RACON                             Sr. No.                      ALORS 6297
+        Make      Model                        Code                     Band          Date of
+                                                                                    Installation
+      Tideland      Seabeaco                 C (_._.)                    X+S        07/12/2005
+                       n2
+                    System 5
+11                                                  NAIS
+          Base Station
+
+       Model          Type                Power                  MMSI
+         PSS          R-40               25 WATT                4192237
+     Communica
+         tion
+     Equipment
+        VSAT          Band                Modem
+      Antenna
+       1.8 Mtr           S                DATUM
+        VSAT
+        DGPS
+     Transmitter    Frequen         Power           RS 1     RS –   Beacon      Date of      Date
+        Make           cy           Output           ID        II     ID      commissioni     of
+                                                              ID                  ng         Reca
+                                                                                             pitali
+                                                                                             zatio
+                                                                                               n
+      NAUTEL           320           500            412      413     106      06/05/1998 22/0
+                                                                                             6/20
+                                                                                              17
+12   ऊर्ान केसाध                    Mains                     MESCOM 3 Phase, 440V, 50 Hz AC
+        न/                                                               Main supply.
+     Source of                     Standby                    D G Sets 3 Phase, 25 KVA – 02 Nos.
+      energy                                            Engine 1
+                             Make/Type           Qty     Ratin     No of           RPM          Co
+                                                           g      Cylinder                      oli
+                                                                                                ng
+            KIRLOSKAR             01          32            3              1500            AIR
+                                             BHP                                           CO
+                                                                                           OLI
+                                                                                           NG
+                                        Alternator
+            Make/Type            Qty      Ratin Voltage/A             Frequency            Ph
+                                            g      mp                                       as
+                                                                                            e
+            KIRLOSKAR             01          25       240 VA/             50 Hz            3
+                                             KVA       90 Amp                              Ph
+                                                                                           ase
+                                            Engine 2
+            Make/Type            Qty         Ratin    No of                RPM             Co
+                                               g     Cylinder                              oli
+                                                                                           ng
+            KIRLOSKAR             01          32            3              1500            AIR
+                                             BHP                                           CO
+                                                                                           OLI
+                                                                                           NG
+                                        Alternator
+            Make/Type            Qty      Ratin Voltage/A             Frequency            Ph
+                                            g      mp                                       as
+                                                                                            e
+            KIRLOSKAR             01          25       240 VA/             50 Hz            3
+                                             KVA       90 Amp                              Ph
+                                                                                           ase
+                      Solar Plant
+            Capacity PV           Numbers                  Type            Battery         Ba
+                                                                                           nk
+              200 W                    03                                   SMF            12
+                                                                                           V/
+                                                                                           10
+                                                                                           0A
+                                                                                           H
+             Solar Plant for Main RACON
+            Capacity PV            Numbers                 Type            Battery         Ba
+                                                                                           nk
+                75                     01                                   SMF            N/
+                                                                                           A
+13                       स्वचाललतवोल्टे जस्टे बलाइजर
+                        Automatic Voltage Stabilizers
+
+     Make       Model           Capacity           Input          Output           Phase     Q
+                                                                                             t
+                                                                                             y
+      SARVOMAX       Servo Controlled        15 KVA         170-270V         230 V            SINGLE      0
+                         14-1/AC                                                              PHASE       3
+14                                               बैिरर
+                                               Batteries
+     Equipment     Type            Make             Volt         Amp/Hr                 Qty
+      PSS NAIS     SMF              APC             12 V                                02
+      Gen Set-I    LEAD            BOSCH            12 V          100 AH                01
+                   ACID
+      Gen Set-II   LEAD            BOSCH             12 V         100 AH                01
+                   ACID
+     Automation    SMF             ROCKET           12 V          26 AH                 02
+        DGPS       SMF            AMARON            12 V          26 AH                 22
+15                                   बैिररचार्नर/ Battery charger
+
+     Equipment            Make             Model       Type             Rating            Qty
+      General              --               --          --                --               --
+      Purpose
+     Automation    Powerex Engg.                        SMPS           26.5 VDC              01
+16                                      इं वर्ट रInverter /UPS
+     Equipm   No   Make           Model         Type Rating        Qty                input              ou
+       ent     s                                                                                         tp
+                                                                                                         ut
+      Main    03   EXIDE         EXIDP850     12 V      850            02            220 VAC             22
+      Light                                             VA                                                0
+                                                                                                         VA
+                                                                                                          C
+     NAIS     02
+      PSS
+     DGPS     02    APC      SRC10KVX       ONLIN     10      01
+                    APC          1            E      KVA      01
+                             SRC10KVX       ONLIN     03
+                                 1            E      KVA
+17                                       स्वचलनउपकरण
+                                      Automation Equipment
+     MAKE          PLC         HMI        Power Supply   VSAT               Modem                 Band
+     M/s.NE Telemechni       Senider
+      LCO          qe        Electric
+18     आविशमनउपकरण              Type of Extinguisher     Capacity                 Nos            Make
+          Fire Fighting                 CO 2             6.5 Kgs.                 02             SAFX
+           Equipment                                                                             FIRE
+                                                                                               SERVICES
+19         संचार                BSNL Tel./Fax No. 0824-2476129
+        Communication
+
+
+20        र्लपूवतन              Municipal Running Water is provide to Staff Quarter and LH
+        Water Supply         Premises And submersible Pump is provided in Well. Also another
+                             ½ HP Pump is Provided to pump the water from old Underground
+                                              Sump to the Overhead Tank.
+
+21           िूवम                         Area                         1.319 Acres
+             Land
+                                   Demarcation                       Compound Wall
+
+                                No. of Fruit Trees                         25
+                               No. of non-fruit Trees                      25
+22          इमारतें                  Quarters                 Power House/Store/ DGPS
+           Buildings                                      Transmitter, One Block IQ Qtr., One
+                                                               Unit of N. A. -III, Coil hut,
+                                  Other Buildings         & Asst. Engineer Qtr. 01 Nos. N.A -I
+                                                           Qtr 01 Nos. NA-II 01Nos., NA –III
+                                                           Qrs. 01 LHA Qtr 01 No. and Pump
+                                                                        House.
+
+23       कंपाउं डलाइि             8 Nos. Street Light and 2 Nos. Gate Light are provided.
+       Compound Lights
+24      सीसीिीिीकमेरा                            Camera                              NA
+        CCTV CAMERA                               DVR                                NA
+25          स्टाफ                Sl. No                         Designations
+             Staff                 1                 Shri. Vijaymanthesh S. Sangam NA-I
+                                   2                       Shri. Y.Y. Christain. NA-III
+                                   3                 Shri. Chnadrath H. Kanbirkar LHA12
+                                   4
+                                   5
+                                   6
+                                   7
+26      पहुँ चनेकामाध्यम         By rail up to Surathkal Railway Station and 4 Km by road
+      Mode of approach
+27      उपलब्धसुविधाए         Marine Police Station                      12 Km
+      Facilities available        Dispensary                               03
+                                   High School                            03
+                                   Post office                             03
+                                  Police Station                           3.5
+28   डाकपताPostal address                     Assistant Engineer(Electronics),
+                                          Surathkal Lighthouse and DGPS Station,
+                                               Surathkal, Opp NITK Campus
+                                Dist. South Kanara, Karnatka.
+                                        PIN.- 575 014
+
+29       मूल्यकाब्योराCost
+              details
+          (At the time of
+           Construction)
+30    प्रितननमेलानेकादे नां क               1972
+     Date of commissioning
+

@@ -1,0 +1,46 @@
+{
+  "slug": "santapalli-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5, 6],
+  "name": "Santapalli Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1840,
+  "alol": "0980",
+  "position": {"lat_text": "18° 03.9' N", "lon_text": "83° 38.4' E", "lat": 18.065, "lon": 83.64},
+  "elevation_m": 43,
+  "characteristic_text": "FL (2) White, every 10 Seconds (Fl 0.2 ec2.3 Fl0.2 ec7)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "Fl 0.2 ec 2.3 Fl 0.2 ec 7",
+    "sequence_s": [0.2, 2.3, 0.2, 7],
+    "flash_duration_s": 0.2
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 23, "geographical_nm": 18, "text": "Luminous 23 NM, Geographical 18 NM"},
+  "tower": {"type": "Circular masonry Tower", "height_m": 22, "colour_scheme": "Black and White bands"},
+  "optic": {
+    "make": "M/s Chance Brothers", "model": null, "type": "Large Revolving", "size": "500 mm (focal distance 500 mm)", "order": "3rd Order",
+    "panels": 2,
+    "rotation_device": "Twin Stepper motor Direct Drive system (2 No 40Kg-cm stepper motors, unique make)",
+    "rpm": 6,
+    "rotates": true,
+    "rotates_evidence": "500 mm 3rd Order Large Revolving; twin stepper motor direct drive; Rotation Speed 6 RPM",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 6.31,
+    "divergence_text": "Main: Horizontal. 6° 45 6', Vertical 6° 18.6'",
+    "illuminant": "150 W Metal Halide Lamp- 3 Nos. (Cluster)"
+  },
+  "intensity_cd": 939600,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "M/s SAAB; AIS R40 Base Station S/No.5322 and S/No 5278; V-SAT 2.4 Mtr; commissioned 20/12/2011"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APEPDCL mains 3phase 440V 50HZ AC; 3KW off grid solar for main light (12 No 24V/250W); Kirloskar KG 15AS4 15KVA DG"},
+  "issues": [
+    "Sequence (0.2+2.3+0.2+7) sums to 9.7 s but period stated as 10 s",
+    "Horizontal divergence printed as '6° 45 6'' (ambiguous, possibly 6° 45.6')",
+    "Estd./year of first light 1840 but Date of Commissioning given as 1903",
+    "ALOL given only as Sr.No. '0980' without letter prefix"
+  ]
+}

@@ -1,0 +1,176 @@
+                                मास्टर लेजर/MASTER LEDGER
+
+
+
+
+                                प्रोंग्स रीफ दीपस्तंभ /Prongs Reef LH
+क्रमसंख्या/              नाम /Name
+   Sr.No                                                                 वििरण/Discription
+     1        ए.एल.ओ.एल/A.L.O.L.              F 0514
+    2         स्थान/Position                  Lat. 18º 52.76’ N
+                                              Long.72º 48.98’ E
+    3         ऊंचाई/Elevation                 41 m
+    4         अभिलक्षण/Characteristic         Fl W10 Sec.
+    5         नॉटिकलमाइलमेदरू ी               23
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower          Type                             Circular Masonry Tower
+                                              Height                           41 m
+                                              Colour Scheme                    Red, White and Black bands
+    7         ऑप्टिकलउपकरण                    Optic                            Marine Rotating Beacon
+              Optical equipment
+                                              Make                             Wealth Marine Pvt. Ltd., Singapore
+                                              Type                             WM-RB 500 Marine Rotating Beacon
+                                              Size                             500mm dia.6 clear “ Bulls Eye”
+                                                                               Acrylic lens panels Equally spaced at
+                                                                               60 (Hexagonal)
+                                              No. of lens                      6
+
+                                              Area of dioptric portion         -
+                                              Area of catadioptric portion     -
+                                              Divergence                       Horizontal – 1.5º , Vertical 2.42º
+                                              Main/Emergency
+                                              Duration of Flash                0.27 Sec.
+                                              Main /Standby/Emergency
+
+                                              Lamp changer                     NA
+                                              Pedestal                         Cast Iron
+                                              Rotation Device                  2 Nos. Stepper Motors.
+                                                                               Microprocessor controlled speed field
+                                                                               selectable from 0.5-0.6RPM,one
+                                                                               service and one standby stepper
+                                                                               motor
+                                              R.P.M.                           1
+                                              illumining                       -
+                                              Main                             230VAC,70W MH Lamp
+                                              Standby                          -
+                                              Emergency:                       12 V DC /100 W
+                                              Date of Installation             29.06.2008
+8    प्रिािीबीमतीव्रता/Effective beam        Main & Standby                           126623 cd
+     intensity
+                                             Emergency                                -
+9    लेंिनन/Lantern                          Diameter                                 4.50 m
+                                             Height of glazing                        2.82 m
+                                             No. of panes                             48 (in 3 Tiers)
+                                             Ventilators                              30
+10   RACON
+     Make                   Model            Code                                     Band                          Date of
+                                                                                                                    Installation
+     -                      -                -                                        -                             -
+11   NAIS
+     Base Station                            NA
+
+
+     Model                  Type             Power                               MMSI
+     --                     --               --                                  --
+     Communication          --               --                                  --
+     Equipment
+     VSAT Antenna           Band             Modem
+     DGPS                   --               --                                  --
+     Transmitter Make       Frequency        Power Output          RS- 1 ID      RS-2 ID         Beacon            Date of        Date
+                                                                                                 ID                commis         of
+                                                                                                                   sioning        Rec
+                                                                                                                                  apit
+                                                                                                                                  aliza
+                                                                                                                                  tion
+     --                     --               --                    --            --              --                --             --
+
+12   ऊर्ानकेसाधन/Source     Mains                                                NA
+     of energy              Standby                                              NA
+                            Engine 1
+                            Make/Type                    Qty            Rating        No of             RPM                  Cooling
+                                                                                      Cylinder
+                            Portable Generator Honda     01             2.5KVA        --                1500                 AIR
+                            Make
+                            Alternator
+                            Make/Type                    Qty            Rating        Voltage/Amp       Frequency            Phase
+                            --                           --             --            --                --                   --
+                            Engine 2
+                            Make/Type                    Qty            Rating        No of             RPM                  Cooling
+                                                                                      Cylinder
+                            --                           --             --            --                --                   --
+                            Alternator
+                            Make/Type                    Qty            Rating        Voltage/Amp       Frequency            Phase
+                            --                           --             --            --                --                   --
+                            Solar Plant
+                            Capacity PV                  Numbers                      Type               Battery             Bank
+                            75W                          18                           Tata BP            12V/600AH           06
+                            80W                          20                           Jain               24V /150 Ah         02
+                                                                                                         for RTU
+                            Solar Plant for Main RACON                                --
+                            Capacity PV                  Numbers                      Type               Battery             Bank
+                                --                      --                     --           --              --
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                   Model            Capa       Input                  Output       Phase           Qty
+                                             city
+     -                      -                -          -                      -            -               -
+14   बैिरर
+     Batteries
+     Equipment              Type             Make       Volt                   Amp/Hr       Qty
+     PSS NAIS               -                -          -                      -            -
+     Genset                 -                -          -                      -            -
+     Automation             M/F              Exite      12V                    150AH        4
+     DGPS                   -                -          -                      -            -
+15   बैिररचार्नर/ Battery charger
+
+     Equipment              Make             Model Type                        Rating       Qty
+     General Purpose        --               --    --                          --           --
+     Automation             NA ( Charging    --    --                          --           --
+                            through solar
+                            panel )
+16   इंवटट रInverter /UPS
+     Equipment Nos          Make      Model         Type        Rating         Qty          input           output
+     Main Light 1.          Exide     Exide         Pure Sine   850VA          01           12V DC          230VA
+                                      850DSP        Wave                                                    C
+                                      PST UPS
+     NAIS PSS      -        -         -             -           -              -            -               -
+     DGPS          -        -         -             -           -              -            -               -
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE      PLC                   HMI           Power Supply          VSAT           Modem    Band
+     Nelco     Telemecanique         Schneider 24VDC                     1.8 m dia.     Sky Edge EXT-C
+                                     Electric
+18   आप्ननशमनउपकरण                            Type of Extinguisher       Capacity         Nos        Make
+     Fire Fighting Equipment                  D.C.P Type                 3.2 Kg           1-U/s
+                                              Soda Acid type             9 litres         1-U/s
+
+
+
+
+19   संचार                                   Not Available
+     Communication
+20   र्लपर्ू तन                              Rain water collection & Supply by boat.
+     Water Supply
+21   िभू म                                   Area
+     Land
+                                             Demarcation
+22   इमारतें                         Quarters
+     Buildings
+23   कंपाउं डलाइि
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera                                     NA
+      CCTV CAMERA                    DVR                                        NA
+25   स्िाफ                           Sl. No         Designations
+     Staff                           1              NA I -On Tour from LH
+                                     2              NA II -On Tour from LH
+                                     3              NA III -On Tour from LH
+                                     4              LHA - On Tour from LH
+                                     5              --
+                                     6              --
+                                     7              --
+26   पहुँचनेकामाध्यम                 1. By walk from Colaba during Low Tide.
+                                     2. By Motor Boat from ferry wharf
+     Mode of approach
+27   उपलब्धसविधाए                    Marine Police Station    -
+     Facilities available            Dispensary               -
+                                     High School              -
+                                     Post office              -
+28   डाकपताPostal address            C/O Deep Bhavan, M.G. Road, Ghatkopar (E), Mumbai 400077
+29   मल्
+       ू यकाब्योराCost details       34,85,400/-
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          1875
+     Date of commissioning           29.06.2008
+                                     (Taken over from Mumbai port Trust on 11.10.2007)
+

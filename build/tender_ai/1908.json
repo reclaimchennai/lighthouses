@@ -1,0 +1,40 @@
+{
+  "nid": 1908,
+  "title": "Re-Construction of Staff Quarters at Junglighat",
+  "summary": "Online item-rate composite e-tender for re-construction of staff quarters (RCC framed buildings with pile foundations) at Junglighat, Sri Vijaya Puram, South Andaman.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-02040/1/2022-CM-PB",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Junglighat, Sri Vijaya Puram, Andaman & Nicobar Islands", "station_id": null, "kind": "other", "work": "Re-construction of staff quarters"}
+  ],
+  "scope": [
+    {"item": "Re-Construction of Staff Quarters at Junglighat", "qty": null, "unit": null, "site": "Junglighat, Sri Vijaya Puram"}
+  ],
+  "money": {
+    "estimated_cost_inr": 294741000.0,
+    "emd_inr": 5895000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Bid document free of cost. EMD by Deposit at call Receipt/FDR/Bank Guarantee in favour of Director of Lighthouses and Lightships, Sri Vijaya Puram; valid 6 months from technical bid opening; original by 16.06.2025 15:00. MSME/NSIC registered bidders for similar work eligible for EMD exemption."
+  },
+  "period": {"completion": "30 months", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-05-15", "pre_bid": "2025-05-30", "bid_submission_end": "2025-06-16", "bid_opening": "2025-06-17"},
+  "eligibility": [
+    "Experienced contractors with successfully completed similar work of construction of RCC framed buildings with pile foundations with Government organizations, without adverse remarks",
+    "Detailed eligibility as per Section-III clause 3.1 of tender documents (not included in this file)",
+    "Bidders whose near relatives are accountants/gazetted officers in DGLL not permitted"
+  ],
+  "specs": ["RCC framed buildings with pile foundations"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_1.pdf", "pages": 3, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (NIT) only, printed page numbers 12-14; no BOQ. NIT dated 15.05.2025; bid download/submission 16.05.2025 12:00 to 16.06.2025 15:00. Listing end date (2025-07-09) and opening (2025-07-10) are later than the NIT dates, suggesting an extension not included in the documents."
+}

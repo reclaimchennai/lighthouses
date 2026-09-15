@@ -1,0 +1,41 @@
+{
+  "slug": "pirotan-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Pirotan Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1898,
+  "alol": "F 0380",
+  "position": {"lat_text": "22° 36.2' N", "lon_text": "69° 57.1' E", "lat": 22.603333, "lon": 69.951667},
+  "elevation_m": 26,
+  "characteristic_text": "Fl W 20 sec. (0.4+19.6 = 20 sec.)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "0.4+19.6 = 20 sec.",
+    "sequence_s": [0.4, 19.6],
+    "flash_duration_s": 0.4
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 24, "geographical_nm": 12, "text": "Luminous: 24NM at T=0.74, Geographical: 12NM"},
+  "tower": {"type": "Circular masonry tower", "height_m": 24, "colour_scheme": "Black and White alternate horizontal bands"},
+  "optic": {
+    "make": "Stone Chance", "model": null, "type": "revolving type", "size": "500 mm", "order": "3rd order large",
+    "panels": 2,
+    "rotation_device": "Direct drive by electrically operated Stepper Motor, Hand wound clock wise machine- standby",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Size: 500 mm (3rd order large) revolving type; Rotation device: stepper motor; R.P.M.: 3",
+    "divergence_horizontal_deg": 12.599833,
+    "divergence_vertical_deg": 8.247167,
+    "divergence_text": "12° 35.99' (Horizontal) & 8° 14.83' (Vertical)",
+    "illuminant": "Clustered three 230V, 70 W Metal halide lamps"
+  },
+  "intensity_cd": 460194,
+  "racon": {"present": true, "code": "K", "text": "Tide land System 6, Sea Beacon, 2.9-3.19 GHz & 9.3-9.59 GHz, Code 'K', commissioned 04/05/2004"},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": null, "solar": true, "generator": true, "text": "Solar: 12 V/725 Ah VRLA batteries charged by 24 x 70 W TATA BP panels; 3 KW off-grid solar (12 x 255 W BHEL); standby Kirloskar diesel generator 15 KVA"},
+  "issues": ["Intensity printed as '46,0194 Candela' (irregular digit grouping, read as 460194)", "Duration of flash 0.7 Second differs from characteristic flash 0.4 s", "2 panels at 3 RPM gives a flash every 10 s, but characteristic is every 20 s", "Commissioning: first lighthouse 1898, modern lighthouse 05.02.1958"]
+}

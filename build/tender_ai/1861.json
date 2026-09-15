@@ -1,0 +1,38 @@
+{
+  "nid": 1861,
+  "title": "Special repairs and Civil maintenance to the Lighthouse Tower and allied buildings, Staff quarters, Compound wall etc., at Nagapattinam DGNSS Station.",
+  "summary": "CPPP open e-tender for special repairs and civil maintenance of the lighthouse tower, allied buildings, staff quarters and compound wall at Nagapattinam DGNSS Station, Tamil Nadu (Chennai Directorate).",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(11)/1/2020-Civil Maintenance; 2025_DGLL_851806_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Nagapattinam DGNSS Station", "station_id": "nagapattinam-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Special repairs and civil maintenance to lighthouse tower, allied buildings, staff quarters, compound wall"}
+  ],
+  "scope": [
+    {"item": "Special repairs and Civil maintenance to the Lighthouse Tower and allied buildings, Staff quarters, Compound wall etc.", "qty": null, "unit": null, "site": "Nagapattinam DGNSS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 7831500.0,
+    "emd_inr": 156630.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD fixed, exemption not allowed, payable offline (DD/FDR) to The Director of Lighthouses and Lightships, Chennai at Chennai. Tender fee 0.00."
+  },
+  "period": {"completion": "180 days", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2025-03-05", "pre_bid": "2025-03-18", "bid_submission_end": "2025-03-26", "bid_opening": "2025-03-27"},
+  "eligibility": [
+    "Appropriate class contractors registered with CPWD, State PWD, Railways, MES, BSNL etc or with any other State/Central Government/Public sector undertaking/Autonomous body"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Tender (2).pdf", "pages": 3, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Document is only the CPPP 'Tender Details' printout (dated 04-Mar-2025), not the NIT itself; BOQ_895434.xls, TDNAGAPPTTINAM25.pdf (EMD and eligibility criteria) and DWG.pdf are listed on CPPP but not included. Works tender, 2 covers, pincode 611001. Pre-bid meeting 18-Mar-2025 15:00 at Deep Bhavan, Chennai. Bid opener list includes individual names/logins (one personal webmail) - omitted per privacy rules. PPP-MII and MSE orders marked not applicable."
+}

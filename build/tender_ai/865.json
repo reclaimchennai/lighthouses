@@ -1,0 +1,46 @@
+{
+  "nid": 865,
+  "title": "Construction of 20,000 liters capacity Under Ground Water Sump at Ramayapatnam Lighthouse Station",
+  "summary": "Two-cover online e-tender for building a 20,000 litre underground RCC water sump at Ramayapatnam Lighthouse Station, Prakasam District, Andhra Pradesh, issued by the Directorate of Lighthouses and Lightships, Visakhapatnam.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MT-VSP-02002(13)/1/2022-Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Ramayapatnam Lighthouse Station, Ramayapatnam village & Post, Ulavapadu Mandal, Prakasam District - 523291", "station_id": "ramayapatnam-lighthouse", "kind": "lighthouse", "work": "Construction of 20,000 litre underground water sump"}
+  ],
+  "scope": [
+    {"item": "Construction of 20,000 liters capacity Under Ground Water Sump", "qty": "20000", "unit": "litres capacity", "site": "Ramayapatnam Lighthouse Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 599887.0,
+    "emd_inr": 12000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST and all other taxes. EMD by DD/FDR/bank guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Visakhapatnam, valid three months from technical bid opening; EMD exemption (NSIC/MSME) expressly not allowed for any bidder. Tender fee Nil."
+  },
+  "period": {"completion": "03 months from the commencement of work", "bid_validity": "120 days from date of opening of financial bid", "warranty": null},
+  "dates": {"published": "2022-12-20", "pre_bid": "2022-12-28", "bid_submission_end": "2023-01-05", "bid_opening": "2023-01-06"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD, State PWD, Railways, MES, BSNL or other State/Central Govt/PSU/autonomous body",
+    "Similar works completed in last seven years: three >= 40%, or two >= 50%, or one >= 80% of estimated cost; similar works = RCC works for underground sump or any other civil construction works",
+    "PAN and GST registration; key technical personnel for supervision with qualifications and experience",
+    "Unconditional tender undertaking (Annexure V) and tender acceptance letter (Annexure IV)",
+    "Affidavit of not being blacklisted",
+    "Income tax returns for last three years",
+    "List of relatives serving in Ministry of Shipping or DLL",
+    "Average annual turnover of last three financial years at least 30% of estimated cost",
+    "Activity chart / plan and self-assessing technical evaluation sheet"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "dfcfe0fd-458c-4853-b0ce-06b6dc112b0f.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only Section I NIT (printed 'Page 3 of 105' to 'Page 7 of 105') is posted; the remaining ~100 pages of the bid document including BOQ are not in this file. NIT dated 20/12/2022; download/submission 20/12/2022 18:00 to 05/01/2023 15:00; EMD original by 05/01/2023 15:00; bid opening 06/01/2023 16:00. Clause 1.15 notes heavy vehicles permitted to site and contractor liable for damage to pathway tiles/paver blocks/plants."
+}

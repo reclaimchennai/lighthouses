@@ -1,0 +1,215 @@
+                       मास्टर लेजर/MASTER LEDGER
+
+ईस्ट आइलेंड दीपस्तंभ और डी जी पी एस स्टे शन / East Island Lighthouse and DGPS Station
+
+क्रमसंख्या/             नाम /Name
+                                                                 वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.        F 0444
+     2        स्थान/Position            Lat : 21º 12.2’ N        Long : 72º 06.6’ E
+    3         ऊंचाई/Elevation           41 M (Above MSL)
+    4         अभिलक्षण/Characteristic   FI (3) W 20sec (0.3+3.7)2+0.3+11.7=20Sec
+
+    5         नॉटिकल माइल मे दरू ी      18 NM
+              Range in miles
+    6         दीपस्तंि िािर/L.H.Tower   Type                           6.71 M Square masonry tower
+                                        Height                         30.48M
+                                        Colour Scheme                  Red and White bands.
+
+    7         ऑप्टिकलउपकरण              Optic
+              Optical equipment         Make                           J. Stone & company Calcutta
+                                        Type
+                                        Size                           300 mm ( 4th order ) revolving
+                                                                       type
+                                        No. of lens
+                                        Area of dioptric portion       Corrected area 405 sq.cm.
+                                        Area of         catadioptric   Corrected area 1520 sq.cm
+                                        portion
+                                        Divergence                     20º.59.99’ (Horizontal.),
+                                        Main/Emergency                 13º 44.7’ (Vertical)
+                                        Duration of Flash              0.3 Sec
+                                        Main /Standby/Emergency
+                                        Pedestal                       Ball bearing type
+                                        Rotation Device                i) Electrically operated 40 kgcm²
+                                                                       stepper
+                                                                       Motor for direct drive
+                                                                       ii) Clockwork machine with hand
+                                                                       winding oF Standby
+                                        R.P.M.                         3
+                                        Illumining                     Cluster 150 W/230 V AC MH
+                                                                       Lamp - 3 nos.
+                                        Main
+                                        Standby
+                                        Emergency:
+                                        Date of Installation            07/09/2010
+8    प्रिािी बीम तीव्रता/Effective      Main                            1,23,258 Candela
+     beam intensity                     Emergency
+9    लेंिनन/Lantern                     Diameter                        2.4m
+                                        Height of glazing               1.38m
+                                        No. of panes                    12
+                                        Ventilators                     08
+10   RACON                                   Sr. No 6183
+     Make            Model              Code                            Power Supply                    Date of
+                                                                                                        Installation
+     Tide land,              ---        ‘G’                             12V100Ah,SMF12v                 24/08/2004
+     Sea Beacon                                                         olt Battery, Charging
+     system 6                                                           by70watt solar panel
+                                                                        “TATA BP”make,
+11   NAIS –NA
+     Base Station                       R-40 02 Nos
+
+     Model                Type          Power                           MMSI
+
+     Communication
+     Equipment
+     VSAT Antenna         Band          Modem
+
+12   ऊर्ान के             Mains                                         440V/3-phase/50 Hz
+                          Power Source                                  Diesel engine generator set for
+     साधन/Source of                                                     standby diesel generators
+     energy                                                             : 2 nos.
+                          Engine 1
+                          Make/Type                  Qty       Rating   No of Cylinder   RPM               Cooling
+                          Koel –igreen               2         83 HP    4                1500              Radiator
+                          Kirloker greenchilly
+                          Alternator
+                          Make/Type                  Qty       Rating   Voltage/Amp      Frequency         Phase
+                                                     2         62.5     415V/87A         50Hz              Three
+                          Kirlosker                            KVA
+                          Solar Plant
+                          Capacity PV                Numbers            Type             Battery           Bank
+                          14.4 KWP                   60 Nos             HBL                     -----      01 No.
+                                                                        makes
+13   स्िचाभलत िोल्िे र् स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model         Capa   Input                    Output                  Phase      Qty
+     Servomax                           15 KVA    230V +                 230V + 1.0%            Single           3
+                                          / 65     1.0%
+                                         Amp
+     Delta                               12.5    160 – 260 V    230V + 1.0%        Single          1
+                                        KVA /     AC, 50 Hz
+                                       54 Amp
+     Delta                             05 KVA    160 – 260 V    230V + 1.0%        Single          1
+                                         / 65     AC, 50 Hz
+                                        Amp
+14   बैिरर
+     Batteries
+     Equipment             Type        Make     Volt           Amp/Hr       Qty                 Date of
+                                                                                                Inst.
+     DG SET-1                          Koel          12V        100AH              1            08.07.2
+                                       green kg                                                 021
+                                       lead acid
+     DG SET -2                         Koel          12V       100AH               1            08.07.2
+                                       Green                                                    021
+                                       Kg Lead
+                                       Acid
+     RACON                             Amaron        12V       100AH               1            06.09.2
+                                       SMF                                                      019
+     EMERGENCY                         Exide     12 Volt       200AH               3            24.09.2
+     (MAIN LIGHT )                     SMF       6( CELL2 v                                     017
+                                                   per cell)
+     ROTATION                          Exide       12 Volt     200AH               1            24.09.2
+     (FOR MAIN                         SMF                                                      017
+     LIGTH) रचना
+     AUTOMATION
+15   बैिरर चार्नर/ Battery charger
+
+     Equipment             Make        Model    Type           Rating       Qty                 Date of
+                                                                                                Inst.
+     General Purpose       Aplab                               0-32V / 10          01           17.08.
+                           make                                Amp.                             2002
+                           Digital
+                           P.S.
+                           (for
+                           rotation)
+                           Argo                                0-80 V/ 30          01           26.02.
+                           make                                Amp.                             2002
+                           Charger
+     Automation                       ---              ----
+16   इंवटट र Inverter /UPS
+     Equipme Nos           Make Model                   Type   Rating       Qty         input      out
+     nt                                                                                            put
+     Main
+     Light
+     NAIS PSS 01           APC                                 1KVA/12        01
+                                                               V
+                 01       Kesa                                    1KVA/12         01
+                          riya                                    V
+17   स्वचलन उपकरण
+     Automation Equipment
+     MAKE       PLC              HMI           Power Supply     VSAT            Mode    Band
+                                                                                m
+
+18   आप्ननशमन उपकरण                    Type of Extinguisher     Capacity        Nos      Make
+     Fire Fighting Equipment           DCP Type                 4 kg            10
+                                       Water Co2                6.5 kg          02
+                                                                2 kg            01
+                                                                6.8 kg          01
+                                       Foam Type                9ltr            01
+19   संचार                             E Mail                                   gopnathlightdgps@g
+                                                                                mail.com
+     Communication
+20   र्लपर्ू तन                         i) Water provide by private party through pipe line to our
+                                       underground tank and water supply to quarter through pipe
+     Water Supply
+                                       line from overhead tank
+                                        ii) 6000 litter tank for rain water harvesting each quarter and
+                                       one common tank/sump For rain water harvesting
+21   िूभम                              Area                                      4.85 Acere
+     Land                              Demarcation                              Compound wall on
+                                                                                all the four sides
+22   इमारतें                           RCC Structure: 16 Nos                    LH tower, Power
+                                                                                house, DB panel
+     Buildings
+                                                                                room, diesel room
+                                                                                ,AE quarter,, SRT
+                                                                                quarter, Two NA-
+                                                                                IIIqtr,IQ, One Twin
+                                                                                unit of NA-II quarter,
+                                                                                one twin unit of
+                                                                                LHA quarter, Tx.
+                                                                                Building and coil hut
+                                                                                m museum building,
+                                                                                fountain musical
+                                                                                room.Security Guard
+                                                                                cabin, ticket window
+                                                                                cabin
+
+                                       Timber Construction above plinth
+                                       level
+23   कंपाउं ड लाइि                     i)20 nos. High must LED streetlight
+                                       ii) 2 nos. Led door gate main Gate
+     Compound Lights
+                                       iii) FLUD Light- 03 (group of 3)
+                                       .Area: lanscap1, lanscap2, in front of
+                                       Museum building
+                                     iv) Decorative light- nos.54
+                                     (bolard-walking area), -nos.15
+                                     (lanscap2 & selfi point)
+24   सीसीिीिीकमेरा                   Camera
+      CCTV CAMERA                    DVR
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1             Assistant Engineer (E -01
+                                     2             Senior RT -1(Post vacant)
+                                     3             NAVIGATIONAL ASST-II -2 Post
+                                     4             NAVIGATIONAL ASST-III-2 (One Post
+                                                   vacant)
+                                     5             Lighthouse Attendant-2 (One Post vacant)
+26   पहुँचने का माध्यम               By railway upto Bhavnagar then 80 km by Road upto
+                                     lighthouse vaya talaja
+     Mode of approach
+27   उपलब्ध सविधाए                   Police station, Dispensary at Talaja 25 km from lighthouse.
+                                     High school and Post office at Pithalpur 8 km. from
+     Facilities available
+                                     Lighthouse
+28   डाकपताPostal address            Assistant Engineer (E )
+                                     Gopnath Lighthouse&, DGPS station
+                                     P.O. Ralia, Via- Pithalpur,
+                                     Dist. Bhavnagar (Gujarat). Pin – 364 135.
+
+29   मूल्य का ब्योराCost details     3,90,000/-
+     (At the time of Construction)
+30   प्रितनन मे लाने का टदनांक       30/03/1983
+     Date of commissioning
+

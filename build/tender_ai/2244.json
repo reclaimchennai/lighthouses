@@ -1,0 +1,51 @@
+{
+  "nid": 2244,
+  "title": "Civil maintenance & repairs to Mahe Lighthouse, Mahe in the UT of Puducherry",
+  "summary": "Sealed quotation for civil maintenance and repairs (steel handrail replacement, epoxy and enamel painting, plastering, interior and compound wall painting) at Mahe Lighthouse, Puducherry, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-20002/1/2020-MS; I/93814/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mahe Lighthouse, Mahe, UT of Puducherry", "station_id": "mahe-lighthouse", "kind": "lighthouse", "work": "Civil maintenance and repairs: steel work dismantling, GI pipe hand rails, epoxy/enamel painting of LH tower, plastering, interior and compound wall painting"},
+    {"name": "Kadalur Point Lighthouse", "station_id": "kadalur-point-lighthouse", "kind": "lighthouse", "work": "Station in charge: issue of blank quotation forms and receipt of sealed quotations (no work)"}
+  ],
+  "scope": [
+    {"item": "Dismantling steel work in built up sections in angles, tees, flats and channels including gusset plates, bolts, nuts, cutting rivets, welding, dismembering and stacking within 50 m lead (rate Rs 6.55, amount Rs 2,554.50)", "qty": "390.00", "unit": "Kg", "site": "Mahe Lighthouse"},
+    {"item": "Providing and fixing 50mm dia G.I. pipe hand rail welded to steel ladder railing, balcony railing, staircase railing and similar works, including priming coat (rate Rs 235.31, amount Rs 1,44,009.72)", "qty": "612.00", "unit": "Kg", "site": "Mahe Lighthouse"},
+    {"item": "Finishing with Epoxy paint on steel work (two coats) including priming coat, surface preparation, scaffolding (rate Rs 280.16, amount Rs 6,723.84)", "qty": "24.00", "unit": "Sqm", "site": "Mahe Lighthouse"},
+    {"item": "Providing and laying cement concrete 1:1.5:3 (20 mm graded stone aggregate) excluding centering and shuttering (rate Rs 9,666.03, amount Rs 966.603)", "qty": "0.10", "unit": "Cum", "site": "Mahe Lighthouse"},
+    {"item": "12 mm cement plaster of mix 1:4 (rate Rs 414.13, amount Rs 828.26)", "qty": "2.00", "unit": "Sqm", "site": "Mahe Lighthouse"},
+    {"item": "Painting with synthetic enamel paint to exterior side of LH tower including surface preparation and scaffolding (rate Rs 119.13, amount Rs 27,399.9)", "qty": "230.00", "unit": "Sqm", "site": "Mahe Lighthouse"},
+    {"item": "Wall painting with premium acrylic emulsion paint two coats, interior grade, of LH tower, VOC < 50 g/litre (rate Rs 165.49, amount Rs 44,020.34)", "qty": "266.00", "unit": "Sqm", "site": "Mahe Lighthouse"},
+    {"item": "Wall painting two coats with acrylic emulsion paint, exterior grade, of the compound wall, VOC < 50 g/litre, including scraping and sand papering (rate Rs 159.29, amount Rs 10,831.72)", "qty": "68.00", "unit": "Sqm", "site": "Mahe Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 237334.88,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "5% of quoted amount by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships, Cochin, payable at Ernakulam; released after completion",
+    "notes": "Estimate is the schedule total (rates include cost index 14.95%). Bidders quote a percentage above/below; quoted rate to include GST, materials, labour, scaffolding, transport. No escalation. No EMD mentioned."
+  },
+  "period": {"completion": "01 month from date of issue of work order", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2026-02-06", "pre_bid": null, "bid_submission_end": "2026-02-26", "bid_opening": null},
+  "eligibility": [
+    "Contractor to submit copy of PAN card, GST registration and bank account details",
+    "Award to lowest quoted amount (L1)"
+  ],
+  "specs": [
+    "50mm dia G.I. pipe hand rails with steel primer",
+    "Epoxy paint two coats on steel work",
+    "Acrylic emulsion paints with VOC content less than 50 grams/litre"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQMahe.pdf", "pages": 9, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Submission deadline is inconsistent within the document: Hindi notice text says 26.02.2026 17:00 hrs, English notice text says 26.02.2026 up to 15:00 hrs, while Annexure-II T&C clause 2 says 25.02.2026 up to 15:00 hrs (listing end date 2026-02-25, opening 2026-02-27). Recorded 26.02.2026 from the notice. Blank forms issued 10.02.2026-25.02.2026 at DLL Cochin or Kadalur Point Lighthouse; site inspection 10.02.2026-25.02.2026. Title in notice spells Puducherry (listing: Punucherry)."
+}

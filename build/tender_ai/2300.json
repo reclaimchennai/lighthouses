@@ -1,0 +1,51 @@
+{
+  "nid": 2300,
+  "title": "Furnishing of IQ at Kalingapatnam Lighthouse, Andhra Pradesh.",
+  "summary": "Offline sealed quotation for supply of furniture and bedding (single beds, centre table, mattresses, pillows, bed sheets, blankets, towels) for the Inspection Quarters at Kalingapatnam Lighthouse, Andhra Pradesh.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-150H/1/2019-Civil; I/96207/2026",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kalingapatnam Lighthouse, Andhra Pradesh-532406", "station_id": "kalingapatnam-lighthouse", "kind": "lighthouse", "work": "Furnishing of Inspection Quarters (IQ)"}
+  ],
+  "scope": [
+    {"item": "Providing and fixing Single Beds of 2nd class teakwood with 18 mm plywood top, size 3.5'x6.5'", "qty": "4", "unit": "Nos", "site": "Kalingapatnam Lighthouse"},
+    {"item": "Central teapoy of 2nd class teakwood with 8mm tempered glass top, 1200mm x 600mm", "qty": "1", "unit": "Nos", "site": "Kalingapatnam Lighthouse"},
+    {"item": "Mattress for single bed, 6\" thick (Kurlon, Neelkamal etc.)", "qty": "4", "unit": "Nos", "site": "Kalingapatnam Lighthouse"},
+    {"item": "Standard size pillow (Godrej, Kurlon etc.)", "qty": "4", "unit": "Nos", "site": "Kalingapatnam Lighthouse"},
+    {"item": "Cotton bed sheet with pillow cover (Raymonds, Bombay Dyeing etc.)", "qty": "8", "unit": "Nos", "site": "Kalingapatnam Lighthouse"},
+    {"item": "Woollen bed sheet (Kambal) (Kurlon, Raymonds etc.)", "qty": "4", "unit": "Nos", "site": "Kalingapatnam Lighthouse"},
+    {"item": "Big size towel", "qty": "8", "unit": "Nos", "site": "Kalingapatnam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 202260.0,
+    "emd_inr": 4100.0,
+    "tender_fee_inr": null,
+    "performance_security": "3% of quoted value within 15 days of LoI (clause 3.1.xii); clause 3.1.xiii separately states 5% of contract value valid 6 months after completion",
+    "notes": "Estimated cost inclusive of GST. EMD by DD/FDR in favour of The Director of Lighthouses and Lightships, Kolkata. L1 decided on total basic amount. Penalty 0.5% per week, max 10%."
+  },
+  "period": {"completion": "45 days from date of award of work", "bid_validity": "180 days from bid opening", "warranty": "6 months from date of completion"},
+  "dates": {"published": "2026-03-18", "pre_bid": null, "bid_submission_end": "2026-04-08", "bid_opening": "2026-04-09"},
+  "eligibility": [
+    "Valid PAN and GST registration",
+    "Notarized affidavit that bidder is not blacklisted/debarred by any Central/State Govt.",
+    "Similar works in last 7 years: one work >= 80% of estimated value, or two works each >= 50%, or three works each >= 40%",
+    "Similar work: experience in any civil works at Central Govt./State Govt./other reputed private organization (work completion certificate)"
+  ],
+  "specs": [
+    "Single beds 3.5'x6.5', 2nd class teakwood, 18 mm plywood top",
+    "Centre table 1200x600 mm with 8 mm tempered glass top",
+    "Mattress 6 inch thickness; brands indicated: Kurlon, Neelkamal, Godrej, Raymonds, Bombay Dyeing"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ.pdf", "pages": 18, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Offline two-envelope sealed quotation, document also on CPPP epublish and dgll.nic.in. Scope of work section contains no technical scope beyond the price bid items. Contract agreement template still dated 2025. Performance security percentage inconsistent (3% vs 5%)."
+}

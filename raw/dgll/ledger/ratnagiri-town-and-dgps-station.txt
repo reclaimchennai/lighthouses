@@ -1,0 +1,221 @@
+                                मास्टर लेजर/MASTER LEDGER
+
+
+
+
+                                  रत्नागिरीदीपस्तंभऔरडीजीपीएसस्टे शन
+                   RATNAGIRI LIGHTHOUSE AND D.G.P.S STATION
+
+क्रमसंख्या/             नाम /Name
+                                                                        वििरण/Discription
+   Sr.No
+     1        ए.एल.ओ.एल/A.L.O.L.               F0580     (RATNAGIRI LIGHT HOUSE AND DGPS STATION)
+     2        स्थान/Position                   Lat. 16 59.2’N
+                                                      0
+
+                                               Long. 730 16.4’E
+
+    3         ऊंचाई/Elevation                  103 Meters above MHWS
+
+    4         अभिलक्षण/Characteristic          Gr. fl W (2) White every 10 Sec. (Fl.0.41 + ec 1.59 + Fl 0.41 + ec
+                                               7.59 = 10 Sec.)
+
+    5         नॉटिकलमाइलमेदरू ी                Luminous: 23 NM
+                                               Geographical : 25 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower           Type                           Circular Masonry Tower
+                                               Height                         15.25 Meters
+                                               Colour Scheme                  Black and White Bands 3 Nos. of 4.9
+                                                                              m each (2 Black + 1 White)
+                                                                              Bottom band: Black
+    7         ऑप्टिकलउपकरण                     Optic
+              Optical equipment
+                                               Make                           M/s. Stone Chance, England
+                                               Type                           3rd order small
+                                               Size                           375mm Focal length
+                                               No. of lens                    4
+
+                                               Area of dioptric portion     1430 sq. cm
+                                               Area of catadioptric portion 5750 sq. cm.
+
+                                               Divergence                     Horizontal – 8.360, Vertical – 6.080
+                                               Main/Emergency
+                                               Duration of Flash              0.41 sec
+                                               Main /Standby/Emergency
+                                        Lamp changer                 N/A
+                                        Pedestal                     Mercury float (51 Kg. in use)
+
+                                        Rotation Device              Dual Stepper Motor 40 Kg/cm2 with
+                                                                     auto changeover
+                                        R.P.M.                       3
+                                        illumining
+                                        Main                         3 x 150W, Metal Halide Lamp
+                                                                     cluster
+
+                                        Standby                      N/A
+                                        Emergency:                   N/A
+                                        Date of Installation         15th June 1965
+8    प्रिािीबीमतीव्रता/Effective beam   Main & Standby               352948 cd.
+     intensity
+                                        Emergency                    N/A
+9    लेंिनन/Lantern                     Diameter                     2.16 m
+                                        Height of glazing            1.37 m
+                                        No. of panles                6 Nos., Plus 2 Nos. land ward
+                                                                     side blanked
+                                        Ventilators                  7 No.s
+10   RACON
+     Make               Model           Code                         Band                 Date of
+                                                                                          Installation
+     Pharos Marine      HY112018064     ‘G’ ( - - . )                   X Band            18/11/2018
+                        9
+11   NAIS
+     Base Station
+
+
+     Model                Type          Power                     MMSI
+     R40                  ---           AC: 100-240V              ----
+                                        DC: +24 V
+     Communication
+     Equipment
+     VSAT Antenna         Band          XC Band Make:             Modem           L Band Make: Datum
+                                        Prodelin
+     DGPS
+     Trasmitter Make      Frequency     Power Output RS 1         RS -     Beac Date of          Date of
+                                                     ID           II ID    on ID commissio       Recapitali
+                                                                                                 zation
+                                                                                 ning
+     Nautel VRD 750       308 KHZ       500 W               420   421      110   01/06/2003      29/09/20
+                                                                                                 17
+
+12   ऊर्ानकेसाधन/Sour     Mains                                   Local Mains 440 V 3 phase 50Hz &
+                                                                   20 KW on grid Solar power System
+     ce of energy
+                          Standby                                 Diesel Generator Set
+                          Engine 1
+                            Make/Type                     Qty          Rating   No of         RPM          Cooling
+                                                                                Cylinder
+                            KOEL(Kirloskar) /               1 No.      25KVA    3             1500         Air
+                            HA394TCI61
+                            Alternator
+                            Make/Type                     Qty          Rating   Voltage/Amp   Frequency    Phase
+                            Kirloskar / KG42.3B           1No.         25 KVA   415v/34.8     50HZ         3 Phase
+                                                                                A
+                            Engine 2
+                            Make/Type                     Qty          Rating   No of         RPM          Cooling
+                                                                                Cylinder
+                            KOEL(Kirloskar) /               1 No.      25 KVA   3             1500         Air
+                            HA394TCI61
+                            Alternator
+                            Make/Type                     Qty          Rating   Voltage/Amp   Frequency    Phase
+                            Kirloskar / KG42.3B           1 No.        25 KVA   415v/34.8     50HZ         3 Phase
+                                                                                A
+                            Solar Plant
+                            Capacity PV                   Numbers               Type          Battery      Bank
+                            250 W                         80 No.S               Mono -        ---          ----
+                                                                                Crystalline
+                            Solar Plant for Main RACON
+                            Capacity PV                   Numbers               Type          Battery      Bank
+                            70 W & 75 W                   2 No.S                Mono-          1No.          --
+                                                                                Crystalline   12V / 65Ah
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model                  Capacity        Input          Output        Phase        Qty
+     Servomax             --------               15 KVA          170-270 V      230± 1%       1 Phase      3 No.S
+14   बैिरर
+     Batteries
+     Equpment             Type                   Make           Volt            Amp/Hr        Qty
+     PSS NAIS              ---                   ---            ----            ---           ---
+     Genset               Lead Acid              Koel           12 V            75 Ah         2 No.S
+                                                 Green
+     Automation            SMF                   Rocket         12 V            26 Ah         2 No.S
+     DGPS                  SMF                   Exide          12 V            42 Ah         22 No.S
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make                   Mode Type                      Rating        Qty
+                                                 l
+     General Purpose      --------               ------ ------                  -----         -----
+     Automation           Powerex                C280 ---                       26.5 V/15     1 No.
+                          Engg.                  110                            A
+16   इंवटट रInverter /UPS
+     Equipmen Nos Make                   Model       Type              Rating   Qty           input        output
+     t
+     Main          3       Exide      Exide   Offline       850 VA        3 No.      230 V AC        230 V
+     Light         No.     DST        DST PSt Mode                                   12 V DC
+                           PSt        UPS
+                           UPS
+     NAIS PSS      2       APC        SRC       Online      1 KVA         2 No.      230 V           230 V
+                   No.                1KI-IN    mode
+     DGPS          3       APC        SRC10K    Online      10 KVA, 3     1 No. Each 230 V           230 V
+                   No.                -UXI      Mode        KVA, 1
+                                      ,SRC                  KVA
+                                      3000
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE          PLC               HMI        Power Supply         VSAT         Modem      Band
+     NELCO         1No.Schneid       1No..      26 V Make            1.8 m Dia.   1 No.      TX: L Band
+                   er electric & 1   Scheide Powerex Engg.                        Sky-       (950-1450MHz)
+                   No.Telemeca       r Electric                                   Edge       Rx:L Band (950-
+                   nique                                                                     1750 MHz)
+18   आप्ननशमनउपकरण                          Type of Extinguisher     Capacity      Nos         Make
+     Fire Fighting Equipment                CO2                      6.5 Kg        2           Safex
+
+
+
+
+19   संचार                                  BSNL Tel. No. 02352 – 232982, Fax        Not Available
+                                            Panasonic
+     Communication
+20   र्लपूर्तन                              1)Open well (40 ft. deep) Submersible 2 HP, 3 Phase
+                                            Motor. 2)Borewell(200ft deep), 3phase 2 HP motor& .
+     Water Supply
+                                            3)Municipal water supply Submersible 2 HP, 3 Phase Motor.
+21   िूभम                                   Area                                       1.182 Hectares
+     Land
+                                            Demarcation                              Compound Wall
+22   इमारतें                                Quarters                                 Lighthouse Tower,
+                                                                                     Power House(DGPS
+     Buildings
+                                                                                     Room, Store
+                                                                                     Room),Auxiliary Red
+                                                                                     Light room,Coil Hut,
+                                                                                     Inspection
+                                                                                     Quarter,One Twin unit
+                                                                                     of A.E.(E)& NAII One
+                                                                                     Twin Unit of NAIII
+                                                                                     Quarter, One Twin unit
+                                                                                     of LHA Quarter, One
+                                                                                     SRT Quarter, Water
+                                                                                     Pump Room.
+23   कंपाउं डलाइि                                                                    19 No. Street Light
+                                                                                     Fittings,
+     Compound Lights
+                                                                                  2 Gate Dome lights.
+24   सीसीिीिीकमेरा                   Camera                                       ---
+      CCTV CAMERA                    DVR                                          ----
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1             Senior Radio Technician – 1 No.
+                                     2             Navigational Assistant Grade II - 1 No.
+                                     3             Navigational Assistant Grade III - 1 No.
+                                     4             Lighthouse Attendent -1 No.
+                                     5
+
+
+                                     6
+                                     7
+26   पहुँचनेकामाध्यम                 By rail Konkan Railway upto Ratnagiri Station,
+                                     then 12 Kms. By road upto Lighthouse
+     Mode of approach
+27   उपलब्धसविधाए                    Marine Police Station   Yes. Approx. 5 Km
+     Facilities available            Dispensary              Yes. Civil Hospital At 4 Km
+                                     High School             Yes. Appox. 7 Kms.
+                                     Post office           Ye. Approx. 4 Kms.
+28   डाकपताPostal address            Assistant Engineer(E),
+                                     Ratnagiri Lighthouse & DGPS Stn.
+                                     Ratnagiri (Killa), Post. Ratnagiri,
+                                     Dist. Ratnagiri, Maharastra- 415 612.
+29   मल्ू यकाब्योराCost details      ------
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          15th June 1965
+     Date of commissioning
+

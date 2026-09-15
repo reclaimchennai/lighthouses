@@ -1,0 +1,46 @@
+{
+  "nid": 2540,
+  "title": "Replacement of Trestle tower at Kadamath Lighthouse in the UT of Lakshadweep - Fabrication & Supply of 30m high GI Trestle tower (Hot dipped Galvanized) at Deep Bhavan, Kochi",
+  "summary": "E-tender to fabricate and supply a 30 m high hot-dip galvanized GI trestle tower at Deep Bhavan, Kochi, for replacement of the trestle tower at Kadamath Lighthouse, Lakshadweep.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kadamath Lighthouse, UT of Lakshadweep", "station_id": "kadamat-lighthouse", "kind": "lighthouse", "work": "Replacement of trestle tower (new 30m GI trestle tower)"},
+    {"name": "Deep Bhavan, Kochi", "station_id": null, "kind": "office", "work": "Location for fabrication and supply of the tower"}
+  ],
+  "scope": [
+    {"item": "Fabrication & Supply of 30m high GI Trestle tower (Hot dipped Galvanized)", "qty": "1", "unit": "tower", "site": "Deep Bhavan, Kochi"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1615100.0,
+    "emd_inr": 32302.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD shown as Rs 32,302 in the NIT table but Rs 33,918 in Terms & Conditions clause 01; by DD/FDR in favour of Director of Lighthouses and Lightships - Cochin payable at Ernakulam. Originals of EMD (or MSME/UDYAM/NSIC certificate) to be submitted physically; last date of EMD 26.08.2026 1500 hrs."
+  },
+  "period": {"completion": "120 days", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2026-07-27", "pre_bid": "2026-08-12", "bid_submission_end": "2026-08-27", "bid_opening": "2026-08-28"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies; OR for Lakshadweep contractors, work experience with any Government department in island works during last 7 years",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two works each >= 50%, or one work >= 80%",
+    "Similar works: erection of trestle/lighthouse/communication tower or construction/maintenance of residential/institutional/office building, road etc. (Hindi text instead mentions painting of tall buildings, LH towers, trestle towers)",
+    "PAN and GST registration",
+    "Annual turnover of last three years certified by Chartered Accountant",
+    "Declaration that bid is unconditional; affidavit on Rs 100 stamp paper that bidder is not blacklisted",
+    "Undertaking listing relatives serving as Gazetted/Account officers in MoPSW or DGLL",
+    "Copy of EPF / labour registration certificate; Tender Acceptance Letter; Bid Securing Declaration"
+  ],
+  "specs": ["30 m high GI trestle tower, hot dipped galvanized"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 5, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section I (NIT) only, printed pages 2-6; no BOQ or technical specification included. EMD mismatch within NIT (Rs 32,302 in table vs Rs 33,918 in clause 01). Listing end date 2026-08-27 matches bid submission end; listing bid_opening 2026-08-27 differs from NIT tech-bid opening 28.08.2026. Bid submission period 07.08.2026 1000 hrs to 27.08.2026 1500 hrs; bid query last date 11.08.2026."
+}

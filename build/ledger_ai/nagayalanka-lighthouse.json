@@ -1,0 +1,45 @@
+{
+  "slug": "nagayalanka-lighthouse",
+  "pages_read": [1, 2, 4, 5],
+  "name": "Nagayalanka Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1901,
+  "alol": "0953",
+  "position": {"lat_text": "15° 47' 10\" N", "lon_text": "80° 59' 15\" E", "lat": 15.786111, "lon": 80.9875},
+  "elevation_m": 35,
+  "characteristic_text": "FL W EV. 15 Seconds (Fl 11.16+03.84= 15 sec.)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "Fl 11.16+03.84= 15 sec.",
+    "sequence_s": [11.16, 3.84],
+    "flash_duration_s": 1.16
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 24.0, "geographical_nm": 16.5, "text": "Luminous 24.0, Geographical 16.5"},
+  "tower": {"type": "Square Stone Masonry Tower", "height_m": 37, "colour_scheme": "Red and White Diagonal bands"},
+  "optic": {
+    "make": "M/s BBT", "model": null, "type": null, "size": "700 mm (2nd order) revolving", "order": "2nd order",
+    "panels": 4,
+    "rotation_device": "Stepper Motors 40kg/cm2 and standby Clock machine",
+    "rpm": 1,
+    "rotates": true,
+    "rotates_evidence": "Size: 700 mm (2nd order) revolving; Rotation Device: Stepper Motors; Rotation Speed 1 RPM",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": "Metal halide lamps. (3X 70 W)Cluster"
+  },
+  "intensity_cd": 438480,
+  "racon": {"present": false, "code": null, "text": "NIL"},
+  "ais": {"present": true, "text": "NAIS rack, isolation transformer and UPS, R40 AIS base stations-2 Nos, GPS antennas-2, VHF antennas-2"},
+  "dgps": {"present": null},
+  "power": {"mains": null, "solar": true, "generator": true, "text": "Energy Source: Solar powered backup; 51 solar panels total; one standby Kirloskar HA294 20.5 HP engine generator with 15 KVA alternator"},
+  "issues": [
+    "Characteristic sequence 'Fl 11.16+03.84' conflicts with stated duration of flash 1.16 seconds",
+    "No. of panels printed '4 log of 90° each'",
+    "Year first light commissioned 1901; date of commissioning 17-09-1998"
+  ]
+}

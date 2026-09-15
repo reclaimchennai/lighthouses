@@ -1,0 +1,192 @@
+                         मास्टर लेजर/MASTER LEDGER
+
+
+
+
+                 मरु
+                  ु ड जंजीरा दीपस्तंभ/ MURUD JANJIRA LIGHTHOUSE
+क्रमसंख्या/              नाम /Name
+   Sr.No                                                          वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.        F 0559
+    2         स्थान/Position            Latitude 18̊ 18’ 85” N,
+                                        Longitude 72̊ 57’ 58” E
+    3         ऊंचाई/Elevation           80 mtr.
+    4         अभिलक्षण/Characteristic   Fl( 2)W15 seconds
+    5         नॉटिकलमाइलमेदरू ी         i) Luminous                    :          ---
+                                        ii) Geographical               :           8 NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower    Type                               The existing concrete pillar Lighthouse
+                                                                           tower is of 12m height and light
+                                                                           equipment was installed on top of the
+                                                                           tower earlier.It is reported that the
+                                                                           light is non functional since so
+                                                                           many years.
+
+
+                                        Height                             12 mtr.
+                                        Colour Scheme                      ---
+    7         ऑप्टिकलउपकरण              Optic
+              Optical equipment
+                                        Make                               ---
+                                        Type                               ---
+                                        Size                               ---
+                                        No. of lens / No. of panels        ----
+
+                                        Area of dioptric portion           ---
+                                        Area of catadioptric portion       ---
+                                        Divergence                         ---
+                                        Main/Emergency
+                                        Duration of Flash                  ---
+                                        Main /Standby/Emergency
+
+                                        Lamp changer                       -N/A-
+                                        Pedestal                           ---
+                                        Rotation Device                  ---
+                                        R.P.M.                           ---
+                                        Illuminant
+                                        Main                             ---
+                                        Standby                          -N/A-
+                                        Emergency:                       -----
+                                        Date of Installation             ---
+8    प्रिािीबीमतीव्रता/Effective beam   Main & Standby                   ---
+     intensity
+                                        Emergency                        -
+9    लेंिनन/Lantern                     Diameter                         ----
+                                        Height of glazing                ----
+                                        No. of panes                     ----
+                                        Ventilators
+
+
+
+10   RACON
+     Make                   Model       Code                             Band                   Date of
+                                                                                                Installation
+     ----                   ----        ----                             ----                   ----
+11   NAIS
+     Base Station                       -N/A-
+
+     Make & Model           Type        Power                              MMSI
+     ----                   ----        ----                               ----
+     Communication
+     Equipment
+     VSAT Antenna:          Band :      Modem:
+
+     DGPS
+     Trasmitter Make        Frequency   Power Output           RS 1 ID     RS -II     Beacon      Date of      Dat
+                                                                           ID         ID          commis       e
+                                                                                                  sioning      of
+                                                                                                               Re
+                                                                                                               ca
+                                                                                                               pit
+                                                                                                               aliz
+                                                                                                               ati
+                                                                                                               on
+     -N/A-                  -N/A-       -N/A-                  -N/A-       -N/A-      -N/A-       -N/A-        -
+                                                                                                               N/
+                                                                                                               A-
+     -N/A-                  -N/A-       -N/A-                              -N/A-                  -N/A-
+12   ऊर्ानकेसाधन/Source     Mains
+     of energy              Mains
+                            Standby                                        -N/A-
+                            Engine 1
+                            Make/Type            Qty           Rating      No of         RPM               Coolin
+                                                                           Cylinder                        g
+                            ----                 ----          ----        ----          ----              ----
+                              Alternator
+                              Make/Type               Qty        Rating        Voltage/A      Frequency         Phase
+                                                                               mp
+                              ----                    ----       ----          ----           ----              ----
+                              Engine 2: -N/A-
+                              Make/Type               Qty        Rating        No of          RPM               Coolin
+                                                                               Cylinder                         g
+
+                              Alternator: -N/A-
+                              Make/Type               Qty        Rating        Voltage/A      Frequency         Phase
+                                                                               mp
+
+
+                              Solar Plant:
+                              Capacity PV             Numbers                  Type           Battery           Bank
+
+                              Solar Plant for Main RACON
+                              Capacity PV            Numbers                   Make/Type      Battery           Bank
+                              ----                   ----                      ----           ----
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                   Model             Capa    Input                    Output         Phase             Qty
+                                              city
+     ----                   ----              ----    ----                     ----           ----              ----
+14   बैिरर
+     Batteries
+     Equpment               Type              Make     Volt                    Amp/Hr         Qty
+     PSS NAIS               ----              ----     ----                    ----           ----
+     Genset                 ----              ----     ----                    ----           ----              ----
+     Automation
+     DGPS
+15   बैिररचार्नर/ Battery charger
+
+     Equipment              Make              Model Type                       Rating         Qty
+     General Purpose        ----              ----  ----                       ----           ----              ----
+     Automation             ----              ----  ----                       ----           ----              ----
+16   इंवटट रInverter /UPS
+     Equipment Nos          Make      Model        Type        Rating          Qty            input             output
+     Main Light N/A         ----      ----         ----        ----            ----           ----              ----
+     NAIS PSS N/A           ----      ----         ----        ----            ----           ----              ----
+     DGPS            N/A    ----      ----         ----        ----            ----           ----              ----
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE       PLC                  HMI           Power Supply           VSAT            Modem       Band
+                Telemecanique        Schneider     Powerex                Tata Net        Sky-        Ex-C
+                                                   Engineering                            Edge
+18   आप्ननशमनउपकरण                            Type of Extinguisher        Capacity          Nos         Make
+                                              -N/A-                       -N/A-             -N/A-       -N/A-
+     Fire Fighting Equipment         -N/A-                       -N/A-              -N/A-        -N/A-
+                                     -N/A-                       -N/A-              -N/A-        -N/A-
+                                     -N/A-                       -N/A-              -N/A-        -N/A-
+                                     -N/A-                       -N/A-              -N/A-        -N/A-
+
+
+19   संचार / Communication           -----                                             ------
+
+20   र्लपर्ू तन                      -N/A-
+     Water Supply
+21   िभू म                           Area               12 mt height 30cm diameter RCC pillar with MS
+                                                        ladder. The area of 1.10 Hector encompassed with
+     Land
+                                                        dry stones boundary wall in dilapidated condition.
+                                     Demarcation
+22   इमारतें                         Quarters           -N/A-
+     Buildings
+23   कंपाउं डलाइि                                       -N/A-
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera             -N/A-
+     CCTV CAMERA                     DVR                -N/A-
+
+
+
+
+25   स्िाफ                           Sl. No          Designations
+     Staff                           1             -N/A-
+                                     2             -N/A-
+                                     3             -N/A-
+                                     4             -N/A-
+26   पहुँचनेकामाध्यम                 The Lighthouse located on Bandar Hill at Murud Janjira , District Raigad
+     Mode of approach                which is 165 km away from Mumbai towards south. Nearest town is
+                                     Alibaug 60km There is no approach road from foot of hill to top of hill and
+                                     approachable on foot having distance of about 1800meter through “
+                                     Gochar” revenue land by crossing thick bushes.
+
+27   उपलब्धसविधाए                    Marine Police Station      -N/A-
+     Facilities available            Dispensary                 -N/A-
+                                     High School                -N/A-
+                                     Post office                -N/A-
+28   डाकपताPostal address            C/o, Head Lightkeeper,
+                                     Korlai Fort Lighthouse, P.O. Korlai Ta. Murud Dist. Raigad Pin no.
+                                     402202
+29   मल्
+       ू यकाब्योराCost details       Rs……
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक
+     Date of commissioning    .
+

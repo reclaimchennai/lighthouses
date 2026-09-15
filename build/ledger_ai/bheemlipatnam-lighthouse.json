@@ -1,0 +1,45 @@
+{
+  "slug": "bheemlipatnam-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Bheemlipatnam Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1868,
+  "alol": "F 0978",
+  "position": {"lat_text": "17° 56'.30\" N", "lon_text": "83° 27'24\" E", "lat": 17.941667, "lon": 83.456667},
+  "elevation_m": 10.97,
+  "characteristic_text": "3FL (W) every 15Seconds (FL 1+ EC 2+FL 1+EC 2+FL 1+EC8=15sec)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "FL 1+ EC 2+FL 1+EC 2+FL 1+EC8=15sec",
+    "sequence_s": [1, 2, 1, 2, 1, 8],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 15, "geographical_nm": 12, "text": "Luminous 15 M, Geographical 12 NM"},
+  "tower": {"type": "Circular Brick masonry Tower", "height_m": 10.97, "colour_scheme": "White day mark"},
+  "optic": {
+    "make": "M/s. Aero marine", "model": "SL-155", "type": "LED Light Beacon", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED Light Beacon; illuminant 12V, 18 W LED Light (Sea lite make SL155); no rotation device listed",
+    "divergence_horizontal_deg": 3,
+    "divergence_vertical_deg": 3,
+    "divergence_text": "Horizontal 3°, Vertical 3°",
+    "illuminant": "12V, 18 W LED Light (Sea lite make SL155)"
+  },
+  "intensity_cd": 9000,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "APEPDCL single phase 230V 50Hz mains; 0.15KW off grid solar plant for main light (2 No 12V/150W panels, 2No 12V/100AH battery); standby diesel engine Nil"},
+  "issues": [
+    "Name printed as 'BHEEMINIPATNAM LIGHT HOUSE' in the Name field; page title reads 'Bheemlipatnam Lighthouse'",
+    "Latitude printed as 17° 56'.30\" (mixed minute/second notation); converted as 17°56'30\"",
+    "Duration of flash given as 0.38 seconds but characteristic sequence gives FL 1 s"
+  ]
+}

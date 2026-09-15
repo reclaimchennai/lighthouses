@@ -1,0 +1,42 @@
+{
+  "nid": 1595,
+  "title": "Special repairs and Civil Maintenance to Lighthouse Tower, Technical Buildings Museum and allied buildings, arial mast towers and Compound wall etc., at Muttom Point Lighthouse station.",
+  "summary": "E-tender (two-cover) for special repairs and civil maintenance of the lighthouse tower, technical buildings, museum and allied buildings, aerial mast towers and compound wall at Muttom Point Lighthouse, Kanyakumari District, Tamil Nadu (Chennai Directorate).",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(26)/1/2020-Civil Maintenance; I/58168/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Muttom Point Lighthouse station, Kanyakumari District, Tamilnadu", "station_id": "muttom-point-lighthouse-and-navtex-station", "kind": "lighthouse", "work": "Special repairs and civil maintenance to tower, technical buildings, museum, allied buildings, aerial mast towers and compound wall"}
+  ],
+  "scope": [
+    {"item": "Special repairs and Civil Maintenance to Lighthouse Tower, Technical Buildings Museum and allied buildings, arial mast towers and Compound wall etc.", "qty": null, "unit": null, "site": "Muttom Point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 5540672.0,
+    "emd_inr": 110813.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of any scheduled/nationalised bank in favour of Director of Lighthouses and Lightships, Chennai, payable at Chennai; valid three months from technical bid opening. Tender fee NIL."
+  },
+  "period": {"completion": "06 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-05-29", "pre_bid": "2024-06-13", "bid_submission_end": "2024-06-20", "bid_opening": "2024-06-21"},
+  "eligibility": [
+    "Valid registration in appropriate category & class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Similar works in last seven years: three each >= 40%, two each >= 50%, or one >= 80% of estimated cost; completed works only; value updated at 7% p.a.; certificates below Executive Engineer rank not considered",
+    "Similar works: repairs and civil maintenance of building or construction of any type of building/compound wall/retaining wall/RCC work",
+    "PAN/ITCC/GST registration; key technical personnel details",
+    "Unconditional tender undertaking (Annexure III), tender acceptance letter (Annexure II), non-blacklisting affidavit, list of relatives in MoPSW/DGLL, Make in India self-certification (Annexure VI)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITMuttomCM24.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Section I NIT only; no BOQ. Download/submission 30.05.2024 15:00 to 20.06.2024 15:00; EMD original by 20.06.2024 15:00; opening 21.06.2024 15:00."
+}

@@ -1,0 +1,732 @@
+                Dolphin Nose Lighthouse
+                                Estd.1940.
+                             MASTER LEDGER
+
+
+                                        DOLPHIN'S NOSE LIGHTHOUSE CUM
+1. Name                         :       D.G.P.S. STATION
+     Sr.No.
+2.                              : 0970
+     (In A.L.O.L)
+                                  Lat: 17o 40.5' N
+3. Position                     :
+                                  Long: 83o 17.7' E
+4. Elevation                    :          173 above MSL
+                                        FL.W. 10 Sec
+5. Characteristic
+                                        (Fl 0.33 Sec. Ec9.67 Sec.)
+
+6. Range in nautical miles
+         i)       Luminous          :        32 M
+        ii)  Geographical :    31 NM
+ 7. Lighthouse Tower
+       i) Type            : Square Masonry Tower
+         i) Height                  : 19 Mtr
+      ii) Colour Scheme             : Black & White bands
+ 8. Optical Equipment
+       a) Optic
+         i) Make                    : BBT
+         ii)      Size              : 375 mm (3rd order small) Revolving
+         iii) No. of Panels         : 1 Nos.
+          iv)    Area of
+                 dioptric           : 1964.30 q.cm.
+                 portion
+          v)     Area of
+                 catadioptric       : 10,007 sq.cm.
+                 portion
+                vi) Divergence
+                  Main/Service        : Horizontal 5057', Vertical 20 1'
+                  Standby             : Not Provided
+                  Emergency           : Not Provided
+                vii) Duration of flash
+                  Main               : 0.33 seconds
+                  Emergency           : ---
+
+b)    Pedestal                    : Mercury float (48.5 kg in use)
+                                    Twin Stepper motor Direct Drive system.
+c)    Rotation Device             : i)Stepper motor :2 No 40Kg-cm (unique make)
+                                    ii) Controller: 2No 40Kg-Cm (unique make)
+d)    Rotation Speed              : 3 RPM
+e)    Illuminant
+                                    MH Lamp 150W-230V, 3 Nos. (cluster
+         i)        Main/Service :
+                                    arrangement)
+         ii)       Standby        : Nil
+         iii)   Emergency     : Nil
+f)    Effective Beam Intensity
+         i)        Main/Service : 9,39,600 cds.
+         ii)       Standby      : Nil
+         iii) Emergency           : Nil
+9.    Lantern
+         i)        Diameter       : 2.5 Mtr
+         ii)       Height of
+                                  : 1.3 Mtr
+                   glazing
+         iii)      No. of panes   :       20 Nos.
+        iv)   Ventilators         :       9 Nos.
+10.   Lamp changer                : Not require, working in Cluster Arrangement.
+
+11.   Energy Source
+         A) APEPDCL Mains : 440V, 3 phase, 50 Hz.
+         B) Green Energy  : 15Kw on grid
+          i)      Solar panels      :       60 No. 24V, 250W panels
+          ii)     PCU               :       15 KW Power-One Micro Systems make
+
+12.   Engine Details.
+      S.No.          Engine No             Make/Typ      HP      No. Of    Model    RPM    Coolin
+                                              e                 Cylinder    No               g
+
+          1       4H.3545/1220049           Kirloskar    105         4     4R1040   1500   Coolant
+                                                                             TA
+          2       4H.3545/1121940           Kirloskar    105         4     4R1040   1500   Coolant
+                                                                             TA
+13.   Details of Alternator
+                                                                                    Phas
+      S.No           Engine No             Make/Type     KVA    voltage     Freq.           RPM
+                                                                                     e
+      1         ES3B011D126846            Kirloskar     70     415         50 Hz    3       1500
+      2         ES3B011E127959            Kirloskar     70     415         50 Hz    3       1500
+
+14.   AMF Panel
+          Make                          : In built inside Kirloskar three phase DG set
+          Capacity                      : 82.5 KVA ( 3 PH)
+15.   Battery Charger               : Pintron make 12V, 10A Charger.
+
+
+16.   Main Light UPS                : 4 Nos.
+          Make                      : UTL
+          Capacity                  : UPS 800 VA
+          Input                     : 12 V DC
+       Output                       :    230 AC
+17.   No. of Batteries              : 2 No. 12 V-150 AH Lead Acid for Genset starting.
+                                         3 Nos. 12V-150AH Lead Acid for cluster of lamps.
+                                         1 no.12V-150AH Lead acid for Steeper motor.
+                                         1 No. 12V-100AH Lead acid battery for RACON
+
+
+      Air-Conditioner
+18.                                 : 19 Nos.
+      (Split type)
+   i. Ac for NAIS
+                          : 10 Nos.
+      project
+    Make                  : Voltas
+    Three Nos. in
+                          : S.No. 455 2623 B 20 LC 46422(Voltas)
+    SERVER Room
+                             S.No. 455 3189 A 22 FF 09241(Voltas)
+                             S.No. 455 3152 A 22 CF 03898 (Voltas)
+    Two Nos. in RCC
+                          : S.No. 455 2627 D 20 KC 08697(Voltas) &
+    Room
+                             S.No. 455 1247 A 11 B 001823(Voltas)
+    Three numbers in
+                          : S.No. 455 2623 B 20 LC 46095(Voltas),
+    CCC Room
+                             S.No. 455 3152 A 22 CF 03863(Voltas) &
+                            S.No. 455 1247 A 11 B 001855(Voltas).
+    Two numbers in          S.No. 455 1247 A 11 B 001861(Voltas) &
+                          :
+    SIMULATOR Room          S.No. 455 1247 A 11 B 001821(Voltas)
+    Capacity              : 1.5 Ton each
+
+
+
+ i. AC for DGPS
+                         : 3 Nos Capacity 1.5 Ton each.
+       project
+    Make                 : Voltas
+    S.No.                : S.No. 455 2623 B 21 CC 78912 (Voltas)
+                           S.No. 455 2089 A 17 FC 04459 (Voltas)
+                           S.No. 455 1960 A 16 IA 00733 (Voltas)
+
+ii. AC for NAVTEX
+                         : 2 Nos Capacity 1.5 Ton each.
+       project
+    Make                 : Voltas
+    S.No.                : S.No. 455 1411 A 12 F 003891 &
+                           S.No. 455 1837A 15 C 005632
+
+iii. Ac for Inspection
+                         : 3 Nos Capacity 1.5 Ton each.
+        Quarter
+     Make                : Voltas
+         S.No.               : S.No. 455 1837A 15 E 017890,
+                               S.No. 4551960 A16IA000672 (top IQ bed room)
+         Make                : Blue Star (IQ Hall)
+         S.No.               : S.No. B118587056607410151496
+         Make                : Voltas (Bottom IQ)
+                               S.No. 4551960 A16IA000681
+
+
+19.    Differential Global Positioning System (DGPS)
+       A. Reference Station : (RS-1) S. No. 17013 P/N: EDRS-MK I
+        Comprising of
+         a) GR 30 professional GNSS reference receiver. (Made in Switzerland)
+            Sl. No- 1705519
+         b) MSK modulator SL. NO: 17C003013 with rack mountable Chassis
+            Sl. NO: 17013
+         c) AR 20 GNSS Choke ring antenna SR. No. 19277003 (MADE IN USA)
+
+      B. Reference Station : (RS-2) Sr.No.17014 P/N: EDRS-MK I
+       Comprising of
+        a) GR 30 professional GNSS reference receiver. (Made in Switzerland)
+           Sl. No- 1705502
+        b) MSK modulator SL. NO: 17C003014 with rack mountable Chassis
+           Sl. NO: 17014
+       c) AR 20 GNSS Choke ring antenna SR. No. 19277004 (MADE IN USA)
+
+      C. Integrity Monitor   : Sr.No.17013, P/N: EDIM-MK I
+       Comprising of
+        a) GR 30 professional GNSS reference receiver. (Made in Switzerland)
+           Sl. No- 1705511
+       b) Demodulator SL.NO. 17C001013
+       c) GEODETIC Antenna AS 10 S/NO: 16471053 ( MADE IN CANADA)
+       d) Beacon Antenna    A031
+                          :
+          Hemisphere MD     Sl. No: B1644-01871-01-029
+
+      D. Integrity Monitor   : Sr.No.17014, P/N: EDIM-MK I
+ Comprising of
+  a) GR 30 professional GNSS reference receiver. (Made in Switzerland)
+     Sl. No- 1705508
+  b) Demodulator SL.NO. 17C001014
+  c) GEODETIC Antenna AS 10 S/NO: 16471054 ( MADE IN CANADA)
+  d) Beacon Antenna    A031
+                     :
+     Hemisphere MD     Sl. No: B1644-01871-01-045
+
+E. RS Changeover
+                       : P/N: EMS50-RB, SL.NO: 174098B7007
+   unit
+
+F. MOXA N PORT
+                        : SL.No: NP5650-16_2873
+   Serial Device Server
+G. CISCO switch         : SL. NO: FCQ1748X39Z
+H. Transmitter: (VRD750 Dual)
+     Make              : M/s Nautel INC, USA
+     Serial No.        : B385
+     Operating
+                       : 295 KHz
+     frequency
+     Power output      : 500 W
+     Input power       :    230 50 Hz, Single phase
+
+
+I. Un interrupted Power supply
+    i) M/s APC make 10 KVA ON line UPS (MODEL NO. : SRC 10 KUXI ; S/NO:
+        B21623000555) for transmitter with 12V/42AH Exide make Lead Acid
+        maintenance free battery 16nos.
+    ii) M/s APC make 3 KVA ON line UPS (MODEL NO. : SRC 3 KUXI) S/NO:
+        B21644006107) for DGPS with 12V/42AH EXIDE make Lead Acid
+        maintenance free battery 6 Nos.
+J. AUTOMATIC TUNING UNIT
+       Make             : M/s Nautel INC, USA
+     Serial No.        : B315
+     Model             : ATU –HP
+     Operating
+                       : 295 KHz
+     frequency
+     Input power       : 230 V, 50 Hz, Single phase
+     30 mtr GI trestle
+                       : 2 Nos for wire antenna.
+     tower
+
+K. ISOLATION               1 No
+                       :
+   TRANSFORMER             (15 KVA, 1 PHASE , S/NO: 17.03.150071)
+
+                           1 no (with LED Display for 3 AC)
+L. AC timer            :
+                           (Sr. No: 17F243)
+
+M. Stabilizer          : 3 nos
+   Model               : SERVOMAX
+                         SERWEL ELECTRONICS PRIVATE LIMITED,
+   Make                :
+                         Hyderabad
+                         2017-05.S00231, 2017-05.S00219, 2017-05-
+   Serial No.          :
+                         S00210
+   KVA Rating          : 15 KVA
+   Operating
+                       : 50/60 KHz
+   frequency
+   Phase               : 1 PH
+
+
+N. Electric Winch      : 2 Ton ( Double Barrel)
+    Model              : 1B42X
+   Make                : Powertek Equipment Co., Mumbai.
+   HP                  : 2.0
+   Serial No.          : 179117, 180117
+   Rope Speed          : 5 mtr / min
+   Wire rope dia       : 8 mm
+   Drum Capacity       : 100 Mtr
+
+O. Portable CO2 fire
+  Extinguisher         : 2 Nos
+  (6.5 kgs)
+      P. Smoke detector
+                             : 1 set (M/s. Ravel make )
+       (Fire Alarm system)
+      Comprising of
+         i)     RE-102-2 Zone stand alone Fire Alarm Control Panel
+                (S/N: 111600010)
+         ii) RE 316SH2L multi sensor
+         iii) RE716MR manual Call point
+         iv) RE 24CS 24 Volt Souder (S/No: 121600041)
+         v)     Battery
+                              : 2 Nos
+             (12 Volt-7 AH)
+
+      Q. Work Station          : 1 set
+      Comprising of
+        i)      Dell professional Tower 3620*CT0, Base 7th Gen Intel Core i7-7700,
+                (Quad core 3.6 GHz, 4.2 GHz Turbo. 8 MB.)
+                model -T3620, Sr. DV5RQM2
+        ii) DELL P2417H 24" professional LED, (Sr. CN-OVRTCJ- QDCOO-7BS-
+             2MEB)
+        iii) Printer ( HP Office Jet 6970), Sr. No: TH79G1R1FG
+
+
+
+20.      RACON
+         i) Make                 : Tideland signal Corp., U.S.A.
+         ii) Input Voltage       : 9 to 36 Volts D.C.
+         iii) RACON S.No.        : 6314
+         iv) Morse Code          : O
+         v) Date of
+                                 : 01-12-2005
+         commissioning
+         vi) Solar panel         : 2 nos /Webel 12 Volt.(sl.no: 013812, 018711)
+         vii) Battery            : 10      / 150 AH
+
+
+21.    NAIS Project
+        i) Physical Shore Station (NAIS)
+            R 40 AIS Base station A                   :   Sl.No.5204
+     R 40 AIS Base station B                    Sl.No.5304
+     VHF Antenna (CX4)                      :   2 Nos.
+     GPS antenna                            :   2 Nos.
+     UPS                                    :   1KVA Hykon
+     Isolation transformer                  :   0.5 KVA, Sl.No: 1512014
+
+
+ii) SERVER ROOM
+1. Stabilizer for A/C (V-GUARD)             : 3 Nos.
+2. Fire alarm Raval model RE 102        : 2 Nos.
+3. Control panel for power supply with
+   digital Volt & Ammeter device change : 1 No.
+   over switch
+      40AMPS MCB                        : 15 Nos.
+     20AMPS MCB                             : 18 No.
+4. BSNL main distributor box                : 1 No.
+5. SLEEK HYPE -1 Fibre management
+                                            : 1No.
+    system
+6. Metal rack with front glass door &
+                                            : 3 Nos.
+    Ventilation fans
+7. Network rack datum system PSM -500 &
+                                            : 11 Nos.
+    Satellite modem
+8. CISCO Router 2900 Series                 : 2 Nos.
+9. CISCO -ASA -5510 Catalyst 3560 B2
+                                            : 1 No.
+    Switch for RCC & CCC
+10. Fibre optic modem for Machilipatnam
+                                            : 2 Nos.
+    & JOC Model TEAMLINK 3002 FC
+11. UPS (APC make) 10 KVA                   : 2 Nos.
+12. Switch (MY POWER make) S3400            : 1 No.
+13. convertor fibre optical to electrical
+                                            : 1 No.
+    BSNL ITI TJ 100 CPR4 SLM -11017
+14. Power supply
+15. CCC monitor with keyboard & mouse
+16. POLYCOM RMX 2000                        : 1 No.
+17. Master view PS/2 USB KUM CS 1308
+    Server switch for CCC
+                                                 LSS 01 - 300 GB,
+18. Servers CCC                              :
+                                                 IP : 10.200.2.11
+                                                 DAS 01 - 300 GB,
+19. Servers CCC
+                                                 IP : 10.200.2.15
+                                                 DL 01 - 2 TB,
+20. Servers CCC
+                                                 IP : 10.200.2.13
+                                                 LSS 02 - 300 GB,
+21. Servers CCC
+                                                 IP : 10.200.2.12
+                                                 DAS 02 - 300 GB,
+22. Servers CCC
+                                                 IP : 10.200.2.16
+                                                 DL 02 - 2 TB,
+23. Servers CCC
+                                                 IP : 10.200.2.14
+24. RCC monitor with key board & mouse
+25. PSS fibre optical modem for DNLH
+
+26. Fibre optical to electrical convertor
+
+27. Master view switch for RCC PS /2 USB KVM CS 1308
+                                              LSS 01 - 300 GB,
+28. Servers CCC                             :
+                                              IP: 10.100.5.11
+                                              DAS 01 - 300 GB,
+29. Servers CCC
+                                              IP: 10.100.5.15
+                                              DL 01 - 300 GB,
+30. Servers CCC
+                                              IP: 10.100.5.13
+                                              LSS 02 - 300 GB,
+31. Servers CCC
+                                              IP: 10.100.5.12
+                                              DAS 02 - 300 GB,
+32. Servers CCC
+                                              IP: 10.100.5.16
+                                              DL 02 - 300 GB,
+33. Servers CCC
+                                              IP: 10.100.5.14
+
+34. 12 Volt Index sealed batteries
+35. Portable CO2 fire Extinguisher (2 kgs)   : 2 Nos.
+36. Tube light fittings (08 tube lights)
+37. CFL light fittings with bulb
+38. Fire sensors
+39. 12V 65AH Exide make batteries for back
+                                           : 40 Nos.
+    of NAIS project
+                                             10 KVA, Power Safe,
+40. Isolation Transformer                  :
+                                             Sl.No:1502012
+
+41. Network Rack Provided By M/S Reliance Communication
+    Consisting Of
+     1) Cabinet – 1 No.,
+        Made by M/S Shenzhen Century Man Comm Equipment Co.
+        Ltd, Product: BDF, No: 2007071133,
+     2) Switching Power supply : 1 No
+        Model HK-4804T, Sl. No: 034269
+     3) OME (Optical multi Edge)- 1 No.
+        Make: NORTEL (OME 6110 HDE)
+        SL.NO: NNTMDAV04FHP
+     4) Battery : 4 Nos ( Valve Regulated Pure Lead-Tin Battery)
+        Made: HBL power system Limited
+        Capacity: 12 Volt- 12 AH
+
+                             RCC ROOM
+   S.No                     Description                     Units/ nos
+   1.     A/C inner unit                                      2 nos
+   2.     A/C outer unit                                      2 nos
+   3.     Remote for A/C                                      2 nos
+   4.     Stabilizer for A/C (V-GUARD) 02 No’s                2 nos
+   5.     Console monitor HP                                  2 nos
+   6.     Keyboard HP                                         2 nos
+   7.     Mouse HP                                            2 nos
+   8.     CPU HP                                              2 nos
+   9.     Speakers creative A 35                              4 nos
+   10.    RCC Operator table with monitor holder              2 nos
+          attachment
+   11.    Video conference MIC POLYCOM                        1 no
+   12.    Video conference remote POLYCOM                     1 no
+   13.    Camera POLYCOM                                      1 no
+14.     Processor for video camera POLYCOM HDX 7000          1 no
+15.     LED screen for video conference SONY BRAVIA          1 no
+        51'' with remote
+16.     Wall mounted fire alarm                             1 no
+17.     Fire sensors                                        2 nos
+18.     Fire alarm speaker                                  1 no
+19.     Tube light fittings (each twin fittings)            3 nos
+20.     Portable CO2 Extinguisher (4.5 kgs)                 2 nos
+21.     Printer : HP Make laser jet pro colour              1 no
+
+                          CCC ROOM
+S.No                   Description                    Units / nos
+ 1.    A/C inner unit                                   2 nos
+ 2.    A/C outer unit                                   2 nos
+ 3.    Remote for A/C                                   2 nos
+ 4.    Stabilizer for A/C (V-GUARD) 2 No’s              2 nos
+ 5.    Console monitor HP                               4 nos
+ 6.    Keyboard HP                                      4 nos
+ 7.    Mouse HP                                         4 nos
+ 8.    CPU HP                                           4 nos
+ 9.    speakers creative A 35                           4 nos
+ 10.   Operator table with monitor holder               2 nos
+       attachment
+11.    Video conferencing MIC POLYCOM                    1 no
+12.    Video conferencing remote POLYCOM                 1 no
+13.    Camera POLYCOM                                    1 no
+14.    Processor for video camera POLYCOM HDX            1 no
+       7000
+15     LED screen for video conferencing SONY            1 no
+       BRAVIA 51'' with remote
+16     Wall mounted fire alarm                          1 no
+17     Fire sensors                                     2 nos
+18     Fire alarm speaker                               1 no
+19     Tube light fittings (each twin fittings)         3 nos
+20     Portable CO2 Extinguisher (4.5kgs)               2 nos
+      21      DOT Matrix printer                                   1 no
+
+                                 SIMULATOR ROOM
+       S.No   Description                                       Units/ nos
+       01     A/C inner unit                                      2 nos
+       02     A/C outer unit                                      2 nos
+       03     Remote for A/C                                      2 nos
+       04     Stabilizer for A/C(V-GUARD)02No’s                   2 nos
+       05     Console monitor HP                                  4 nos
+       06     Keyboard HP                                         4 nos
+       07     Mouse HP                                            4 nos
+       08     CPU HP                                              4 nos
+       09     Speakers creative A 35                              4 nos
+       10     Operator table with monitor holder                  4 nos
+              attachment
+       11     Tube light fittings (each twin fittings)            3 nos
+       12     Portable CO2 Extinguisher (2 kgs)                   1 no
+
+23. Automation
+    This station hold the Remote station(RS), Regional control station(RCS) and
+    Master control station (MCS).
+    Following equipments are associated
+                              Service room panel and associated Lighthouse
+    1) Particulars          :
+                              sensors
+      Location              : Service room
+      Quantity               : 1 No.
+      Date of Installation
+                             : 18-08-2013
+      & Commissioning
+                               Power house panel and associated DGset sensors
+    2) Particulars           :
+                               and power back-up
+      Location               : Power house
+      Quantity               : 1 No.
+      Date of Installation
+                             : 18-08-2013
+      & Commissioning
+    3) Particulars             : VSAT antenna unit for RCS and MCS
+      Location                 : Power house top
+      Quantity                 : 2 Nos.
+      Date of Installation
+                               : 18-08-2013
+      & Commissioning
+    4) Particulars             : RCS monitoring console
+      Location                 : DGPS room
+      Quantity                 : 2 Nos.
+      Date of Installation
+                               : 18-08-2013
+      & Commissioning
+    5) Particulars             : MCS monitoring console
+      Location                 : DGPS room
+      Quantity                 : 2 Nos.
+      Date of Installation
+                               : 18-08-2013
+      & Commissioning
+    6) Particulars             : MODEM/Switches unit for RCS/MCS
+      Location                 : DGPS room
+      Quantity                 : 1 set
+      Date of Installation
+                               : 18-08-2013
+      & Commissioning
+
+24. NAVTEX
+   Navtex monitoring station at Dolphin’s Nose had been installed on 16-01-
+   2015 at Technical block and equipments working satisfactory. The system is
+   working satisfactory. The following equipments have been installed:
+     a) Navtex Receiver interface, Navtex receiver, Antenna and printer .
+        S.
+                             Particulars                  Location    Qty
+       No.
+       1     Switching power supply NSE-25-24       At Lighthouse    1 no
+             Input 100-240 v AC, Output -24v DC     service room
+                                                   Navtex rack top
+       2     SIRIUS-3 NAVTEX Colour GMDSS           At Lighthouse    1 no
+             Receiver P/N - SIR 3, S/N A1322364     service room
+                                                     Navtex rack
+                                                        INSIDE
+ 3      EPSON LQ-50 PRINTER                   At Lighthouse     1 no
+        MODEL- PA51A                           service room
+        S/N- *MWCYOO7047*                       Navtex rack
+                                                  INSIDE
+ 4      NAVTEX Receiver Antenna                Fitted on LH     1 no
+                                             gallery hand-rail.
+
+
+b) HP make Computer, monitor, and CPU assembled (one unit).
+   S.
+                    Particulars                  Location        Qty
+  No.
+ 1      25 inch Monitor ( Made- HP             In NAVTEX       1 no
+        Pavilion model 25 xi IPS monitor)         room
+ 2      HP PRO 3330 MT Desktop PC (CPU)(       In NAVTEX       1 no
+        S/L No - INA 427PMKD)                     room
+ 3      HP mono LaserJet 1020 Plus A4          In NAVTEX       1 no
+        Printer ( S/N CNCH 373832)                room
+ 4      Portable CO2 Extinguisher (2 kgs)      In NAVTEX       1 no
+                                                  room
+
+c) Server rack with Network and database server(2nos each) with
+   switches and router associated with servers.
+   S.
+                    Particulars                  Location        Qty
+  No.
+ 1      Server HP DL 560 GEN 8
+        1X INTEL E5-4610V2 @ 2.3 GHz
+        RAM - 16 GB , SYSTEM -64 Bit,
+        Serial number SG H428L6FX -1No
+        Serial number SG H428L6FY-1No
+        Serial number SGH428L6 HO-1No          In NAVTEX
+        Serial number SG H 428L6HI-1No            room
+ 2      Hard Disk ( HP model mm 1000 FB
+        FVR HP P/N - 605832 - 002, 1 TB ,
+        7200 RPM)
+        1) S/No -- TH 1427 H 30 S --- 1 no
+        CT 2B FVR 023X6R4T1
+        2) S/No -- TH 1427 H 30 5 --- 1 no
+           CT 2B FVR 023X6R5HQ                    In NAVTEX
+           3) S/No -- TH 1427 H 30 R --- 1 no        room
+           CT 2B FVR 023X6R4TJ
+           4) S/No -- TH 1427 H 30 M --- 1 no
+           CT 2B FVR 023X6R4UF
+           5) S/No -- TH 1427 H 2Y V --- 1 no
+           CT 2B FVR 023X6R4RI
+           6) S/No -- TH 1427 H 30 V --- 1 no
+           CT 2B FVR 023X6R4SL
+           7) S/No -- TH 1427 H 30 Z --- 1 no
+           CT 2B FVR 023X6R4TQ
+           8) S/No -- TH 1427 H 2Z 7 --- 1 no
+           CT 2B FVR 023X6R30G
+      3    HP LV 2011 ( 20" LED monitor)          In NAVTEX
+           SL no- CNCU08 NPGF          --- 1 no      room
+           Product No- A 3R 82AA)
+      4    ATEN KVM SWITCH - 4 Port               In NAVTEX
+           S/No --Z3E4- 099AJ -0348 --- 1 no         room
+      5    C 1905 Router , 2 GE , HWIC - IT,      In NAVTEX
+           CAB - SS - V35MT, 256F/256D, IP           room
+           BASE                    --- 1 no
+
+25. CC TV CAMERA SYSTEM – 1 set
+    i) 18.5" samsung
+                        : 1 No.
+       monitor
+    ii) IR outdoor
+         cameras        : 3 Nos.
+         (HIKVISION)
+    iii) 4 Channel DVR  : 1No.
+     iv) Power supply unit : 2 Nos.
+     v) UPS (600 VA)       : 1 No.
+     vi) IR PTZ camera
+         (HIKVISION)       : 1 No.
+26. Firefighting equipment
+    Fire Extinguishers
+       i) D.C.P. type                 4 Nos. (1 no in DG set room, 1 No. in Office,         2
+                                  :
+          (5kg Capacity)              nos in LH )
+       ii) Foam type
+                                  : 2 Nos. (1 no in DG set & 1 no in oil room)
+            (9 litres capacity)
+       iii) CO2 Type              : 8 Nos.(block wise already mentioned)
+       iv) Fire Buckets           : NIL
+
+                                    i) 12 Nos. cement Concrete Poles and fitted
+                                         with 25W LED Street light fitting.
+                                    ii) 6 nos of street light fittings in front of office
+27. Street Lights                 :      area.
+                                    iii) 6 Nos. Gate Light fitting.
+                                    iv) 8 Nos. garden light in front of Lighthouse
+                                         tower.
+
+                                    i) BSNL telephone with Fax facility provided with
+                                        Telephone No.0891-2973441,
+      Communication
+28.                               : ii) HP LaserJet Fax Machine-1 No., Model No. M
+      Facility
+                                        1213nf MFP
+                                    e-mail : dolphinsnose-vizag@dgll.nic.in
+
+                                    Natural spring pond at foot hill with multistage
+                                    water pump / motor      (1.5 Km away from L.H)
+29. Water Supply                  :
+                                    (Ground Fos make), model CR-5-36, 32 stage,
+                                    7.5BHP Centrifugal Pump surface mounted type.
+
+                                     i) Industrial Type Aqua guard Water Filter – 1 No.,
+                                         25 ltr./HR.
+30. Water Filter                  :
+                                     ii) SS water Cooler (40 Ltr.) USHA Make – 1 No.
+                                    iii) Kent Grand Plus Mineral RO – 1 No.
+
+
+
+31. Land
+      i) Area                     : Ac.27.0 Cts.
+      ii) Demarcation             : Masonry Compound wall
+      iii) No. of fruit trees     : 11 Nos.
+     iv) No.of non fruit
+                           : 15 Nos.
+          bearing Trees
+
+32. Buildings              : 1) Lighthouse tower, one unit of Powerhouse,
+                                Stores, Office with NAIS and DGPS block, Gen set
+                                room, oil room and one unit of Inspection
+                                quarter 1st floor of Lighthouse tower and one
+                                unit of inspection quarter at bottom of
+                                lighthouse tower.
+                             2) One building for static sensor project.
+                             3) One unit of A.E.(E) Qtr. one unit of SRT Qtr, three
+                                twin unit for four ALKs Qtr. & LHA/LHS Qtr. One
+                                Unit of Jeep Driver Qtr. cum garage & one unit
+                                of Garden attended Qtr.
+
+33. Staff                  :    i) Asst. Engineer - 1 No. (Vacant)
+                                ii) SRT – 1 No.
+                                iii) Navigational Assistant Gr- II - 2 Nos.
+                                iv) Navigational Assistant Gr- III - 1 No
+                                v) Lighthouse Attendant – 1 No.
+                                vi) AIS Operator – 3 Nos. (Outsourced)
+                                vii) NAVTEX Operator – 3 Nos. (Outsourced)
+                                viii) AIS Supervisor – 1 No. Vacant
+                                ix) Technical Assistant – 2 Nos. (Outsourced)
+                                x) Housekeeping staff – 1no. (Outsourced)
+
+                               Up to Visakhapatnam by Rail and up to Lighthouse
+34. Mode of approach       :
+                               by road for 18 km.
+
+35. Facilities available   : a) Post Office within 7 km (Malkapuram)
+                               b) Govt. Hospital within 9 km (Malkapuram)
+                               c) Govt. School within 10 km (Malkapuram)
+                               d) Nationalized Bank with 10 km(Malkapuram)
+                               e) Police Station within 9 km (Malkapuram)
+
+36. Postal Address         : Assistant Engineer (Electronics),
+                               Dolphin’s Nose Lighthouse
+                               Post: Gandhigram. P.O.Box-134
+                                    Visakhapatnam-530005.
+
+
+37.   Cost Details
+
+          i)         Construction : Rs. 2,52,000/-
+          ii)        Cost of
+                                  : Rs.2,67,000/-
+                     equipment
+
+
+      Year of first Light
+38.                               : 1940
+      Commissioned
+
+    Date of
+39. Commissioning of              : 15-06-1957
+    present LH
+
+      Subsequent
+40.                               : 1957, 1961, 1991,1997, 1998, 2004, 2012
+      Innovation
+
+                                     **********
+

@@ -1,0 +1,48 @@
+{
+  "nid": 2306,
+  "title": "Supply of Furniture items for the staff quarters of Manappad Point Lighthouse station under Chennai directorate",
+  "summary": "Notice inviting sealed quotations for supply of teak wood single cots and teak wood dining table sets for the staff quarters of Manappad Point Lighthouse, Tuticorin district, Tamil Nadu.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-01002(23)/4/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Manappad Point Lighthouse, Manappad Post, Tiruchendur Taluk, Tuticorin, Tamilnadu-628209", "station_id": "manapad-point-lighthouse", "kind": "lighthouse", "work": "Supply of furniture for staff quarters"}
+  ],
+  "scope": [
+    {"item": "Supply of Teak Wood Single Cot, size 6¼' x 3', centre bedding portion plywood, inclusive of loading, unloading, packing, forwarding, freight up to Manappad Point Lighthouse", "qty": "4", "unit": "Nos", "site": "Manappad Point Lighthouse"},
+    {"item": "Supply of teakwood dining table size 5' x 3' with 4 chairs, inclusive of loading, unloading, packing, forwarding, freight up to Manappad Point Lighthouse", "qty": "2", "unit": "Nos", "site": "Manappad Point Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "5% of contract value as PBG/FDR, valid 60 days beyond warranty period and all contractual obligations; released after 1-year warranty",
+    "notes": "Rates inclusive of all taxes. Payment on final account basis after satisfactory supply; no extra payment beyond quoted rate."
+  },
+  "period": {"completion": "10 days from date of supply order", "bid_validity": null, "warranty": "1 year against manufacturing defects for all wooden items"},
+  "dates": {"published": "2026-03-25", "pre_bid": null, "bid_submission_end": "2026-03-30", "bid_opening": "2026-03-30"},
+  "eligibility": [
+    "Similar work in last seven years ending 31 March 2025: one work >= Rs 1,96,800, or two each >= Rs 1,23,000, or three each >= Rs 98,400",
+    "Similar work: supply of office furniture items in Central Govt/State Govt/public listed/PSUs; proof by completion certificates with PO/GeM CRAC",
+    "GST registration certificate and PAN",
+    "Non-blacklisting affidavit on firm letterhead for last 3 years",
+    "Valid registration and office address in Tamil Nadu/Puducherry (MSME certificate, business registration)",
+    "Detailed technical specifications of items as per Annexure A"
+  ],
+  "specs": [
+    "Teak wood single cot 6.25' x 3' (photo shows with mattress), plywood centre bedding",
+    "Teak wood dining table 5' x 3' with 4 chairs",
+    "Design as per photo images attached; material (wood) inspection before polishing/varnishing"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "TENDER DOC MANA_0.pdf", "pages": 6, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned NIQ with Annexure A (schedule of work), Annexure B (terms) and two reference photos. No estimated cost or EMD printed. Photo caption for cot says 'with Mattress' though schedule does not list a mattress. Station spelled Manappad; station list has Manapad Point."
+}

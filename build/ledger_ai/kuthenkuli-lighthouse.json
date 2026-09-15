@@ -1,0 +1,41 @@
+{
+  "slug": "kuthenkuli-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Kuthenkuli Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2020,
+  "alol": "F 0728",
+  "position": {"lat_text": "08° 13.39' N", "lon_text": "77° 46.98' E", "lat": 8.223167, "lon": 77.783},
+  "elevation_m": 51,
+  "characteristic_text": "Fl (3) W 20 sec (fl 1.5) (1.5+2+1.5+2+1.5+11.5=20Sec)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "1.5+2+1.5+2+1.5+11.5=20Sec",
+    "sequence_s": [1.5, 2, 1.5, 2, 1.5, 11.5],
+    "flash_duration_s": 1.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20NM (unlabelled single range)"},
+  "tower": {"type": "RCC Circular Structure", "height_m": 45, "colour_scheme": "Red and Yellow Chequered Band"},
+  "optic": {
+    "make": "Aga", "model": null, "type": null, "size": "150mm", "order": "6th Order",
+    "panels": 6,
+    "rotation_device": "20KG Stepper motor with Drive Controller",
+    "rpm": 1.5,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: 20KG Stepper motor with Drive Controller; R.P.M. 1.5",
+    "divergence_horizontal_deg": 7.6,
+    "divergence_vertical_deg": 7.6,
+    "divergence_text": "7.6° (Horizontal), 7.6° (Vertical)",
+    "illuminant": "90W LED Main Light (12X5 Array) Warm White Colour"
+  },
+  "intensity_cd": 124937,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Tamilnadu Electricity Board 3 phase/440V AC 10KW; Kirloskar 20 KVA 3 phase generator; 2 KW solar (Goldi) x2 incl. street light plant"},
+  "issues": []
+}

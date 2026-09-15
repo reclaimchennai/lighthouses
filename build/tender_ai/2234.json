@@ -1,0 +1,36 @@
+{
+  "nid": 2234,
+  "title": "Development, supply, installation, testing and commissioning of Kiosk Management Software for Lighthouse Tourism Project at various Lighthouses",
+  "summary": "Development, supply, installation, testing and commissioning of kiosk management software for the Lighthouse Tourism Project at various lighthouses, tendered by the Kochi Directorate.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Coc-01001/1/2024-MS",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kochi"
+  },
+  "scope_level": "directorate",
+  "sites": [],
+  "scope": [
+    {"item": "Development, supply, installation, testing and commissioning of Kiosk Management Software for Lighthouse Tourism Project", "qty": null, "unit": null, "site": "Deep Bhavan, Cochin"}
+  ],
+  "money": {
+    "estimated_cost_inr": 350000.0,
+    "emd_inr": 7000.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD by DD/FDR from nationalised/RBI-approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Deep Bhavan, Cochin, payable at Ernakulam; small scale industries with valid NSIC/MSME certificate exempt."
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": "2026-02-06", "pre_bid": "2026-02-11", "bid_submission_end": "2026-02-17", "bid_opening": "2026-02-18"},
+  "eligibility": [
+    "Reputed OEM or their authorized suppliers, licensed electrical contractors, parties or Government undertakings"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 05.02.2026 (Section 1, pages 3-4). Location given as Deep Bhavan, Cochin; the lighthouses covered are not named. EMD original due 16.02.2026 15:00; bid submission 06.02.2026 11:00 to 17.02.2026 15:00; technical bid opening 18.02.2026 15:00."
+}

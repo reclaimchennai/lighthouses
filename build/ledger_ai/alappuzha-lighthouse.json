@@ -1,0 +1,41 @@
+{
+  "slug": "alappuzha-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Alappuzha Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1862,
+  "alol": "F 0706",
+  "position": {"lat_text": "09° 29' 30\" N", "lon_text": "76° 19' 18\" E", "lat": 9.491667, "lon": 76.321667},
+  "elevation_m": 33,
+  "characteristic_text": "Fl (1) W 15 sec (fl 0.8)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "fl 0.8",
+    "sequence_s": null,
+    "flash_duration_s": 0.8
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 24.5, "geographical_nm": null, "text": "24.5 NM (single unlabelled range)"},
+  "tower": {"type": "Circular masonry tower", "height_m": 28, "colour_scheme": "Red and White Band"},
+  "optic": {
+    "make": "BBT Paris", "model": null, "type": "Revolving Beacon", "size": "250mm/4th Order", "order": "4th Order",
+    "panels": 4,
+    "rotation_device": "Dual Stepper motor (10 Kg/cm)",
+    "rpm": 1,
+    "rotates": true,
+    "rotates_evidence": "Optic: Revolving Beacon; Rotation Device: Dual Stepper motor; R.P.M. 1",
+    "divergence_horizontal_deg": 5,
+    "divergence_vertical_deg": 3.4,
+    "divergence_text": "5° (Horizontal), 3.4° (Vertical)",
+    "illuminant": "A cluster of three 230V/150W Double ended Metal Halide Lamps"
+  },
+  "intensity_cd": 333731,
+  "racon": {"present": false, "code": null, "text": "N/A"},
+  "ais": {"present": true, "text": "2 Nos AIS1 & AIS2, SAAB R40, Class A, MMSI 004192245"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Mains 440V 3-phase 50Hz; DG set 7.5 KVA (Kirloskar); 2KW off-grid solar plant for main light"},
+  "issues": []
+}

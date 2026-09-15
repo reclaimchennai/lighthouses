@@ -1,0 +1,150 @@
+     DARIAPUR LIGHTHOUSE
+       MASTER LEDGER
+
+  1. Name                          Dariapur Lighthouse
+  2. Sl. No. (in A.L.0.L)          F 1029
+
+  3. Position                      Lat 210 47 24” N
+                                   Long 87051 54” E
+  4. Elevation of ground           4m
+  5. Elevation of tower            22 m
+  6. Character of light             Flash 2 (W) 20 Sec
+
+  7. Range in nautical miles
+     i) Luminous                   19 NM
+     ii) Geographical              15.5 NM
+
+  8. Lighthouse Tower
+     i) Type                       Circular Masonry Tower
+    ii) Height                     26 m
+    iii) Color Scheme              Black & White Bands
+
+  9. Optical Equipment
+
+    i.)      Make                  Chance Brothers, UK
+    ii.)     Size                  250 mm ( 4th Order) revolving
+    iii.)    No. of Panels         4 Nos.
+    iv.)     Focal Length          250 mm
+    v.)      RPM                   1.5
+    vi.)     Duration of flash     0.25 Sec
+    vii.) Illuminant               70 W 230 V Metal Halide Lamp
+    viii.) Divergence              2.28 (Horiz.) & 4.56 (Vert.)
+    ix.)     Luminous intensity    85,000 cd
+  10. Lantern
+      i.) Diameter                 2m
+      ii.) Height of Glazing       8m
+      iii.) No. of glass panes     8 Nos.
+      v.) No. of ventilators       7 Nos.
+
+11. Pedestal                       Mercury Float (20 kg in use).
+
+12. Power Supply
+
+      i) Mains                    :3 Phase, 440 V, 50Hz Mains supply from
+                                  WBPDCL
+      ii) Solar
+
+                                                                   1|Page
+S1. No.     Types of Solar Power      Capacity              No. of Panels              Inverter
+  l             OFF GRID              2 kWp                 8 (each 250W 24V)          2KVA, Make : Genus
+
+          iii) Standby                      Gensets (02 Nos.)
+
+     K Details of Engine
+
+Sl. Engine Sl. No.              Make              BHP       No. of      RPM       Cooling         Date of
+No.                                                         Cylinder                              Installation
+ 1  02.8301/1620262             Kirloskar          20.5        02       1500      Air Cooling     12.11.2016
+ 2  02.8301/1620289             Kirloskar          20.5        02       1500      Air Cooling     12.11.2016
+
+     B. Details ofAlternator
+
+Sl. Alternator SI. No.         Make         KVA         Voltage   Current      Freq.     Phase        RPM
+No.                                                               (Amp)        (Hz)
+
+ 1      CS1B016E2816-H         Kirloskar      15          230       62.5        50       Single        1500
+ 2      CS1B0l6E2810-H         Kirloskar      15          230       62.5        50       Single        1500
+
+     13 Other Equipments
+
+     i) Battery Charger                    : 1 No Volta Make 0-50 Amp installed in Power House on
+     14.03.2004
+                                            and 1 No. Signoflex Make 0-10 Amp installed in Service
+     Roomon
+                                            19.02.2016.
+     ii) Stabilizer
+
+Sr     Input voltage       Output          KVA             Make                Freq.    Phase     Date of
+No                         Voltage                                                                Installation
+ l      180-260 V AC       230 V AC          15      Delta Electric Corp.       50Hz    Single        22.07.2007
+
+    iii) inverter
+Sr.                 Particulars                    Qty         Date of                      Purpose
+No.                                                          Installation
+1        1.4 KVA, 24V DC (input), 230V             1 No.     03.03.2013                For Light beacon
+         AC (output), Sukam make
+
+14. Remote Monitoring and Control System
+
+All equipment's are remotely monitored by RCS and MCS both at Deep Bhavan, Kolkata.
+i) Main Panel                        1 No. installed at power house.
+ii) Remote Panel                     l No. installed at service room.
+iii) UPS                             l No. l KVA, APC make placed inside main Panel.
+iv) Communication                   VSAT
+v) VSAT                              1 No. installed on roof top of power house.
+vi) Modem                            I No. placed inside main Panel.
+15.     Fire Extinguisher
+
+                                                                                                       2|Pegc
+Sl.          Type          Capacity      Qty      Place of Installation
+No.
+ 1       Water CO2           9 Litr     2 Nos.    One at office and one at store room.
+ 2       Foam                9 Litr     3 Nos.    Placed at power house, store room and office.
+ 3       DCP                 5 KG       2 Nos.    One at service room and one at power room.
+ 4       ABC                 5 KG       1 No.     Placed at Power House
+ 5       Fire Buckets        10 Litr    4 Nos.    Varandah of power house
+
+16.      Racon                                 Code “G”, dual band (X + S), Sameer make, Sl. No.
+                                               7922, installed on 09.03.2008
+17.      Water Supply
+
+Crompton Greaves Make l HP Submersible Pump installed on 19.03.12 fitted to bore well is used to
+pump water to Over head Tank for supply water to technical Buildings and Quarters
+
+18.      Land
+         i.) Area                                      2.4 Acre
+         ii.) Demarcation                              Compound Wall
+         iii.) No. of Fruit Bearing Trees              66
+         iv.) No. of Non-fruit Bearing Trees            25
+
+19. Buildings
+
+    i) 1 No Power House Cum Office cum Store
+   ii) 1 No Inspection Qtr,
+   iii) 1 No HLK Qtr,
+   iv) 1 No. Twine NA- II Qtr
+    v) l No. Twine LHA Qtr
+   vi) 1 No. Pump House
+  vii) I No. Meter room
+
+20. Contact details
+
+      l) Office Mobile No.                              8944065616
+      2) Office E-mail                                  hlkdplh@vahoo.in
+      3) Postal Address                                 Dariapur Lighthouse, P.O Dariapur
+                                                        Dist. East Midnapur, PIN- 721 442
+21. Mode ofApproach
+
+The station is well connected by all weather road. The nearest Railway Station is Contai which is
+approx. 24 Km from Dariapur Lighthouse and nearest Airport is Kolkata which is approx. 200 km
+from Lighthouse.
+
+22. Facilities Available
+Branch Post Office, High School, Hospital and Police Station all are within 22 km from Lighthouse.
+
+
+
+
+                                                                                              3|Pegc
+4|Page
+

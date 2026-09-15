@@ -1,0 +1,48 @@
+{
+  "nid": 2003,
+  "title": "Civil Maintenance to the Lighthouse tower and compound wall of Cuddalore Lighthouse Station.",
+  "summary": "E-tender (percentage rate, two-cover) for civil maintenance of the lighthouse tower and compound wall at Cuddalore Lighthouse, Cuddalore Port, Tamil Nadu (Chennai Directorate); bid deadline later extended to 07.10.2025.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(07)/1/2021-Civil Maintenance; DW-CHE-01001(07)/1/2020-Civil Maintenance (corrigendum); Tender ID 2025_DGLL_876449_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Cuddalore Lighthouse Station, Cuddalore Port, Cuddalore District, Tamilnadu", "station_id": "cuddalore-lighthouse", "kind": "lighthouse", "work": "Civil maintenance to lighthouse tower and compound wall"}
+  ],
+  "scope": [
+    {"item": "Civil Maintenance to the Lighthouse tower and compound wall", "qty": null, "unit": null, "site": "Cuddalore Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 280504.0,
+    "emd_inr": 5610.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of any scheduled/nationalised bank in favour of Director of Lighthouses and Lightships, Chennai, payable at Chennai; validity printed as three months (table) and 90 days (clause 1.1) from technical bid opening; exempted for valid MSME/NSIC certificate. Tender fee Nil."
+  },
+  "period": {"completion": "03 (Three) months", "bid_validity": "90 days", "warranty": null},
+  "dates": {"published": "2025-09-08", "pre_bid": "2025-09-17", "bid_submission_end": "2025-10-07", "bid_opening": "2025-10-08"},
+  "eligibility": [
+    "Valid registration in appropriate category & class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Similar works in last seven years: three each >= 40%, two each >= 50%, or one >= 80% of estimated cost; only completed works with completion certificate; value updated at 7% simple per annum; certificates below Executive Engineer rank not considered",
+    "Similar works: repairs and civil maintenance of building or construction of any type of building/compound wall/retaining wall/RCC work",
+    "PAN/ITR/GST registration",
+    "Average annual turnover on construction works (CA certified) at least 40% of estimated cost in last 3 financial years ending 31 March 2025",
+    "Key technical personnel for supervision and execution with qualification and experience",
+    "Unconditional tender undertaking (Annexure III); tender acceptance letter (Annexure II); affidavit/self-attestation of not blacklisted",
+    "Declaration of gazetted and non-gazetted relatives serving in MoPSW or DGLL; Make in India self-certification (Annexure VI)"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2025-09-25", "change": "Extension of last date: bid document download and online submission extended to 07.10.2025 15:00; bids opened 08.10.2025 15:00 (originally submission 25.09.2025, opening 26.09.2025)"}
+  ],
+  "documents": [
+    {"file": "NIT.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []},
+    {"file": "25092025civilcuddalore.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned Section I NIT only (printed pages 3-6); no BOQ. File number year differs between NIT (…/1/2021) and corrigendum (…/1/2020). Listing end date 2025-09-25 is the original deadline; listing opening 2025-10-08 matches the corrigendum. Official e-mail dlhlschennai@gmail.com printed."
+}

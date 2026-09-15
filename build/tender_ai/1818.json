@@ -1,0 +1,46 @@
+{
+  "nid": 1818,
+  "title": "Supply, Installation, Testing & commissioning of CCTV System at Deep Bhavan, Goa Directorate",
+  "summary": "GeM BOQ bid for supply, installation, testing and commissioning of a CCTV system at the Deep Bhavan office of the Goa Directorate, Bambolim; the GeM bid document lists the primary item as 505 metres of Cat-6 STP armoured CCTV cable.",
+  "category": "IT & communications",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2025/B/5818229",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Goa"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Deep Bhavan, Near GMC Stadium, Bambolim, Tiswadi, North Goa - 403202", "station_id": null, "kind": "office", "work": "Supply, installation, testing and commissioning of CCTV system"}
+  ],
+  "scope": [
+    {"item": "Cables suitable for CCTV System (Accessories) - Cat-6 STP, armoured; Supply, Installation, Testing & commissioning of CCTV System at Deep Bhavan, Goa Directorate as per attached ATC/scope of work", "qty": "505", "unit": "meter", "site": "Deep Bhavan, Goa"}
+  ],
+  "money": {
+    "estimated_cost_inr": 426377.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": "ePBG 5% for 38 months (advisory bank State Bank of India)",
+    "notes": "Estimated bid value Rs 4,26,377. EMD not required. Total value wise evaluation; bid to RA not enabled. MSE and Make in India purchase preference apply (Class 1 local content 50%, Class 2 20%). Option clause +/-25% quantity."
+  },
+  "period": {"completion": "15 days delivery", "bid_validity": "90 days from bid end date", "warranty": null},
+  "dates": {"published": "2025-01-14", "pre_bid": null, "bid_submission_end": "2025-01-24", "bid_opening": "2025-01-24"},
+  "eligibility": [
+    "Minimum average annual turnover of bidder (3 years): Rs 2 lakh",
+    "3 years past experience in same/similar category products supplied to Central/State Govt/PSU",
+    "Past performance: supplied 30% of bid quantity in at least one of last three financial years",
+    "MSE and Startup exemption from experience and turnover criteria",
+    "Documents: experience criteria, past performance, bidder turnover, certificates requested in ATC, OEM authorization certificate, compliance of BoQ specification",
+    "Only Class-I and Class-II local suppliers eligible; functional service centre in consignee state, dedicated/toll free service number and escalation matrix"
+  ],
+  "specs": [
+    "Cables suitable for CCTV System: Cat-6 STP, armoured",
+    "BOQ file: BOQ of Supply, Installation, Testing & commissioning of CCTV System at Deep Bhavan - 1736838596.xlsx (not included)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "GeM-Bidding-7374804.pdf", "pages": 7, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Standard GeM bid document only; buyer ATC and the Excel BOQ with the detailed CCTV items are referenced but not included, so camera/NVR quantities are unknown. Bid end 24-01-2025 13:00, opening 24-01-2025 13:30. Marked as short duration bid for emergency procurement. Buyer e-mail and consignee officer mobile numbers are personal contacts and are not recorded ([personal contact removed]). Page 7 is blank. Listing start date absent; published date taken from bid document date."
+}

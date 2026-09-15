@@ -1,0 +1,545 @@
+                    मास्टर लेजर/ MASTER LEDGER
+क्र सं/             नाम /Name
+Sr.No                                                         वििरण/ Discription
+   1.     Station                     VTS Master Control Center Kandla
+   2.     Position                    Latitude- 2300.965’N
+                                      Longitude- 7012.982’E
+   3.                             VTS Tower
+          Type
+                                                      RCC ( cylindrical )
+
+          Height                       60 Meters
+          Color                        Red & White Alternate Horizontal Bands
+          Elevation (above MSL) 62.5 Meter
+   4.                           Energy source
+    I.    Incoming Power supply 415 V, 3 Phase, 50Hz(from DPT)
+
+   II.    Solar Panels                          37 KW (from 25/08/2017)
+    i.    Make                         Solgen
+   ii.    Type                         On- Grid
+  iii.    Total Nos. of Panels         144
+
+  iv.     Capacity                     37 KW
+  v.      DC Input                     Max. DC                     1000V
+                                       Voltage:-                   300V
+                                       Staring Voltage:-
+                                       MPPT (Max.
+                                       Power Point                 280 – 800 V
+                                       tracker Voltage:-           450 – 800 V
+                                       Operation
+                                                                   20800 W
+                                       Voltage :-
+                                       Max, DC Power:-
+  vi.     AC Out Put                   Rated output                20000 W Each Inverter
+                                       Power:-                     32 Amps.
+                                       Max Current :-              Less Than 3%
+                                       Harmonic
+                                       Distortion:-
+ vii.     Max. Efficiency              98.4%
+
+viii.     MPPT Efficiency              99.9%
+
+                                       Page 1 of 13
+     ix.      Operation Temperature     -25 to +60
+                                        Degree Celsius
+     x.       Protection                Over Voltage Protection, DC Isolation
+                                        Monitoring, DC Monitoring, IslandProtection
+                                        Short Ckt. Protection, Over tempt.
+                                       Protection
+     05.            Generator Sets: - 02 in Nos. ( Generator Room)
+
+
+ S.N.          Engine         Make/       Capacity          No. of     RPM      Cooling
+              No.&            type                         cylinder
+              Alternator
+              No.
+       i.   F63208/0800273 Kirloska       160 KVA             06       1500      Water
+            &              r/                                                    Cooling
+            FS35110B97940 6SL908
+                           8TA
+      ii.   F63208/0800292 Kirloska       160 KVA             06       1500      Water
+            &              r/                                                    Cooling
+            FS35110C100205 6SL908
+                           8TA
+
+     06.                   Stabilizer: -(In Power House)
+i.          Type                                     3 Phase Servo Controlled Voltage
+                                                     Stabilizer (Auto Voltage Stabilizer)
+ii…         Make                                     Krykard
+iii.        Sl. No.                                  L17K100408031
+iv.         Model                                    AU4080
+v.          Capacity/Rating                          100 KVA
+vi.         Input: Voltage Range                     340 V – 480 V (VAC)
+vii.        Output                                   415 V AC /+- 1%
+viii.       Date of Installation                     24/03/2018
+
+
+
+
+                                        Page 2 of 13
+07.                         UPS (05 in No’s)
+S.N Serial No.           Make/      Capacity    No. of        Date of       Positio
+                         type                   Battery       Installatio   n
+                                                              n
+  i.    J111041          NGBPS       15 KVA     12V, 65 Ah    20/07/2017    MCC
+                                                ( 20 Exide)                 Room
+ ii.    9E1904T10197     Schneider   15 KVA     12 V,26 Ah    26/12/2019    S
+                         Electric               Make: APC                   e
+                                                Qty: 32Nos                  r
+                                                                            v
+                                                                            e
+                                                                            r
+                                                                            R
+                                                                            o
+                                                                            o
+                                                                            m
+ iii.   9E1904T10202     Schneider   15 KVA     12 V,26 Ah    26/12/2019    S
+                         Electric               Make: APC                   e
+                                                Qty: 32Nos                  r
+                                                                            v
+                                                                            e
+                                                                            r
+                                                                            R
+                                                                            o
+                                                                            o
+                                                                            m
+ iv.    9E1904T10178     Schneider   15 KVA     12 V,26 Ah    23/09/2019    VTS
+                         Electric               Make: APC                   Equip
+                                                Qty: 32Nos                  ment
+                                                                            s
+                                                                            Room
+ v.     JH 1039          NGBPS       10 KVA     12V, 42 Ah,   03/01/2015    VTS
+                                                Qty. 20                     Equip
+                                                Nos.                        ment
+                                                                            s
+                                                                            Room
+08.                      Rectifier ( Equipment Room)
+i     Make                  BSMC Power System
+ii    Sl. No.               MS-103/B/442
+  09.                  Isolation Transformer (Equipment Room)
+      Capacity
+                                      : 6 KVA (Single Phase, 220V, 50Hz)
+
+
+10.                      Batteries for Gensets
+                                     Page 3 of 8
+S. N.       Gen.       Make          Capacity        Qty.        Date of
+            Set                                                  Installation.
+  i.        01                Exide 12 V,180 Ah        02           14/01/2020
+ ii.        02                Exide 12 V 180 Ah        02           14/05/2019
+
+11.                AMF Control Panel (In Power House)
+
+  i         Capacity              160 KVA
+12.               LVDB Panel (In Power House)
+ ii         Capacity              160 KVA
+
+13.                       Radar
+    i.       Type:-                                X Band
+   ii.       Make :-                               Terma
+  iii.       Frequency:-                           9375 MHz
+  iv.        Range :-                              20 NM
+   v.        Input Power Supply:-                  280-400v 3 Phase
+                                                   50 Hz
+ vi.         Peak Power:-                          25 Kw
+ vii.        Antenna Gain:-                        37 dbi
+ viii.       Antenna Length:-                      18 Feet
+  ix.        Antenna Rotation Speed :-             6 – 35 RPM
+   x.        VSWR:-                                < 1.3
+  xi.        Short Pulse ( SP) :-                  50 – 120 Nano          PRF 800 –
+                                                   Seconds                8000 Hz
+ xii.        Very Short Pulse ( VSP):-             40 Nano Seconds        PRF 800 –
+                                                                          8000 Hz
+ xiii.       Medium Pulse ( MP):-                  120 – 300 Nano         PRF 600 –
+                                                   Seconds                3300 Hz
+ xiv.        Long Pulse (LP):-                     300 – 600 Nano         PRF 400 –
+                                                   Seconds                2200 Hz
+
+ xv.         Very Long Pulse( VLP):-           600 – 1000 Nano            PRF 400 –
+                                               Seconds                    1200 Hz
+14.              AIS ( Auto Identification System)
+
+       i.    Make:-                                  Kongsberg
+
+      ii.    Type:-                                  BS 500/01
+  iii.       Weight: -                               6Kg
+  iv.        Physical Dimension:-                    482 mmx132mmx257mm
+                                     Page 4 of 8
+      v.     Input Supply:-                          110 V/240 V AC Single Phase,
+                                                     50 Hz
+  vi.        Power Consumption:-                     < 50 W
+        vii.         Operating Temperature:-                        -5 to +40 Degree Celsius
+       viii.         VHF Data Link Freq.:-                          156.025 – 162.025 MHz
+
+         ix.         Channel Spacing:-                              25 KHz
+
+             x.      Transmitter Power:-                            2 or 12 W ( Selectable)
+         xi.         Transmitter Operating Frequency                161.975 MHz
+                     Channel:-
+        xii.         GPS Operating frequency( Receiving             1575.42 MHz +/- 10 MHz
+                     Only):-
+     15.                    Server Room Equipment in Rack
+
+S. N.               Equipment name          Make             Serial No.             Qty Position
+   i.               Lane Switch             Cisco            FOC1510V1RA            01    Rack-01
+
+       ii.          Time Server             Meinberg         030111230410           01    Rack-01
+      iii.          Rack manager (RM) HPE                    2C49119G7C             01    Rack-01
+
+      iv.           KVM switch              Aten             F3J2-022-0040          01    Rack-01
+       v.           C- Scope Server-01 HPE                   SGH929YV3W             01    Rack-01
+      vi.           C- Scope Server-02 HPE                   SGH929YV3P             01    Rack-01
+
+     vii.           VHF Server-01           HPE              CZ29200BC1             01    Rack-01
+
+ viii.              VHF Server-01           HPE              CZ29220G4K             01    Rack-01
+
+      ix.           Storage Area            HPE              286130C072             01    Rack-01
+                    Network
+       x.           Web Server              HPE              CN762404PC             01    Rack-01
+       16. Equipment on VTS Tower Equipment Room
+
+S. N.             Equipment                Make              Qty.    Serial No.        Positio
+                  Name                                                                 n
+i.                Lane Switch              Cisco             01      FD01330X065       Rack-
+                                                                                       01
+ii                AIS ( BS-500)            Kongsberg         01      500112B           Rack-
+                                                                                       01
+iii               VHF Set                  Jotron            03      943, 944, 945     Rack-
+                                                                                         01
+iv                Rack Manager             Austin            01      2060110094165-13Z Rack-
+                                           Huges                                         01
+v                 KVM Switch               Aten              01      F3A6X005MES0190 Rack-
+                                                                                         01
+                                               Page 5 of 8
+vi                RSD                      Terma             01      4592              Rack-
+                                                                                         01
+vii                C-Set V-3 MK-2         Kongsberg     01      3053032216            Rack-
+                                                                                       01
+viii               C-Set V- 5             Kongsberg     01      3462620920            Rack-
+                                                                                       01
+ix                 PDU                    APC           01      5A1922E04046          Rack-
+                                                                                       01
+x                  SPU ( M/Link)          Ericsson      01      CE8A312087            Rack-
+                                                                                       01
+xi                 Antenna Control        Terma         01      3020                   --
+                   Unit
+ xii               Trans receiver         Terma         02      3018, 3022               ---
+
+     17.          Meteo Sensor
+     i.             Make                 Vaisala Weather
+     ii.            Model                WXT 530
+     iii.           Sl. No.                        R2310353
+
+     iv.            Parameters           Wind Direction (Deg.), Wind Speed (m/S),Wind
+                                         speed (Knots), Temperature (DegreeC),Humidity (
+                                         % ),Pressure (hPa),Accumulated Rainfall (mm),
+                                         Rain Duration (hh mm ss),Rain Intensity (mm/h)
+
+18.                                      Centralized Air Conditions
+
+S.                   Make          Serial No.        Capacity   Current      Power supply
+N.                                                              Rating
+            i.       Blue Star     DPA1321R1         11 Ton     23 Amps.     415 V, 3 Phase,
+                                   -I09000115                                50
+                                                                             Hz
+           ii.       Blue Star     DPA1321R1         11 Ton     23 Amps.     415 V, 3 Phase,
+                                   -I09000113                                50
+                                                                             Hz
+           iii.      Blue Star     DPA1321R1         11 Ton     23 Amps.     415 V, 3 Phase,
+                                   -I09000114                                50
+                                                                             Hz
+        iv.          Blue Star     DPA1321R1         11 Ton     23 Amps.     415 V, 3 Phase,
+                                   -I09000112                                50
+                                                                             Hz
+     19.                                          Spilt AC
+
+ S.                  Make          Serial No.         Capacity Rating        Position &
+ N.                                                                          Quantity
+                  i. Voltas        4552419A19DA0 1.5 Ton         240V,       Conference
+                                   1594                          50Hz 1      Room (01)
+                                                                 Phase
+                  ii. Voltas                Page 6 of
+                                   4552532B19EC0   1.58 Ton      240V,       SRT/RT
+                                   1696                          50Hz 1      Room (01)
+                                                                 Phase
+       iii. Voltas      4552532B19EC0 1.5 Ton         240V,      AEE(E)
+                        1334                          50Hz 1     Room (01)
+                                                      Phase
+       iv. Voltas       4552419A19DA0 1.5 Ton         240V,      DDG
+                        1598                          50Hz 1     Room (01)
+                                                      Phase
+       v.   Voltas      4552274A18FA0 1.5 Ton         240V,      VTS Manager
+                        0249                          50Hz 1     Room (01)
+                                                      Phase
+       vi. Voltas            4552419A19DA0 1.5 Ton    240V,      MCC
+                             1600,                    50Hz 1     Room (02)
+                             4552419A19DA0            Phase
+                             1605
+           vii. Voltas       4552592A19DC0 1.5 Ton      240V,    Inspection
+                             1658,                      50Hz 1   Quarter(I.Q.)
+                              4552502A19DC              Phase    ( 03)
+                              05966,
+                             4552052A19DC0
+                             6563
+           viii. Panasonic 181PAJADQV00 1.5 Ton         240V,    Server Room
+                             316                        50Hz 1   ( 02)
+                             181PAJABRV00               Phase
+                             150
+            ix. Blue Star    GLIDU181YC09 1.5 Ton       240V,    Equipment
+                             032728,                    50Hz 1   Room( VTS
+                 Videocon GLIDU181YC09                  Phase    Tower) (02
+                             032564                              +01= 03)
+                             1108157420023
+                             6
+20. CCTV Camera
+S. N.                Type of      Position                       Quantity
+                     Camera
+       i.                PTZ      4th Floor VTS Tower                  01
+                     Camera
+      ii.                        Server Room                           01
+                                 MCC Room                              02
+                     Dome        MCC Building Entrance                 01
+                     Camera      DA Room                               01
+                                 VTS Tower Equipment Room              01
+ iii.                             Main Gate Entrance                   01
+                     Bullet       DA Room Back side                    01
+                     Camera       Diesel Tank Area                     01
+                                   DA Room, Gensets Room and                01
+                                   Water tank Area
+                                   VTS Tower and IQ Area                     01
+         iv.     LED Monitor       VTS Manager Room, Duty                   02
+                 42 inchSl.        SRT/RTPageRoom
+                                              7 of 8
+                 908PLRS1197
+                 42
+                 Sl.
+                    908PLPG11976
+                    0
+             v.     NVR             AEE (E) Room                                              01
+             vi.    8-Port POE      DDG Room                                                  01
+                    NetworkSwitch
+         vii.       UPS ( 1 KVA)    DDG Room                                                  01
+21.                           Web Server Dish Antenna
+
+
+Make &Model                 Serial No.              Frequency                Gain        Positio
+                                                                                         n/
+                                                                                         Locati
+                                                                                         on
+Airmax                      355101002               4.9 – 5.9 GHz            29dbi       4th Floor
+TM55L-                                                                                   VTS
+DP                                                                                       Tower
+DISH-29
+22.                          DTH for TV Set ( Above MCC Building)
+
+Make                        Sl No. Of Set up Box          Subscriber ID         Position/Location
+
+Tata Sky                    889218348932                  1355497940            VTS Manager
+                                                                                Room
+ 23.                  BSNL FTTH ( Internet Tel No. 02836 296411
+
+S. N.               Description              Serial No.                    Position/Location
+
+        i.          Dish Antenna             Nil                           3rd Floor Window VTS
+                                                                           Tower
+ ii.                Wireless Router     Make ;- DIGI Set                   Server Room
+                                        Model:- DG HR-300
+                                        Sl. No.:-
+                                        009/3g2004438
+ iii.               8-Port Switch       Make:- Cisco                       Server Room
+                                        Batch No.:-
+                                        PSZ21231H76
+24.                               MCC Room Equipment -
+
+S. N.              Sector       Monitor                      CPU                     VHF
+
+        i.         Sector-01 Make :- BenQ                    Make:- HP               Make:-
+                             Model:- EL2870-B                Model:-HP               JOTR
+                                                                                     ON
+                                Qty. :- 03                   Product                 Model
+                                                             No:-                    No:-
+                                Serial No.:-                 1JP11AV                 JRRC
+                                               Page 8 of 8
+                                1.ETE8K03056SL0              Serial No:-             Serial
+                                T                                                    No:-
+                 2.ETE8K03139SL0       INA933X9      331
+                 T                     PH
+                 3.ETE8K03123SL0
+                 T
+ii.    Sector-02 Make :- BenQ          Make:- HP     Make:-
+
+                Model:- EL2870-B       Model:-       JOTR
+                                       HP            ON
+                Qty. :- 03             Product       Model
+                                       No:-          No:-
+                Serial No :-           1JP11AV       JRRC
+
+                1.ETE8K03061SL0        Serial No:-   Serial
+                T                                    No:-
+                                                     332
+                 2.ETE8K03074SL0       INA933X9
+                 T                     PG
+                 3.ETE8K03133SL0
+                 T
+iii.   Sector-03 Make :- BenQ          Make:- HP     Make:-
+
+                Model:- EL2870-B       Model:-       JOTR
+                                       HP            ON
+                Qty.:- 03              Product       Model
+                                       No:-          No:-
+                Serial No :-           1JP11AV       JRRC
+
+                1.ETE1K02715SL0        Serial No:-   Serial
+                T                                    No:-
+                                                     333
+                 2.ETE8K03131SL0       INA933X9
+                 T                     PP
+                 3.ETE8K03121SL0
+                 T
+iv.    Sector-04 Make :- BenQ          Make:- HP     Make:-
+
+                Model:- EL2870-B       Model:-       JOTR
+                                       HP            ON
+                Qty. :- 03             Product       Model
+                                       No:-          No:-
+                Serial No :-           1JP11AV       JRRC
+
+                1.ETE8K03065SL0        Serial No:-   Serial
+                T                                    No:-
+                2.ETE8K03144SL         INA933X9      334
+                OT                     PC
+                           Page 9 of 8
+                3.ETE8K03078SL
+                OT
+           v.     VTS        Make :- BenQ           Make:- HP              Make:-
+                  Supervisor
+                             Model:- EL2870-B       Model:-                JOTR
+                                                    HP                     ON
+                              Qty. :- 03            Product                Model
+                                                    No:-                   No:-
+                              Serial No :-          1JP11AV                JRRC
+
+                              1.ETE8K03145SL       Serial No:-             Serial
+                              OT                                           No:-
+                              2.ETE8K03088SL       INA933X9                330
+                              OT                   PQ
+                              3.ETE8K03115SL
+                              OT
+     25.                          Server Room ( CPU, Monitor )
+
+S.No.               Position/Loca      Monitor                   CPU
+                    tion                                                            V
+                                                                                    HF
+i.                                 Make :- BenQ        Make:- HP
+                                   Model:- EL2870-     Model:- HP                   Nil
+                    Server Room    BQty. :- 02         Product No:- 1JP11AV
+                    PC             Serial No :-        Serial No :-INA933X9PJ
+                                   1.ETE1K02742SLO
+                                   T
+                                   2.ETE8K03143SLOT
+      26.            Microwave Antenna and Mini Link Radio :- (at VTS tower)
+
+S.                  Descripti Qty. Make/Model      Serial No ( Antenna &     Location
+N.                  on                             M/Radio)
+                    of Items
+                 i. Antenn    1+1 Antenna:-        08KIMWA0000120006,        OnTower
+                    a&             FainiTelcom.,   CR9N995864                Towards
+                    M/Radi         M/Radio:-                                 Bhadresh
+                    o              Ericsson                                  war
+                                   ( Mod:-6363)
+                ii. Antenn    1+1 Antenna:-        08KIMWA0000120054,        On
+                    a&             FainiTelcom.,   CRN964253                 Tower
+                    M/Radi         M/Radio:-                                 Towar
+                    o              Ericsson                                  ds
+                                   (Mod:- 6363)                              Navla
+                                                                             khi
+                iii. Antenn   1+1 Antenna:-           08KIMWA0000120004,     On
+                     a&           FainiTelcom.,       CR9Q240411             Tower
+                     M/Radi       M/Radio:-                                  Towards
+                     o            Ericsson                                   Bhadresh
+                                  ( Mod:-6363)
+                                           Page 10 of                        war
+                                             8
+                  iv. Antenn   1+1 Antenna:-        08KIMWA0000120056,                      On Tower
+                      a&            FainiTelcom.,   CR9P211858                              Towards
+                      M/Radi        M/Radio:-                                               Navlakhi
+                      o             Ericsson
+                                    ( Mod:-6363)
+     27.                          Dish Antenna For PMS Kandla Port :-
+
+S. N.              Description of      Qty.     Make        Serial No               Location
+                   Items                        &Model No.
+i.                 For Kandla PMS      01       Airmax      RD5M24298               VTS Tower 6TH
+                                                RD-5G30                             floor
+ 28.                                                  EPABx:-
+
+S. N.               Description         Qty. Make/Model Tech.         Location
+                                                        Specification
+i.                  Intercom ( MCC     01    Matrix     100-240 V AC, Server Room
+                    Kandla)                  Eternity   47-63 Hz, 1 A
+29.                              LIFT (VTS Tower)
+
+Make                      Capacity        Lift Motor Rating     Speed        Date of        License
+                                                                             Installation   Validity
+Trio                      06              3 Phase,415V, 50      1            03/11/2009     02/11/202
+Elevator                  Passengers      Hz,                   M/Sec                       2
+                          (408 Kg)        Motor Sl. No. :-
+                                          1000063083
+                                          Capacity:- 5.5 KW
+30.                                         Firefighting Equipment
+(a)                                         Fire extinguisher
+S. N.                  Type of fire          No of fire              capacity          Month/year
+                       extinguisher          extinguisher                              of
+                                                                                       manufacturi
+                                                                                       ng
+            i.         ABC dry powder        08                      05 kg             Feb-2011
+            ii.        Clean agent           04                      04 kg             Feb-2011
+           iii.        ABC dry powder        04 ( New)               05 kg             Dec-2011
+                       (spare in store)      03 ( Old )
+ (b)                    Fire buckets         :- 03 No’s
+     31.            HSD Oil Tank                                        Capacity – 12000 Liters
+     32.            Water supply                                        From Deendayal Port Trust
+                                                                        (DPT)         (Pipeline
+                                                                        division)
+                                                                        Submersible pump(5 HP, 3ø)
+                                                  Page 11 of            inside water tank
+                                                  8                     Underground tank (Cap.
+                                                                        60000 Ltr.)
+                                                                        Overhead water tank (Cap.
+                                            10000 Ltr.)
+33.   Structures                            MCC Building : 01 unit
+                                            VTS Tower : 01 unit
+                                            Inspection Quarter : 01 unit
+                                            Power House (DA room): 01
+                                            unit
+                                            Generator room: 01 unit
+                                            Security Cabin: 01 unit
+34.   Land Area                             10000 Sq.m
+35    Compound Street lights                11 Nos. G.I Poles (22.5 Feet
+                                            height) with14 LED lights, 02
+                                            Nos. Gate light 10 No’s LED
+                                            light around MCC building
+36.   Mode of Approach                      By Road From
+                                            Gandhidham (13KM)
+37.   Address &Communication                VTS-Master
+                                            Control Center
+                                            Behind Balaji
+                                            TempleNew
+                                            Kandla
+                                            Kutch, Gujarat -
+                                            370210
+                                            02836- 270110 (VTS
+                                            Manager)
+                                            02836- 270130 (VTS
+                                            Supervisor)
+                                            02836- 270144 (AEE, SRT/
+                                            RT)
+38.   Date of Commissioning                 13 February 2012
+
+
+
+
+                               Page 12 of
+                               8
+

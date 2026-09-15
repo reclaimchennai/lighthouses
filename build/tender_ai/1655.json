@@ -1,0 +1,43 @@
+{
+  "nid": 1655,
+  "title": "Special repair and maintenance of Armagaon Lighthouse along with construction of Security Guard cabin and beautification of the station",
+  "summary": "E-tender (percentage rate, two-cover) for special repair and maintenance of Armagaon (Armagon) Lighthouse, Nidigurthi, Nellore District, Andhra Pradesh, with construction of a security guard cabin and beautification of the station (Visakhapatnam Directorate).",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MT-VSP-02002(16)/2/2024-Maintenance; I/60198/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Armagaon Lighthouse, Nidigurthi (Post), Via Mallam, Nellore (District) - 524403", "station_id": "armagon-lighthouse", "kind": "lighthouse", "work": "Special repair and maintenance, construction of security guard cabin, beautification of station"}
+  ],
+  "scope": [
+    {"item": "Special repair and maintenance of Armagaon Lighthouse along with construction of Security Guard cabin and beautification of the station", "qty": null, "unit": null, "site": "Armagaon Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 8332721.0,
+    "emd_inr": 166700.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST and all other taxes. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships, Visakhapatnam, valid three months from technical bid opening; EMD explicitly not exempted for any bidder (including NSIC/MSME) because of past delays; forfeited if bid timelines not followed. Tender fee Nil."
+  },
+  "period": {"completion": "08 (Eight) months from commencement of work", "bid_validity": "90 days from date of opening of tender", "warranty": null},
+  "dates": {"published": "2024-07-04", "pre_bid": "2024-07-11", "bid_submission_end": "2024-07-25", "bid_opening": "2024-07-26"},
+  "eligibility": [
+    "Valid civil registration in appropriate category & class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies, and valid electrical licence",
+    "Similar works in last seven years: three each >= 40%, two each >= 50%, or one >= 80% of estimated cost; completion certificates; value updated at 7% p.a.",
+    "Similar works: construction, repair and maintenance of buildings and other civil structures including electrical works",
+    "PAN and GST registration; key technical personnel; unconditional tender undertaking (Annexure V); tender acceptance letter (Annexure IV); non-blacklisting affidavit",
+    "Income tax returns for last three years; average annual turnover of last three financial years minimum 30% of estimated cost",
+    "List of relatives serving in MoPSW/DGLL; detailed activity chart/plan; self-assessed technical evaluation sheet"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_0.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Extract of Section I (printed pages 3-7 of a 99-page tender document); no BOQ. Bid download/submission 04.07.2024 18:00 to 25.07.2024 15:00; pre-bid 11.07.2024 11:00; opening 26.07.2024 15:00. Heavy vehicles permitted to site; damage to pathway tiles/paver blocks/plants to be repaired by contractor. No time extension for document submission. Spelled 'Armagaon' (station list: Armagon)."
+}

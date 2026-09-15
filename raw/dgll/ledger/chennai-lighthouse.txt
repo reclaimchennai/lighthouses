@@ -1,0 +1,270 @@
+                           मास्टर लेज़र/MASTER LEDGER
+
+                      चेन्नई दीपस्तंभ/CHENNAI LIGHTHOUSE
+क्रम
+          नाम/Name                  वििरण/Description
+संख्या/
+Sr. No.
+1         ए.एल.ओ.एल/A.L.O.L.        F 0936
+2         स्थान/Position            Lat 13〫 02’ 22” N, Lon 80〫16’ 51” E
+3         ऊंचाई/Elevation           58 M above MSL
+4         अभिलक्षण/Characteristic   White Group Flash (2) Every 2 Sec
+                                    (0.57+1.93+0.57+6.93)
+          नॉटिकल माइल मे दरू ी/         (i)   Luminous - A.T.F. 0.74 @ 22 NM
+5                                             A.T.F. 0.84@ 35 NM
+          Range in miles
+                                        (ii)   Geographical - 19.3 NM
+6         दीपस्तंि िािर/L.H.Tower   Type                      Triangular PRISM – RCC tower
+                                    Height                    45.72 Meter
+                                    Colour Scheme               Red & White – Horizontal band
+          ऑप्टिकल उपकरण/            Optic /Type                 3rd Order Revolving Optic.
+7                                   Make                        B.B.T
+          Optical equipment
+                                    Size                        375 mm (3rd Order Small)
+                                                                Revolving
+                                    No. of lens / Panels        4
+                                    Area of dioptric portion    1518 Sq.cm (Corrected area
+                                                                1077.8 Sq.cm)
+                                    Area     of    catadioptric 4220 Sq.cm (Corrected area 3503
+                                    portion                     Sq.cm)
+                                    Divergence                  6〫00’ (Horizontal)
+                                    Main Lamp
+                                                                2〫00’(Vertical)
+                                    Duration of Flash         10 sec
+                                    Main
+                                    Pedestal                  Mercury Float
+                                    Rotation Device             Stepper Motor
+                                    R.P.M.                      3 R.P.M
+                                    illumining
+                                    Main                        Cluster of 3 Nos. of 150 Watt/230
+                                                                V AC MH Lamps.
+                                    Standby                     -
+                                    Emergency                   -
+                                    Date of Installation        12-03- 2007Conversion from
+                                                                incandescent equipment
+                                                                to MH lamp(Cluster)
+     प्रिािी बीम तीव्रता/           Main                        2,30,983 Candelas
+     Effective beam intensity       Emergency                   -
+     लेंिनन/Lantern                 Diameter                    2.5 Meter
+                                    Height of glazing           1.30 Meter
+                                    No. of panes                20 Nos.
+                                    Ventilators                 9 Nos.
+8    रे कोन/RACON                        Sr. No.
+     Make              Model        Code                        Band                 Date of
+                                                                                     Installation
+     WM (Wealth        WM RB                                    X-Band
+     Marine ) Pvt      IISl.No.RB   K                           9300-9500 Mhz        19-11-2010
+     Ltd., Singapore   2-0093
+9    एनएआईएस/NAIS
+     Base Station                   R 40 Base Station
+                                    Sl.No.5371 & 5235
+
+     Model             Type         Power                       MMSI
+     SAAB
+     Communicatio
+     n Equipment
+     VSAT Antenna      Band         Modem
+       2.4m dia        EX-C         Datum system
+       Parabolic                    M7LT
+       reflector                    Satellite Terminal
+     ऊर्ान के साधन/    Mains                                     Tamilnadu Electricity Board
+10                     Power Source                              3 Phase /440V AC Supply
+     Source of
+     Energy            Engine 1     :-        Installed On : 16-04-2011
+                       Make/Type            Qty       Rating     No of      RPM          Cooling
+                                                                 Cylinder
+                       Kirloskar / Modal    1 No. 50 KVA / Six              1500         Air
+                       HA694                          65 HP                              Cooling
+                       Alternator
+                       Make/Type            Qty       Rating    Voltage/     Frequenc     Phase
+                                                                Amp          y
+                       Sun Been             1 No.     50 KVA    415 V        50Hz         3 Phase
+                       Generators
+                       Engine 2                                              (NIL)
+                       Make/Type            Qty       Rating    No of         RPM         Cooling
+                                                                Cylinder
+                                Solar Plant for Main light :- 3 KWp installed on 29th December 2016
+                                Capacity PV          Numbers               Type Battery             Bank
+                                OC V – 36 V                                       Exide make
+                                V max – 31.0 V                                    12 V / 200
+                                I max - 8.1 Amps 12 Nos.                   Off    AH                01 No.
+                                SCC - 8.80                                 Grid
+                                Amps.
+                                Solar Plant for 2KW off grid (used in automation, street light and etc : NIL
+                                Capacity PV          Numbers               Type Battery             Bank
+
+11     स्वचालित वोल्टे ज स्टे बिाइजर/Automatic Voltage Stabilizers
+       Make                 Model            Cap      Input                Output           Phase      Qty
+                                             acity
+LB     Globus               Servo            7.5      170-230 V            230 V            1          1 No
+                            controlled       KVA                                            phase
+Lift   Geevi Control        Servo            20       170-270 V            400 V AC         3          1 No.
+       Systems              controlled       KVA                                            Phase
+       बैटरी/Batteries
+12
+       Equipment            Type             Make         Volt             Amp/     Qty                Remarks
+                                                                           Hr
+       PSS NAIS             -                -            -                -        -
+       Genset               Lead Acid        Exide        12 V DC          150A     1 No.
+                            Sealed                                         H
+       Automation /         Lead Acid        Exide        12 VDC           150A     1 No.              Standby
+       UPS                                                                 H                           Supply for
+                                                                                                       Main
+                                                                                                       Light.
+       DGPS                 -                -            -                -        -
+13     बैटरी चार्नर/Battery Charger
+       Equipment            Make             Mod      Type                 Ratin    Qty
+                                             el                            g
+       General              Velsine          -        -                    0-40     1 No
+       Purpose                                                             V/ 80
+                                                                           A
+14     इंवर्ट र/यप
+                 ू ीएस/Inverter/UPS
+       Equipme No Make                 Model /        Type       Rating    Qty          input          output
+       nt             s                Sl.No.
+       Main           1      UTL       ---            Pure       800 VA    1No          24 V/ DC &     230VAC
+       Light          No                              sine                              230 V AC
+                                                      wave
+                            Lumin                     Pure       850 VA    1No          12 V/ DC &     230VAC-
+       RACON        1       ous        59FA92C1       sine                              230 V AC       For
+                    No                 060952         wave                                             charging
+       Solar        1       Hykon      SPP3000
+                                        Pure                     5 KVA     1 No.        48 V/ DC &     of Battery.
+                                                                                                       230V  AC
+       Inverter     No.                 sine                                            230 V AC
+                                        wave
+       स्वचालन उपकरण/Automation Equipment
+15
+       MAKE         PLC             HMI              Power Supply     VSAT          Modem       Band
+       RDS          Allen           RDS              24 V DC          1.2 m dia     Hughe       EX.C
+                    Bradley         electronics                       Parabolic     s
+                                                          reflector
+16   ललफ्ट/Lift
+                            Floor           Passenger                            Installed
+     Equipment              Covered         Capacity      Qty.                   ( New lift )
+     Make : Kone            Ground to       13 Nos. or
+     Elevtors India         9th Floor       884 Kg Max.   1 No.                  10-11-2013
+     Private Ltd.,
+     Sl.No.40349341
+
+17   नावटे क्स मॉननटर/NAVTEX Monitor
+     Particulars & Sl. No. of     Quantity                Installed on   Remarks
+     Equipment
+     NAVTEX RECEIVER SIRUS -                                             Monitor installed at
+     3 with Antenna               01 No.                  20-01-2016     Office and Antenna at
+     Sl.No.A1320362                                                      3rd Floor
+18   एयर कंडीशनर/Air Conditioners – 8 Nos.
+     Particulars                   Quantity               Installed at              Installed On
+     Voltas Split A/c              1 No.                  1st Floor IQ Hall         12-05-2018
+     Capacity : 1.5 Ton
+     Blue Star Split A/c           1 No.                  1st Floor IQ Bed Room     18-12-2018
+     Capacity : 1.5 Ton
+     Blue Star Split A/C           1 No.                  2nd Floor Big Room -      18-12-2018
+     Capacity : 1.5 Ton                                   Hall
+     Hitachi Split A/C             1 No.                  2nd Floor Big Room -      27.04.2012
+     1.5 Ton                                              Bed Room
+     Voltas Split A/c              1 No.                  2nd Room Small            26.06.2018
+     Capacity : 1.5 Ton                                   Room./ Old A/C from
+                                                          DLL Office
+     Museum Cassette type              3 Nos.             Museum                    18-09-2013
+     2 Ton
+19   स्टे टटक सेंसर/Static Sensor
+     Particulars &                     Quantity           Installed at            Installed On
+     Sl. No Sensor
+     Static   of equipment
+                      Equipments TX/   Quantity           InstalledRoom
+                                                          Service   at  /         Installed On
+     RX, ATU Unit, Scanner             1 Set.             Lighthouse Top          December
+     Antenna etc.,                                        and Powerhouse.         2012
+
+20   संग्रहालय/Museum
+     Items                                                 Quantity            Established
+     Lighthouse Technical Museum                                                        On
+     Various items including Light beacon Model 3rd        49 Nos.             01
+     Order BBT Including Lantern Assembly , PRB-42
+     and 300 mm Flasher Equipment
+     Touch Screen Kiosk with
+     Computer Assembly and LED Samsung Smart TV            1 Set               02
+     Monitor 56”
+21   कायाालय डेस्कटॉप कंप्यट
+                           ू र संबद्ध सहायक उपकरण के साथ/Office Desktop Computer with allied
+     accessories
+     Items                                                 Quantity            Installed On
+     Dell Make -OptiPlex 3280 All-in-One Desktop
+     Sl.No. CN-0WT65G-PE200-0AR-0697-A00                   1 Set.
+     DP/N 0WT65G
+     HP LaserJet M1136 MFP Printer (Print, Scan, Copy)
+     Sl.No.CNJKL36B1H                                    1 No.
+22   आप्ननशमन उपकरण/              Type of                Capacity      Nos     Make
+                                  Extinguisher
+     Fire Fighting Equipment
+                                  DCP Type               2 kg          4       ABC
+                                  Co2                    2 Kg          4       Excellent
+                                  Co2                    4.5 Kg        2       Excellent
+23   संचार/                       BSNL telephone         044- 29515598
+     Communication
+                                  Email ID :             madraslighthouse@gmail.com
+24   र्लपर्ू तन/                      (i)     Chennai  Metro Water Connection No.
+                                             CMC No. 09-125-90005-4C0.
+     Water Supply
+                                      (ii)    Open well – 1 No.
+                                  Both source of Water pumped into Overhead water (RCC)
+                                  tank with 3000 Liter capacity.
+25   िभू म/                       Area                               0.079 Hectares.
+     Land                         Demarcation                        Not Available
+
+26   इमारतें /                    RCC Structure: 05    (i) One unit of Office, Powerhouse,
+                                  Nos.                 Museum and Inspections Qtrs.at 1st &
+     Buildings
+                                                       2nd Floor attached to Lighthouse Tower.
+                                                       (ii) Store Room – 1 No.
+                                                       (iii) Staff Room - 1 No.
+                                                       (iv) Public Toilet - 1 No. (For Gents and
+                                                       Ladies separately )
+                                                       (v) Security Room – 1 No.
+27   कंपाउं ड लाइि/                   (i)     5 Nos. LED Street Light
+     Compound Lights                  (ii)    4 Nos. LED Garden Light
+
+28   सीसीिीिी कैमरा /             2MP IP Bullet Camera with allied
+                                  accessories - 21 Nos.               Installed
+     CCTV CAMERA
+                                  4TB Hard Drive – 1 No. &             On 31-03-2022
+                                  2 Nos. - 22 “ Benq Monitors
+29   स्िाफ/                       Sl. No. Designations
+     Staff                        1          Navigational Asst. Gr.I - 2 Nos.
+                                  2          Navigational Asst. Gr.II - 1 No.
+                                  3          Lighthouse Attendant – Nil
+                                  4          Outsourced staff for Housekeeping-
+                                             (i)        Field Assistant – 2 Nos.
+                                             (ii)       Security – 3 Nos (Ex-Servicemen)
+                                             (iii)      Housekeeping – 1 No.
+                                             (iv)       Visitors Regulating Purpose – 4 Nos.
+
+30   पहुँचने का माध्यम/               (i) By Flight up to Chennai International Airport,
+                                                  Meenambakkam and then 20 Kms by road.
+     Mode of approach
+                                      (ii) By Rail up to Chennai Egmore Railway Station or
+                                                  Chennai Central Railway Station and then by
+                                                  road for 6.3 Kms and 6.8 Kms respectively.
+     उपिब्ध सवु वधाएं/            Post Office - 1.7 Kms.
+31                                Police Station - 100 Meters
+     Facilities available
+                                  Hospital – 2.2 Kms (CSI Kalyani Multispecialty Hospital)
+                                  CGHS Dispensary – 3.7 Kms (Port Trust Quarters)
+                                     Fire Station – 600 meters (Kailasapuram, Mylapore)
+
+
+
+32   डाक पता/Postal address          The Navigational Asst. Gr-I,
+                                     Chennai Lighthouse ,
+                                     No.4, Kamarajarsalai,
+                                     Mylapore,
+                                     Chennai -600 004
+     मल्ू य का ब्योरा/Cost details
+33
+     (At the time of
+     Construction)
+     प्रवततन में िाने का दिनांक/     10-01-1977
+34
+     Date of commissioning
+

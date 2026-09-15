@@ -1,0 +1,50 @@
+{
+  "nid": 1640,
+  "title": "Re-Shifting of Temporary Powerhouse to new Powerhouse at Manakodam Lighthouse",
+  "summary": "Notice inviting sealed quotations to move the 7.5 kVA DG set, 5 kW solar plant, LT/AMF panels and stabilizer from the temporary power house to the new power house at Manakkodam Lighthouse, Alleppey district, Kerala, including earthing and reconnection of lighthouse loads.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-26001/1/2019-MS; MS-Coc-10001/1/2024-MS; I/59898/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Manakkodam Lighthouse, Andhakaranazhi P.O., Pattanakkadu, Alleppey (Dist.), Pin 688531", "station_id": "manakkodam-lighthouse", "kind": "lighthouse", "work": "Re-shifting of temporary power house equipment to new power house"}
+  ],
+  "scope": [
+    {"item": "Earthing with copper earth plate 600x600x3 mm with masonry enclosure, locking cover, 2.7 m watering pipe (for DG set and lightning conductor for solar panel)", "qty": "4", "unit": "Set", "site": "Manakkodam Lighthouse"},
+    {"item": "Supplying and laying 25x5 mm copper strip 0.5 m below ground as strip earth electrode (4 earths x 15 m)", "qty": "60", "unit": "metre", "site": "Manakkodam Lighthouse"},
+    {"item": "Dismantling of 7.5 kVA DG set, EAMF panel, voltage stabilizer and all electrical/electronic switchgear from temporary power house", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Shifting of DG set, EAMF panel, stabilizer and switchgear to new power house with labour, machinery and cargo vehicle", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Installation of 7.5 kVA single phase DG set, EAMF panel, stabilizer, LT panel and switchgear with wiring and terminations in new power house and LH tower", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Dismantling and shifting of 5 kW solar panels incl. GI stand and wiring from temporary power house", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Installation of 5 kW solar panels on GI stand on concrete base on top of new power house incl. wiring", "qty": "1", "unit": "Job", "site": "Manakkodam Lighthouse"},
+    {"item": "Miscellaneous items: screws, bolts, nuts, washers, drill bits, cable ties, bends, tees, cable glands, PVC junction boxes etc.", "qty": "1", "unit": "LS", "site": "Manakkodam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 240683.0,
+    "emd_inr": 4814.0,
+    "tender_fee_inr": null,
+    "performance_security": "10% of contract value (FDR/BG) within 10 days of award, valid 60 days beyond completion incl. defect liability period",
+    "notes": "EMD by DD/FDR from any commercial/nationalised bank in favour of Director, Lighthouses and Lightships, Cochin, payable at Cochin; NSIC/MSME certificate holders for related stores/service exempt. 100% payment within 30 days of satisfactory completion. LD 0.5% of contract value per week, max 10%. Rates to show basic cost and taxes separately; L1 on consolidated total."
+  },
+  "period": {"completion": "45 days from date of issue of work order", "bid_validity": "60 days from date of opening of quotations", "warranty": null},
+  "dates": {"published": "2024-06-27", "pre_bid": null, "bid_submission_end": "2024-07-15", "bid_opening": "2024-07-15"},
+  "eligibility": [
+    "Reputed licensed contractors, agencies or government undertakings",
+    "Documents: valid electrical licence from KSEB; NSIC/MSME certificate or EMD; PAN; GST registration; work experience of equivalent/similar or higher value; last 3 years ITR"
+  ],
+  "specs": [
+    "7.5 kVA single phase DG set, EAMF panel, voltage stabilizer, LT panel; 5 kW solar plant",
+    "Wiring per KSEB specifications or CPWD General Specifications for Electrical Works 2013 Part-I (Internal); Indian Electricity Act 2003 and Rules 1956",
+    "Copper conductors only, fire-resistant insulation, BIS/ISI/IEC compliant; contractor to handle KSEB meter shifting/reconnection (KSEB payments claimable on receipts)"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQ_Manakkodam_Reshifting.pdf", "pages": 17, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Pages 1-2 scanned NIQ (file no. MS-Coc-26001/1/2019-MS in body, MS-Coc-10001/1/2024-MS in header). NIQ spells station 'Manakodam'. Download 01.07.2024 09:00 to 15.07.2024 14:00; submission 01.07.2024 14:00 to 15.07.2024 15:00; opening 15.07.2024 16:00. Forms 1-6 are boilerplate; PBG form note says 'three percent (10%)'. Work to proceed without interrupting lighthouse equipment operation."
+}

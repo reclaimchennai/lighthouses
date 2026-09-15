@@ -1,0 +1,124 @@
+{
+  "slug": "kalpeni-lighthouse",
+  "page_count": 4,
+  "title_as_printed": "मास्टर लेजर/MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1, "fields": [{"label": "A.L.O.L.", "value": "F 1201"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1, "fields": [{"label": "Position", "value": "Lat.10° 04.50’ N , long 73° 58.54’ E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1, "fields": [{"label": "Elevation", "value": "44.01M (Above MSL)"}], "tables": [], "text": null},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1, "fields": [{"label": "Characteristic", "value": "GP.FL.3(W)EVERY 20SECS"}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in miles", "title_hi": "नॉटिकल माइल मे दूरी", "page": 1, "fields": [{"label": "Range in miles", "value": "18NM"}], "tables": [], "text": null},
+    {"no": "6", "title": "L.H.Tower", "title_hi": "दीपस्तंभ टावर", "page": 1, "fields": [
+      {"label": "Type", "value": "Circular RCC block masonry tower"},
+      {"label": "Height", "value": "37M"},
+      {"label": "Colour Scheme", "value": "Black and White Band"}
+    ], "tables": [], "text": null},
+    {"no": "7", "title": "Optical equipment", "title_hi": "ऑप्टिकल उपकरण", "page": 1, "fields": [
+      {"label": "Optic", "value": ""},
+      {"label": "Make", "value": "J.stone&co"},
+      {"label": "Type", "value": ""},
+      {"label": "Size", "value": "300mm 4th revolving optic"},
+      {"label": "No. of lens", "value": "3"},
+      {"label": "Area of dioptric portion", "value": "1700 Sq. cm"},
+      {"label": "Area of catadioptric portion", "value": "9000 Sq. cm"},
+      {"label": "Divergence Main/Emergency", "value": "9º32’ (Horizontal) 8º35’ (Vertical)"},
+      {"label": "Duration of Flash Main /Standby/Emergency", "value": "0.53 Sec"},
+      {"label": "Pedestal", "value": "Ball bearing type"},
+      {"label": "Rotation Device", "value": "Stepper motor"},
+      {"label": "R.P.M.", "value": "3 RPM"},
+      {"label": "Illumining", "value": ""},
+      {"label": "Main", "value": "230V/400W Metal Halide Lamp"},
+      {"label": "Standby", "value": ""},
+      {"label": "Emergency:", "value": ""},
+      {"label": "Date of Installation", "value": "28-05-2003"}
+    ], "tables": [], "text": null},
+    {"no": "8", "title": "Effective beam intensity", "title_hi": "प्रभावी बीम तीव्रता", "page": 1, "fields": [
+      {"label": "Main", "value": "2.56.989 candelas"},
+      {"label": "Emergency", "value": ""}
+    ], "tables": [], "text": null},
+    {"no": "9", "title": "Lantern", "title_hi": "लेंटर्न", "page": 1, "fields": [
+      {"label": "Diameter", "value": "2.4m"},
+      {"label": "Height of glazing", "value": "1.38m"},
+      {"label": "No. of panes", "value": "12"},
+      {"label": "Ventilators", "value": "8"}
+    ], "tables": [], "text": null},
+    {"no": "10", "title": "RACON", "title_hi": null, "page": 1, "fields": [{"label": "Sr. No", "value": "6295"}], "tables": [
+      {"caption": null, "columns": ["Make", "Model", "Code", "Band", "Date of Installation"], "rows": [["", "", "", "", ""]]}
+    ], "text": null},
+    {"no": "11", "title": "NAIS", "title_hi": null, "page": 2, "fields": [{"label": "Base Station", "value": "2 Nos-AIS1 & AIS2"}], "tables": [
+      {"caption": "Base Station", "columns": ["Model", "Type", "Power", "MMSI", ""], "rows": [["R40", "Class A", "AC-230V & DC-12V", "4198001", ""]]},
+      {"caption": "Communication Equipment", "columns": ["VSAT Antenna", "Band", "Modem", "", ""], "rows": [["2.4m dia Parabolic reflector", "EX-C", "Datum system M7LT Satellite Terminal", "", ""]]}
+    ], "text": null},
+    {"no": "12", "title": "Source of energy", "title_hi": "ऊर्जा के साधन", "page": 2, "fields": [
+      {"label": "Mains", "value": "EB"},
+      {"label": "Power Source", "value": "DG Set 7.5 KVA make kirlosker"}
+    ], "tables": [
+      {"caption": "Engine 1", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"], "rows": [["kirlosker", "1", "16 BHP", "3", "1500", "Air"]]},
+      {"caption": "Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"], "rows": [["Stamford", "1", "7.5KVA", "240V/130.4A", "50Hz", "Single"]]}
+    ], "text": null},
+    {"no": "13", "title": "Automatic Voltage Stabilizers", "title_hi": "स्वचालितवोल्टेजस्टेबलाइजर", "page": 2, "fields": [], "tables": [
+      {"caption": null, "columns": ["Make", "Model", "Capacity", "Input", "Output", "Phase", "Qty"], "rows": [["SUPRA", "Supra hi tech electro", "5KVA", "230", "230", "SINGLE", "1"]]}
+    ], "text": null},
+    {"no": "14", "title": "Batteries", "title_hi": "बैटरि", "page": 2, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Type", "Make", "Volt", "Amp/Hr", "Qty"], "rows": [
+        ["PSS NAIS", "-", "-", "-", "-", "-"],
+        ["Genset", "Lead acid", "Exide", "12V", "150 AH", "1"],
+        ["Automation", "SMF", "Exide", "12V", "42 AH", "2"],
+        ["DGPS", "", "", "", "", ""]
+      ]}
+    ], "text": null},
+    {"no": "15", "title": "Battery charger", "title_hi": "बैटरि चार्जर", "page": 2, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Make", "Model", "Type", "Rating", "Qty"], "rows": [
+        ["General Purpose", "", "", "", "", ""],
+        ["Automation", "Power X Engg", "---", "----", "15 Amps", "01"]
+      ]}
+    ], "text": null},
+    {"no": "16", "title": "Inverter /UPS", "title_hi": "इंवर्टर", "page": 2, "fields": [], "tables": [
+      {"caption": null, "columns": ["Equipment", "Nos", "Make", "Model", "Type", "Rating", "Qty", "input", "Output"], "rows": [
+        ["Main Light", "---", "---", "---", "---", "---", "---", "---", "---"],
+        ["NAIS PSS", "02", "SUKAM", "----", "Pure sine wave", "1 KVA", "2", "12V DC & 230 AC", "230VAC"]
+      ]}
+    ], "text": null},
+    {"no": "17", "title": "Automation Equipment", "title_hi": "स्वचलन उपकरण", "page": 2, "fields": [], "tables": [
+      {"caption": null, "columns": ["MAKE", "PLC", "HMI", "Power Supply", "VSAT", "Modem", "Band"], "rows": [["RDS Pune", "Schneider & Telemecanique", "Schneider", "24 V DC", "1.8m dia Parabolic reflector", "SkyEdge", "EX.C"]]}
+    ], "text": "Row continues on top of page 3."},
+    {"no": "18", "title": "Fire Fighting Equipment", "title_hi": "अग्नि शमन उपकरण", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Type of Extinguisher", "Capacity", "Nos", "Make"], "rows": [
+        ["Fire extinguisher Map90", "1 kg", "1", ""],
+        ["Fire extinguisher Map90", "4 kg", "2", ""],
+        ["Fire extinguisher AFFF", "9 Ltr", "3", ""],
+        ["Fire extinguisher CO2", "4.5KG", "2", ""],
+        ["Fire buckets", "02(new)04nos (old)", "", ""]
+      ]}
+    ], "text": null},
+    {"no": "19", "title": "Communication", "title_hi": "संचार", "page": 3, "fields": [{"label": "Communication", "value": "The station is connected with P&T telephone No.04985252628"}], "tables": [], "text": null},
+    {"no": "20", "title": "Water Supply", "title_hi": "जलपूर्ति", "page": 3, "fields": [], "tables": [], "text": "Open well with salt water available in the station , 2 Nos rain water (3000ltr)collection tank provided.1000ltr capacity tank with 1HP motor pump"},
+    {"no": "21", "title": "Land", "title_hi": "भूमि", "page": 3, "fields": [
+      {"label": "Area", "value": "2520sqm"},
+      {"label": "Demarcation", "value": "Not Available"}
+    ], "tables": [], "text": null},
+    {"no": "22", "title": "Buildings", "title_hi": "इमारतें", "page": 3, "fields": [
+      {"label": "RCC Structure", "value": "Power house cum office,store room and toilet"},
+      {"label": "Timber Construction level", "value": "Inspection Qtr., HLK quarter,twin unit of NA quarter,twin unit of LHA Quarter,EB power supply distribution room"}
+    ], "tables": [], "text": null},
+    {"no": "23", "title": "Compound Lights", "title_hi": "कंपाउंड लाइट", "page": 3, "fields": [
+      {"label": "Compound Lights", "value": "LED Light fitted on G.I Pole-6 Nos,2nos gate lite"},
+      {"label": "", "value": ""}
+    ], "tables": [], "text": null},
+    {"no": "24", "title": "CCTV CAMERA", "title_hi": "सीसीटीवी कमेरा", "page": 3, "fields": [
+      {"label": "CCTV CAMERA", "value": "NA"},
+      {"label": "", "value": ""}
+    ], "tables": [], "text": null},
+    {"no": "25", "title": "Staff", "title_hi": "स्टाफ", "page": 3, "fields": [], "tables": [
+      {"caption": null, "columns": ["Sl. No", "Designations"], "rows": [["1", "Navigational Assistant GrIII"], ["2", "6NOS Outsourcing staff"]]}
+    ], "text": null},
+    {"no": "26", "title": "Mode of approach", "title_hi": "पहुँचने का माध्यम", "page": 4, "fields": [{"label": "Mode of approach", "value": "By sea from cochin to kalpeni or by helicopter in case of emergecy."}], "tables": [], "text": null},
+    {"no": "27", "title": "Facilities available", "title_hi": "उपलब्ध सुविधाए", "page": 4, "fields": [{"label": "Facilities available", "value": "The nearest Post office, Dispensary, High School, Police Station are available at kalpeni island. Nearest port is at kalpeni port, The Island is otherwise inhabited"}], "tables": [], "text": null},
+    {"no": "28", "title": "Postal address", "title_hi": "डाक पता", "page": 4, "fields": [{"label": "Postal address", "value": "Head light keeper Kalpeni light house Kalpeni island Pin:682557"}], "tables": [], "text": null},
+    {"no": "29", "title": "Cost details (At the time of Construction)", "title_hi": "मूल्य का ब्योरा", "page": 4, "fields": [{"label": "Cost details", "value": "N/A"}], "tables": [], "text": null},
+    {"no": "30", "title": "Date of commissioning", "title_hi": "प्रवर्तन मे लाने का देनांक", "page": 4, "fields": [{"label": "Date of commissioning", "value": "21/11/1976"}], "tables": [], "text": null}
+  ],
+  "unreadable": [
+    {"page": 3, "where": "Section 22 Buildings, Timber Construction label", "note": "Rendered page shows \"Timber Construction ... level\"; the words \"above plinth\" exist only as clipped text in the PDF text layer and are not visible."}
+  ]
+}

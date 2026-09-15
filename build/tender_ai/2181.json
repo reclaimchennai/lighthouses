@@ -1,0 +1,45 @@
+{
+  "nid": 2181,
+  "title": "Outside Painting of Lighthouse Tower at Tajpur Lighthouse, West Bengal",
+  "summary": "E-tender (two-cover) for painting the outside surface of the lighthouse tower at Tajpur Lighthouse, West Bengal, issued by the Directorate of Lighthouses and Lightships, Kolkata.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MS-Kol-13007(01)/1/2019-Civil; I/90697/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Tajpur Lighthouse, West Bengal", "station_id": "tajpur-lighthouse", "kind": "lighthouse", "work": "Outside painting of lighthouse tower"}
+  ],
+  "scope": [
+    {"item": "Outside painting of lighthouse tower", "qty": null, "unit": null, "site": "Tajpur Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 262408.57,
+    "emd_inr": 5300.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR/Bank Guarantee of any scheduled bank in favour of Director of Lighthouses and Lightships, Kolkata, payable at Kolkata; valid three months from technical bid opening; exemption not allowed; original EMD must reach office by last date of bid submission."
+  },
+  "period": {"completion": "60 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-12-24", "pre_bid": "2026-01-06", "bid_submission_end": "2026-01-13", "bid_opening": "2026-01-14"},
+  "eligibility": [
+    "Valid registration of appropriate class in Building civil work category with Central govt department/undertaking/autonomous body or State govt",
+    "Similar works completed in last 7 years: three works each >= 40% of estimated cost, or two works each >= 50%, or one work >= 80%",
+    "Similar works: repairs & maintenance or construction work of any type of building (RCC or masonry); past work values enhanced at 7% simple per annum",
+    "Valid PAN card and GST registration",
+    "Notarized affidavit that bidder is not blacklisted or debarred by any Central/State government organisation",
+    "Undertaking on letter pad that price bid is unconditional",
+    "Income tax returns for FY 2022-23, 2023-24, 2024-25",
+    "Tender acceptance letter on letter pad; other documents per Section VI"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_0.pdf", "pages": 4, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is the NIT only (printed page numbers 3-6); no BOQ included. Published date taken from bid document download start 24/12/2025 15:00 hrs. Bid submission end 13/01/2026 15:00 hrs; technical bid opening 14/01/2026 16:00 hrs. Affidavit clause inconsistent: Hindi says current year (2025), English says (2024)."
+}

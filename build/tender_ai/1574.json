@@ -1,0 +1,36 @@
+{
+  "nid": 1574,
+  "title": "Supply of ABC Store pressure type fire extinguishers of 6 Kgs capacity with ISI Mark to Puducherry Lighthouse under Chennai directorate",
+  "summary": "Notice inviting sealed quotations for supplying eight 6 kg ABC stored-pressure fire extinguishers (IS 15683, ISI marked) to Puducherry Lighthouse, Chennai Directorate.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MNT-CH-03001(01)/2/2020-MNT-MD; I/55655/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Pondicherry Lighthouse, Vambakeerapalayam, Pondicherry-605001", "station_id": "puducherry-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Supply of fire extinguishers"}
+  ],
+  "scope": [
+    {"item": "Supply of ABC store pressure type fire extinguishers of 6 kg capacity with all accessories conforming to IS:15683 with ISI mark", "qty": "8", "unit": "Nos", "site": "Puducherry Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "100% payment after successful supply and satisfactory working of the extinguishers; final account bill basis on actual quantity. No escalation. Paying authority: Directorate of Lighthouses & Lightships, Chennai."
+  },
+  "period": {"completion": "Supply within 20 days from date of supply order", "bid_validity": null, "warranty": "1 year from date of installation"},
+  "dates": {"published": "2024-04-10", "pre_bid": null, "bid_submission_end": "2024-04-24", "bid_opening": "2024-04-24"},
+  "eligibility": ["Reputed firms or authorised dealers or agents; quotation with credentials and descriptive brochures"],
+  "specs": ["ABC stored pressure fire extinguisher, 6 kg, IS 15683, ISI marked"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "CCF10042024_0004.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Quotations due 24/04/2024 15:00, opened same day 16:00. No estimated cost or EMD printed. Directorate e-mail printed is a gmail address (office contact, kept out of record here)."
+}

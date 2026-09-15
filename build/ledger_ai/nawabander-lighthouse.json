@@ -1,0 +1,44 @@
+{
+  "slug": "nawabander-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Nawabandar Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1986,
+  "alol": "F 0426",
+  "position": {"lat_text": "20° 44.4' N", "lon_text": "71° 04.8' E", "lat": 20.74, "lon": 71.08},
+  "elevation_m": 27,
+  "characteristic_text": "4Fl (W) 12Sec. (0.75 + 1)3 +0.75+6 = 12Sec",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 4,
+    "colours": ["W"],
+    "period_s": 12,
+    "sequence_text": "(0.75 + 1)3 +0.75+6 = 12Sec",
+    "sequence_s": [0.75, 1, 0.75, 1, 0.75, 1, 0.75, 6],
+    "flash_duration_s": 0.75
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 12, "geographical_nm": null, "text": "12 NM (unlabelled range)"},
+  "tower": {"type": "White round tower", "height_m": 15, "colour_scheme": "White"},
+  "optic": {
+    "make": "Sealite", "model": null, "type": null, "size": null, "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": null,
+    "rotates_evidence": "Only Make 'Sealite' given; type, rotation device and R.P.M. blank",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": null,
+    "illuminant": null
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": false, "text": "NAIS –NA"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": null, "generator": true, "text": "Mains 440V/3-phase/50 Hz; Engine 1 Kirloskar 20.5 HP; solar plant rows blank"},
+  "issues": [
+    "Optic details (type, intensity, rotation) not given beyond make Sealite",
+    "Date of commissioning given only as year 1986"
+  ]
+}

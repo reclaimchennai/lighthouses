@@ -1,0 +1,43 @@
+{
+  "nid": 1738,
+  "title": "Providing and furnishing interior wood work and furniture including wall paneling etc for New Inspection Quarters at Pulicat Lighthouse cum DGNSS Station",
+  "summary": "Two-cover percentage-rate e-tender for interior wood work, wall panelling and furniture for the new inspection quarters at Pulicat Lighthouse and DGNSS station, Tiruvallur District, Tamil Nadu.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(02)/1/2020-Civil Maintenance; I/63996/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, 5/20 Jaffer Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Pulicat Lighthouse cum DGNSS Station, Pulicat, Tiruvallur Dist, Tamilnadu (new inspection quarters)", "station_id": "pulicat-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Interior wood work, wall panelling and furniture for new inspection quarters"}
+  ],
+  "scope": [
+    {"item": "Providing and furnishing interior wood work and furniture including wall paneling etc for new inspection quarters", "qty": null, "unit": null, "site": "Pulicat Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 4413936.0,
+    "emd_inr": 88280.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. EMD by DD/FDR of any scheduled/nationalized bank in favour of Director of Lighthouses and Lightships, Chennai; validity stated as three months (table) and 90 days (clause 1.1). EMD exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "03 months", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2024-09-11", "pre_bid": "2024-09-26", "bid_submission_end": "2024-10-03", "bid_opening": "2024-10-04"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other Govt/PSU/autonomous bodies, with MoU between professional agencies having business registration, PAN, GST and similar experience in interior wood works/wall panelling/furniture from reputed firm",
+    "Similar works in last seven years: three >= 40%, two >= 50% or one >= 80% of estimated cost; values updated at 7% simple interest",
+    "Similar works: interior wood work, wall panelling and furniture work / repairs and civil maintenance or construction of buildings/compound wall/retaining wall/RCC work for Govt/PSU/autonomous bodies/reputed firms",
+    "PAN/ITCC/GST registration",
+    "CA-certified average annual turnover on construction works at least 40% of estimated cost in last 3 financial years ending 31 March 2024",
+    "Key technical personnel; unconditional tender undertaking (Annexure III); tender acceptance letter (Annexure II); non-blacklisting affidavit; relatives list; Make in India self-certification (Annexure VII)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITPulicatfurnishinginterior.pdf", "pages": 4, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT Section I only; no BOQ or furniture schedule. Download/submission 12.09.2024 (10:00) to 03.10.2024 (15:00); opening 04.10.2024 15:00. Station listed as DGNSS station; matched to Pulicat Lighthouse and DGPS Station."
+}

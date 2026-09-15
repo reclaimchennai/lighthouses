@@ -1,0 +1,169 @@
+                             Isakapalli Lighthouse
+                                  Estd.2009
+                                MASTER LEDGER
+1. Name                      : ISKAPALLILIGHTHOUSE
+2. Sr.No.                    : AwaitedfromNHO
+   (as perA.L.O.L)
+3. Position                  : Lat:140 44'N
+                               Long:8006'E
+4. Elevation                 : 34.4MtraboveMSL
+5. Characteristic              Group Flash(2) White,
+                               every10Seconds(0.3+3.2+0.3+6.2)Sec
+
+
+
+
+ 6. Range in nautical miles
+    i)   Luminous          : 18 NM
+      ii)    Geographical     : 17 NM
+ 7. Lighthouse Tower
+      i)     Type             : Circular R.C.C. Tower
+      ii)    Height           : 30 Mtr
+      iii)   ColourScheme     : Red & White diagonal bands
+ 8. Optical Equipment
+ a)   i) Make                 : M/s Wealth marine
+      ii) Size                : 500mm (Rotating Beacon)
+      iii) Focaldistance      : 250 mm
+      iv) No.ofPanels         : 4 "Fresnel" Lens & 2 black(Setof2+1of180o)
+      v) Duration of flash
+           Main               : 0.3Seconds
+
+ b) Pedestal                  : G.Ipipe,2Tier,Height-1.5Mtr.
+ c) Rotation Device           : Stepper motor 20 kg-cm - 1 No (Unique
+                                make)SteppermotorController-1No(Uniquemake)
+ d) Rotation Speed            : 3RPM
+
+
+
+
+                                                                             Page 1 of 5
+           : 150W/230VMetalHalideLamp
+
+           : Nil
+
+
+
+
+    f) Effective Beam Intensity
+       i)    Main/Service     : 15NM
+
+9. Lantern
+   i)    Diameter              : 2.40Mtr
+    ii)      Heightofglazin    : 1.50Mtr
+             g
+    iii)     No.ofpanes        : 12Nos.
+    iv)      Ventilators       : 6 Nos.
+
+
+10. Energy Source
+     A) APSPDCL                : 440VAC,50Hz,3Phase
+        Mains
+     B) Green Energy           : 0.42KWoffgridsolarpowerplantformain light.
+        i) Solar panels        : 6Nos.12V/70W(TATA B.Pmake)
+            ii) Battery Bank   : 6Nos.2V/150Ah(Exide tubular battery )
+            iii) PCU/UPS       : HykonMake900VA/12V.
+
+    Diesel Engine                BrushlessACgenerator,Kirloskarmake,16B
+11. Generator                  : HP/1500RPM,ModelNo.EA16
+
+12. Details of Alternator      : Kirloskarmake,KVA : 7.5,Voltage: 240 VAC,
+                                 Frequency : 50Hz, Phase : Single phase, RPM :
+                                 1500,Sl.No.4722 08.1608.91/0700846
+
+
+
+
+                                                                                 Page 2 of 5
+13. Automatic Voltage     : 1 No.
+    Stabilizers
+      Make                : supra-hitech
+      Model               : SH-390
+      Capacity            : 09KVA,3phase
+      Input               : 330-470V
+      Output              : 400±1%V
+
+14. AMFPanel
+    i)Make                   : M/s.Elect India
+     ii)Model                : MSV-EMF50 CFTR.
+     iii)Capacity            : 10KVA,3 phase
+
+
+
+
+15. Automation of Lighthouse.
+    i)Make                    : M/sRecktronicDevices&Systems,Pune.
+     ii)RDSPanel            : 1No.inpowerhouse.(Sl.No.1611)
+     iii)RDS Panel          : 1No.Serviceroom.(Sl.No.1606)
+     iv)V-SATDish Size      : 1.2Mtrdia
+
+
+
+
+                                                                     Page 3 of 5
+16. Regulated Power Supply : APLABMAKE.32VDC/30A
+
+17. Street Lights                  : i) 12Nos.G.IPoleswith25WLED Streetlight.
+                                     ii) Main GateLightLED -2Nos.
+
+18. Fire fighting equipment
+    Fire Extinguishers
+     i) D.C.P.type                 : 4 Nos.
+         (ABCType)
+     ii) Foam type                 : 1No.
+         (9 litres capacity)
+    iii) Fire Buckets              : 4 Nos.
+
+19. Communication                  : NA-IIImobileNo:8019141936
+    Facility                         e-mail: Iskapalli-Vizag@dgll.nic.in
+
+                                   i)Panchayat water supply with under Ground
+20. WaterSupply                :     Sump.
+                                   ii) Rain water tank for each quarter
+
+21. Land
+    i)Area                     : Ac2.0 Cts.
+     ii)Demarcation            : Masonry Compound wall
+     iii)No.of fruit trees     : 30Nos.
+     iv) No.of non fruit       : 55Nos.
+          bearing Trees
+
+                                 Staff Qtr -3Nos., Inspection Qtr-1No.,
+22. Buildings                  : Pumphouse-1No., Camp house-1No., Office
+                                 consisting Power House, Store Room,
+                                 Recreation Room - 1No.
+
+23. Staff                      : i) NA III-1No. ii) NA(Outsourcing) - 1No
+
+24. Mode of approach         : By bus 45km from Nellore
+
+25. Facilities available     : a)Near by Post Office 10km (Alluru)
+                               b)Govt. Hospital within 3km (Iskapalli)
+
+
+                                                                     Page 4 of 5
+                             c)Govt. School within 2km (Iskapalli)
+                             d)Nationalized Bank within 3km (Iskapalli)
+
+26. Postal Address         : The Navigational Assistant Grade-I,
+                             Iskapalli Lighthouse,
+                             Post: Iskapalli, Allur Mandal,
+                             SPSR Nellore Dist. Andhra Pradesh, Pin: 524315.
+
+27. CostDetails
+     i)Construction        : Rs.4,53,80,000/-
+    ii)Cost of equipment   : Rs.22,50,000/-
+
+28. Year first Light       : 28-02-2009
+    Commissioned
+
+29. Date of                : 28-02-2009
+    Commissioning
+
+30. Subsequent             : 08-01-2016,17-03-2016, March 2022
+    Innovations
+
+
+
+
+                                                                   Page 5 of 5
+

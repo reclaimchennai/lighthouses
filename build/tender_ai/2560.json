@@ -1,0 +1,55 @@
+{
+  "nid": 2560,
+  "title": "Procurement of measuring instruments for Deep Bhavan and Lighthouse Stations under Kolkata Directorate",
+  "summary": "GeM two-packet bid for supply of electrical and network measuring instruments (insulation testers, earth testers, clamp meters, cable testers, crimping tools, RJ45 connectors) for Deep Bhavan Kolkata and lighthouse stations under the Kolkata Directorate.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "GeM bid",
+    "portal": "GeM",
+    "reference": "GEM/2026/B/7942838; MS-Kol-01/1/2026-Mechanical",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Kolkata"
+  },
+  "scope_level": "directorate",
+  "sites": [
+    {"name": "Directorate of Lighthouses and Lightships, Deep Bhavan, D-372/2, Taratala Road, Kolkata-700088", "station_id": null, "kind": "office", "work": "Consignee for all items"}
+  ],
+  "scope": [
+    {"item": "Analog Type Hand Held Megger / Insulation Tester, CIE or Reputed Make", "qty": "6", "unit": "Nos", "site": "Deep Bhavan, Kolkata"},
+    {"item": "Analog Type Hand Held Earth Tester, CIE or Reputed Make", "qty": "7", "unit": "Nos", "site": "Deep Bhavan, Kolkata"},
+    {"item": "Digital Type Hand Held Clamp Meter, Metravi (Fluke/Metravi in GeM listing) or Reputed Make", "qty": "6", "unit": "Nos", "site": "Deep Bhavan, Kolkata"},
+    {"item": "Digital Cable Network Tester, Reputed Make", "qty": "16", "unit": "Nos", "site": "Deep Bhavan, Kolkata"},
+    {"item": "RJ45/RJ42 Port crimping tools, Reputed Make", "qty": "16", "unit": "Nos", "site": "Deep Bhavan, Kolkata"},
+    {"item": "RJ45 CAT6 I/O Port Connector, Reputed Make", "qty": "32", "unit": "Pkt", "site": "Deep Bhavan, Kolkata"}
+  ],
+  "money": {
+    "estimated_cost_inr": 354894.0,
+    "emd_inr": 7100.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated bid value Rs 3,54,894 including GST. GeM bid page says EMD not required and ePBG not required, but buyer ATC demands EMD of Rs 7,100 by DD/FDR/BG or bid security declaration for MSME bidders. MSE purchase preference: L1+15%, up to 25% of quantity. MII purchase preference: No."
+  },
+  "period": {"completion": "30 days delivery", "bid_validity": "90 days from bid end date", "warranty": "1 year"},
+  "dates": {"published": "2026-08-20", "pre_bid": null, "bid_submission_end": "2026-09-10", "bid_opening": "2026-09-10"},
+  "eligibility": [
+    "GeM: minimum average annual turnover of bidder (3 years) Rs 1 lakh; OEM average turnover Rs 1 lakh; 3 years past experience; past performance 50%; MSE and startup relaxation for experience and turnover",
+    "ATC mandatory: EMD Rs 7,100 or bid security declaration (MSME), PAN, GST, compliance sheet (Annexure-I), bid acceptance letter, non-blacklisting affidavit (2026)",
+    "ATC scored criteria: average annual turnover min Rs 2 lakh (15 marks); ITRs 2023-24 to 2025-26 (15); bank solvency certificate min 40% of estimate in 2026 (10); similar work experience in last seven years - one work >= Rs 2,83,915, or two >= Rs 1,77,447, or three >= Rs 1,41,960 (30); performance of works (30)",
+    "Similar work: supply of measuring instruments",
+    "Must score 100% in mandatory requirements, at least 50% each in attributes 2-4 and 70% overall to qualify"
+  ],
+  "specs": [
+    "Insulation tester: hand driven, 0.01 MOhm to 10 GOhm, accuracy 8%, resolution 0.01 MOhm, test voltage 2500 V, test current 1 mA, CAT III 600 V IEC 61010, calibration certificate, 1 year warranty",
+    "Earth tester: range switch 0-100 Ohm, 4-pole method, earth voltage measurement, calibration certificate, 1 year warranty",
+    "Clamp meter: 3.5 digit backlit LCD, true RMS, DC voltage range 1000 V, battery operated, CAT III 600 V IEC 61010-2-D31 (UL, CE, CSA, TUV), test leads, 1 year warranty",
+    "Cable network tester: RJ45, LED display, 1 year warranty",
+    "Crimping tool: hand crimping tool for RJ45, 1 year warranty",
+    "RJ45 CAT6 connector: male shielded metal Cat6 plugs, 1.0-4.9 Gbps, packs of 100 pcs",
+    "GeM option clause: quantity may be varied +/-25%"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "20260820170211.pdf", "pages": 22, "read": "vision", "language": "bilingual", "unreadable": ["page 10 blank", "page 22 blank"]}
+  ],
+  "confidence": "high",
+  "notes": "Scanned document: GeM bid document (pages 1-9) plus buyer ATC dated 19.08.2026, BOQ and Annexures I-V. GeM says EMD not required while ATC requires Rs 7,100 EMD. Annexure numbering inconsistent within ATC (affidavit referred to as Annexure-II and Annexure-IV). Consignee is a named individual officer (name omitted); buyer e-mail listed on GeM page is [personal contact removed]; HOD e-mail dte-kol@gov.in."
+}

@@ -1,0 +1,46 @@
+{
+  "nid": 2032,
+  "title": "Development work for promotion of tourism at Kavaratti Lighthouse, Kavaratti Island, UT of Lakshadweep",
+  "summary": "Two-cover e-tender for tourism development works at Kavaratti Lighthouse, Kavaratti Island, Lakshadweep, under the Cochin Directorate.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "2025_DGLL_878912_1; MS-Coc-03/2/2025-MS; I/87259/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kavaratti Lighthouse, UT of Lakshadweep, Kavaratti-682555", "station_id": "kavaratti-lighthouse", "kind": "lighthouse", "work": "Development work for promotion of tourism"}
+  ],
+  "scope": [
+    {"item": "Development work for promotion of tourism at Kavaratti Lighthouse", "qty": null, "unit": null, "site": "Kavaratti Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 1609802.0,
+    "emd_inr": 32196.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Tender fee Nil. EMD by DD/FDR from any scheduled bank in favour of Director of Lighthouses and Lightships - Cochin, payable at Ernakulam; originals of EMD (or MSME/UDYAM/NSIC certificate) with technical documents to be submitted physically. Bid Securing Declaration also required."
+  },
+  "period": {"completion": "90 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-09-24", "pre_bid": "2025-09-30", "bid_submission_end": "2025-11-11", "bid_opening": "2025-11-12"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies; OR, for contractors from Lakshadweep group of islands, work experience with any Government department in island works during last 07 years",
+    "Similar works completed in last 7 years: three >= 40%, two >= 50% or one >= 80% of estimated cost",
+    "Similar works: construction of roof sheet truss work of multistorey building, solar frame truss work, waterproofing work, construction of residential/institutional/office buildings/lighthouse tower or related civil construction works",
+    "PAN and GST registration; CA-certified turnover of last three years",
+    "Declaration that bid is unconditional; affidavit on Rs 100 stamp paper of not being blacklisted; undertaking listing relatives serving in MoPSW/DGLL",
+    "EPF/labour registration certificate; tender acceptance letter; bid securing declaration"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2025-10-28", "change": "Corrigendum-III: bid submission extended to 11.11.2025 15:00, submission of EMD/technical documents in original to 10.11.2025 15:00, technical bid opening to 12.11.2025 15:00. Other terms unchanged."}
+  ],
+  "documents": [
+    {"file": "NIT (3).pdf", "pages": 3, "read": "vision", "language": "en", "unreadable": []},
+    {"file": "Corrigendum-III Development Work For Promotion of Tourism at Kavaratti Lighthouse Kavaratti Island UT of Lakshadweep.pdf", "pages": 1, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "NIT is Section I only (printed pages 2-4), no BOQ or detailed scope of the tourism works. Original NIT dates: download/submission 24.09.2025 (18:00) to 08.10.2025 (15:00), bid query last date 29.09.2025, EMD original by 07.10.2025, opening 09.10.2025; dates above reflect Corrigendum-III. Corrigenda I and II are not among the documents. NIT spells 'Kavarati Lighthouse' in the name of work. Similar-works definition (roof sheet truss, solar frame truss, waterproofing) appears copied from another tender."
+}

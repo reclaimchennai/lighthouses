@@ -1,0 +1,36 @@
+{
+  "nid": 1811,
+  "title": "Recapitalisation of Remote Monitoring System in Lighthouses under Mumbai, Goa, Cochin, Chennai, Visakhapatnam and Kolkata Directorates",
+  "summary": "DGLL headquarters open e-tender (two-cover, IT works) for recapitalisation of the remote monitoring system of lighthouses under the Mumbai, Goa, Cochin, Chennai, Visakhapatnam and Kolkata Directorates, with a 730-day period of work.",
+  "category": "AtoN equipment",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "P-27/1/2024-DP; Tender ID 2024_DGLL_841569_1",
+    "issuing_office": "Directorate General of Lighthouses and Lightships, Head Quarter, Noida"
+  },
+  "scope_level": "national",
+  "sites": [],
+  "scope": [
+    {"item": "Recapitalisation of Remote Monitoring System in Lighthouses under Mumbai, Goa, Cochin, Chennai, Visakhapatnam and Kolkata Directorates", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": 7500000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "EMD Rs 75,00,000 fixed, by Bank Guarantee/DD/FDR payable to PAO, LHLS Noida at Noida; EMD exemption allowed. Tender fee Nil. Tender value shown as NA."
+  },
+  "period": {"completion": "730 days", "bid_validity": "180 days", "warranty": null},
+  "dates": {"published": "2024-12-27", "pre_bid": "2025-01-08", "bid_submission_end": "2025-01-20", "bid_opening": null},
+  "eligibility": [
+    "As per tender document (not included)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "eProcurement System Government of India.pdf", "pages": 2, "read": "text", "language": "en", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Document is only the CPPP 'Tender Details' printout (27-Dec-2024 15:27), not the tender document; tender.pdf (11.6 MB) and BOQ_884652.xls referenced but not included. Clarification period 27.12.2024 15:00 to 07.01.2025 14:00; pre-bid 08.01.2025 14:30 at Deep Bhawan, A-13 Sector 24, Noida; download/submission end 20.01.2025 15:00. The printout's 'Bid Opening Date' reads 27-Dec-2024 03:25 PM (same as print time, evidently not a real opening date), so bid_opening left null; listing also shows opening 2024-12-27."
+}

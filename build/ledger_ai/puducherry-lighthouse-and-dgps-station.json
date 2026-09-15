@@ -1,0 +1,41 @@
+{
+  "slug": "puducherry-lighthouse-and-dgps-station",
+  "pages_read": [1, 2, 3],
+  "name": "Puducherry Lighthouse and DGPS Station",
+  "station_type": "lighthouse",
+  "established_year": 1979,
+  "alol": "F 0926",
+  "position": {"lat_text": "11° 54.9' N", "lon_text": "79° 49.9' E", "lat": 11.915, "lon": 79.831667},
+  "elevation_m": 49.08,
+  "characteristic_text": "GROUP OF 2 WHITE FLASH IN 15 SEC ( FL-0.48, EC-3.27, FL-0.48, EC-10.77)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "FL-0.48, EC-3.27, FL-0.48, EC-10.77",
+    "sequence_s": [0.48, 3.27, 0.48, 10.77],
+    "flash_duration_s": 0.48
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 25.7, "geographical_nm": 19, "text": "Luminous Range - 25.7 NM @ a.t.f. 0.74, 41.5 NM @ a.t.f. 0.85; Geograpical Range - 19 NM"},
+  "tower": {"type": "Hexagonal RCC Tower", "height_m": 45, "colour_scheme": "Black and White Band"},
+  "optic": {
+    "make": "J-Stone & Co.", "model": null, "type": "Revolving", "size": "300 MM", "order": "Fourth order Large",
+    "panels": 4,
+    "rotation_device": "DC Stepper motor",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving; Rotation Device: DC Stepper motor; R.P.M. 2 RPM",
+    "divergence_horizontal_deg": 5.733333,
+    "divergence_vertical_deg": 2.866667,
+    "divergence_text": "5° 44' (Horizontal), 2° 52' (Vertical)",
+    "illuminant": "Metal Hallide Lamp; Main 400W, Standby 400W"
+  },
+  "intensity_cd": 1000000,
+  "racon": {"present": false, "code": null, "text": "NA"},
+  "ais": {"present": true, "text": "NAIS: M/s SAAB Transponder Tech, Sweden; Base Station R40 - 2nos. Sr.no. 5259 & 5335"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "State Electricity Board, Puducherry; Emergency 2 nos. Kirloskar Diesel Generators (20 KVA, 15 KVA); Stand by UPS; 25 KW on-grid solar plant (2017)"},
+  "issues": ["No. of panels 'Four (Two of 135 and Two of 45)'", "Luminous range given at two atmospheric transmission factors (25.7 NM @ 0.74, 41.5 NM @ 0.85); 25.7 used"]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "olakuda-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Olakuda Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2005,
+  "alol": "F 0906",
+  "position": {"lat_text": "09° 19.056’ N", "lon_text": "079° 19.84’ E", "lat": 9.3176, "lon": 79.330667},
+  "elevation_m": 18.5,
+  "characteristic_text": "Group Flash (2) White every 20 Seconds (0.75+2.0+0.75+16.5)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "0.75+2.0+0.75+16.5",
+    "sequence_s": [0.75, 2.0, 0.75, 16.5],
+    "flash_duration_s": 0.75
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 15, "geographical_nm": 12.7, "text": "Luminous Range 15 NM, Geographical Range 12.7 NM"},
+  "tower": {"type": "C.C Block Masonry Rectangular Tower", "height_m": 15, "colour_scheme": "Red and White Spiral Bands"},
+  "optic": {
+    "make": "LMV Spain", "model": "BDL 250", "type": "LED FLASHER", "size": "2 Tier Arrangement", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type: LED FLASHER; Rotation Device N/A; R.P.M. N/A",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 4,
+    "divergence_text": "N/A (Horizontal), 4º (Vertical)",
+    "illuminant": "LED FLASHER (2 Tier Illuminant)"
+  },
+  "intensity_cd": 5900,
+  "racon": {"present": false, "code": null, "text": "Sr. No N/A"},
+  "ais": {"present": false, "text": "Base Station N/A"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": null, "text": "TNEB 3 Ø 440 v mains; standby solar 150 W/24 V × 3 panels; 1.5 KWp off-grid solar (7 x 260W/24V), 12 x 2V/600AH batteries"},
+  "issues": []
+}

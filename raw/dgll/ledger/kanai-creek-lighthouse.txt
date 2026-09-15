@@ -1,0 +1,208 @@
+                           मास्टरलेजर /MASTER LEDGER
+
+                           कनाई क्रीक दीपस्तंभ /Kanai Creek Lighthouse
+
+क्रमसंख्या/             नाम /Name
+   Sr.No                                                             वििरण/Discription
+     1        ए.एल.ओ.एल/A.L.O.L.            F 0479
+    2         स्थान/Position                Lat. 200 48.7’N
+                                            Long. 720 49.7’E
+    3         ऊंचाई/Elevation               34m
+    4         अभिलक्षण/Characteristic       fl (2) W 20 Sec. (fl 0.5, ec 3,fl 0.5, ec 16)
+    5         नॉटिकलमाइलमेदरू ी             17NM
+              Range in miles
+    6         दीपस्तंििािर/L.H.Tower        Type                             Circular concrete Tower
+                                            Height                           30m
+                                            Colour Scheme                    Black & White bands (3 black & 2
+                                                                             white)
+    7         ऑप्टिकलउपकरण                  Optic
+              Optical equipment
+                                            Make                         Wealth Marine Pvt. Ltd. Singapore
+                                            Type                         WM – RB 500 Marine Rotating
+                                                                         Beacon
+                                            Size                         200 MM
+                                            No. of lens                  6 clear “Bulls Eye” Acrylic lense
+                                                                         panels equally spaced at 60
+                                                                         (Hexagonal)
+                                            Area of dioptric portion     -
+                                            Area of catadioptric portion -
+
+                                            Divergence                       Horizontal-1.5°,Vertical-2.42°
+                                            Main/Emergency
+                                            Duration of Flash                0.5 sec
+                                            Main /Standby/Emergency
+
+                                            Lamp changer                     NA
+                                            Pedestal                         G.I. Stand
+                                            Rotation Device                  2 Nos. 12V DC Stepper Motors
+                                        R.P.M.                       1.5
+                                        illumining                   1 No. MH Lamp – 70 Watt, 230 AC
+                                        Main                         -
+                                        Standby                      -
+                                        Emergency:                   -
+                                        Date of Installation         May-2007
+8    प्रिािीबीमतीव्रता/Effective beam   Main & Standby               41600 cd.
+     intensity
+                                        Emergency                    -
+9    लेंिनन/Lantern                     Diameter                     2.4m
+                                        Height of glazing            1.5m
+                                        No. of panes                 24 Nos. (in 2 tiers)
+                                        Ventilators                  12 Nos.
+10   RACON                              -                            -
+     Make                  Model        Code                         Band                 Date of
+                                                                                          Installation
+     -                     -            -                            -                    -
+11   NAIS
+     Base Station                       R40 Base Station AIS-1, AIS-2, Satellite Modem & 8 Port Network
+                                        Switch
+
+
+     Model                 Type        Power                         MMSI
+     R 40                  Class A     12.5W                         4192222
+     Communication         02 Nos GPS Antenna
+     Equipment             02 Nos VHF Antenna
+     VSAT Antenna          Band        Modem
+     2.4 m dia parabolic   Ex-C band    Datum Systems PSM-500L
+          reflector                          Satellite Modem
+     DGPS
+     Trasmitter Make       Frequency    Power Output RS 1 ID         RS -II    Beacon    Date of D
+                                                                     ID        ID        commis a
+                                                                                         sioning t
+                                                                                                 e
+                                                                                                 o
+                                                                                                 f
+                                                                                                 R
+                                                                                                 e
+                                                                                                 c
+                                                                                                 a
+                                                                                                 p
+                                                                                                 i
+                                                                                                 t
+                                                                                                 a
+                                                                                                 l
+                                                                                                 i
+                                                                                                 z
+                                                                                                 a
+                                                                                                 t
+                                                                                                 i
+                                                                                                 o
+                                                                                                 n
+     -                   -             -             -           -        -         -            -
+     -                   -             -                         -                  -
+12   ऊर्ानकेसाधन/Sour    Mains                                   Local mains 440V, 3 Phase, 50Hz
+     ce of energy        Standby                                 Gen-Set- 01 No.
+                         Engine 1
+                         Make/Type           Qty      Rating     No of        RPM          Coolin
+                                                                 Cylinder                  g
+                         Kirloskar EA-16     1        16HP       2 Nos.       1500         Air
+                         Alternator
+                         Make/Type           Qty      Rating     Voltage/A Frequency       Phase
+                                                                 mp
+                         KG-164H Kirloskar   1        7.5 KVA    240/31.2  50Hz            Single
+                         Engine 2
+                         Make/Type           Qty      Rating     No of        RPM          Coolin
+                                                                 Cylinder                  g
+                         -                   -        -          -            -            -
+                         Alternator
+                         Make/Type           Qty      Rating     Voltage/A Frequency       Phase
+                                                                 mp
+                         -                   -        -          -         -               --
+
+
+
+                         Solar Plant
+                         Capacity PV         Numbers             Type         Battery      Bank
+                         75W                 5 Nos.              TATA BP      SMF 12V
+                         80W                 6Nos.               Jain Jyoti   150 amp/hr
+                                                                              4Nos.
+                            Solar Plant for Main RACON           -
+                            Capacity PV           Numbers        Type         Battery      Bank
+                            -                     -              -            -            -
+13   स्िचाभलतिोल्िे र्स्िे बलाइर्र
+     Automatic Voltage Stabilizers
+     Make                Model            Capaci Input           Output       Phase        Qty
+                                          ty
+     VS Power            Servo            10KVA 120-280V, 50HZ   230V ±       Single       1
+     Systems             Voltage                                 1%           Phase
+14   बैिरर
+     Batteries
+     Equpment            Type             Make Volt              Amp/Hr       Qty
+     PSS NAIS            -                -       -              -            -
+     Genset              Lead Acid        -       12             100          1 No.
+     Automation          SMF              -       12             26           2 Nos.
+     DGPS                -                -       -              -            -
+15   बैिररचार्नर/ Battery charger
+
+     Equipment            Make          Mode Type                       Rating         Qty
+                                        l
+     General Purpose      AE                 12.5V Trickle              36A            1
+                                             Charger
+     Automation           Power              24V                        20A            1
+                          engineering
+16   इंवटट रInverter /UPS
+     Equipmen Nos Make Model                   Type      Rating         Qty            input          output
+     t
+     Main          2      Excide -             -         850VA          2              12V DC         230V
+     Light                                                                                            AC
+     NAIS PSS 1           APC     -            -         1000VA         1
+     DGPS                 -       -            -         -              -              -              -
+17   स्वचलनउपकरण
+     Automation Equipment
+     MAKE PLC                   HMI        Power Supply           VSAT            Modem Band
+     NELC       Telemecaniqu Schneider     24 to 24 V DC-DC       1.8m Dia        Welltech Ex-C band
+     O                 e                   Converter              parabolic
+                                           24 to 12 V DC-DC       reflector
+                                           converter
+18   आप्ननशमनउपकरण                      Type of Extinguisher      Capacity          Nos         Make
+     Fire Fighting Equipment            1. DPC type               3.2 Kg            02
+                                                                  1 Kg              01
+                                        2. Co2 type               -                 01
+
+
+
+
+19   संचार                              BSNL Tel No. 02637-222219
+     Communication                      kanaicreeklh2019@gmail.com
+20   र्लपूर्तन                          Hand drawn from well inside Lighthouse compound. Water pump
+                                        0.5 HP fitted on well and given single tap connection in front of all
+     Water Supply
+                                        staff quarters
+
+21   िूभम                               Area                                           10000 Sq. Cm(2.5
+                                                                                       acres)
+     Land
+                                        Demarcation                                    Pre-cast R.C.C.
+                                                                                       fencing
+22   इमारतें                            Quarters                                       One unit of power
+                                                                                       house-cum        store,
+     Buildings
+                                                                                       Oneunit of Inspection
+                                                                                       Qtr. One Unit of HLK
+                                                                                       Qtr., one unit of ALK
+                                                                                       Qtr., twin unit of LHA
+                                                                                  and         Safaiwala
+                                                                                  quarters.
+23   कंपाउं डलाइि                    i) 6 Nos. G.I. poles with LED Light
+                                     ii) 2 Nos. LED Light for gate
+     Compound Lights
+24   सीसीिीिीकमेरा                   Camera                                       -
+      CCTV CAMERA                    DVR                                          -
+25   स्िाफ                           Sl. No        Designations
+     Staff                           1             Navigational Assistant-I -1 (Vacant)
+                                     2             LHA- 1
+                                     3
+26   पहुँचनेकामाध्यम                 By rail upto Navsari & then 25 Kms. By road upto Lighthouse.
+     Mode of approach
+27   उपलब्धसविधाए                    Marine Police Station    Police Station Navsari
+     Facilities available            Dispensary               Navsari
+                                     High School              Navsari
+                                     Post office              Onjal Machhiwad
+28   डाकपताPostal address            Navigational Assistant-I
+                                     Kanai Creek Lighthouse P.O.- Onjal Machivad, Tal. Jalapur, Dist.
+                                     Navasari, PIN – 396 412.
+
+29   मूल्यकाब्योराCost details       Rs. 7,25,000/-
+     (At the time of Construction)
+30   प्रितननमेलानेकादे नांक          13.03.1983
+     Date of commissioning
+

@@ -1,0 +1,46 @@
+ledger transcriptions: 211 of 211
+anjengo-lighthouse: 2 active of 6 panels ('2Nos fixed and others blocked')
+arnala-lighthouse: 6 active of 8 panels ('( 06 In sevies')
+aves-lighthouse: Lighthouse Directory map link (ledger 93°E -> 92°E slip)
+skip balachadi-vts-station: ledger station type vts station
+skip balasore-navtex-station: no light characteristic
+baruva-lighthouse: seconds read as decimal minutes (18° 52' 8" N / 84° 35' 8" E) -> 264 m from OpenStreetMap way/1551695714 instead of 1593 m
+skip bishnupur-station: ledger station type decommissioned
+skip diamond-harbour-loran-c-station: ledger station type decommissioned
+skip harudi-vts-repeater-station: ledger station type radar/repeater station
+honnavar-lighthouse: 3 active of 6 panels ('3 fresnel lense + 3 blank')
+kalingapatnam-lighthouse: seconds read as decimal minutes (18° 20'5" N / 84° 07'5" E) -> 357 m from OpenStreetMap node/6989662212 instead of 758 m
+kalpeni-lighthouse: DGLL position with 58'->38' digit slip corrected
+kanyakumari-lighthouse: seconds read as decimal minutes (8° 04' 8" N / 77° 32' 8" E) -> 154 m from OpenStreetMap way/1558262992 instead of 1871 m
+kilakkarai-lighthouse: 1 active of 6 panels ('(5 Nos Blanking with')
+kodikkarai-lighthouse: seconds read as decimal minutes (10° 16'.74" N / 79° 49'59" E) -> 115 m from OpenStreetMap way/1033110197 instead of 805 m
+kundapur-lighthouse: 4 active of 6 panels ('4 Fresnellens + 2 blank')
+mahabalipuram-lighthouse: ledger position 34.8 km from same-named OpenStreetMap way/1552901513 -> using it
+mahe-lighthouse -> kannur-lighthouse: This ledger is published on DGLL's Mahe Lighthouse page, but its address, position and light are Kannur Lighthouse's
+mahe-lighthouse: seconds read as decimal minutes (11° 51’5’ N / 75° 21’4’ E) -> 249 m from OpenStreetMap node/2588063897 instead of 1135 m
+mallipattinam-lighthouse: seconds read as decimal minutes (10° 16' 12" N / 79° 18' 48" E) -> 477 m from OpenStreetMap way/1554544624 instead of 1079 m
+manapad-point-lighthouse: seconds read as decimal minutes (8°22'.3" N / 78°03'9" E) -> 156 m from OpenStreetMap way/1556633698 instead of 1453 m
+skip non-light station mandvi-break-water-station
+skip murud-janjira-lighthouse: ledger says the light is non-functional (not an active light)
+nagapattinam-lighthouse-and-dgps-station: seconds read as decimal minutes (10° 45' 9" N / 79° 51' 1" E) -> 192 m from OpenStreetMap node/3846730085 instead of 749 m
+paradeep-lighthouse: seconds read as decimal minutes (20° 15'3" N / 86° 39'5" E) -> 258 m from OpenStreetMap node/6985663820 instead of 710 m
+passipattinam-lighthouse: seconds read as decimal minutes (9° 48' 30" N / 79° 04' 71" E) -> 15 m from OpenStreetMap way/1554740437 instead of 368 m
+skip patpur-loran-c-station: ledger station type decommissioned
+skip rcs-dhuvav: ledger station type radar/repeater station
+satpati-lighthouse: 4 active of 6 panels ('04 fresnel lense + 2 blank')
+sir-hugh-rose-lighthouse: ledger position 108.4 km from OSM node/5182434765 (same Admiralty 1203.00) -> using OSM
+valsad-khadi-lighthouse: 4 active of 6 panels ('(4 in service')
+skip vanku-vts-repeater-station: ledger station type radar/repeater station
+vizhinjam-lighthouse: ledger position 1870.2 km from OSM node/309907456 (same Admiralty 718.00) -> using OSM
+skip vts-mcc-kandla: ledger station type vts station
+skip vts-radar-station-chudeshwar: ledger station type vts station
+vypin-lighthouse: seconds read as decimal minutes (09° 59' 82" N / 76° 13' 34" E) -> 175 m from Wikidata Q13114877 instead of 518 m
+regex vs ledger transcription differences: 700 (build/parse_diff.csv)
+EXTRA kannur-lighthouse: already on the map from a DGLL ledger
+EXTRA kelshi-lighthouse: from Lighthouse Directory + Lok Sabha Q3233 tourism list
+EXTRA rawal-pir-lighthouse: from Lighthouse Directory + Lok Sabha Q3233 tourism list
+EXTRA mahe-lighthouse: from Lighthouse Directory + Lok Sabha Q3233 tourism list
+full ledger records published: 200
+navtex stations: [('Veraval', 'veraval-lighthouse'), ('Vengurla Point', 'vengurla-point-lighthouse'), ('Muttam Point', 'muttom-point-lighthouse-and-navtex-station'), ('Porto Novo', 'portonovo-lighthouse-and-navtex-station'), ('Vakalpudi', 'vakalapudi-lighthouse'), ('Balasore', None), ('Keating Point', 'keating-point-lighthouse-and-dgps-station')]
+racon unmatched: ['BLQ II (Bassein Field) BE 19 °07.39’ N 72°06.44’ E', 'Neelam (Heera Field) NLM-11 18 °48.41’ N 72°20.04’ E', 'SHQ (South Field) WI – 10 . 19 °17’33.41” N 71°16’54.7” E', 'WIN (North Field) WI-219 °37.84’ N 71°17.77’ E']
+equipment network first years: {'navtex': 2015, 'racon': 2004, 'ais': 2012, 'dgps': 2003}

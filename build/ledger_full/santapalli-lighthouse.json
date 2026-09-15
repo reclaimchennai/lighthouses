@@ -1,0 +1,170 @@
+{
+  "slug": "santapalli-lighthouse",
+  "page_count": 6,
+  "title_as_printed": "Santapalli Lighthouse Estd.1840 MASTER LEDGER",
+  "sections": [
+    {"no": null, "title": "Header", "title_hi": null, "page": 1,
+     "fields": [], "tables": [], "text": "[photo: black and white banded lighthouse tower with lantern, top right of page 1]"},
+    {"no": "1.", "title": "Name", "title_hi": null, "page": 1,
+     "fields": [{"label": "Name", "value": "SANTAPALLI LIGHTHOUSE"}], "tables": [], "text": null},
+    {"no": "2.", "title": "Sr.No. (as per A.L.O.L)", "title_hi": null, "page": 1,
+     "fields": [{"label": "Sr.No. (as per A.L.O.L)", "value": "0980"}], "tables": [], "text": null},
+    {"no": "3.", "title": "Position", "title_hi": null, "page": 1,
+     "fields": [{"label": "Position", "value": "Lat: 18ᴼ 03.9' N Long: 83ᴼ 38.4' E"}], "tables": [], "text": null},
+    {"no": "4.", "title": "Elevation", "title_hi": null, "page": 1,
+     "fields": [{"label": "Elevation", "value": "43 Mtr"}], "tables": [], "text": null},
+    {"no": "5.", "title": "Characteristic", "title_hi": null, "page": 1,
+     "fields": [{"label": "Characteristic", "value": "FL (2) White, every 10 Seconds (Fl 0.2 ec2.3 Fl0.2 ec7)"}], "tables": [], "text": null},
+    {"no": "6.", "title": "Range in nautical miles", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "i) Luminous", "value": "23 NM"},
+       {"label": "ii) Geographical", "value": "18 NM"}
+     ], "tables": [], "text": null},
+    {"no": "7.", "title": "Lighthouse Tower", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "i) Type", "value": "Circular masonry Tower"},
+       {"label": "ii) Height", "value": "22 Mtr"},
+       {"label": "iii) Colour Scheme", "value": "Black and White bands"}
+     ], "tables": [], "text": null},
+    {"no": "8.", "title": "Optical Equipment", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "a) i) Make", "value": "M/s Chance Brothers"},
+       {"label": "a) ii) Size", "value": "500 mm 3 rd Order Large Revolving"},
+       {"label": "a) iii) Focal distance", "value": "500 mm"},
+       {"label": "a) iv) No. of Panels", "value": "2 Nos."},
+       {"label": "a) v) Area of dioptric portion", "value": "Total corrected area 11080 sq cm."},
+       {"label": "a) vi) Area of catadioptric portion", "value": "Total corrected area 11080 sq cm"},
+       {"label": "a) vii) Divergence Main", "value": "Horizontal. 6⁰ 45 6', Vertical 6⁰ 18.6'"},
+       {"label": "a) vii) Divergence Standby", "value": "NIL"},
+       {"label": "a) vii) Divergence Emergency", "value": "NIL"},
+       {"label": "a) viii) Duration of flash Main/ Standby", "value": "0.20 seconds"},
+       {"label": "a) viii) Duration of flash Emergency", "value": "---"},
+       {"label": "b) Pedestal", "value": "Mercury Float 91 kg. in use. Cast iron Pedestal"},
+       {"label": "c) Rotation Device", "value": "Twin Stepper motor Direct Drive system. i)Stepper motor :2 No 40Kg-cm (unique make) ii) Controller: 2No 40Kg-Cm (unique make)"},
+       {"label": "d) Rotation Speed", "value": "6 RPM"},
+       {"label": "e) Illuminant i) Main/Service", "value": "150 W Metal Halide Lamp- 3 Nos. (Cluster)"},
+       {"label": "e) Illuminant ii) Standby", "value": "Nil"},
+       {"label": "e) Illuminant iii) Emergency", "value": "Nil"},
+       {"label": "f) Effective Beam Intensity i) Main/Service", "value": "9,39,600 cds."},
+       {"label": "f) Effective Beam Intensity ii) Standby", "value": "N/A"},
+       {"label": "f) Effective Beam Intensity iii) Emergency", "value": "N/A"}
+     ], "tables": [], "text": "Continues on page 2 from Divergence Standby."},
+    {"no": "9.", "title": "Lantern", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "i) Diameter", "value": "3.65 Mtr"},
+       {"label": "ii) Height of glazing", "value": "1 Mtr"},
+       {"label": "iii) No. of panes", "value": "32 Nos. (12 panes blanked on Landside)"},
+       {"label": "iv) Ventilators", "value": "12 Nos."}
+     ], "tables": [], "text": null},
+    {"no": "10.", "title": "Main light UPS", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "Main light UPS", "value": "4 Nos. in use. 0No. spare"},
+       {"label": "Make", "value": "UTL"},
+       {"label": "Capacity", "value": "800 VA"},
+       {"label": "Input", "value": "12V DC"},
+       {"label": "Output", "value": "230V AC"},
+       {"label": "Model Number", "value": "UTL combo"}
+     ], "tables": [], "text": "Output and Model Number on page 3."},
+    {"no": "11.", "title": "Energy Source", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "A) APEPDCL Mains", "value": "3phase 440V 50HZ AC"},
+       {"label": "B) Green Energy", "value": "3KW off grid solar power plant for main light."},
+       {"label": "i) Solar panels", "value": "12 No 24V/250W( Vikram make)"},
+       {"label": "ii) Battery Bank", "value": "12 No 12V /150Ah (Exide SMF)"},
+       {"label": "iii) PCU", "value": "HBL Make 3KVA /48V PCU"}
+     ], "tables": [], "text": null},
+    {"no": "12.", "title": "Diesel Engine Generators", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "Make", "value": "Kirloskar"},
+       {"label": "Model", "value": "KG 15AS4 (Canopy)"},
+       {"label": "Rating", "value": "15KVA"},
+       {"label": "Frequency", "value": "50 HZ"},
+       {"label": "Phase", "value": "single phase"},
+       {"label": "RPM", "value": "1500"},
+       {"label": "Alternator Frame no", "value": "KG184B"},
+       {"label": "Engine Sr no", "value": "02.2129/1320143"}
+     ], "tables": [], "text": null},
+    {"no": "13.", "title": "Automatic Voltage Stabilizers", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "Automatic Voltage Stabilizers", "value": "1 No."},
+       {"label": "Make", "value": "supra- hitech"},
+       {"label": "Model", "value": "SH-390"},
+       {"label": "Capacity", "value": "09 KVA, 3phase."},
+       {"label": "Input", "value": "330-470V"},
+       {"label": "Output", "value": "400 ± 1% V"}
+     ], "tables": [], "text": null},
+    {"no": "14.", "title": "AMF Panel", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "Capacity", "value": "15 KVA, 3 phase 25A."},
+       {"label": "Make", "value": "Elect India"},
+       {"label": "Model", "value": "EMF15KM3G1-ICFTDM02"}
+     ], "tables": [], "text": null},
+    {"no": "15.", "title": "NAIS Equipment", "title_hi": null, "page": 4,
+     "fields": [
+       {"label": "i) Make", "value": "M/s SAAB"},
+       {"label": "ii) AIS R40 Base Station", "value": "S/No.5322"},
+       {"label": "iii) AIS R40 Base Station", "value": "S/No 5278 (Connected with Cisco switch and PSM-500L Satilite modem.)"},
+       {"label": "iv) V- SAT Dish Size", "value": "2.4 Mtr."},
+       {"label": "v) VHF Antenna", "value": "2 Nos."},
+       {"label": "vi) GPS Antenna", "value": "2 Nos."},
+       {"label": "vii) Date of Commissioning", "value": "20/12/2011"}
+     ], "tables": [], "text": null},
+    {"no": "16.", "title": "Automation of Lighthouse.", "title_hi": null, "page": 4,
+     "fields": [
+       {"label": "i) Make", "value": "M/s Recktronic Devices & Systems, Pune."},
+       {"label": "ii) RDS Panel", "value": "1No in power house.( s.no.1761)"},
+       {"label": "iii) RDS Panel", "value": "1No Service room.( s.no.1740)"},
+       {"label": "iv) V-SAT Dish Size", "value": "1.2 Mtr"},
+       {"label": "v) Date of commissioning", "value": "21/02/2013"}
+     ], "tables": [], "text": null},
+    {"no": "17.", "title": "Street Lights", "title_hi": null, "page": 4,
+     "fields": [{"label": "Street Lights", "value": "6 Nos. R.C.C Poles with 25W LED Light, 2 Nos. Gate lights"}], "tables": [], "text": null},
+    {"no": "18.", "title": "Firefighting equipment", "title_hi": null, "page": 4,
+     "fields": [
+       {"label": "Fire Extinguishers i) D.C.P. type (3.2kg Capacity)", "value": "1 No."},
+       {"label": "ii) Foam type (4.5 litres capacity)", "value": "2 Nos."},
+       {"label": "iii) Fire Buckets", "value": "4 Nos."}
+     ], "tables": [], "text": null},
+    {"no": "19.", "title": "Communication Facility", "title_hi": null, "page": 4,
+     "fields": [{"label": "Communication Facility", "value": "Mobile No. [personal number removed] NA-II e-mail :- santapallelh@gmail.com"}], "tables": [], "text": "Mobile number printed against the NA-II post has been removed as a personal staff mobile number."},
+    {"no": "20.", "title": "Water Supply", "title_hi": null, "page": 4,
+     "fields": [
+       {"label": "i)", "value": "Bore well with Submersible pump 1HP, single phase (Kirloskar)"},
+       {"label": "ii)", "value": "Sintex Tank - 4 Nos. Capacity : 1KL lit. 2nos. 0.5KL-2nos"}
+     ], "tables": [], "text": "Item ii) on page 5."},
+    {"no": "21.", "title": "Land", "title_hi": null, "page": 5,
+     "fields": [
+       {"label": "i) Area", "value": "11.56 Acres"},
+       {"label": "ii) Demarcation", "value": "Masonry Compound wall"},
+       {"label": "iii) No. of fruit trees", "value": "350 Nos."},
+       {"label": "iv) No.of non fruit bearing Trees", "value": "35 Nos."}
+     ], "tables": [], "text": null},
+    {"no": "22.", "title": "Buildings", "title_hi": null, "page": 5,
+     "fields": [{"label": "Buildings", "value": "Inspection quarters, NA-I quarter, NA-II quarter, Power house, LHA quarter, LHS quarter."}], "tables": [], "text": null},
+    {"no": "23.", "title": "Staff", "title_hi": null, "page": 5,
+     "fields": [{"label": "Staff", "value": "i) NA-I - 1 No, NA-II - 1 No, LHS - 1 No,"}], "tables": [], "text": null},
+    {"no": "24.", "title": "Mode of approach", "title_hi": null, "page": 5,
+     "fields": [{"label": "Mode of approach", "value": "By road from Visakhapatnam to Pusapati Raga approx. 60km, then by road Santapalli 15 km then by walk 1km to lighthouse."}], "tables": [], "text": null},
+    {"no": "25.", "title": "Facilities available", "title_hi": null, "page": 5,
+     "fields": [
+       {"label": "a)", "value": "Post Office within 3 km (Chintapalli)"},
+       {"label": "b)", "value": "Govt. Hospital within 20 km (Pusapati Raga)"},
+       {"label": "c)", "value": "Govt. School within 7 km (Govindapuram)"},
+       {"label": "d)", "value": "Nationalized Bank with 35 km(Vizayanagaram)"}
+     ], "tables": [], "text": null},
+    {"no": "26.", "title": "Postal Address", "title_hi": null, "page": 5,
+     "fields": [{"label": "Postal Address", "value": "The Navigational Assistant Gr-I, Santapalli Lighthouse, Chintapalli post, Via. Pusapati Raga, Dist. Vizayanagaram Andhra Pradesh, Pin: 535 204."}], "tables": [], "text": null},
+    {"no": "27.", "title": "Cost Details", "title_hi": null, "page": 5,
+     "fields": [
+       {"label": "i) Construction", "value": "Not available"},
+       {"label": "ii) Cost of equipment", "value": "Not available"}
+     ], "tables": [], "text": null},
+    {"no": "28.", "title": "Year of first Light Commissioned", "title_hi": null, "page": 5,
+     "fields": [{"label": "Year of first Light Commissioned", "value": "1840"}], "tables": [], "text": null},
+    {"no": "29.", "title": "Date of Commissioning", "title_hi": null, "page": 6,
+     "fields": [{"label": "Date of Commissioning", "value": "1903"}], "tables": [], "text": null},
+    {"no": "30.", "title": "Subsequent Innovation", "title_hi": null, "page": 6,
+     "fields": [{"label": "Subsequent Innovation", "value": "1849, 1903, 1995, 2004"}], "tables": [], "text": null}
+  ],
+  "unreadable": []
+}

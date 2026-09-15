@@ -1,0 +1,44 @@
+{
+  "nid": 1557,
+  "title": "Replacement of Lantern house outside gallery segments at Vizhinjam Lighthouse",
+  "summary": "Notice inviting quotation for fabricating and fitting two new mild-steel chequered plate segments on the lantern house outside gallery of Vizhinjam Lighthouse, drilling and repainting all six segments.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-02012/1/2019-MS; I/54549/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhavan, Gandhinagar, Kadavanthra P.O., Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Vizhinjam Lighthouse, Vizhinjam (PO), Thiruvananthapuram Dist., Kerala 695521", "station_id": "vizhinjam-lighthouse", "kind": "lighthouse", "work": "Replacement of lantern house outside gallery chequered plate segments"}
+  ],
+  "scope": [
+    {"item": "Fabrication and installation of 02 nos chequered sheets incl. profile cutting, drilling 04 nos mounting holes each, fabrication of 20x20mm side strip (MS chequered plate 10mm IS 3502; SS fasteners M12x60)", "qty": "2", "unit": "Nos", "site": "Vizhinjam Lighthouse"},
+    {"item": "Labour for drilling 10mm dia holes (3mm x 45 deg chamfer), 10 holes in each of 06 chequered plates", "qty": "6", "unit": "plates", "site": "Vizhinjam Lighthouse"},
+    {"item": "Supply of painting materials and painting 06 chequered plates and complete assembly with 2 coats anti-rust epoxy primer and 2 coats enamel (black/white)", "qty": "6", "unit": "plates", "site": "Vizhinjam Lighthouse"},
+    {"item": "Transportation, loading/unloading and lifting of materials/equipment to top of lighthouse tower", "qty": null, "unit": null, "site": "Vizhinjam Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 92900.0,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD printed as N.A. 100% payment within 30 days of satisfactory completion; payment on actual measurement. Rates to show basic cost and taxes separately."
+  },
+  "period": {"completion": "30 days from the date of work order", "bid_validity": "60 days from the date of opening of quotations", "warranty": null},
+  "dates": {"published": "2024-03-19", "pre_bid": null, "bid_submission_end": "2024-03-27", "bid_opening": "2024-03-28"},
+  "eligibility": ["PAN card", "GST registration certificate, if applicable", "Reputed OEMs or authorized suppliers, contractors, parties or Government undertakings"],
+  "specs": [
+    "Mild steel chequered plate 10 mm thick (IS 3502) with MS side strip 20x20 mm",
+    "Stainless steel fasteners M10/M12 x 60 mm hex bolts (8), nuts (8), washers (16); SS 316 (A4-70/80) or SS 304 (A2-70/80); Unbrako, TVS or reputed make",
+    "Outside gallery of 3.0 m lantern house has 06 chequered sheets, 02 to be replaced; drawing dimensions 2099 mm and 1639 mm",
+    "Scaffolding by bidder"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQReplacement of Lantern house outside gallery (1).pdf", "pages": 6, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Quotation download 20.03.2024 09:00 to 27.03.2024 14:00; submission 20.03.2024 10:00 to 27.03.2024 15:00; opening 28.03.2024 15:00. Schedule has no quantity column values; quantities taken from item descriptions. Note 2 refers to 'sealed quotation with EMD' although EMD is N.A. Mounting holes stated as 04 in schedule; scope clause iii-iv says 10 holes per plate (60 total). Page 6 is the chequered plate drawing."
+}

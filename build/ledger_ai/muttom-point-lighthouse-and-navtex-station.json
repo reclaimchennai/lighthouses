@@ -1,0 +1,45 @@
+{
+  "slug": "muttom-point-lighthouse-and-navtex-station",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Muttom Point Lighthouse and Navtex Station",
+  "station_type": "lighthouse",
+  "established_year": 1875,
+  "alol": "F 0724",
+  "position": {"lat_text": "8° 7.4’ N", "lon_text": "77° 19.1’ E", "lat": 8.123333, "lon": 77.318333},
+  "elevation_m": 42.97,
+  "characteristic_text": "Single Fl (W) every 5 seconds",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": null
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 28, "geographical_nm": null, "text": "28 NM (unlabelled)"},
+  "tower": {"type": "Hexagonal Masonry", "height_m": 21.5, "colour_scheme": "Black & White bands"},
+  "optic": {
+    "make": "M/s Chance Brothers", "model": null, "type": null, "size": "700 mm", "order": "2nd Order",
+    "panels": 4,
+    "rotation_device": "Inbuilt stepper motor with drive",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Rotation Device: Inbuilt stepper motor with drive; R.P.M. 3 RPM; Pedestal: Mercury Float",
+    "divergence_horizontal_deg": 5.565278,
+    "divergence_vertical_deg": 2.946111,
+    "divergence_text": "5° 33’ 55’’ (Horizontal), 2° 56’ 46’’ (Vertical)",
+    "illuminant": "230V/150W - 3 Nos Cluster Metal Halide Lamp"
+  },
+  "intensity_cd": 350944,
+  "racon": {"present": true, "code": "M", "text": "Wealth Marine, WM-RB II, Code M, X-band"},
+  "ais": {"present": false, "text": "NAIS base station model/type/MMSI blank; VSAT 2.4m dia EX-C, Datum system M7LT listed"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "Tamil Nadu electricity board 3 phase/440V; 90KW on-grid solar (solar load 25 KW); 2 Eicher 20KVA diesel engines with Kirloskar 20 KVA alternator"},
+  "issues": [
+    "Duration of Flash given as '5 second' (equal to the period)",
+    "Engine 1 and Engine 2 headed '(NIL)' but Eicher 20KVA engine details listed",
+    "NAVTEX: Danphone 1KW Futronic transmitter, 518/490 kHz, Transmitter ID 'L', installed March 2015"
+  ]
+}

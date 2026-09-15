@@ -1,0 +1,44 @@
+{
+  "slug": "valsad-khadi-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Valsad Khadi Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2019,
+  "alol": "F0480",
+  "position": {"lat_text": "20º37’80’ N", "lon_text": "72º53’20’ E", "lat": 20.63, "lon": 72.886667},
+  "elevation_m": 50,
+  "characteristic_text": "Fl(4)W 20 sec",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 4,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 22, "geographical_nm": null, "text": "22 Miles (unlabelled)"},
+  "tower": {"type": "Masonary Tower", "height_m": 45, "colour_scheme": "Red + White Spiral Band"},
+  "optic": {
+    "make": "Zen Lite Buoy Co. Ltd", "model": "ZL-LSRB-26", "type": "Revolving LED", "size": null, "order": null,
+    "panels": 6,
+    "rotation_device": "Inbuilt Direct drive brushless DC motor",
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: ZL-LSRB-26 Revolving LED; Rotation Device: Inbuilt Direct drive brushless DC motor; R.P.M. 3 RPM",
+    "divergence_horizontal_deg": 5,
+    "divergence_vertical_deg": 1.6,
+    "divergence_text": "Horizontal – 5.00°, Vertical 1.6°",
+    "illuminant": "LED Lamp (LED X 6 PCS/2)"
+  },
+  "intensity_cd": 650000,
+  "racon": {"present": false, "code": null, "text": null},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "G.E.B 220V/50Hz 3 phase mains; standby Kirloskar AT94 genset with 25KVA alternator; solar 325 W x 3"},
+  "issues": [
+    "Latitude printed as 20º37’80’ (seconds ≥ 60); interpreted as 20° 37.80' and longitude 72º53’20’ as 72° 53.20'",
+    "No. of lens given as '6 Nos (4 in service)'"
+  ]
+}

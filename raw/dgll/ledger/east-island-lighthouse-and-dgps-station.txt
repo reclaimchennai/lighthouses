@@ -1,0 +1,187 @@
+                  मास्टर लेजर/MASTER LEDGER
+
+ईस्ट आइलेंड दीपस्तंभ और डी जी पी एस स्टे शन / East Island Lighthouse and DGPS Station
+क्रमसं             नाम /Name
+                                                                       वििरण/Discription
+ख्या/
+Sr.No
+  1            ए.एल.ओ.एल/A.L.O.L.                                          F 1201
+  2              स्थान/Position                              Lat.13° 37.79’ N , long 93° 02.94’ E
+  3              ऊंचाई/Elevation                                       89 M (Above MSL)
+  4         अभिलक्षण/Characteristic                                  Fl (1) W 15 sec (fl 0.8)
+
+  5           नॉटिकलमाइलमेदरू ी                                              24 NM
+                Range in miles
+  6         दीपस्तंििािर/L.H.Tower                   Type                     C.I. Circular tower on RCC Base
+                                                    Height                                      37M
+                                               Colour Scheme                         Red and White Band
+  7             ऑप्टिकलउपकरण                         Optic
+                Optical equipment                    Make                                       BBT
+                                                     Type
+                                                     Size                                  920mm
+                                                 No. of lens                                  3
+                                            Area of dioptric portion                     1700 Sq. cm
+                                             Area of catadioptric                        9000 Sq. cm
+                                                    portion
+                                                 Divergence                           1.24º (Horizontal)
+                                              Main/Emergency                           2.48º (Vertical)
+                                              Duration of Flash                            0.16 Sec
+                                               Main/Standby/
+                                                Emergency
+                                                  Pedestal                              Mercury float
+                                              Rotation Device                           Stepper motor
+                                                    R.P.M.                                  1.333
+                                                 illumining
+                                                     Main                      230V/400W Metal Halide Lamp
+                                                  Standby
+                                                 Emergency:                SL-155-5D LED Equipment, Lens Dia
+                                                                               171 mm optic, Make: Sealite
+                                              Date of Installation                     14-02-2003
+  8      प्रिािीबीमतीव्रता/Effective beam           Main                              1500000 cds
+                    intensity                    Emergency
+  9                                               Diameter                                      3.5 m
+             लेंिनन/Lantern                 Height of glazing                               2.7m
+                                             No. of panes                                    36
+                                              Ventilators                                    11
+10               RACON                          Sr. No                                      6295
+          Make                Model              Code                           Band                    Date of
+                                                                                                      Installation
+       Weath Marine       WM-RB-II                     D                            X                 26-09-2011
+11                                                      NAIS
+              Base Station                                           02 Nos-AIS1 & AIS2
+          Model             Type                Power                          MMSI
+           R40             Class A         AC-230V & DC-12V                   4198001
+      Communication
+        Equipment
+      VSAT Antenna          Band                 Modem
+         2.4m dia           EX-C             Datum system
+         Parabolic                                 M7LT
+         reflector                          Satellite Terminal
+          DGPS
+     Transmitter Make Frequency        Power Output        RS 1 ID      RS -II ID       Beacon     Date of Date of
+                                                                                          ID       commis Recapit
+                                                                                                           alizatio
+                                                                                                   sioning     n
+          Nautel          313 KHz          500 Watts           442        443            121       20.03.2      N/A
+                                                                                                     004
+12    ऊर्ानकेसाधन/                        Mains                                            N/A
+                                       Power Source                             DG Set 30 KVA make Eicher
+     Source of energy                                             Engine 1
+                               Make/Type         Qty       Rating      No of Cylinder          RPM           Cooling
+                                 Eicher           1       48.2 BHP            3                1500            Air
+                                                                 Alternator
+                               Make/Type         Qty       Rating       Voltage/Amp        Frequency         Phase
+                                Stamford          1        30 KVA       240V/130.4A           50Hz           Single
+                                                                  Engine 2
+                               Make/Type         Qty       Rating      No of Cylinder          RPM           Cooling
+                                 Eicher           1       48.2 BHP            3                1500            Air
+                                                                 Alternator
+                               Make/Type         Qty       Rating       Voltage/Amp        Frequency         Phase
+                                Stamford          1        30 KVA       240V/130.4A           50Hz           Single
+                                                                  Engine 3
+                               Make/Type         Qty       Rating      No of Cylinder          RPM           Cooling
+                                 Eicher           1       48.2 BHP            3                1500            Air
+                                                                 Alternator
+                               Make/Type         Qty       Rating       Voltage/Amp        Frequency         Phase
+                                Stamford          1        30 KVA       240V/130.4A           50Hz           Single
+                                                                  Engine 4
+                               Make/Type         Qty       Rating      No of Cylinder          RPM           Cooling
+                                 Eicher           1       48.2 BHP            3                1500            Air
+                                                                 Alternator
+                               Make/Type         Qty       Rating       Voltage/Amp        Frequency         Phase
+                                Stamford          1        30 KVA       240V/130.4A           50Hz           Single
+                                         Solar Plant
+                              Capacity PV            Numbers           Type            Battery            Bank
+                                9 KWp                 60 Nos           Mono            48 Nos             01 No.
+                                                                     Crystalline     12V/6000AH
+                                 Solar Plant for Main RACON
+                              Capacity PV              Numbers         Type             Battery           Bank
+                               70 W/12V                 01 No.       TBP 1275           01 Nos            01 No.
+                                                                                      12V/100AH
+13                                        स्िचाभलतिोल्िे र्स्िे बलाइर्र
+                                          Automatic Voltage Stabilizers
+           Make             Model         Capa        Input               Output            Phase          Qty
+                                           city
+           N/A               N/A           N/A         N/A                 N/A                  N/A        N/A
+14                                                   बैिरर
+                                                   Batteries
+       Equipment             Type         Make         Volt         Amp/Hr                Qty
+        PSS NAIS               -              -          -              -                  -
+         Genset            Lead acid      Exide         12V          150 AH                1
+       Automation            SMF          Exide         12V           42 AH                2
+         DGPS
+15                                         बैिररचार्नर/ Battery charger
+        Equipment            Make         Mode         Type           Rating              Qty
+                                            l
+      General Purpose
+        Automation         Power X         ---          ----            15                01
+                            Engg                                       Amps
+16                                            इंवटट रInverter /UPS
+     Equipme       Nos     Make            Model          Type         Rating      Qty          input     output
+        nt
+      Main          ---     ---              ---               ---        ---       ---          ---           ---
+      Light
+      NAIS          02     APC              ----          Pure sine    1 KVA        2      12V DC &       230VAC
+       PSS                                                  wave                            230 AC
+      DGPS          01     Hykon             ----         Pure sine    5 KVA        1      12V DC &       230VAC
+                                                            wave                            230 AC
+                    01     Aplab             ----         Pure sine    1 KVA        1      12V DC &       230VAC
+                                                            wave                            230 AC
+17                                                 स्वचलनउपकरण
+                                              Automation Equipment
+     MAKE               PLC            HMI        Power Supply       VSAT           Modem               Band
+     NELCO           Schneider         Schn          24 V DC        1.8m dia       SkyEdge              EX.C
+                  & Telemecanique      eider                        Parabolic
+                                                                    reflector
+18        आप्ननशमनउपकरण                    Type of Extinguisher     Capacity         Nos                Make
+         Fire Fighting Equipment                  DCP Type             6 kg           3
+                                                  Water Co2            9 Ltr          2
+                                                 Foam Type             9 Ltr          3
+19            संचार                              Not Available
+          Communication
+20           र्लपूर्तन                  01 Nos Open Tank , 7 Nos rain water collection tank provided.
+           Water Supply
+21             िूभम                                  Area                              0.73 hectre
+              Land                               Demarcation                          Not Available
+22             इमारतें                     RCC Structure: 05 Nos                    Power House-cum
+                                                                              Transmitter and DGPS room,
+              Buildings
+                                                                                Workshop, Coil Hut, Twin
+                                                                              units of ALK Qtrs, SRT Qtrs.
+                                                                                        (Single Unit)
+                                      Timber Construction above plinth          Inspection Qtr., One-unit
+                                                                              Assistant Engineer Qtr., twin
+                                                     level
+                                                                              unit of ALK Qtr., twin units of
+                                                                                LHA and Safiawala Qtrs,
+                                                                                   office cum store and
+                                                                                     recreation rooms
+23         कंपाउं डलाइि              LED Light fitted on G.I Pole-25 Nos
+         Compound Lights
+24        सीसीिीिीकमेरा                            Camera                           CP Plus -04 Nos
+          CCTV CAMERA                               DVR                                 01 Nos
+25            स्िाफ                     Sl. No                             Designations
+               Staff                       1             Navigational Assistant on tour from Port Blair
+                                           2                       LHA on tour from Port Blair
+26       पहुँ चनेकामाध्यम             Travel either by sea or bus up to Diglipur (regular ferry or public bus
+                                     from Port Blair), Travel by road upto Aerial Bay then use mechanized
+         Mode of approach
+                                         boat to reach East Island. Walk from Island shore to lighthouse,
+                                                distance is about 1 Km (approached by foot path)
+27        उपलब्धसविधाए                The nearest Post office, Dispensary, High School, Police Station are
+                                     available at Diglipur. Nearest port is Aerial Bay, which is about 30 Nm
+         Facilities available
+                                      from East Island. The Police look out post having a HF R/T link (with
+                                     Port Blair) and a police compound is situated adjoining to Lighthouse
+                                                   campus. The Island is otherwise uninhabited
+28    डाकपताPostal address                                 Assistant Engineer (E)
+                                                          East Island Lighthouse
+                                               C/o Post Master, P.O. Aerial Bay (A & N Islands)
+                                                                Pin: 744202.
+29    मल्
+        ू यकाब्योराCost details
+                                                                       N/A
+     (At the time of Construction)
+30       प्रितननमेलानेकादे नांक                                   24 /04/1969
+       Date of commissioning
+

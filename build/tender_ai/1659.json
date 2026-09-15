@@ -1,0 +1,42 @@
+{
+  "nid": 1659,
+  "title": "Engagement of Independent Engineer for the project - Development of tourism at Mahabalipuram Lighthouse on PPP basis.",
+  "summary": "Technical corrigendum to a tender engaging an Independent Engineer for the DBFOT (PPP) tourism development project at Mahabalipuram Lighthouse, widening eligibility beyond TNIDB-empanelled consultants.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(31)/1/2024-Civil Maintenance; I/60305/2024; Tender ID 2024_DGLL_806882_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Deep Bhawan, 5/20 Jaffar Syrang Street, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Mahabalipuram Lighthouse", "station_id": "mahabalipuram-lighthouse", "kind": "lighthouse", "work": "Independent Engineer for DBFOT (PPP) tourism development project"}
+  ],
+  "scope": [
+    {"item": "Engagement of Independent Engineer for DBFOT (Design Build Finance Operate and Transfer) project - development of tourism at Mahabalipuram Lighthouse on PPP basis", "qty": null, "unit": null, "site": "Mahabalipuram Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": null
+  },
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": null, "bid_opening": null},
+  "eligibility": [
+    "As amended: firms registered with any Central/State Government Departments/PSUs having experience and expertise in engineering consultancy services as Independent Engineer for PPP projects",
+    "Bidder shall have undertaken eligible assignments as Independent Engineer for PPP projects",
+    "Proof of certificate of incorporation/registration under Companies Act, Memorandum and Articles of Association, and registration with Central/State Govt./PSUs"
+  ],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-07-04", "change": "NIT header, Section III, Section IV clause 4.1.1, NIT clause 12(1) and Section V clause 5.1.3: requirement of empanelment with Tamil Nadu Infrastructure Development Board (Panel nos. 10 and 23) replaced by registration with any Central/State Government department/PSU with Independent Engineer experience on PPP projects"}
+  ],
+  "documents": [
+    {"file": "TechCorrigendumIE.pdf", "pages": 2, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "medium",
+  "notes": "Only the technical corrigendum is attached; no NIT, cost, EMD or dates. Listing end 2024-07-23 and opening 2024-07-24 not in document. Related corrigendum for same work appears as nid 1599."
+}

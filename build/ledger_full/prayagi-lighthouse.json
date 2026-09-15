@@ -1,0 +1,108 @@
+{
+  "slug": "prayagi-lighthouse",
+  "page_count": 5,
+  "title_as_printed": "PRAYAGI LIGHTHOUSE MASTER LEDGER",
+  "sections": [
+    {"no": "1", "title": "Name", "title_hi": null, "page": 1,
+     "fields": [{"label": "Name", "value": "Prayagi Lighthouse"}], "tables": [], "text": "[photo: red and white spiral-banded lighthouse tower, beside title box]"},
+    {"no": "2", "title": "SI. No. (in ALOL)", "title_hi": null, "page": 1,
+     "fields": [{"label": "SI. No. (in ALOL)", "value": "F 1000"}], "tables": [], "text": null},
+    {"no": "3", "title": "Position", "title_hi": null, "page": 1,
+     "fields": [{"label": "Position", "value": "Lat. 19° 28.00’N Long. 85° 10.00’E"}], "tables": [], "text": null},
+    {"no": "4", "title": "Elevation of ground", "title_hi": null, "page": 1,
+     "fields": [{"label": "Elevation of ground", "value": "8.1 m"}], "tables": [], "text": null},
+    {"no": "5", "title": "Elevation of tower", "title_hi": null, "page": 1,
+     "fields": [{"label": "Elevation of tower", "value": "38.1 m"}], "tables": [], "text": null},
+    {"no": "6", "title": "Character ofLight", "title_hi": null, "page": 1,
+     "fields": [{"label": "Character ofLight", "value": "GR FL (2) W 10 SEC"}], "tables": [], "text": null},
+    {"no": "7", "title": "Range in nautical miles", "title_hi": null, "page": 1,
+     "fields": [{"label": "i.) Luminous", "value": "17 NM"}, {"label": "ii.) Geographical", "value": "16.4 NM"}], "tables": [], "text": null},
+    {"no": "8", "title": "Lighthouse Tower", "title_hi": null, "page": 1,
+     "fields": [{"label": "i.) Type", "value": "Circular RCC Tower"}, {"label": "ii.) Height", "value": "30 m."}, {"label": "iii.) Color Scheme", "value": "Spiral Red and White Bands"}], "tables": [], "text": null},
+    {"no": "9", "title": "Optical Equipment", "title_hi": null, "page": 1,
+     "fields": [
+       {"label": "Optical Equipment", "value": "TRB 220"},
+       {"label": "i) Make", "value": "Tideland Signal Corporation, USA"},
+       {"label": "ii) Size", "value": "915 mm height & 445 mm Dia."},
+       {"label": "iii) Panels", "value": "3"},
+       {"label": "iv) Focal Length", "value": "110 mm"},
+       {"label": "v) RPM", "value": "3"},
+       {"label": "vi) Duration of Flash", "value": "0.2 Sec"},
+       {"label": "vii) Illuminant", "value": "70 Watt MH Lamp, 230 volts AC"},
+       {"label": "viii) Divergence", "value": "2.40 (Horiz.) & 1.15 (Vert.)"},
+       {"label": "ix) Luminous Intensity", "value": "26928 cd"}
+     ], "tables": [], "text": null},
+    {"no": "10", "title": "innovation", "title_hi": null, "page": 1,
+     "fields": [{"label": "innovation", "value": "Innovation was carried out on august 2013. l00W/l2V Halogen lamp of TRB 220 was replaced with 70W/230V MH Lamp."}], "tables": [], "text": null},
+    {"no": "11", "title": "Lantern", "title_hi": null, "page": 1,
+     "fields": [{"label": "i) Diameter", "value": "2.4 m"}, {"label": "ii) Height of glazing", "value": "1.3 m"}, {"label": "iii) No. of glass panes", "value": "12 Nos."}, {"label": "iv) No. of Ventilators", "value": "6 Nos."}], "tables": [], "text": "Page footer: 1 | Page"},
+    {"no": "12", "title": "Pedestal", "title_hi": null, "page": 2,
+     "fields": [{"label": "Pedestal", "value": "Local Make"}], "tables": [], "text": null},
+    {"no": "13", "title": "Power supply", "title_hi": null, "page": 2,
+     "fields": [{"label": "i) Mains", "value": "3 Phase, 440V, 50Hz Electric Mains Supply from SOUTHCO."}, {"label": "iii) Standby", "value": "Gensets (02 Nos.)"}],
+     "tables": [
+       {"caption": "ii) Solar", "columns": ["Sl.No.", "Types of Solar Power", "Capacity", "No. of Panels", "Inverter", "Remarks"],
+        "rows": [["1", "ON GRID", "10 kWp", "32 (each 320W 24V)", "10KVA, Make : Delta", "Net meter installed"]]},
+       {"caption": "A. Details ofEngine", "columns": ["Sr No", "Engine No", "Make", "BHP", "No. of Cylinder", "RPM", "Cooling", "Date of installation"],
+        "rows": [["I", "EA20D4.1616.92.1100116", "Kirloskar", "20", "2", "1500", "Air Cooled", "10.03.2012"], ["2", "HA-294/G102.8301/1620310", "Kirloskar", "20.5", "2", "1500", "Air Cooled", "15.08.2016"]]},
+       {"caption": "B. Details ofAlternator", "columns": ["Sr No", "Alternator No", "Make", "KVA", "Voltage", "Frequency", "Phase", "RPM"],
+        "rows": [["l", "CSIB012A 18122-H", "Kirloskar", "15", "230", "50Hz", "Single", "1500"], ["2", "CSIB016E2900-H", "Kirloskar", "15", "230", "50Hz", "Single", "1500"]]}
+     ], "text": null},
+    {"no": "14", "title": "Other Equipments", "title_hi": null, "page": 2,
+     "fields": [
+       {"label": "i) Battery Charger (i)", "value": "I No Aplab Make, 0-32VDC, 0-20A max supplied on 20.03.2012. Presently not working."},
+       {"label": "i) Battery Charger (ii)", "value": "1 No. Altime Make, 0-20A max, supplied on 02.03.2017. Working conditions."}
+     ],
+     "tables": [
+       {"caption": "ii) Stabilizer", "columns": ["Sr No", "Input voltage", "Output voltage", "Qty (Nos.)", "KVA", "Make", "Frequency", "Phase", "Date of Installation"],
+        "rows": [["1", "170-270 V AC", "230 V AC", "3", "5", "ITL", "50Hz", "Single", "19.09.2012"]]},
+       {"caption": "iii) Inverter", "columns": ["Sr. No.", "Particulars", "Qty", "Date of Installation", "use", "Condition"],
+        "rows": [["1", "1500 VA, 24V DC (input), 230V AC (output), Sukam make", "1 No.", "08.04.2014", "For Light beacon", "Good"], ["2", "1500 VA, 24V DC (input), 230V AC (output), Sukam make", "1 No.", "21.09.2012", "For NAIS", "Good"]]}
+     ], "text": "Page footer: 2 | Page"},
+    {"no": "15", "title": "Remote Monitoring and Control System", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "i) Main Panel", "value": "1 No. installed at power house."},
+       {"label": "ii) Remote Panel", "value": "I No. installed at service room."},
+       {"label": "iii) Communication", "value": "VSAT"},
+       {"label": "iv) UPS", "value": "1 No. 1 KVA, APC make placed inside main Panel."},
+       {"label": "v) VSAT", "value": "1 No. installed on ground."},
+       {"label": "vi) Modem", "value": "1 No. placed inside main panel."}
+     ], "tables": [], "text": "All equipment's are remotely monitored by RCS at Kalingapatnam and MCS at Deep Bhavan, Kolkata."},
+    {"no": "16", "title": "NAIS", "title_hi": null, "page": 3,
+     "fields": [
+       {"label": "i) AIS Base station", "value": "02 Nos. Saab Transponder make, installed at Service room."},
+       {"label": "ii) Switch", "value": "01 No. Cisco make, installed at Service room."},
+       {"label": "iii) Modem", "value": "01 No. Datum system make, installed at Service room"},
+       {"label": "iv) GPS antenna", "value": "02 Nos. installed at LH tower railing."},
+       {"label": "v) VHF antenna", "value": "02 Nos. installed at LH tower railing"},
+       {"label": "vi) UPS", "value": "01 No.1KVA APC make online UPS, installed at Service room"},
+       {"label": "vii) Communication", "value": "VSAT"},
+       {"label": "viii)Date of commissioning", "value": "01.12.2012"}
+     ], "tables": [], "text": null},
+    {"no": "17", "title": "Fire Extinguisher", "title_hi": null, "page": 3,
+     "fields": [],
+     "tables": [{"caption": null, "columns": ["Sr. No.", "Type", "Capacity", "Qty", "Installed place"],
+                 "rows": [
+                   ["l", "DCP", "5 kg", "01 No.", "Service room"],
+                   ["2", "ABC", "5 kg", "01 No.", "Power house"],
+                   ["3", "Water CO2", "9 Ltrs", "02 Nos.", "One at store room & another one at base of LH tower."]
+                 ]}], "text": null},
+    {"no": "18", "title": "Water Supply", "title_hi": null, "page": 3,
+     "fields": [], "tables": [], "text": "Water is pump to the overhead tanks placed on roof-top of the IQ and staff quarters from bore well with 1.5 HP pump (Crompton greaves make) supplied on 10.04.2012. Another 0.5 HP pump (Crompton Greaves make) supplied on 08.07.2017 is in use for gardening."},
+    {"no": "19", "title": "Land", "title_hi": null, "page": 3,
+     "fields": [{"label": "i. Area", "value": "0.62 Acre"}, {"label": "ii. Demarcation", "value": "Compound Wall"}, {"label": "iii. No. of Fruit Bearing Trees", "value": "21 Nos."}, {"label": "iv. No. of Non-Fruit Trees", "value": "9 Nos."}], "tables": [], "text": null},
+    {"no": "20", "title": "Buildings", "title_hi": null, "page": 3,
+     "fields": [{"label": "i.", "value": "1 No. Power house Cum Office cum Store cum IQ."}, {"label": "ii.", "value": "1 No. NA-II Qtr."}, {"label": "iii.", "value": "l No. LHA Qtr."}], "tables": [], "text": "Page footer: 3 | Page"},
+    {"no": "21", "title": "Contact Details", "title_hi": null, "page": 4,
+     "fields": [
+       {"label": "i) Office Mobile No.", "value": "7750056689"},
+       {"label": "ii) Office E-Mail", "value": "prayagilighthouse123@gmail.com"},
+       {"label": "iii) Postal Address", "value": "Village Praygi, PO — Palur Via Humma Dist. Ganjam, PIN— 761 027, Odisha"}
+     ], "tables": [], "text": null},
+    {"no": "22", "title": "Mode ofApproach", "title_hi": null, "page": 4,
+     "fields": [], "tables": [], "text": "The station is well connected by all weather road. The nearest Railway Station is Chatrapur which is approx 35 km from Prayagi Lighthouse."},
+    {"no": "23", "title": "Facilities Available", "title_hi": null, "page": 4,
+     "fields": [], "tables": [], "text": "Post Office at Palur (approx. 6 KM), Primary Health Center at Rambha (approx. 15 KM), Police Station at Rambha (approx. 15 KM) and High School at Humma (approx. 12 KM). (Page 4 footer: 4 | Page; page 5 is blank except footer 5 | Page.)"}
+  ],
+  "unreadable": []
+}

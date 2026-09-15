@@ -1,0 +1,44 @@
+{
+  "nid": 1891,
+  "title": "Restoration of Jetty and approach pathway from Jetty to Lighthouse main gate at Nagayalanka Lighthouse (Island) Station.",
+  "summary": "E-tender (percentage rate) to restore the jetty and the approach pathway from the jetty to the lighthouse main gate at Nagayalanka Lighthouse (Island) Station, Krishna District, Andhra Pradesh, issued by the Directorate of Lighthouses and Lightships, Visakhapatnam.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MT-VSP-02002(10)/1/2025-Maintenance; I/76233/2025",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Visakhapatnam"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Nagayalanka Lighthouse (Island) Station, Nagayalanka Post, Krishna District, Andhra Pradesh 521120", "station_id": "nagayalanka-lighthouse", "kind": "lighthouse", "work": "Restoration of jetty and approach pathway from jetty to lighthouse main gate"}
+  ],
+  "scope": [
+    {"item": "Restoration of Jetty and approach pathway from Jetty to Lighthouse main gate", "qty": null, "unit": null, "site": "Nagayalanka Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 15342083.0,
+    "emd_inr": 306900.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including GST and all other taxes. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships, Visakhapatnam; validity four months (table, clause 1.2 English) / three months (clause 1.2 Hindi) from technical bid opening. EMD not exempted for any bidder including NSIC/MSME, citing delays by exempted bidders; EMD forfeited if timelines not followed."
+  },
+  "period": {"completion": "12 months from site handover", "bid_validity": "120 days from the date of opening of tender", "warranty": null},
+  "dates": {"published": "2025-04-24", "pre_bid": "2025-05-01", "bid_submission_end": "2025-05-15", "bid_opening": "2025-05-16"},
+  "eligibility": [
+    "Valid registration in appropriate category and class with Central Govt/CPWD/State Govt/Railways/MES/BSNL/PSU/autonomous bodies",
+    "Similar works in last seven years: three works each >= 40%, or two each >= 60%, or one >= 80% of estimated cost; completion certificates; value enhanced at 7% per annum",
+    "Similar works: construction/restoration/repair and maintenance of jetty, or construction/restoration of civil structures in islands, or of water retaining structures like dams, reservoirs",
+    "PAN and GST registration; key technical personnel with qualifications and experience; unconditional tender undertaking (Annexure V)",
+    "Tender acceptance letter (Annexure IV); affidavit of not being blacklisted; ITR for last three financial years; list of relatives serving in MoPSW/DGLL",
+    "Average annual turnover of last three financial years at least 30% of estimated cost",
+    "Activity chart/plan; self-assessed technical evaluation sheet; valid labour licence or self-declaration; bank mandate form with cancelled cheque"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_1.pdf", "pages": 5, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Extract of Section I NIT only (printed pages 3-7 of a 102-page tender document); no BOQ, drawings or specifications. Island site reachable only by boat, about 20-25 km from Nagayalanka village; bidder to arrange electricity (portable generators) and drinking/construction water. No time extension for document submission. Download/bid submission 25.04.2025 12:00 to 15.05.2025 15:00; EMD originals up to 15.05.2025 15:00; opening 16.05.2025 15:00."
+}

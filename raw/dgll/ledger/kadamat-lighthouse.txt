@@ -1,0 +1,94 @@
+                                 मास्टर ले जर/MASTER LEDGER
+
+
+
+क्रमसं
+ ख्या/                  नाम /Name                                                 वििरण/Description
+Sr.No
+  1      ए.एल.ओ.एल/A.L.O.L.                               F-0755.5
+  2      स्थान/Position                                   Latitude 11o 15.43˝N , Longitude72o 47.44˝ E
+  3      ऊंचाई/Elevation                                  34 M (Above MSL)
+  4      अविलक्षण/Characteristic                          Fl (4) White 20 Sec
+  5      नॉविकल माइल मे दू री
+                                                          16.8 Nm
+         Range in miles
+                                                          Type                        G I trestle tower
+  6      दीपस्तं ि िािर/L.H.Tower
+                                                          Height                     30 M
+
+                                                          Colour Scheme               White Band
+                                                          Optic                      MBL-160
+                                                          Make                       MsM, Spain
+  7      ऑविकल उपकरण                                      Type                       LED Flasher
+         Optical equipment                                Illumining
+                                                          Main                       High-intensity power LED 6W
+                                                          Standby                    Nil
+                                                          Date of Installation
+  8      प्रिािी बीमतीव्रता/Effective beam                Main
+         intensity                                        Emergency
+  9      लें िनन /Lantern                                 NIL
+ 10      RACON                                                 Sr. No :
+         Make                  Model                      Code                       Band                    Year of Installation
+         Tideland              Sea Beacon                     G                      X&S                     2008
+ 11      NAIS: NIL
+                                         Mains                                       230V, AC Supply
+                                        Emergency Power Source                       NIL
+ 12      ऊर्ान के साधन/Source of       Solar Plant: NIL
+         energy                        Capacity PV                 Numbers           Type          Battery
+
+                                       70 W/12V                    02 Nos            TBP           02 Nos, 12V/150Ah
+         Solar panel for Main light
+
+                                       70 W/12V                    01 No.            TBP           01 No, 12V/150Ah
+         Solar Panel for RACON
+
+         Solar panel for Automation                                                                02 Nos, 12V/150Ah
+         panel
+                                       250W/ 24V                   02 Nos            TBP
+ 13      स्वचावलत िोल्टे र् स्टे बलाइर्र Automatic Voltage Stabilizers: NIL
+         बैिरर Batteries
+         Equipment                 Type          Make     Volt                       Amp/Hr                  Qty
+         Main Light                   SMF                 Exide     12V              150 Ah                   2
+         Automation panel             SMF                 Exide     12V              150Ah                    2
+     14   RACON                      SMF       Exide              12V                 150Ah                  1
+     15   बैिरर चार्न र/ Battery chargers: NIL
+     16   इं वर्ट र Inverter /UPS: NIL
+          स्वचलन उपकरण/ Automation Equipment
+
+     17   MAKE           PLC             HMI                  Power Supply       VSAT              Modem                Band
+
+                                                                                 1.2m dia
+                                         Renu
+          RDS            Micrologix                           24 V DC            Parabolic         Hughes
+                                         Electronics
+                                                                                 reflector
+                                         PVT LTD
+          आवि शमन उपकरण                                Type of Extinguisher      Capacity          Nos           Make
+     18   Fire Fighting Equipment                      Map 90                    2 kg                    3
+     19   संचार Communication                          Nil
+     20   र्ल पूवतन
+                                                       01 No Open well, and rainwater collection sump 3000Ltrs provided.
+          Water Supply
+     21   िू वम                                        Area
+          Land                                         Demarcation                                 Masonry compound wall
+
+          इमारतें                                      1. Two storied buildings consisting of the LHA quarter and Inspection
+22        Buildings                                    quarter
+                                                       2. Equipment room at tower bottom
+     23   कंपाउं ड लाइि                                Nil
+          Compound Lights
+     24   सीसीिीिी कमे रा/ CCTV CAMERA                 Nil
+     25   स्टाफ/ Staff                                 One outsourced LHA
+     26   पहुँ चने का माध्यम                           By Ship from Kochi
+          Mode of approach
+
+     27   उपलब्ध सुविधाए                               Post office, Govt Hospital, Primary school, High School, and Police
+          Facilities available                         Station are available on Kadamat Island.
+
+                                                       Lighthouse Attendant,
+     28   डाक पताPostal address                        Kadamat Lighthouse, Kadamat island,
+                                                       UT of Lakshadweep, 680 556
+     29   मू ल्य का ब्योराCost details
+     30   प्रितनन मे लाने का दे नां क
+          Year of commissioning                          1984
+

@@ -1,0 +1,40 @@
+{
+  "nid": 1989,
+  "title": "Fabrication & Supply of 12.0m High G.I Trestle Tower for Replacement of South Button lighthouse & Construction of RCC Foundation and Erection of 12.0m High G.I Trestle Tower for Replacement of South Button lighthouse.",
+  "summary": "Online percentage-rate re-tender to fabricate and supply a 12 m GI trestle tower and build its RCC foundation and erect it as a replacement for South Button lighthouse, Andaman & Nicobar Islands.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-PB-01020/1/2022-CM-PB",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Sri Vijaya Puram (Port Blair)"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "South Button Island", "station_id": "south-button-lighthouse", "kind": "lighthouse", "work": "Fabrication, supply and erection of 12.0m GI trestle tower on new RCC foundation to replace the lighthouse"}
+  ],
+  "scope": [
+    {"item": "Fabrication & Supply of 12.0m High G.I Trestle Tower", "qty": "1", "unit": "tower", "site": "South Button Island"},
+    {"item": "Construction of RCC Foundation and Erection of 12.0m High G.I Trestle Tower", "qty": null, "unit": null, "site": "South Button Island"}
+  ],
+  "money": {
+    "estimated_cost_inr": 3979816.0,
+    "emd_inr": 80000.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Bid document free of cost. EMD by Deposit at call receipt/FDR of any nationalized/scheduled bank in favour of Director of Lighthouses and Lightships, Sri Vijaya Puram, valid 6 months from technical bid opening; originals with technical documents by post or in person by 12/08/2025 15:00. MSME/NSIC bidders registered for similar work exempt from EMD. Hindi version mentions FDR or bank guarantee."
+  },
+  "period": {"completion": "12 months", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-08-02", "pre_bid": "2025-08-08", "bid_submission_end": "2025-08-12", "bid_opening": "2025-08-13"},
+  "eligibility": [
+    "Eligible experienced civil contractors with successful completion of similar work of construction of buildings/trestle tower in remote islands of Andaman & Nicobar with Government organizations and no adverse remarks",
+    "Detailed eligibility as per Section-III clause 3.1 of tender document (not included)"
+  ],
+  "specs": ["12.0 m high G.I. trestle tower on RCC foundation"],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITsouthButton.pdf", "pages": 6, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Notice Inviting Re-Tender (Section I only): pages 1-3 Hindi, pages 4-6 English; no BOQ. Bid download/submission 02/08/2025 18:00 to 12/08/2025 15:00; technical bid opening 13/08/2025 15:00 subject to internet availability. Page 3 shows faint bleed-through of the English table, not affecting legibility."
+}

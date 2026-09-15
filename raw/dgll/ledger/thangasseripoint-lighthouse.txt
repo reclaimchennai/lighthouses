@@ -1,0 +1,281 @@
+                                 मास्टर लेजर/MASER LEDGER
+क्रमसंख्या/                      नाम /Name
+   Sr.No                                                                      वििरण/Description
+     1        ए.एल.ओ.एल/A.L.O.L.                   F-0712
+     2        स्थान/Position                       Lat. 08o53´N , long 76o34’E
+     3        ऊंचाई/Elevation                       43 mt.(BasetoVane)
+                                                   38mt.(Base tolightbeam)
+    4         अविलक्षण/Characteristic               Groupflashofthreeinevery15Seconds.
+                                                   (0.2+2.8+0.2+2.8+0.2+8.8=15Sec)
+    5         नॉविकल माइल मे दूरी                  26Nm
+              Range in miles
+    6         दीपस्तं ि िािर/L.H.Tower             Type                             CircularBrickmasonryTower
+                                                                                    .
+                                                                                   (OutsideplasteredinDecember200
+                                                                                   2)
+                                                   Height                          35mt.
+                                                   Colour Scheme                   Red andWhite Spiralstrips
+    7         ऑविकल उपकरण                          Optic                           RevolvingOptic
+              Optical equipment                    Make                             M/S CHANCEBros.&Co.
+                                                   Type                            2rdOrder
+                                                   Size                            700mm
+                                                   No. of lens                     3panel
+                                                   Area of dioptric portion        10500sq.cm
+                                                   Area of catadioptric portion    10200sq.cm
+                                                   Divergence                      4°30´(Horizontal)
+                                                   Main/Emergency                  3º 41’ (Vertical)
+                                                   Pedestal                        Mercuryfloat(89.2Kg.mercuryin
+                                                                                   optic)
+                                                   Rotation Device                 2no’s Steppermotor 40Kg -
+                                                                                   cm
+                                                                                   Clockworkmachinewith hand
+                                                                                   winding(Standby)
+                                                   R.P.M.                          4RPM
+                                                   Illumining                      MetalHalideLamps
+                                                   Cluster/ Singleended            Clusterof3 Nos150W/230V
+                                                   Date of Installation            01-03-1902
+    8         प्रिािी बीम तीव्रता/Effective beam   Main                            127950 Candelas
+              intensity                            Emergency
+    9         लें िनन /Lantern                     Diameter                        3.65mt.
+                                                   Height of glazing               1.83mt.
+                                                  No. of panes                  32 Nos (in two tier), (24 Nos as
+                                                                                glass panes, 8 Nos as M.S
+                                                                                blanksheetonthelandside)
+                                                  Ventilators                    13Nos
+11   NAIS
+     Base Station                                     2 Nos-AIS1 & AIS2      (SAAB)
+
+
+     Model              Power                                                   Sr.No
+     R40                230V                                                    5241,5287
+     Communication Equipment
+     VSAT Antenna       Modem
+       2.4m dia         Datum systems-PSM-500L
+      Prod Elin
+
+12   ऊर्ान केसाधन/Sourc   Mains                                                 Local
+     e of energy                                                                Mains440V,3ø,50Hz,ACSupply
+                          Emergency                                             Back-upUPS Supplyfrom
+                                                                                Battery
+                          Stand By                                              Diesel
+                                                                                EngineGeneratorsetwithAuto
+                                                                                ON-OFF.
+                          3 No of Disel Generator sets
+                          Engine 1(U/S)
+                          Make/Type                      Qty       Rating       No of       RPM            Cooling
+                                                                                Cylinder
+                          Kirloskar                      1         7.5KVA       2           1500           Air
+                          Alternator
+                          Make/Type                      Qty       Rating       Voltage/A   Frequency      Phase
+                                                                                mp
+                          Kirloskar                      1         7.5 KVA      240V        50Hz           Single
+                          Engine 2
+                          Make/Type                      Qty       Rating       No of       RPM            Cooling
+                                                                                Cylinder
+                          Kirloskar                      1         25KVA        3           1500           Air
+                          Alternator
+                          Make/Type                      Qty       Rating       Voltage/A   Frequency      Phase
+                                                                                mp
+                          Kirloskar                      1         25 KVA       240V        50Hz           Three
+                          Engine 3
+                          Make/Type                      Qty       Rating       No of       RPM            Cooling
+                                                                                Cylinder
+                          Eicher                         1         15KVA        3           1500           Air
+                          Alternator
+                          Make/Type                      Qty       Rating       Voltage/A   Frequency      Phase
+                                                                                mp
+                          Stamford                       1         15 KVA       240V        50Hz           Single
+                          2KVA OFF Grid Solar Plant
+                          Capacity PV                    Numbers                Type        Battery        Bank
+                          250 watts                      01 No.                 OFF Grid    24Nos          01 No.
+                                                                                            (Amara raja)
+                                                                                            2V/200AH
+                                                                                            (U/S)
+     13   स्वचावलत िोल्टे र् स्टे बलाइर्र Automatic Voltage Stabilizers
+          Make                           Capacity         Input                              Output         Phase      Qty
+          SUPRA, SH-175                  7.5KVA           230V                               203-248V       single     1
+14        बैिरर Batteries
+          Equipment                      Type          Make                   Volt           Amp/Hr     Qty
+          PSS NAIS                          Tubular    Amaron                 12V            150AH      2
+              MainLamp-1                   SMF           Exide                12V            150AH      1
+              MainLamp-2                   SMF           Exide                12V            150AH      1
+              MainLamp-3                   SMF           Exide                12V            150AH      1
+              Stepper Motor                SMF           Exide                12V            150AH      1
+          Genset(7.5KVA)                   SMF           HBL                  12V            160AH      1
+          Genset(25KVA)                    Electrolyte   Exide                12V            100AH      1
+          Genset(15KVA                     Electrolyte   TATA                 12V            88AH       1
+     15   बैिरर चार्न र/ Battery charger
+          Make                                                       Volts                    Rating          Qty
+          Delta electric                                           0 to 30V                  15Amps           01
+                Corp,Sl.no.1094E/112
+          AEmakeSl.no.6080/8/99                                    0 to 30V                  15 Amps          01
+     16   इं वर्ट रInverter /UPS
+          Sl.no             Make             Rating       Output       Capacity              Used for
+                                                         Volts
+                1.         V-Guard          12V          230V          1100VA                MainLamp-1
+                2.         V-Guard         12V           230V          1100VA                MainLamp-2
+                3.         V-Guard         12V           230V          1100VA                MainLamp-3
+                4.         V-Guard         12V           230V          1100VA                MainLamp-4
+                5.         Supra           24V           230V          1000VA                NAIS
+                6.         V-Guard         12V           230V          1000VA                CCTV
+     17   स्वचलन उपकरण/ Automation Equipment
+
+          Sl.No      Name of the            Make                              Rating                                 Quantity
+                     equipments
+
+                     Power room RTU
+          1           PanelMonitor(          Renu Electronics                  HMIDisplay-FP5070T                     1No
+                      HMI)                   Pvt.Ltd                          Sr.NoCI4812178198
+
+
+          2           PLCunit                Allen Bradley                    Micro Logix 1400                        1No
+          3           V-                     Hughes                                ---                                1No
+                      SATModem
+          4           V-SAT                  1.2m Día                                  ---                            1No
+                      Antenna
+          5           D-                           ---                                 ---
+                      LinkswitchEth
+                      ernet
+          6           SMPS unit              NHP                               I/P-230ACO/P-                          1No
+                                                                               24VDC/5A
+          7           DCSignalisol           ADEPT6200series                   4-20mA                                 1No
+               ator
+     8         AdapterforV-      Hughes               I/P- 100-240VAC/ 2A   1No
+               sat modem                              O/P- 6.4W
+     9         Relays             IDEC/Omron          12VDC/ RU4S D24       4+5Nos
+     10        MCB                SchneiderElectric   4Pole/2pole           1+2Nos
+     11        Transducer        AdeptFluid                ---              3Nos
+                                    yne
+     12        Rotary On-            ---                  ---               5Nos
+               OFFSwitch
+     13        IndicationLam         ---                  ---               45Nos
+               p
+     14        Buzzer                ---                  ---               1No
+               with
+               indicatin
+               glamp
+     15        Push button           ---                  ---               2Nos
+               switch
+     16        CT/Shunt          AmolElectricals      50/5A SrNo-520        1No
+     17        SurgeProtecti     Elpro-CDS40/320/     255AC/320AC           2Nos
+               ng Device
+              Service Room RTU
+     1         PLCunit           PSU                        Sr No-2211(6)   1No
+     2         SMPS unit         NHP                        I/P-230V/O/P-   1No
+                                                            24V/5ADC
+     3         Transducer        AdeptFluidyne                         -    5Nos
+                                                                       -
+                                                                       -
+     4         Relays            IDEC/IDEC/Omron            24VDC/RU4S-     7+2+1
+                                                            A220/RU4S-      +2Nos
+                                                            D2A/12VDC
+     5         MCB               SchneiderElectric         2Pole/1pole      1+7No
+                                                                            s
+     6         Rotary On-                     ---          ---              5Nos
+               OFFSwitch
+     7         IndicationLam                  ---          ---              33Nos
+               p
+
+     8         Buzzer with                    ---          ---              1No
+               indicating
+               Lamp
+     9         Push button                    ---          ---              1No
+               switch
+     10        ProximitySwit     Ideal                      6-36VDC/200-    1No
+               ch                                           300mA
+     11        LightIntensity    ABLE Instruments           10-20000Lux     1No
+               Sensor            &Controls                  O/P-4-20mA/0-
+                                                            10VDC
+     आवि शमन उपकरण
+18   Fire Fighting Equipment
+         सं        स्वरूप          मात्रा              क्षमता               बनािि
+         No         Type           Qty.               Capacity              Make
+       1      वसऑ2 / CO2        2   4.2Kg                                        Flameblit
+                                                                                    zz
+       2      विवसवप / D.C.P.   2                       1Kg                      Flameblit
+                                                                                    zz
+       3      विवसवप / D.C.P.   3                       2Kg                      Flameblit
+                                                                                    zz
+       4      विवसवप / D.C.P.   4                       4Kg                      Flameblit
+                                                                                    zz
+       5      फॉम / Foam        2                      9litrs.                   Flameblit
+                                                                                    zz
+19   संचार                          BSNLPhone                        0474-2795619
+     Communication                                                   Telephone
+                                                                     providedatOfficeroom.
+20   र्ल पूवतन                      Water Supply available-KeralaWaterAuthority.
+     Water Supply                   Open
+                                    wellprovidedintheLighthousecompoundwithoverhea
+                                    dtankofcapacity5000litresusing1HP,230 V,1ømotor.
+21   िू वम                           37.81 Ares for Light house and 03.80 Ares for
+     Land                            Lighthouseofficer’squarters.(Total:41.61 Ares.
+                                     0.4161Hectare)
+22   इमारतें                        1.Power House with office, Store and SS Power
+     Buildings                      room.
+                                    2.Lighthousetower.
+                                    3.Inspectionquarters.
+                                    4.NA-I&NA-IIquarters.
+                                    5. NA-II & LHA quarters.
+                                    6.Ticketcounter,MiniMuseum&Cafeteria.
+                                    7.Toiletblock.
+23   कंपाउं ि लाइि                  Havellsmake11no’s LEDlights.
+     Compound Lights
+24   सीसीिीिी कमे रा                Camera                          12Nos
+      CCTV CAMERA                   DVR                             01 Nos
+25   स्टाफ                          Sl. No Designations
+     Staff
+                                    1       Navigational Assistant Gr-I:1 No.
+                                    2       NavigationalAssistant Gr-II:1 No.
+                                    3       NavigationalAssistantGr-III:1No.
+                                    4       LighthouseAttendant       :1No.
+26   पहुँ चने का माध्यम             ByrailuptoQuilonthen5KmbyroaduptoLighthouse.
+     Mode of approach
+27   उपलब्ध सुविधाए                 Policestation at Pallithottam 3.5Km from
+     Facilities available           Lighthouse and Dist.Hospital,Kollam 4Kmf rom
+                                    Lighthouse. Postoffice at Thangasseri 500 m
+                                    fromLighthouse.
+28   िाक पताPostal address          NavigationalAssistantGr
+                                    .I,ThangasseripointLight
+                                    house,Thangasseri(P.O
+                                    ),
+                                                      KollamDist.Kerala-691007
+29         मू ल्य का ब्योराCost details               N/A
+           (At the time of Construction)
+30         प्रितनन मे लाने का दे नां क                01.03.1902
+           Date of commissioning
+ 31.NAVTEXRECEIVER
+
+ Sl.N        Particulars                    Make         Sr.No&                       Quantity
+  o                                                     (ModelNo)
+  1          NAVEXReceiver(S                -                -                           1no
+             irius-3NAVEX)with                                                        DOI:08.04.2016
+             Antennaunit
+     2        Epson(LQ-                     -          Sl.no: MWCY007161                 1no
+              50)Printer                               Model: PA51A                   DOI:08.04.2016
+     3       Desktopcomputer                Acer       Sl.no:                            1no
+                                                       UXB1JSIY9412598637             DOI:28.12.2018
+                                                       With20”Monitor.M
+                                                       odel:Veriton-
+                                                       IC6705K
+     4       UPS(600VA)                     V-         Sl.no:VV1303528099                 1no
+                                            Guard      Model:SlenderPlus600           DOI:28.12.2018
+
+
+32.Elevator
+     Sl.     Equipme          Make                 Particulars                   Quantity          DOI
+     No      nt
+     1       Elevator                                   Capacity-
+                                                       408Kgs / 5
+                                M/s Infra           PersonsAEmake
+                                                                                   1No           03-12-2016
+                                Elevators           stabilizer, servo,
+                                 Cochin.            Slno.0916/E50
+                                                    897/1Model:EM
+                                                    8-12-3FT-215C
+                                                        Motor-3ø/10kva
+                               VVVF Drive
+                               1 3000GLS                         5.5KW             1No           03.12.2016
+
+                                                    UPSSinglephase ,2KVA           1No           03.12.2016
+                                 VFController         Model: NICE3000              1No           03.12.2016
+

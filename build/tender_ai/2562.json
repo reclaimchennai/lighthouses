@@ -1,0 +1,45 @@
+{
+  "nid": 2562,
+  "title": "Provision of UG rain water collection sump and civil maintenance to the Lighthouse tower, Allied buildings, compound wall at Kodikkarai lighthouse under Chennai Directorate.",
+  "summary": "Construction of an underground rain water collection sump and civil maintenance of the lighthouse tower, allied buildings and compound wall at Kodikkarai Lighthouse, Nagapattinam District.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(13)/1/2020-Civil Maintenance",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kodikkarai lighthouse", "station_id": "kodikkarai-lighthouse", "kind": "lighthouse", "work": "UG rain water collection sump; civil maintenance to lighthouse tower, allied buildings, compound wall"}
+  ],
+  "scope": [
+    {"item": "Provision of UG rain water collection sump", "qty": null, "unit": null, "site": "Kodikkarai lighthouse"},
+    {"item": "Civil maintenance to the Lighthouse tower, Allied buildings, compound wall", "qty": null, "unit": null, "site": "Kodikkarai lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 5242419.0,
+    "emd_inr": 104850.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": null,
+    "notes": "Estimated cost including 18% GST. Percentage rate contract. EMD by DD/FDR in favour of The Director of Lighthouses and Lightships, Chennai, valid 90 days (table says three months) from technical bid opening; EMD exempt for valid MSME/NSIC certificate holders. No tender fee."
+  },
+  "period": {"completion": "06 (Six) months from the date of handing over of site", "bid_validity": "90 days from the date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2026-08-24", "pre_bid": "2026-09-03", "bid_submission_end": "2026-09-10", "bid_opening": "2026-09-11"},
+  "eligibility": [
+    "Valid registration in appropriate category & class with CPWD, State PWD, Railways, MES, BSNL etc or other State/Central Govt/PSU/Autonomous bodies",
+    "Similar works completed in last seven years: three works each >= 40%, or two works each >= 50%, or one work >= 80% of estimated cost; value updated at 7% p.a.; experience certificate from officer not below Executive Engineer",
+    "Similar works: construction of building/compound wall/retaining wall/RCC work, and repairs and civil maintenance of building",
+    "PAN/ITCC/GST registration",
+    "Average annual turnover on construction works (CA certified) at least 40% of estimated cost over last 3 financial years ending 31 March 2026",
+    "Key technical personnel for supervision and execution",
+    "Tender acceptance letter, unconditional bid undertaking, bid security declaration, not-blacklisted affidavit, list of relatives in MoPSW/DGLL, Make in India self-certification"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "KodiakaraiNIT.pdf", "pages": 4, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "NIT dated 21/08/2026; bid download/submission 24/08/26 09:00 to 10/09/26 15:00, EMD up to 10/09/26 15:00, opening 11/09/26 15:00. Document is Section I only (pages 3-6); no BOQ. Hindi text of clause 1.7 refers to roof repair of power house and inspection quarters at Kilakkarai lighthouse station, apparently copied from another tender; the English text names the Kodikkarai work."
+}

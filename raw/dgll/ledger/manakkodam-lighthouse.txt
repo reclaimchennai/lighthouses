@@ -1,0 +1,150 @@
+                              मास्टर लेजर/MASER LEDGER
+क्रमसं         नाम /Name
+ ख्या/                                                           वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.       F 0705
+   2     स्थान/Position           Lat.9° 45.00’ N , long 76° 17.10’ E
+   3     ऊंचाई/Elevation          34M (Above MSL)
+   4     अविलक्षण/Characteristi   Fl (2) W 10 sec
+         c
+  5      नॉविकल माइल मे दू री     16.6NM
+         Range in miles
+  6      दीपस्तं ि                Type                                     Square RCC Tower
+         िािर/L.H.Tower           Height                                   30M
+                                  Colour Scheme                            White
+  7      ऑविकल उपकरण              Optic
+         Optical equipment        Make                                     J Stone &Co. Koltkata.
+                                  Type
+                                  Size                                     300mm (4th order large) Revolving.
+                                  No. of lens                              4
+                                  Area of dioptric portion                 Total corrected area 306 sq.cm.
+                                  Area of catadioptric portion
+                                  Divergence                               7º 38’24” (Horizontal)
+                                  Main/Emergency                           11º 27’14”(Vertical)
+                                  Duration of Flash                        0.64 Sec
+                                  Main /Standby/Emergency
+                                  Pedestal                                 Ball Bearing Type
+                                  Rotation Device                          Stepper motor
+                                  R.P.M.                                   3
+                                  Illumining
+                                  Main                                     Cluster of 3 Nos.230V/150W MH
+                                                                           Lamp
+                                  Standby
+                                  Emergency:
+                                  Date of Installation                     22-11-2006
+  8      प्रिािी बीम              Main                                     2,33,050cds
+         तीव्रता/Effective beam   Emergency
+         intensity
+  9      लें िनन /Lantern         Diameter                                 2.4m
+                                  Height of glazing                        1.38m
+                                  No. of panes                             12
+                                  Ventilators                              8
+ 10      RACON                         Sr. No                                 6295
+         Make
+         NIL
+ 11      NAIS - NIL
+ 12                               Mains                                    440V,3 phase 50Hz.from KSEB.
+         ऊर्ान के साधन/ Source          Power Source                                     DG Set 7.5KVA makekIRLOSKAR
+         of energy                      Engine 1
+                                        Make/Type                       Qt      Rating   No of Cylinder              RPM       Coo
+                                                                        y                                                      ling
+                                        Kirloskar                       1       16       2                           1500      Air
+                                                                                         B
+                                                                                         H
+                                                                                         P
+                                        Alternator
+                                        Make/Type                       Qt      Rating   Voltage/Amp                 Frequ     Pha
+                                                                        y                                            ency      se
+                                        Kirloskar                       1       7.5      240V/31.25                  50Hz      Sing
+                                                                                KVA                                            le
+                                        Solar Plant-5Kw Ongrid
+                                        Capacity PV                     Numbers          Type             Battery              Ban
+                                                                                                                               k
+                                        250W                            20 Nos           Mono             Nil                  --
+                                                                                         Crystalline
+                                        Inverter- Delta 6KVA
+                                        Solar Plant for Main Light
+                                        Capacity PV                     Numbers          Type             Battery              Ban
+                                                                                                                               k
+                                        100 W/12V                       03 Nos.          Mono
+
+    13   स्वचावलत िोल्टे र् स्टे बलाइर्र Automatic Voltage Stabilizers
+
+         Make                     Model       Capacity                  Input            Output                     Phas       Qty
+                                                                                                                    e
+         SUPRA                    --          5KVA                      180-270V         230V                       Singl      1
+                                                                                                                    e          No.
+4        बैिरर Batteries
+         Equipment                Type        Make                       Volt            Amp/Hr           Qty
+         Main Light               Tubul               Amaron             12V             150              4 Nos.
+                                  ar
+         Genset                   Lead        Exide                      12V             100              1No.
+                                  acid
+         Automation               SMF         Exide                      12V             7 AH             2Nos.
+         DGPS
+    15   बैिरर चार्न र/ Battery charger
+
+         Equipment                Make        Model                     Type             Rating           Qty
+         Steppr motor             Trans       ---                       --               30A              1 No.
+         battery                  Electri
+                                  c
+
+    16   इं वर्ट र Inverter /UPS
+         Equipment              N      Make           Model                     Type     Rating                     Qty      Input    Out
+                                os                                                                                                    put
+         Main Light             ---    Su-Kam             SHINY-900              Pure              900VA             3        12V     230
+                                                                                 sine                                                  V
+
+    17   स्वचलन उपकरण Automation Equipment
+         MAKE         PLC            HMI                             Power Supply              VSA     Modem                Band
+                                                                                               T
+     RDS                    Allen Bradley     Renu,         24 V DC               1.2m Hughes                   EX.C
+                                              Electronics                         dia
+                                                                                  Para
+                                                                                  bolic
+                                                                                  reflec
+                                                                                  tor
+18   आवि शमन उपकरण                 Type of Extinguisher                           Capacity            Nos        Mak
+     Fire Fighting Equipment                                                                                     e
+                                   DCP Type                                     2.0/1.0kg              4
+                                   Co2                                          4.5kg                  1
+                                   Foam Type                                    9 Ltr                  2
+19   संचार                         BSNL Telephone No.0478 2562364
+     Communication                 BSNL broad band Internet connection
+20   र्ल पूवतन                     Water supplied from the Kerala Water Authority is collected at sump of capacity
+     Water Supply                  2000 Liters from there it pumped to an overhead tank of capacity 5000Liters
+                                   using 3HP 230V 3 phase motor.
+21   िू वम                         Area                                                   0.6686hectre
+     Land                          Demarcation                                           Masonary compound wall
+22   इमारतें                       RCC Structure: 06 Nos                                 Office cum store room
+     Buildings                                                                           and Power house,
+                                                                                         Inspection Quarters,
+                                                                                         NA I quarters, NA
+                                                                                         quarters-2,
+                                                                                         LHAquarters (Twin
+                                                                                         unit)and Pump house .
+23   कंपाउं ड लाइि                 LED street Light fittings on G.I Pole-11Nos.
+     Compound Lights               LED gate Light fittings – 2 Nos.
+
+24   सीसीिीिी कमे रा               Camera                                                Nil
+      CCTV CAMERA                  DVR                                                   Nil
+25   स्टाफ                         Sl. No                             Designations
+     Staff
+                                   1                                   Navigational Assistant Grade I
+                                   2                                   Navigational Assistant Grade III
+26   पहुँ चने का माध्यम            By rail upto Cherthala Railwat station then 14 km by road upto Lighthouse.
+     Mode of approach
+27   उपलब्ध सुविधाए                Dispensary, High School, Police Station etc.are availablewithin 6km
+     Facilities available          from Lighthouse.Post office at Andhakaranazhi 1 Km from Lighthouse.
+
+28   डाक पताPostal                 Navigational Asst.Grade-I
+     address                       Manakkodam Lighthouse,
+                                   Andhakaranazhi P.O, Alappuzha Ditrict.
+                                   Kerala -688 531.
+29   मू ल्य का ब्योराCost          2.92,000
+     details
+     (At the time of
+     Construction)
+30   प्रितननमे लाने का दे नां क    01.08.1979
+     Date of commissioning
+

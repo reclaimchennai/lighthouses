@@ -1,0 +1,51 @@
+{
+  "nid": 1748,
+  "title": "Provision of Lightning Conductor at Amini Lighthouse",
+  "summary": "Notice inviting sealed quotations for installing a copper-strip lightning conductor and copper plate earthing on the trestle tower of Amini Lighthouse, Lakshadweep, with materials supplied by the department, issued by the Directorate of Lighthouses and Lightships, Cochin.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MS-Coc-37001/1/2019-MS; I/64408/2024",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Cochin"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Amini Lighthouse, P.O. Amini, UT of Lakshadweep, Pin 682552", "station_id": "amini-lighthouse", "kind": "lighthouse", "work": "Provision of lightning conductor and earthing on trestle tower"}
+  ],
+  "scope": [
+    {"item": "Earthing with copper earth plate 600x600x3 mm incl. masonry enclosure, locking cover, 2.7 m watering pipe, charcoal/salt (without materials)", "qty": "1", "unit": "Job", "site": "Amini Lighthouse"},
+    {"item": "Excavation for earth strip laying, removal and refixing of paver blocks, construction of earth pit chamber with materials", "qty": "1", "unit": "Job", "site": "Amini Lighthouse"},
+    {"item": "Double cup-lock scaffolding on exterior up to seven storey height", "qty": "90", "unit": "sqm", "site": "Amini Lighthouse"},
+    {"item": "Labour for annealing copper strip and plate, fabrication of clamps, fabrication of 2 m C-class GI pipe with flange and top cover for air conductor, misc civil works, soldering", "qty": "1", "unit": "Job", "site": "Amini Lighthouse"},
+    {"item": "Fixing 25x6 mm prefabricated copper clamps along trestle tower and copper earth strip with brazing of joints", "qty": "1", "unit": "Job", "site": "Amini Lighthouse"},
+    {"item": "Transportation of all items from Deep Bhavan, Cochin to Amini Lighthouse through courier (materials provided by department)", "qty": "1", "unit": "Job", "site": "Amini Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 112000.0,
+    "emd_inr": 2240.0,
+    "tender_fee_inr": null,
+    "performance_security": "10% of tendered amount as FDR",
+    "notes": "EMD by DD/FDR from any nationalised/RBI approved bank in favour of The Director, Directorate of Lighthouses & Lightships, Cochin, payable at Ernakulam. Small scale industries with valid NSIC/MSME certificate for related stores/service exempt. 100% payment within 30 days of satisfactory completion. Rates to show basic cost and taxes separately; L1 on consolidated total."
+  },
+  "period": {"completion": "90 days from date of supply/work order", "bid_validity": "90 days from date of opening of quotations", "warranty": null},
+  "dates": {"published": "2024-09-20", "pre_bid": null, "bid_submission_end": "2024-10-07", "bid_opening": "2024-10-07"},
+  "eligibility": [
+    "Reputed OEM or their authorized suppliers, licensed electrical contractors, parties or Government undertakings",
+    "Company/service engineers with minimum 3 years experience in relevant field",
+    "Documents: NSIC/MSME certificate or EMD; work experience of equivalent or higher value; last 3 years ITR; PAN; GST registration",
+    "Bidder to obtain Lakshadweep Administration permits for personnel to Amini, Agatti and Kavaratti islands and ship tickets at own cost"
+  ],
+  "specs": [
+    "1.5 m copper air electrode with spikes (heavy duty) on 2 m C-class GI pipe with flange/base plate fixed to top trestle platform with 12 mm GI bolt; zinc primer and 2 coats synthetic enamel",
+    "25 x 6 mm copper strip down-conductor along one main leg of trestle tower with fabricated copper clamps; joints overlapped, brazed and bolted with 2 brass nut-bolts",
+    "25 x 6 mm copper strip in 40 mm GI medium pipe to earth electrode, 0.5 m below ground",
+    "Copper earth plate 600 x 600 x 3 mm with 2.7 m watering pipe, charcoal/coke and salt or backfill compound; ER test of lightning conductor and earthing"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIQLightningConductorAmini20092024.pdf", "pages": 11, "read": "text", "language": "bilingual", "unreadable": ["Hindi text partly garbled; pages 9-11 are photo/clamp drawings with only captions in text layer"]}
+  ],
+  "confidence": "high",
+  "notes": "Dates were hand-amended: NIT download end '04.10.2024' overwritten with '07', submission/opening 07.10.2024; terms clause (i) still reads 03.10.2024 with '07' overprinted. Dates recorded as 07.10.2024 per NIT table and listing. Offline sealed quotation; NIQ downloadable from CPPP e-publish. Near-identical to nid 1742 (Thottappally)."
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "dahanu-lighthouse",
+  "page_count": 5,
+  "title_as_printed": "मास्टर लेजर/MASTER LEDGER — दहानु दीपस्तंभ/ DAHANU LIGHTHOUSE",
+  "sections": [
+    {"no": "1", "title": "A.L.O.L.", "title_hi": "ए.एल.ओ.एल", "page": 1,
+     "fields": [{"label": "A.L.O.L.", "value": "F0491"}], "tables": [], "text": null},
+    {"no": "2", "title": "Position", "title_hi": "स्थान", "page": 1,
+     "fields": [{"label": "Position", "value": "Lat. 19⁰ 58.50’N Long. 72⁰ 43.00’E"}], "tables": [], "text": null},
+    {"no": "3", "title": "Elevation", "title_hi": "ऊंचाई", "page": 1,
+     "fields": [{"label": "Elevation", "value": "13 m"}], "tables": [], "text": "Hindi label printed in red."},
+    {"no": "4", "title": "Characteristic", "title_hi": "अभिलक्षण", "page": 1,
+     "fields": [{"label": "Characteristic", "value": "fl W 05 Sec. (Fl 0.3 )"}], "tables": [], "text": null},
+    {"no": "5", "title": "Range in miles", "title_hi": "नॉटिकलमाइलमेदूरी", "page": 1,
+     "fields": [{"label": "Range in miles", "value": "10Miles"}], "tables": [], "text": null},
+    {"no": "6", "title": "L.H.Tower", "title_hi": "दीपस्तंभटावर", "page": 1,
+     "fields": [
+       {"label": "Type", "value": "Metal Frame Work Tower"},
+       {"label": "Height", "value": "12 m"},
+       {"label": "Colour Scheme", "value": ""}
+     ], "tables": [], "text": null},
+    {"no": "7", "title": "Optical equipment", "title_hi": "ऑप्टिकलउपकरण", "page": 1,
+     "fields": [
+       {"label": "Optic", "value": "Model-SL155-10D with GSM Monitoring System"},
+       {"label": "Make", "value": "Sealite"},
+       {"label": "Type", "value": "LED Flasher"},
+       {"label": "Size", "value": "171mm"},
+       {"label": "No. of lens", "value": ""},
+       {"label": "Area of dioptric portion", "value": ""},
+       {"label": "Area of catadioptric portion", "value": ""},
+       {"label": "Divergence Main/Emergency", "value": "Horizontal 360º Vertical 10º"},
+       {"label": "Duration of Flash Main /Standby/Emergency", "value": ""},
+       {"label": "Lamp changer", "value": ""},
+       {"label": "Pedestal", "value": "GI pipe stand"},
+       {"label": "Rotation Device", "value": "WhiteFlashing Light"},
+       {"label": "R.P.M.", "value": "NA"},
+       {"label": "illumining", "value": "Multi white LED Light total 60.4W"},
+       {"label": "Main", "value": ""},
+       {"label": "Standby / Auxiliary", "value": ""},
+       {"label": "Emergency:", "value": ""},
+       {"label": "Date of Installation", "value": ""}
+     ], "tables": [], "text": "\"with GSM Monitoring System\", Type, Size, Divergence and illumining values printed in red."},
+    {"no": "8", "title": "Effective beam intensity", "title_hi": "प्रभावीबीमतीव्रता", "page": 1,
+     "fields": [
+       {"label": "Main & Standby", "value": "3910 cd"},
+       {"label": "Emergency", "value": ""}
+     ], "tables": [], "text": "Number and Main & Standby on page 1 (value in red); label and Emergency on page 2."},
+    {"no": "9", "title": "Lantern", "title_hi": "लेंटर्न", "page": 2,
+     "fields": [
+       {"label": "Diameter", "value": ""},
+       {"label": "Height of glazing", "value": ""},
+       {"label": "No. of panes", "value": ""},
+       {"label": "Ventilators", "value": ""}
+     ], "tables": [], "text": null},
+    {"no": "10", "title": "RACON - NA-", "title_hi": null, "page": 2,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Make", "Model", "Code", "Band", "Date of Installation"],
+        "rows": [["-", "-", "-", "-", "-"]]}
+     ], "text": null},
+    {"no": "11", "title": "NAIS", "title_hi": null, "page": 2,
+     "fields": [{"label": "Base Station", "value": ""}],
+     "tables": [
+       {"caption": "Base Station", "columns": ["Model", "Type", "Power", "MMSI", ""],
+        "rows": [["", "", "", "", ""], ["Communication Equipment", "", "", "", ""], ["VSAT Antenna Prodelin 2.4 meter", "", "", "", ""], ["DGPS", "-NA-", "-", "-", "-"]]},
+       {"caption": "DGPS", "columns": ["Trasmitter Make", "Frequency", "Power Output", "RS 1 ID", "RS -II ID", "Beacon ID", "Date of commissioning", "Date of Recapitalization"],
+        "rows": [["-", "-", "-", "-", "-", "-", "-", "-"], ["-", "-", "-", "", "-", "", "-", ""]]}
+     ], "text": "Second DGPS row has merged cells, each showing \"-\"."},
+    {"no": "12", "title": "Source of energy", "title_hi": "ऊर्जाकेसाधन", "page": 2,
+     "fields": [
+       {"label": "Mains", "value": ""},
+       {"label": "Standby", "value": ""},
+       {"label": "Solar Plant", "value": "Solar panels."},
+       {"label": "Solar Plant for Main Light", "value": ""}
+     ],
+     "tables": [
+       {"caption": "Engine 1", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"],
+        "rows": [["", "", "", "", "", ""]]},
+       {"caption": "Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"],
+        "rows": [["", "", "", "", "", ""]]},
+       {"caption": "Engine 2", "columns": ["Make/Type", "Qty", "Rating", "No of Cylinder", "RPM", "Cooling"],
+        "rows": [["-", "-", "-", "-", "-", "-"]]},
+       {"caption": "Alternator", "columns": ["Make/Type", "Qty", "Rating", "Voltage/Amp", "Frequency", "Phase"],
+        "rows": [["-", "-", "-", "-", "-", "-"]]},
+       {"caption": "Solar Plant", "columns": ["Capacity PV", "Numbers", "Type", "Battery", "Bank"],
+        "rows": [["30 W Mx Power Solar", "02", "Mono Crystline", "12V/100AH EXIDE", "01"]]},
+       {"caption": "Solar Plant for Main Light", "columns": ["Capacity PV", "Numbers", "Type", "Battery", "Bank"],
+        "rows": [["", "", "", "", "-"]]}
+     ], "text": "Solar Plant row values printed in red. Solar Plant for Main Light table is on page 3."},
+    {"no": "13", "title": "Automatic Voltage Stabilizers", "title_hi": "स्वचालितवोल्टेजस्टेबलाइजर", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Make", "Model", "Capacity", "Input", "Output", "Phase", "Qty"],
+        "rows": [["", "", "", "", "", "", ""]]}
+     ], "text": null},
+    {"no": "14", "title": "Batteries", "title_hi": "बैटरि", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equpment", "Type", "Make", "Volt", "Amp/Hr", "Qty", ""],
+        "rows": [
+          ["PSS NAIS Main Light", "Main Light", "SMF Exide", "12V 100AH", "", "01 Nos", ""],
+          ["Genset", "", "", "", "", "", ""],
+          ["Automation", "", "", "", "", "", ""],
+          ["DGPS", "-", "-", "-", "-", "-", ""]
+        ]}
+     ], "text": null},
+    {"no": "15", "title": "Battery charger", "title_hi": "बैटरिचार्जर", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Make", "Model", "Type", "Rating", "Qty", ""],
+        "rows": [
+          ["", "", "", "", "", "", ""],
+          ["Automation", "", "", "", "", "", "-"]
+        ]}
+     ], "text": null},
+    {"no": "16", "title": "Inverter /UPS", "title_hi": "इंवर्टर", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Equipment", "Nos", "Make", "Model", "Type", "Rating", "Qty", "input", "output"],
+        "rows": [
+          ["Main Light", "", "", "", "", "", "", "", ""],
+          ["NAIS PSS", "", "", "", "", "", "", "", ""],
+          ["DGPS", "", "", "", "", "", "", "", ""]
+        ]}
+     ], "text": null},
+    {"no": "17", "title": "Automation Equipment", "title_hi": "स्वचलनउपकरण", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["MAKE", "PLC", "HMI", "Power Supply", "VSAT", "Modem", "Band"],
+        "rows": [["", "", "", "", "", "", ""]]}
+     ], "text": null},
+    {"no": "18", "title": "Fire Fighting Equipment", "title_hi": "आग्निशमनउपकरण", "page": 3,
+     "fields": [],
+     "tables": [
+       {"caption": null, "columns": ["Type of Extinguisher", "Capacity", "Nos", "Make"],
+        "rows": [["DCP", "", "", ""], ["DCP", "", "", ""], ["Foam", "", "", ""], ["Co2", "", "", ""], ["Fire bucket", "", "", ""], ["", "", "", ""], ["", "", "", ""]]}
+     ], "text": null},
+    {"no": "19", "title": "Communication", "title_hi": "संचार", "page": 4,
+     "fields": [{"label": "Communication", "value": "NA"}], "tables": [], "text": null},
+    {"no": "20", "title": "Water Supply", "title_hi": "जलपूर्ति", "page": 4,
+     "fields": [{"label": "Water Supply", "value": ""}], "tables": [], "text": null},
+    {"no": "21", "title": "Land", "title_hi": "भूमि", "page": 4,
+     "fields": [{"label": "", "value": ""}, {"label": "", "value": ""}], "tables": [], "text": null},
+    {"no": "22", "title": "Buildings", "title_hi": "इमारतें", "page": 4,
+     "fields": [{"label": "", "value": ""}], "tables": [], "text": null},
+    {"no": "23", "title": "Compound Lights", "title_hi": "कंपाउंडलाइट", "page": 4,
+     "fields": [{"label": "", "value": ""}], "tables": [], "text": null},
+    {"no": "24", "title": "CCTV CAMERA", "title_hi": "सीसीटीवीकमेरा", "page": 4,
+     "fields": [{"label": "", "value": ""}, {"label": "", "value": ""}], "tables": [], "text": null},
+    {"no": "25", "title": "Staff", "title_hi": "स्टाफ", "page": 4,
+     "fields": [{"label": "Staff", "value": "Unmanned Lighthouse"}], "tables": [], "text": null},
+    {"no": "26", "title": "Mode of approach", "title_hi": "पहुँचनेकामाध्यम", "page": 4,
+     "fields": [{"label": "Mode of approach", "value": "Dahanu Lighthouse is located in Dahanu village in Palghar District, Maharashtra in Western India. Dahanu Lighthouse is approachable from Dahanu railway station which is approximately 6 Kms"}], "tables": [], "text": null},
+    {"no": "27", "title": "Facilities available", "title_hi": "उपलब्धसुविधाए", "page": 4,
+     "fields": [{"label": "", "value": ""}, {"label": "", "value": ""}, {"label": "", "value": ""}, {"label": "", "value": ""}], "tables": [], "text": null},
+    {"no": "28", "title": "Postal address", "title_hi": "डाकपता", "page": 4,
+     "fields": [{"label": "Postal address", "value": "Dahanu Lighthouse At/ P.O. Dahanu, Tal/Dahanu, Dist. Palghar , Pin – 401602."}], "tables": [], "text": null},
+    {"no": "29", "title": "Cost details (At the time of Construction)", "title_hi": "मूल्यकाब्योरा", "page": 4,
+     "fields": [{"label": "Cost details", "value": ""}], "tables": [], "text": null},
+    {"no": "30", "title": "Date of commissioning", "title_hi": "प्रवर्तनमेलानेकादेनांक", "page": 4,
+     "fields": [{"label": "Date of Installation of New LED Flashing Light", "value": "29.10.2020"}], "tables": [], "text": null},
+    {"no": null, "title": "Blank page", "title_hi": null, "page": 5,
+     "fields": [], "tables": [], "text": "[blank page]"}
+  ],
+  "unreadable": []
+}

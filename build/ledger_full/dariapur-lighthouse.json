@@ -1,0 +1,97 @@
+{
+  "slug": "dariapur-lighthouse",
+  "page_count": 4,
+  "title_as_printed": "DARIAPUR LIGHTHOUSE MASTER LEDGER",
+  "sections": [
+    {"no": null, "title": "Header", "title_hi": null, "page": 1, "fields": [], "tables": [], "text": "DARIAPUR LIGHTHOUSE MASTER LEDGER [photo: lighthouse tower with black and white bands and approach path]"},
+    {"no": "1.", "title": "Name", "title_hi": null, "page": 1, "fields": [{"label": "Name", "value": "Dariapur Lighthouse"}], "tables": [], "text": null},
+    {"no": "2.", "title": "Sl. No. (in A.L.0.L)", "title_hi": null, "page": 1, "fields": [{"label": "Sl. No. (in A.L.0.L)", "value": "F 1029"}], "tables": [], "text": null},
+    {"no": "3.", "title": "Position", "title_hi": null, "page": 1, "fields": [{"label": "Position", "value": "Lat 21⁰ 47 24” N Long 87⁰51 54” E"}], "tables": [], "text": null},
+    {"no": "4.", "title": "Elevation of ground", "title_hi": null, "page": 1, "fields": [{"label": "Elevation of ground", "value": "4 m"}], "tables": [], "text": null},
+    {"no": "5.", "title": "Elevation of tower", "title_hi": null, "page": 1, "fields": [{"label": "Elevation of tower", "value": "22 m"}], "tables": [], "text": null},
+    {"no": "6.", "title": "Character of light", "title_hi": null, "page": 1, "fields": [{"label": "Character of light", "value": "Flash 2 (W) 20 Sec"}], "tables": [], "text": null},
+    {"no": "7.", "title": "Range in nautical miles", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Luminous", "value": "19 NM"},
+      {"label": "ii) Geographical", "value": "15.5 NM"}
+    ], "tables": [], "text": null},
+    {"no": "8.", "title": "Lighthouse Tower", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Type", "value": "Circular Masonry Tower"},
+      {"label": "ii) Height", "value": "26 m"},
+      {"label": "iii) Color Scheme", "value": "Black & White Bands"}
+    ], "tables": [], "text": null},
+    {"no": "9.", "title": "Optical Equipment", "title_hi": null, "page": 1, "fields": [
+      {"label": "i.) Make", "value": "Chance Brothers, UK"},
+      {"label": "ii.) Size", "value": "250 mm ( 4th Order) revolving"},
+      {"label": "iii.) No. of Panels", "value": "4 Nos."},
+      {"label": "iv.) Focal Length", "value": "250 mm"},
+      {"label": "v.) RPM", "value": "1.5"},
+      {"label": "vi.) Duration of flash", "value": "0.25 Sec"},
+      {"label": "vii.) Illuminant", "value": "70 W 230 V Metal Halide Lamp"},
+      {"label": "viii.) Divergence", "value": "2.28 (Horiz.) & 4.56 (Vert.)"},
+      {"label": "ix.) Luminous intensity", "value": "85,000 cd"}
+    ], "tables": [], "text": null},
+    {"no": "10.", "title": "Lantern", "title_hi": null, "page": 1, "fields": [
+      {"label": "i.) Diameter", "value": "2 m"},
+      {"label": "ii.) Height of Glazing", "value": "8 m"},
+      {"label": "iii.) No. of glass panes", "value": "8 Nos."},
+      {"label": "v.) No. of ventilators", "value": "7 Nos."}
+    ], "tables": [], "text": null},
+    {"no": "11.", "title": "Pedestal", "title_hi": null, "page": 1, "fields": [{"label": "Pedestal", "value": "Mercury Float (20 kg in use)."}], "tables": [], "text": null},
+    {"no": "12.", "title": "Power Supply", "title_hi": null, "page": 1, "fields": [
+      {"label": "i) Mains", "value": ":3 Phase, 440 V, 50Hz Mains supply from WBPDCL"},
+      {"label": "ii) Solar", "value": ""},
+      {"label": "iii) Standby", "value": "Gensets (02 Nos.)"}
+    ], "tables": [
+      {"caption": "ii) Solar", "columns": ["Sl. No.", "Types of Solar Power", "Capacity", "No. of Panels", "Inverter"], "rows": [["l", "OFF GRID", "2 kWp", "8 (each 250W 24V)", "2KVA, Make : Genus"]]},
+      {"caption": "K Details of Engine", "columns": ["Sl. No.", "Engine Sl. No.", "Make", "BHP", "No. of Cylinder", "RPM", "Cooling", "Date of Installation"], "rows": [
+        ["1", "02.8301/1620262", "Kirloskar", "20.5", "02", "1500", "Air Cooling", "12.11.2016"],
+        ["2", "02.8301/1620289", "Kirloskar", "20.5", "02", "1500", "Air Cooling", "12.11.2016"]
+      ]},
+      {"caption": "B. Details ofAlternator", "columns": ["Sl. No.", "Alternator SI. No.", "Make", "KVA", "Voltage", "Current (Amp)", "Freq. (Hz)", "Phase", "RPM"], "rows": [
+        ["1", "CS1B016E2816-H", "Kirloskar", "15", "230", "62.5", "50", "Single", "1500"],
+        ["2", "CS1B0l6E2810-H", "Kirloskar", "15", "230", "62.5", "50", "Single", "1500"]
+      ]}
+    ], "text": null},
+    {"no": "13", "title": "Other Equipments", "title_hi": null, "page": 2, "fields": [
+      {"label": "i) Battery Charger", "value": ": 1 No Volta Make 0-50 Amp installed in Power House on 14.03.2004 and 1 No. Signoflex Make 0-10 Amp installed in Service Roomon 19.02.2016."}
+    ], "tables": [
+      {"caption": "ii) Stabilizer", "columns": ["Sr No", "Input voltage", "Output Voltage", "KVA", "Make", "Freq.", "Phase", "Date of Installation"], "rows": [["l", "180-260 V AC", "230 V AC", "15", "Delta Electric Corp.", "50Hz", "Single", "22.07.2007"]]},
+      {"caption": "iii) inverter", "columns": ["Sr. No.", "Particulars", "Qty", "Date of Installation", "Purpose"], "rows": [["1", "1.4 KVA, 24V DC (input), 230V AC (output), Sukam make", "1 No.", "03.03.2013", "For Light beacon"]]}
+    ], "text": null},
+    {"no": "14.", "title": "Remote Monitoring and Control System", "title_hi": null, "page": 2, "fields": [
+      {"label": "i) Main Panel", "value": "1 No. installed at power house."},
+      {"label": "ii) Remote Panel", "value": "l No. installed at service room."},
+      {"label": "iii) UPS", "value": "l No. l KVA, APC make placed inside main Panel."},
+      {"label": "iv) Communication", "value": "VSAT"},
+      {"label": "v) VSAT", "value": "1 No. installed on roof top of power house."},
+      {"label": "vi) Modem", "value": "I No. placed inside main Panel."}
+    ], "tables": [], "text": "All equipment's are remotely monitored by RCS and MCS both at Deep Bhavan, Kolkata."},
+    {"no": "15.", "title": "Fire Extinguisher", "title_hi": null, "page": 2, "fields": [], "tables": [
+      {"caption": null, "columns": ["Sl. No.", "Type", "Capacity", "Qty", "Place of Installation"], "rows": [
+        ["1", "Water CO2", "9 Litr", "2 Nos.", "One at office and one at store room."],
+        ["2", "Foam", "9 Litr", "3 Nos.", "Placed at power house, store room and office."],
+        ["3", "DCP", "5 KG", "2 Nos.", "One at service room and one at power room."],
+        ["4", "ABC", "5 KG", "1 No.", "Placed at Power House"],
+        ["5", "Fire Buckets", "10 Litr", "4 Nos.", "Varandah of power house"]
+      ]}
+    ], "text": null},
+    {"no": "16.", "title": "Racon", "title_hi": null, "page": 3, "fields": [{"label": "Racon", "value": "Code “G”, dual band (X + S), Sameer make, Sl. No. 7922, installed on 09.03.2008"}], "tables": [], "text": null},
+    {"no": "17.", "title": "Water Supply", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "Crompton Greaves Make l HP Submersible Pump installed on 19.03.12 fitted to bore well is used to pump water to Over head Tank for supply water to technical Buildings and Quarters"},
+    {"no": "18.", "title": "Land", "title_hi": null, "page": 3, "fields": [
+      {"label": "i.) Area", "value": "2.4 Acre"},
+      {"label": "ii.) Demarcation", "value": "Compound Wall"},
+      {"label": "iii.) No. of Fruit Bearing Trees", "value": "66"},
+      {"label": "iv.) No. of Non-fruit Bearing Trees", "value": "25"}
+    ], "tables": [], "text": null},
+    {"no": "19.", "title": "Buildings", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "i) 1 No Power House Cum Office cum Store\nii) 1 No Inspection Qtr,\niii) 1 No HLK Qtr,\niv) 1 No. Twine NA- II Qtr\nv) l No. Twine LHA Qtr\nvi) 1 No. Pump House\nvii) I No. Meter room"},
+    {"no": "20.", "title": "Contact details", "title_hi": null, "page": 3, "fields": [
+      {"label": "l) Office Mobile No.", "value": "8944065616"},
+      {"label": "2) Office E-mail", "value": "hlkdplh@vahoo.in"},
+      {"label": "3) Postal Address", "value": "Dariapur Lighthouse, P.O Dariapur Dist. East Midnapur, PIN- 721 442"}
+    ], "tables": [], "text": null},
+    {"no": "21.", "title": "Mode ofApproach", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "The station is well connected by all weather road. The nearest Railway Station is Contai which is approx. 24 Km from Dariapur Lighthouse and nearest Airport is Kolkata which is approx. 200 km from Lighthouse."},
+    {"no": "22.", "title": "Facilities Available", "title_hi": null, "page": 3, "fields": [], "tables": [], "text": "Branch Post Office, High School, Hospital and Police Station all are within 22 km from Lighthouse."},
+    {"no": null, "title": "Page 4", "title_hi": null, "page": 4, "fields": [], "tables": [], "text": "[blank page; footer \"4 | Page\" only]"}
+  ],
+  "unreadable": []
+}

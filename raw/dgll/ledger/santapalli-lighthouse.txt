@@ -1,0 +1,195 @@
+                        Santapalli Lighthouse
+                             Estd.1840
+                             MASTER LEDGER
+
+1. Name                      : SANTAPALLI LIGHTHOUSE
+     Sr.No.
+2.                           : 0980
+     (as per A.L.O.L)
+                               Lat: 18o 03.9' N
+3. Position                  :
+                               Long: 83o 38.4' E
+4. Elevation                 : 43 Mtr
+                               FL (2) White, every 10 Seconds
+5. Characteristic
+                               (Fl 0.2 ec2.3 Fl0.2 ec7)
+
+6. Range in nautical miles
+     i) Luminous             : 23 NM
+    ii) Geographical         : 18 NM
+7. Lighthouse Tower
+     i) Type                 : Circular masonry Tower
+     ii) Height              : 22 Mtr
+   iii) Colour Scheme        : Black and White bands
+8. Optical Equipment
+a) i) Make                   : M/s Chance Brothers
+     ii) Size                : 500 mm 3 rd Order Large Revolving
+     iii) Focal distance     : 500 mm
+      iv) No. of Panels      : 2 Nos.
+      v) Area of dioptric
+                             : Total corrected area 11080 sq cm.
+          portion
+      vi) Area of
+          catadioptric       : Total corrected area 11080 sq cm
+          portion
+     vii) Divergence
+           Main              : Horizontal. 60 45 6', Vertical 60 18.6'
+          Standby              : NIL
+          Emergency            : NIL
+     viii) Duration of flash
+           Main/ Standby       : 0.20 seconds
+          Emergency            : ---
+
+
+
+b) Pedestal                    : Mercury Float 91 kg. in use.
+                                 Cast iron Pedestal
+
+                                 Twin Stepper motor Direct Drive system.
+c) Rotation Device             :
+                                 i)Stepper motor :2 No 40Kg-cm (unique make)
+                                 ii) Controller: 2No 40Kg-Cm (unique make)
+d) Rotation Speed              : 6 RPM
+e) Illuminant
+     i) Main/Service           : 150 W Metal Halide Lamp- 3 Nos. (Cluster)
+     ii) Standby               : Nil
+      iii) Emergency        : Nil
+f)   Effective Beam Intensity
+     i) Main/Service           : 9,39,600 cds.
+     ii) Standby               : N/A
+    iii) Emergency             : N/A
+9. Lantern
+     i) Diameter               : 3.65 Mtr
+     ii) Height of glazing     : 1 Mtr
+     iii) No. of panes         : 32 Nos.
+                                   (12 panes blanked on Landside)
+     iv) Ventilators           : 12 Nos.
+
+10. Main light UPS             : 4 Nos. in use. 0No. spare
+     Make                      : UTL
+       Capacity                : 800 VA
+       Input                   : 12V DC
+       Output                : 230V AC
+       Model Number          : UTL combo
+
+
+11. Energy Source
+       A) APEPDCL Mains      : 3phase 440V 50HZ AC
+       B) Green Energy       : 3KW off grid solar power plant for main light.
+          i) Solar panels    : 12 No 24V/250W( Vikram make)
+          ii) Battery Bank   : 12 No 12V /150Ah (Exide SMF)
+          iii) PCU           : HBL Make 3KVA /48V PCU
+
+12. Diesel Engine Generators
+      Make                : Kirloskar
+       Model                 : KG 15AS4 (Canopy)
+       Rating                : 15KVA
+       Frequency             : 50 HZ
+       Phase                 : single phase
+        RPM                 : 1500
+      Alternator Frame no : KG184B
+      Engine Sr no        : 02.2129/1320143
+
+      Automatic Voltage
+13.                          : 1 No.
+      Stabilizers
+        Make                 : supra- hitech
+       Model                 : SH-390
+       Capacity              : 09 KVA, 3phase.
+       Input                 : 330-470V
+       Output                : 400 ± 1% V
+
+
+14. AMF Panel
+     Capacity                : 15 KVA, 3 phase 25A.
+       Make                  : Elect India
+       Model                 : EMF15KM3G1-ICFTDM02
+15. NAIS Equipment
+    i) Make                : M/s SAAB
+    ii) AIS R40 Base
+                           : S/No.5322
+         Station
+    iii) AIS R40 Base
+                           : S/No 5278
+         Station
+                             (Connected with Cisco switch and PSM-500L
+                             Satilite modem.)
+    iv) V- SAT Dish Size   : 2.4 Mtr.
+    v) VHF Antenna         : 2 Nos.
+    vi) GPS Antenna        : 2 Nos.
+    vii) Date of
+         Commissioning     : 20/12/2011
+
+
+16. Automation of Lighthouse.
+    i) Make               : M/s Recktronic Devices & Systems, Pune.
+     ii) RDS Panel             : 1No in power house.( s.no.1761)
+     iii) RDS Panel            : 1No Service room.( s.no.1740)
+     iv) V-SAT Dish Size       : 1.2 Mtr
+     v) Date of
+         commissioning         : 21/02/2013
+                                 6 Nos. R.C.C Poles with 25W LED Light,
+17. Street Lights              :
+                                 2 Nos. Gate lights
+18. Firefighting equipment
+    Fire Extinguishers
+     i) D.C.P. type (3.2kg
+                           :     1 No.
+        Capacity)
+     ii) Foam type (4.5
+                           :     2 Nos.
+          litres capacity)
+     iii) Fire Buckets     :     4 Nos.
+    Communication                Mobile No. 9367411378 NA-II
+19.                        :
+    Facility                     e-mail :- santapallelh@gmail.com
+
+                                 i) Bore well with Submersible pump 1HP, single
+20. Water Supply           :
+                                   phase (Kirloskar)
+                                      ii) Sintex Tank - 4 Nos.
+                                          Capacity : 1KL lit. 2nos. 0.5KL-2nos
+21. Land
+      i) Area                   : 11.56 Acres
+      ii) Demarcation           : Masonry Compound wall
+      iii) No. of fruit trees   : 350 Nos.
+      iv) No.of non fruit
+                                : 35 Nos.
+            bearing Trees
+                                     Inspection quarters, NA-I quarter, NA-II quarter,
+22. Buildings                   :
+                                     Power house, LHA quarter, LHS quarter.
+
+23. Staff                       :     i) NA-I - 1 No, NA-II - 1 No, LHS - 1 No,
+
+                                  By road from Visakhapatnam to Pusapati Raga
+24. Mode of approach            : approx. 60km, then by road Santapalli 15 km then
+                                  by walk 1km to lighthouse.
+
+25. Facilities available        : a) Post Office within 3 km (Chintapalli)
+                                     b) Govt. Hospital within 20 km (Pusapati Raga)
+                                     c) Govt. School within 7 km (Govindapuram)
+                                     d) Nationalized Bank with 35 km(Vizayanagaram)
+
+26. Postal Address              : The Navigational Assistant Gr-I,
+                                     Santapalli Lighthouse,
+                                     Chintapalli post, Via. Pusapati Raga,
+                                     Dist. Vizayanagaram
+                                     Andhra Pradesh, Pin: 535 204.
+27.   Cost Details
+
+       i) Construction              : Not available
+       ii) Cost of equipment : Not available
+
+
+      Year of first Light
+28.                                 : 1840
+      Commissioned
+      Date of
+29.                   : 1903
+      Commissioning
+
+      Subsequent
+30.                   : 1849, 1903, 1995, 2004
+      Innovation
+

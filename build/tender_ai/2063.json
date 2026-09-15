@@ -1,0 +1,38 @@
+{
+  "nid": 2063,
+  "title": "Procurement of Glasspanes, Replacement of Glasspanes at Kodiakkarai Lighthouse station under Chennai directorate",
+  "summary": "E-tender (two-cover) for procurement and replacement of lantern glass panes at Kodiakkarai (Kodikkarai) Lighthouse, Tamil Nadu (Chennai Directorate).",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": null,
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Kodiakkarai Lighthouse station", "station_id": "kodikkarai-lighthouse", "kind": "lighthouse", "work": "Procurement and replacement of glass panes"}
+  ],
+  "scope": [
+    {"item": "Procurement of Glasspanes, Replacement of Glasspanes", "qty": null, "unit": null, "site": "Kodiakkarai Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 444338.0,
+    "emd_inr": 8886.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "EMD as FDR (original)/DD from any nationalised/RBI-approved bank in favour of Director, Directorate of Lighthouses and Lightships, Chennai, payable at Chennai; to reach Tender Inviting Authority by end of bid submission. Bid document to be signed on all pages and submitted with technical bid."
+  },
+  "period": {"completion": "90 days", "bid_validity": "180 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": "2025-10-13", "pre_bid": "2025-10-24", "bid_submission_end": "2025-10-31", "bid_opening": "2025-11-03"},
+  "eligibility": [
+    "Bonafide fabricators, registered contractors of State/Central/PSUs (Hindi version also mentions genuine manufacturers)"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "Tendernotice_1 (4).pdf", "pages": 2, "read": "mixed", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Two-page extract: page 1 is scanned Section I NIT (printed page 3); page 2 carries only a CPPP digital-signature stamp dated 08.10.2025 (signer name not transcribed). No file number, BOQ, quantity or size of glass panes. Download and bid submission 13.10.2025 to 31.10.2025 15:00; pre-bid 24.10.2025 15:00; technical bid opening 03.11.2025 11:00. Published date taken as start of download period. Official e-mail dlhlschennai@gmail.com printed."
+}

@@ -1,0 +1,202 @@
+                      मास्टर लेजर/MASTER LEDGER
+क्रमसं             नाम /Name
+ ख्या/                                                           वििरण/Description
+Sr.No
+   1     ए.एल.ओ.एल/A.L.O.L.              F 0758
+   2     स्थान/Position                  Lat. 08o 16.0´ N, long 73o 01.6´ E
+   3     ऊंचाई/Elevation                 89M (Above MSL)
+   4     अविलक्षण/Characteristic         Fl (1) W 15 sec (0.66 + 14.34)
+
+  5      नॉविकल माइल मे दू री            Luminous: 27.3 Nm
+         Range in miles                  Geographical: 18.95 Nm
+  6      दीपस्तं ि िािर/L.H.Tower        Type                             Tapering circular brick masonry
+                                                                          Tower
+                                         Height                           48m (up to lantern top)
+                                         Colour Scheme                    Red and White Band
+  7      ऑविकल उपकरण                     Optic
+         Optical equipment               Make                             B.B.T, Paris
+                                         Type
+                                         Size                             920mm (1ST Order) Revolving
+                                         No. of lens                      3 nos. at 120o each
+                                         Area of dioptric portion         36167 Sq. cm
+                                         Area of catadioptricportion            -
+                                         Divergence                       2° 29´24˝ (Horizontal)
+                                         Main/Emergency                   4° 40´ 07˝ (Vertical)
+
+
+                                         Duration of Flash                0.66 Sec
+                                         Main /Standby/Emergency
+                                         Pedestal                         Mercury float
+                                         Rotation Device                  Stepper motor
+                                         R.P.M.                           4/3 RPM
+                                         Illumining
+                                         Main                             230V/150W 4nos. Metal Halide
+                                                                          Lamps
+
+                                         Standby                          N/A
+                                         Emergency:                       N/A
+                                         Date of Installation             01.05.1995(Conversion of
+                                                                          incandescent equipment to MH
+                                                                          Lamp (cluster of 4) and
+                                                                          commission date)
+  8      प्रिािी बीम तीव्रता/Effective   Main                             3,32,15,773 cds
+         beam intensity                  Emergency                        N/A
+  9      लें िनन /Lantern                Diameter                         3.75 m
+                                         Height of glazing                2.80m
+                                         No. of panes                     36
+                                         Ventilators                      11
+10   RACON                          Sr. No                        6295
+     Make               Mode    Code                            Band                   Date of
+                        l                                                              Installation
+     TideLand             --            G                       X+S                    26-04-2010
+11   NAIS
+     Base Station                  2 Nos-AIS1 & AIS2
+
+
+     Model              Type    Power                           MMSI
+     R40                Class   AC-230V & DC-12V                         -
+                        A
+     Communication
+     Equipment
+     VSAT Antenna       Band    Modem
+       2.4m dia         X-C     HUGHES HT2300
+       Parabolic
+       reflector
+     DGPS
+     Transmitter Make   Frequ   Power Output     RS 1 ID        RS -II       Beac Date    Date
+                        ency                                    ID           on IDof      of
+                                                                                  com     Reca
+                                                                                  missi pitaliz
+                                                                                  oning ation
+     Nautel             306     500 Watts        418            419       109     01-     23-
+                        KHz                                                       06-     03-
+                                                                                  1998    2018
+12   ऊर्ान के साधन/     Mains                                   440 V, 3ø, 50 Hz, AC Supplyfom
+     Source of energy                                           Lakshadweep Electricity
+                                                                Department
+                        Power Source                            DG Set 25 KVA
+                        Engine 1
+                        Make/Type            Qty       Rating   No of        RPM           Cooling
+                                                                Cylind
+                                                                er
+                        Eicher               1         46BHP    3            1500          Air
+                        Alternator
+                        Make/Type            Qty       Rating   Voltag       Frequenc      Phase
+                                                                e/Amp        y
+                        Stamford             1         25 KVA   240V/1       50Hz          Single
+                                                                08.7A
+                        Engine 2
+                        Make/Type            Qty       Rating   No of        RPM           Cooling
+                                                                Cylind
+                                                                er
+                        Eicher               1         46BHP    3            1500          Air
+                        Alternator
+                        Make/Type            Qty       Rating   Voltag       Frequenc      Phase
+                                                                e/Amp        y
+                        Stamford             1         25 KVA   240V/1       50Hz          Single
+                                                                08.7A
+                        Solar Planel for Main RACON: TATA
+                        BP make
+                        Capacity PV           Numbers           Type         Battery       Bank
+                                                    01 No.             ExideS    01 Nos          01 No.
+                                                                       ealed     12V/100A
+                                                                                 H
+13   स्वचावलत िोल्टे र् स्टे बलाइर्र
+     Automatic Voltage Stabilizers
+
+     Make                 Model     Capacity          Input              Output       Phase      Qty
+     Servo voltage        Servo     15KVA             170-270V           230V         Single     3
+     stabilizer           max
+14   बैिरर/ Batteries
+        Sr. No            Usage              Nos.             Type        Make        Volts       Capacity
+          1.         Main Lamp-1            1 No.          Lead acid     Amaron       12V          150AH
+          2.         Main Lamp-2            1 No.          Lead  acid    Amaron       12V          150AH
+          3.         Main Lamp-3            1 No.          Lead acid     Amaron       12V          150AH
+          4.         Main Lamp-4            1 No.          Lead acid     Amaron       12V          150AH
+          5.         Stepper Motor          1 No.          Lead acid     Amaron       12V          150AH
+          6.         NAIS-1                2 Nos.          Lead acid     Amaron       12V          150AH
+          7.         RACON                  1 No.            Sealed       Exide       12V          100AH
+                     DGPS
+          8.                              16 Nos.            Sealed       Exide       12V          42AH
+                     Transmitter
+          9.         DGPS Rack             6 Nos.            Sealed       Exide       12V          42AH
+15   बैिरर चार्न र/ Battery charger
+             Sr. No                 Make                     Volts         Capacity( Amps)         Qty.
+                1         Ruston &Honby (l) Ltd             0-25 V              55.2              1 No.
+                          Delta             Electric
+                2                                           0-30V                15               1 No.
+                          Corporation
+                3         Premjee Electronic                0-15V                10               1 No.
+                4         RENSAN                            0-12V                 5               1 No.
+                5         Automatic Electric Ltd.           0-24V                25               1 No.
+16   इं वर्ट र Inverter /UPS
+                Sr. No             Make          Input Volts      Output Volts     Capacity       Used for
+                                                                                                  Main
+              1.               Su-Kam        170-230VAC            230V            1 KVA
+                                                                                                  Lamp -1
+                                                                                                  Main
+              2.               Su-Kam        170-230VAC            230V            1 KVA
+                                                                                                  Lamp -2
+                                                                                                  Main
+              3.               Su-Kam        170-230VAC            230V            1 KVA
+                                                                                                  Lamp -3
+                                                                                                  Main
+              4.               Su-Kam        170-230VAC            230V            1 KVA
+                                                                                                  Lamp -4
+              5.               Su-Kam        170-230VAC            230V           1.5 KVA         NAIS
+                                                                                                  DGPS
+              6.                 APC         170-230VAC            230V             3KVA
+                                                                                                  Rack.
+                                                                                                  DGPS
+              7.                 APC         170-230VAC            230V            10KVA          Transmitt
+                                                                                                  er
+            8.            BPE                170-230VAC            230V             1KVA          Office.
+            9.            WEP                170-230VAC            230V            0.6KVA         RCS
+17   स्वचलन उपकरण
+     Automation Equipment
+     MAKE          PLC        HMI                      Power           VSAT      Mode      Band
+                                                       Supply                    m
+     ---              ---              ---             ----            ----      ---       ---
+18   आवि शमन उपकरण                   Type of Extinguisher             Capacity      Nos     Make
+     Fire Fighting Equipment         DCP Type                         4 kg          4
+                                                                      2 kg          7
+                                     Co2                              ---           --       Flameblitz
+                                     Foam Type                        9 Ltr         2            z
+19   संचार                           04892 – 222264(Office Broadband).
+     Communication                   Email ID- minicoydgps@gmail.com
+20   र्लपूवतन                        1)A sump for collecting rain water of 2,25,000L capacity and a
+     Water Supply                    monoblock pump 1HP,230 V,1ø motor for pumping water to
+                                     overhead tank (3200L capacity) with two water tap outlets in each
+                                     Quarters
+                                     2) Rain water collection tank -18Nos each of capacity 500L
+21   िू वम                           Area                                       2.5885 Hectare
+     Land                            Demarcation                                Masonry Compound
+                                                                                Wall
+22   इमारतें
+     Buildings                       Power House, Inspection Quarter, A.E Qtr, SRT Qtr, NA-II Qtr (2
+                                     Nos.), NA-III Qtr (2 Nos.), LHA Qtr, LHS Qtr, Coil Hut.
+
+23   कंपाउं ड लाइि                   10 Nos. street light fittings and 2 gate
+     Compound Lights                 light
+24   सीसीिीिी कमे रा                 Camera                                     ---
+      CCTV CAMERA                    DVR                                        ---
+25   स्टाफ                           Sl. No                  Designations
+     Staff
+                                     1                  Navigational Assistant, Grade - II
+                                     2                  Navigational Assistant, Grade - III
+                                     3                  Light House Attendant
+26   पहुँ चने का माध्यम              Passenger ship from Cochin
+     Mode of approach
+27   उपलब्ध सुविधाए                  Govt. Hospital, Police station, Post office, Govt. Higher Secondary
+     Facilities available            School, JawaharNavodayaVidyalaya, etc within 6km from Light
+                                     house.
+
+28   डाक पताPostal address
+                                     The Assistant Engineer (El),
+                                     Minicoy DGPS & Lighthouse,
+                                     Minicoy island, UT of Lakshadweep – 682559.
+29   मू ल्यका ब्योराCost details     N/A
+     (At the time of Construction)
+30   प्रितनन मे लाने का दे नां क     02-02-1885
+     Date of commissioning
+

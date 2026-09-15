@@ -1,0 +1,47 @@
+{
+  "nid": 367,
+  "title": "Supply of Solar Panels and Accessories for Dhanushkodi Lighthouse",
+  "summary": "Notice inviting sealed quotations for supply of two 385 W solar panels, MPPT charge controllers, pure sine wave inverters, DC/AC distribution boxes and cabling for Dhanushkodi Lighthouse, Tamil Nadu, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "equipment supply",
+  "procurement": {
+    "mode": "NIQ / quotation",
+    "portal": "offline",
+    "reference": "MDS-01003(13)/1/2021-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Dhanushkodi Lighthouse, Dhanushkodi Post, Rameswaram Taluk, Ramanathapuram Dist.", "station_id": "dhanushkodi-lighthouse", "kind": "lighthouse", "work": "Supply of solar panels and accessories"}
+  ],
+  "scope": [
+    {"item": "385 W IP68 monocrystalline solar panel, 48 V Voc / 10.2 A Isc, approx. 1968 x 987 x 40 mm, junction box with MC4 connector", "qty": "2", "unit": "Nos", "site": "Dhanushkodi Lighthouse"},
+    {"item": "Wall mounting MPPT solar charge controller 24 V/60 A for 24 V battery bank, PV range 70-150 V Voc, max 1200 W, digital display", "qty": "2", "unit": "Nos", "site": "Dhanushkodi Lighthouse"},
+    {"item": "24 V / 1400 W or above pure sine wave inverter with high efficiency copper coiled transformer", "qty": "2", "unit": "Nos", "site": "Dhanushkodi Lighthouse"},
+    {"item": "IP67 DCDB box with transparent cover, single string 600 V/3 kW SPD and 500 V/25 A DP DC MCB", "qty": "1", "unit": "No", "site": "Dhanushkodi Lighthouse"},
+    {"item": "IP67 ACDB box with transparent cover, single phase DP SPD and 500 V/10 A DP AC MCB", "qty": "1", "unit": "No", "site": "Dhanushkodi Lighthouse"},
+    {"item": "6 sq.mm tin coated DC cable from solar panel to DCDB", "qty": "60", "unit": "Mtrs", "site": "Dhanushkodi Lighthouse"},
+    {"item": "MC4 connector", "qty": "4", "unit": "Nos", "site": "Dhanushkodi Lighthouse"},
+    {"item": "25 sq.mm tin coated DC cable", "qty": "12", "unit": "Mtrs", "site": "Dhanushkodi Lighthouse"},
+    {"item": "Packing and transportation charges to Dhanushkodi Lighthouse", "qty": null, "unit": "Job", "site": "Dhanushkodi Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": null,
+    "emd_inr": null,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "No estimate or EMD printed. GST paid as per actual. 100% payment after receipt of items in good condition."
+  },
+  "period": {"completion": "Supply within 30 days from acceptance of purchase order", "bid_validity": null, "warranty": "60 months (5 years from date of supply)"},
+  "dates": {"published": "2022-09-05", "pre_bid": null, "bid_submission_end": "2022-09-19", "bid_opening": "2022-09-19"},
+  "eligibility": ["Reputed firms or authorised dealers/agents; credentials and descriptive brochures to accompany quotation"],
+  "specs": [
+    "385 W IP68 mono PERC-class panels 48 V Voc/10.2 A Isc; MPPT 24 V/60 A controller; 24 V 1400 W pure sine inverter; IP67 DCDB/ACDB with SPD and MCBs; tin coated DC cables",
+    "Items to conform to BIS wherever applicable"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "tender 4.pdf", "pages": 3, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Scanned NIQ: notice, Annexure A schedule (rates blank) and Annexure B terms. Quotations due 19.09.2022 15:00, opened 16:00 same day."
+}

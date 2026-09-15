@@ -1,0 +1,46 @@
+{
+  "slug": "paradeep-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Paradeep Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": null,
+  "alol": "F 1004.4",
+  "position": {"lat_text": "20° 15'3\" N", "lon_text": "86° 39'5\" E", "lat": 20.250833, "lon": 86.651389},
+  "elevation_m": 40.4,
+  "characteristic_text": "Fl (3) W 30 Sec.",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 30,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.75
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 17, "geographical_nm": 17.5, "text": "Luminous 17 NM, Geographical 17.5 NM"},
+  "tower": {"type": "Tapering Circular RCC Tower", "height_m": 40.86, "colour_scheme": "Black and White Band"},
+  "optic": {
+    "make": "Tideland Signal Corporation, USA", "model": "TRB 220", "type": "Revolving", "size": "915 mm height & 445 mm Dia.; Focal Length 110 mm", "order": null,
+    "panels": 6,
+    "rotation_device": null,
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Optical equipment: TRB 220 (Revolving); RPM 2",
+    "divergence_horizontal_deg": 2.4,
+    "divergence_vertical_deg": 1.15,
+    "divergence_text": "2.40 (Horiz.) & 1.15 (Vert.)",
+    "illuminant": "70 Watt MH Lamp, 230 volts AC"
+  },
+  "intensity_cd": 26928,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "NAIS: AIS Base station 02 Nos. Saab make; commissioned February 2012"},
+  "dgps": {"present": true},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "3 Phase 440V 50Hz mains from Paradeep Port Trust; 5 kWp off-grid solar (20 x 250W); Standby Gensets (02 Nos., Kirloskar 32 BHP, 20 KVA alternators)"},
+  "issues": [
+    "Divergence printed as '2.40 (Horiz.) & 1.15 (Vert.)' without degree signs; unclear whether decimal degrees or degrees-minutes",
+    "No date of commissioning / establishment year stated",
+    "Tower height 40.86 m exceeds stated elevation of tower 40.4 m (ground elevation 4 m)",
+    "Luminous intensity 26928 cd and divergence figures are identical to the Kalingapatnam ledger"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "bhadreshwar-vts-repeater-and-lighthouse-station",
+  "pages_read": [1, 2],
+  "name": "Bhadreshwar VTS Repeater and Lighthouse Station",
+  "station_type": "lighthouse",
+  "established_year": 2012,
+  "alol": "F 0365",
+  "position": {"lat_text": "22.9096°N", "lon_text": "69.9135°", "lat": 22.9096, "lon": 69.9135},
+  "elevation_m": 48,
+  "characteristic_text": "White 3 flash every 20 Sec [(fl 1s, ec 2s)X2, fl 1s, ec13s]",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 20,
+    "sequence_text": "(fl 1s, ec 2s)X2, fl 1s, ec 13s",
+    "sequence_s": [1, 2, 1, 2, 1, 13],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 16, "geographical_nm": null, "text": "16 NM (unlabelled range)"},
+  "tower": {"type": "Circular RCC tower", "height_m": 60, "colour_scheme": "White"},
+  "optic": {
+    "make": "Sealite, Australia", "model": "SL300-1D5-1-W", "type": "LED Flasher", "size": "Lens Diameter 373mm", "order": null,
+    "panels": null,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Type of Light (LED Flasher); Type of Light structure: Stationary LED Flashing Light",
+    "divergence_horizontal_deg": 360,
+    "divergence_vertical_deg": 1.5,
+    "divergence_text": "Horizontal Output 360°, Vertical Divergence >1.5°",
+    "illuminant": "Multiple LED Optic"
+  },
+  "intensity_cd": null,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": null, "text": null},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "PGVCL mains 415V 3-phase 50 Hz; standby 02 DG sets (30KVA listed); 10 KWp on-grid solar plant and 70W solar module"},
+  "issues": [
+    "Longitude printed without hemisphere letter ('69.9135°'); taken as E",
+    "Tower height 60M exceeds stated light elevation 48M above MSL",
+    "Items xi-xiii values appear shifted one row: 'Product Life Expectancy: 12/03/2022', 'Date of Installation: Sealite, Australia', Make blank",
+    "Vertical divergence given as '>1.5°' (lower bound only)",
+    "Optic line also states '13 – 19NM AT@ 0.74'"
+  ]
+}

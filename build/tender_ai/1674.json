@@ -1,0 +1,36 @@
+{
+  "nid": 1674,
+  "title": "Conducting Technical cum Commercial Feasibility Study for installation of Lift at Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai Lighthouses.",
+  "summary": "Corrigendum announcing that the tender for a feasibility study on installing lifts at Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai lighthouses is being retendered as a percentage rate tender.",
+  "category": "consultancy & surveys",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "DW-CHE-01001(29)/1/2024-Civil Maintenance; Tender ID: 2024_DGLL_809194_1",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Poompuhar", "station_id": "poompuhar-lighthouse", "kind": "lighthouse", "work": "Feasibility study for installation of lift"},
+    {"name": "Kodikkarai", "station_id": "kodikkarai-lighthouse", "kind": "lighthouse", "work": "Feasibility study for installation of lift"},
+    {"name": "Nagapattinam", "station_id": "nagapattinam-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Feasibility study for installation of lift"},
+    {"name": "Mallipattinam", "station_id": "mallipattinam-lighthouse", "kind": "lighthouse", "work": "Feasibility study for installation of lift"},
+    {"name": "Kilakkarai", "station_id": "kilakkarai-lighthouse", "kind": "lighthouse", "work": "Feasibility study for installation of lift"}
+  ],
+  "scope": [
+    {"item": "Conducting Technical cum Commercial Feasibility Study for installation of Lift at Poompuhar, Kodikkarai, Nagapattinam, Mallipattinam and Kilakkarai Lighthouses", "qty": null, "unit": null, "site": null}
+  ],
+  "money": {"estimated_cost_inr": null, "emd_inr": null, "tender_fee_inr": null, "performance_security": null, "notes": null},
+  "period": {"completion": null, "bid_validity": null, "warranty": null},
+  "dates": {"published": null, "pre_bid": null, "bid_submission_end": null, "bid_opening": null},
+  "eligibility": [],
+  "specs": [],
+  "corrigenda": [
+    {"date": "2024-07-12", "change": "Due to administrative reasons the e-tender is retendered, changing from 'Item Rate Tender' to 'Percentage Rate Tender'."}
+  ],
+  "documents": [
+    {"file": "RetenderFeasibilitystudy.pdf", "pages": 1, "read": "text", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Only the retender corrigendum is attached; the original NIT is not in this listing, so cost, EMD and dates are not printed. Listing shows closing 2024-07-23 and opening 2024-07-24 (not printed). Same work continued as nids 1704 (Tender ID _2 corrigendum) and 1716 (fresh NIT dated 07/08/2024). Hindi header text layer has broken conjuncts; English text complete."
+}

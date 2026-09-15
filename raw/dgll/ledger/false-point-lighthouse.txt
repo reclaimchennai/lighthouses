@@ -1,0 +1,147 @@
+                                      FALSE POINT LIGHTHOUSE
+
+2. Sr. No. (A.L.O.L.)                 F 1006
+
+3. Position                           Lat. 200 19.43 N
+                                      Long. 860 44.50 E
+
+4. Elevation of ground                6m
+
+S. Elevation of tower                 26 m
+
+6. Characteristic                     F1 (2) W 20 Sec
+
+7. Range in nautical miles
+       i)     Luminous                23.3 NM
+       ii)    Geographical            17 NM
+8. Lighthouse Tower
+       i)     Type                    Circular Masonry Tower
+       ii)       Height               32 m
+       iii)      Color Scheme         Red and White Band
+9. Optical equipment
+
+       i)        Make                 Mls B.B.T, Paris.
+       ii)       Size                 250 mm (4'h order small), revolving.
+       iii)      No. of Panels        2
+       iv)       Focal Length         250 mm
+       v)        R.P.M.               3
+       vi)       Duration of Flash    0.25 Sec
+       vii)      Illuminant           400W, 230V Metal Halide Lamp
+       v)        Divergence           4.560 (Horiz) & 9.120 (Vertical)
+       vi)       Luminous Intensity   1,32,500 cd
+
+10. innovation                        Innovation was carried out on Jan 1997. l000W/l l0V
+                                      incandescent lamp was replaced by 400W/230V MH
+                                      lamp.
+
+11. Lantern
+       i)        Diameter             3.6 m
+       ii)       Height of glazing    3.2 m
+       iii)      No. of glass panes   48 Nos.
+       iv)       No. of Ventilators   8 Nos.
+
+                                                                                  1|Page
+12. Pedestal                                  Mercury Float (22.5 Kg in use)
+
+13. Power supply
+
+         i) Mains                           3 PH Mains supply, 440 V AC, 50Hz
+
+         ii) Standby                        Gensets (02 Nos.)
+
+        A. Details ofEngine
+
+Sl. Engine Sl. No.                 Make          BHP       No. of       RPM       Cooling             Date of
+No.                                                        Cylinder                                   Installation
+ 1. 02.8301/1620242                Kirloskar     20.5         02        1500         Air Cooling      16.01.2017
+    2   D4.1615/0900650            Kirloskar     20.5           02      1500         Air Cooling      06.02.2010
+
+        B. Details of Alternator
+
+SI. Alternator SI. No.         Make          KVA      Voltage        Current   Freq.       Phase        RPM
+No.                                                                  (Amp)     (Hz)
+
+l       CS180l5Kl4755H         Kirloskar      15          230         62.5      50         Single        1500
+2       09H10123-H             Kirloskar     12.5         230         54.3      50         Single        1500
+
+14.      Other Equipments
+
+         i) Battery Charger                         NIL
+
+         ii) Stabilizer
+
+Sl.No. Make              Type                       Capacity     Input         Output      Date of Installation
+   1   Delta       elec. Servo Control              15 KVA       180-260V      230 V       10.10.2015
+       Corp. Thane
+  2.   Delta       elec. Servo Control              15 KVA       180-260V      230V        02.11.2014
+       Corp. thane
+
+         iii) Inverter
+
+Sr.                           Particulars                              Qty       Date of              Purpose
+No.                                                                            Installation
+ l       1.6 KVA, 24V DC (input), 230V AC (output),                   I No.    31.08.2015          For Light beacon
+         Sukam make
+
+15.      Remote Monitoring and Control System
+
+All equipments are remotely monitored by RCS at Paradeep and MCS at Deep Bhavan, Kolkata.
+
+i) Main control Panel                      1 No. installed at power house.
+ii) Remote Panel                           1 No. installed at service room.
+iii) UPS                                   I No. I KVA, APC make placed inside main Panel.
+iv) Communication                          VSAT
+iv) VSAT Antenna                          l No. installed on roof top of power house.
+v) Modem                                  1 No. placed inside main Panel.
+
+16.      Fire Extinguisher
+
+Sl.           Type          Capacity          Qty    Place of Installation
+No.
+ 1       Foam                   9 Litr     2 Nos.    One placed at service room and one at power house
+ 2       DCP                    5 KG       3 Nos.    One at Service room, one at PH and another one at
+                                                     Store room.
+ 3       Fire Buckets           10 Litr    4 Nos.    Varandah of power house
+
+17.      Water Supply
+
+Water is pumped from open well to the tank (1000 Ltrs) which is placed on ground by using 2 HP
+pump.
+
+18.      Land
+
+         i) Area                                         26 Acre
+         ii) Demarcation                                 Compound Wall.
+         iii) No. of fruit trees                         32
+         iv) No. of non-fruit bearing trees              94
+
+19.      Buildings
+
+      14 One units of Inspection Quarters with Powerhouse, office & Store
+      15 One unit of HLK Qtrs,
+      16 2 Nos. ALK Qtrs.
+      17 2 LHA Qtrs.
+      18 9 Nos. Qtrs. available for Safaiwala, Dispensory Attendant, Driver, Sarang, garden attendant &
+         a unit of seaman Qtrs.
+
+20.      Contact Details
+
+ i.        Mobile No.                                    9437199435
+ ii.       Office E-Mail                                 falsepointlighthouse@gmail.com
+ iii.      Postal Address                                False Point Lighthouse,
+                                                         PO — Barakolikhola, Dist. Kendrapara
+                                                         Odisha — 754 142.
+21.      Mode ofApproach
+
+The station is connected through water channel, it takes approx. 1.5 Hrs from Atharabanky Ghat to
+Lighthouse. One has to reach the Lighthouse through Vessel. Nearest railway station is Paradeep,
+which is approx.. 20 km from False point lighthouse and nearest airport is Bhubaneswar which is
+approx. 170 km from Lighthouse.
+
+22.      Facilities Available
+
+Post Office, Primary Health Center, Police Station and High School all are within 20 KM from False
+Point Lighthouse.
+                                                                                                12 | P a g e
+13 | P a g e
+

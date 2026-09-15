@@ -1,0 +1,45 @@
+{
+  "slug": "pentakota-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5, 6],
+  "name": "Pentakota Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1957,
+  "alol": "0966",
+  "position": {"lat_text": "17° 18.0' N", "lon_text": "82° 37.0' E", "lat": 17.3, "lon": 82.616667},
+  "elevation_m": 18,
+  "characteristic_text": "Fl. W 15 Sec. (Fl. 1.5 +, ec. 13.5= 15 sec.)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "Fl. 1.5 + ec. 13.5 = 15 sec.",
+    "sequence_s": [1.5, 13.5],
+    "flash_duration_s": 1.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 15, "geographical_nm": 10, "text": "Luminous 15 M, Geographical 10 NM"},
+  "tower": {"type": "Square Masonry", "height_m": 17.6, "colour_scheme": "Black & White bands"},
+  "optic": {
+    "make": "B.B.T", "model": null, "type": "revolving", "size": "150 mm", "order": "6th order",
+    "panels": 4,
+    "rotation_device": "Twin stepper motor Direct Drive system (2 No 10Kg-cm stepper motors, unique make)",
+    "rpm": 1,
+    "rotates": true,
+    "rotates_evidence": "150 mm (6th order) revolving; twin stepper motor direct drive; Rotation Speed 1 RPM",
+    "divergence_horizontal_deg": 7.5,
+    "divergence_vertical_deg": 5.666667,
+    "divergence_text": "Main: Horizontal 7° 30', Vertical 5° 40'",
+    "illuminant": "150 W Metal halide lamps; Standby 150W MH lamp"
+  },
+  "intensity_cd": 438480,
+  "racon": {"present": null, "code": null, "text": null},
+  "ais": {"present": true, "text": "M/s SAAB; AIS R40 Base Station S/No.5318 and S/No 5330; V-SAT 2.4 Mtr; commissioned 20/12/2011"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "APEPDCL mains single phase AC 230V; 1.36KW off grid solar for main light; 0.34 KW off grid solar for NAIS; Kirloskar KG15AS4 15KVA DG"},
+  "issues": [
+    "Luminous range printed as '15 M' (unit unclear)",
+    "Focal distance printed as '150 NM'",
+    "ALOL given only as Sr.No. '0966' without letter prefix"
+  ]
+}

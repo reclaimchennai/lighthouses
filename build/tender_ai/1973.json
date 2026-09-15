@@ -1,0 +1,39 @@
+{
+  "nid": 1973,
+  "title": "Rewiring of Powerhouse cum allied buildings at Nagapattinam Lighthouse and DGNSS Station under Chennai Directorate.",
+  "summary": "Online two-cover e-tender for rewiring of the powerhouse and allied buildings at Nagapattinam Lighthouse and DGNSS Station, issued by the Directorate of Lighthouses and Lightships, Chennai.",
+  "category": "electrical works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "MDS-01002(11)/4/2020-MNT-MD",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Chennai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Nagapattinam Lighthouse and DGNSS Station", "station_id": "nagapattinam-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Rewiring of powerhouse cum allied buildings"}
+  ],
+  "scope": [
+    {"item": "Rewiring of Powerhouse cum allied buildings", "qty": null, "unit": null, "site": "Nagapattinam Lighthouse and DGNSS Station"}
+  ],
+  "money": {
+    "estimated_cost_inr": 611256.0,
+    "emd_inr": 12225.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR of any nationalized bank in favour of The Director of Lighthouses and Lightships, Chennai, valid 90 days from technical bid opening; EMD exempted for valid MSME/NSIC certificate."
+  },
+  "period": {"completion": "90 Days", "bid_validity": null, "warranty": null},
+  "dates": {"published": "2025-07-23", "pre_bid": "2025-08-01", "bid_submission_end": "2025-08-05", "bid_opening": "2025-08-06"},
+  "eligibility": [
+    "OEMs or their authorized agents, or appropriate class contractors registered with CPWD/State PWD/Railways/MES/BSNL or other State/Central Govt/PSU/autonomous bodies",
+    "Experience in electrification, rewiring of buildings and UG cable works"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NIT_1.pdf", "pages": 2, "read": "vision", "language": "bilingual", "unreadable": []}
+  ],
+  "confidence": "high",
+  "notes": "Document is Section 1 (NIT) only, printed pages 3-4; no BOQ. Download/submission 24/07/2025 09:00 to 05/08/2025 16:00; technical bid opening 06/08/2025 16:30."
+}

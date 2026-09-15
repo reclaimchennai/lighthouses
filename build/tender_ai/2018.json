@@ -1,0 +1,44 @@
+{
+  "nid": 2018,
+  "title": "Development of Infrastructure for Tourism at Diu-Head Lighthouse",
+  "summary": "Item-percentage e-tender for developing tourism infrastructure at Diu Head Lighthouse, Velan, Gir Somnath district, Gujarat, issued by the Directorate of Lighthouses and Lightships, Jamnagar.",
+  "category": "heritage & tourism",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-JM-02028/1/2025-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Jamnagar"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Diu-Head Lighthouse, P.O. Velan, Madhvad Village, Ta-Kodinar, Dist. Gir Somnath (Gujarat), Pin 362720", "station_id": "diu-head-lighthouse", "kind": "lighthouse", "work": "Development of infrastructure for tourism"}
+  ],
+  "scope": [
+    {"item": "Development of Infrastructure for Tourism at Diu-Head Lighthouse", "qty": null, "unit": null, "site": "Diu-Head Lighthouse"}
+  ],
+  "money": {
+    "estimated_cost_inr": 2389455.0,
+    "emd_inr": 47790.0,
+    "tender_fee_inr": null,
+    "performance_security": null,
+    "notes": "Estimated cost including GST. EMD by DD/FDR/deposit at call receipt of scheduled (nationalised/RBI approved) bank in favour of the Director of Lighthouses and Lightships, valid 180 days from technical bid opening; original to be submitted by 29/09/2025. MSME-registered firms must pay EMD; no exemption."
+  },
+  "period": {"completion": "120 days", "bid_validity": "90 days from date of opening of technical bid", "warranty": null},
+  "dates": {"published": null, "pre_bid": "2025-09-24", "bid_submission_end": "2025-09-29", "bid_opening": "2025-09-30"},
+  "eligibility": [
+    "Similar works in Central/State Govt department/undertaking in last 7 years: three works each >= 40% of estimated cost, or two >= 50%, or one >= 80%; values enhanced at 7% simple per annum; client certificates required",
+    "Similar works: civil construction or maintenance of any type of building or civil structure",
+    "Valid PAN; valid GST registration; joint ventures and consortia not permitted",
+    "Valid registration of appropriate class and category (civil) in Central/State Govt department/undertaking",
+    "Non-blacklisting declaration (Annex-11.2(A)); unconditional price bid undertaking (Annex-11.2(B)); tender acceptance letter (Annex-11.2(C))",
+    "Bank solvency certificate minimum 40% of estimated cost, not older than 1 year",
+    "ITR and CA-certified average annual turnover (minimum 30% of estimated cost) for FY 2021-22, 2022-23 and 2023-24"
+  ],
+  "specs": [],
+  "corrigenda": [],
+  "documents": [
+    {"file": "NITDIUHeadtourism.pdf", "pages": 5, "read": "text", "language": "bilingual", "unreadable": ["Hindi text layer garbled/missing (font mojibake); English portions read"]}
+  ],
+  "confidence": "high",
+  "notes": "NIT (Section-I) only; no BOQ. Date line printed as 'Dated /2025' with day and month blank; download period from 17/09/2025 17:00 to 29/09/2025 15:00. EMD 'payable at' place left blank. Price bid opening to be intimated via CPP portal."
+}

@@ -1,0 +1,307 @@
+               मास्टर लेजर/ MASTER LEDGER
+क्रमसं             नाम /Name
+ ख्या/                                                          वििरण/ Discription
+Sr.No
+    1.     ए.एल.ओ.एल/A.L.O.L.                         : F0361.82
+    2.     स्थान/Position                             : LAT: 22.7679° N,
+                                                        LONG:69.6725° E
+   3.       ऊंचाई/Elevation (Above MSL)               : 48M
+   4.    अविलक्षण/Characteristic                      : Gp Fl 2 (W) every 10 Second
+   5.    नॉविकल माइल मे दू री                         : 15 NM
+         Range in miles
+   6.    दीपस्तंि िािर/L.H.Tower                      : RCC Circular concrete
+                                                      Tower
+                                                      Height : 60 Mtrs (Light is installed at
+                                                      the height of 45 mtr)
+                                                      : 4 black and 3 white bands.
+                                                      (Bottom band black)
+   7.         ऑप्टिकल उपकरण                           : SL-155 With 9 degree elevation
+          Optical Equipment:-
+          Type of Light (LED Flasher)
+           Lantern
+   8.                                        : Model no.SL-155-2.5D-W LED LANTERN
+                                               Make- Sealite, S/n- 565908
+   9.      Illuminate                                : White LED 12 volt supply by 12 volt
+                                                     170 watt solar panel
+   10.     Power Source                      :100 watt Solar Panel with  12 V 100
+                                             AHbattery for Light SL-155
+                                             :70 watt Solar panel with 12 Volt 100 AH
+                                             Battery for Recon PMPI X band.
+   11.     Year First Light                           : 01.06.1965
+           Commissioned
+   12.     Subsequent development        : 1988,1993,1997,2003
+           वी टी एस उपकरण/ VTS EQUIPMENTS:
+
+ क्रम                        वििरण/ Discription                            Qty      Location
+ संख्या/
+ Sr.No
+      i. X- band Radar Scanner/ Antenna 18”,                              01      VTS
+         HCP Antenna -18, No. 314240-001 REV–D, Sl. No- 3008                      TOWE
+         Turning Unit HCP No:519980-001S/N- 3006                                  R
+         Make –Terma
+                                        Page 1 of 8
+ ii. X- Band RADAR Transceiver Scanter 2001,9375MHz             02   Eqpt room
+     RxTx21, Type 262001-024 Rev FS/N- 3017
+     RxTx22, Type 262001-017 Rev G
+
+    S/N- 3021
+
+ iii. Scanter ACU                                               01   Eqpt
+      Type : 262382-001 Rev H                                        room
+      SNo:3019, Voltage 3X400V, Freq -47-63Hz ,   Power 4KVA,
+      MakeTerma
+
+
+
+iv. RDP- C-Set V.3 MK2, Kongsberg, S/N- 3053182216              02   Eqpt
+    RDP- C-Set V.3 MK2, Kongsberg S/N- 3468241120                    room
+
+
+
+ v. RSD Make- Terma, S/N- 4598, (Service Display)               01   Eqpt
+                                                                     room
+
+vi. UPS, On line, 3 Phase , 15 KVA for Radar Scanner, make- 01       Eqpt
+      EasyUPS 3s                                                     room
+     (Schneider Electric) S/N- 9E 1851T10084
+vii. 12V/ 26AH Battery, Make-                               32       Eqpt room
+     APC for 15 KVA ups
+
+
+
+
+viii. Microwave Antenna                                         06   VTS
+                                                                     TOWER
+    Make –Faini Tele communication System,
+    (Kathrein) S/N- 08K1MWA0000120013
+    S/N- 08K1MWA0000120019, S/N- 08K1MWA 0000120012,
+    S/N -08K1MWA0000120018, S/N- 08K1MWA0000120017
+    S/N- 08K1MWA0000120015
+ix. RFU/ODU , Make- Ericsson                                    06   Eqpt
+    S/N- CR9N958653                                                  room
+    S/N- CR9N958652
+    S/N- CR9N958657
+    S/N- CR9Q240404
+    S/N- CR9Q240413
+    S/N- CR9Q240420
+
+
+ x. SPU, Make- Ericsson ML 6693 Page 2 of
+                                Config 38                       01   Eqpt room
+    S/N- CE8A284392
+ xi. MUX(PDH MUX)                              01   Eqpt
+      PDH Multiplexer, Model- Nokia                 room
+      SiemensS/N- 8VO93917338 T3787001
+      B6 (Mux)
+ xii. KVM Switch                               01   Eqpt
+                                                    room
+
+
+
+xiii. Remote Power Distribution unit(RDPU)     01   Eqpt
+      Make;-APC, S/N-                               room
+      5A1922EE03502
+
+
+xiv. DC power Supply For IDU                   01   Eqpt
+     Make-Mean Well, 48v DC supply                  room
+
+
+xv. Rack Manager 17”(Samsung) Austinrghes      01   Eqpt
+     Model-A117e, S/N- 2060110094165-05z            room
+     Note: (Faulty and taken by M/S Elcome.
+     Dtd,06/06/2016 & 17inch monitor and
+     keyboard mouse provided)
+xvi. CISCO Switch                              01   Eqpt
+     Catalyst 2960 Series                           room
+     S/N- FOC1331Z5DW
+
+
+xvii. 19” WALL Rack 1 No.-HITT                 01   Eqpt
+                                                    room
+
+xviii. 19”COMMTEL Rack TCIL                    01   Eqpt
+                                                    room
+
+
+
+xix. VHF (Model-PSU-7006)                      03   Eqpt
+    JORTON VHF                                      room
+    Base Station 7750C
+    S/N-9721
+    S/N-9722
+    S/N-9723
+ xx. AIS                                       01   Eqpt
+     AIS –KONGSBERG Make                            room
+     Model: BS 500
+     BS 500 AIS Base Stn.
+     Part No:B500-01S/N-
+     5001126                     Page 3 of 8
+  xxi. 7.5KVA UPS , Make-                                        01    Eqpt room
+       SUKAM
+
+ xxii. 12v, 26AH Battery, Make- QUANTA                           16    Eqpt room
+
+ xxiii. Rectifier BSMC Make,350 X 3 Module                       01    Eqpt room
+
+       S/N- BS-350/B/4302
+ xxiv. D G Set :154 BHP,100KW,125KVA                             01    D.G
+                                                                       room
+      Make: Sudhir Gen Sets Ltd Model: SGL –C125D5 P
+
+      S/N:1445
+      Engine No:62680113
+      Alternator No:N08F172Z1
+      Full load Current 174A(at 0.8pf)
+      Starting Battery 12V 135 AH Panel Type Standard
+      Panel
+      S.No:08/2008/4954
+
+ xxv. DG Set – 62.5 KVA,                                         01   D.G room
+       Make- Kirloskar, Supplied by Adani Port
+ xxvi. 125 KVA AMF Control PanelS/N- 1/2010/11573,         01     Powerhouse
+       Sudhir Genset Ltd.
+xxvii. Isolation Transformer -3 Phase (Power House)        01     Powerhouse
+       Capacity- 40KVA, Make- Uma alfa
+
+xxviii. Isolation Transformer 6KVA                         01     Eqpt room
+
+ xxix. LVDB Panel                                          01     Powerhouse
+      Make L&T Model DU160 Voltage 415 V Rating 160 Amps
+      S/N- IS13947-2
+ xxx. PF Corrector                                         01     Powerhouse
+       Panel 50 KVAR
+xxxi. PF Corrector                                         01     Lift Penal
+       Panel 25 KVAR                                              Room
+xxxii. A/C- 1.5Ton                                         03     Eqpt room
+      LG Make, Split type
+      S/N- 910NLPQ003170
+      LG Make, Split type
+      S/N- 201AAMY014955
+      Videocon Make, Split type
+      S/N- 11081574200226
+xxxiii. PV Module Silicon,                                 120
+        (Solar Panel)- 250 W each
+        Make: USG (Universal Solar Group)
+xxxiv. Solar Inverter, 30 KW        Page 4 of 8            01     Power house
+        Make: Delta
+xxxv. Solar battery, 2V, 300AH                             24     Eqpt room
+        Make- EXIDE
+ xxxvi. Sukam Charging Controller                                      01   Eqpt room
+
+ Energy source
+
+
+        Mains supply - The Adani SEZ mains, 415V, 3-phase, 50
+        Hz supply is available.Mains is steady and less power cuts.
+        Standby supply -02 numbers DG Set.
+                 a) “Sudhir” Make diesel alternators is
+                 provided at the station. Capacity of the DA
+                 set is 125 KVA, 415V, 3- phase, 50Hz, 1500
+                 rpm.
+                 b) “kirlosker “ Make provided at the station
+                 Capacity of the DG set of 62.5 KVA, 6
+                 cylinder 415V, 3- phase, 50Hz,1500 rpm.
+        The power supply is controlled and distributed by an
+        AMF panel in selectable‘auto/manual’ mode of operation.
+
+
+On Grid 30 KW Solar Systems:
+
+
+                  i)      Date of Installation: 20/08/2016
+                  ii)     30KW Inverter,
+                  iii)    Make: Delta
+                  iv)     PV Module silicon120 nos. of solar
+                          panel
+
+Lift:
+
+
+        Inside the 60M high RCC radar tower l lift has been installed 01    VTS Tower
+        as per belowspecification:
+                Make - Trio Elevators ,Traction M/c,Model EH1509
+        S.No.EH 00609
+                Motor - 3-ɸ induction motor 5.5KW,
+        (S.No.1000073646)
+        Capacity – 408 Kg/ 6 passenger
+
+CCTV:
+
+
+        Hikvision make- CCTV System with 8 Camera installed for
+        station monitoring24x7 and connected with internet to
+        monitor from remote
+COMPOUND STREET LIGHTS:
+
+
+        Total 29 number LED street lightsPage 5 of 8fitting on G.I
+                                           (29Nos.
+        poles) are provided at station. Two number lights are fitted
+        on gate.
+Fire-extinguishers:
+
+
+        The Following FIVE firefighting equipment are provided.
+        Cease fire ABC dry powder (5 Kg. capacity- 2 Nos.
+        Dry chemical powder Clean Agent (4 Kg. capacity)-
+        2 Nos. CO2type (2 Kg. capacity)- 1 Nos. Fire
+        buckets- 3 Nos are also in station.
+
+
+
+LAND:
+
+                 i)     Area                  : 8000 Sqm.
+                 ii)    Demarcation                  : Masonry
+                        compound wall on all the four sides
+                 iii)   No. of fruit trees           :40 trees
+                 iv)    No. of non- fruit bearing trees:120
+
+STRUCTURE:
+
+
+                 a.     VTS tower: - 60m high RCC
+                        circular tower with internal liftfacility
+                        and staircase.
+                 b.     Technical Building: - 01 Unit
+                 c.     Inspection Quarter: - 01 Unit.
+                 d.     Security Cabin: 01 Nos.
+                 e.     Compound wall: - The masonry
+                        compound wall with barbed wire
+                        copingon the top has been provided
+                        on four sides for enclosing land
+                        buildings with     internal     cement
+                        concrete pathway.
+                 f.     Main gate: - M. S. gate has been
+                        provided on the entrance.
+
+WATER SUPPLY:
+
+
+                  Water supply from Adani port 4 taps are
+                   provided inside VTS compound.
+                  80,000 litres capacity water storage
+                   tank is provided with water pump motor.
+                   Two motors (3HP, 2.2 Amps, 420 V,
+                   RPM 2800) with one starter (type- MV-
+                                     Page 6 of 8
+                   G6) are installed at station.
+                  10000 litres capacity RCC overhead
+                   water tank is newly constructed near
+              IQ.
+
+
+                                       Navinal VTS & Lighthouse
+                                       Station, Adani Port
+ADDRESS& COMMUNICATION                 Mundra, Dist. – Kutch,
+                                       Gujrat-370421
+                                       Ph.: 2838-296850. Email:
+                                       navinalvts@gmail.com
+DATE OF COMMISSIONING                  13/02/2012
+
+
+
+
+                         Page 7 of 8
+

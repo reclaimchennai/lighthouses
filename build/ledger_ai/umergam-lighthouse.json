@@ -1,0 +1,41 @@
+{
+  "slug": "umergam-lighthouse",
+  "pages_read": [1, 2, 3, 4, 5],
+  "name": "Umergam Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1979,
+  "alol": "F 0489",
+  "position": {"lat_text": "20° 11.7' N", "lon_text": "72° 45.0' E", "lat": 20.195, "lon": 72.75},
+  "elevation_m": 35,
+  "characteristic_text": "Fl W 15 Sec. (fl. 0.33, ec. 14.67)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": "fl. 0.33, ec. 14.67",
+    "sequence_s": [0.33, 14.67],
+    "flash_duration_s": 0.4
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 19, "geographical_nm": null, "text": "19 NM (unlabelled single range)"},
+  "tower": {"type": "Triangular R.C.C Tower", "height_m": 30, "colour_scheme": "Red & White Bands"},
+  "optic": {
+    "make": "Welth Marine Pvt Ltd. Singapore", "model": "WM-RB500", "type": "WM-RB500 Marine Rotating Becon", "size": "500 mm", "order": null,
+    "panels": 6,
+    "rotation_device": "2 Nos. Stepper Motor, microprocessor controlled speed field selector from 0.5-6RPM, one service & one standby",
+    "rpm": 0.67,
+    "rotates": true,
+    "rotates_evidence": "Type: WM-RB500 Marine Rotating Beacon; Rotation Device: 2 Nos. Stepper Motor; R.P.M. 0.67",
+    "divergence_horizontal_deg": 1.5,
+    "divergence_vertical_deg": 2.42,
+    "divergence_text": "Horizontal-1.5°, Vertical-2.42°",
+    "illuminant": "70W MH Lamp"
+  },
+  "intensity_cd": 173684,
+  "racon": {"present": true, "code": "M", "text": "Pharos Marine Automatic Power PMAPI RACON-2, Sr. No. HY-II20180648, Code M, X-Band, installed 23-08-2018"},
+  "ais": {"present": true, "text": "2 Nos AIS1 & AIS2, R 40 Class A, MMSI 004192224"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "DGVCL Umergaon 440V AC 3 Phase 50Hz; standby Kirloskar EA-16 diesel generator 7.5KVA; solar 4 x 70W and 6 x 80W panels, 70W panel for RACON"},
+  "issues": ["Duration of Flash 0.4 Sec differs from characteristic flash 0.33 s"]
+}

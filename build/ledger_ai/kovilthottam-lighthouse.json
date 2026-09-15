@@ -1,0 +1,43 @@
+{
+  "slug": "kovilthottam-lighthouse",
+  "pages_read": [1, 2, 3],
+  "name": "Kovilthottam Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 1962,
+  "alol": "F 0710",
+  "position": {"lat_text": "8° 59.8’ N", "lon_text": "76° 32.2’ E", "lat": 8.996667, "lon": 76.536667},
+  "elevation_m": 20,
+  "characteristic_text": "Fl (1) W 5 sec (FL.1 dfark 4sec)",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 1,
+    "colours": ["W"],
+    "period_s": 5,
+    "sequence_text": "FL.1 dark 4sec",
+    "sequence_s": [1, 4],
+    "flash_duration_s": 1
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 13.8, "geographical_nm": null, "text": "13.8 NM (unlabelled)"},
+  "tower": {"type": "Square Masonry Tower", "height_m": 15.24, "colour_scheme": "Black and White Band"},
+  "optic": {
+    "make": "BBT", "model": null, "type": null, "size": "250mm 4th order Fixed", "order": "4th order",
+    "panels": 1,
+    "rotation_device": null,
+    "rpm": null,
+    "rotates": false,
+    "rotates_evidence": "Size: 250mm 4th order Fixed; Pedestal: Fixed; Rotation Device and R.P.M. blank",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": 2.966667,
+    "divergence_text": "(Horizontal) blank; .2° 58’ (Vertical)",
+    "illuminant": "230V/500W Double end halogen Lamp"
+  },
+  "intensity_cd": 14500,
+  "racon": {"present": false, "code": null, "text": "Sr. No NIL"},
+  "ais": {"present": false, "text": "NAIS - NA"},
+  "dgps": {"present": null},
+  "power": {"mains": true, "solar": true, "generator": true, "text": "KSEB 440 Volt 3 Phase mains; DG set 15 KVA (Eicher engine, Stamford alternator); 5KWp on-grid solar; 100 W/18V solar for main light back up"},
+  "issues": [
+    "Horizontal divergence blank; vertical printed as '.2° 58’', read as 2° 58'"
+  ]
+}

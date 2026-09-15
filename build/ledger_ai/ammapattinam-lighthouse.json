@@ -1,0 +1,41 @@
+{
+  "slug": "ammapattinam-lighthouse",
+  "pages_read": [1, 2, 3, 4],
+  "name": "Ammapattinam Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2005,
+  "alol": "F 0901.2",
+  "position": {"lat_text": "10º.00’.65” N", "lon_text": "79º.13’.74” E", "lat": 10.010833, "lon": 79.229},
+  "elevation_m": 49,
+  "characteristic_text": "Two White Flashes for every 15 Second",
+  "light": {
+    "kind": "Fl",
+    "flashes_per_period": 2,
+    "colours": ["W"],
+    "period_s": 15,
+    "sequence_text": null,
+    "sequence_s": null,
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 20, "geographical_nm": null, "text": "20 NM at 0.74 AFT (unlabelled)"},
+  "tower": {"type": "RCC Circular Tower", "height_m": 45, "colour_scheme": "Black and White Horizontal Band"},
+  "optic": {
+    "make": "M/s VEGA, Finland", "model": "VRB-25-LED", "type": "LED", "size": null, "order": null,
+    "panels": null,
+    "rotation_device": "Inbuilt stepper motor",
+    "rpm": 2,
+    "rotates": true,
+    "rotates_evidence": "Optic: LED Marine Rotating beacon VRB-25-LED; Rotation Device: Inbuilt stepper motor; R.P.M. 2 RPM",
+    "divergence_horizontal_deg": null,
+    "divergence_vertical_deg": null,
+    "divergence_text": "1.5º at 5% Peak Intensity",
+    "illuminant": "12V DC LED Marine Rotating Beacon"
+  },
+  "intensity_cd": 113000,
+  "racon": {"present": false, "code": null, "text": null},
+  "ais": {"present": true, "text": "NAIS Base Station: SAAB R40"},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "TNEB 3 phase/440V AC mains; 1.5 KW solar plant for main light; 4 KWp off-grid solar for NAIS/automation; Engine 1 and 2 NIL"},
+  "issues": ["Position printed in mixed format (10º.00’.65”); interpreted as degrees and decimal minutes", "Divergence 1.5º not labelled horizontal or vertical"]
+}

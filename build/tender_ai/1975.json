@@ -1,0 +1,51 @@
+{
+  "nid": 1975,
+  "title": "Painting of Trestle Tower at Hazira, Uttan and Ratnagiri Lighthouse and DGPS Station",
+  "summary": "E-tender (percentage rate) for scraping, priming and repainting the trestle towers at Hazira (Gujarat), Uttan and Ratnagiri (Maharashtra) lighthouse and DGPS stations, issued by the Directorate of Lighthouses and Lightships, Mumbai.",
+  "category": "civil works",
+  "procurement": {
+    "mode": "open tender",
+    "portal": "CPPP eprocure",
+    "reference": "CM-MUM-03/1/2025-Civil",
+    "issuing_office": "Directorate of Lighthouses and Lightships, Mumbai"
+  },
+  "scope_level": "sites",
+  "sites": [
+    {"name": "Hazira Lighthouse & DGPS Station, P.O. Hazira, Ta. Choryasi, Dist. Surat, Gujarat 394270", "station_id": "hazira-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Painting of trestle tower"},
+    {"name": "Uttan Point Lighthouse & DGPS Station, Post Uttan, via Bhayander, Dist. Thane 401106", "station_id": "uttan-point-lighthouse-and-dgps-station", "kind": "lighthouse", "work": "Painting of trestle tower"},
+    {"name": "Ratnagiri Lighthouse & DGPS Station, Ratnagiri (Killa), Dist. Ratnagiri, Maharashtra 415612", "station_id": "ratnagiri-town-and-dgps-station", "kind": "lighthouse", "work": "Painting of trestle tower"}
+  ],
+  "scope": [
+    {"item": "Removal of synthetic enamel paint by brushing, scraping, sand papering, cleaning and surface preparation with repairs to scratches, including safety equipment and labour insurance (estimated rate Rs 31.44, amount Rs 44,424.72)", "qty": "1413.000", "unit": "Sqm", "site": null},
+    {"item": "Priming coat with ready mixed red oxide zinc chromate primer on galvanised iron/steel works (estimated rate Rs 84.25, amount Rs 1,19,045.25)", "qty": "1413.000", "unit": "Sqm", "site": null},
+    {"item": "Painting two coats with 1st quality synthetic enamel paint (Asian/Berger/Shalimar) over previously painted trestle tower of all height (estimated rate Rs 282.81, amount Rs 7,98,938.25)", "qty": "2825.000", "unit": "Sqm", "site": null}
+  ],
+  "money": {
+    "estimated_cost_inr": 962400.0,
+    "emd_inr": 19250.0,
+    "tender_fee_inr": 0.0,
+    "performance_security": "Performance guarantee 5% of contract value (FDR/BG) released on satisfactory completion, plus security deposit 5% deducted from RA bills released after 6 months defect liability period",
+    "notes": "Estimated cost inclusive of GST; BOQ total Rs 9,62,408.22. EMD by DD/FDR of any scheduled bank in favour of Director of Lighthouses and Lightships - Mumbai, valid three months; mandatory for MSME/NSIC firms too. Percentage rate tender; quantities may vary +/-25%. LD 0.5% per week, max 10% of estimated cost. Water/electricity if provided by owner recovered at 1% each."
+  },
+  "period": {"completion": "03 months from date of award of contract", "bid_validity": "90 days from date of opening of technical bid", "warranty": "6 months maintenance / defect liability period"},
+  "dates": {"published": "2025-07-16", "pre_bid": "2025-07-30", "bid_submission_end": "2025-08-13", "bid_opening": "2025-08-18"},
+  "eligibility": [
+    "Registered licensed contractors/firms of appropriate category with Central/State Govt/Municipal Corporation having tender limits equal to or more than estimated cost",
+    "Similar works (civil repairs and maintenance) in last 7 years: three works each >= Rs 3.85 lakh (40%), or two each >= Rs 5.77 lakh (60%), or one >= Rs 7.70 lakh (80%); sub-contractor experience not considered",
+    "Average annual turnover at least 30% of estimated cost (Rs 2,88,725), CA certified, last 3 financial years",
+    "PAN, GST registration, income tax returns for FY 2021-22 to 2023-24",
+    "Tender acceptance letter, unconditional bid undertaking, bid securing declaration, notarised non-blacklisting affidavit, no-relatives declaration",
+    "Technical evaluation minimum 70% (statutory 30, financial 20, experience 20, past performance 20, key technical personnel 10)"
+  ],
+  "specs": [
+    "Paints: Asian Paints Apcolite / Berger Luxol / Shalimar Superlac Premium Hi-Gloss Enamel; synthetic enamel conforming to IS 2933",
+    "Shades: Signal Red and Snow White/Brilliant White for trestle tower / GI tower",
+    "Work per CPWD specifications; paint samples to be approved by Engineer-in-Charge"
+  ],
+  "corrigenda": [],
+  "documents": [
+    {"file": "tender (1).pdf", "pages": 60, "read": "mixed", "language": "bilingual", "unreadable": ["Hindi text layer partly garbled; English portions read", "Page 60 has no text layer; rendered image is a blank page numbered 59"]}
+  ],
+  "confidence": "high",
+  "notes": "Full tender document: NIT, instructions, detailed notice, GCC (boilerplate), SCC, civil specifications, percentage BoQ, technical evaluation criteria, annexures and material registers. BOQ does not split quantities by station. NIT dated 16.07.2025 but download/submission period 23.07.2025 16:00 to 13.08.2025 16:00; original EMD by 15.08.2025 16:00 (after bid close); technical bid opening 18.08.2025 16:00. Place of work on cover given as Deep Bhavan, Mumbai. Two-works threshold is 60% (not the usual 50%). Turnover period stated as ending 31.03.2024 and 31.03.2025 in different places. Listing has no bid opening date and title omits 'and DGPS Station'."
+}

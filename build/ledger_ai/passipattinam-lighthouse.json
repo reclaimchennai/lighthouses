@@ -1,0 +1,41 @@
+{
+  "slug": "passipattinam-lighthouse",
+  "pages_read": [1, 2],
+  "name": "Passipattinam Lighthouse",
+  "station_type": "lighthouse",
+  "established_year": 2005,
+  "alol": "F 0901.5",
+  "position": {"lat_text": "9° 48' 30\" N", "lon_text": "79° 04' 71\" E", "lat": 9.808333, "lon": 79.086389},
+  "elevation_m": 49,
+  "characteristic_text": "Fl (3) W every10 sec (0.5+1.5+0.3+1.5+0.3+6.1=10)",
+  "light": {
+    "kind": "Gp Fl",
+    "flashes_per_period": 3,
+    "colours": ["W"],
+    "period_s": 10,
+    "sequence_text": "0.5+1.5+0.3+1.5+0.3+6.1=10",
+    "sequence_s": [0.5, 1.5, 0.3, 1.5, 0.3, 6.1],
+    "flash_duration_s": 0.5
+  },
+  "sectors_text": null,
+  "range": {"luminous_nm": 19, "geographical_nm": null, "text": "19 NM (single unlabelled range)"},
+  "tower": {"type": "RCC Circular Tower", "height_m": 49, "colour_scheme": "Red and White Horizontal Bands"},
+  "optic": {
+    "make": "M/s-VEGA", "model": "VRB-25-LED, Sl.No.-810", "type": "Revolving", "size": null, "order": null,
+    "panels": 6,
+    "rotation_device": null,
+    "rpm": 3,
+    "rotates": true,
+    "rotates_evidence": "Type: Revolving, Model VRB-25-LED; R.P.M. 3 r.p.m (Rotation Device '-')",
+    "divergence_horizontal_deg": 3.04,
+    "divergence_vertical_deg": 4.56,
+    "divergence_text": "3.04° (Horizontal), 4.56° (Vertical)",
+    "illuminant": "Main: 12 V DC"
+  },
+  "intensity_cd": 17430,
+  "racon": {"present": false, "code": null, "text": null},
+  "ais": {"present": false, "text": null},
+  "dgps": {"present": false},
+  "power": {"mains": true, "solar": true, "generator": false, "text": "Tamilnadu electricity board 3 phase/440V AC; Engine 1 and 2 (NIL); 1 KW solar for main light; 2 KW off-grid solar for automation and street lights"},
+  "issues": ["Longitude printed 79° 04' 71\" E - seconds value 71 is >= 60", "Sequence 0.5+1.5+0.3+1.5+0.3+6.1 sums to 10.2 s, not the stated 10 s", "Flash durations inconsistent within sequence (0.5 then 0.3)", "NAIS base station fields empty though VSAT antenna/modem listed"]
+}
