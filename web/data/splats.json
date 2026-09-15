@@ -1,1 +1,12 @@
-{"stations": {}}
+{
+ "stations": {
+  "mahabalipuram-lighthouse": {
+   "url": "splats/mahabalipuram-lighthouse.sog",
+   "photos": 65,
+   "authors": "Arivumathi, Dinesh Valke from Thane, India, Oleg Yunakov and 35 others",
+   "licenses": "CC BY 2.0, CC BY 3.0, CC BY 4.0, CC BY-SA 2.0, CC BY-SA 3.0, CC BY-SA 4.0",
+   "attribution": "splats/mahabalipuram-lighthouse.attribution.json",
+   "built": "2026-09-15"
+  }
+ }
+}
