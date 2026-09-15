@@ -37,6 +37,9 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from warning_language import explain  # noqa: E402  plain-language version of each warning
+
 ROOT = Path(__file__).resolve().parent.parent
 BASE = "https://hydrobharat.gov.in"
 UA = "Mozilla/5.0 (compatible; lighthouses-map/1.0; +https://maps.reclaimchennai.city/lighthouses/)"
@@ -421,6 +424,13 @@ def merge_pdf(archive, recs, as_of, pdf_name):
 
 def publish(archive, meta):
     recs = sorted(archive.values(), key=lambda r: (r.get("issued") or "", r["key"]), reverse=True)
+    # plain language is rebuilt for every warning on every run, so improvements to the rules reach the archive too
+    for r in recs:
+        try:
+            r["plain"] = explain(r)
+        except Exception as e:                                    # one odd message must never stop the feed
+            r["plain"] = {"rule": "error", "icon": "misc", "title": r.get("place") or r["identifier"], "summary": "", "when": [], "advice": None}
+            print(f"explain failed for {r['key']}: {e}")
     active = [r for r in recs if r.get("status") == "active"]
     # the same event issued as NAVTEX and NAVAREA VIII shares its lighthouse links (one copy may lack a position)
     by_group = {}

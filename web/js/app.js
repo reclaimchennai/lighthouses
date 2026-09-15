@@ -985,7 +985,23 @@ const WCAT = {
 };
 const WKIND = { NAVTEX: 'NAVTEX', NAVAREA: 'NAVAREA VIII', 'T&P': 'T&P notice' };
 const EFFECT_TEXT = { unlit: 'light reported unlit', racon_off: 'RACON off air', dgnss_off: 'DGNSS off air', ais_off: 'AIS off air', racon_new: 'new RACON on trial' };
-const WARN_LAYERS = ['warn-fill', 'warn-line', 'warn-point'];
+const WARN_LAYERS = ['warn-fill', 'warn-line', 'warn-point', 'warn-mark'];
+var WICONS = null;
+async function warningIcons() {
+  if (!WICONS) WICONS = await fetch('data/warning_icons.json?v=1').then(r => r.json()).catch(() => ({}));
+  return WICONS;
+}
+// map marker: the warning's 16 × 16 pixel icon, dark on a square of its hazard colour
+function badgeImage(d, colour) {
+  const n = 18, cv = document.createElement('canvas');
+  cv.width = cv.height = n;
+  const g = cv.getContext('2d');
+  g.fillStyle = '#05060a'; g.fillRect(0, 0, n, n);
+  g.fillStyle = colour; g.fillRect(1, 1, n - 2, n - 2);
+  g.fillStyle = '#05060a'; g.translate(1, 1); g.fill(new Path2D(d));
+  return g.getImageData(0, 0, n, n);
+}
+const wicon = (name, cls = '') => `<svg class="i wi ${cls}" aria-hidden="true"><use href="warning-icons.svg?v=1#w-${name || 'misc'}"/></svg>`;
 
 function warnBBox(g) {
   const pts = g.type === 'Point' ? [g.coordinates] : g.type === 'MultiPoint' ? g.coordinates : g.coordinates.flat();
@@ -1007,6 +1023,16 @@ async function loadWarnings() {
     }
     WARN.features = [...groups.values()].map(w => ({ type: 'Feature', geometry: w.geometry, bbox: warnBBox(w.geometry),
       properties: { key: w.key, category: w.category, tp: w.kind === 'T&P' ? 1 : 0 } }));
+    // one icon marker per event: on the point, or in the middle of an area
+    WARN.marks = [...groups.values()].map(w => {
+      const g = w.geometry, ring = g.type === 'Polygon' ? g.coordinates[0].slice(0, -1) : null;
+      const at = g.type === 'Point' ? g.coordinates : g.type === 'MultiPoint' ? g.coordinates[0]
+        : [ring.reduce((a, p) => a + p[0], 0) / ring.length, ring.reduce((a, p) => a + p[1], 0) / ring.length];
+      const ic = w.plain?.icon || 'misc';
+      return { type: 'Feature', geometry: { type: 'Point', coordinates: at },
+               properties: { key: w.key, tp: w.kind === 'T&P' ? 1 : 0, icon: ic, category: w.category, img: `wi-${ic}-${w.category}` } };
+    });
+    await warningIcons();
     const o = WARN.meta.outages || {};
     layer.setOutages({ unlit: o.unlit || [], racon: o.racon_off || [] });
     const f = WARN.meta.in_force || {};
@@ -1036,7 +1062,17 @@ function hatchImage(color) {
 function addWarningLayers() {
   if (!styleReady) return;
   const data = { type: 'FeatureCollection', features: WARN.features };
-  if (map.getSource('warnings')) { map.getSource('warnings').setData(data); applyWarningVisibility(); return; }
+  const marks = { type: 'FeatureCollection', features: WARN.marks || [] };
+  for (const f of marks.features) {         // pixelRatio 0.5: one icon pixel = 2 × 2 CSS px, like the half-resolution map
+    const { img, icon: ic, category } = f.properties;
+    if (!map.hasImage(img) && WICONS?.[ic]) map.addImage(img, badgeImage(WICONS[ic], (WCAT[category] || WCAT.misc)[1]), { pixelRatio: 0.5 });
+  }
+  if (map.getSource('warnings')) {
+    map.getSource('warnings').setData(data);
+    map.getSource('warning-marks')?.setData(marks);
+    applyWarningVisibility();
+    return;
+  }
   for (const [k, [, c]] of Object.entries(WCAT)) if (!map.hasImage(`hatch-${k}`)) map.addImage(`hatch-${k}`, hatchImage(c));
   map.addSource('warnings', { type: 'geojson', data });
   const colour = ['match', ['get', 'category'], ...Object.entries(WCAT).flatMap(([k, [, c]]) => [k, c]), '#5fc8ff'];
@@ -1044,9 +1080,13 @@ function addWarningLayers() {
   map.addLayer({ id: 'warn-fill', type: 'fill', source: 'warnings', paint: { 'fill-pattern': ['concat', 'hatch-', ['get', 'category']] } }, before);
   map.addLayer({ id: 'warn-line', type: 'line', source: 'warnings',
     paint: { 'line-color': colour, 'line-width': ['interpolate', ['linear'], ['zoom'], 4, 1, 10, 2.5] } }, before);
-  map.addLayer({ id: 'warn-point', type: 'circle', source: 'warnings',
+  map.addLayer({ id: 'warn-point', type: 'circle', source: 'warnings', maxzoom: 5.5,
     paint: { 'circle-color': colour, 'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 3, 10, 6],
              'circle-stroke-color': '#05060a', 'circle-stroke-width': 2, 'circle-pitch-alignment': 'map' } }, before);
+  // closer in, every warning shows its icon: firing, wreck, buoy, rig, cable, survey …
+  map.addSource('warning-marks', { type: 'geojson', data: marks });
+  map.addLayer({ id: 'warn-mark', type: 'symbol', source: 'warning-marks', minzoom: 5.5,
+    layout: { 'icon-image': ['get', 'img'], 'icon-allow-overlap': true, 'icon-ignore-placement': true, 'icon-pitch-alignment': 'viewport' } }, before);
   applyWarningVisibility();
 }
 function applyWarningVisibility() {
@@ -1058,6 +1098,7 @@ function applyWarningVisibility() {
   map.setFilter('warn-fill', ['all', poly, kinds]);
   map.setFilter('warn-line', ['all', poly, kinds]);
   map.setFilter('warn-point', ['all', pt, kinds]);
+  if (map.getLayer('warn-mark')) map.setFilter('warn-mark', kinds);
   // warnings in force belong to today, not to a year picked on the history slider
   const on = (nav || tp) && layer.year >= new Date().getFullYear();
   for (const id of WARN_LAYERS) map.setLayoutProperty(id, 'visibility', on ? 'visible' : 'none');
@@ -1067,7 +1108,7 @@ $('#l-tp').addEventListener('change', applyWarningVisibility);
 function warningAt(pt) {
   if (!map.getLayer('warn-fill') || map.getLayoutProperty('warn-fill', 'visibility') === 'none') return null;
   const f = map.queryRenderedFeatures([[pt.x - 6, pt.y - 6], [pt.x + 6, pt.y + 6]], { layers: WARN_LAYERS });
-  const hit = f.find(x => x.layer.id === 'warn-point') || f[0];
+  const hit = f.find(x => x.layer.id === 'warn-mark') || f.find(x => x.layer.id === 'warn-point') || f[0];
   return hit ? hit.properties.key : null;
 }
 function openWarning(key) {
@@ -1096,17 +1137,25 @@ function renderWarningCard(w) {
   const passed = w.cancel_at && w.cancel_at < new Date().toISOString();
   const row = (k, v) => (v ? `<dt>${k}</dt><dd>${v}</dd>` : '');
   const short = id => nice(byId.get(id)?.name || id).replace(/\s+(Lighthouse|Light House).*$/i, '');
+  const p = w.plain || {};
   card.innerHTML = `
     <button class="close" aria-label="Close">${icon('close')}</button>
     <div class="body">
-      <h2 id="card-title" tabindex="-1">${esc(WKIND[w.kind] || w.kind)} ${esc(w.identifier)}</h2>
-      <div class="region">${esc([w.area, w.place].filter(Boolean).join(' · ') || label)}</div>
+      <div class="warn-head" style="--c:${colour}">${wicon(p.icon)}<div>
+        <h2 id="card-title" tabindex="-1">${esc(p.title || `${WKIND[w.kind] || w.kind} ${w.identifier}`)}</h2>
+        <div class="region">${esc(WKIND[w.kind] || w.kind)} ${esc(w.identifier)} · ${esc([w.area, w.place].filter(Boolean).join(' · ') || label)}</div>
+      </div></div>
       <div class="badges">
         <span class="badge warn-cat" style="--c:${colour}">${icon('alert')}${esc(label)}</span>
         <span class="badge">${passed ? 'Cancel time passed' : 'In force'}</span>
       </div>
-      <section class="spec"><h3 class="spec-h">${icon('doc')}Message</h3><p class="warn-msg">${esc(w.message)}</p></section>
-      <section class="spec"><h3 class="spec-h">${icon('info')}Details</h3><dl class="facts">
+      <section class="spec"><h3 class="spec-h">${icon('info')}What it means</h3>
+        <p class="plain">${esc(p.summary || w.message)}</p>
+        ${(p.when || []).length ? `<ul class="when">${p.when.map(x => `<li>${icon('clock')}<span>${esc(x)}</span></li>`).join('')}</ul>` : ''}
+        ${p.advice ? `<p class="advice">${icon('alert')}<span>${esc(p.advice)}</span></p>` : ''}
+      </section>
+      <details class="spec original"><summary>${icon('doc')}Original warning, as issued</summary><p class="warn-msg">${esc(w.message)}</p></details>
+      <section class="spec"><h3 class="spec-h">${icon('list')}Details</h3><dl class="facts">
         ${row('Issued', esc(w.dtg || w.issued))}
         ${row('Broadcast', w.b_char ? `${esc(w.b_char)}${(w.navtex_stations || []).length ? ` · ${esc(w.navtex_stations.map(short).join(', '))}` : ''}` : '')}
         ${row('Also issued as', related.map(r => `<button type="button" class="linkish warn-open" data-key="${esc(r.key)}">${esc(WKIND[r.kind])} ${esc(r.identifier)}</button>`).join(', '))}
@@ -1120,7 +1169,7 @@ function renderWarningCard(w) {
         <a href="${esc(w.link)}" target="_blank" rel="noopener">NHO India WINS</a>
         <a href="warnings.html#w-${esc(w.key.replace(/[^\w-]/g, '_'))}">Warning archive</a>
       </div>
-      <p class="note fine">Not for navigation. Use the official broadcast and Notices to Mariners.</p>
+      <p class="note fine">The plain-language version is written automatically from NHO's text; the original warning is the authority. Not for navigation: use the official broadcast and Notices to Mariners.</p>
     </div>`;
   card.hidden = false;
   card.scrollTop = 0;
@@ -1135,7 +1184,7 @@ function stationWarnings(s) {
   if (!list.length) return '';
   return `<div class="check warn-check" role="note">${icon('alert')}<div><b>Navigational warning in force</b><ul>${list.map(w =>
     `<li><button type="button" class="linkish warn-open" data-key="${esc(w.key)}">${esc(WKIND[w.kind])} ${esc(w.identifier)}</button>: ${
-      esc((w.effects || []).map(e => EFFECT_TEXT[e]).filter(Boolean).join(', ') || `${w.message.slice(0, 90)}…`)}${w.issued ? `, since ${esc(w.issued)}` : ''}</li>`).join('')}</ul></div></div>`;
+      esc(w.plain?.title || (w.effects || []).map(e => EFFECT_TEXT[e]).filter(Boolean).join(', ') || `${w.message.slice(0, 90)}…`)}${w.issued ? `, since ${esc(w.issued)}` : ''}</li>`).join('')}</ul></div></div>`;
 }
 loadWarnings();
 setInterval(loadWarnings, 10 * 60 * 1000);

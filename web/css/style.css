@@ -49,9 +49,14 @@ canvas.scene{display:block;width:100%;aspect-ratio:16/9;image-rendering:pixelate
 #loading{position:absolute;inset:0;display:grid;place-content:center;justify-items:center;gap:16px;z-index:50;background:var(--bg);
   color:var(--text-2);font-family:var(--label);font-size:13px;transition:opacity .4s steps(4)}
 #loading.done{opacity:0;pointer-events:none}
-#loading .lamp{width:16px;height:16px;background:var(--beam);box-shadow:0 0 0 4px #ffe27a55,0 0 0 8px #ffe27a22;animation:blink 2.2s steps(1,end) infinite}
+/* loading lighthouse: a pixel tower whose beam turns (stepped, like the map's 12 fps sweep) and whose lamp flashes */
+.lh-loader{display:block;width:96px;height:96px;image-rendering:pixelated;overflow:visible}
+.lh-loader .lh-beams{transform-box:view-box;transform-origin:16px 8px;animation:lh-turn 2.4s steps(12) infinite}
+.lh-loader .lh-lamp{animation:lh-lamp 2.4s steps(1,end) infinite}
+@keyframes lh-turn{0%{transform:scaleX(1)}25%{transform:scaleX(.08)}50%{transform:scaleX(-1)}75%{transform:scaleX(-.08)}100%{transform:scaleX(1)}}
+@keyframes lh-lamp{0%,20%{fill:#ffffff}21%,45%{fill:#ffe27a}46%,70%{fill:#ffffff}71%,100%{fill:#ffe27a}}
 @keyframes blink{0%,12%{opacity:1}13%,100%{opacity:.15}}
-@media (prefers-reduced-motion:reduce){#loading .lamp,#rec-badge i{animation:none}}
+@media (prefers-reduced-motion:reduce){.lh-loader .lh-beams,.lh-loader .lh-lamp,#rec-badge i{animation:none}}
 
 /* ----------------------------------------------------------------- labels */
 #labels{position:absolute;inset:0;pointer-events:none;z-index:3;overflow:hidden}
@@ -182,6 +187,17 @@ sup.fn{color:var(--gold);font-family:var(--font);font-size:12px;margin-left:2px;
 .badge.warn-cat{border-color:var(--c);color:var(--c)}
 .warn-msg{margin:0;font-size:15px;line-height:1.55;white-space:pre-wrap;overflow-wrap:anywhere}
 .linkish{appearance:none;background:none;border:0;padding:2px 0;min-height:24px;font:inherit;color:var(--sky);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+.warn-head{display:flex;gap:12px;align-items:flex-start}
+.warn-head .wi{width:44px;height:44px;padding:4px;flex:0 0 auto;background:var(--c);color:#05060a;border:3px solid var(--edge);box-shadow:var(--shadow)}
+.card .plain{margin:0;font-size:16px;line-height:1.5}
+.card .when{list-style:none;margin:10px 0 0;padding:0;display:grid;gap:6px}
+.card .when li{display:flex;gap:8px;align-items:flex-start;font-size:15px;line-height:1.4}
+.card .when .i{width:16px;height:16px;margin-top:2px;color:var(--gold)}
+.card .advice{display:flex;gap:8px;align-items:flex-start;margin:12px 0 0;padding:8px 10px;background:var(--cell);border:2px solid var(--edge);font-size:15px;line-height:1.4;color:#ffe0b0}
+.card .advice .i{width:18px;height:18px;color:#ffb86b;flex:0 0 auto}
+details.original>summary{cursor:pointer;display:flex;gap:8px;align-items:center;min-height:36px;font-family:var(--label);font-size:11px;color:var(--text-2)}
+details.original>summary .i{width:16px;height:16px;color:var(--gold)}
+details.original .warn-msg{margin-top:8px}
 .warn-check ul{margin:6px 0 0;padding-left:18px}
 .warn-check li{margin:3px 0;font-size:14px;line-height:1.4}
 .visually-hidden{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}

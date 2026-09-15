@@ -439,6 +439,35 @@ Prince of Persia.
 - **Archive page.** `web/warnings.html` + `js/warnings.js` provide stats, search and filters (kind,
   category, status, year), each entry lazily expanded, with a link to the map and to NHO.
 
+### Plain-language warnings and icons (2026-09-15)
+- **`scripts/warning_language.py` `explain(record)`.** Deterministic rules, no model, no network. It
+  returns `{title, summary, when[], advice, icon, rule}`.
+  - Rules are tried in order: in-force list, DGNSS off, new RACON, RACON off, light characteristic,
+    light off, scientific buoys, buoys (per clause: missing, under water, unlit, removed, moved,
+    placed), sunk or wreck, aground, lost anchor, shallow water, flight trials, space debris, air drop,
+    firing (actor: Coast Guard, IAF, Bangladesh Navy, Army air defence, ships and submarines),
+    rig move, rig list, drilling, cable, pipeline, survey, salvage, dredging, construction,
+    ship-to-ship, support vessel, and finally `fallback` (sentence-cased original with positions removed).
+  - Times: `DDHHMM TO DDHHMM UTC <MON YY>` windows and `HHMM TO HHMM UTC` slots become IST (+5:30),
+    and day lists and ranges read naturally.
+  - Advice comes from "BERTH OF n NM" (with km), "WIDE BERTH" or "EXERCISE CAUTION", else a
+    rule-specific default.
+  - On 290 archived warnings only 10 hit the fallback (unusual T&P notices).
+- **`fetch_warnings.py publish()`** rebuilds `plain` for every record on every run, including the
+  archive, so rule fixes apply retroactively. An exception in `explain` degrades that one record
+  instead of failing the feed. The original `message` is never changed.
+- **Icons.** `scripts/build_warning_icons.py` turns 16×16 ASCII art into `web/warning-icons.svg`
+  (`<symbol id="w-…">`) and `web/data/warning_icons.json` (path data).
+  - `-off` variants are a slashed copy; `buoy-missing` is a ghosted buoy with a question mark.
+  - Map: `warn-mark` symbol layer at z ≥ 5.5 (dots below). Each badge is drawn on a canvas from the
+    path data (dark glyph on the hazard colour) and added with `pixelRatio: 0.5`, so one icon pixel
+    is 2 × 2 CSS px like the half-resolution map.
+- **UI.**
+  - Warning card: icon, headline, "What it means" (summary, when, advice), then "Original warning, as
+    issued" in a disclosure, then details.
+  - Station warning boxes use the headline. The archive page lists by headline with icon and shows
+    plain text above the original.
+
 ### Handoff: next steps (for a future session or Fable)
 1. **Measured building heights near lighthouses.**
    - For each station, take tiles at z 15–16 covering a radius of `reach_nm × 1.1` (cap ~40 km).

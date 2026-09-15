@@ -12,7 +12,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&family=Silkscreen:wght@400;700&display=swap">
-<link rel="stylesheet" href="css/style.css?v=13">
+<link rel="stylesheet" href="css/style.css?v=15">
 <!-- MapLibre 5 UMD: inlines its worker (the v6 ESM build loads a cross-origin module worker, which browsers block from a CDN) -->
 <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
 <!-- mp4-muxer, vendored as in pol.reclaimchennai.city: WebCodecs H.264 into a real MP4 -->
@@ -34,7 +34,25 @@
 <div id="watermark" aria-hidden="true"><b id="wm-year">2026</b><span>Lighthouses of India · maps.reclaimchennai.city</span></div>
 
 <div id="history-caption" hidden aria-live="polite"></div>
-<div id="loading" role="status" aria-live="polite"><div class="lamp" aria-hidden="true"></div><span id="loading-text">Loading the map…</span><div class="load-bar" role="progressbar" aria-label="Loading" aria-valuemin="0" aria-valuemax="100" aria-valuenow="4"><i></i></div><span class="load-pct" aria-hidden="true">4%</span></div>
+<div id="loading" role="status" aria-live="polite"><svg class="lh-loader" viewBox="0 0 32 32" width="96" height="96" shape-rendering="crispEdges" aria-hidden="true">
+  <!-- the beam turns: the near beam is long and bright, the far beam short and dim, and flipping them reads as a sweep -->
+  <g class="lh-beams">
+    <polygon points="16,7 32,3 32,13 16,9" fill="#ffe27a" opacity=".7"/>
+    <polygon points="16,7 6,5 6,11 16,9" fill="#ffe27a" opacity=".25"/>
+  </g>
+  <rect x="15" y="2" width="2" height="1" fill="#8e2a1f"/>
+  <rect x="13" y="3" width="6" height="2" fill="#c0392b"/>
+  <rect class="lh-lamp" x="14" y="5" width="4" height="4" fill="#ffe27a"/>
+  <rect x="12" y="9" width="8" height="1" fill="#2c3037"/>
+  <rect x="13" y="10" width="6" height="4" fill="#f5f1e6"/>
+  <rect x="13" y="14" width="6" height="4" fill="#c0392b"/>
+  <rect x="12" y="18" width="8" height="4" fill="#f5f1e6"/>
+  <rect x="12" y="22" width="8" height="4" fill="#c0392b"/>
+  <rect x="15" y="23" width="2" height="3" fill="#2c3037"/>
+  <rect x="10" y="26" width="12" height="2" fill="#6d7079"/>
+  <rect x="2" y="28" width="28" height="1" fill="#3d4047"/>
+  <rect x="4" y="30" width="3" height="1" fill="#1b3347"/><rect x="11" y="30" width="4" height="1" fill="#1b3347"/><rect x="20" y="30" width="3" height="1" fill="#1b3347"/><rect x="26" y="30" width="3" height="1" fill="#1b3347"/>
+</svg><span id="loading-text">Loading the map…</span><div class="load-bar" role="progressbar" aria-label="Loading" aria-valuemin="0" aria-valuemax="100" aria-valuenow="4"><i></i></div><span class="load-pct" aria-hidden="true">4%</span></div>
 <script>
 // Loading progress. Runs before the modules: the bar creeps toward the next milestone so it never looks
 // stuck while MapLibre, three.js and the data download; app.js reports real milestones and bytes
@@ -182,6 +200,6 @@
 <section id="card" class="card" hidden role="dialog" aria-modal="false" aria-labelledby="card-title"></section>
 <div id="record" hidden></div>
 
-<script type="module" src="js/app.js?v=14"></script>
+<script type="module" src="js/app.js?v=15"></script>
 </body>
 </html>

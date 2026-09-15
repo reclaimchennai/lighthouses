@@ -33,7 +33,12 @@ opt($('#yr'), [...new Set(warnings.map(w => (w.issued || '').slice(0, 4)).filter
 function body(w) {
   const f = (k, v) => (v ? `<dt>${k}</dt><dd>${v}</dd>` : '');
   const stations = (w.stations || []).map(id => `<a href="./#${esc(id)}">${esc(stationName[id] || id)}</a>`).join(', ');
+  const p = w.plain || {};
   return `<div class="tb">
+    <p class="plain">${esc(p.summary || '')}</p>
+    ${(p.when || []).length ? `<ul class="when">${p.when.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
+    ${p.advice ? `<p class="advice">${esc(p.advice)}</p>` : ''}
+    <p class="orig-h">Original warning, as issued</p>
     <p class="msg">${esc(w.message)}</p>
     <dl>
       ${f('Kind', esc(KIND[w.kind] || w.kind))}
@@ -59,7 +64,7 @@ function render() {
   const q = $('#q').value.trim().toLowerCase(), kind = $('#kind').value, cat = $('#cat').value, st = $('#status').value, yr = $('#yr').value;
   const rows = warnings.filter(w => (!kind || w.kind === kind) && (!cat || w.category === cat) && (!st || w.status === st)
     && (!yr || (w.issued || '').startsWith(yr))
-    && (!q || [w.identifier, w.place, w.area, w.message, w.b_char, ...(w.stations || []).map(id => stationName[id])].join(' ').toLowerCase().includes(q)));
+    && (!q || [w.identifier, w.place, w.area, w.message, w.b_char, w.plain?.title, w.plain?.summary, ...(w.stations || []).map(id => stationName[id])].join(' ').toLowerCase().includes(q)));
   $('#count').textContent = `${rows.length} of ${warnings.length} warnings`;
   $('#list').innerHTML = rows.map(w => {
     const [label, colour] = CATEGORY[w.category] || CATEGORY.misc;
@@ -67,8 +72,9 @@ function render() {
     return `<details class="warn" id="w-${esc(w.key.replace(/[^\w-]/g, '_'))}" style="border-left-color:${colour}">
       <summary>
         <span class="d">${esc(day(w.issued) || '–')}</span>
-        <span class="h">${esc(KIND[w.kind] || w.kind)} ${esc(w.identifier)} · ${esc(w.place || w.area || label)}</span>
+        <span class="h"><svg class="i wi" aria-hidden="true" style="color:${colour}"><use href="warning-icons.svg?v=1#w-${esc(w.plain?.icon || 'misc')}"/></svg>${esc(w.plain?.title || w.place || w.area || label)}</span>
         <span class="sub">
+          <span class="chipx">${esc(KIND[w.kind] || w.kind)} ${esc(w.identifier)}</span>
           <span class="chipx" style="color:${colour}">${esc(label)}</span>
           <span class="chipx ${w.status === 'active' ? 'on' : ''}">${w.status === 'active' ? 'in force' : 'ended'}</span>
           ${gone ? '<span class="chipx warnc">cancel time passed</span>' : ''}
