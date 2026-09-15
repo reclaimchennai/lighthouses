@@ -1136,8 +1136,10 @@ def main():
     tender_links = json.load(open(tenders_path))["by_station"] if os.path.exists(tenders_path) else {}
     for s in stations:
         if s["id"] in photos:
+            p = photos[s["id"]]
             s["photo_local"] = f"photos/{s['id']}.jpg"
-            s["photo"] = s.get("photo") or photos[s["id"]]["src"]
+            s["photo"] = s.get("photo") or p["src"]
+            s["photo_meta"] = {"w": p["width"], "h": p["height"], "bytes": p["bytes"], "full": p.get("full"), "credit": p.get("credit")}
         if tender_links.get(s["id"]):
             s["tenders"] = tender_links[s["id"]]
     meta = dict(

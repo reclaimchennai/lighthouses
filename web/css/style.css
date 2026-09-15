@@ -224,7 +224,38 @@ sup.fn{color:var(--gold);font-family:var(--font);font-size:12px;margin-left:2px;
 .card h3{margin:0;font-size:24px;line-height:1.1;font-weight:700;text-shadow:3px 3px 0 #000}
 .card .region{font-family:var(--label);font-size:9px;color:var(--text-2);margin-top:6px;line-height:1.5}
 .card .photo-thumb{display:flex;align-items:flex-end;height:120px;margin-top:10px;background:#111 center/cover;border:3px solid var(--edge);box-shadow:var(--shadow);image-rendering:auto}
-.card .photo-thumb span{background:rgba(0,0,0,.7);color:#fff;font-family:var(--label);font-size:9px;padding:4px 6px}
+.card .photo-thumb span{display:inline-flex;align-items:center;gap:6px;background:rgba(0,0,0,.72);color:#fff;font-family:var(--label);font-size:11px;padding:5px 8px}
+.card .photo-thumb span .i{width:14px;height:14px}
+button.photo-thumb{appearance:none;width:100%;padding:0;font:inherit;color:inherit;cursor:zoom-in;text-align:left}
+button.photo-thumb:hover{border-color:var(--gold)}
+
+/* ------------------------------------------------------------ media viewer */
+body.viewer-open{overflow:hidden}
+.viewer{position:fixed;inset:0;z-index:90;display:grid;grid-template-rows:auto minmax(0,1fr) auto;gap:10px;
+  padding:calc(10px + var(--safe-t)) 10px calc(10px + var(--safe-b));background:rgba(3,4,8,.95)}
+/* phone: title and Close on one row, actions below; desktop: title · actions · Close */
+.v-bar{display:grid;grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"t c" "a a";gap:8px;align-items:center}
+.v-title{min-width:0;grid-area:t}
+.v-close{grid-area:c}
+.v-actions{grid-area:a}
+@media (min-width:821px){.v-bar{grid-template-columns:minmax(0,1fr) auto auto;grid-template-areas:"t a c"}}
+.v-title b{display:block;font-size:18px;line-height:1.2}
+.v-title small{display:block;font-family:var(--label);font-size:11px;color:var(--text-2);margin-top:3px;overflow-wrap:anywhere}
+.v-actions{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.v-actions .btn.icon{width:44px;height:44px;font-size:20px}
+.v-actions .btn.on{background:#3e8e2f;box-shadow:inset 3px 3px 0 #5fb34f,inset -3px -3px 0 #2c6b21}
+.v-stage{position:relative;overflow:hidden;display:grid;place-items:center;touch-action:none;background:#000;border:3px solid var(--edge)}
+.v-stage img,.v-stage video,.v-stage canvas{max-width:100%;max-height:100%;transform-origin:center;user-select:none;-webkit-user-drag:none}
+/* pinned to the stage so a tall capture (map + legend + credit band) always fits whole */
+.v-stage img{position:absolute;inset:0;width:100%;height:100%;max-width:none;max-height:none;object-fit:contain;cursor:zoom-in}
+.v-stage img.pixel{image-rendering:pixelated}
+.v-stage.zoomed img{cursor:grab}
+.v-stage canvas{width:100%;height:100%}
+.v-status{position:absolute;left:50%;bottom:14px;transform:translateX(-50%);padding:6px 10px;background:var(--panel);border:3px solid var(--edge);
+  font-family:var(--label);font-size:11px;white-space:nowrap}
+.v-status:empty{display:none}
+.v-credit{font-size:13px;color:var(--text-2)}
+@media (max-width:560px){.v-actions .btn:not(.icon){padding:6px 10px}}
 .card .signature{display:flex;align-items:center;gap:10px;margin:12px 0 2px}
 .card .signature canvas{flex:1;width:100%;height:28px;background:#05060a;border:3px solid var(--edge);image-rendering:pixelated}
 

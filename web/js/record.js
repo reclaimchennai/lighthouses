@@ -17,17 +17,20 @@ const MAX_WIDTH = matchMedia('(min-width:821px)').matches ? 1280 : 960;
 const CODECS = ['avc1.640028', 'avc1.4d0028', 'avc1.42003c', 'avc1.42E01E'];
 const CREDIT = 'maps.reclaimchennai.city/lighthouses · DGLL Master Ledgers · Lok Sabha · © OpenStreetMap, OpenFreeMap · Natural Earth · DataMeet';
 
-export function createCapture({ map, cropLeft, year, subtitle, onState }) {
+export function createCapture({ map, cropLeft, year, subtitle, onState, legend, onMedia }) {
   const comp = document.createElement('canvas');
   let recording = null;
+  const fade = new Map(), lastItem = new Map();     // legend rows fade in and out over a few video frames
 
-  function draw() {
+  function draw(instant = false) {
     const src = map.getCanvas();
     if (!src.width) return null;
     const cssW = src.clientWidth || src.width, pr = src.width / cssW;
     const left = Math.round((cropLeft() || 0) * pr);
     const sw = src.width - left, sh = src.height;
-    const scale = Math.min(1, MAX_WIDTH / sw);
+    // The map draws at half resolution: scale it up by a whole number (nearest neighbour keeps the pixels
+    // crisp), up to MAX_WIDTH, so the saved picture and its legend are legible
+    const scale = sw >= MAX_WIDTH ? MAX_WIDTH / sw : Math.max(1, Math.floor(MAX_WIDTH / sw));
     const w = Math.round(sw * scale), h = Math.round(sh * scale);
     const band = Math.round(34 * Math.max(0.8, scale * pr));
     if (!recording || !comp.width) {           // size stays fixed for a whole take; even for H.264
@@ -69,6 +72,8 @@ export function createCapture({ map, cropLeft, year, subtitle, onState }) {
     ctx.fillText(subtitle(), Math.round(19 * s), Math.round(56 * s));
     ctx.shadowBlur = 0;
 
+    drawLegend(ctx, legend ? legend() : [], h, s, instant);
+
     // credit band
     ctx.fillStyle = '#0a0f15';
     ctx.fillRect(0, h, comp.width, comp.height - h);
@@ -77,6 +82,51 @@ export function createCapture({ map, cropLeft, year, subtitle, onState }) {
     ctx.font = `400 ${Math.round(12 * s)}px "LH Digits", "Pixelify Sans", monospace`;
     ctx.fillText(CREDIT, Math.round(14 * s), h + (comp.height - h) / 2, comp.width - 28 * s);
     return comp;
+  }
+
+  // Legend of what is on screen right now; app.js decides from the layers that are on, what is in view,
+  // the zoom and the year. A row fades in when its thing appears in the scene (NAVTEX switching on
+  // mid-voyage, buildings rising at z 14) and fades out when it leaves, so a video's legend follows it.
+  function drawLegend(ctx, items, h, s, instant) {
+    const live = new Set();
+    for (const it of items) {
+      live.add(it.id); lastItem.set(it.id, it);
+      fade.set(it.id, instant ? 1 : Math.min(1, (fade.get(it.id) || 0) + 0.1));
+    }
+    for (const [id, a] of fade) {
+      if (live.has(id)) continue;
+      const next = instant ? 0 : a - 0.1;
+      if (next <= 0) { fade.delete(id); lastItem.delete(id); } else fade.set(id, next);
+    }
+    const rows = [...fade.entries()].map(([id, a]) => [lastItem.get(id), a]).filter(r => r[0]);
+    if (!rows.length) return;
+    const fs = Math.round(11 * s), rh = Math.round(18 * s), pad = Math.round(8 * s), sw = Math.round(24 * s), u = 4 * s;
+    ctx.font = `400 ${fs}px "LH Digits", "Pixelify Sans", monospace`;
+    ctx.textBaseline = 'middle'; ctx.textAlign = 'left';
+    const tw = Math.max(...rows.map(([it]) => ctx.measureText(it.label).width));
+    const bw = Math.round(pad * 2 + sw + tw), bh = Math.round(pad * 2 + rh * rows.length);
+    const x0 = Math.round(12 * s), y0 = Math.round(h - bh - 12 * s);
+    ctx.globalAlpha = Math.max(...rows.map(r => r[1]));
+    ctx.fillStyle = 'rgba(8,11,18,.86)'; ctx.fillRect(x0, y0, bw, bh);
+    ctx.strokeStyle = '#05060a'; ctx.lineWidth = Math.max(2, Math.round(2 * s)); ctx.strokeRect(x0, y0, bw, bh);
+    rows.forEach(([it, a], i) => {
+      ctx.globalAlpha = a;
+      const cy = y0 + pad + rh * i + rh / 2, cx = x0 + pad;
+      ctx.fillStyle = ctx.strokeStyle = it.color || '#fff';
+      if (it.type === 'ring') { ctx.lineWidth = Math.max(1.5, 2 * s); ctx.beginPath(); ctx.arc(cx + 2.2 * u, cy, 1.7 * u, 0, Math.PI * 2); ctx.stroke(); }
+      else if (it.type === 'wedge') { ctx.beginPath(); ctx.moveTo(cx, cy); ctx.lineTo(cx + 4.6 * u, cy - 2 * u); ctx.lineTo(cx + 4.6 * u, cy + 2 * u); ctx.closePath(); ctx.fill(); }
+      else if (it.type === 'ramp') {
+        const g = ctx.createLinearGradient(cx, 0, cx + 4.6 * u, 0);
+        it.colors.forEach((c, k) => g.addColorStop(k / (it.colors.length - 1), c));
+        ctx.fillStyle = g; ctx.fillRect(cx, cy - u, 4.6 * u, 2 * u);
+      }
+      else if (it.type === 'dots') { for (let k = 0; k < 3; k++) ctx.fillRect(cx + k * 1.7 * u, cy - u / 2 + (k % 2 ? u / 2 : -u / 2), u, u); }
+      else if (it.type === 'block') { ctx.fillRect(cx + 0.6 * u, cy - 1.6 * u, 3.2 * u, 3.2 * u); ctx.fillStyle = 'rgba(255,255,255,.25)'; ctx.fillRect(cx + 0.6 * u, cy - 1.6 * u, 3.2 * u, u); }
+      else ctx.fillRect(cx + 0.8 * u, cy - 1.25 * u, 2.5 * u, 2.5 * u);
+      ctx.fillStyle = '#e6ecf1';
+      ctx.fillText(it.label, cx + sw, cy + 1);
+    });
+    ctx.globalAlpha = 1;
   }
 
   function stamp() {
@@ -91,12 +141,19 @@ export function createCapture({ map, cropLeft, year, subtitle, onState }) {
     setTimeout(() => URL.revokeObjectURL(url), 20000);
   }
 
+  // the finished file goes to the app's viewer (preview, save, share); a plain download without one
+  function deliver(blob, name, kind, note) {
+    if (onMedia) onMedia({ blob, name, kind });
+    else download(blob, name);
+    onState({ note });
+  }
+
   function snapshot() {
     map.triggerRepaint();
     map.once('render', () => {
-      const c = draw();
+      const c = draw(true);
       if (!c) return onState({ note: 'The map is not ready yet.', warn: true });
-      c.toBlob(b => { download(b, `lighthouses-india-${year()}-${stamp()}.png`); onState({ note: 'Picture saved.' }); }, 'image/png');
+      c.toBlob(b => deliver(b, `lighthouses-india-${year()}-${stamp()}.png`, 'image', 'Picture ready.'), 'image/png');
     });
   }
 
@@ -151,8 +208,8 @@ export function createCapture({ map, cropLeft, year, subtitle, onState }) {
     try { await encoder.flush(); muxer.finalize(); } catch (e) { failure = e; }
     try { encoder.close(); } catch (e) { /* closed */ }
     if (failure || frames < 2) return false;
-    download(new Blob([target.buffer], { type: 'video/mp4' }), `lighthouses-india-${year()}-${stamp()}.mp4`);
-    onState({ note: `Saved ${(ms / 1000).toFixed(1)} s MP4.` });
+    deliver(new Blob([target.buffer], { type: 'video/mp4' }), `lighthouses-india-${year()}-${stamp()}.mp4`, 'video',
+      `Recorded ${(ms / 1000).toFixed(1)} s MP4.`);
     return true;
   }
 
@@ -176,8 +233,8 @@ export function createCapture({ map, cropLeft, year, subtitle, onState }) {
     if (!chunks.length) return false;
     let blob = new Blob(chunks, { type: mime });
     if (mime.startsWith('video/webm')) blob = await fixWebmDuration(blob, ms);
-    download(blob, `lighthouses-india-${year()}-${stamp()}.${mime.startsWith('video/webm') ? 'webm' : 'mp4'}`);
-    onState({ note: `Saved ${(ms / 1000).toFixed(1)} s video (this browser has no MP4 encoder, so WebM).` });
+    deliver(blob, `lighthouses-india-${year()}-${stamp()}.${mime.startsWith('video/webm') ? 'webm' : 'mp4'}`, 'video',
+      `Recorded ${(ms / 1000).toFixed(1)} s video (WebM: this browser has no MP4 encoder).`);
     return true;
   }
 
@@ -188,6 +245,7 @@ export function createCapture({ map, cropLeft, year, subtitle, onState }) {
     if (!hasCodecs && !hasStream) return onState({ note: 'This browser cannot record video. The picture button still works.', warn: true });
     recording = { stop: false };
     comp.width = 0;
+    fade.clear(); lastItem.clear();                   // a new take starts its legend from nothing
     onState({ recording: true, seconds: 0 });
     let ok = false;
     try {

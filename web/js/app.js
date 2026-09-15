@@ -3,11 +3,13 @@
 import * as THREE from 'three';
 // ?v= on every module: Cloudflare caches .js for ~4 h, and a fresh app.js must never meet a stale layer3d.js
 import { LighthouseLayer, COLOURS, lightLevel, morsePhases } from './layer3d.js?v=10';
-import { createCapture } from './record.js?v=7';
+import { createCapture } from './record.js?v=8';
 import { openRecord } from './dossier.js?v=1';
 import { mountScene } from './scenes.js?v=2';
 import { towerSpec } from './models.js?v=3';
 import { emit } from './network.js?v=1';
+import { openViewer } from './viewer.js?v=2';
+import { openSplat } from './splat.js?v=1';
 
 const maplibregl = window.maplibregl;
 const $ = s => document.querySelector(s);
@@ -71,6 +73,9 @@ const [data, reach, base] = await Promise.all([
 const loadStep = (text, pct) => window.__lhLoad ? window.__lhLoad(pct, text) : ($('#loading-text').textContent = text);
 loadStep('Drawing the coast…', 86);
 const S = data.stations;
+// 3D scans (Gaussian splats, scripts/splat/): loaded in the background, a card shows its button once known
+let SCANS = {};
+fetch('data/splats.json').then(r => (r.ok ? r.json() : {})).then(d => { SCANS = d.stations || {}; }).catch(() => {});
 const P = data.parliament;
 const lights = S.filter(s => s.kind === 'lighthouse' || s.kind === 'lightvessel');
 const byId = new Map(S.map(s => [s.id, s]));
@@ -778,7 +783,8 @@ function renderCard(s) {
     <div class="body">
       <h3>${esc(nice(s.name))}</h3>
       <div class="region">${esc(s.region || '')} directorate · ${s.lat.toFixed(4)}° N, ${s.lon.toFixed(4)}° E</div>
-      ${photo ? `<a class="photo-thumb" href="${esc(photo)}" target="_blank" rel="noopener" style="background-image:url('${esc(s.photo_local || photo)}')"><span>${s.photo.includes('dgll') ? 'Photo · DGLL' : 'Photo · Wikimedia Commons'}</span></a>` : ''}
+      ${photo ? `<button type="button" class="photo-thumb" aria-label="Open the photo of ${esc(nice(s.name))}" style="background-image:url('${esc(s.photo_local ? `photos/thumb/${s.id}.jpg` : photo)}')"><span>${icon('camera')}${s.photo.includes('dgll') ? 'Photo · DGLL' : 'Photo · Wikimedia Commons'}</span></button>` : ''}
+      ${SCANS[s.id] ? `<button type="button" class="btn wide scan-open">${icon('cube')}3D scan · ${SCANS[s.id].photos} photos</button>` : ''}
       ${s.phases ? `<div class="signature"><canvas width="300" height="26" aria-label="Flash signature"></canvas></div>` : ''}
       <div class="badges">${kit.join('')}</div>
       ${lightSpec(s)}
@@ -812,6 +818,19 @@ function renderCard(s) {
   card.scrollTop = 0;
   card.querySelector('.close').onclick = closeCard;
   card.querySelector('.rec-open')?.addEventListener('click', () => openRecord(s, { icon, esc }));
+  card.querySelector('.photo-thumb')?.addEventListener('click', () => {
+    const m = s.photo_meta || {};
+    const dgll = s.photo.includes('dgll');
+    openViewer({
+      title: nice(s.name),
+      subtitle: `${dgll ? 'DGLL' : 'Wikimedia Commons'}${m.w ? ` · original ${m.w} × ${m.h}` : ''}`,
+      src: s.photo_local || photo, full: m.full, fullBytes: m.bytes, fullSize: m.w ? `${m.w} × ${m.h}` : '',
+      alt: `Photo of ${nice(s.name)}`,
+      credit: `Source: <a href="${esc(s.photo)}" target="_blank" rel="noopener">${dgll ? 'DGLL station page' : 'Wikimedia Commons'}</a>, shown from this site's backup.`,
+    });
+    emit('photo:view', { id: s.id });
+  });
+  card.querySelector('.scan-open')?.addEventListener('click', () => { openSplat(s, SCANS[s.id], nice(s.name)); emit('scan:view', { id: s.id }); });
   mountScene(card.querySelector('.card-scene'), s, SCENE_OPTS);
   cancelAnimationFrame(cardAnim);
   const cv = card.querySelector('.signature canvas');
@@ -944,12 +963,63 @@ $('#tour').onclick = () => {
 map.on('dragstart', stopVoyage);
 
 /* ------------------------------------------------------- picture & video */
+// The legend a saved picture or video carries: only what is switched on, in view, and visible at this
+// zoom and year. record.js draws it and fades rows in and out as the scene changes during a take.
+function mediaLegend() {
+  const b = map.getBounds(), z = map.getZoom(), yr = layer.year;
+  const inView = (lon, lat, pad = 0) => lon >= b.getWest() - pad && lon <= b.getEast() + pad && lat >= b.getSouth() - pad && lat <= b.getNorth() + pad;
+  const shown = lights.filter(s => inView(s.lon, s.lat) && layer.bornBy(s, yr));
+  const hex = c => '#' + c.getHexString();
+  const items = [];
+  const beams = $('#l-beams').checked;
+  if (shown.length) {
+    const fn = COLOUR_MODES[colourMode].fn;
+    const group = (id, test, label) => { const s = shown.find(test); if (s) items.push({ id, type: 'swatch', color: hex(fn(s)), label }); };
+    if (colourMode === 'light') {
+      group('c-w', s => (s.colour || 'W') === 'W', 'White light');
+      group('c-r', s => s.colour === 'R', 'Red light');
+      group('c-g', s => s.colour === 'G', 'Green light');
+    } else if (colourMode === 'tech') {
+      group('t-n', s => s.navtex, 'Light with NAVTEX');
+      group('t-r', s => !s.navtex && s.racon, 'Light with RACON');
+      group('t-l', s => !s.navtex && !s.racon, 'Light only');
+    } else if (colourMode === 'age') {
+      items.push({ id: 'age', type: 'ramp', colors: [1840, 1885, 1930, 1975, 2020].map(y => hex(ageRamp(y))), label: 'Year lit: 1840 to 2020' });
+    } else if (colourMode === 'visit') {
+      group('v-m', s => s.museum, 'Museum');
+      group('v-p', s => s.tourism && !s.museum, 'Public access');
+      group('v-n', s => !s.tourism, 'No public access');
+    }
+    if (beams && shown.some(s => s.sim?.mode === 'revolving')) items.push({ id: 'sweep', type: 'wedge', color: '#ffe27a', label: 'Revolving beam, ledger rotation' });
+    if (beams && shown.some(s => s.phases && s.sim?.mode !== 'revolving')) items.push({ id: 'flash', type: 'dots', color: '#ffe27a', label: 'Flashes in place' });
+    if (beams && z < 11.5) items.push({ id: 'reach', type: 'swatch', color: '#6b5426', label: 'Reach at sea (luminous range)' });
+    if (beams && z >= 7 && shown.some(s => s.screen_mask)) items.push({ id: 'screen', type: 'wedge', color: '#454b57', label: 'Dark arc: lantern screened' });
+    if ($('#l-towers').checked && z >= 6.2) items.push({ id: 'tower', type: 'block', color: '#c23b2b', label: 'Tower: ledger type and colours' });
+    if (shown.some(s => s.kind === 'lightvessel')) items.push({ id: 'vessel', type: 'block', color: '#d23a2a', label: 'Light vessel' });
+  }
+  if ($('#l-navtex').checked && z < 12) {
+    const nav = data.navtex.filter(n => (!n.since || yr >= n.since) && inView(n.lon, n.lat, 4.2));
+    if (nav.length) {
+      const live = navtexStatus().liveNames.find(x => nav.some(n => x.startsWith(n.name)));
+      items.push({ id: 'navtex', type: 'ring', color: hex(COLOURS.navtex), label: `NAVTEX broadcast, 250 NM${live ? ` · on air: ${live.split(' (')[0]}` : ''}` });
+    }
+  }
+  if ($('#l-racon').checked && z < 12 && shown.some(s => s.racon && !(s.equip_since?.racon?.year > yr)))
+    items.push({ id: 'racon', type: 'ring', color: hex(COLOURS.racon), label: 'RACON radar beacon, Morse ID' });
+  if (z >= 5 && P.planned.sites.some(s => inView(s.lon, s.lat))) items.push({ id: 'planned', type: 'ring', color: '#d9a066', label: 'Planned light (Brahmaputra)' });
+  if ($('#l-base').checked && z >= 14) items.push({ id: 'buildings', type: 'block', color: '#52627a', label: 'Buildings, OpenStreetMap heights' });
+  return items;
+}
 {
   const capture = createCapture({
     map,
     cropLeft: () => (desktop ? 340 : 0),                  // the desktop panel covers the map's left edge
     year: () => $('#wm-year').textContent,
     subtitle: () => (!$('#history-caption').hidden && $('#history-caption').textContent) || 'Lighthouses of India',
+    legend: mediaLegend,
+    // pictures and videos open in the viewer first: look, then save or share
+    onMedia: m => openViewer({ title: m.kind === 'image' ? 'Picture of the map' : 'Video of the map', subtitle: m.name,
+                               blob: m.blob, kind: m.kind, filename: m.name }),
     onState: st => {
       if ('recording' in st) {
         $('#rec-badge').hidden = !st.recording;

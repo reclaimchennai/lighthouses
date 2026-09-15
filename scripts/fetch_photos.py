@@ -17,7 +17,7 @@ import time
 import urllib.parse
 from pathlib import Path
 
-from PIL import Image
+from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "raw" / "photos"
@@ -46,9 +46,9 @@ def detail_photo(page):
 
 
 def commons_file(url):
-    """Wikidata image values are Special:FilePath links; ask for a 1600 px rendition."""
+    """Wikidata image values are Special:FilePath links; fetch the original file."""
     name = urllib.parse.unquote(url.rsplit("/", 1)[-1])
-    return "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(name) + "?width=1600"
+    return "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(name)
 
 
 def main():
@@ -85,17 +85,29 @@ def main():
                 other.unlink()
         blob = dest.read_bytes()
         try:
-            im = Image.open(io.BytesIO(blob))
+            im = ImageOps.exif_transpose(Image.open(io.BytesIO(blob)))    # upright, as a browser shows it
             im = im.convert("RGB")
         except Exception:
             print("not an image", sid, src)
             continue
         w, h = im.size
-        if w > 800:
-            im = im.resize((800, round(h * 800 / w)), Image.LANCZOS)
-        im.save(WEB / f"{sid}.jpg", "JPEG", quality=82, optimize=True, progressive=True)
+
+        def tier(width, path, quality):
+            t = im if im.width <= width else im.resize((width, round(im.height * width / im.width)), Image.LANCZOS)
+            path.parent.mkdir(parents=True, exist_ok=True)
+            t.save(path, "JPEG", quality=quality, optimize=True, progressive=True)
+            return path.stat().st_size
+
+        tier(480, WEB / "thumb" / f"{sid}.jpg", 72)                   # card: a few tens of KB
+        preview = tier(1280, WEB / f"{sid}.jpg", 80)                  # viewer opens on this: legible, fast
+        ext = dest.suffix.lower() if dest.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp") else ".jpg"
+        full = WEB / "full" / f"{sid}{ext}"                           # the untouched original, loaded on request
+        full.parent.mkdir(parents=True, exist_ok=True)
+        if not full.exists() or full.stat().st_size != len(blob):
+            full.write_bytes(blob)
         out[sid] = {"src": src, "file": str(dest.relative_to(ROOT)), "bytes": len(blob),
                     "sha256": hashlib.sha256(blob).hexdigest(), "width": w, "height": h,
+                    "full": f"photos/full/{sid}{ext}", "preview_bytes": preview,
                     "credit": "Wikimedia Commons" if "wikimedia" in src else "DGLL"}
     (ROOT / "build" / "photos.json").write_text(json.dumps(out, indent=1))
     print(f"{len(out)} photos backed up")

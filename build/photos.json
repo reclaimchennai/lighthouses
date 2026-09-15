@@ -6,6 +6,8 @@
   "sha256": "30860f91b74da1b69e54b66df8de32b1bd5dad4c1f11398f090567b14e7e05fc",
   "width": 434,
   "height": 571,
+  "full": "photos/full/koteshwar-lighthouse-vts-station.png",
+  "preview_bytes": 22126,
   "credit": "DGLL"
  },
  "jakhau-lighthouse-and-vts-station": {
@@ -15,6 +17,8 @@
   "sha256": "c4d2d96c3a7b1602a58aecbe0092a02036918723d2fe47cda9eb24f5fa53d8e9",
   "width": 421,
   "height": 571,
+  "full": "photos/full/jakhau-lighthouse-and-vts-station.png",
+  "preview_bytes": 25714,
   "credit": "DGLL"
  },
  "navlakhi-lighthouse": {
@@ -24,6 +28,8 @@
   "sha256": "aeb8faa6f438a499392c76bb13a800691e1402fbaee6727dcb1a0250debeaf17",
   "width": 336,
   "height": 515,
+  "full": "photos/full/navlakhi-lighthouse.png",
+  "preview_bytes": 24981,
   "credit": "DGLL"
  },
  "chhachhi-lighthouse-and-vts-station": {
@@ -33,6 +39,8 @@
   "sha256": "393bbb5b3784207cde99f24b2739e07100c54e3330ea8998ff56991b151c1fd4",
   "width": 380,
   "height": 523,
+  "full": "photos/full/chhachhi-lighthouse-and-vts-station.png",
+  "preview_bytes": 27944,
   "credit": "DGLL"
  },
  "bhadreshwar-vts-repeater-and-lighthouse-station": {
@@ -42,6 +50,8 @@
   "sha256": "a761ad5f1dcf79099156feba958776b90f7cf5e893999e4955be0938d8860b50",
   "width": 393,
   "height": 564,
+  "full": "photos/full/bhadreshwar-vts-repeater-and-lighthouse-station.png",
+  "preview_bytes": 25874,
   "credit": "DGLL"
  },
  "mandvi-lighthouse-vts-station": {
@@ -51,6 +61,8 @@
   "sha256": "3816930f446fc35387fde2f2be6c11cabe913b3e52f9bdbbd9bb6b8523a8ec15",
   "width": 325,
   "height": 545,
+  "full": "photos/full/mandvi-lighthouse-vts-station.png",
+  "preview_bytes": 24258,
   "credit": "DGLL"
  },
  "navinal-lighthouse-and-vts-station": {
@@ -60,6 +72,8 @@
   "sha256": "636451661195abe22febc34fbcb4df8df233b999e2a774ee172e8961550865da",
   "width": 399,
   "height": 560,
+  "full": "photos/full/navinal-lighthouse-and-vts-station.png",
+  "preview_bytes": 25871,
   "credit": "DGLL"
  },
  "mungra-reef-lighthouse": {
@@ -69,6 +83,8 @@
   "sha256": "e62957d7eb44b03c0e5fd541f57f4163006ec53f1e48ef4f8bb2a89204798fc7",
   "width": 354,
   "height": 463,
+  "full": "photos/full/mungra-reef-lighthouse.png",
+  "preview_bytes": 31949,
   "credit": "DGLL"
  },
  "jodiya-lighthouse": {
@@ -78,6 +94,8 @@
   "sha256": "1c027f65a17c7d6b5d57b0cfec4a1af753a94980c448c6bbc4f5cd6063909d49",
   "width": 367,
   "height": 469,
+  "full": "photos/full/jodiya-lighthouse.png",
+  "preview_bytes": 23490,
   "credit": "DGLL"
  },
  "mawadi-point-beacon": {
@@ -87,6 +105,8 @@
   "sha256": "f964e33c4d0cf516503eee36ec2ade08729808eece8af0bed90aa5e7017d22a7",
   "width": 347,
   "height": 466,
+  "full": "photos/full/mawadi-point-beacon.png",
+  "preview_bytes": 22132,
   "credit": "DGLL"
  },
  "pirotan-lighthouse": {
@@ -96,6 +116,8 @@
   "sha256": "4d4e1b649f573efb9e381374ffffb74208edfbde6673cf4b03d81bb16f63859c",
   "width": 392,
   "height": 515,
+  "full": "photos/full/pirotan-lighthouse.png",
+  "preview_bytes": 26629,
   "credit": "DGLL"
  },
  "chank-tapu-lighthouse": {
@@ -105,6 +127,8 @@
   "sha256": "44b3b15dad8d81d1391c87e8da36a03d4abdb798607e555c2ff18f11466a2d7e",
   "width": 354,
   "height": 507,
+  "full": "photos/full/chank-tapu-lighthouse.png",
+  "preview_bytes": 35126,
   "credit": "DGLL"
  },
  "bural-reef-lighthouse": {
@@ -114,6 +138,8 @@
   "sha256": "4a8d1edf35aa85fa1556d70b44c902622787b65bad60b6464c22bcf6afa824ce",
   "width": 379,
   "height": 522,
+  "full": "photos/full/bural-reef-lighthouse.png",
+  "preview_bytes": 30225,
   "credit": "DGLL"
  },
  "samiyani-north-island-lighthouse-station": {
@@ -123,6 +149,8 @@
   "sha256": "c2f83c7d7fd289597fa0d1235e17927f93c483402741f5a1c19ab2080e1e0645",
   "width": 410,
   "height": 469,
+  "full": "photos/full/samiyani-north-island-lighthouse-station.png",
+  "preview_bytes": 21965,
   "credit": "DGLL"
  },
  "samiyani-island-lighthouse-station": {
@@ -132,6 +160,8 @@
   "sha256": "37757ce13808f675c642151bf700d2d3f3f8ac60396a140b64712ec964e136ff",
   "width": 404,
   "height": 469,
+  "full": "photos/full/samiyani-island-lighthouse-station.png",
+  "preview_bytes": 22529,
   "credit": "DGLL"
  },
  "okha-lighthouse-dgps-and-vts-station": {
@@ -141,6 +171,8 @@
   "sha256": "2155381739ebfd4bf38a4b3928311aca9605234bc4f9066502feeac042d4800e",
   "width": 345,
   "height": 434,
+  "full": "photos/full/okha-lighthouse-dgps-and-vts-station.png",
+  "preview_bytes": 21857,
   "credit": "DGLL"
  },
  "kalubhar-lighthouse": {
@@ -150,6 +182,8 @@
   "sha256": "d2de44a5917a9a0cf29523433f9be33ebd9f9b99668f528985b562482d3ffa5e",
   "width": 387,
   "height": 542,
+  "full": "photos/full/kalubhar-lighthouse.png",
+  "preview_bytes": 31154,
   "credit": "DGLL"
  },
  "kachhigadh-lighthouse": {
@@ -159,6 +193,8 @@
   "sha256": "00f02fc0ad5ab6f8deb85a623651d0ab027cb62c23ac985cfe3b78046d600b84",
   "width": 960,
   "height": 1280,
+  "full": "photos/full/kachhigadh-lighthouse.jpg",
+  "preview_bytes": 91213,
   "credit": "DGLL"
  },
  "dwarka-point-lighthouse": {
@@ -168,6 +204,8 @@
   "sha256": "07deb32fea2e5efcf26a3038be09fc1c089c02620c51c752fb2ad75e7c9f4e65",
   "width": 576,
   "height": 1280,
+  "full": "photos/full/dwarka-point-lighthouse.jpg",
+  "preview_bytes": 73933,
   "credit": "DGLL"
  },
  "navadra-lighthouse": {
@@ -177,15 +215,19 @@
   "sha256": "bcc2a892825f5e17eefa2f6e5eead7e7b05f9d86e5a044d4fc55f62d8fa72194",
   "width": 1232,
   "height": 1649,
+  "full": "photos/full/navadra-lighthouse.jpg",
+  "preview_bytes": 196587,
   "credit": "DGLL"
  },
  "dariapur-lighthouse": {
-  "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dariapur%20Lighthouse%20-%20East%20Midnapore%202016-06-18%204577.JPG?width=1600",
+  "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dariapur%20Lighthouse%20-%20East%20Midnapore%202016-06-18%204577.JPG",
   "file": "raw/photos/dariapur-lighthouse/Dariapur Lighthouse - East Midnapore 2016-06-18 4577.JPG",
-  "bytes": 927911,
-  "sha256": "5c27981613f7ecd79c2e4704e4b6f9fe9973a072c72e832905e0d7f8e48a8d57",
-  "width": 1920,
-  "height": 1277,
+  "bytes": 17253158,
+  "sha256": "d8d62e943dd23cb47f991a04dcd395f7ac727cb162be88c8d05207bbdf67eda9",
+  "width": 6016,
+  "height": 4000,
+  "full": "photos/full/dariapur-lighthouse.jpg",
+  "preview_bytes": 273057,
   "credit": "Wikimedia Commons"
  },
  "ruvapari-lighthouse": {
@@ -195,6 +237,8 @@
   "sha256": "deac83399d34c4e9b7b8bc6b03b2fbb43516c651c164706db4305e2f28cce344",
   "width": 520,
   "height": 1157,
+  "full": "photos/full/ruvapari-lighthouse.jpg",
+  "preview_bytes": 96502,
   "credit": "DGLL"
  },
  "perigee-light-vesselmain-light": {
@@ -204,6 +248,8 @@
   "sha256": "fa576768d785de790a3d42e48fe4953a889f0dfc84dfc664befba4482825b5af",
   "width": 1280,
   "height": 987,
+  "full": "photos/full/perigee-light-vesselmain-light.jpg",
+  "preview_bytes": 97997,
   "credit": "DGLL"
  },
  "ghogha-lighthouse": {
@@ -213,6 +259,8 @@
   "sha256": "72c3718dd736c92894ecaf892e7401c1cf5b4078e2aaf0b091546772baac32b5",
   "width": 958,
   "height": 1280,
+  "full": "photos/full/ghogha-lighthouse.jpg",
+  "preview_bytes": 105989,
   "credit": "DGLL"
  },
  "luhara-point-lighthouse": {
@@ -222,6 +270,8 @@
   "sha256": "132f18d8d1e003dcc534c67ef87b35c10a7cbb929d1958713623be6319b8ae23",
   "width": 351,
   "height": 418,
+  "full": "photos/full/luhara-point-lighthouse.png",
+  "preview_bytes": 19380,
   "credit": "DGLL"
  },
  "porbandar-lighthouse": {
@@ -231,6 +281,8 @@
   "sha256": "d5650b6db1a27482dec3b5445467e8ac963430ae85ffed11a39b7fce6351f2f0",
   "width": 517,
   "height": 1431,
+  "full": "photos/full/porbandar-lighthouse.jpg",
+  "preview_bytes": 109373,
   "credit": "DGLL"
  },
  "piram-lighthouse": {
@@ -240,6 +292,8 @@
   "sha256": "10d153ed5c2376b219c2fe38b5deb39d36c23cae714e2af7d47efc7c43c84268",
   "width": 780,
   "height": 1040,
+  "full": "photos/full/piram-lighthouse.jpg",
+  "preview_bytes": 38136,
   "credit": "DGLL"
  },
  "navibandar-lighthouse": {
@@ -249,6 +303,8 @@
   "sha256": "1227231b9648f290600fb43389c75c83ae49064a36183ea51f10d6b136bcc54a",
   "width": 1369,
   "height": 814,
+  "full": "photos/full/navibandar-lighthouse.jpg",
+  "preview_bytes": 104918,
   "credit": "DGLL"
  },
  "alang-lighthouse": {
@@ -258,6 +314,8 @@
   "sha256": "3a64296643bb193c9b600aea766ffe4fcbd44d81c3abdfadf4858457d9864454",
   "width": 720,
   "height": 1600,
+  "full": "photos/full/alang-lighthouse.jpg",
+  "preview_bytes": 180374,
   "credit": "DGLL"
  },
  "gopnath-lighthouse-dgps-station": {
@@ -267,6 +325,8 @@
   "sha256": "222f7b88aea5ef26e838e48bc5566a406175cc28ade312074ab183b6258a9182",
   "width": 577,
   "height": 1280,
+  "full": "photos/full/gopnath-lighthouse-dgps-station.jpg",
+  "preview_bytes": 91531,
   "credit": "DGLL"
  },
  "jhanjhmer-lighthouse": {
@@ -276,6 +336,8 @@
   "sha256": "7984bdc003905a65bf157430f3fecf419c659c7a81222b5288561254df21fe31",
   "width": 867,
   "height": 701,
+  "full": "photos/full/jhanjhmer-lighthouse.jpg",
+  "preview_bytes": 90865,
   "credit": "DGLL"
  },
  "mangrol-lighthouse": {
@@ -285,6 +347,8 @@
   "sha256": "e798d6ca7d31dc40abbb1c603908235c1ea41c7a421a63c01920c99dfac03444",
   "width": 814,
   "height": 1232,
+  "full": "photos/full/mangrol-lighthouse.jpg",
+  "preview_bytes": 153724,
   "credit": "DGLL"
  },
  "hazira-lighthouse-and-dgps-station": {
@@ -294,6 +358,8 @@
   "sha256": "44d1eaf44074a933d9a6af68c0543e5e20ae22918b593ea7c04f7e5d9af0ca1c",
   "width": 366,
   "height": 484,
+  "full": "photos/full/hazira-lighthouse-and-dgps-station.png",
+  "preview_bytes": 22968,
   "credit": "DGLL"
  },
  "jegri-island-lighthouse": {
@@ -303,6 +369,8 @@
   "sha256": "532c47a8a5f3966bf1df6c87c1212ceb1f7e5450098855ca056876b9f0f3c49f",
   "width": 576,
   "height": 1280,
+  "full": "photos/full/jegri-island-lighthouse.jpg",
+  "preview_bytes": 59742,
   "credit": "DGLL"
  },
  "wasi-borsi-lighthouse": {
@@ -312,6 +380,8 @@
   "sha256": "581875d7110a35879f45ae07b6ade10d9b117d6d617de05e3c3c013dae93fd1a",
   "width": 384,
   "height": 408,
+  "full": "photos/full/wasi-borsi-lighthouse.png",
+  "preview_bytes": 26980,
   "credit": "DGLL"
  },
  "veraval-lighthouse": {
@@ -321,6 +391,8 @@
   "sha256": "7083d30464d0fa6ba6048dfdcf3f5ae2a8ecc54160599663527083df32de80bc",
   "width": 614,
   "height": 819,
+  "full": "photos/full/veraval-lighthouse.jpg",
+  "preview_bytes": 58070,
   "credit": "DGLL"
  },
  "savaibet-lighthouse": {
@@ -330,6 +402,8 @@
   "sha256": "79388af0d4fea66c3f24357e48d0dcff8ba1cd45813b69607389fe03afcfc1fa",
   "width": 588,
   "height": 1280,
+  "full": "photos/full/savaibet-lighthouse.jpg",
+  "preview_bytes": 88340,
   "credit": "DGLL"
  },
  "bhirbhanjan-lighthouse": {
@@ -339,6 +413,8 @@
   "sha256": "c297769090dbe5e70da12211e9436a9e5db628c4f70b96df54ef472d40286e3f",
   "width": 576,
   "height": 1280,
+  "full": "photos/full/bhirbhanjan-lighthouse.jpg",
+  "preview_bytes": 98799,
   "credit": "DGLL"
  },
  "jafrabad-lighthouse": {
@@ -348,6 +424,8 @@
   "sha256": "098af23ee347568072324b8434c55338d1498edfa9bfca222ff02a90ec3e6b39",
   "width": 867,
   "height": 1156,
+  "full": "photos/full/jafrabad-lighthouse.jpg",
+  "preview_bytes": 104757,
   "credit": "DGLL"
  },
  "kanai-creek-lighthouse": {
@@ -357,6 +435,8 @@
   "sha256": "fc90f21bfebb04554e6876bb23840d7dd0df77c8629c6ef4952db4319f01cd7a",
   "width": 384,
   "height": 451,
+  "full": "photos/full/kanai-creek-lighthouse.png",
+  "preview_bytes": 18074,
   "credit": "DGLL"
  },
  "simar-lighthouse": {
@@ -366,6 +446,8 @@
   "sha256": "0bf61378198eca8eff1f74d746c6cfad0b8fa065bbc8ad12767d71f470541ce9",
   "width": 719,
   "height": 1280,
+  "full": "photos/full/simar-lighthouse.jpg",
+  "preview_bytes": 59156,
   "credit": "DGLL"
  },
  "nawabander-lighthouse": {
@@ -375,6 +457,8 @@
   "sha256": "13cd5199d1bdaa197d4e64f736658d78dd6d7a76650f1e312499ddbde49cd504",
   "width": 720,
   "height": 1280,
+  "full": "photos/full/nawabander-lighthouse.jpg",
+  "preview_bytes": 79082,
   "credit": "DGLL"
  },
  "diu-head-lighthouse": {
@@ -384,6 +468,8 @@
   "sha256": "0bf61378198eca8eff1f74d746c6cfad0b8fa065bbc8ad12767d71f470541ce9",
   "width": 719,
   "height": 1280,
+  "full": "photos/full/diu-head-lighthouse.jpg",
+  "preview_bytes": 59156,
   "credit": "DGLL"
  },
  "valsad-khadi-lighthouse": {
@@ -393,6 +479,8 @@
   "sha256": "d9fc7ce1a54981c9f5b1713240f6a1d115e6a2e47001a16b21ad9fe3e1cb7bc7",
   "width": 289,
   "height": 451,
+  "full": "photos/full/valsad-khadi-lighthouse.png",
+  "preview_bytes": 30547,
   "credit": "DGLL"
  },
  "umergam-lighthouse": {
@@ -402,6 +490,8 @@
   "sha256": "bf15bda88b16ac8b2f66eb3c12e6cf4277c34761dffa0e75713d43e57949da5b",
   "width": 266,
   "height": 384,
+  "full": "photos/full/umergam-lighthouse.png",
+  "preview_bytes": 15279,
   "credit": "DGLL"
  },
  "dahanu-lighthouse": {
@@ -411,6 +501,8 @@
   "sha256": "2d5577f920b29cbbab4b43312792b8638a30c65294971b859728193441ad2fe3",
   "width": 720,
   "height": 1280,
+  "full": "photos/full/dahanu-lighthouse.jpg",
+  "preview_bytes": 77801,
   "credit": "DGLL"
  },
  "tarapur-point-lighthouse": {
@@ -420,6 +512,8 @@
   "sha256": "84f755931323584694227a0c45c4f42eef3f46840b3b74d5deb4e46c34e0c103",
   "width": 734,
   "height": 895,
+  "full": "photos/full/tarapur-point-lighthouse.jpg",
+  "preview_bytes": 131093,
   "credit": "DGLL"
  },
  "satpati-lighthouse": {
@@ -429,6 +523,8 @@
   "sha256": "11b3d4b71b676dd110737bfaab60f212f5e6625d3b607d1903c3fa4ff07fb647",
   "width": 612,
   "height": 816,
+  "full": "photos/full/satpati-lighthouse.jpg",
+  "preview_bytes": 66643,
   "credit": "DGLL"
  },
  "arnala-lighthouse": {
@@ -438,6 +534,8 @@
   "sha256": "387c2669c41a044e01accdede16751d4b464b47ac4ecdce0c0af64ce7920c126",
   "width": 585,
   "height": 1040,
+  "full": "photos/full/arnala-lighthouse.jpg",
+  "preview_bytes": 83584,
   "credit": "DGLL"
  },
  "uttan-point-lighthouse-and-dgps-station": {
@@ -447,6 +545,8 @@
   "sha256": "e6e7edd0ccb8d48f570acf39518c3f14e26627a8caa99a50c354d5ba2ed3d7e3",
   "width": 303,
   "height": 440,
+  "full": "photos/full/uttan-point-lighthouse-and-dgps-station.jpg",
+  "preview_bytes": 26536,
   "credit": "DGLL"
  },
  "prongs-reef-lighthouse": {
@@ -456,6 +556,8 @@
   "sha256": "4d9cacc211f7bc6de267a64822c29b6ce11634fe16f8b21c9165ad2e498ab191",
   "width": 794,
   "height": 879,
+  "full": "photos/full/prongs-reef-lighthouse.jpg",
+  "preview_bytes": 103243,
   "credit": "DGLL"
  },
  "kanhoji-angre-lighthouse": {
@@ -465,6 +567,8 @@
   "sha256": "deb67041f8ba49f33d562813a1d0befe1b9eaa3ffc31a5c11e3e223fb940c5ab",
   "width": 287,
   "height": 440,
+  "full": "photos/full/kanhoji-angre-lighthouse.jpg",
+  "preview_bytes": 26792,
   "credit": "DGLL"
  },
  "chaul-kadu-lighthouse": {
@@ -474,6 +578,8 @@
   "sha256": "959d5c17cd7795cf30c76698256eeb116a613460808168ae68953d46010fa02e",
   "width": 677,
   "height": 879,
+  "full": "photos/full/chaul-kadu-lighthouse.jpg",
+  "preview_bytes": 61770,
   "credit": "DGLL"
  },
  "korlai-fort-lighthouse": {
@@ -483,15 +589,19 @@
   "sha256": "d43704a1af2e0989cf443d2ba4cbc07ddb874bece79f2e6b4576beb6927ace97",
   "width": 907,
   "height": 671,
+  "full": "photos/full/korlai-fort-lighthouse.jpg",
+  "preview_bytes": 123982,
   "credit": "DGLL"
  },
  "kalingapatnam-lighthouse": {
-  "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalingapatnam%20light%20house%2003.jpg?width=1600",
+  "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalingapatnam%20light%20house%2003.jpg",
   "file": "raw/photos/kalingapatnam-lighthouse/Kalingapatnam light house 03.jpg",
-  "bytes": 1893493,
-  "sha256": "4df8ec049af7ff9fed3f2798e35475f616b695b7f34d8e7609d8e32b9e52b9f3",
-  "width": 1920,
-  "height": 3413,
+  "bytes": 3682073,
+  "sha256": "3866df56ec2215cc184a121a1a531759b1356cd2bb626baaa6495fa0f225fb9a",
+  "width": 2322,
+  "height": 4128,
+  "full": "photos/full/kalingapatnam-lighthouse.jpg",
+  "preview_bytes": 502486,
   "credit": "Wikimedia Commons"
  },
  "nanwel-point-lighthouse": {
@@ -501,6 +611,8 @@
   "sha256": "f23c4dc4e6c696e5373423e5846a2525a138fe077bab8082bf04b19accfdfaf8",
   "width": 780,
   "height": 880,
+  "full": "photos/full/nanwel-point-lighthouse.jpg",
+  "preview_bytes": 93467,
   "credit": "DGLL"
  },
  "santapalli-lighthouse": {
@@ -510,6 +622,8 @@
   "sha256": "de5a0e782e3851d9cb799440bdc0518549070010ebad85aed389b0ad4abe1cd6",
   "width": 609,
   "height": 1280,
+  "full": "photos/full/santapalli-lighthouse.jpg",
+  "preview_bytes": 86428,
   "credit": "DGLL"
  },
  "bheemlipatnam-lighthouse": {
@@ -519,6 +633,8 @@
   "sha256": "945a220aa0b31320a66c7dca54f82259a0f4a70dc62ddb40f4e1f2632c805e44",
   "width": 985,
   "height": 853,
+  "full": "photos/full/bheemlipatnam-lighthouse.jpg",
+  "preview_bytes": 97552,
   "credit": "DGLL"
  },
  "harnai-lighthouse": {
@@ -528,6 +644,8 @@
   "sha256": "622a2c30e53b7896019e432d45434b2243d7b001189d051530b72418f7fca0b1",
   "width": 338,
   "height": 450,
+  "full": "photos/full/harnai-lighthouse.jpg",
+  "preview_bytes": 32875,
   "credit": "DGLL"
  },
  "dolphin-nose-lighthouse": {
@@ -537,6 +655,8 @@
   "sha256": "abb90786ada2662eb3f568ec60784e8bcdf87c44ec8e663bb4a89efb567a98f1",
   "width": 755,
   "height": 651,
+  "full": "photos/full/dolphin-nose-lighthouse.png",
+  "preview_bytes": 77714,
   "credit": "DGLL"
  },
  "tolkeshwar-point-lighthouse": {
@@ -546,6 +666,8 @@
   "sha256": "a0f03a06a835cf7872f8ebf8ab65ec16b3cc0a03493867b6df0c5493e4dc557b",
   "width": 337,
   "height": 440,
+  "full": "photos/full/tolkeshwar-point-lighthouse.jpg",
+  "preview_bytes": 28378,
   "credit": "DGLL"
  },
  "pudimadaka-lighthouse": {
@@ -555,6 +677,8 @@
   "sha256": "b08a7b9fb7a9cee4ab2be863e3f97fc113d6579ca650e300e9b0a0f3f4b15b76",
   "width": 680,
   "height": 1024,
+  "full": "photos/full/pudimadaka-lighthouse.jpg",
+  "preview_bytes": 49919,
   "credit": "DGLL"
  },
  "pentakota-lighthouse": {
@@ -564,6 +688,8 @@
   "sha256": "09b5e52f76fb45423306326aeacb6bb8921a20ecb9a0db4fb57a8a5702f7f431",
   "width": 680,
   "height": 1024,
+  "full": "photos/full/pentakota-lighthouse.jpg",
+  "preview_bytes": 62845,
   "credit": "DGLL"
  },
  "jaigarh-lighthouse": {
@@ -573,6 +699,8 @@
   "sha256": "f84223c6d12e79fb20d4ca4243817c652516f28c0c48dc78375a46256dee078b",
   "width": 280,
   "height": 440,
+  "full": "photos/full/jaigarh-lighthouse.jpg",
+  "preview_bytes": 19274,
   "credit": "DGLL"
  },
  "vakalapudi-lighthouse": {
@@ -582,6 +710,8 @@
   "sha256": "6611a8cffd416498b77d9a4980dee682a8e71faa2b0c0608d0f7845b58e310a1",
   "width": 680,
   "height": 1024,
+  "full": "photos/full/vakalapudi-lighthouse.jpg",
+  "preview_bytes": 105989,
   "credit": "DGLL"
  },
  "ratnagiri-town-and-dgps-station": {
@@ -591,6 +721,8 @@
   "sha256": "804ab074c75c8ba38cd198a0d35b08909395c2aad4663cfe7668ceb854dd15d2",
   "width": 660,
   "height": 880,
+  "full": "photos/full/ratnagiri-town-and-dgps-station.jpg",
+  "preview_bytes": 78497,
   "credit": "DGLL"
  },
  "rajapur-bay-lighthouse": {
@@ -600,6 +732,8 @@
   "sha256": "af8a546d8278228f0c659674e5164fa7f21924d2a7c1628ee663a4bff2b2f823",
   "width": 756,
   "height": 880,
+  "full": "photos/full/rajapur-bay-lighthouse.jpg",
+  "preview_bytes": 83545,
   "credit": "DGLL"
  },
  "sacramento-lighthouse": {
@@ -609,6 +743,8 @@
   "sha256": "70d5e78ba645581c8f7da86adfe04d31704429d8f48d46728724b6bd3be5c713",
   "width": 313,
   "height": 523,
+  "full": "photos/full/sacramento-lighthouse.jpg",
+  "preview_bytes": 29670,
   "credit": "DGLL"
  },
  "ravaport-lighthouse": {
@@ -618,6 +754,8 @@
   "sha256": "a6491272562787eb625bcc789e8f80ab1b7c5fcbcf086a2533d0c6b80f4dc7cc",
   "width": 1196,
   "height": 1627,
+  "full": "photos/full/ravaport-lighthouse.jpg",
+  "preview_bytes": 138219,
   "credit": "DGLL"
  },
  "devgad-lighthouse": {
@@ -627,6 +765,8 @@
   "sha256": "c58c0e097452f0f49a2efcd32de4ad6fb5cc5a398f26008dee85ea0b64359e76",
   "width": 609,
   "height": 1217,
+  "full": "photos/full/devgad-lighthouse.jpg",
+  "preview_bytes": 96296,
   "credit": "DGLL"
  },
  "antervedi-lighthouse": {
@@ -636,6 +776,8 @@
   "sha256": "4033e082c4ce93de621734902758f31a94e6f2d0d9d04d8c1d2a91aa18efbea0",
   "width": 653,
   "height": 1160,
+  "full": "photos/full/antervedi-lighthouse.jpg",
+  "preview_bytes": 143446,
   "credit": "DGLL"
  },
  "machilipatnam-lighthouse": {
@@ -645,6 +787,8 @@
   "sha256": "e390302379e6a782e1408e64c048a7e15c9d97873baa77efd10dd7144b88944b",
   "width": 680,
   "height": 1024,
+  "full": "photos/full/machilipatnam-lighthouse.jpg",
+  "preview_bytes": 79599,
   "credit": "DGLL"
  },
  "achara-point-lighthouse": {
@@ -654,6 +798,8 @@
   "sha256": "e9a67f2029d69cb019ff4dc08d45ff7d0408ae7b8276f06b9d16ecbfbb1050eb",
   "width": 878,
   "height": 1314,
+  "full": "photos/full/achara-point-lighthouse.jpg",
+  "preview_bytes": 99214,
   "credit": "DGLL"
  },
  "vengurla-rocks-lighthouse": {
@@ -663,6 +809,8 @@
   "sha256": "8e61d0f2e50481f54da92c1b04435362371b1e7db8c010fdace9b4387672cca9",
   "width": 900,
   "height": 461,
+  "full": "photos/full/vengurla-rocks-lighthouse.jpg",
+  "preview_bytes": 45433,
   "credit": "DGLL"
  },
  "nizampatnam-lighthouse": {
@@ -672,6 +820,8 @@
   "sha256": "3978aad4059382a003b0797f5854fdc102ec13577b52aa96bc1f97db73944593",
   "width": 1844,
   "height": 2869,
+  "full": "photos/full/nizampatnam-lighthouse.jpg",
+  "preview_bytes": 326765,
   "credit": "DGLL"
  },
  "vengurla-point-lighthouse": {
@@ -681,6 +831,8 @@
   "sha256": "0d923a23cf4c1eba3a9b943f337a89f809577d1ae0d9daf47dddfcbec63de8a5",
   "width": 241,
   "height": 283,
+  "full": "photos/full/vengurla-point-lighthouse.jpg",
+  "preview_bytes": 11912,
   "credit": "DGLL"
  },
  "vodarevu-lighthouse": {
@@ -690,6 +842,8 @@
   "sha256": "5bfe945bbecccf18c2dff42595313074433f18810d976adb434a82a22e8bf6a5",
   "width": 683,
   "height": 1024,
+  "full": "photos/full/vodarevu-lighthouse.jpg",
+  "preview_bytes": 57005,
   "credit": "DGLL"
  },
  "nagayalanka-lighthouse": {
@@ -699,6 +853,8 @@
   "sha256": "e390302379e6a782e1408e64c048a7e15c9d97873baa77efd10dd7144b88944b",
   "width": 680,
   "height": 1024,
+  "full": "photos/full/nagayalanka-lighthouse.jpg",
+  "preview_bytes": 79599,
   "credit": "DGLL"
  },
  "aguada-lighthouse-and-dgps-station": {
@@ -708,6 +864,8 @@
   "sha256": "f4b6f2c1fa66a1623dd4c6b1b791c8c9b21c4532a4ebe0cef70a926c6c4682d7",
   "width": 345,
   "height": 526,
+  "full": "photos/full/aguada-lighthouse-and-dgps-station.jpg",
+  "preview_bytes": 29357,
   "credit": "DGLL"
  },
  "st-george-island-lighthouse": {
@@ -717,6 +875,8 @@
   "sha256": "a81fd4dac62c9db03613d72a1be2027b96727304d32d699755b16a15705d686f",
   "width": 893,
   "height": 1192,
+  "full": "photos/full/st-george-island-lighthouse.jpg",
+  "preview_bytes": 151752,
   "credit": "DGLL"
  },
  "betul-lighthouse": {
@@ -726,6 +886,8 @@
   "sha256": "5cb8388bfc94688ebd244e15270887e25dc6c1fc635f6760d6442f21e8f6eb0b",
   "width": 821,
   "height": 1177,
+  "full": "photos/full/betul-lighthouse.jpg",
+  "preview_bytes": 101009,
   "credit": "DGLL"
  },
  "ramayapatnam-lighthouse": {
@@ -735,6 +897,8 @@
   "sha256": "76d6953c06f8e3d8640f20b97cc00bf772e7a4eb35e8e429a0cb6d1668786408",
   "width": 1066,
   "height": 1424,
+  "full": "photos/full/ramayapatnam-lighthouse.jpg",
+  "preview_bytes": 252438,
   "credit": "DGLL"
  },
  "oyster-rocks-lighthouse": {
@@ -744,6 +908,8 @@
   "sha256": "c44187ccf39c94907e715d32522225d873f8b0a519cf49c701dd297881e109a8",
   "width": 791,
   "height": 1188,
+  "full": "photos/full/oyster-rocks-lighthouse.jpg",
+  "preview_bytes": 131408,
   "credit": "DGLL"
  },
  "isakapalli-lighthouse": {
@@ -753,6 +919,8 @@
   "sha256": "4229a0ead01344d483f7a2970e9d9eaf58165eb9d4cf8d86446e46d285b7de9f",
   "width": 576,
   "height": 1280,
+  "full": "photos/full/isakapalli-lighthouse.jpg",
+  "preview_bytes": 83489,
   "credit": "DGLL"
  },
  "belekeri-lighthouse": {
@@ -762,6 +930,8 @@
   "sha256": "7b504318f4ac9a1215256e9b50291531ec74295a7def7f8a06d4af8902650b67",
   "width": 1558,
   "height": 1171,
+  "full": "photos/full/belekeri-lighthouse.jpg",
+  "preview_bytes": 434881,
   "credit": "DGLL"
  },
  "tadri-lighthouse": {
@@ -771,6 +941,8 @@
   "sha256": "1f291209a22af44e41ef858107ae8eccd95d85675d448a9ffb902e52ed480496",
   "width": 881,
   "height": 1175,
+  "full": "photos/full/tadri-lighthouse.jpg",
+  "preview_bytes": 141017,
   "credit": "DGLL"
  },
  "krishnapatnam-lighthouse": {
@@ -780,6 +952,8 @@
   "sha256": "4f2d4c354e8a246572613806648f3d6439523e7ee90c4e5e209c67ab2c3756bc",
   "width": 1146,
   "height": 1280,
+  "full": "photos/full/krishnapatnam-lighthouse.jpg",
+  "preview_bytes": 213845,
   "credit": "DGLL"
  },
  "honnavar-lighthouse": {
@@ -789,6 +963,8 @@
   "sha256": "8a6207b37a0111c715cab16371ac11a431d728202584eed3f9abb020def33433",
   "width": 865,
   "height": 1279,
+  "full": "photos/full/honnavar-lighthouse.jpg",
+  "preview_bytes": 212212,
   "credit": "DGLL"
  },
  "bhatkal-lighthouse": {
@@ -798,6 +974,8 @@
   "sha256": "66c9260d2b4a100412b4effa796c270ab93aa9ed5f391a720258de4f3f824855",
   "width": 935,
   "height": 1247,
+  "full": "photos/full/bhatkal-lighthouse.jpg",
+  "preview_bytes": 184387,
   "credit": "DGLL"
  },
  "armagon-lighthouse": {
@@ -807,6 +985,8 @@
   "sha256": "9928cfb18d362a6d8e502abe542370b0bd53f2ef633a3b3326f4ee83bec6cc2c",
   "width": 680,
   "height": 1024,
+  "full": "photos/full/armagon-lighthouse.jpg",
+  "preview_bytes": 63676,
   "credit": "DGLL"
  },
  "kundapur-lighthouse": {
@@ -816,6 +996,8 @@
   "sha256": "217a459c1c73d2305c82d29d2f48c5787396db71285dbf39ca9ce71a17f63760",
   "width": 298,
   "height": 407,
+  "full": "photos/full/kundapur-lighthouse.jpg",
+  "preview_bytes": 17817,
   "credit": "DGLL"
  },
  "pulicat-lighthouse-and-dgps-station": {
@@ -825,6 +1007,8 @@
   "sha256": "4b835088041a10306cb676ddf926e1dd4eeb114524b5c2498b8f15f60bc890fd",
   "width": 371,
   "height": 534,
+  "full": "photos/full/pulicat-lighthouse-and-dgps-station.jpg",
+  "preview_bytes": 32499,
   "credit": "DGLL"
  },
  "malpe-lighthouse": {
@@ -834,6 +1018,8 @@
   "sha256": "63cbea0f4851bd403e6588ef83227b252a55d151744d4eac0465d5ac35031320",
   "width": 525,
   "height": 921,
+  "full": "photos/full/malpe-lighthouse.jpg",
+  "preview_bytes": 93009,
   "credit": "DGLL"
  },
  "kaup-lighthouse": {
@@ -843,6 +1029,8 @@
   "sha256": "3732268fc198c1e57ecea485b8e66b75765d6d5cd4ce0d60975c2d685ee423b4",
   "width": 1236,
   "height": 1168,
+  "full": "photos/full/kaup-lighthouse.jpg",
+  "preview_bytes": 152183,
   "credit": "DGLL"
  },
  "chennai-lighthouse": {
@@ -852,6 +1040,8 @@
   "sha256": "1da5d79c614515ef4e7cb058ebefcf55580730bc1a7dff3329eaf369cbe5d06a",
   "width": 960,
   "height": 1280,
+  "full": "photos/full/chennai-lighthouse.jpg",
+  "preview_bytes": 126141,
   "credit": "DGLL"
  },
  "surathkal-lighthouse-and-dgps-station": {
@@ -861,6 +1051,8 @@
   "sha256": "1446a703ef765ee1ab2c63795d6a6c853bf3110d41ca517259df2733dcfa9aea",
   "width": 1004,
   "height": 1256,
+  "full": "photos/full/surathkal-lighthouse-and-dgps-station.jpg",
+  "preview_bytes": 182526,
   "credit": "DGLL"
  },
  "mahabalipuram-lighthouse": {
@@ -870,6 +1062,8 @@
   "sha256": "9736296d8feb664d190e99579e072aa2ea4d7675a6a4e3c9c2fbed8988f664ad",
   "width": 1160,
   "height": 1660,
+  "full": "photos/full/mahabalipuram-lighthouse.png",
+  "preview_bytes": 375370,
   "credit": "DGLL"
  },
  "kasargod-lighthouse": {
@@ -879,6 +1073,8 @@
   "sha256": "0b954cbb142c25ffb42e4558a80f44105122eb714b361b305ce843cdb608a342",
   "width": 780,
   "height": 1040,
+  "full": "photos/full/kasargod-lighthouse.jpg",
+  "preview_bytes": 146198,
   "credit": "DGLL"
  },
  "kadapakkam-lighthouse": {
@@ -888,6 +1084,8 @@
   "sha256": "f13b586a26c803a5b30809bc41bdbd87439a05756db197a9aedc4d4e67d5d50a",
   "width": 1298,
   "height": 974,
+  "full": "photos/full/kadapakkam-lighthouse.jpg",
+  "preview_bytes": 199493,
   "credit": "DGLL"
  },
  "mount-dilli-lighthouse": {
@@ -897,6 +1095,8 @@
   "sha256": "9ec3e268e160f51839658c6c0347b75daf1f5b8eec03a837b949e08576fbe680",
   "width": 878,
   "height": 1559,
+  "full": "photos/full/mount-dilli-lighthouse.jpg",
+  "preview_bytes": 295134,
   "credit": "DGLL"
  },
  "puducherry-lighthouse-and-dgps-station": {
@@ -906,6 +1106,8 @@
   "sha256": "45673613182e27b7f469d4a0e00fc2763383b12107d8f1424839083354d1867b",
   "width": 640,
   "height": 640,
+  "full": "photos/full/puducherry-lighthouse-and-dgps-station.jpg",
+  "preview_bytes": 60836,
   "credit": "DGLL"
  },
  "kannur-lighthouse": {
@@ -915,6 +1117,8 @@
   "sha256": "e113edbd24f114247127c14076f058beaa8c97a33cdb0995ccb927b154269b00",
   "width": 1224,
   "height": 1632,
+  "full": "photos/full/kannur-lighthouse.jpg",
+  "preview_bytes": 309239,
   "credit": "DGLL"
  },
  "cuddalore-lighthouse": {
@@ -924,6 +1128,8 @@
   "sha256": "6b403f793c1e008124657f9eef91f8475871dfb6a8f498034a3d8c8a8d2434bb",
   "width": 969,
   "height": 1291,
+  "full": "photos/full/cuddalore-lighthouse.jpg",
+  "preview_bytes": 187173,
   "credit": "DGLL"
  },
  "chetlat-lighthouse": {
@@ -933,6 +1139,8 @@
   "sha256": "9ac82c3a178d1461cc9af4ad564d2e49ab65cc4879b0e1b843e49101aab6180e",
   "width": 725,
   "height": 425,
+  "full": "photos/full/chetlat-lighthouse.jpg",
+  "preview_bytes": 41068,
   "credit": "DGLL"
  },
  "bitra-lighthouse": {
@@ -942,6 +1150,8 @@
   "sha256": "c90300454aa31ef12e585cb23cb8f6ae972fa3f357f7e7e817cb7dd09ba54731",
   "width": 725,
   "height": 425,
+  "full": "photos/full/bitra-lighthouse.jpg",
+  "preview_bytes": 42365,
   "credit": "DGLL"
  },
  "portonovo-lighthouse-and-navtex-station": {
@@ -951,6 +1161,8 @@
   "sha256": "f1e071b054d98b93237678214105dce9e0c83acc422d36a834ffa1607799c18a",
   "width": 975,
   "height": 1044,
+  "full": "photos/full/portonovo-lighthouse-and-navtex-station.jpg",
+  "preview_bytes": 174126,
   "credit": "DGLL"
  },
  "kiltan-lighthouse-north": {
@@ -960,6 +1172,8 @@
   "sha256": "3cab91f31614a3f752d35439c04015b6f386366c7a82677b27264722b09ea8da",
   "width": 905,
   "height": 1207,
+  "full": "photos/full/kiltan-lighthouse-north.jpg",
+  "preview_bytes": 99881,
   "credit": "DGLL"
  },
  "kiltan-lighthouse-south": {
@@ -969,6 +1183,8 @@
   "sha256": "419f8bef12aadb383e8228855ab78f4fa055b2a84038322b497f5c30a51a6936",
   "width": 1045,
   "height": 1207,
+  "full": "photos/full/kiltan-lighthouse-south.jpg",
+  "preview_bytes": 175462,
   "credit": "DGLL"
  },
  "kadalur-point-lighthouse": {
@@ -978,6 +1194,8 @@
   "sha256": "cad8209d5ea17381d06a53bcc7e4ec5438c910de2a6025193051765237bad877",
   "width": 953,
   "height": 1270,
+  "full": "photos/full/kadalur-point-lighthouse.jpg",
+  "preview_bytes": 233871,
   "credit": "DGLL"
  },
  "kadamat-lighthouse": {
@@ -987,6 +1205,8 @@
   "sha256": "3151dd4745c364aed025891696ef08966098fffe9077e399d0fec34a1fa13815",
   "width": 725,
   "height": 425,
+  "full": "photos/full/kadamat-lighthouse.jpg",
+  "preview_bytes": 48342,
   "credit": "DGLL"
  },
  "beypore-lighthouse": {
@@ -996,6 +1216,8 @@
   "sha256": "66b94cd0b4fb3cab7466b5b3412d6da218fcfeafb729c87ec827ad55148a0de4",
   "width": 1154,
   "height": 1600,
+  "full": "photos/full/beypore-lighthouse.jpg",
+  "preview_bytes": 264565,
   "credit": "DGLL"
  },
  "poompuhar-lighthouse": {
@@ -1005,6 +1227,8 @@
   "sha256": "a90ba6361aec79a0c52e3c30f26a15b53b185af9aa6f213495e7f5d562b1519b",
   "width": 795,
   "height": 1015,
+  "full": "photos/full/poompuhar-lighthouse.jpg",
+  "preview_bytes": 119638,
   "credit": "DGLL"
  },
  "amini-lighthouse": {
@@ -1014,6 +1238,8 @@
   "sha256": "53a9f67f457cabd1d2fc1e0b7f6d334f49ffc66716e7a784aab38ad1f2d27a51",
   "width": 725,
   "height": 425,
+  "full": "photos/full/amini-lighthouse.jpg",
+  "preview_bytes": 49382,
   "credit": "DGLL"
  },
  "thinnakara-lighthouse": {
@@ -1023,6 +1249,8 @@
   "sha256": "c023644971cb98ff462e1f0eacb3a23dee818786f0d06063772eb6caf932107e",
   "width": 1198,
   "height": 1188,
+  "full": "photos/full/thinnakara-lighthouse.jpg",
+  "preview_bytes": 302681,
   "credit": "DGLL"
  },
  "karaikal-lighthouse": {
@@ -1032,6 +1260,8 @@
   "sha256": "0a71135337ded49e6777d72209f123288ac0f306736dc4333d3759e54274fc2d",
   "width": 900,
   "height": 1600,
+  "full": "photos/full/karaikal-lighthouse.jpg",
+  "preview_bytes": 113490,
   "credit": "DGLL"
  },
  "agatti-lighthouse": {
@@ -1041,6 +1271,8 @@
   "sha256": "54f80589b3dae4ffaaeddbdeb3ef7c323bef6ad0a0cb2c7cffb669abb47c7ccf",
   "width": 960,
   "height": 1280,
+  "full": "photos/full/agatti-lighthouse.jpg",
+  "preview_bytes": 213954,
   "credit": "DGLL"
  },
  "androth-east-lighthouse": {
@@ -1050,6 +1282,8 @@
   "sha256": "5fa5814322dcfe898ba433e7bd90f6fa69a060ad876fb00ec8e5dbac8d6987e2",
   "width": 960,
   "height": 1280,
+  "full": "photos/full/androth-east-lighthouse.jpg",
+  "preview_bytes": 197793,
   "credit": "DGLL"
  },
  "androth-west-lighthouse": {
@@ -1059,6 +1293,8 @@
   "sha256": "310ebc3053b0ff2702a08f076357bdc8f0f1eb5ed9a10dacc835137fbb306a79",
   "width": 620,
   "height": 941,
+  "full": "photos/full/androth-west-lighthouse.jpg",
+  "preview_bytes": 66278,
   "credit": "DGLL"
  },
  "ponnani-lighthouse": {
@@ -1068,6 +1304,8 @@
   "sha256": "6cb9c99443c5a4129e856c784daedea04be889f7c4b89b2142088c3075e04dc7",
   "width": 2048,
   "height": 924,
+  "full": "photos/full/ponnani-lighthouse.jpg",
+  "preview_bytes": 189919,
   "credit": "DGLL"
  },
  "nagapattinam-lighthouse-and-dgps-station": {
@@ -1077,6 +1315,8 @@
   "sha256": "2b24759c166c1356a7f19c02520ac628cbd16c8459d0a96234f3a75da078ae18",
   "width": 766,
   "height": 1034,
+  "full": "photos/full/nagapattinam-lighthouse-and-dgps-station.jpg",
+  "preview_bytes": 64470,
   "credit": "DGLL"
  },
  "kavaratti-lighthouse": {
@@ -1086,6 +1326,8 @@
   "sha256": "9471bcef4c6df688b93b9515862150447a9edc7fe852f71e3c7353f8adffe15d",
   "width": 378,
   "height": 504,
+  "full": "photos/full/kavaratti-lighthouse.jpg",
+  "preview_bytes": 31575,
   "credit": "DGLL"
  },
  "chetwai-lighthouse": {
@@ -1095,6 +1337,8 @@
   "sha256": "7bcd5b301f2049fe080b9221b9cf8a8da7f1eb5c3af55947a23b211ba18ed5d9",
   "width": 382,
   "height": 469,
+  "full": "photos/full/chetwai-lighthouse.jpg",
+  "preview_bytes": 28032,
   "credit": "DGLL"
  },
  "point-calimere-lighthouse": {
@@ -1104,6 +1348,8 @@
   "sha256": "b8bb7583a05ccdf20d53cc9111acc9e2519e17359a473308b5dd45198d3f6934",
   "width": 500,
   "height": 375,
+  "full": "photos/full/point-calimere-lighthouse.jpg",
+  "preview_bytes": 22400,
   "credit": "DGLL"
  },
  "kodikkarai-lighthouse": {
@@ -1113,6 +1359,8 @@
   "sha256": "fd6be879fddca09f7b863236ab9fba8aed21046aee6a47d27f70961e28ea58f3",
   "width": 661,
   "height": 533,
+  "full": "photos/full/kodikkarai-lighthouse.png",
+  "preview_bytes": 29847,
   "credit": "DGLL"
  },
  "mallipattinam-lighthouse": {
@@ -1122,6 +1370,8 @@
   "sha256": "fd6be879fddca09f7b863236ab9fba8aed21046aee6a47d27f70961e28ea58f3",
   "width": 661,
   "height": 533,
+  "full": "photos/full/mallipattinam-lighthouse.png",
+  "preview_bytes": 29847,
   "credit": "DGLL"
  },
  "azhikode-lighthouse-and-dgps-station": {
@@ -1131,6 +1381,8 @@
   "sha256": "4c7b678b3f35447b53eaca517157ee583ebb02937c7f5b1e560919d40bd9b818",
   "width": 706,
   "height": 975,
+  "full": "photos/full/azhikode-lighthouse-and-dgps-station.jpg",
+  "preview_bytes": 125559,
   "credit": "DGLL"
  },
  "valiyakara-lighthouse": {
@@ -1140,6 +1392,8 @@
   "sha256": "8a2122c42660240633ae05bb722923489d6a0cbe7d5a52ee521d83e4db098783",
   "width": 725,
   "height": 425,
+  "full": "photos/full/valiyakara-lighthouse.jpg",
+  "preview_bytes": 37646,
   "credit": "DGLL"
  },
  "kalpeni-lighthouse": {
@@ -1149,6 +1403,8 @@
   "sha256": "ecfbcfefbd1a1340c2f54acc0c7c54d2dad618344d71f67e111cd3ab3d4b0c84",
   "width": 673,
   "height": 834,
+  "full": "photos/full/kalpeni-lighthouse.jpg",
+  "preview_bytes": 67939,
   "credit": "DGLL"
  },
  "suhelipar-lighthouse": {
@@ -1158,6 +1414,8 @@
   "sha256": "50fb8c744023a1872e446932dadd0cedf9a248ebbd9d2e4723644f3465923a3d",
   "width": 725,
   "height": 425,
+  "full": "photos/full/suhelipar-lighthouse.jpg",
+  "preview_bytes": 45330,
   "credit": "DGLL"
  },
  "ammapattinam-lighthouse": {
@@ -1167,6 +1425,8 @@
   "sha256": "9e5c8ed21658ed0b3ee1195728c1734da70b76e8ea512e00c9474fe9109b6c18",
   "width": 476,
   "height": 998,
+  "full": "photos/full/ammapattinam-lighthouse.jpg",
+  "preview_bytes": 77487,
   "credit": "DGLL"
  },
  "vypin-lighthouse": {
@@ -1176,6 +1436,8 @@
   "sha256": "370843d1b506812095a3614c2cfe0d0338736dd258c73ca29470b9ac53d31c30",
   "width": 701,
   "height": 936,
+  "full": "photos/full/vypin-lighthouse.jpg",
+  "preview_bytes": 151788,
   "credit": "DGLL"
  },
  "passipattinam-lighthouse": {
@@ -1185,6 +1447,8 @@
   "sha256": "149698dd229dacf066c9de585525f38f078a58071d0536c4e5a847d80bdbf8f8",
   "width": 1430,
   "height": 1407,
+  "full": "photos/full/passipattinam-lighthouse.jpg",
+  "preview_bytes": 163581,
   "credit": "DGLL"
  },
  "manakkodam-lighthouse": {
@@ -1194,6 +1458,8 @@
   "sha256": "c8c8ce521d890b485d7bfce928c38677643f61efeffd1f207fbc41024ce23beb",
   "width": 1176,
   "height": 1216,
+  "full": "photos/full/manakkodam-lighthouse.jpg",
+  "preview_bytes": 461226,
   "credit": "DGLL"
  },
  "alappuzha-lighthouse": {
@@ -1203,6 +1469,8 @@
   "sha256": "d915adcc64a766102b437ed0e7a6b2a679c3715d39ab8bd186a8c50ea33783e2",
   "width": 1080,
   "height": 1350,
+  "full": "photos/full/alappuzha-lighthouse.jpg",
+  "preview_bytes": 316298,
   "credit": "DGLL"
  },
  "olakuda-lighthouse": {
@@ -1212,6 +1480,8 @@
   "sha256": "a8afefbb66c0a6903ce4a7cfd7554cbd829fa9b5b0e0aaf165ef26bb06d4facc",
   "width": 1062,
   "height": 1333,
+  "full": "photos/full/olakuda-lighthouse.jpg",
+  "preview_bytes": 283177,
   "credit": "DGLL"
  },
  "pamban-lighthouse": {
@@ -1221,6 +1491,8 @@
   "sha256": "1f62bb2aa81575d742cd29b7f068842609b49f3327f40822cc354851f9152192",
   "width": 1559,
   "height": 1456,
+  "full": "photos/full/pamban-lighthouse.jpg",
+  "preview_bytes": 173661,
   "credit": "DGLL"
  },
  "rameshwaram-dgps-station": {
@@ -1230,6 +1502,8 @@
   "sha256": "572fd3d8dc89de1e44baeacfa84e5f11f51c357513f98cc3974c0d0c68925283",
   "width": 1559,
   "height": 868,
+  "full": "photos/full/rameshwaram-dgps-station.jpg",
+  "preview_bytes": 198790,
   "credit": "DGLL"
  },
  "kilakkarai-lighthouse": {
@@ -1239,6 +1513,8 @@
   "sha256": "754a8f8bd67d0f8113dc8647a370368efcccfcb1483185abaf9097254db6f653",
   "width": 1104,
   "height": 946,
+  "full": "photos/full/kilakkarai-lighthouse.jpg",
+  "preview_bytes": 150558,
   "credit": "DGLL"
  },
  "dhanushkodi-lighthouse": {
@@ -1248,6 +1524,8 @@
   "sha256": "fed40a740725e7cb7ea1dc0238c951fdb021ae877754cb58a5be5fec93eb17d1",
   "width": 931,
   "height": 1069,
+  "full": "photos/full/dhanushkodi-lighthouse.jpg",
+  "preview_bytes": 72243,
   "credit": "DGLL"
  },
  "valiazheekal-lighthouse": {
@@ -1257,6 +1535,8 @@
   "sha256": "dd6b753c80b8601251fac9a750e48809f38926ccf42edf3f4d98221f00edce6f",
   "width": 721,
   "height": 1280,
+  "full": "photos/full/valiazheekal-lighthouse.png",
+  "preview_bytes": 107854,
   "credit": "DGLL"
  },
  "vembar-lighthouse": {
@@ -1266,6 +1546,8 @@
   "sha256": "214c7acd30aa090f1692cd1c5e41f98b36abfe50599bd983a4aa6bd36db8c9df",
   "width": 960,
   "height": 1280,
+  "full": "photos/full/vembar-lighthouse.jpg",
+  "preview_bytes": 108054,
   "credit": "DGLL"
  },
  "kovilthottam-lighthouse": {
@@ -1275,6 +1557,8 @@
   "sha256": "de01a7b290bf434e67cd6e15638d34a20e9aa052eb29693bb8fa5cce1b8a4331",
   "width": 925,
   "height": 981,
+  "full": "photos/full/kovilthottam-lighthouse.jpg",
+  "preview_bytes": 167621,
   "credit": "DGLL"
  },
  "thangasseripoint-lighthouse": {
@@ -1284,6 +1568,8 @@
   "sha256": "fc78617701c66dbf5cc03747b757a5e8ce03f8ed4be674bbf57c5eb0c485bdaf",
   "width": 367,
   "height": 681,
+  "full": "photos/full/thangasseripoint-lighthouse.jpg",
+  "preview_bytes": 76986,
   "credit": "DGLL"
  },
  "pandiyan-tivu-lighthouse-and-dgps-station": {
@@ -1293,6 +1579,8 @@
   "sha256": "f64a4cf8643a73753a99605025019e5b0cff2dd3f420db24a5be277c58549afe",
   "width": 718,
   "height": 1558,
+  "full": "photos/full/pandiyan-tivu-lighthouse-and-dgps-station.jpg",
+  "preview_bytes": 137493,
   "credit": "DGLL"
  },
  "anjengo-lighthouse": {
@@ -1302,6 +1590,8 @@
   "sha256": "abc6b17ab976fbe58cc5140500bc4fd34f0d74635cc57a189afa2d90a5a42e2f",
   "width": 340,
   "height": 440,
+  "full": "photos/full/anjengo-lighthouse.jpg",
+  "preview_bytes": 29346,
   "credit": "DGLL"
  },
  "vizhinjam-lighthouse": {
@@ -1311,6 +1601,8 @@
   "sha256": "460ecb863998f318167292951cd4ddb82e0bced71ecfcdb1016d09a640ce167b",
   "width": 1034,
   "height": 1270,
+  "full": "photos/full/vizhinjam-lighthouse.png",
+  "preview_bytes": 244022,
   "credit": "DGLL"
  },
  "manapad-point-lighthouse": {
@@ -1320,6 +1612,8 @@
   "sha256": "a4e5fb6e4cb13c2536d40cae0d5453d277ceb4af5caccc37abd39a85d4cca8ee",
   "width": 352,
   "height": 1069,
+  "full": "photos/full/manapad-point-lighthouse.png",
+  "preview_bytes": 34641,
   "credit": "DGLL"
  },
  "minicoy-north-lighthouse": {
@@ -1329,6 +1623,8 @@
   "sha256": "0a579fa3087c388377eaa2be3a040e5438fa674c24e5862d117bc1b9f66d3768",
   "width": 263,
   "height": 442,
+  "full": "photos/full/minicoy-north-lighthouse.jpg",
+  "preview_bytes": 26198,
   "credit": "DGLL"
  },
  "minicoy-south-lighthouse-dgps-station": {
@@ -1338,6 +1634,8 @@
   "sha256": "7ef09e728327ecbe82dfd37be32377b4b6323192b1d19fa45ffc733d27750748",
   "width": 306,
   "height": 486,
+  "full": "photos/full/minicoy-south-lighthouse-dgps-station.jpg",
+  "preview_bytes": 29241,
   "credit": "DGLL"
  },
  "kuthenkuli-lighthouse": {
@@ -1347,6 +1645,8 @@
   "sha256": "ba00bf948a6a6f838232ecb13756c3bcb436a19235e496682a5d8d7b2c27f164",
   "width": 1280,
   "height": 854,
+  "full": "photos/full/kuthenkuli-lighthouse.jpg",
+  "preview_bytes": 116200,
   "credit": "DGLL"
  },
  "muttom-point-lighthouse-and-navtex-station": {
@@ -1356,6 +1656,8 @@
   "sha256": "73976dae11b16cdeff2d1349da687a36eac32e8f21f48e4de08b5f2dfcb8bb62",
   "width": 990,
   "height": 1363,
+  "full": "photos/full/muttom-point-lighthouse-and-navtex-station.jpg",
+  "preview_bytes": 251301,
   "credit": "DGLL"
  },
  "kanyakumari-lighthouse": {
@@ -1365,6 +1667,8 @@
   "sha256": "d9b6ea6b41e5889ef7d2cb39750509e3f446eea008543aeb960ec616aee0b896",
   "width": 780,
   "height": 1040,
+  "full": "photos/full/kanyakumari-lighthouse.jpg",
+  "preview_bytes": 87700,
   "credit": "DGLL"
  },
  "east-island-lighthouse-and-dgps-station": {
@@ -1374,6 +1678,8 @@
   "sha256": "f4a9ec003372e463ba46561bd90ec97e81c746669c86fcfd28bfbd530a4cfbdd",
   "width": 447,
   "height": 549,
+  "full": "photos/full/east-island-lighthouse-and-dgps-station.jpg",
+  "preview_bytes": 30494,
   "credit": "DGLL"
  },
  "narcondum-lighthouse": {
@@ -1383,6 +1689,8 @@
   "sha256": "a4a404ecbc6101fa97a17c5d608fc37b581cb66137cab6c2227566f1da6c5561",
   "width": 438,
   "height": 528,
+  "full": "photos/full/narcondum-lighthouse.png",
+  "preview_bytes": 58068,
   "credit": "DGLL"
  },
  "port-cornwallis": {
@@ -1392,6 +1700,8 @@
   "sha256": "6091299abad392506482a4cc0292f09565640d930b18e649e86cdf6e01a8704d",
   "width": 484,
   "height": 561,
+  "full": "photos/full/port-cornwallis.png",
+  "preview_bytes": 33820,
   "credit": "DGLL"
  },
  "aves-lighthouse": {
@@ -1401,6 +1711,8 @@
   "sha256": "cde3aa7be013bc0c3f7b0cf3ca3b803308b3913b3ce604c53c9a9f6a52c29850",
   "width": 486,
   "height": 529,
+  "full": "photos/full/aves-lighthouse.png",
+  "preview_bytes": 46825,
   "credit": "DGLL"
  },
  "north-button-lighthouse": {
@@ -1410,6 +1722,8 @@
   "sha256": "8aed214e43e981f4fe4df506e90aa20e341a4f35e418fe8e8577a425b71d990b",
   "width": 486,
   "height": 521,
+  "full": "photos/full/north-button-lighthouse.png",
+  "preview_bytes": 37423,
   "credit": "DGLL"
  },
  "middle-button-lighthouse": {
@@ -1419,6 +1733,8 @@
   "sha256": "27e9f786571338ee1b81a23bfb7273d50ff08980bb5100ee875a4b0661b202be",
   "width": 470,
   "height": 536,
+  "full": "photos/full/middle-button-lighthouse.png",
+  "preview_bytes": 35287,
   "credit": "DGLL"
  },
  "south-button-lighthouse": {
@@ -1428,6 +1744,8 @@
   "sha256": "56a9e43389803006312a73509738624e4678d990e16b6a9e7ff73e883f35a662",
   "width": 455,
   "height": 549,
+  "full": "photos/full/south-button-lighthouse.png",
+  "preview_bytes": 56343,
   "credit": "DGLL"
  },
  "strait-island-lighthouse": {
@@ -1437,6 +1755,8 @@
   "sha256": "bfa1b5322f64e4fde24f78557d49a27e7563fc0fd58d3c2cd877eda600c664e8",
   "width": 465,
   "height": 551,
+  "full": "photos/full/strait-island-lighthouse.png",
+  "preview_bytes": 40639,
   "credit": "DGLL"
  },
  "wilson-island-lighthouse": {
@@ -1446,6 +1766,8 @@
   "sha256": "4a0416ea09e5238a7985512aea4670bf211b4b5006d76c19f8a47e9e8c09b571",
   "width": 434,
   "height": 577,
+  "full": "photos/full/wilson-island-lighthouse.png",
+  "preview_bytes": 78060,
   "credit": "DGLL"
  },
  "andaman-strait-eastern-entrance-lighthouse": {
@@ -1455,6 +1777,8 @@
   "sha256": "883b577840d63a2dcd668c06c9b5230ad8f889df33a86ef163014b5667911519",
   "width": 434,
   "height": 554,
+  "full": "photos/full/andaman-strait-eastern-entrance-lighthouse.png",
+  "preview_bytes": 33577,
   "credit": "DGLL"
  },
  "petrie-lighthouse": {
@@ -1464,6 +1788,8 @@
   "sha256": "57dcdecd942f2214889cc48bcf6a098e66582fd1a73c29711c429fd61375ed6d",
   "width": 434,
   "height": 544,
+  "full": "photos/full/petrie-lighthouse.png",
+  "preview_bytes": 33342,
   "credit": "DGLL"
  },
  "sir-hugh-rose-lighthouse": {
@@ -1473,6 +1799,8 @@
   "sha256": "afa24fc99c5441fbf3c08899884645e20907ff363b9884d83a780aef697f06bc",
   "width": 461,
   "height": 544,
+  "full": "photos/full/sir-hugh-rose-lighthouse.png",
+  "preview_bytes": 45668,
   "credit": "DGLL"
  },
  "north-point-lighthouse": {
@@ -1482,6 +1810,8 @@
   "sha256": "143bea593447eb0c7deb5aaf00ccb6c58ec12662ba026f0d0b3296b5a62ca5f3",
   "width": 335,
   "height": 500,
+  "full": "photos/full/north-point-lighthouse.jpg",
+  "preview_bytes": 31882,
   "credit": "DGLL"
  },
  "chidiyatapu-lighthouse": {
@@ -1491,6 +1821,8 @@
   "sha256": "1f4cae727bc790d3abcf57925aac1da239074d2ddbddf4389d9402852c0c04a0",
   "width": 440,
   "height": 552,
+  "full": "photos/full/chidiyatapu-lighthouse.png",
+  "preview_bytes": 50035,
   "credit": "DGLL"
  },
  "rutland-lighthouse": {
@@ -1500,6 +1832,8 @@
   "sha256": "7d85c7acaef9fa71f0f163f26ae215a116dd76086007c9b4ade2d542f9d30dc2",
   "width": 430,
   "height": 543,
+  "full": "photos/full/rutland-lighthouse.png",
+  "preview_bytes": 41493,
   "credit": "DGLL"
  },
  "north-cinque-lighthouse": {
@@ -1509,6 +1843,8 @@
   "sha256": "1a3f3bfbdf3cd34a2075424462f2b5b5816c498ca2dd393bad9152f91105828d",
   "width": 489,
   "height": 534,
+  "full": "photos/full/north-cinque-lighthouse.png",
+  "preview_bytes": 27322,
   "credit": "DGLL"
  },
  "sister-island-lighthouse": {
@@ -1518,6 +1854,8 @@
   "sha256": "dc6afd487c3718c8506453480eaadc0e017edf61d4cba0a69157dbc814e934ff",
   "width": 490,
   "height": 547,
+  "full": "photos/full/sister-island-lighthouse.png",
+  "preview_bytes": 36257,
   "credit": "DGLL"
  },
  "north-brother-lighthouse": {
@@ -1527,6 +1865,8 @@
   "sha256": "23044ce23c16e198e16d1993eb25e9a00bfd00a0fe6d97ba7480db6682a36345",
   "width": 442,
   "height": 555,
+  "full": "photos/full/north-brother-lighthouse.png",
+  "preview_bytes": 62639,
   "credit": "DGLL"
  },
  "south-sentinel-lighthouse": {
@@ -1536,6 +1876,8 @@
   "sha256": "4d2f8d21dbace551360fcda475b23b5f8c130b258a14475c226de79f9ac326b9",
   "width": 354,
   "height": 574,
+  "full": "photos/full/south-sentinel-lighthouse.jpg",
+  "preview_bytes": 58725,
   "credit": "DGLL"
  },
  "little-andaman-lighthouse": {
@@ -1545,6 +1887,8 @@
   "sha256": "d46545822c9cbfab69d06398811fc4a27067bd1999abc60b9431b28233b5e896",
   "width": 436,
   "height": 534,
+  "full": "photos/full/little-andaman-lighthouse.png",
+  "preview_bytes": 43792,
   "credit": "DGLL"
  },
  "keating-point-lighthouse-and-dgps-station": {
@@ -1554,6 +1898,8 @@
   "sha256": "02ffa2beb6f7b6c96cb95500400aa74e994dfc71b1cc44b52f99157e11af86cd",
   "width": 407,
   "height": 543,
+  "full": "photos/full/keating-point-lighthouse-and-dgps-station.jpg",
+  "preview_bytes": 48657,
   "credit": "DGLL"
  },
  "battimalv-lighthouse": {
@@ -1563,6 +1909,8 @@
   "sha256": "8eba22f155f4ecd381347057928555a2fc0a49d19e4aa70a657259e7500ce552",
   "width": 347,
   "height": 553,
+  "full": "photos/full/battimalv-lighthouse.png",
+  "preview_bytes": 55325,
   "credit": "DGLL"
  },
  "tillanchang-lighthouse": {
@@ -1572,6 +1920,8 @@
   "sha256": "09c8fe4f61200bb95d50e15223f1fb72c041356664fa0c59041519d494258469",
   "width": 410,
   "height": 518,
+  "full": "photos/full/tillanchang-lighthouse.png",
+  "preview_bytes": 31366,
   "credit": "DGLL"
  },
  "chowra-lighthouse": {
@@ -1581,6 +1931,8 @@
   "sha256": "62202e94940971f57af6bd3916c9e005af28e229d659ae6211ee93421ab65bf5",
   "width": 431,
   "height": 498,
+  "full": "photos/full/chowra-lighthouse.png",
+  "preview_bytes": 31936,
   "credit": "DGLL"
  },
  "bampoka-lighthouse": {
@@ -1590,6 +1942,8 @@
   "sha256": "83a389068371c89029df41572af275fc4468a79edc9aad5406dc9b3f1dc019ba",
   "width": 445,
   "height": 511,
+  "full": "photos/full/bampoka-lighthouse.png",
+  "preview_bytes": 27116,
   "credit": "DGLL"
  },
  "katchal-east-lighthouse": {
@@ -1599,6 +1953,8 @@
   "sha256": "7839afb0283f22717ea9bc77a80f18839968e949a5ec492c3421a3efa73a4ce4",
   "width": 436,
   "height": 526,
+  "full": "photos/full/katchal-east-lighthouse.png",
+  "preview_bytes": 41152,
   "credit": "DGLL"
  },
  "cape-cannaught-lighthouse": {
@@ -1608,6 +1964,8 @@
   "sha256": "be944ea260de47fd5e902be1452b6277adb1d608ae133e753bcbc2386bb2abfc",
   "width": 435,
   "height": 513,
+  "full": "photos/full/cape-cannaught-lighthouse.png",
+  "preview_bytes": 23798,
   "credit": "DGLL"
  },
  "katchal-west-lighthouse": {
@@ -1617,6 +1975,8 @@
   "sha256": "c872200dd31d305d9f861d29406a6a6820d08c02b7b0ad0456c439db9f1e1f01",
   "width": 434,
   "height": 540,
+  "full": "photos/full/katchal-west-lighthouse.png",
+  "preview_bytes": 31640,
   "credit": "DGLL"
  },
  "tries-island-lighthouse": {
@@ -1626,6 +1986,8 @@
   "sha256": "52aae0703b6eada97f1c4be35409449d19c7da5e65ea9da501965489f701e4f5",
   "width": 370,
   "height": 548,
+  "full": "photos/full/tries-island-lighthouse.png",
+  "preview_bytes": 45668,
   "credit": "DGLL"
  },
  "pulo-milow-lighthouse": {
@@ -1635,6 +1997,8 @@
   "sha256": "025d5d9658498c456c6e781f606476665ea252394df320a602a36c8d771e50da",
   "width": 432,
   "height": 571,
+  "full": "photos/full/pulo-milow-lighthouse.png",
+  "preview_bytes": 43922,
   "credit": "DGLL"
  },
  "menchal-lighthouse": {
@@ -1644,6 +2008,8 @@
   "sha256": "ef86d9919428a334fda72c001c05716a8483140ed9fd5d3d8ccf3877d7fe6c16",
   "width": 451,
   "height": 541,
+  "full": "photos/full/menchal-lighthouse.png",
+  "preview_bytes": 44731,
   "credit": "DGLL"
  },
  "kabra-island-lighthouse": {
@@ -1653,6 +2019,8 @@
   "sha256": "a29b817be26bfb98fd1feda3acf1a0b33b55060832c431af593620f7e2d1fdc8",
   "width": 406,
   "height": 544,
+  "full": "photos/full/kabra-island-lighthouse.png",
+  "preview_bytes": 45079,
   "credit": "DGLL"
  },
  "koltapalm-lighthouse": {
@@ -1662,6 +2030,8 @@
   "sha256": "6bbc3c811ada536facfd8a5ea1f52b392a633ef4d0893329f959b8612976816e",
   "width": 442,
   "height": 533,
+  "full": "photos/full/koltapalm-lighthouse.png",
+  "preview_bytes": 46899,
   "credit": "DGLL"
  },
  "campbellbay-dgps-station": {
@@ -1671,6 +2041,8 @@
   "sha256": "7185b51bf20eac615d27cf7dff602de001a05770a40578c208d9518e64299c30",
   "width": 561,
   "height": 421,
+  "full": "photos/full/campbellbay-dgps-station.jpg",
+  "preview_bytes": 54612,
   "credit": "DGLL"
  },
  "rosen-point-lighthouse": {
@@ -1680,6 +2052,8 @@
   "sha256": "480eb83abfa8be11b41872debf2ad90eea7e16e0037b21e04945d089d71094a7",
   "width": 444,
   "height": 537,
+  "full": "photos/full/rosen-point-lighthouse.png",
+  "preview_bytes": 45612,
   "credit": "DGLL"
  },
  "indira-point-lighthouse": {
@@ -1689,6 +2063,8 @@
   "sha256": "0d0b6ddb7e91782bae6f6935663799b745a71eb8d255b6d2be57bc731fbdc1c7",
   "width": 413,
   "height": 531,
+  "full": "photos/full/indira-point-lighthouse.png",
+  "preview_bytes": 24640,
   "credit": "DGLL"
  }
 }

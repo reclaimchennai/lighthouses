@@ -358,6 +358,45 @@ Prince of Persia.
 - **Panel.** The fly-to buttons and Night voyage now sit under the History slider; "Colour by
   access" was removed. Cards show the ledger's postal address (91 stations).
 
+### Media: legends, viewer, photo tiers, 3D scans (2026-09-15)
+- **Legend in saved media.** `mediaLegend()` in app.js lists only what is in the scene right now. Each
+  row is present only when its layer is switched on, in view (bounds; NAVTEX padded by its 250 NM) and
+  visible at this zoom and year:
+  - the colour-mode keys for colours actually present
+  - revolving sweep, flashes in place, sea reach (z < 11.5) and screened arcs
+  - towers (z ≥ 6.2) and the light vessel
+  - NAVTEX with the station on air, RACON (z < 12), planned rings, and buildings (z ≥ 14)
+
+  `record.js drawLegend()` draws it bottom-left of every picture and video frame. Rows fade in and out
+  (±0.1 per frame), so a video's legend follows the scene; a picture uses the final state.
+  Captures scale up by a whole number (nearest) to ≤ 1280 px (960 on phones), because the map draws
+  at half resolution and the legend was too small to read.
+- **Viewer (`web/js/viewer.js`).**
+  - One pop-up dialog: captured pictures and videos (Save, and Share where the Web Share API takes
+    files), station photos, and live scenes (a `mount(stage, say)` callback that returns a cleanup).
+  - Zoom with pinch, wheel, +/− or double-tap; drag to pan.
+  - Esc closes, Tab stays inside, and focus returns on close.
+  - The capture flow now opens the viewer instead of downloading straight away.
+- **Photo tiers (`fetch_photos.py`).**
+  - `photos/thumb/<id>.jpg` is 480 px (card).
+  - `photos/<id>.jpg` is 1280 px (the viewer opens on it).
+  - `photos/full/<id>.<ext>` is the untouched original, streamed with progress only when
+    "Full resolution · size" is pressed.
+  - Commons originals are now fetched full size (they were 1600 px renditions).
+  - `photo_meta` on each station carries the original size and bytes.
+- **3D scans (`web/js/splat.js`, `scripts/splat/`).**
+  - Gaussian splats render with Spark 2.2.0 (World Labs, MIT; importmap `@sparkjsdev/spark`,
+    dynamic import only when opened) and OrbitControls, inside the viewer.
+  - Tested with Spark's sample splat; no lighthouse scan exists yet.
+  - `web/data/splats.json` lists scans; a card shows "3D scan · N photos" only for listed stations.
+  - Building is off-server (no GPU here), on the mi6 laptop, following scripts/splat/README.md:
+    - `fetch_views.py` gathers Commons photos plus attribution. It uses 2560 px thumbnails with
+      back-off, because original downloads hit HTTP 429.
+    - `run_on_mi6.sh` runs COLMAP plus OpenSplat on macOS/Metal, or nerfstudio splatfacto on
+      Linux/CUDA, then splat-transform to SOG.
+    - `publish.sh` then runs `manifest.py`.
+  - Candidates on Commons: Mahabalipuram (65 photos ≥ 1000 px), Chennai (38), Tangasseri.
+
 ### Handoff: next steps (for a future session or Fable)
 1. **Measured building heights near lighthouses.**
    - For each station, take tiles at z 15–16 covering a radius of `reach_nm × 1.1` (cap ~40 km).

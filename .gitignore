@@ -11,3 +11,7 @@ web/photos/
 __pycache__/
 *.pyc
 .DS_Store
+raw/splats/*/images/
+raw/splats/*/work/
+raw/splats/*/*.ply
+web/splats/
