@@ -54,7 +54,7 @@ object fields are JSON text. `scripts/export_data.py` regenerates everything her
 | [`tenders.csv`](data/tenders.csv) | 378 | DGLL tenders, transcribed |
 | [`budget.csv`](data/budget.csv) · [`parliament.json`](data/parliament.json) | 3 | Funds allocated and used, from Lok Sabha answers |
 | [`photos.csv`](data/photos.csv) | 188 | Station photo archive: source, credit, size, checksum |
-| [`light_audit.csv`](data/light_audit.csv) | 200 | How each light's rhythm and beam were derived, with flags |
+| [`light_audit.csv`](data/light_audit.csv) | 202 | How each light's rhythm and beam were derived, with flags |
 | [`web/data/ledgers/`](web/data/ledgers/) | 200 | Full Master Ledger transcription per station (JSON) |
 
 Quick start:
