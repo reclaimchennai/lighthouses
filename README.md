@@ -152,7 +152,10 @@ lights[lights.visit == "open"][["name", "lat", "lon", "established", "tower_h_m"
   VIII and T&P notices, refreshed every 2 h by `scripts/fetch_warnings.py`. Each warning has `key`, `kind`, `identifier`,
   `category` (firing, operations, danger, aton, notice, misc), `issued` / `dtg`, `b_char` and `navtex_stations`, `place`,
   `area`, `charts`, `message`, `geometry` (GeoJSON), `cancel_at`, `effects` (unlit, racon_off, dgnss_off, ais_off, racon_new),
-  `stations` (linked lighthouses), `group` (same event across kinds), `first_seen`, `last_seen`, `status`, `ended`, `link`.
+  `stations` (linked lighthouses), `group` (same event across kinds), `first_seen`, `last_seen`, `status`, `ended`, `link`,
+  and `plain` (`title`, `summary`, `when` in IST, `advice`, `icon`, `rule`): a plain-language version written by fixed rules in
+  `scripts/warning_language.py`, rebuilt every run. `message` is the original text as issued and is the authority. Icons:
+  `web/warning-icons.svg` (pixel SVG sprite, `#w-<icon>`) and `web/data/warning_icons.json`.
 
 ## Releases
 
@@ -166,7 +169,6 @@ Files too large for the repository are attached to [releases](https://github.com
 | `station_photos_original.zip` | Original station photos (DGLL and Wikimedia Commons; see `data/photos.csv`) |
 | `basemap_sources.zip` | Natural Earth and DataMeet layers used to build the basemap and land mask |
 | `map_recordings_mp4.zip` | Full-length screen recordings of the map |
-| `mahabalipuram-lighthouse.sog`, `.ply` | 3D scan of Mahabalipuram lighthouse and its photo attribution |
 
 ## 3D scans
 
@@ -174,6 +176,9 @@ A scan needs many overlapping photos of one tower. `scripts/splat/` gathers them
 authors and licences, finds camera positions with COLMAP and trains a Gaussian splat with OpenSplat on a GPU, then
 compresses it to SOG for the web. On a Mac without Xcode, apply `scripts/splat/opensplat-mps-without-xcode.patch` to
 OpenSplat so Metal kernels compile at runtime. See [`scripts/splat/README.md`](scripts/splat/README.md).
+
+None published yet: Commons has too few usable photos of most stations for a clean reconstruction. A filmed orbit
+(the README's other method) is the more promising route.
 
 A splat built from Commons photos is a derivative work: each scan ships with its `attribution.json`, and keeps the
 photos' licence (mostly CC BY-SA).
