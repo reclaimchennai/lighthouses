@@ -1,0 +1,64 @@
+name,code,station,lat,lon,pos_src
+Jakhau,M,jakhau-lighthouse-and-vts-station,23.23933,68.60717,DGLL RACON list
+Mandvi,G,mandvi-lighthouse-vts-station,22.818,69.34667,DGLL RACON list
+Navlakhi,B,navlakhi-lighthouse,22.961,70.4439,DGLL RACON list
+Navinal,C,navinal-lighthouse-and-vts-station,22.7679,69.6725,DGLL RACON list
+Pirotan,K,pirotan-lighthouse,22.60333,69.95167,DGLL RACON list
+Bural,D,bural-reef-lighthouse,22.545,69.27,DGLL RACON list
+Okha,O,okha-lighthouse-dgps-and-vts-station,22.47635,69.06983,DGLL RACON list
+Kachhigadh,K,kachhigadh-lighthouse,22.33117,68.94867,DGLL RACON list
+Dwarka,G,dwarka-point-lighthouse,22.23817,68.95783,DGLL RACON list
+Porbandar,D,porbandar-lighthouse,21.6221,69.61994,DGLL RACON list
+Veraval,K,veraval-lighthouse,20.91,70.35333,DGLL RACON list
+Diu Head,D,diu-head-lighthouse,20.69167,70.82833,DGLL RACON list
+Savaibet,M,savaibet-lighthouse,20.90333,71.525,DGLL RACON list
+Gopnath,G,gopnath-lighthouse-dgps-station,21.20333,72.11,DGLL RACON list
+Alang,C,alang-lighthouse,21.40333,72.185,DGLL RACON list
+Piram,B,piram-lighthouse,21.59833,72.35333,DGLL RACON list
+Luhara Pt,D,luhara-point-lighthouse,21.6595,72.54817,DGLL RACON list
+Hazira,K,hazira-lighthouse-and-dgps-station,21.09217,72.6425,DGLL RACON list
+Umargaon,M,umergam-lighthouse,20.195,72.75,DGLL RACON list
+Korlai Fort,O,korlai-fort-lighthouse,18.5377,72.90607,DGLL RACON list
+Ratnagiri,G,ratnagiri-town-and-dgps-station,16.98667,73.27333,DGLL RACON list
+Aguada,O,aguada-lighthouse-and-dgps-station,15.48867,73.77,DGLL RACON list
+Vengrula Rocks,D,vengurla-rocks-lighthouse,15.89,73.46167,DGLL RACON list
+Surathkal,C,surathkal-lighthouse-and-dgps-station,13.00365,74.79053,DGLL RACON list
+Oyster Rock,D,oyster-rocks-lighthouse,14.82,74.06167,DGLL RACON list
+Mount Dilli,K,mount-dilli-lighthouse,12.00667,75.20333,DGLL RACON list
+Beypore,G,beypore-lighthouse,11.15833,75.80833,DGLL RACON list
+Androth,D,androth-east-lighthouse,10.81333,73.70167,DGLL RACON list
+Kiltan (South),O,kiltan-lighthouse-south,11.46883,73.00767,DGLL RACON list
+Agatti,B,agatti-lighthouse,10.8675,72.205,DGLL RACON list
+Kadmath,G,kadamat-lighthouse,11.25717,72.79067,DGLL RACON list
+Villinjam,O,vizhinjam-lighthouse,8.38289,76.97965,DGLL RACON list
+Minicoy,G,minicoy-north-lighthouse,8.29567,73.06583,DGLL RACON list
+Suhelipar,O,suhelipar-lighthouse,10.03833,72.28333,DGLL RACON list
+Kavaratti,K,kavaratti-lighthouse,10.56167,72.64833,DGLL RACON list
+Vypin,K,vypin-lighthouse,9.997,76.22233,DGLL RACON list
+Kanyakumari,C,kanyakumari-lighthouse,8.08,77.54667,DGLL RACON list
+Pandian Tivu,O,pandiyan-tivu-lighthouse-and-dgps-station,8.785,78.19833,DGLL RACON list
+Manapad,G,manapad-point-lighthouse,8.37167,78.065,DGLL RACON list
+Muttom,M,muttom-point-lighthouse-and-navtex-station,8.12333,77.31833,DGLL RACON list
+Porto Novo,B,portonovo-lighthouse-and-navtex-station,11.50417,79.77,DGLL RACON list
+Nagapattinam,G,nagapattinam-lighthouse-and-dgps-station,10.765,79.85167,DGLL RACON list
+Pondicherry,D,puducherry-lighthouse-and-dgps-station,11.915,79.83167,DGLL RACON list
+Chennai,K,chennai-lighthouse,13.03944,80.28083,DGLL RACON list
+Pulicat,B,pulicat-lighthouse-and-dgps-station,13.41667,80.33333,DGLL RACON list
+Krishnapatnam,C,krishnapatnam-lighthouse,14.28568,80.1379,DGLL RACON list
+Ramyapatnam,K,ramayapatnam-lighthouse,15.04083,80.05,DGLL RACON list
+Vakalpudi,G,vakalapudi-lighthouse,17.01333,82.285,DGLL RACON list
+Antervedi,B,antervedi-lighthouse,16.31698,81.72579,DGLL RACON list
+Dolphin’s Nose,O,dolphin-nose-lighthouse,17.675,83.295,DGLL RACON list
+Paradeep,K,paradeep-lighthouse,20.255,86.65833,DGLL RACON list
+Gopalpur,G,gopalpur-lighthouse,19.255,84.90833,DGLL RACON list
+Dariapur,G,dariapur-lighthouse,21.79,87.865,DGLL RACON list
+East Island,D,east-island-lighthouse-and-dgps-station,13.62983,93.049,DGLL RACON list
+North Point,K,north-point-lighthouse,11.70467,92.75483,DGLL RACON list
+Keating Point,O,keating-point-lighthouse-and-dgps-station,9.258,92.77167,DGLL RACON list
+Indira Point,G,indira-point-lighthouse,6.75167,93.82267,DGLL RACON list
+Chowra Island,B,chowra-lighthouse,8.45667,93.04833,DGLL RACON list
+Prongs Reef,G,prongs-reef-lighthouse,18.87933,72.81633,DGLL RACON list
+BLQ II (Bassein Field) BE 19 °07.39’ N 72°06.44’ E,C,,19.12317,72.10733,parsed from the DGLL name
+Neelam (Heera Field) NLM-11 18 °48.41’ N 72°20.04’ E,G,,18.80683,72.334,parsed from the DGLL name
+SHQ (South Field) WI – 10 . 19 °17’33.41” N 71°16’54.7” E,D,,19.29261,71.28186,parsed from the DGLL name
+WIN (North Field) WI-219 °37.84’ N 71°17.77’ E,B,,19.63067,71.29617,parsed from the DGLL name

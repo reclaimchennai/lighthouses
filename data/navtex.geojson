@@ -1,0 +1,145 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     70.35333,
+     20.91
+    ]
+   },
+   "properties": {
+    "name": "Veraval",
+    "station": "veraval-lighthouse",
+    "id_518": "H",
+    "slots_518": "0110 0510 0910 1310 1710 2110",
+    "id_490": "P",
+    "slots_490": "0230 0630 1030 1430 1830 2230",
+    "since": 2015,
+    "since_src": "network"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.61667,
+     15.85333
+    ]
+   },
+   "properties": {
+    "name": "Vengurla Point",
+    "station": "vengurla-point-lighthouse",
+    "id_518": "J",
+    "slots_518": "0130 0530 0930 1330 1730 2130",
+    "id_490": "R",
+    "slots_490": "0250 0650 1050 1450 1850 2250",
+    "since": 2015,
+    "since_src": "network"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.31833,
+     8.12333
+    ]
+   },
+   "properties": {
+    "name": "Muttam Point",
+    "station": "muttom-point-lighthouse-and-navtex-station",
+    "id_518": "L",
+    "slots_518": "0150 0550 0950 1350 1750 2150",
+    "id_490": "T",
+    "slots_490": "0310 0710 1110 1510 1910 2310",
+    "since": 2015,
+    "since_src": "network"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.77,
+     11.50417
+    ]
+   },
+   "properties": {
+    "name": "Porto Novo",
+    "station": "portonovo-lighthouse-and-navtex-station",
+    "id_518": "O",
+    "slots_518": "0220 0620 1020 1420 1820 2220",
+    "id_490": "E",
+    "slots_490": "0040 0440 0840 1240 1640 2040",
+    "since": 2015,
+    "since_src": "network"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.285,
+     17.01333
+    ]
+   },
+   "properties": {
+    "name": "Vakalpudi",
+    "station": "vakalapudi-lighthouse",
+    "id_518": "Q",
+    "slots_518": "0240 0640 1040 1440 1840 2240",
+    "id_490": "G",
+    "slots_490": "0100 0500 0900 1300 1700 2100",
+    "since": 2015,
+    "since_src": "ledger"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.91683,
+     21.48633
+    ]
+   },
+   "properties": {
+    "name": "Balasore",
+    "station": null,
+    "id_518": "S",
+    "slots_518": "0300 0700 1100 1500 1900 2300",
+    "id_490": "I",
+    "slots_490": "0120 0520 0920 1320 1720 2120",
+    "since": 2015,
+    "since_src": "network"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     92.77167,
+     9.258
+    ]
+   },
+   "properties": {
+    "name": "Keating Point",
+    "station": "keating-point-lighthouse-and-dgps-station",
+    "id_518": "V",
+    "slots_518": "0330 0730 1130 1530 1930 2330",
+    "id_490": "K",
+    "slots_490": "0140 0540 0940 1340 1740 2140",
+    "since": 2015,
+    "since_src": "network"
+   }
+  }
+ ]
+}

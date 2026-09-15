@@ -1,0 +1,37 @@
+diff --git a/CMakeLists.txt b/CMakeLists.txt
+index 479d97d..a67a32e 100644
+--- a/CMakeLists.txt
++++ b/CMakeLists.txt
+@@ -156,11 +156,11 @@ elseif(GPU_RUNTIME STREQUAL "MPS")
+                     RESULT_VARIABLE METAL_COMPILER_RESULT
+                     OUTPUT_QUIET ERROR_QUIET)
+     if(NOT METAL_COMPILER_RESULT EQUAL 0)
+-        message(WARNING "Metal compiler not found, building with CPU support only. "
+-                        "Install Xcode and the Metal toolchain "
+-                        "(xcodebuild -downloadComponent MetalToolchain), then re-run cmake.")
+-        set(GPU_RUNTIME "CPU")
+-    else()
++        # No Xcode: gsplat_metal.mm compiles gsplat_metal.metal at runtime when default.metallib is absent
++        message(WARNING "Metal compiler not found, Metal kernels will be compiled from source at runtime.")
++        set(METAL_RUNTIME_COMPILE ON)
++    endif()
++    if(TRUE)
+         find_library(FOUNDATION_LIBRARY Foundation REQUIRED)
+         find_library(METAL_FRAMEWORK    Metal      REQUIRED)
+         find_library(METALKIT_FRAMEWORK MetalKit   REQUIRED)
+@@ -241,6 +241,7 @@ elseif(GPU_RUNTIME STREQUAL "MPS")
+         ${METALKIT_FRAMEWORK}
+     )
+     target_include_directories(gsplat PRIVATE ${TORCH_INCLUDE_DIRS})
++    if(NOT METAL_RUNTIME_COMPILE)
+     # copy shader files to bin directory
+     configure_file(rasterizer/gsplat-metal/gsplat_metal.metal ${CMAKE_RUNTIME_OUTPUT_DIRECTORY}/gsplat_metal.metal COPYONLY)
+     add_custom_command(
+@@ -257,6 +258,7 @@ elseif(GPU_RUNTIME STREQUAL "MPS")
+         gsplat_metal ALL
+         DEPENDS ${CMAKE_RUNTIME_OUTPUT_DIRECTORY}/default.metallib
+     )
++    endif()
+ endif()
+ 
+ add_library(gsplat_cpu rasterizer/gsplat-cpu/gsplat_cpu.cpp)

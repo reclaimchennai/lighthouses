@@ -1,0 +1,84 @@
+{
+ "budget": {
+  "rows": [
+   {
+    "year": "2023-24",
+    "allocation": 100.0,
+    "utilisation": 99.89
+   },
+   {
+    "year": "2024-25",
+    "allocation": 90.0,
+    "utilisation": 80.23
+   },
+   {
+    "year": "2025-26",
+    "allocation": 90.0,
+    "utilisation": 81.82
+   }
+  ],
+  "unit": "₹ crore",
+  "note": "Funds for improvement and upgradation of lighthouse infrastructure",
+  "source": "Lok Sabha Unstarred Question 949, answered 24.07.2026",
+  "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU949_4qZANz.pdf?source=lsapps"
+ },
+ "technologies": {
+  "names": [
+   "DGNSS",
+   "RACON",
+   "NAVTEX",
+   "NAIS",
+   "VTS (Gulf of Kutch)"
+  ],
+  "source": "Lok Sabha Unstarred Question 949, answered 24.07.2026",
+  "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU949_4qZANz.pdf?source=lsapps"
+ },
+ "tourism": {
+  "count": 75,
+  "museums": [
+   "alappuzha-lighthouse",
+   "chennai-lighthouse",
+   "dwarka-point-lighthouse",
+   "gopnath-lighthouse-dgps-station",
+   "kannur-lighthouse",
+   "mahabalipuram-lighthouse",
+   "muttom-point-lighthouse-and-navtex-station"
+  ],
+  "source": "Lok Sabha Unstarred Question 3233, answered 07.08.2026",
+  "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3233_R4EsOl.pdf?source=lsapps",
+  "law": "Section 23, Marine Aids to Navigation Act, 2021"
+ },
+ "planned": {
+  "sites": [
+   {
+    "name": "Bogibeel",
+    "place": "Bogibeel Ghat, Dibrugarh",
+    "lat": 27.3861,
+    "lon": 94.77332
+   },
+   {
+    "name": "Biswanath Ghat",
+    "place": "Bishwanath Ghat, Biswanath",
+    "lat": 26.66148,
+    "lon": 93.16578
+   },
+   {
+    "name": "Silghat",
+    "place": "Silghat, Nagaon",
+    "lat": 26.60145,
+    "lon": 92.92611
+   },
+   {
+    "name": "Pandu",
+    "place": "Pandu Port, Guwahati",
+    "lat": 26.1702,
+    "lon": 91.67782
+   }
+  ],
+  "waterway": "National Waterway-2 (Brahmaputra)",
+  "mou": "DGLL–IWAI MoU, 08.04.2025",
+  "status": "Work orders issued",
+  "source": "Lok Sabha Unstarred Question 3233, answered 07.08.2026",
+  "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3233_R4EsOl.pdf?source=lsapps"
+ }
+}

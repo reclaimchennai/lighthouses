@@ -1,0 +1,1013 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     68.60717,
+     23.23933
+    ]
+   },
+   "properties": {
+    "name": "Jakhau",
+    "code": "M",
+    "station": "jakhau-lighthouse-and-vts-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69.34667,
+     22.818
+    ]
+   },
+   "properties": {
+    "name": "Mandvi",
+    "code": "G",
+    "station": "mandvi-lighthouse-vts-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     70.4439,
+     22.961
+    ]
+   },
+   "properties": {
+    "name": "Navlakhi",
+    "code": "B",
+    "station": "navlakhi-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69.6725,
+     22.7679
+    ]
+   },
+   "properties": {
+    "name": "Navinal",
+    "code": "C",
+    "station": "navinal-lighthouse-and-vts-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69.95167,
+     22.60333
+    ]
+   },
+   "properties": {
+    "name": "Pirotan",
+    "code": "K",
+    "station": "pirotan-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69.27,
+     22.545
+    ]
+   },
+   "properties": {
+    "name": "Bural",
+    "code": "D",
+    "station": "bural-reef-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69.06983,
+     22.47635
+    ]
+   },
+   "properties": {
+    "name": "Okha",
+    "code": "O",
+    "station": "okha-lighthouse-dgps-and-vts-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     68.94867,
+     22.33117
+    ]
+   },
+   "properties": {
+    "name": "Kachhigadh",
+    "code": "K",
+    "station": "kachhigadh-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     68.95783,
+     22.23817
+    ]
+   },
+   "properties": {
+    "name": "Dwarka",
+    "code": "G",
+    "station": "dwarka-point-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69.61994,
+     21.6221
+    ]
+   },
+   "properties": {
+    "name": "Porbandar",
+    "code": "D",
+    "station": "porbandar-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     70.35333,
+     20.91
+    ]
+   },
+   "properties": {
+    "name": "Veraval",
+    "code": "K",
+    "station": "veraval-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     70.82833,
+     20.69167
+    ]
+   },
+   "properties": {
+    "name": "Diu Head",
+    "code": "D",
+    "station": "diu-head-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.525,
+     20.90333
+    ]
+   },
+   "properties": {
+    "name": "Savaibet",
+    "code": "M",
+    "station": "savaibet-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.11,
+     21.20333
+    ]
+   },
+   "properties": {
+    "name": "Gopnath",
+    "code": "G",
+    "station": "gopnath-lighthouse-dgps-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.185,
+     21.40333
+    ]
+   },
+   "properties": {
+    "name": "Alang",
+    "code": "C",
+    "station": "alang-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.35333,
+     21.59833
+    ]
+   },
+   "properties": {
+    "name": "Piram",
+    "code": "B",
+    "station": "piram-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.54817,
+     21.6595
+    ]
+   },
+   "properties": {
+    "name": "Luhara Pt",
+    "code": "D",
+    "station": "luhara-point-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.6425,
+     21.09217
+    ]
+   },
+   "properties": {
+    "name": "Hazira",
+    "code": "K",
+    "station": "hazira-lighthouse-and-dgps-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.75,
+     20.195
+    ]
+   },
+   "properties": {
+    "name": "Umargaon",
+    "code": "M",
+    "station": "umergam-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.90607,
+     18.5377
+    ]
+   },
+   "properties": {
+    "name": "Korlai Fort",
+    "code": "O",
+    "station": "korlai-fort-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.27333,
+     16.98667
+    ]
+   },
+   "properties": {
+    "name": "Ratnagiri",
+    "code": "G",
+    "station": "ratnagiri-town-and-dgps-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.77,
+     15.48867
+    ]
+   },
+   "properties": {
+    "name": "Aguada",
+    "code": "O",
+    "station": "aguada-lighthouse-and-dgps-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.46167,
+     15.89
+    ]
+   },
+   "properties": {
+    "name": "Vengrula Rocks",
+    "code": "D",
+    "station": "vengurla-rocks-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     74.79053,
+     13.00365
+    ]
+   },
+   "properties": {
+    "name": "Surathkal",
+    "code": "C",
+    "station": "surathkal-lighthouse-and-dgps-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     74.06167,
+     14.82
+    ]
+   },
+   "properties": {
+    "name": "Oyster Rock",
+    "code": "D",
+    "station": "oyster-rocks-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.20333,
+     12.00667
+    ]
+   },
+   "properties": {
+    "name": "Mount Dilli",
+    "code": "K",
+    "station": "mount-dilli-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.80833,
+     11.15833
+    ]
+   },
+   "properties": {
+    "name": "Beypore",
+    "code": "G",
+    "station": "beypore-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.70167,
+     10.81333
+    ]
+   },
+   "properties": {
+    "name": "Androth",
+    "code": "D",
+    "station": "androth-east-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.00767,
+     11.46883
+    ]
+   },
+   "properties": {
+    "name": "Kiltan (South)",
+    "code": "O",
+    "station": "kiltan-lighthouse-south",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.205,
+     10.8675
+    ]
+   },
+   "properties": {
+    "name": "Agatti",
+    "code": "B",
+    "station": "agatti-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.79067,
+     11.25717
+    ]
+   },
+   "properties": {
+    "name": "Kadmath",
+    "code": "G",
+    "station": "kadamat-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.97965,
+     8.38289
+    ]
+   },
+   "properties": {
+    "name": "Villinjam",
+    "code": "O",
+    "station": "vizhinjam-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.06583,
+     8.29567
+    ]
+   },
+   "properties": {
+    "name": "Minicoy",
+    "code": "G",
+    "station": "minicoy-north-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.28333,
+     10.03833
+    ]
+   },
+   "properties": {
+    "name": "Suhelipar",
+    "code": "O",
+    "station": "suhelipar-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.64833,
+     10.56167
+    ]
+   },
+   "properties": {
+    "name": "Kavaratti",
+    "code": "K",
+    "station": "kavaratti-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.22233,
+     9.997
+    ]
+   },
+   "properties": {
+    "name": "Vypin",
+    "code": "K",
+    "station": "vypin-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.54667,
+     8.08
+    ]
+   },
+   "properties": {
+    "name": "Kanyakumari",
+    "code": "C",
+    "station": "kanyakumari-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.19833,
+     8.785
+    ]
+   },
+   "properties": {
+    "name": "Pandian Tivu",
+    "code": "O",
+    "station": "pandiyan-tivu-lighthouse-and-dgps-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.065,
+     8.37167
+    ]
+   },
+   "properties": {
+    "name": "Manapad",
+    "code": "G",
+    "station": "manapad-point-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.31833,
+     8.12333
+    ]
+   },
+   "properties": {
+    "name": "Muttom",
+    "code": "M",
+    "station": "muttom-point-lighthouse-and-navtex-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.77,
+     11.50417
+    ]
+   },
+   "properties": {
+    "name": "Porto Novo",
+    "code": "B",
+    "station": "portonovo-lighthouse-and-navtex-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.85167,
+     10.765
+    ]
+   },
+   "properties": {
+    "name": "Nagapattinam",
+    "code": "G",
+    "station": "nagapattinam-lighthouse-and-dgps-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.83167,
+     11.915
+    ]
+   },
+   "properties": {
+    "name": "Pondicherry",
+    "code": "D",
+    "station": "puducherry-lighthouse-and-dgps-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.28083,
+     13.03944
+    ]
+   },
+   "properties": {
+    "name": "Chennai",
+    "code": "K",
+    "station": "chennai-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.33333,
+     13.41667
+    ]
+   },
+   "properties": {
+    "name": "Pulicat",
+    "code": "B",
+    "station": "pulicat-lighthouse-and-dgps-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.1379,
+     14.28568
+    ]
+   },
+   "properties": {
+    "name": "Krishnapatnam",
+    "code": "C",
+    "station": "krishnapatnam-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.05,
+     15.04083
+    ]
+   },
+   "properties": {
+    "name": "Ramyapatnam",
+    "code": "K",
+    "station": "ramayapatnam-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.285,
+     17.01333
+    ]
+   },
+   "properties": {
+    "name": "Vakalpudi",
+    "code": "G",
+    "station": "vakalapudi-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.72579,
+     16.31698
+    ]
+   },
+   "properties": {
+    "name": "Antervedi",
+    "code": "B",
+    "station": "antervedi-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.295,
+     17.675
+    ]
+   },
+   "properties": {
+    "name": "Dolphin’s Nose",
+    "code": "O",
+    "station": "dolphin-nose-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.65833,
+     20.255
+    ]
+   },
+   "properties": {
+    "name": "Paradeep",
+    "code": "K",
+    "station": "paradeep-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.90833,
+     19.255
+    ]
+   },
+   "properties": {
+    "name": "Gopalpur",
+    "code": "G",
+    "station": "gopalpur-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.865,
+     21.79
+    ]
+   },
+   "properties": {
+    "name": "Dariapur",
+    "code": "G",
+    "station": "dariapur-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     93.049,
+     13.62983
+    ]
+   },
+   "properties": {
+    "name": "East Island",
+    "code": "D",
+    "station": "east-island-lighthouse-and-dgps-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     92.75483,
+     11.70467
+    ]
+   },
+   "properties": {
+    "name": "North Point",
+    "code": "K",
+    "station": "north-point-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     92.77167,
+     9.258
+    ]
+   },
+   "properties": {
+    "name": "Keating Point",
+    "code": "O",
+    "station": "keating-point-lighthouse-and-dgps-station",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     93.82267,
+     6.75167
+    ]
+   },
+   "properties": {
+    "name": "Indira Point",
+    "code": "G",
+    "station": "indira-point-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     93.04833,
+     8.45667
+    ]
+   },
+   "properties": {
+    "name": "Chowra Island",
+    "code": "B",
+    "station": "chowra-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.81633,
+     18.87933
+    ]
+   },
+   "properties": {
+    "name": "Prongs Reef",
+    "code": "G",
+    "station": "prongs-reef-lighthouse",
+    "pos_src": "DGLL RACON list"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.10733,
+     19.12317
+    ]
+   },
+   "properties": {
+    "name": "BLQ II (Bassein Field) BE 19 °07.39’ N 72°06.44’ E",
+    "code": "C",
+    "station": null,
+    "pos_src": "parsed from the DGLL name"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.334,
+     18.80683
+    ]
+   },
+   "properties": {
+    "name": "Neelam (Heera Field) NLM-11 18 °48.41’ N 72°20.04’ E",
+    "code": "G",
+    "station": null,
+    "pos_src": "parsed from the DGLL name"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.28186,
+     19.29261
+    ]
+   },
+   "properties": {
+    "name": "SHQ (South Field) WI – 10 . 19 °17’33.41” N 71°16’54.7” E",
+    "code": "D",
+    "station": null,
+    "pos_src": "parsed from the DGLL name"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.29617,
+     19.63067
+    ]
+   },
+   "properties": {
+    "name": "WIN (North Field) WI-219 °37.84’ N 71°17.77’ E",
+    "code": "B",
+    "station": null,
+    "pos_src": "parsed from the DGLL name"
+   }
+  }
+ ]
+}

@@ -15,3 +15,13 @@ raw/splats/*/images/
 raw/splats/*/work/
 raw/splats/*/*.ply
 web/splats/
+# logs, local tooling, release staging
+*.log
+nohup.out
+.claude/
+CLAUDE.md
+.env
+.venv/
+release/
+build/tender_pages/
+build/tender_text/
