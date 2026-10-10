@@ -17,7 +17,7 @@ const MAX_WIDTH = matchMedia('(min-width:821px)').matches ? 1280 : 960;
 const CODECS = ['avc1.640028', 'avc1.4d0028', 'avc1.42003c', 'avc1.42E01E'];
 const CREDIT = 'maps.reclaimchennai.city/lighthouses · DGLL Master Ledgers · Lok Sabha · © OpenStreetMap, OpenFreeMap · Natural Earth · DataMeet';
 
-export function createCapture({ map, cropLeft, year, subtitle, onState, legend, onMedia }) {
+export function createCapture({ map, cropLeft, year, subtitle, onState, legend, onMedia, overlay, labels = true }) {
   const comp = document.createElement('canvas');
   let recording = null;
   const fade = new Map(), lastItem = new Map();     // legend rows fade in and out over a few video frames
@@ -47,7 +47,7 @@ export function createCapture({ map, cropLeft, year, subtitle, onState, legend, 
     const k = w / (cssW - (cropLeft() || 0));
     ctx.textAlign = 'center';
     ctx.textBaseline = 'alphabetic';
-    for (const el of document.querySelectorAll('#labels .lab')) {
+    for (const el of labels ? document.querySelectorAll('#labels .lab') : []) {
       const x = (parseFloat(el.style.left) - (cropLeft() || 0)) * k, y = parseFloat(el.style.top) * k;
       if (!(x > 0 && x < w && y > 0 && y < h)) continue;
       const major = el.classList.contains('major');
@@ -73,6 +73,7 @@ export function createCapture({ map, cropLeft, year, subtitle, onState, legend, 
     ctx.shadowBlur = 0;
 
     drawLegend(ctx, legend ? legend() : [], h, s, instant);
+    if (overlay) overlay(ctx, w, h, s);          // e.g. the film's info box
 
     // credit band
     ctx.fillStyle = '#0a0f15';
@@ -258,5 +259,6 @@ export function createCapture({ map, cropLeft, year, subtitle, onState, legend, 
     if (!ok) onState({ note: 'The recording failed in this browser. The picture button still works.', warn: true });
   }
 
-  return { snapshot, toggleRecording, get recording() { return !!recording; }, maxSeconds: MAX_SECONDS };
+  // one composite frame, for the scripted film (js/film.js), which steps its own clock and needs no live loop
+  return { snapshot, toggleRecording, frame: instant => draw(instant), get recording() { return !!recording; }, maxSeconds: MAX_SECONDS };
 }

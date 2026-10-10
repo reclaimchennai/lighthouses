@@ -3,7 +3,7 @@
 import * as THREE from 'three';
 // ?v= on every module: Cloudflare caches .js for ~4 h, and a fresh app.js must never meet a stale layer3d.js
 import { LighthouseLayer, COLOURS, lightLevel, morsePhases } from './layer3d.js?v=11';
-import { createCapture } from './record.js?v=9';
+import { createCapture } from './record.js?v=11';
 import { openRecord } from './dossier.js?v=1';
 import { mountScene } from './scenes.js?v=2';
 import { towerSpec } from './models.js?v=3';
@@ -20,6 +20,8 @@ const fmt = (v, d = 0) => v == null ? '–' : Number(v).toLocaleString('en-IN', 
 const desktop = matchMedia('(min-width:821px)').matches;
 const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;   // camera jumps instead of flying
 const SHEET_PEEK = 88;                     // collapsed bottom-sheet height on phones
+const FILM = new URLSearchParams(location.search).has('film');   // scripted film mode (js/film.js), driven by scripts/film.mjs
+var filmOverlay = null, filmSubtitle = null;
 const PIXEL_RATIO = 0.5;                   // map buffer pixels per CSS pixel: every map pixel is a 2×2 block
 
 const VIEWS = {
@@ -88,11 +90,11 @@ const map = new maplibregl.Map({
   style: { version: 8, glyphs: 'https://tiles.openfreemap.org/fonts/{fontstack}/{range}.pbf', sources: {},
            layers: [{ id: 'bg', type: 'background', paint: { 'background-color': '#05080c' } }] },
   // free 3D exploration: tilt almost to the horizon, rotate, and roll (Ctrl + drag)
-  ...VIEWS.india, minZoom: 2.8, maxZoom: 16.5, maxPitch: 85, rollEnabled: true,
+  ...VIEWS.india, minZoom: 2.8, maxZoom: FILM ? 19.5 : 16.5, maxPitch: 85, rollEnabled: true,
   maxBounds: [[52, -8], [108, 34]], renderWorldCopies: false, attributionControl: false,
   // Pixel art: the whole map (coast, beams, waves, voxel towers) renders at half resolution and
   // is scaled up without smoothing (.maplibregl-canvas { image-rendering: pixelated }).
-  pixelRatio: PIXEL_RATIO,
+  pixelRatio: PIXEL_RATIO, fadeDuration: FILM ? 0 : 300,   // a scripted film steps its own clock, so nothing may fade
   // preserveDrawingBuffer: pictures and videos read the WebGL canvas back (record.js)
   canvasContextAttributes: { antialias: true, preserveDrawingBuffer: true },
 });
@@ -1247,9 +1249,11 @@ function mediaLegend() {
 {
   const capture = createCapture({
     map,
-    cropLeft: () => (desktop ? 340 : 0),                  // the desktop panel covers the map's left edge
+    cropLeft: () => (desktop && !FILM ? 340 : 0),                  // the desktop panel covers the map's left edge
     year: () => $('#wm-year').textContent,
-    subtitle: () => (!$('#history-caption').hidden && $('#history-caption').textContent) || 'Lighthouses of India',
+    overlay: (...a) => filmOverlay && filmOverlay(...a),
+    labels: !FILM,                                          // the film names each light in its info box
+    subtitle: () => (filmSubtitle && filmSubtitle()) || (!$('#history-caption').hidden && $('#history-caption').textContent) || 'Lighthouses of India',
     legend: mediaLegend,
     // pictures and videos open in the viewer first: look, then save or share
     onMedia: m => openViewer({ title: m.kind === 'image' ? 'Picture of the map' : 'Video of the map', subtitle: m.name,
@@ -1274,6 +1278,10 @@ function mediaLegend() {
     },
   });
   $('#cap-shot').onclick = () => capture.snapshot();
+  if (FILM) import('./film.js?v=4').then(m => m.init({
+    map, layer, S, byId, capture, setLayerOn, seaBearing, maplibregl,
+    onOverlay: f => { filmOverlay = f; }, onSubtitle: f => { filmSubtitle = f; },
+  }));
   $('#cap-rec').onclick = () => { if (!desktop) setSheet(false); capture.toggleRecording(); };
 }
 
