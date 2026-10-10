@@ -51,7 +51,7 @@ export function createCapture({ map, cropLeft, year, subtitle, onState, legend, 
       const x = (parseFloat(el.style.left) - (cropLeft() || 0)) * k, y = parseFloat(el.style.top) * k;
       if (!(x > 0 && x < w && y > 0 && y < h)) continue;
       const major = el.classList.contains('major');
-      ctx.font = `${major ? 600 : 400} ${Math.round((major ? 12 : 11) * k)}px "LH Digits", "Pixelify Sans", monospace`;
+      ctx.font = `${major ? 600 : 400} ${Math.round((major ? 12 : 11) * k)}px Inter, system-ui, sans-serif`;
       ctx.lineWidth = 3 * k; ctx.strokeStyle = 'rgba(0,0,0,.85)';
       const ty = y - 10 * k;
       ctx.strokeText(el.textContent, x, ty);
@@ -65,9 +65,9 @@ export function createCapture({ map, cropLeft, year, subtitle, onState, legend, 
     const s = Math.max(0.8, w / 900);
     ctx.shadowColor = 'rgba(0,0,0,.8)'; ctx.shadowBlur = 8 * s;
     ctx.fillStyle = '#ffffff';
-    ctx.font = `600 ${Math.round(34 * s)}px "LH Digits", "Pixelify Sans", monospace`;
+    ctx.font = `600 ${Math.round(34 * s)}px "Pixelify Sans", Inter, sans-serif`;
     ctx.fillText(String(year()), Math.round(18 * s), Math.round(16 * s));
-    ctx.font = `400 ${Math.round(12 * s)}px "LH Digits", "Pixelify Sans", monospace`;
+    ctx.font = `400 ${Math.round(12 * s)}px Inter, system-ui, sans-serif`;
     ctx.fillStyle = 'rgba(255,255,255,.8)';
     ctx.fillText(subtitle(), Math.round(19 * s), Math.round(56 * s));
     ctx.shadowBlur = 0;
@@ -79,7 +79,7 @@ export function createCapture({ map, cropLeft, year, subtitle, onState, legend, 
     ctx.fillRect(0, h, comp.width, comp.height - h);
     ctx.fillStyle = '#8e99a4';
     ctx.textBaseline = 'middle';
-    ctx.font = `400 ${Math.round(12 * s)}px "LH Digits", "Pixelify Sans", monospace`;
+    ctx.font = `400 ${Math.round(12 * s)}px Inter, system-ui, sans-serif`;
     ctx.fillText(CREDIT, Math.round(14 * s), h + (comp.height - h) / 2, comp.width - 28 * s);
     return comp;
   }
@@ -101,7 +101,7 @@ export function createCapture({ map, cropLeft, year, subtitle, onState, legend, 
     const rows = [...fade.entries()].map(([id, a]) => [lastItem.get(id), a]).filter(r => r[0]);
     if (!rows.length) return;
     const fs = Math.round(11 * s), rh = Math.round(18 * s), pad = Math.round(8 * s), sw = Math.round(24 * s), u = 4 * s;
-    ctx.font = `400 ${fs}px "LH Digits", "Pixelify Sans", monospace`;
+    ctx.font = `400 ${fs}px Inter, system-ui, sans-serif`;
     ctx.textBaseline = 'middle'; ctx.textAlign = 'left';
     const tw = Math.max(...rows.map(([it]) => ctx.measureText(it.label).width));
     const bw = Math.round(pad * 2 + sw + tw), bh = Math.round(pad * 2 + rh * rows.length);

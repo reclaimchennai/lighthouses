@@ -3,7 +3,7 @@
 import * as THREE from 'three';
 // ?v= on every module: Cloudflare caches .js for ~4 h, and a fresh app.js must never meet a stale layer3d.js
 import { LighthouseLayer, COLOURS, lightLevel, morsePhases } from './layer3d.js?v=11';
-import { createCapture } from './record.js?v=8';
+import { createCapture } from './record.js?v=9';
 import { openRecord } from './dossier.js?v=1';
 import { mountScene } from './scenes.js?v=2';
 import { towerSpec } from './models.js?v=3';
