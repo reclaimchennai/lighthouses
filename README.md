@@ -169,6 +169,7 @@ Files too large for the repository are attached to [releases](https://github.com
 | `station_photos_original.zip` | Original station photos (DGLL and Wikimedia Commons; see `data/photos.csv`) |
 | `basemap_sources.zip` | Natural Earth and DataMeet layers used to build the basemap and land mask |
 | `map_recordings_mp4.zip` | Full-length screen recordings of the map |
+| `lighthouses-of-tamil-nadu.mp4` | 2 min 45 s film: a close-up of each of Tamil Nadu's 23 lights with an info box (dates, rebuilds, optic, range, radio aids) |
 
 ## 3D scans
 
@@ -233,3 +234,12 @@ not for navigation: use official charts and Notices to Mariners. Corrections are
 [issues](https://github.com/reclaimchennai/lighthouses/issues).
 
 Made by [Reclaim Chennai](https://github.com/reclaimchennai).
+
+## Films
+
+`scripts/film.mjs` renders a scripted tour of the map (`web/js/film.js`, opened with `?film`) frame by frame in
+headless Chrome against a virtual clock, so every frame has its tiles and 3D buildings loaded however slowly a
+GPU-less server draws it (about 2 s a frame). `scripts/film_encode.sh` turns the frames into an H.264 MP4. Each frame
+is the same composite as a saved picture (names, year, legend, credit band) with the info box added.
+The Tamil Nadu film lists its lights in `TAMIL_NADU` and one line of history for each in `NOTES`, both in `film.js`;
+change those to film another coast. Karaikal and Puducherry are in the Union Territory, so they are not in it.
