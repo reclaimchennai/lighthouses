@@ -65,7 +65,7 @@ export function createCapture({ map, cropLeft, year, subtitle, onState, legend, 
     const s = Math.max(0.8, w / 900);
     ctx.shadowColor = 'rgba(0,0,0,.8)'; ctx.shadowBlur = 8 * s;
     ctx.fillStyle = '#ffffff';
-    ctx.font = `600 ${Math.round(34 * s)}px "Pixelify Sans", Inter, sans-serif`;
+    ctx.font = `600 ${Math.round(34 * s)}px "LH Digits", "Pixelify Sans", monospace`;
     ctx.fillText(String(year()), Math.round(18 * s), Math.round(16 * s));
     ctx.font = `400 ${Math.round(12 * s)}px Inter, system-ui, sans-serif`;
     ctx.fillStyle = 'rgba(255,255,255,.8)';

@@ -3,7 +3,7 @@
 import * as THREE from 'three';
 // ?v= on every module: Cloudflare caches .js for ~4 h, and a fresh app.js must never meet a stale layer3d.js
 import { LighthouseLayer, COLOURS, lightLevel, morsePhases } from './layer3d.js?v=11';
-import { createCapture } from './record.js?v=11';
+import { createCapture } from './record.js?v=12';
 import { openRecord } from './dossier.js?v=1';
 import { mountScene } from './scenes.js?v=2';
 import { towerSpec } from './models.js?v=3';
@@ -1278,7 +1278,7 @@ function mediaLegend() {
     },
   });
   $('#cap-shot').onclick = () => capture.snapshot();
-  if (FILM) import('./film.js?v=4').then(m => m.init({
+  if (FILM) import('./film.js?v=5').then(m => m.init({
     map, layer, S, byId, capture, setLayerOn, seaBearing, maplibregl,
     onOverlay: f => { filmOverlay = f; }, onSubtitle: f => { filmSubtitle = f; },
   }));

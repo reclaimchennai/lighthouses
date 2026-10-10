@@ -212,7 +212,7 @@ export function init({ map, layer, S, byId, capture, setLayerOn, seaBearing, onO
         if (layer.towersBuilt && map.loaded()) break;
         await sleep(100);
       }
-      await Promise.all(['600 20px "Pixelify Sans"', '700 20px "Pixelify Sans"', '400 12px Inter', '500 12px Inter', '600 12px Inter', '700 12px Inter'].map(f => document.fonts.load(f)));
+      await Promise.all(['600 34px "LH Digits"', '600 20px "Pixelify Sans"', '700 20px "Pixelify Sans"', '400 12px Inter', '500 12px Inter', '600 12px Inter', '700 12px Inter'].map(f => document.fonts.load(f)));
       map.setPadding({ left: 0, right: 0, top: 0, bottom: 0 });
       setLayerOn('#l-racon', 'racon', true); setLayerOn('#l-navtex', 'navtex', true);
       setLayerOn('#l-towers', 'towers', true); setLayerOn('#l-beams', 'beams', true);
